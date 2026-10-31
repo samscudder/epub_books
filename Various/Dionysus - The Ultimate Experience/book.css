@@ -1,0 +1,102 @@
+body { font-family: serif; font-size: 1em; orphans: 0; widows: 0; }
+
+p { text-indent: 1.3em; text-align: justify; margin: 0; line-height: 1.2;}
+h1 { font-size: 1.5em; font-weight: normal; text-align: center; margin-bottom: 0;}
+h2 { font-size: 2em; padding-top: 1.5em; font-weight: normal; text-align: center; font-family: sans-serif; line-height: 1.2;}
+.h3 { font-weight: normal; font-family: sans-serif; text-align: center; margin-top: 0;}
+h4 {text-align: center; font-weight: normal; font-size: 1em; }
+h5 {font-size: 18pt; font-weight: normal; text-align: center; font-family: sans-serif;}
+
+.hr { width: 100%; margin: 15px 0 5px 0; height: 1px; background-color: black; }
+
+.author { font-size: 1rem !important; text-align: left; }
+
+.copyright { font-size: .8em; line-height: 1.3; }
+
+a { color: black; text-decoration: none; }
+.dinkus { text-align: center; text-indent: 0; margin-top: 1em; letter-spacing: 2em;}
+
+.title_page h1 { font-size: 2rem; text-align: left;}
+.title_page p { text-indent: 0; }
+
+.blurb p { font-style: normal; font-family: serif; text-indent: 0; margin-top: 1.5em; padding-left: 10%; padding-right: 10%; }
+
+#dedication { margin-top: 2em; padding-top: 3.5em;}
+#dedication p {text-align: center; line-height: 2em; text-indent: 0;}
+#publisher {margin: 0 0 0 0; padding: 0 10% 0 10%; line-height: 1.2em;}
+#publisher p {text-indent: 0; margin-top: 0; font-size: 0.8em; text-align: center;}
+/* special styles */
+.quote { text-indent: 0px; padding-left: 30px; margin-top: 1em; margin-bottom: 1em; }
+.smallcaps {font-variant: small-caps;}
+sub {font-size: 60%;}
+.itshape p {font-style: italic;}
+#pubdedic {margin-bottom: 2em;}
+#pubdedic p {font-size: 1em;}
+#caveat {border-top-style:solid; margin-top: 1em; padding-top: 3.5em;}
+#caveat p {text-align: center; text-indent: 0; margin-top: 1em;}
+.center { text-align: center;}
+
+#coverc { width: 450px; margin: auto; }
+#cover { width: 900px; margin: auto; color: white; background-color: black; }
+#coverw { width: 900px; margin: auto; }
+#frontcover { float: left; width: 450px; font-size: 12px; }
+
+.rearcover p { margin-top: 1em; line-height: 100%;
+	font-family: sans-serif;
+	font-weight: normal;
+	margin-bottom: 5px;
+	text-align: center;
+	text-indent: 0;
+}
+.rearcover .title { font-size: 3em; font-weight: bold; margin: 0 0 0 0; padding:0 0 0 0; font-family: serif; font-style: normal; border-style: none; text-align: center; line-height: 100%; }
+
+.rearcovercw { width: 400px; margin: auto; height: 640px; margin-top: 15px; line-height: 130%;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 13px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.isbn {
+	margin-top: 15px;
+	padding: 0px;
+	text-align: right;
+	font-family: "OCR-B-10 BT", Arial, sans-serif;
+	text-indent: 0px;
+	font-size: .7em;
+}
+
+.thin { margin-left: 5%; margin-right: 5%; }
+.thinfl { margin-left: 5%; margin-right: 5%; text-indent: 0px; margin-top: 20px; }
+.error { background-color: yellow; }
+.book { width: 450px; margin: auto; }
+.a1 { text-indent: 0px; font-size: 15px; }
+.a2 { text-indent: 0px; font-size: 14px; }
+.a3 { text-indent: 0px; font-size: 13px; }
+.a4 { text-indent: 0px; font-size: 12px; }
+.a4r { text-indent: 0px; font-size: 12px; text-align: right; }
+.a5 { text-indent: 0px; font-size: 11px; }
+.a6 { text-indent: 0px; font-size: 10px; }
+.a7 { text-indent: 0px; font-size: 9px; }
+.a8 { text-indent: 0px; font-size: 8px; }
+.a9 { text-indent: 0px; font-size: 7px; }
+
+.ul { text-decoration: underline; }
+.ol { font-size: 2em; border-top: 1px solid black; padding-top: .3em;}
+.box { margin: auto; display: block; width: 300px; background-color: #808080; text-align:center; }
+
+.fl { text-indent: 0px; margin-top: 1.2em; }
+.noindent { text-indent: 0px; }
+.script p { text-indent: 0px; margin-top: 1.2em; }
+.space { margin-top: 1.5em; }
+.big_space { margin-top: 3rem; }
+.bigger_space { margin-top: 6rem; }
+
+aside p { text-indent: 0;}
+.footnote { font-size: 0.8em; }
+
+.terminal { font-family: Microscan-A, monospace; letter-spacing: 0px; font-size: 15px; text-align: left; }
+
+#toc ol { list-style-type: none; margin: 1em 0 1em 0; }
+#toc a { text-decoration: none; }

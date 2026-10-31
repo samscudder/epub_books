@@ -1,0 +1,23 @@
+body { font-family: serif; font-size: 1em; }
+
+h1 { text-align: center; font-family: serif; font-size: 3em; font-weight: normal; margin: 0; padding-bottom: 1em;}
+h2 { text-align: center; font-weight: normal; padding-top: 2em; padding-bottom: 1em; }
+h3 { text-align: center; font-family: serif; font-size: 1.5em; font-weight: normal; margin: 0;}
+h4 { text-align: center; border: 0px; padding: 0px; margin: 0 0 0 0; font-size: 12pt; font-weight: normal; }
+
+p { border: 0em; padding: 0em; margin: 0 0 0 0; text-indent: 1em; text-align: justify; line-height: 1.3em;}
+
+a { color: blue; }
+
+.center { text-align: center; }
+
+.rearcover { text-align: center; font-family: sans-serif; }
+.fl { text-indent: 0em; padding-top: 1em; }
+.noindent { text-indent: 0px; }
+.quote { width: 80%; margin: auto; padding-top: 1em; padding-bottom: 1em; }
+.copy { text-align: left; text-indent: 0px; }
+.toc { margin-left:10px; text-indent: 0px; text-align: left; }
+.thin { padding-left: 15%; padding-right: 15%; }
+
+.space { padding-top: 1em; }
+.big_space { padding-top: 3em; }
