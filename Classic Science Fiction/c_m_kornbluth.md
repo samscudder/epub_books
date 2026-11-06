@@ -1,64 +1,152 @@
 ---
-identifier: 
+identifier: best_of_c_m_kornbluth_b000
 
-title: 
+title: The Best of C. M. Kornbluth
 
-creator: 
+creator: C. M. Kornbluth
 
-cover: 
+cover: c_m_kornbluth.jpg
 
-css: 
+css: classic_science_fiction.css
 
 language: en-US
 
-publisher: 
+publisher: Ballantine Books
 
-subject: 
+subject: Science Fiction / Anthology
 
-description: 
+description: Here in one spectacular volume are the 20 most brilliant stories of the extraordinary writer who interwove imagination and humor to create science-fiction tales of breathtaking amazement and sheer delight.
 ---
 
 rearcover
 
-Once in Trouble with Amy . . .
+.center
+![THE WONDER OF C. M. KORNBLUTH](c_m_kornbluth_r.png)
 
-Smith's flight had days before slowed to a walk and then to a crawl, but still he moved, a speck of gray, across the vast and featureless red plain of a planet not his own.
+.fl.left
+**HERE IN ONE SPECTACULAR VOLUME ARE THE 20 MOST BRILLIANT STORIES OF THE EXTRAORDINARY WRITER WHO INTERWOVE IMAGINATION AND HUMOR TO CREATE SCIENCE-FICTION TALES OF BREATHTAKING AMAZEMENT AND SHEER DELIGHT.**
 
-The posse, imaginary and terrible, faded from front to rear. There were images of his first commercial venture, the hijacking job: a truck driver with his chest burned out. . . a faceless cop . . . the twelve-man crew of a pirated light* er marching in military formation; and they bled ceaselessly as people do when shot into space without helmets.
+.subtitle
+• THE LITTLE BLACK BAG
 
-These he could bear, but somehow. Smith did not like to look at the leader of the posse. It was odd, but he did not like to look at her. She had no business there. Amy was alive. He had not killed her!
+.smaller
+Medical instruments from the future had turned an old quack into a miracle worker . . . until his nurse joined the operation!
 
-But Amy knew differently—and Amy was entitled to a special revenge. . ..
+.subtitle
+• THE SILLY SEASON
 
-Watch for all the volumes in Ballantine's Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book in the series is introduced by a well-known science fiction writer or by a distinguished critic.
+.smaller
+When there was no news it was up to the newsmen to invent it, but when the inventions went too facr, there was trouble!
 
-NOW AVAILABLE IN A BALLANTINE EDITION:
+.subtitle
+• GOMEZ
 
-The Best of Stanley G. Weinbaum
+.smaller
+He was a 17-year-old Puerto Rican dishwasher with a gift for atomic physics that could turn top secrets inside out!
 
-Introduction by Isaac Asimov The Best of Fritz Leiber Introduction by Pouf Anderson The Best of Frederik Pohl Introduction by Lester del Rey The Best of Henry Kuttner Introduction by Ray Bradbury The Best of Cordwainer Smith Introduction by J. J. Pierce The Best of C. L. Moore Introduction by Lester del Rey The Best of John W. Campbell Introduction by Lester del Rey
+.subtitle
+• THE MARCHING MORONS
 
-VOLUMES IN PREPARATION:
+.smaller
+An impacted wisdom tooth hod led John Barlow to a state of suspended animation . . . and a dangerous awakening in a dumb new world!
 
-The Best of L. Sprague de Camp
+.subtitle
+• FRIEND TO MAN
 
-Introduction by Pouf Anderson The Best of Raymond Z. Gallun Introduction by Frederik Pohl The Best of Edmond Hamilton Introduction by Leigh Brackett The Best of Leigh Brackett Introduction by Edmond Hamilton The Best of Murray Leinster Introduction by J. J. Pierce The Best of Philip K. Dick Introduction by John Brunner The Best of Fredric Brown Introduction by Robert Bloch The Best of Robert Bloch Introduction by Lester del Rey
+.smaller
+He was a fugitive on an alien planet, being pursued by a posse of the dead in his mind!
 
-COMING SOONFROM BALLANTINE BOOKS
+.fl.left
+AND 15 MORE MEMORABLE SELECTIONS . . .
+BY A MAN WHOSE ASTOUNDING STORIES HAVE ENTHRALLED MILLIONS.
 
-THE BEST OF
+---
 
-CZ. ^Zotnbitdk
+blurb
 
+.heading
+**Once in Trouble with Amy . . .**
+
+.space
+**Smith’s flight had days before slowed to a walk and then to a crawl, but still he moved, a speck of gray, across the vast and featureless red plain of a planet not his own.**
+
+.space
+**The posse, imaginary and terrible, faded from front to rear. There were images of his first commercial venture, the hijacking job: a truck driver with his chest burned out . . . a faceless cop . . . the twelve-man crew of a pirated lighter marching in military formation; and they bled ceaselessly as people do when shot into space without helmets.**
+
+.space
+**These he could bear, but somehow. Smith did not like to look at the leader of the posse. It was odd, but he did not like to look at her. She had no business there. Amy was alive. He had not killed her!**
+
+.space
+***But Amy knew differently—and Amy was entitled to a special revenge. . . .***
+
+---
+
+other_books
+
+.noindent
+**Watch for all the volumes in Ballantine’s Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book in the series is introduced by a well-known science fiction writer or by a distinguished critic.**
+
+.space.center
+**NOW AVAILABLE IN A BALLANTINE EDITION:**
+
+.center
+**The Best of Stanley G. Weinbaum**
+*Introduction by Isaac Asimov*
+**The Best of Fritz Leiber**
+*Introduction by Poul Anderson*
+**The Best of Frederik Pohl**
+*Introduction by Lester del Rey*
+**The Best of Henry Kuttner**
+*Introduction by Ray Bradbury*
+**The Best of Cordwainer Smith**
+*Introduction by J. J. Pierce*
+**The Best of C. L. Moore**
+*Introduction by Lester del Rey*
+**The Best of John W. Campbell**
+*Introduction by Lester del Rey*
+
+.space.center
+**VOLUMES IN PREPARATION:**
+
+.center
+**The Best of L. Sprague de Camp**
+*Introduction by Poul Anderson*
+**The Best of Raymond Z. Gallun**
+*Introduction by J. J. Pierce*
+**The Best of Edmond Hamilton**
+*Introduction by Leigh Brackett*
+**The Best of Murray Leinster**
+*Introduction by J. J. Pierce*
+**The Best of Philip K. Dick**
+*Introduction by John Brunner*
+**The Best of Fredric Brown**
+*Introduction by Robert Bloch**
+***The Best of Robert Bloch**
+*Introduction by Lester del Rey*
+
+.center
+**COMING SOON FROM BALLANTINE BOOKS**
+
+---
+
+titlepage
+
+# THE BEST OF<br />*C. M. Kornbluth*
+
+.editor
 Edited and with an introduction by
-
 FREDERIK POHL
 
+.big_space.center
 BALLANTINE BOOKS • NEW YORK
 
-Copyright © 1976 by Mary Kombluth, John Kombluth and David Kombluth
+---
 
-Introduction: An Appreciation Copyright © 1976 by Frederik Pohl
+copyright
+
+Copyright © 1976 by Mary Kornbluth, John Kornbluth and David Kornbluth
+
+Introduction: *An Appreciation* Copyright © 1976 by Frederik Pohl
 
 All rights reserved under International and Pan-American Copyright Conventions. Published in the United States by Ballantine Books, a division of Random House, Inc., New York, and simultaneously in Canada by Ballantine Books of Canada, Ltd, Toronto, Canada.
 
@@ -74,111 +162,140 @@ First Edition: January 1977
 
 Cover art by Dean Ellis
 
-“The Rocket of 1955," copyright © 1941 by Albing Publications for Stirring Science Stories, April 1941.
+---
 
-“The Words of Guru," copyright © 1941 by Albing Publications for Stirring Science Stories, June 1941.
+acknowledgments
 
-“The Only Thing We Learn," copyright © 1949 by Better Publications, Inc., for Startling Stories, July 1949.
+.center
+ACKNOWLEDGMENTS
 
-“The Adventurer,” copyright © 1953 by Space Publications, Inc., for Space Science Fiction, May 1953.
+.space.revindent
+“The Rocket of 1955,” copyright © 1941 by Albing Publications for *Stirring Science Stories*, April 1941.
 
-“The Little Black Bag," copyright © 1950 by Street and Smith Publications for Astounding Science Fiction, July 1950.
+.revindent
+“The Words of Guru,” copyright © 1941 by Albing Publications for *Stirring Science Stories*, June 1941.
 
-“The Luckiest Man in Denv," copyright © 1952 by Galaxy Publishing Corporation for Galaxy Science Fiction, June 1952.
+.revindent
+“The Only Thing We Learn,” copyright © 1949 by Better Publications, Inc., for *Startling Stories*, July 1949.
 
-“The Silly Season,” copyright © 1950 by Fantasy House, Inck, for The Magazine of Fantasy and Science Fiction, Fall 1950.
+.revindent
+“The Adventurer,” copyright © 1953 by Space Publications, Inc., for *Space Science Fiction*, May 1953.
 
-“The Remorseful," copyright © 1953 by Ballantine Books, Inc.
+.revindent
+“The Little Black Bag,” copyright © 1950 by Street and Smith Publications for *Astounding Science Fiction*, July 1950.
 
-“Gomez," copyright © 1955 for New Worlds #32, February 1955.
+.revindent
+“The Luckiest Man in Denv,” copyright © 1952 by Galaxy Publishing Corporation for *Galaxy Science Fiction*, June 1952.
 
-“The Advent on Channel 12," copyright © 1958 by Ballantine Books, Inc.
+.revindent
+“The Silly Season,” copyright © 1950 by Fantasy House, Inck, for *The Magazine of Fantasy and Science Fiction*, Fall 1950.
 
-“The Marching Morons," copyright © 1951 by World Editions, Inc., for Galaxy Science Fiction, April 1951.
+.revindent
+“The Remorseful,” copyright © 1953 by Ballantine Books, Inc.
 
-The Last Man Left in the Bar," copyright © 1957 by Royal Publications, Inc., for Infinity Science Fiction, October 1957.
+.revindent
+“Gomez,” copyright © 1955 for New Worlds #32, February 1955.
 
-“The Mindworm," copyright © 1950 by Hillman Periodicals, Inc., for Worlds Beyond, December 1950.
+.revindent
+“The Advent on Channel 12,” copyright © 1958 by Ballantine Books, Inc.
 
-“With These Hands," copyright © 1951 by Galaxy Publishing Corporation for Galaxy Science Fiction, December 1951.
+.revindent
+“The Marching Morons,” copyright © 1951 by World Editions, Inc., for *Galaxy Science Fiction*, April 1951.
 
-“Shark Ship," copyright © 1953 by Vanguard Science Fiction Corporation.
+.revindent
+“The Last Man Left in the Bar,” copyright © 1957 by Royal Publications, Inc., for *Infinity Science Fiction*, October 1957.
 
-“Friend to Man," copyright © 1951 by Avon Periodicals, Ino, for 10 Story Fantasy, Spring 1951.
+.revindent
+“The Mindworm,” copyright © 1950 by Hillman Periodicals, Inc., for *Worlds Beyond*, December 1950.
 
-“The Altar at Midnight," copyright © 1952 by Galaxy Publishing Corporation for Galaxy Science Fiction, November 1952.
+.revindent
+“With These Hands,” copyright © 1951 by Galaxy Publishing Corporation for *Galaxy Science Fiction*, December 1951.
 
-“Dominoes," copyright © 1953 by Ballantine Books, Inc.
+.revindent
+“Shark Ship,” copyright © 1953 by Vanguard Science Fiction Corporation.
 
-“Two Dooms," copyright © 1958 by Mercury Press, Inc., for Venture Science Fiction, July 1958.
+.revindent
+“Friend to Man,” copyright © 1951 by Avon Periodicals, Ino, for *10 Story Fantasy*, Spring 1951.
 
-Contents
+.revindent
+“The Altar at Midnight,” copyright © 1952 by Galaxy Publishing Corporation for *Galaxy Science Fiction*, November 1952.
 
-Introduction: An Appreciation Frederik Pohl	ix
+.revindent
+“Dominoes,” copyright © 1953 by Ballantine Books, Inc.
 
-The Rocket of 1955	1
+.revindent
+“Two Dooms,” copyright © 1958 by Mercury Press, Inc., for *Venture Science Fiction*, July 1958.
 
-The Words of Guru	3
+---
 
-The Only Thing We Learn	12
+contents
 
-The Adventurer	23
+# Contents
 
-The Little Black Bag	38
+[*Introduction*: An Appreciation](introduction) by Frederik Pohl
 
-The Luckiest Man in DenV	70
+[The Rocket of 1955](the_rocket_of_1955)
 
-The Silly Season	84
+[The Words of Guru](the_words_of_guru)
 
-The Remorseful	100
+[The Only Thing We Learn](the_only_thing_we_learn)
 
-Gomez	107
+[The Adventurer](the_adventurer)
 
-The Advent on Channel 12	135
+[The Little Black Bag](the_little_black_bag)
 
-The Marching Morons	138
+[The Luckiest Man in Denv](the_luckiest_man_in_denv)
 
-The Last Man Left in the Bar	172
+[The Silly Season](the_silly_season)
 
-The Mindworm	185
+[The Remorseful](the_remorseful)
 
-With These Hands	200
+[Gomez](gomez)
 
-Shark Ship	220
+[The Advent on Channel 12](the_advent_on_channel_12)
 
-Friend to Man	257
+[The Marching Morons](the_marching_morons)
 
-The Altar at Midnight	266
+[The Last Man Left in the Bar](the_last_man_left_in_the_bar)
 
-Dominoes	274
+[The Mindworm](the_mindworm)
 
-Two Dooms	284
+[With These Hands](with_these_hands)
 
-About the Author	337
+[Shark Ship](shark_ship)
 
-An Appreciation
+[Friend to Man](friend_to_man)
 
-Cyril Kornbluth was my friend from the time we were both in our middle teens until the day of his death, and for most of that time we were collaborators as well.
+[The Altar at Midnight](the_altar_at_midnight)
 
-It isn’t easy for me to speak of him objectively. A collaboration is too close a relationship for impersonal appraisal. And yet I have no doubt that Kornbluth's work deserves critical study. From first to last, it was lucid, inventive, economical, and informed. Cyril was a wise as well as a talented man.
+[Dominoes](dominoes)
 
-He was also a sardonic soul. The comedy present in almost everything he wrote relates to the essential hypocrisies and foolishnesses of mankind. His target was not always Man in the abstract and general. Sometimes it was one particular man, or woman, thinly disguised as a character in a story—and thinly sliced, into quivering bits. Once or twice it was me. Cyril and I were good friends, but there was too much ego in both of our cosmoses for the relationship to be always tranquil. We had our differences, and one of the periods when we were having them coincided with his writing the novel Gunner Cade, in collaboration with Judith Merril. There is a character in the book who is pitifully corrupt and whiningly ineffectual. It is not an accident that the character’s name is what Judy’s first daughter called me when she was first learning to talk: Thread wick.
+[Two Dooms](two_dooms)
+
+[*About the Author*](about_the_author)
+
+---
+
+introduction
+
+# An Appreciation
+
+.fl
+<span class="smallcaps">Cyril Kornbluth</span> was my friend from the time we were both in our middle teens until the day of his death, and for most of that time we were collaborators as well.
+
+It isn’t easy for me to speak of him objectively. A collaboration is too close a relationship for impersonal appraisal. And yet I have no doubt that Kornbluth’s work deserves critical study. From first to last, it was lucid, inventive, economical, and informed. Cyril was a wise as well as a talented man.
+
+He was also a sardonic soul. The comedy present in almost everything he wrote relates to the essential hypocrisies and foolishnesses of mankind. His target was not always Man in the abstract and general. Sometimes it was one particular man, or woman, thinly disguised as a character in a story—and thinly sliced, into quivering bits. Once or twice it was me. Cyril and I were good friends, but there was too much ego in both of our cosmoses for the relationship to be always tranquil. We had our differences, and one of the periods when we were having them coincided with his writing the novel *Gunner Cade*, in collaboration with Judith Merril. There is a character in the book who is pitifully corrupt and whiningly ineffectual. It is not an accident that the character’s name is what Judy’s first daughter called me when she was first learning to talk: Thread wick.
 
 Cyril’s total catalogue comprises about a dozen novels and about fifty shorter stories, alone or in collaboration. Nearly all were science fiction. Of the novels, seven were done with me and two with Judith Merril (in one of which I had some slight part).
 
-Of his own science-fiction novels, there were three. The first was Takeoff. Events have outrun Takeoff—it is about the machinations by which the first manned launch into
+Of his own science-fiction novels, there were three. The first was *Takeoff*. Events have outrun *Takeoff*—it is about the machinations by which the first manned launch into space occurs—and so it is not widely read these days; but it is a good story, and parts of it are brilliant. I remember Cyril writing it. Walter Bradbury, then the science-fiction editor at Doubleday, read the first couple of chapters and liked them; he offered Cyril a contract on condition that he write an outline of the balance of the book, preferably over the weekend, so that Brad could present it at the Doubleday editorial conference on Monday morning. Cyril wanted the contract but he didn’t want to write outlines, then or ever; so he took his typewriter to the Hotel Latham on East Twenty-eighth Street in New York, holed up in a tiny attic room next to the elevators (I know the room well; I’ve used it myself from time to time) and wrote the balance of the novel in seventy-two sleepless hours.
 
-U
-
-space occurs—and so it is not widely read these days; but it is a good story, and parts of it are brilliant. I remember Cyril writing it. Walter Bradbury, then the science-fiction editor at Doubleday, read the first couple of chapters and liked them; he offered Cyril a contract on condition that he write an outline of the balance of the book, preferably over the weekend, so that Brad could present it at the Doubleday editorial conference on Monday morning. Cyril wanted the contract but he didn’t want to write outlines, then or ever; so he took his typewriter to the Hotel Latham on East Twenty-eighth Street in New York, holed up in a tiny attic room next to the elevators (I know the room well; I’ve used it myself from time to time) and wrote the balance of the novel in seventy-two sleepless hours.
-
-Takeoff did well, so Cyril wrote another one, The Syndic. That also did well. Then he wrote a third, Not This August, and for a while it looked as though that novel might do at least an order of magnitude better than anything of his before. To begin with, this one was not serialized in a science-fiction magazine, but in a large-circulation slick. Then the New York Sunday News took it up. Not This August is a cold-war story of the purest ray serene. The Commies have conquered America, and in the novel the Americans, with wit and spunk and good old U.S. knowhow, regather their strength and destroy the invaders. The News’s editorial writer was turned on by all this, and he devoted his whole Sunday column to a glowing plug for this real Amurrican type of book. However, the people who read News editorials apparently don't read books, for in the long run, the bottom line for Not This August was just as good as, but not visibly better than, that for Takeoff.
+*Takeoff* did well, so Cyril wrote another one, *The Syndic*. That also did well. Then he wrote a third, *Not This August*, and for a while it looked as though that novel might do at least an order of magnitude better than anything of his before. To begin with, this one was not serialized in a science-fiction magazine, but in a large-circulation slick. Then the New York Sunday *News* took it up. *Not This August* is a cold-war story of the purest ray serene. The Commies have conquered America, and in the novel the Americans, with wit and spunk and good old U.S. knowhow, regather their strength and destroy the invaders. The *News*’s editorial writer was turned on by all this, and he devoted his whole Sunday column to a glowing plug for this real Amurrican type of book. However, the people who read News editorials apparently don’t read books, for in the long run, the bottom line for *Not This August* was just as good as, but not visibly better than, that for *Takeoff*.
 
 These are good novels; but, for my taste, they are not the best there is of Cyril Kombluth. His unique contribution to science fiction is in the shorter stories. One of the words I used to describe Kornbluth’s work was “economical.” He did not ramble, and he did not digress. If he used ten words to describe a character or set a scene, every word of the ten worked.
 
-Perhaps if Kombluth's major work had been written in the 1960s and 70s instead of in the 40s and SOs he might have been corrupted, as many writers have been, by the hard market fact that it is as easy to get a novel published as a short story . . . and a novel brings in a lot more money—wherefore so many bad sf novels get published.
-
-He might have been tempted, but I don’t think so. I think Cyril was too much a craftsman to do that.
+Perhaps if Kombluth’s major work had been written in the 1960s and 70s instead of in the 40s and SOs he might have been corrupted, as many writers have been, by the hard market fact that it is as easy to get a novel published as a short story . . . and a novel brings in a lot more money—wherefore so many bad sf novels get published. He might have been tempted, but I don’t think so. I think Cyril was too much a craftsman to do that.
 
 In any case, when Cyril was writing, that particular temptation did not exist. There were many, many markets for science-fiction short stories and novelettes—something like thirty-five magazines just before his death—so he was free to write his stories to the length they themselves dictated.
 
@@ -186,51 +303,58 @@ He began by filling up the Futurian magazines (the ones edited by Donald A. Woll
 
 I had a little to do with a couple of his best stories. I say it with some pride, maybe more pride than is justified, but it is something I feel good about.
 
-Once, I think while he was still in Chicago, possibly even earlier, Cyril mentioned to me that he had thought of writing a story about medical instruments of the future coming back to the present. Years later, when Horace Gold was badgering Cyril for stories for Galaxy and Cyril complained that he couldn’t think of anything he felt like writing at that moment, I reminded him of the notion. A week later he had written “The Little Black Bag” (which, as it happened, appeared in John Campbell's Astounding instead of Horace Gold’s Galaxy anyway). I think “The Little Black Bag” is my very favorite of Cyril’s stories. It has been reprinted endlessly and adapted for TV by Rod Ser-ling, and I think it will go on for a long time.
+Once, I think while he was still in Chicago, possibly even earlier, Cyril mentioned to me that he had thought of writing a story about medical instruments of the future coming back to the present. Years later, when Horace Gold was badgering Cyril for stories for *Galaxy* and Cyril complained that he couldn’t think of anything he felt like writing at that moment, I reminded him of the notion. A week later he had written “The Little Black Bag” (which, as it happened, appeared in John Campbell’s *Astounding* instead of Horace Gold’s *Galaxy* anyway). I think “The Little Black Bag” is my very favorite of Cyril’s stories. It has been reprinted endlessly and adapted for TV by Rod Ser-ling, and I think it will go on for a long time.
 
-In it there is a throwaway scene about the human population of the future, ludicrous dummies all, and I thought they were interesting enough to deserve a story of their own. I told that to Cyril. He poured himself another shot of Hiram Walker’s Imperial—or vanilla extract, or elixir of terpin hydrate or whatever we were drinking that night— and pursed his lips. He could see doing that, he said.
+In it there is a throwaway scene about the human population of the future, ludicrous dummies all, and I thought they were interesting enough to deserve a story of their own. I told that to Cyril. He poured himself another shot of Hiram Walker’s Imperial—or vanilla extract, or elixir of terpin hydrate or whatever we were drinking that night—and pursed his lips. He could see doing that, he said. Maybe bring a man from the present into the future for contrast; but how could he get the man from the present there? “Steal,” I advised him. In the old, bad sf film *Just Imagine* the comedian, El Brendel, had gone from 1930 to 1980 simply by being hit by lightning and paralyzed for fifty years. If you’re writing farce, I said, why worry about inviting time machines? So Cyril went away, and came back with a man who had been paralyzed by a malfunction of the anesthesia systems in his dentist’s office and woke up in the future; he called the story “The Marching Morons.”
 
-Maybe bring a man from the present into the future for contrast; but how could he get the man from the present there? “Steal,” I advised him. In the old, bad sf film Just Imagine the comedian, El Brendel, had gone from 1930 to 1980 simply by being hit by lightning and paralyzed for fifty years. If you’re writing farce, I said, why worry about inviting time machines? So Cyril went away, and came back with a man who had been paralyzed by a malfunction of the anesthesia systems in his dentist’s office and woke up in the future; he called the story “The Marching Morons.”
-
-I have seen the criticism directed against “The Marching Morons," including a quite recent article that points out it is bad genetics (the plot implies that the tendency of lower-class families to be larger than upper-class ones is selective breeding for dumbness). True. But I have also had grown men say to me, with tears in their eyes, that “The Marching Morons” was the best story of any kind they had ever read, and that it had changed their lives. What the story warns against is not the degradation of the human germ plasm, but the degradation of human life, by cheapening values and substituting what is meretricious for what is true.
+I have seen the criticism directed against “The Marching Morons,” including a quite recent article that points out it is bad genetics (the plot implies that the tendency of lower-class families to be larger than upper-class ones is selective breeding for dumbness). True. But I have also had grown men say to me, with tears in their eyes, that “The Marching Morons” was the best story of any kind they had ever read, and that it had changed their lives. What the story warns against is not the degradation of the human germ plasm, but the degradation of human life, by cheapening values and substituting what is meretricious for what is true.
 
 There were more stories—many, many more, and all good. Cyril had never written better than he was writing in the 50s, right up to the day his wife called to say that he had shoveled snow out of his driveway and then run to catch a train; he had a heart attack on the station platform and died on the spot.
 
 Cyril died too young. There isn’t any doubt about that He was growing and developing every year. It’s interesting, as an intellectual exercise, to wonder what he might have written for us if he had lived a normal span.
 
-I do know some of what his intention was, and that was that a good deal of what he was intending to write would not have been science fiction. He had already published four novels of his own outside the sf field (and three in collaboration with me: Presidential Year, A Town Is Drowning, and Sorority House—the last under Cyril’s potboiler pseudonym, Jordan Park). One of his own novels was called The Naked Storm, in which a trainful of people is marooned by a blizzard in the Donner Pass. One was Valerie, about a Scottish girl accused of witchcraft in the days of the burnings. Man of Cold Rages was about an ex-dictator; Half was about a sexually incomplete man.
+I do know some of what his intention was, and that was that a good deal of what he was intending to write would not have been science fiction. He had already published four novels of his own outside the sf field (and three in collaboration with me: *Presidential Year*, *A Town Is Drowning*, and *Sorority House*—the last under Cyril’s potboiler pseudonym, Jordan Park). One of his own novels was called *The Naked Storm*, in which a trainful of people is marooned by a blizzard in the Donner Pass. One was *Valerie*, about a Scottish girl accused of witchcraft in the days of the burnings. *Man of Cold Rages* was about an ex-dictator; *Half* was about a sexually incomplete man.
 
-Except for Presidential Year and A Town Is Drowning, all had appeared tinder somewhat tongue-in-cheek pseudonyms like “Simon Eisner” and “Jordan Park,” and none had broken through the paperback-original barrier, and gained a mass readership. But Cyril had established to his own satisfaction what none of the rest of us had ever doubted, that he could write successfully in modes other than science fiction if he chose. And he chose.
+Except for *Presidential Year* and *A Town Is Drowning*, all had appeared under somewhat tongue-in-cheek pseudonyms like “Simon Eisner” and “Jordan Park,” and none had broken through the paperback-original barrier, and gained a mass readership. But Cyril had established to his own satisfaction what none of the rest of us had ever doubted, that he could write successfully in modes other than science fiction if he chose. And he chose.
 
-When he died he left two incomplete major projects that were not science fiction. One was a novel, some two hundred pages of it written, called The Crater. “The crater” was a real event of the Civil War. It took place in the fortifications outside Petersburg just before the defeat of the Confederate States, when some Pennsylvania miners used gunpowder to blow a solid hole in the Southern defenses, only to see their efforts go for nothing because of cowardice and incompetence on the part of two Union generals. And he had signed a contract for another historical novel, a good deal farther back in time; as far as I know nothing was ever put on paper.
+When he died he left two incomplete major projects that were not science fiction. One was a novel, some two hundred pages of it written, called *The Crater*. “The crater” was a real event of the Civil War. It took place in the fortifications outside Petersburg just before the defeat of the Confederate States, when some Pennsylvania miners used gunpowder to blow a solid hole in the Southern defenses, only to see their efforts go for nothing because of cowardice and incompetence on the part of two Union generals. And he had signed a contract for another historical novel, a good deal farther back in time; as far as I know nothing was ever put on paper.
 
-The Crater was a disappointment to me when I read the manuscript. It has not been published, and I suspect it never will be. Where Cyril was quicksilver bright in everything he wrote, The Crater plods. I don’t know why. I do know that he went to immense pains to research every aspect of the battle and the times; perhaps he was smothered in his research.
+*The Crater* was a disappointment to me when I read the manuscript. It has not been published, and I suspect it never will be. Where Cyril was quicksilver bright in everything he wrote, *The Crater* plods. I don’t know why. I do know that he went to immense pains to research every aspect of the battle and the times; perhaps he was smothered in his research.
 
 I think he would have written science fiction again, because it was the thing he did so very well. I am tempted to wonder what kind.
 
-Cyril died before the Wars of the New Wave began. I am not sure which side he would have taken. Everything he wrote is a perfectly polished example of the structured Galaxy or Astounding story of the 50s—which is, after all, what the New Wave was fighting against. But Cyril might have elected to fight on the same side. He was a poet before he was a science-fiction writer, and the fact that he mastered form does not mean he worshipped it.
+Cyril died before the Wars of the New Wave began. I am not sure which side he would have taken. Everything he wrote is a perfectly polished example of the structured *Galaxy* or *Astounding* story of the 50s—which is, after all, what the New Wave was fighting against. But Cyril might have elected to fight on the same side. He was a poet before he was a science-fiction writer, and the fact that he mastered form does not mean he worshipped it.
 
-In a sense, I don’t think his choice of sides would have made much difference. I don't think it really did for any of us.
+In a sense, I don’t think his choice of sides would have made much difference. I don’t think it really did for any of us.
 
 A fundamental characteristic of most wars is that nobody wins them. It seems to me that the War of the New Wave was unique—everybody won. The old stalwarts learned how to break free of the formal pulp structure. The New Wavers learned—or at least the educable ones learned—how to include some of the special content of sf, which is irreplaceably valuable, in their experiments with form and style.
 
 All of us learned something from the New Wave. I know I did. I think that in that struggle Cyril would have produced some richly rewarding works, even finer than the stories that survive. If he were writing now he might not choose between being poet and science-fiction writer. He might at the same time be both.
 
+.space
 It’s hard for me to realize that if Cyril Kombluth were alive today he would be in his fifties.
 
-My memories of him are very clear, and we were both so young. I have a vagrant recollection of a particular Sunday morning—it must have been around 1939—in the summer. We had stayed up all night—to talk, or for no reason at all. (We did that a lot.) I lived in Brooklyn at the time, at one comer of Prospect Park, and Isaac Asimov’s family owned a candy store at the opposite comer, and Cyril and I decided to walk across the park to call on the Asimovs. We had powerful motives for this. Isaac’s mother could always be counted on to supply us with free chocolate malteds. And I can" remember our wandering across the park in the bright summer dawn, pausing now and then to climb trees and practice the call of the plover-tailed teal. We must not have been very good at it. No teal ever came down to investigate.
+My memories of him are very clear, and we were both so young. I have a vagrant recollection of a particular Sunday morning—it must have been around 1939—in the summer. We had stayed up all night—to talk, or for no reason at all. (We did that a lot.) I lived in Brooklyn at the time, at one comer of Prospect Park, and Isaac Asimov’s family owned a candy store at the opposite comer, and Cyril and I decided to walk across the park to call on the Asimovs. We had powerful motives for this. Isaac’s mother could always be counted on to supply us with free chocolate malteds. And I can remember our wandering across the park in the bright summer dawn, pausing now and then to climb trees and practice the call of the plover-tailed teal. We must not have been very good at it. No teal ever came down to investigate.
 
 Dawns were bright and warm, in the summer of 1939.
 
 So it is not only as a writer that I remember Cyril Kombluth. He was part of my growing up. As a person he was what he was as a writer: bright, sardonic, and immensely rewarding. Cyril had a great deal to say, and he said it ail tersely, wittily, and with grace. I do not think we shall soon see his like again.
 
-—Frederik Pohl 1976
+.right
+—Frederik Pohl
+1976
 
-The Rocket of 1955
+---
 
-If h always a mistake fa put a date an a science-fiction story, and now that 1955 Is embalmed in history we know that the first attempt at space travel didn't go this way at all. But when i! was written—when Cyril was in his teens. World War II was Just settling into the routine of grinding human beings into garbage, and space travel was still only a crary science-fiction idea—H might have.
+the_rocket_of_1955
 
-The scheme was all Fein’s, but the trimmings that made it more than a pipe dream and its actual operation depended on me. How long the plan had been in incubation I do not know, but Fein, one spring day, broke it to me in crude form. I pointed out some errors, corrected and amplified on the thing in general, and told him that I’d have no part of it—and changed my mind when he threatened to reveal certain indiscretions committed by me some years ago.
+# The Rocket of 1955
+
+.intro_block
+It is always a mistake to put a date on a science-fiction story, and now that 1955 is embalmed in history we know that the first attempt at space travel didn’t go this way at all. But when it was written—when Cyril was in his teens. World War II was just settling into the routine of grinding human beings into garbage, and space travel was still only a crazy science-fiction idea—it might have.
+
+.fl
+<span class="smallcaps">The scheme was</span> all Fein’s, but the trimmings that made it more than a pipe dream and its actual operation depended on me. How long the plan had been in incubation I do not know, but Fein, one spring day, broke it to me in crude form. I pointed out some errors, corrected and amplified on the thing in general, and told him that I’d have no part of it—and changed my mind when he threatened to reveal certain indiscretions committed by me some years ago.
 
 It was necessary that I spend some months in Europe, conducting research work incidental to the scheme. I returned with recorded statements, old newspapers, and photostatic copies of certain documents. There was a brief, quiet interview with that old, bushy-haired Viennese worshipped incontinently by the mob; he was convinced by the evidence I had compiled that it would be wise to assist us.
 
@@ -254,11 +378,17 @@ But the professor got drunk, and, disgusted with the part he had played in the a
 
 Here they come, with an insulting thick rope.
 
-The Words of Guru
+---
 
-The Mcand Fufurian to get hli own professional science-fiction magazines ta edit was Donald A. Wallheim (now editor and publisher of his own line of paperbacks, DAW Books]. Over the lifetimes of his two magazines, Stirring and Cosmic, Cyril wrote (under one penname Or another, with or without collaborators) probably half the total contents. This is the one I like best.
+the_words_of_guru
 
-Yesterday, when I was going to meet Guru in the woods a man stopped me and said: “Child, what are you doing out at one in the morning? Does your mother know where you are? How old are you, walking around this late?”
+# The Words of Guru
+
+.intro_block
+The second Futurian to get his own professional science-fiction magazines to edit was Donald A. Wollheim (now editor and publisher of his own line of paperbacks, DAW Books). Over the lifetimes of his two magazines, *Stirring* and *Cosmic*, Cyril wrote (under one penname Or another, with or without collaborators) probably half the total contents. This is the one I like best.
+
+.fl
+<span class="smallcaps">Yesterday, when I</span> was going to meet Guru in the woods a man stopped me and said: “Child, what are you doing out at one in the morning? Does your mother know where you are? How old are you, walking around this late?”
 
 I looked at him, and saw that he was white-haired, so I laughed. Old men never see; in fact men hardly see at all. Sometimes young women see part, but men rarely ever see at all. ‘Tm twelve on my next birthday,” I said. And then, because I would not let him live to tell people, I said, “and I’m out this late to see Guru.”
 
@@ -300,6 +430,7 @@ That was how I learned his name. And that night he taught me a word which would 
 
 From that day to the time I saw him last night he has not changed at all, though now I am as tall as he is. His skin is still as dry and shiny as ever it was, and his face is still bony, crowned by a head of very coarse, black hair.
 
+.space
 When I was ten years old I went to bed one night only long enough to make Joe and Clara suppose I was fast asleep. I left in my place something which appears when you say one of the words of Guru and went down the drainpipe outside my window. It always was easy to climb down and up, ever since I was eight years old.
 
 I met Guru in Inwood Hill Park. “You’re late,” he said.
@@ -324,7 +455,7 @@ He cast a hasty, sidewise glance at me and then said: “This is Peter of whom I
 
 She looked at me then and smiled, stretching out her oily arms. “Ah,” she said, softly, like the cats when they talk at night to me. “Ah, this is Peter. Will you come to me when I call you, Peter? And sometimes call for me—in the dark—when you are alone?”
 
-“Don’t do that!” said Guru, angrily pushing past her. “He’s very young—you might spoil him for his work.” She screeched at our backs: “Guru and his pupil— fine pair! Boy, he’s no more real than I am—you’re the only real thing here!”
+“Don’t do that!” said Guru, angrily pushing past her. “He’s very young—you might spoil him for his work.” She screeched at our backs: “Guru and his pupil—fine pair! Boy, he’s no more real than I am—you’re the only real thing here!”
 
 “Don’t listen to her,” said Guru. “She’s wild and raving. They’re always tight-strung when this time comes around.”
 
@@ -412,12 +543,13 @@ Guru and I left, having said the word.
 
 “Ah,” he said grinning. “The girl?”
 
-“Yes,” I said. “The word that will mean much to her."
+“Yes,” I said. “The word that will mean much to her.”
 
 Still grinning, he taught me the word.
 
 Mary, who had been fourteen, is now fifteen and what they call incurably mad.
 
+.space
 Last night I saw Guru again and for the last time. He bowed as I approached him. “Peter,” he said warmly.
 
 “Teach me the word,” said I.
@@ -448,11 +580,17 @@ Now, I do not know whether I will say that word, which was the last that Guru ta
 
 It is a word that will explode this planet like a stick of dynamite in a rotten apple.
 
-The Only Thing We Learn
+---
 
-Another member of the Futurian* was a tall, good-looking young man named Dirk Wylie. Like Cyril Karnbluth, Dirk was in the Battle af the Bulge; like him, he received there the injuries that ultimately killed him. (And like Cyril, it was not a wound. What Cyril got was a strained heart. What Dirk gat was a back disability that developed by slew and painful stages into tuberculosis af the spine—apparently from getting hurt jumping off a truck.) Dirk, with some help from me, started a literary agency In the last two years af his life, and one af his first clients was Cyril Kornbluth, off in Chicago writing stories when his news-wire jab permitted. The first sale far Cyril the agency made was a long mystery novelette called The Yogi Says Yes ta the Trajan magazine group in July 1948; three months later it sold his first post-war if story, irThe Only Thing We Learn."
+the_only_thing_we_learn
 
-The professor, though he did not know the actor’s phrase for it, was counting the house—peering through a spyhole in the door through which he would in a moment appear before the class. He was pleased with what he saw. Tier after tier of young people, ready with notebooks and styli, chattering tentatively, glancing at the door against which his nose was flattened, waiting for the pleasant interlude known as “Archaeo-Literature 203” to begin.
+# The Only Thing We Learn
+
+.intro_block
+Another member of the Futurians was a tall, good-looking young man named Dirk Wylie. Like Cyril Kornbluth, Dirk was in the Battle of the Bulge; like him, he received there the injuries that ultimately killed him. (And like Cyril, it was not a wound. What Cyril got was a strained heart. What Dirk got was a back disability that developed by slow and painful stages into tuberculosis of the spine—apparently from getting hurt jumping off a truck.) Dirk, with some help from me, started a literary agency in the last two years of his life, and one of his first clients was Cyril Kornbluth, off in Chicago writing stories when his news-wire jab permitted. The first sale far Cyril the agency made was a long mystery novelette called *The Yogi Says Yes* to the Trojan magazine group in July 1948; three months later it sold his first post-war if story, “The Only Thing We Learn.”
+
+.fl
+<span class="smallcaps">The professor, though</span> he did not know the actor’s phrase for it, was counting the house—peering through a spyhole in the door through which he would in a moment appear before the class. He was pleased with what he saw. Tier after tier of young people, ready with notebooks and styli, chattering tentatively, glancing at the door against which his nose was flattened, waiting for the pleasant interlude known as “Archaeo-Literature 203” to begin.
 
 The professor stepped back, smoothed his tunic, crooked four books on his left elbow, and made his entrance. Four swift strides brought him to the lectern and, for the thousandth-odd time, he impassively swept the lecture hall with his gaze. Then he gave a wry little smile. Inside, for the thousandth-odd time, he was nagged by the irritable little thought that the lectern really ought to be a foot or so higher.
 
@@ -466,7 +604,7 @@ There was a little rustle of incomprehension from the audience—but by then the
 
 “Subversive—” He gave them a link to cling to. “Subversive because I shall make every effort to tell both sides of our ancient beginnings with every resource of archaeology and with every clue my diligence has discovered in our epic literature.
 
-“There were two sides, you know—difficult though it may be to believe that if we judge by the Old Epic alone—such epics as the noble and tempestuous Chant of Remd, the remaining fragments of Krall's Voyage, or the gory and rather out-of-date Battle For the Ten Suns." He paused while styli scribbled across the notebook pages.
+“There *were* two sides, you know—difficult though it may be to believe that if we judge by the Old Epic alone—such epics as the noble and tempestuous *Chant of Remd*, the remaining fragments of *Krall’s Voyage*, or the gory and rather out-of-date *Battle For the Ten Suns*.” He paused while styli scribbled across the notebook pages.
 
 “The Middle Epic is marked, however, by what I might call the rediscovered ethos.” From his voice, every student knew that that phrase, surer than death and taxes, would appear on an examination paper. The styli scribbled. “By this I mean an awakening of fellowfeeling with the Home Suns People, which had once been filial loyalty to them when our ancestors were few and pioneers, but which turned into contempt when their numbers grew.
 
@@ -482,24 +620,41 @@ Suns People, as did the bards of the Old Epic. Perhaps this was because they did
 
 All this he fired at them crisply, enjoying himself. Let them not think him a dreamy litterateur, or, worse, a flat precisionist, but let them be always a little off-balance before him, never knowing what came next, and often wondering, in class and out. The styli paused after heading Three.
 
-“We shall examine first, by our archaeo-literary technique, the second book of the Chant of Remd. As the selected youth of the Empire, you know much about it, of course—much that is false, some that is true, and a great deal that is irrelevant. You know that Book One hurls us into the middle of things, aboard ship with Al-gan and his great captain, Remd, on their way from the triumph over a Home Suns stronghold, the planet Telse. We watch Remd on his diversionary action that splits the Ten Suns Fleet into two halves. But before we see the destruction of those halves by the Horde of Algan, we are told in Book Two of the battle for Telse.”
+“We shall examine first, by our archaeo-literary technique, the second book of the *Chant of Remd*. As the selected youth of the Empire, you know much about it, of course—much that is false, some that is true, and a great deal that is irrelevant. You know that Book One hurls us into the middle of things, aboard ship with Al-gan and his great captain, Remd, on their way from the triumph over a Home Suns stronghold, the planet Telse. We watch Remd on his diversionary action that splits the Ten Suns Fleet into two halves. But before we see the destruction of those halves by the Horde of Algan, we are told in Book Two of the battle for Telse.”
 
 He opened one of his books on the lectern, swept the amphitheater again, and read sonorously.
 
-“Then battle broke And high the blinding blast Sight-searing leaped While folk in fear below Cowered in caverns From the wrath of Remd—
+.fl.thin
+“Then battle broke
+And high the blinding blast
+Sight-searing leaped
+While folk in fear below
+Cowered in caverns
+From the wrath of Remd—
 
-“Or, in less sumptuous language, one fission bomb—• or a stick of time-on-target bombs—was dropped. An unprepared and disorganized populace did not take the standard measure of dispersing, but huddled foolishly to await Algan’s gunfighters and the death they brought.
+.space
+“Or, in less sumptuous language, one fission bomb—or a stick of time-on-target bombs—was dropped. An unprepared and disorganized populace did not take the standard measure of dispersing, but huddled foolishly to await Algan’s gunfighters and the death they brought.
 
-“One of the things you believe because you have seen them in notes to elementary-school editions of Remd is that Telse was the fourth planet of the star, Sol. Archaeology denies it by establishing that the fourth planet—actually called Marse, by the way—was in those days weather-roofed at "least, and possibly atmosphere-roofed as well. As potential warriors, you know that one does not waste fissionable material on a roof, and there is no mention of chemical explosives being used to crack the roof. Marse, therefore, was not the locale of Remd, Book Two.
+“One of the things you believe because you have seen them in notes to elementary-school editions of *Remd* is that Telse was the fourth planet of the star, Sol. Archaeology denies it by establishing that the fourth planet—actually called Marse, by the way—was in those days weather-roofed at “least, and possibly atmosphere-roofed as well. As potential warriors, you know that one does not waste fissionable material on a roof, and there is no mention of chemical explosives being used to crack the roof. Marse, therefore, was not the locale of *Remd*, Book Two.
 
-“Which planet was? The answer to that has been established by X-radar, differential decay analyses, video-coring, and every other resource of those scientists still quaintly called ‘diggers.’ We know and can prove that Telse was the third planet of Sol. So much for the opening of the attack. Let us jump to Canto Three, the Storming of the Dynastic Palace.
+“Which planet was? The answer to that has been established by X-radar, differential decay analyses, video-coring, and every other resource of those scientists still quaintly called ‘diggers.’ We know and can prove that Telse was the *third* planet of Sol. So much for the opening of the attack. Let us jump to Canto Three, the Storming of the Dynastic Palace.
 
-“Imperial purple wore they Fresh from the feast Grossly gorged They sought to slay—
+.fl.thin
+“Imperial purple wore they
+Fresh from the feast
+Grossly gorged
+They sought to slay—
 
+.space
 “And so on. Now, as I warned you, Remd is of the Old Epic, and makes no pretense at fairness. The unorganized huddling of Telse’s population was read as cowardice instead of poor A.R.P. The same is true of the Third Canto. Video-cores show on the site of the palace a hecatomb of dead in once-purple livery, but also shows impartially that they were not particularly gorged and that digestion of their last meals had been well advanced. They didn’t give such a bad accounting of themselves, either. I hesitate to guess, but perhaps they accounted for one of our ancestors apiece and were simply outnumbered. The study is not complete.
 
-“That much we know.” The professor saw they were tiring of the terse scientist and shifted gears. “If but the veil of time were rent that shrouds the years between us and the Home Suns People, how much more would we learn? Would we despise the Home Suns People as our frontiersman ancestors did, or would we cry: ‘This is our spiritual home—this world of rank and order, this world of formal verse and exquisitely patterned arts’?” If the veil of time were rent—7 We can try to rend it. . .
+“That much we know.” The professor saw they were tiring of the terse scientist and shifted gears. “If but the veil of time were rent that shrouds the years between us and the Home Suns People, how much more would we learn? Would we despise the Home Suns People as our frontiersman ancestors did, or would we cry: ‘*This* is our spiritual home—this world of rank and order, this world of formal verse and exquisitely patterned arts’?”
 
+If the veil of time were rent—?
+
+We can try to rend it . . .
+
+.space
 Wing Commander Arris heard the clear jangle of the radar net alarm as he was dreaming about a fish. Struggling out of his too-deep, too-soft bed, he stepped into a purple singlet, buckled on his Sam Browne belt with its holstered .45 automatic, and tried to read the radar screen. Whatever had set it off was either too small or too distant to register on the five-inch C.R.T.
 
 He rang for his aide, and checked his appearance in a wall mirror while waiting. His space tan was beginning to fade, he saw, and made a mental note to get it renewed at the parlor. He stepped into the corridor as Evan, his aide, trotted up—younger, browner, thinner, but the same officer type that made the Service what it was, Arris thought with satisfaction.
@@ -524,7 +679,7 @@ Arris turned on a phone that connected with Interception. The boy at Interceptio
 
 “Yessir!” and a punctilious salute, the boy’s pleasure plain at being known by name and a great deal more at being on the way to a fight that might be first-class.
 
-Arris cut him off before the boy could detect a smile that was forming on his face. He turned from the pale lunar glow of the sixty-incher to enjoy it. Those kids— when every meteor was an invading dreadnaught, when every ragged scouting ship from the rebels was an armada!
+Arris cut him off before the boy could detect a smile that was forming on his face. He turned from the pale lunar glow of the sixty-incher to enjoy it. Those kids—when every meteor was an invading dreadnaught, when every ragged scouting ship from the rebels was an armada!
 
 He watched Efrid’s squadron soar off on the screen and then he retreated to a darker comer. This was his post until the meteor or scout or whatever it was got taken care of. Evan joined him, and they silently studied the smooth, disciplined functioning of the plot room, Arris with satisfaction and Evan doubtless with the same. The aide broke silence, asking:
 
@@ -566,13 +721,13 @@ East, you could at least call them by their proper names.” Really, he thought�
 
 This was serious—a grave breach of security. Arris turned to the little man.
 
-“Mister, I have no authority to command you,” he said measuredly. “Furthermore, I understand you are enjoying a temporary eminence in the non-Service world which would make it very difficult for me to— ah—tangle with you. I shall therefore refer only to your altruism. How did you find out about the Regulus Cluster?”
+“Mister, I have no authority to command you,” he said measuredly. “Furthermore, I understand you are enjoying a temporary eminence in the non-Service world which would make it very difficult for me to—ah—tangle with you. I shall therefore refer only to your altruism. How did you find out about the Regulus Cluster?”
 
 “Eloquent!” murmured the little man, smiling happily. “I got it from Rome.”
 
 Arris searched his memory. “You mean Squadron Commander Romo broke security? I can’t believe it!”
 
-“No, commander. 1 mean Rome—a place—a time— a civilization. I got it also from Babylon, Assyria, the Mogul Raj—every one of them. You don’t understand me, of course.”
+“No, commander. 1 mean Rome—a place—a time—a civilization. I got it also from Babylon, Assyria, the Mogul Raj—every one of them. You don’t understand me, of course.”
 
 “I understand that you’re trifling with Service security and that you’re a fat little, malevolent, worthless drone and scribbler!”
 
@@ -590,7 +745,7 @@ He did not allow himself emotion, but turned to the plot on the interceptor squa
 
 “Yessir.”
 
-Half the plot room crew bustled silently and efficiently about the delicate job of applied relativistic physics that was ‘lunar relay.’ He knew that the palace power plant could take it for a few minutes, and he wanted to see. If he could not believe radar pips, he might believe a video screen.
+Half the plot room crew bustled silently and efficiently about the delicate job of applied relativistic physics that was ‘lunar relay.’ He knew that the palace power plant could take it for a few minutes, and he wanted to *see*. If he could not believe radar pips, he might believe a video screen.
 
 On the great, green circle, the eighteen—now twenty-four—particles neared the thirty-six smaller particles that were interceptors, led by the eager young Efrid.
 
@@ -616,16 +771,23 @@ The contact was immediate and shocking. One of the rebel ships lumbered into the
 
 It took a torpedo portside and its plumbing drifted through space in a tangle. Still the starboard side kept squirting fire. Isolated weapon blisters fought on while they were obviously cut off from the rest of the ship. It was a pounded tangle of wreckage, and it had destroyed two interceptors, crippled two more, and kept fighting.
 
-Finally, it drifted away, under feeble jets of power. Two more of the fantastic rebel fleet wandered into action, but the wing commander’s horrified eyes were on the first pile of scrap. It was going somewhere—
+Finally, it drifted away, under feeble jets of power. Two more of the fantastic rebel fleet wandered into action, but the wing commander’s horrified eyes were on the first pile of scrap. It was going *somewhere*—
 
 The ship neared the thin-skinned, unarmored, gleaming hospital vessel, rammed it, amidships, square in one of the red crosses, and then blew itself up, apparently with everything left in its powder magazine, taking the hospital ship with it.
 
 The sickened wing commander would never have recognized what he had seen as it was told in a later version, thus:
 
-“The crushing course they took And nobly knew Their death undaunted By heroic blast The hospital’s host They dragged to doom
+.fl.thin
+“The crushing course they took
+And nobly knew
+Their death undaunted
+By heroic blast
+The hospital’s host
+They dragged to doom
+Hail! Men without mercy
+From the far frontier!”
 
-Hail! Men without mercy From the far frontier!”
-
+.space
 Lunar relay flickered out as overloaded fuses flashed into vapor. Arris distractedly paced back to the dark corner and sank into a chair.
 
 “I’m sorry,” said the voice of Glen next to him, sounding quite sincere. “No doubt it was quite a shock to you.”
@@ -648,17 +810,23 @@ Lunar relay flickered out as overloaded fuses flashed into vapor. Arris distract
 
 The fat little man giggled and whispered in the officer’s ear. Arris irritably shrugged it off as a bad joke. He didn’t believe it. As he died, drilled through the chest a few hours later by one of Algan’s gunfighters, he believed it even less.
 
+.space
 The professor’s lecture was drawing to a close. There was time for only one more joke to send his students away happy. He was about to spring it when a messenger handed him two slips of paper. He raged inwardly at his ruined exit and poisonously read from them:
 
 “I have been asked to make two announcements. One, a bulletin from General Sleg’s force. He reports that the so-called Outland Insurrection is being brought under control and that there is no cause for alarm. Two, the gentlemen who are members of the S.O.T.C. will please report to the armory at 1375 hours—whatever that may mean—for blaster inspection. The class is dismissed.”
 
 Petulantly, he swept from the lectern and through the door.
 
-The Adventurer
+---
 
-Af the lime "The Adventurer" was written, R*ch*rd M. N*x*n wot not quite yet even Vice President. So it isn't about him. It it?
+the_adventurer
 
-President Folsom XXIV said petulantly to his Secretary of the Treasury: “Blow me to hell, Bannister, if I understood a single word of that. Why can't I buy the Nicolaides Collection? And don’t start with the rediscount and the Series W business again. Just tell me why.”
+# The Adventurer
+
+At the time “The Adventurer” was written, R∗ch∗rd M. N∗x∗n wot not quite yet even Vice President. So it isn’t about him. It it?
+
+.fl
+<span class="smallcaps">President Folsom XXIV</span> said petulantly to his Secretary of the Treasury: “Blow me to hell, Bannister, if I understood a single word of that. *Why* can’t I buy the Nicolaides Collection? And don’t start with the rediscount and the Series W business again. Just tell me *why*.”
 
 The Secretary of the Treasury said with an air of apprehension and a thread-like feeling across his throat: “It boils down to—no money, Mr. President.”
 
@@ -666,30 +834,31 @@ The President was too engrossed in thoughts of the marvelous collection to fly i
 
 The Secretary of Public Opinion shook his head. His pose was gruffly professional. “Not a chance, Mr. President. We’d never get away with it. The art lovers would scream to high Heaven.”
 
-“I suppose so . . . Why isn’t there any money?” He had swiveled dangerously on the Secretary of the Treasury again.
+“I suppose so . . . *Why* isn’t there any money?” He had swiveled dangerously on the Secretary of the Treasury again.
 
 “Sir, purchases of the new Series W bond issue have lagged badly because potential buyers have been attracted to—”
 
-“Stop it, stop it, stop it! You know I can’t make head or tail of that stuff. Where’s the money going?"
+“Stop it, stop it, *stop* it! You know I can’t make head or tail of that stuff. Where’s the money *going*?”
 
 The Director of the Budget said cautiously: “Mr. President, during the biennium just ending, the Department of Defense accounted for seventy-eight per cent of expenditures—”
 
 The Secretary of Defense growled: “Now wait a minute, Felder! We were voted—”
 
-The President interrupted, raging weakly: “Oh, you rascals! My father would have known what to do with you! But don’t think I can’t handle it. Don’t think you can hoodwink me.” He punched a button ferociously; his silly face was contorted with rage and there was a certain tension on all the faces around the Cabinet table.
+The President interrupted, raging weakly: “Oh, you rascals! My father would have known what to do with you! But don’t think I can’t handle it. *Don’t* think you can hoodwink me.” He punched a button ferociously; his silly face was contorted with rage and there was a certain tension on all the faces around the Cabinet table.
 
 Panels slid down abruptly in the walls, revealing grim-faced Secret Servicemen. Each Cabinet officer was covered by at least two automatic rifles.
 
 “Take that—that traitor away!” the President yelled. His finger pointed at the Secretary of Defense, who slumped over the table, sobbing. Two Secret Servicemen half-carried him from the room.
 
-President Folsom XXIV leaned back thrusting out his lower lip. He told the Secretary of the Treasury: "Get me the money for the Nicolaides Collection. Do you understand? I don’t care how you do it. Get it.” He glared at the Secretary of Public Opinion. “Have you any comments?”
+President Folsom XXIV leaned back thrusting out his lower lip. He told the Secretary of the Treasury: “*Get* me the money for the Nicolaides Collection. Do you understand? I don’t care how you do it. *Get* it.” He glared at the Secretary of Public Opinion. “Have you any comments?”
 
 “No, Mr. President.”
 
-“All right, then.” The President unbent and said plaintively: “I don’t see why you can’t all be more reasonable. Pm a very reasonable man. I don’t see why I can’t have a few pleasures along with my responsibilities. Really I don’t. And I’m sensitive. I don’t like these scenes. Very well. That’s all. The Cabinet meeting is adjourned.”
+“All right, then.” The President unbent and said plaintively: “I don’t see why you can’t all be more reasonable. Pm a very reasonable man. I don’t see why I can’t have a few pleasures along with my responsibilities. Really I don’t. And I’m sensitive. I don’t *like* these scenes. Very well. That’s all. The Cabinet meeting is adjourned.”
 
-They rose and left silently in the order of their seniority. The President noticed that the panels were still down and pushed the button that raised them again and hid the granite-faced Secret Servicemen. He took out of his pocket a late Morrison fingering-piece and turned it over in his hand, a smile of relaxation and bliss spreading over his face. Such amusing textual contrast! Such unexpected variations on the classic sequences!
+They rose and left silently in the order of their seniority. The President noticed that the panels were still down and pushed the button that raised them again and hid the granite-faced Secret Servicemen. He took out of his pocket a late Morrison fingering-piece and turned it over in his hand, a smile of relaxation and bliss spreading over his face. *Such* amusing textual contrast! *Such* unexpected variations on the classic sequences!
 
+.space
 The Cabinet, less the Secretary of Defense, was holding a rump meeting in an untapped corner of the White House gymnasium.
 
 “God,” the Secretary of State said, white-faced. “Poor old Willy!”
@@ -726,6 +895,7 @@ Steiner caught the ball and slugged it back at him. “What good are brains?” 
 
 The ranks closed and the Cabinet told Steiner what good were brains. He ended by accepting.
 
+.space
 The Moon is all Republic. Mars is all Soviet. Titan is all Republic. Ganymede is all Soviet. But Io and Callisto, by the Treaty of Greenwich, are half-and-half Republic and Soviet.
 
 Down the main street of the principal settlement on Io runs an invisible line. On one side of the line, the principal settlement is known as New Pittsburgh. On the other side it is known as Nizhni-Magnitogorsk.
@@ -742,7 +912,7 @@ A woman came in from the kitchen. She was tall and thin. In a flat voice she sai
 
 In the same flat voice: “I have to buy food.”
 
-"1 said gimme a dollar!" The man slapped her face—it did not change—and wrenched a small purse from the string that suspended it around her neck. The boy suddenly was a demon, flying at his father with fists and teeth. It lasted only a second or two. The father kicked him into a comer where he lay, still glaring, wordless and dry-eyed. The mother had not moved; her husband’s handmark was still red on her face when he hulked out, clutching the money bag.
+*“1 said gimme a dollar!”* The man slapped her face—it did not change—and wrenched a small purse from the string that suspended it around her neck. The boy suddenly was a demon, flying at his father with fists and teeth. It lasted only a second or two. The father kicked him into a corner where he lay, still glaring, wordless and dry-eyed. The mother had not moved; her husband’s handmark was still red on her face when he hulked out, clutching the money bag.
 
 Mrs. Grayson at last crouched in the comer with the eight-year-old boy. “Little Tommy,” she said softly. “My little Tommy! Did you cross the line again?”
 
@@ -754,17 +924,18 @@ Krasinsky and he moved over the line and changed his name to Grayson! God damn h
 
 “Yes, Mom,” he said. He threw his spindly arms around her and kissed her. “Get out the spools. We’ll show him. I mean them.”
 
+.space
 President Folsom XXIV lay on his deathbed, feeling no pain, mostly because his personal physician had pumped him full of morphine. Dr. Barnes sat by the bed holding the presidential wrist and waiting, occasionally nodding off and recovering with a belligerent stare around the room. The four wire service men didn’t care whether he fell asleep or not; they were worriedly discussing the nature and habits of the President’s first bom, who would shortly succeed to the highest office in the Republic.
 
 “A firebrand, they tell me,” the A.P. man said unhappily.
 
-“Firebrands I don’t mind.” the U.P. man said. “He can send out all the inflammatory notes he wants just as long as he isn’t a fiend for exercise. I’m not as young as I once was. You boys wouldn’t remember the old President, Folsom XXII. He used to do point-to-point hiking. He worshipped old F.D.R.”
+“Firebrands I don’t mind.” the U.P. man said. “He can send out all the inflammatory notes he wants just as long as he isn’t a fiend for exercise. I’m not as young as I once was. You boys wouldn’t remember the *old* President, Folsom XXII. He used to do point-to-point hiking. He worshipped old F.D.R.”
 
 The I.N.S. man said, lowering his voice: “Then he was worshipping the wrong Roosevelt. Teddy was the athlete.”
 
 Dr. Barnes started, dropped the presidential wrist, and held a mirror to the mouth for a moment. “Gentlemen,” he said, “the President is dead.”
 
-“O.K.,” the A.P. man said. “Let's go, boys. I’ll send in the flash. U.P., you go cover the College of Electors. I.N.S., get onto the President Elect. Trib, collect some interviews and background—”
+“O.K.,” the A.P. man said. “Let’s go, boys. I’ll send in the flash. U.P., you go cover the College of Electors. I.N.S., get onto the President Elect. Trib, collect some interviews and background—”
 
 The door opened abruptly; a colonel of infantry was standing there, breathing hard, with an automatic rifle at port. “Is he dead?” he asked.
 
@@ -788,7 +959,7 @@ The U.P. man, swearing horribly, dug a sizzling bit of phosphorus from the back 
 
 “Sixty-eight,” the U.P. man said faintly. “It didn’t happen in sixty-eight, not sixty-seven.”
 
-The A.P. man smashed a fist into the palm of his hand and swore. "God damn,” he said. “Some day I’d like to—” He broke off and was bitterly silent.
+The A.P. man smashed a fist into the palm of his hand and swore. “God damn,” he said. “Some day I’d like to—” He broke off and was bitterly silent.
 
 The U.P. man must have been a little dislocated with shock and quite drunk to talk the way he did. “Me too,” he said. “Like to tell the story. Maybe it was sixty-seven not sixty-eight. I’m not sure now. Can’t write it down so the details get lost and then after a while it didn’t happen at all. Revolution’d be good deal. But it takes people t’ make revolution. People. With eyes ’n ears. ’N memories. We make things not-happen an’ we make people not-see an’ not-hear . . .” He slumped back against the corridor wall, nursing his burned hand. The others were watching him, very scared.
 
@@ -820,6 +991,7 @@ preoccupations obliterated as soon as possible. I wish the Republic to assume a 
 
 A trembling messenger said: “Mr. President, I have the honor to inform you that the College of Electors has elected you President of the Republic—unanimously.”
 
+.space
 Cadet Fourth Classman Thomas Grayson lay on his bunk and sobbed in an agony of loneliness. The letter from his mother was crumpled in his hand; “—prouder than words can tell of your appointment to the Academy. Darling, I hardly knew my grandfather but I know that you will serve as brilliantly as he did, to the eternal credit of the Republic. You must be brave and strong for my sake—”
 
 He would have given everything he had or ever could hope to have to be back with her, and away from the bullying, sneering fellow-cadets of the Corps. He kissed the letter—and then hastily shoved it under his mattress as he heard footsteps.
@@ -850,15 +1022,16 @@ He studied Grayson’s folder. It was too early to tell about academic work, but
 
 After Grayson’s steel-sharp salute and exit the Commandant dug deeper into the folder. Apparently there was something wrong with the boy’s left arm. but it had been passed by the examining team that visited Io. Most unusual. Most irregular. But nothftig could be done about it now.
 
+.space
 The President, softer now in body than on his election day, and infinitely more cautious, snapped: “It’s all very well to create an incident. But where’s the money to come from? Who wants the rest of Io anyway? And what will happen if there’s war?”
 
 Treasury said: “The hoarders will supply the money, Mr. President. A system of percentage bounties for persons who report currency hoarders, and then enforced purchase of a bond issue.”
 
 Raw Materials said: “We need that iron, Mr. President. We need it desperately.”
 
-State said: “All our evaluations indicate that the Soviet Premier would consider nothing less than armed invasion of his continental borders as occasion for all-out war. The consumer-goods party in the Soviet has gained immensely during the past five years and of course their armaments have suffered. Your shrewd directive to put the Republic in a warlike posture has borne fruit, Mr. President . .
+State said: “All our evaluations indicate that the Soviet Premier would consider nothing less than armed invasion of his continental borders as occasion for all-out war. The consumer-goods party in the Soviet has gained immensely during the past five years and of course their armaments have suffered. Your shrewd directive to put the Republic in a warlike posture has borne fruit, Mr. President . . .”
 
-President Folsom XXV studied them narrowly. To him the need for a border incident culminating in a forced purchase of Soviet Io did not seem as pressing as they thought, but they were, after all, specialists. And there was no conceivable way they could benefit from it personally. The only alternative was that they were offering their professional advice and that it would be best to heed it. Still, there was a vague, nagging something. . .
+President Folsom XXV studied them narrowly. To him the need for a border incident culminating in a forced purchase of Soviet Io did not seem as pressing as they thought, but they were, after all, specialists. And there was no conceivable way they could benefit from it personally. The only alternative was that they were offering their professional advice and that it would be best to heed it. Still, there was a vague, nagging something . . .
 
 Nonsense, he decided. The spy dossiers on his Cabinet showed nothing but the usual. One had been blackmailed by an actress after an affair and railroaded her off the Earth. Another had a habit of taking bribes to advance favorite sons in civil and military service. And so on. The Republic could not suffer at their hands; the Republic and the dynasty were impregnable. You simply spied on everybody—including the spies—and ordered summary executions often enough to show that you meant it, and kept the public ignorant; deaf-dumb-blind ignorant. The spy system was simplicity itself; you had only to let things get as tangled and confused as possible until nobody knew who was who. The executions were literally no problem, for guilt or innocence made no matter. And mind control, when there were four newspapers, six magazines, and three radio and television stations, was a job for a handful of clerks.
 
@@ -866,6 +1039,7 @@ No; the Cabinet couldn’t be getting away with anything. The system was unbeata
 
 President Folsom XXV said: “Very well. Have it done.”
 
+.space
 Mrs. Grayson, widow, of New Pittsburgh, Io, disappeared one night. It was in all the papers and on all the broadcasts. Some time later she was found dragging herself back across the line between Nizhni-Magni-togorsk and New Pittsburgh in sorry shape. She had a terrible tale to tell about what she had suffered at the hands and so forth of the Nizhni-Magnitogorskniks. A diplomatic note from the Republic to the Soviet was answered by another note which was answered by the dispatch of the Republic’s First Fleet to Io which was answered by the dispatch of the Soviet’s First and Fifth Fleets to Io.
 
 The Republic’s First Fleet blew up the customary deserted target hulk, fulminated over a sneak sabotage attack, and moved in its destroyers. Battle was joined.
@@ -884,7 +1058,7 @@ They discussed him nervously aboard the flagship.
 
 “He doesn’t look like much. But when he turns on the charm—watch out!”
 
-“He’s—he’s a winner. Now I wonder what I mean by that?”
+“He’s—he’s a *winner*. Now I wonder what I mean by that?”
 
 “I know what you mean. They turn up every so often. People who can’t be stopped. People who have everything. Napoleons. Alexanders. Stalins. Up from, nowhere.”
 
@@ -896,6 +1070,7 @@ They tugged at their gold-braided jackets and signalled the honor guard.
 
 Grayson was piped aboard, received another decoration and another speech. This time he made a speech in return.
 
+.space
 President Folsom XXV, not knowing what else to do, had summoned his Cabinet. “Well?” he rasped at the Secretary of Defense.
 
 Steiner said with a faint shrug: “Mr. President, there is nothing to be done. He has the fleet, he has the broadcasting facilities, he has the people.”
@@ -916,7 +1091,7 @@ The chief of the detail said: “Mr. Grayson! Are you taking over?”
 
 The man in the ensign’s uniform said gravely: “Yes. And just call me ‘Grayson,’ please. The titles come later. You can go now.”
 
-The chief gave a pleased grin and collected his detail. The rather slight, youngish man who had something wrong with one arm was in charge—complete charge.
+The chief gave a pleased grin and collected his detail. The rather slight, youngish man who had something wrong with one arm was in charge—*complete* charge.
 
 Grayson said: “Mr. Folsom, you are relieved of the presidency. Captain, take him out and—” He finished with a whimsical shrug. A portly four-striper took Folsom by one arm. Like a drugged man the deposed president let himself be led out.
 
@@ -932,9 +1107,9 @@ Steiner said: “Grayson, the story goes back many years. My predecessor, Willia
 
 “Malvem tried another approach than espionage versus espionage, terrorism versus terrorism, and opinion control versus opinion control. He determined to use the basic fact that certain men make history: that there are men born to be mould breakers. They are the Philips of Macedon, the Napoleons, Stalins and Hitlers, the Suleimans—the adventurers. Again and again they flash across history, bringing down an ancient empire, turning ordinary soldiers of the line into unkillable demons of battle, uprooting cultures, breathing new life into moribund peoples.
 
-“There are common denominators among all the adventurers. Intelligence, of course. Other things are more mysterious but are always present. They are foreigners. Napoleon the Corsican. Hitler the Austrian. Stalin the Georgian. Philip the Macedonian. Always there is an Oedipus complex. Always there is physical deficiency. Napoleon’s stature. Stalin’s withered arm— and yours. Always there is a minority disability, real or fancied.
+“There are common denominators among all the adventurers. Intelligence, of course. Other things are more mysterious but are always present. They are foreigners. Napoleon the Corsican. Hitler the Austrian. Stalin the Georgian. Philip the Macedonian. Always there is an Oedipus complex. Always there is physical deficiency. Napoleon’s stature. Stalin’s withered arm—and yours. Always there is a minority disability, real or fancied.
 
-“This is a shock to you, Grayson, but you must face it. You were manufactured.
+“This is a shock to you, Grayson, but you must face it. *You were manufactured.*
 
 “Malvem packed the Cabinet with the slyest doubledealers he could find and they went to work. Eighty-six infants were planted on the outposts of the Republic in simulated family environments. Your mother was not your mother but one of the most brilliant actresses ever to drop out of sight on Earth. Your intelligence heredity was so good that we couldn’t turn you down for lack of a physical deficiency. We withered your arm with gamma radiation. I hope you will forgive us. There was no other way.
 
@@ -944,15 +1119,21 @@ Grayson went to the door and beckoned; two captains came in. Steiner broke off h
 
 “Yes, your divinity,” said the captains, without a trace of humor in their voices.
 
-The Little Black Bag
+---
 
-In 1971 I wai speaking at the First General Assembly of the World Future Society at the Waihirgtar Hilton, Ore evening I went up ta my room to make a phone call and, waiting far the person at the other end ta get off the phone, flipped an the television. What turned up on the screen was "The Little Black Bag." I hadn't expected it. It was Rad Serling's adaptation, faithful ta the text and very good. So I forgot to make my phone call, and was late joining friends downstairs , . . but it was worth it,
+the_little_black_bag
 
-Old Dr. Full felt the winter in his bones as he limped down the alley. It was the alley and the back door he had chosen rather than the sidewalk and the front door because of the brown paper bag under his arm. He knew perfectly well that the flat-faced, stringy-haired women of his street and their gap-toothed, sour-smelling husbands did not notice if he brought a bottle of cheap wine to his room. They all but lived on the stuff themselves, varied with whiskey when pay checks were boosted by overtime. But Dr. Full, unlike them, was ashamed. A complicated disaster occurred as he limped down the littered alley. One of the neighborhood dogs—a mean little black one he knew and hated, with its teeth always bared and always snarling with menace—hurled at his legs through a hole in the board fence that lined his path. Dr. Full flinched, then swung his leg in what was to have been a satisfying kick to the animal’s gaunt ribs. But the winter in his bones weighed down the leg. His foot failed to clear a half-buried brick, and he sat down abruptly, cursing. When he smelled unbottled wine and realized his brown paper package had slipped from under his arm and smashed, his curses died on his lips. The snarling black dog was circling him at a yard’s distance, tensely stalking, but he ignored it in the greater disaster.
+# The Little Black Bag
+
+.intro_block
+In 1971 I was speaking at the First General Assembly of the World Future Society at the Washington Hilton. One evening I went up to my room to make a phone call and, waiting for the person at the other end to get off the phone, flipped on the television. What turned up on the screen was “The Little Black Bag.” I hadn’t expected it. It was Rod Serling’s adaptation, faithful to the text and very good. So I forgot to make my phone call, and was late joining friends downstairs . . . but it was worth it.
+
+.fl
+<span class="smallcaps">Old Dr. Full</span> felt the winter in his bones as he limped down the alley. It was the alley and the back door he had chosen rather than the sidewalk and the front door because of the brown paper bag under his arm. He knew perfectly well that the flat-faced, stringy-haired women of his street and their gap-toothed, sour-smelling husbands did not notice if he brought a bottle of cheap wine to his room. They all but lived on the stuff themselves, varied with whiskey when pay checks were boosted by overtime. But Dr. Full, unlike them, was ashamed. A complicated disaster occurred as he limped down the littered alley. One of the neighborhood dogs—a mean little black one he knew and hated, with its teeth always bared and always snarling with menace—hurled at his legs through a hole in the board fence that lined his path. Dr. Full flinched, then swung his leg in what was to have been a satisfying kick to the animal’s gaunt ribs. But the winter in his bones weighed down the leg. His foot failed to clear a half-buried brick, and he sat down abruptly, cursing. When he smelled unbottled wine and realized his brown paper package had slipped from under his arm and smashed, his curses died on his lips. The snarling black dog was circling him at a yard’s distance, tensely stalking, but he ignored it in the greater disaster.
 
 With stiff fingers as he sat on the filth of the alley, Dr. Full unfolded the brown paper bag’s top, which had been crimped over, grocer-wise. The early autumnal dusk had come; he could not see plainly what was left He lifted out the jug-handled top. of his half gallon, and some fragments, and then the bottom of the bottle. Dr. Full was far too occupied to exult as he noted that there was a good pint left. He had a problem, and emotions could be deferred until the fitting time.
 
-The dog closed in, its snarl rising in pitch. He set down the bottom of the bottle and pelted the dog with the curved triangular glass fragments of its top. One of them connected, and the dog ducked back through the fence, howling. Dr. Full then placed a razor-like <dge of the half-gallon bottle’s foundation to his lips and drank from it as though it were a giant’s cup. Twice he had to put it down to rest his arms, but in one minute he had swallowed the pint of wine.
+The dog closed in, its snarl rising in pitch. He set down the bottom of the bottle and pelted the dog with the curved triangular glass fragments of its top. One of them connected, and the dog ducked back through the fence, howling. Dr. Full then placed a razor-like edge of the half-gallon bottle’s foundation to his lips and drank from it as though it were a giant’s cup. Twice he had to put it down to rest his arms, but in one minute he had swallowed the pint of wine.
 
 He thought of rising to his feet and walking through the alley to his room, but a flood of well-being drowned the notion. It was, after all, inexpressibly pleasant to sit there and feel the frost-hardened mud of the alley turn soft, or seem to, and to feel the winter evaporating from his bones under a warmth which spread from his stomach through his limbs.
 
@@ -1054,7 +1235,7 @@ Certainly have forged ahead since my time, he thought—sharper than a microtome
 
 He ran down the left edge of the card to “lymphatic” and read across to the column under “infection.” It didn’t sound right at all to him; he checked again, but it still said that. In the square to which the line and column led were the symbols: “IV-g-3cc.” He couldn’t find any bottles marked with Roman numerals, and then noticed that that was how the hypodermic needles were designated. He lifted number IV from its loop, noting that it was fitted with a needle already and even seemed to be charged. What a way to carry those things around! So—three cc. of whatever was in hypo number IV ought to do something or other about infections settled in the lymphatic system—which, God knows, this one was. What did the lower-case “g” mean, though? He studied the glass hypo and saw letters engraved on what looked like a rotating disk at the top of the barrel. They ran from “a” to “i,” and there was an index line engraved on the barrel on the opposite side from the calibrations.
 
-Shrugging, old Dr. Full turned the disk until “g” coincided with the index line, and lifted the hypo to eye level. As he pressed in the plunger he did not see the tiny thread of fluid squirt from the tip of the needle. There was a sort of dark mist for a moment about the tip. A closer inspection showed that the needle was not even pierced at the tip. It had the usual slanting cut across the bias of the shaft, but the cut did not expose an oval hole. Baffled, he tried pressing the plunger again. Again something appeared around the tip and vanished. “We’ll settle this,” said the doctor. He slipped the needle into the skin of his forearm. He thought at first that he had missed—that the point had glided over the top of his skin instead of catching and slipping under it. But he saw a tiny blood spot and realized that somehow he just hadn’t felt the puncture. Whatever was in the barrel, he decided, couldn’t do him any harm if it lived up to its billing—and if it could come out through a needle that had no hole. He gave himself three cc. and twitched the needle out. There was the swelling— painless, but otherwise typical.
+Shrugging, old Dr. Full turned the disk until “g” coincided with the index line, and lifted the hypo to eye level. As he pressed in the plunger he did not see the tiny thread of fluid squirt from the tip of the needle. There was a sort of dark mist for a moment about the tip. A closer inspection showed that the needle was not even pierced at the tip. It had the usual slanting cut across the bias of the shaft, but the cut did not expose an oval hole. Baffled, he tried pressing the plunger again. Again something appeared around the tip and vanished. “We’ll settle this,” said the doctor. He slipped the needle into the skin of his forearm. He thought at first that he had missed—that the point had glided over the top of his skin instead of catching and slipping under it. But he saw a tiny blood spot and realized that somehow he just hadn’t felt the puncture. Whatever was in the barrel, he decided, couldn’t do him any harm if it lived up to its billing—and if it could come out through a needle that had no hole. He gave himself three cc. and twitched the needle out. There was the swelling—painless, but otherwise typical.
 
 Dr. Full decided it was his eyes or something, and gave three cc. of “g” from hypodermic IV to the feverish child. There was no interruption to her wailing as the needle went in and the swelling rose. But a long instant later, she gave a final gasp and was silent.
 
@@ -1130,9 +1311,9 @@ The slot mas saw “FLANNERY 1—MEDICAL” in the upper left comer of the hunk 
 
 been handling Edna Flannery’s quack-expose series. She was a nice youngster, he thought, but like all youngsters she overwrote. Hence, the “trim.”
 
-Piper dealt back a city hall story to the slot, pinned down Flannery’s feature with one hand and began to tap his pencil across it, one tap to a word, at the same steady beat as a teletype carriage traveling across the roller. He wasn’t exactly reading it this first time. He was just looking at the letters and words to find out whether, as letters and words, they conformed to Herald style. The steady tap of his pencil ceased at intervals as it drew a black line ending with a stylized letter “d” through the word “breast” and scribbled in “chest” instead, or knocked down the capital “E” in “East” to lower case with a diagonal, or closed up a split word— in whose middle Flannery had bumped the space bar of her typewriter—with two curved lines like parentheses rotated through ninety degrees. The thick black pencil zipped a ring around the “30,” which, like all youngsters, she put at the end of her stories. He turned back to the first page for the second reading. This time the pencil drew lines with the stylized “d’s” at the end of them through adjectives and whole phrases, printed big “L’s” to mark paragraphs, hooked some of Flannery’s own paragraphs together with swooping recurved lines.
+Piper dealt back a city hall story to the slot, pinned down Flannery’s feature with one hand and began to tap his pencil across it, one tap to a word, at the same steady beat as a teletype carriage traveling across the roller. He wasn’t exactly reading it this first time. He was just looking at the letters and words to find out whether, as letters and words, they conformed to Herald style. The steady tap of his pencil ceased at intervals as it drew a black line ending with a stylized letter “d” through the word “breast” and scribbled in “chest” instead, or knocked down the capital “E” in “East” to lower case with a diagonal, or closed up a split word—in whose middle Flannery had bumped the space bar of her typewriter—with two curved lines like parentheses rotated through ninety degrees. The thick black pencil zipped a ring around the “30,” which, like all youngsters, she put at the end of her stories. He turned back to the first page for the second reading. This time the pencil drew lines with the stylized “d’s” at the end of them through adjectives and whole phrases, printed big “L’s” to mark paragraphs, hooked some of Flannery’s own paragraphs together with swooping recurved lines.
 
-At the bottom of “FLANNERY ADD 2— MEDICAL” the pencil slowed down and stopped. The slot man, sensitive to the rhythm of his beloved copy desk, looked up almost at once. He saw Piper squinting at the story, at a loss. Without wasting words, the copy reader skimmed it back across the Masonite horseshoe to the chief, caught a police story in return and buckled down, his pencil tapping. The slot man read as far as the fourth add, barked at Howard, on the rim: “Sit in for me,” and stumped through the clattering city room toward the alcove where the managing editor presided over his own bedlam.
+At the bottom of “FLANNERY ADD 2—MEDICAL” the pencil slowed down and stopped. The slot man, sensitive to the rhythm of his beloved copy desk, looked up almost at once. He saw Piper squinting at the story, at a loss. Without wasting words, the copy reader skimmed it back across the Masonite horseshoe to the chief, caught a police story in return and buckled down, his pencil tapping. The slot man read as far as the fourth add, barked at Howard, on the rim: “Sit in for me,” and stumped through the clattering city room toward the alcove where the managing editor presided over his own bedlam.
 
 The copy chief waited his turn while the make-up editor, the pressroom foreman, and the chief photographer had words with the M.E. When his turn came, he dropped Flannery’s copy on his desk and said: “She says this one isn’t a quack.”
 
@@ -1196,7 +1377,7 @@ He would probably present it to the College of Surgeons, with as little fuss as 
 
 It was nice that she had been showing so much interest in the surgical side lately—asking about the instruments, reading the instruction card for hours, even practicing on guinea pigs. If something of his love for humanity had been communicated to her, old Dr. Full sentimentally thought, his life would not have been in vain. Surely she would realize that a greater good would be served by surrendering the instruments to wiser hands than theirs, and by throwing aside the cloak of secrecy necessary to work on their small scale.
 
-Dr. Full was in the treatment room that had been the brownstone’s front parlor; through the window he saw Angie’s yellow convertible roll to a stop before the stoop. He liked the way she looked as she climbed the stairs; neat, not flashy, he thought. A sensible girl like that, she’d understand. There was somebody with her— a fat woman, puffing up the steps, overdressed and petulant. Now, what could she want?
+Dr. Full was in the treatment room that had been the brownstone’s front parlor; through the window he saw Angie’s yellow convertible roll to a stop before the stoop. He liked the way she looked as she climbed the stairs; neat, not flashy, he thought. A sensible girl like that, she’d understand. There was somebody with her—a fat woman, puffing up the steps, overdressed and petulant. Now, what could she want?
 
 Angie let herself in and went into the treatment room, followed by the fat woman. “Doctor,” said the blond girl gravely, “may I present Mrs. Coleman?” Charm school had not taught her everything, but Mrs.
 
@@ -1290,7 +1471,7 @@ Angie smiled—
 
 A1 returned to the clinic after an excellent lunch that had almost reconciled him to three more months he would have to spend on duty. And then, he thought, and then a blessed year at the blessedly super-normal South Pole working on his specialty—which happened to be telekinesis exercises for ages three to six. Meanwhile, of course, the world had to go on and of course he had to shoulder his share in the running of it.
 
-Before settling down to desk work he gave a routine glance at the bag board. What he saw made him stiffen with shocked surprise. A red light was on next to one of the numbers—the first since he couldn’t think when. He read off the number and murmured “O.K., 674,101. That fixes you." He put the number on a card sorter and in a moment the record was in his hand. Oh, yes— Hemingway’s bag. The big dummy didn’t remember how or where he had lost it; none of them ever did. There were hundreds of them floating around.
+Before settling down to desk work he gave a routine glance at the bag board. What he saw made him stiffen with shocked surprise. A red light was on next to one of the numbers—the first since he couldn’t think when. He read off the number and murmured “O.K., 674,101. That fixes you." He put the number on a card sorter and in a moment the record was in his hand. Oh, yes—Hemingway’s bag. The big dummy didn’t remember how or where he had lost it; none of them ever did. There were hundreds of them floating around.
 
 Al’s policy in such cases was to leave the bag turned on. The things practically ran themselves, it was practically impossible to do harm with them, so whoever found a lost one might as well be allowed to use it. You turn it off, you have a social loss—you leave it on, it may do some good. As he understood it, and not very well at that, the stuff wasn’t “used up.” A temporalist had tried to explain it to him with little success that the prototypes in the transmitter had been transducted through a series of point-events of transfinite cardinality. A1 had innocently asked whether that meant prototypes had been stretched, so to speak, through all time, and the temporalist had thought he was joking and left in a huff.
 
@@ -1308,11 +1489,17 @@ Smiling, the knife plunging in and its microtomesharp metal shearing through maj
 
 In the few minutes it took the police, summoned by the shrieking Mrs. Coleman, to arrive, the instruments had become crusted with rust, and the flasks which had held vascular glue and clumps of pink, rubbery alveoli and spare gray cells and coils of receptor nerves held only black slime, and from them when opened gushed the foul gases of decomposition.
 
-The Luckiest Man in Denv
+---
 
-One of the words that seems mast applicable to Kornbluth's work Is "economical." Far same audiences this is nat a virtue; Karnbluth grew up in science fiction and made full use af its short-hand vocabulary; he expected his audience to understand it without explanation, and so is sometimes too telegraphic and taa compact for readers wha expect to be told everything in full detail, and twice. The Luckiest Man fn Denv contains six major characters, almost as many plat turns, a working model af a whale new social structure, and the germ of a textbook's worth of warning about the waste of scarce resources . . . all in five thousand wordll
+the_luckiest_man_in_denv
 
-May’s man Reuben, of the eighty-third level, Atomist, knew there was something wrong when the binoculars flashed and then went opaque. Inwardly he cursed, hoping that he had not committed himself to anything. Outwardly he was unperturbed. He handed the binoculars back to Rudolph’s man Almon, of the eighty-ninth level, Maintainer, with a smile.
+# The Luckiest Man in Denv
+
+.intro_block
+One of the words that seems most applicable to Kornbluth's work Is “economical.” For some audiences this is not a virtue; Kornbluth grew up in science fiction and made full use of its short-hand vocabulary; he expected his audience to understand it without explanation, and so is sometimes too telegraphic and too compact for readers who expect to be told everything in full detail, and twice. *The Luckiest Man in Denv* contains six major characters, almost as many plot turns, a working model of a whole new social structure, and the germ of a textbook’s worth of warning about the waste of scarce resources . . . all in five thousand words!
+
+.fl
+<span class="smallcaps">May’s man Reuben,</span> of the eighty-third level, Atomist, knew there was something wrong when the binoculars flashed and then went opaque. Inwardly he cursed, hoping that he had not committed himself to anything. Outwardly he was unperturbed. He handed the binoculars back to Rudolph’s man Almon, of the eighty-ninth level, Maintainer, with a smile.
 
 “They aren’t very good,” he said.
 
@@ -1370,7 +1557,7 @@ May surveyed him, and Reuben noted that there were pouches of skin depending fro
 
 “You’re a well-made boy, Reuben. Do you have women?”
 
-“Yes, sir,” said Reuben hastily. “One after another— I always have women. I’m making up at this time to a charming thing called Selene. Well-rounded, yet firm, soft but supple, with long red hair and long white legs—” “Spare me the details,” muttered the general. “It takes all kinds. An Atomist, you said. That has a future, to be sure. I myself was a Controller long ago. The calling seems to have gone out of fashion—”
+“Yes, sir,” said Reuben hastily. “One after another—I always have women. I’m making up at this time to a charming thing called Selene. Well-rounded, yet firm, soft but supple, with long red hair and long white legs—” “Spare me the details,” muttered the general. “It takes all kinds. An Atomist, you said. That has a future, to be sure. I myself was a Controller long ago. The calling seems to have gone out of fashion—”
 
 Abruptly the alarm stopped. The silence was hard to bear.
 
@@ -1378,11 +1565,11 @@ May swallowed and went on: “—for some reason or other. Why don’t youngster
 
 Reuben wished he could be saved by a direct hit. The binoculars, Selene, the raid, and now he was supposed to make intelligent conversation with a general.
 
-“I really don’t know, sir,” he said miserably. “At the time there seemed to be very little difference— Controller, Atomist, Missiler, Maintainer. We have a saying, ‘The buttons are different,’ which usually ends any conversation on the subject.”
+“I really don’t know, sir,” he said miserably. “At the time there seemed to be very little difference—Controller, Atomist, Missiler, Maintainer. We have a saying, ‘The buttons are different,’ which usually ends any conversation on the subject.”
 
 “Indeed?” asked May distractedly. His face was thinly filmed with sweat. “Do you suppose EUay intends to clobber us this time?” he asked almost hoarsely. “It’s been some weeks since they made a maximum effort, hasn’t it?”
 
-“Four,” said Reuben. “I remember because one of my best Servers was killed by a falling corridor roof— the only fatality and it had to happen to my team!”
+“Four,” said Reuben. “I remember because one of my best Servers was killed by a falling corridor roof—the only fatality and it had to happen to my team!”
 
 He laughed nervously and realized that he was talking like a fool, but May seemed not to notice.
 
@@ -1392,7 +1579,7 @@ Far below them, there was a series of screaming whistles as the interceptors wer
 
 Reuben averted his own eyes from the frightened face, feeling some awe drain out of him. Under a table with a general! It didn’t seem so strange now.
 
-“Perhaps, sir, you can tell me what a puzzling thing, that happened this afternoon, means. A fellow— Rudolph’s man Almon, of the eighty-ninth level—gave me a pair of binoculars that flashed in my eyes and then went opaque. Has your wide experience—”
+“Perhaps, sir, you can tell me what a puzzling thing, that happened this afternoon, means. A fellow—Rudolph’s man Almon, of the eighty-ninth level—gave me a pair of binoculars that flashed in my eyes and then went opaque. Has your wide experience—”
 
 May laughed hoarsely and said in a shaky voice: “That old trick! He was photographing your retinas for the blood-vessel pattern. One of Rudolph’s men, eh? I’m glad you spoke to me; I’m old enough to spot a revival like that. Perhaps my good friend Rudolph plans—”
 
@@ -1510,7 +1697,7 @@ He knew better than to struggle or ask futile questions. Any question you asked 
 
 They rode past the eighty-ninth level and Reuben lost count, seeing only the marvels of the upper reaches of Denv. He saw carpets that ran the entire length of corridors, and intricate fountains, and mosaic walls, stained-glass windows, more wonders than he could recognize, things for which he had no name.
 
-He was marched at last into a wood-paneled room with a great polished desk and a map behind it. He saw May, and another man who must have been a general— Rudolph?—but sitting at the desk was a frail old man who wore a circlet of stars on each khaki shoulder.
+He was marched at last into a wood-paneled room with a great polished desk and a map behind it. He saw May, and another man who must have been a general—Rudolph?—but sitting at the desk was a frail old man who wore a circlet of stars on each khaki shoulder.
 
 The old man said to Reuben: “You are an Ellay spy and saboteur.”
 
@@ -1562,7 +1749,7 @@ Reuben stiffened.
 
 “I’m not accusing you of being a spy. It’s really all right to go outside of Denv. I’ve been outside. There isn’t much to see at first—a lot of ground pocked and tom up by shorts and overs from Ellay and us. Farther out, especially east, it’s different. Grass, trees, flowers. Places where you could grow food.
 
-“When I went outside, it troubled me. It made me ask questions. I wanted to know how we started. Yes— started. It wasn’t always like this. Somebody built Denv. Am I getting the idea across to you? It wasn’t always like this!
+“When I went outside, it troubled me. It made me ask questions. I wanted to know how we started. Yes—started. It wasn’t always like this. Somebody built Denv. Am I getting the idea across to you? It wasn’t always like this!
 
 “Somebody set up the reactors to breed uranium and make plutonium. Somebody tooled us up for the missiles. Somebody wired the boards to control them. Somebody started the hydroponics tanks.
 
@@ -1592,11 +1779,17 @@ To the general, he said: “Sir, I have to report that your friend May is insane
 
 They put their heads together, the two saviors of civilization as they knew it, and conspired ingeniously long into the endless night
 
-The Silly Season
+---
 
-When World War II woi over, Cyril Karnblufh went to the University at Chicago an the G.l. Bill, in an accelerated program aiming at a master's degree. What kept him from making it was that our mutual triend Richard Wilson was also in Chicago, working as Bureau Manager far a news-wire service called Trant-Radia Press. He offered Cyril a chance ta make a tew bucks now and then as a stringer and then got him full-time on the staff; when Dick Wilson moved an ta bigger things Cyril inherited the jab ai Chicago bureau chief. Many sf writers have used reporters as viewpoint characters in their stories, Cyril was a reporter. It makes a difference.
+the_silly_season
 
-It was a hot summer afternoon in the Omaha bureau of the World Wireless Press Service, and the control bureau in New York kept nagging me for copy. But since it was a hot summer afternoon, there was no copy. A wrapup of local baseball had cleared about an hour ago, and that was that. Nothing but baseball happens in die summer. During the dog days, politicians are in the Maine woods fishing and boozing, burglars are too tired to burgle, and wives think it over and decide not to decapitate their husbands.
+# The Silly Season
+
+.intro_block
+When World War II was over, Cyril Kornbluth went to the University at Chicago on the G.I. Bill, in an accelerated program aiming at a master's degree. What kept him from making it was that our mutual friend Richard Wilson was also in Chicago, working as Bureau Manager for a news-wire service called Trans-Radio Press. He offered Cyril a chance to make a few bucks now and then as a stringer and then got him full-time on the staff; when Dick Wilson moved on to bigger things Cyril inherited the job as Chicago bureau chief. Many sf writers have used reporters as viewpoint characters in their stories, Cyril *was* a reporter. It makes a difference.
+
+.fl
+<span class="smallcaps">It was a</span> hot summer afternoon in the Omaha bureau of the World Wireless Press Service, and the control bureau in New York kept nagging me for copy. But since it was a hot summer afternoon, there was no copy. A wrapup of local baseball had cleared about an hour ago, and that was that. Nothing but baseball happens in die summer. During the dog days, politicians are in the Maine woods fishing and boozing, burglars are too tired to burgle, and wives think it over and decide not to decapitate their husbands.
 
 I pawed through some press releases. One sloppy stencil-duplicated sheet began: “Did you know that the lemonade way to summer comfort and health has been endorsed by leading physiotherapists from Maine to California? The Federated Lemon-Growers Association revealed today that a survey of 2,500 physiotherapists in 57 cities of more than 25,000 population disclosed that 87 per cent of them drink lemonade at least once a
 
@@ -1772,7 +1965,7 @@ A summer seminar was meeting outdoors, because of the frightful heat, at our own
 
 I interviewed every one of them. They weren’t yokels, but grown men and women, all with Masters’ degrees, working toward their doctorates during the summers. They agreed closely on their stories as I would expect trained and capable persons to do.
 
-The police, however, did not expect agreement, being used to dealing with the lower-I.Q. brackets. They arrested the twelve on some technical charge— “obstructing peace officers in the performance of their duties,” I believe—and were going to beat the living hell out of them when an attorney arrived with twelve writs of habeas corpus. The cops’ unvoiced suspicion was that the teachers had conspired to murder their professor, but nobody ever tried to explain why they’d^ do a thing like that.
+The police, however, did not expect agreement, being used to dealing with the lower-I.Q. brackets. They arrested the twelve on some technical charge—“obstructing peace officers in the performance of their duties,” I believe—and were going to beat the living hell out of them when an attorney arrived with twelve writs of habeas corpus. The cops’ unvoiced suspicion was that the teachers had conspired to murder their professor, but nobody ever tried to explain why they’d^ do a thing like that.
 
 The cops’ reaction was typical of the way the public took it. Newspapers—which had reveled wildly in the shining domes story and less so in the black spheres story—were cautious. Some went overboard and gave the black pits a ride, in the old style, but they didn’t pick up any sales that way. People declared that the press was insulting their intelligence, and also they were bored with marvels.
 
@@ -1808,17 +2001,23 @@ But he was right.
 
 The people of the world were the sheep.
 
-We newsmen—radio, TV, press, and wire services— were the boy, who should have been ready to sound the alarm.
+We newsmen—radio, TV, press, and wire services—were the boy, who should have been ready to sound the alarm.
 
 But the cunning wolves had tricked us into sounding the alarm so many times that the villagers were weary, and would not come when there was real peril.
 
 The wolves who then were burning their way through the Ozarks, utterly without opposition, the wolves were the Martians under whose yoke and lash we now endure our miserable existences.
 
-The Remorseful
+---
 
-One of the thing! that most attracts me to science fiction Is Its capacity to give what Harlaw Shapley calls "the view from a distant star/' the perspective on our humanity through the eyes of ncnhumans. The Remorseful strikes me as a fine example of this, but If I said I remembered it primarily far this quality I would be lying to you. The memory has to do with censonhip. When he wrote the story, Cyril had a line In the first paragraph that said "he masturbated incessantly." The editor who published it# after great soul-searching, deferred ta the prudery af the time and changed "masturbated" to "brooded." Well, times have changed. If Cyril were alive today and an editor so peremptorily altered hii meaning, I think he would punch the clod in the head. I know I would, and so I am pleased here, for the first time in print, to restore Cyril's original language to the story. On the other hand, I know just how the original editor felt when he made the change, because he was me.
+the_remorseful
 
-It does not matter when it happened. This is because he was alone and time had ceased to have any meaning for him. At first he had searched the rubble for other survivors, which kept him busy for a couple of years. Then he wandered across the continent in great, vague quarterings, but the plane one day would not take off and he knew he would never find anybody anyway. He was by then in his forties, and a kind of sexual delirium overcame him. He searched out and pored over pictures of women, preferring leggy, high-breasted types. They haunted his dreams; he masturbated incessantly with closed eyes, tears leaking from them and running down his filthy bearded face. One day that phase ended for no reason and he took up his wanderings again, on foot.
+# The Remorseful
+
+.intro_block
+One of the things that most attracts me to science fiction Is Its capacity to give what Harlaw Shapley calls “the view from a distant star,” the perspective on our humanity through the eyes of nonhumans. *The Remorseful* strikes me as a fine example of this, but If I said I remembered it primarily for this quality I would be lying to you. The memory has to do with censorship. When he wrote the story, Cyril had a line In the first paragraph that said “he masturbated incessantly.” The editor who published it, after great soul-searching, deferred to the prudery of the time and changed "masturbated" to "brooded." Well, times have changed. If Cyril were alive today and an editor so peremptorily altered his meaning, I think he would punch the clod in the head. I know I would, and so I am pleased here, for the first time in print, to restore Cyril's original language to the story. On the other hand, I know just how the original editor felt when he made the change, because he was me.
+
+.fl
+<span class="smallcaps">It does not</span> matter when it happened. This is because he was alone and time had ceased to have any meaning for him. At first he had searched the rubble for other survivors, which kept him busy for a couple of years. Then he wandered across the continent in great, vague quarterings, but the plane one day would not take off and he knew he would never find anybody anyway. He was by then in his forties, and a kind of sexual delirium overcame him. He searched out and pored over pictures of women, preferring leggy, high-breasted types. They haunted his dreams; he masturbated incessantly with closed eyes, tears leaking from them and running down his filthy bearded face. One day that phase ended for no reason and he took up his wanderings again, on foot.
 
 North in the summer, south in the winter on weed-grown U.S. 1, with the haversack of pork and beans on his shoulders, usually talking as he trudged, sometimes singing.
 
@@ -1830,14 +2029,16 @@ The Visitors were more sensibly arranged. Their billion lives were not cells but
 
 When one of the insects died there were no rites; it was matter-of-factly pulled to pieces and eaten by its neighboring insects while it was still fresh. It mattered no more to the Visitor than the growing of your hair does to you, and the growing of your hair is accomplished only by the deaths of countless cells.
 
-“Maybe on Mars!” he shouted as he trudged. The haversack jolted a shoulder blade and he arranged a strap without breaking his stride. Birds screamed and scattered in the dark pine forests as he roared at them: “Well, why not? There must of been ten thousand up there easy. Progress, God damn it! That’s progress, man! Never thought it’d come in my time. But you’d think they would of sent a ship back by now so a man wouldn’t feel so all alone. You know better than that, man. You know God damned good and well it happened up there too. We had Northern Semisphere, they had Southern Semisphere, so you know God damned good and well what happened up there. Semisphere? Hemisphere. Hemi-semi-demisphere.”
+.space
+“Maybe on Mars!” he shouted as he trudged. The haversack jolted a shoulder blade and he arranged a strap without breaking his stride. Birds screamed and scattered in the dark pine forests as he roared at them: “Well, why not? There must of been ten thousand up there easy. Progress, God damn it! That’s *progress*, man! Never thought it’d come in my time. But you’d think they would of sent a ship back by now so a man wouldn’t feel so all alone. You know better than that, man. You know God damned good and well it happened up there too. We had Northern Semisphere, they had Southern Semisphere, so you know God damned good and well what happened up there. Semisphere? Hemisphere. Hemi-semi-demisphere.”
 
 That was a good one, the best one he’d come across in years. He roared it out as he went stumping along.
 
-When he got tired of it he roared: “You should of been in the Old Old Army, man. We didn’t go in for this Liberty Unlimited crock in the Old Old Army. If you wanted to march in step with somebody else you marched in step with somebody else, man. None of this crock about you march out of step or twenty lashes from the sergeant for limiting your liberty.”
+When he got tired of it he roared: “You should of been in the *Old* Old Army, man. We didn’t go in for this Liberty Unlimited crock in the *Old* Old Army. If you wanted to march in step with somebody else you *marched* in step with somebody else, man. None of this crock about you march out of step or twenty lashes from the sergeant for limiting your liberty.”
 
-That was a good one too, but it made him a little uneasy. He tried to remember whether he had been in the army or had just heard about it. He realized in time that a storm was blowing up from his depths; unless he headed it off he would soon be sprawled on the broken concrete of U.S. 1, sobbing and beating his head with his fists. He went back hastily to Sem-isphere, Hemisphere, Hem-i-sem-i-dem-isphere, roaring it at the scared birds as he trudged.
+That was a good one too, but it made him a little uneasy. He tried to remember whether he had been in the army or had just heard about it. He realized in time that a storm was blowing up from his depths; unless he headed it off he would soon be sprawled on the broken concrete of U.S. 1, sobbing and beating his head with his fists. He went back hastily to *Sem*-isphere, *Hem*-isphere, *Hem-i-sem-i-dem*-isphere, roaring it at the scared birds as he trudged.
 
+.space
 There were four Visitors aboard the ship when it entered the planetary system. One of them was left on a cold outer planet rich in metal outcrops to establish itself in a billion tiny shelters, build a billion tiny forges, and eventually—in a thousand years or a million; it made no difference—construct a space ship, fission into two or more Visitors for company, and go Visiting. The ship had been getting crowded; as more and more information was acquired in its voyaging it was necessary for the swarms to increase in size, breeding more insects to store the new facts.
 
 The three remaining Visitors turned the prow of their ship toward an intermediate planet and made a brief, baffling stop there. It was uninhabited except for about ten thousand entities—far fewer than one would expect, and certainly not enough for an efficient first-contact study. The Visitors made for the next planet sunward after only the sketchiest observation. And yet that sketchy observation of the entities left them figuratively shaking their heads. Since the Visitors had no genitals they were in a sense without emotions—but you would have said a vague air of annoyance hung over the ship nevertheless.
@@ -1848,12 +2049,14 @@ They reserved judgment pending analysis of the sunward planet’s entities—pos
 
 They landed.
 
-He woke and drank water from a roadside ditch. There had been a time when water was the problem. You put three drops of iodine in a canteen. Or you boiled it if you weren’t too weak from dysentery. Or you scooped it from the tank of a flush toilet in the isolated farmhouse with the farmer and his wife and their kids downstairs grotesquely staring with their empty eye sockets at the television screen for the long-ago-spoken latest word. Disease or dust or shattering supersonics broadcast from the bullhorn of a low-skimming drone—what did it matter? Safe water was what mattered.
+.space
+He woke and drank water from a roadside ditch. There had been a time when water was *the* problem. You put three drops of iodine in a canteen. Or you boiled it if you weren’t too weak from dysentery. Or you scooped it from the tank of a flush toilet in the isolated farmhouse with the farmer and his wife and their kids downstairs grotesquely staring with their empty eye sockets at the television screen for the long-ago-spoken latest word. Disease or dust or shattering supersonics broadcast from the bullhorn of a low-skimming drone—what did it matter? Safe water was what mattered.
 
 “But hell,” he roared, “it’s all good now. Hear that? The rain in the ditches, the standing water in the pools, it’s all good now. You should have been Lonely Man back when the going was bad, fella, when the bullhorns still came over and the stiffs shook when they did and Lonely Man didn’t die but he wished he could . . .”
 
 This time the storm took him unaware and was long in passing. His hands were ragged from flailing the broken concrete and his eyes were so swollen with weeping that he could hardly see to shoulder his sack of cans. He stumbled often that morning. Once he fell and opened an old scar on his forehead, but not even that interrupted his steady, mumbling chant: “ ’Tain’t no boner, ’tain’t no blooper; Corey’s Gin brings super stupor. We shall conquer; we will win. Back our boys with Corey’s Gin. Wasting time in war is sinful; black out fast with a Corey skinful.”
 
+.space
 They landed.
 
 Five thousand insects of each “life” heaved on fifteen thousand wires to open the port and let down the landing ramp. While they heaved a few hundred felt the pangs of death on them. They communicated the minute all-they-knew to blank-minded standby youngsters, died, and were eaten. Other hundreds stopped heaving briefly, gave birth, and resumed heaving.
@@ -1870,19 +2073,19 @@ Deliberately they clustered themselves in three huge black balls, with the objec
 
 They didn’t—not after running up and down every spectrum of thought in which they could project. Their attempt at reception was more successful, and completely horrifying. A few weak, attenuated messages did come through to the Vistors. They revealed the entities of the planet to be dull, whimpering cravens, whining evasively, bleating with self-pity. Though there were only two sexes among them, a situation which leads normally to a rather weak sex drive as such things go in the cosmos, these wispy things vibrated with libido which it was quite impossible for them to discharge.
 
-The Visitors, thoroughly repelled, were rippling back toward their ship when one signaled: notice and hide.
+The Visitors, thoroughly repelled, were rippling back toward their ship when one signaled: *notice and hide.*
 
-The three great black carpets abruptly vanished— that is, each insect found itself a cranny to disappear into, a pebble or leaf to be on the other side of. Some hope flared that the visit might be productive of a more pleasant contact than the last with those aimless, chit-tering cretins.
+The three great black carpets abruptly vanished—that is, each insect found itself a cranny to disappear into, a pebble or leaf to be on the other side of. Some hope flared that the visit might be productive of a more pleasant contact than the last with those aimless, chit-tering cretins.
 
 The thing stumping across the terrain toward them was like and unlike the wave-train cretins. It had their conformation but was material rather than undulatory in nature—a puzzle that could wait. It appeared to have no contact with the wave-train life form. They soared and darted about it as it approached, but it ignored them. It passed once through a group of three who happened to be on the ground in its way.
 
 Tentatively the three Visitors reached out into its mind. The thoughts were comparatively clear and steady.
 
-When the figure had passed the Visitors chorused: Agreed, and headed back to their ship. There was nothing there for them. Among other things they had drawn from the figure’s mind was the location of a ruined library; a feeble-minded working party of a million was dispatched to it.
+When the figure had passed the Visitors chorused: *Agreed*, and headed back to their ship. There was nothing there for them. Among other things they had drawn from the figure’s mind was the location of a ruined library; a feeble-minded working party of a million was dispatched to it.
 
 Back at the ship they waited, unhappily ruminating the creatures foreground thoughts: “From Corey’s Gin you get the charge to tote that bale and lift that barge. That’s progress, God damn it. You know better than that, man. Liberty Unlimited for the Lonely Man, but it be nice to see that Mars ship land . . .”
 
-Agreement: Despite all previous experience it seems that a sentient race is capable of destroying itself.
+Agreement: *Despite all previous experience it seems that a sentient race is capable of destroying itself.*
 
 When the feeble-minded library detail returned and gratefully reunited itself with its parent “lives” they studied the magnetic tapes it had brought, reading them direct in the cans. They learned the name of the planet and the technical name for the wave-train entities which had inherited it and which would shortly be its sole proprietors. The solid life forms, it seemed, had not been totally unaware of them, though there was some confusion: Far the vaster section of the library denied that they existed at all. But in the cellular minds of the Visitors there could be no doubt that the creatures described in a neglected few of the library’s lesser works were the ones they had encountered. Everything tallied. Their non-material quality; their curious reaction to light. And, above all, their dominant personality trait, of remorse, repentance, furious regret. The technical term that the books gave to them was: ghosts.
 
@@ -1890,13 +2093,19 @@ The Visitors worked ship, knowing that the taste of this world and its colony wo
 
 But they had never left a solar system so gratefully or so fast.
 
-Gomez
+---
 
-New York wot not always a nightmare city, and Cyril (as did I) laved ta ramble around the neighborhoods. We rambled a lot of them together, but where my particular turf was Brooklyn his was uptown Manhattan, including the Spanish-speaking neighborhoods. He had an observant eye, and also a listening ear, which he sharpened up in neighborhood bars. I don't know who Julio was—barman? delivery boy? numbers runner?—but I know where Cyril found him: sitting an a stool, with an elbow an the mahogany, talking about baseball or why the Mayor of New York was clearly insane.
+gomez
 
-Now that I’m a cranky, constipated old man I can afford to say that the younger generation of scientists makes me sick to my stomach. Short-order fry cooks of destruction, they hear through the little window the dim order: “Atom bomb rare, with cobalt sixty!” and sing it back and rattle their stinking skillets and sling the deadly hash—just what the customer ordered, with never a notion invading their smug, too-heated havens that there’s a small matter of right and wrong that takes precedence even over their haute cuisine.
+# Gomez
 
-There used to be a slew of them who yelled to high heaven about it Weiner, Urey, Szilard, Morrison— dead now, and worse. Unfashionable. The greatest of them you have never heard of. Admirial MacDonald never did clear the story. He was Julio Gomez, and his story was cleared yesterday by a fellow my Jewish friends call Malach Hamovis, the Hovering Angel of Death. A black-bordered letter from Rosa advised me that Malach Hamovis had come in on runway six with his flaps down and picked up Julio at the age of thirty-nine. Pneumonia.
+.intro_block
+New York was not always a nightmare city, and Cyril (as did I) loved to ramble around the neighborhoods. We rambled a lot of them together, but where my particular turf was Brooklyn his was uptown Manhattan, including the Spanish-speaking neighborhoods. He had an observant eye, and also a listening ear, which he sharpened up in neighborhood bars. I don't know who Julio was—barman? delivery boy? numbers runner?—but I know where Cyril found him: sitting an a stool, with an elbow an the mahogany, talking about baseball or why the Mayor of New York was clearly insane.
+
+.fl
+<span class="smallcaps">Now that I’m</span> a cranky, constipated old man I can afford to say that the younger generation of scientists makes me sick to my stomach. Short-order fry cooks of destruction, they hear through the little window the dim order: “Atom bomb rare, with cobalt sixty!” and sing it back and rattle their stinking skillets and sling the deadly hash—just what the customer ordered, with never a notion invading their smug, too-heated havens that there’s a small matter of right and wrong that takes precedence even over their haute cuisine.
+
+There used to be a slew of them who yelled to high heaven about it Weiner, Urey, Szilard, Morrison—dead now, and worse. Unfashionable. The greatest of them you have never heard of. Admirial MacDonald never did clear the story. He was Julio Gomez, and his story was cleared yesterday by a fellow my Jewish friends call Malach Hamovis, the Hovering Angel of Death. A black-bordered letter from Rosa advised me that Malach Hamovis had come in on runway six with his flaps down and picked up Julio at the age of thirty-nine. Pneumonia.
 
 “But,” Rosa painfully wrote, “Julio would want you to know he died not too unhappy, after a good though short life with much of satisfaction . . ."
 
@@ -1920,34 +2129,38 @@ I registered. “That’s certainly a different approach, doctor. How do you mea
 
 He said impressively: “Education—technical education—is the key to the underlying issues of our time. I am deeply concerned over the unawareness of the general public to the meaning and accomplishments of science. People underrate me—underrate science, that is—because they do not understand science. Let me show you something.” He rummaged for a moment through papers on his desk and handed me a sheet of lined tablet paper covered with chicken-track handwriting. “A letter I got,” he said. I squinted at. the penciled scrawl and read:
 
-October 12
+.space.right.thin
+*October 12*
 
-Esteemed Sir:
+.no-indent.thin
+*Esteemed Sir:*
 
-Beg to introduce self to you the atomic Scientist as a youth 17 working with diligence to perfect self in Mathematical Physics. The knowledge of English is imperfect since am in New-York 1 year only from Puerto Rico and due to Father and Mother poverty must wash the dishes in the restaurant. So esteemed sir excuse imperfect English which will better.
+.thin
+*Beg to introduce self to you the atomic Scientist as a youth 17 working with diligence to perfect self in Mathematical Physics. The knowledge of English is imperfect since am in New-York 1 year only from Puerto Rico and due to Father and Mother poverty must wash the dishes in the restaurant. So esteemed sir excuse imperfect English which will better.*
 
-for any Concrete with which I familiarize myself. Whence arises relationship
+*I hesitate intruding your valuable Scientist time but hope you sometime spare minutes for diligents such as I. My difficulty is with neutron cross-section absorption of boron steel in Reactor which theory 1 am working out. Breeder reactors demand*
+$$
+u = \frac{x}{1} + \frac{x^5}{1} + \frac{x^{10}}{1} + \frac{x^{15}}{1} + \cdots
+$$
+*for boron steel, compared with neutron cross-section absorption of*
+$$
+v = \frac{x
+^{1/5}}{1} + \frac{x}{1} + \frac{x^{2}}{1} + \frac{x^{3}}{1} + \cdots
+$$
+*for any Concrete with which I familiarize myself. Whence arises relationship*
 
-I hesitate intruding your valuable Scientist time but hope you sometime spare minutes for diligents such as I. My difficulty is with neutron cross-section absorption of boron steel in Reactor which theory 1 am working out. Breeder reactors demand
+$$
+v^5 = u\frac{1-2u+4u^2-3u^2+u^4}{1+3u+4u^2+2u^3+u^4}
+$$
+*indicating only a fourfold breeder gain. Intuitively 1 dissatisfy with this gain and beg to intrude your time to ask wherein I neglect. With the most sincere thanks.*
 
-for boron steel, compared with neutron cross-section absorption of
+.right
+*J. Gomez*
+*% Porto Bello Lunchroom*
+*124th St. & St. Nicholas Ave.*
+*New-York, New-York*
 
-.	1 — 2u + 4u2 — 3us + u4
-
-1 + 3u + 4u2 + 2ua + u1
-
-V" = u
-
-indicating only a fourfold breeder gain. Intuitively 1 dissatisfy with this gain and beg to intrude your time to ask wherein I neglect. With the most sincere thanks.
-
-J. Gomez
-
-% Porto Bello Lunchroom
-
-124th St. & St. Nicholas Ave.
-
-New-York, New-York
-
+.space
 I laughed and told Dr. Sugarman appreciatively: “That’s a good one. I wish our cranks kept in touch with us by mail, but they don’t. In the newspaper business they come in and demand to see the editor. Could I use it, by the way? The readers ought to get a boot out of it.”
 
 He hesitated and said: “All right—if you don’t use my name. Just say ‘a prominent physicist.’ I didn’t think it was too funny myself though, but I see your point, of course. The boy may be feeble-minded—and he probably is—but he believes, like too many people, that science is just a bag of tricks that any ordinary person can acquire—”
@@ -1956,6 +2169,7 @@ And so on and so on.
 
 I went back to the office and wrote the interview in twenty minutes. It took me longer than that to talk the Sunday editor into running the Gomez letter in a box on the atom-anniversary page, but he finally saw it my way. I had to retype it. If I’d just sent the letter down to the composing room as was, we would have had a strike on our hands.
 
+.space
 On Sunday morning, at a quarter past six, I woke up to the tune of fists thundering on my hotel-room door. I found my slippers and bathrobe and lurched blearily across the room. They didn’t wait for me to unlatch. The door opened. I saw one of the hotel clerks, the Sunday editor, a frosty-faced old man, and three hardfaced, hard-eyed young men. The hotel clerk mumbled and retreated and the others moved in. “Chief,” I asked the Sunday editor hazily, “what’s going—?”
 
 A hard-faced young man was standing with his back to the door; another was standing with his back to the window and the third was blocking the bathroom door.
@@ -1970,16 +2184,20 @@ When the search was over the frosty-faced old boy said to me: “I am Rear Admir
 
 I read, blearily:
 
+.space.center.smallcaps
 WHAT’S SO TOUGH ABOUT A-SCIENCE?
-
 TEENAGE POT-WASHER DOESN’T KNOW
 
+.space.thin
 A letter received recently by a prominent local atomic scientist points up Dr. Sugarman’s complaint (see adjoining column) that the public does not appreciate how hard a physicist works. The text, complete with “mathematics” follows:
 
+.fl.thin
 Esteemed Sir:
 
+.thin
 Beg to introduce self to you the Atomic Scientist as youth 17 working—
 
+.space
 “Yes,” I told the admiral. “I wrote it, except for the headline. What about it?”
 
 He snapped: “The letter is purportedly from a New York youth seeking information, yet there is no address for him given. Why is that?”
@@ -2010,7 +2228,8 @@ With an effort he said: “I should apologize for the abruptness and discourtesy
 
 “It’s a deal,” said the admiral, sourly. He seemed to realize suddenly that the Sunday editor had been figuring on such a deal all along.
 
-On the plane for New York, file admiral filled me in. He was precise and unhappy, determined to make the best of a bad job. “I was awakened at three this morning by a phone call from the chairman of the Atomic Energy Commission. He had been awakened by a call from Dr. Monroe of the Scientific Advisory Committee. Dr. Monroe had been up late working and sent out for the Sunday Tribune to read before going to sleep. He saw the Gomez letter and went off like a sixteen-inch rifle. The neutron cross-section absorption relationship expressed in it happens to be, Mr. Vilchek, his own work. It also happens to be one of the nation’s most closely guarded—er—atomic secrets. Presumably this Gomez stumbled on it somehow, as a janitor or something of the sort, and is feeding his ego by pretending to be an atomic scientist.”
+.space
+On the plane for New York, the admiral filled me in. He was precise and unhappy, determined to make the best of a bad job. “I was awakened at three this morning by a phone call from the chairman of the Atomic Energy Commission. He had been awakened by a call from Dr. Monroe of the Scientific Advisory Committee. Dr. Monroe had been up late working and sent out for the Sunday Tribune to read before going to sleep. He saw the Gomez letter and went off like a sixteen-inch rifle. The neutron cross-section absorption relationship expressed in it happens to be, Mr. Vilchek, his own work. It also happens to be one of the nation’s most closely guarded—er—atomic secrets. Presumably this Gomez stumbled on it somehow, as a janitor or something of the sort, and is feeding his ego by pretending to be an atomic scientist.”
 
 I scratched my unshaved jaw. “Admiral,” I said, “you wouldn’t kid me? How can three equations be a top atomic secret?”
 
@@ -2444,11 +2663,17 @@ The grocer painfully added up again and said, “Is seventeen thirty-nine. Sorry
 
 We didn’t discuss it then or ever. Julio just said; “Don’t tell, Beel.” And winked.
 
-The Advent on Channel Twelve
+---
 
-In the mid-50* Cyril7! two sons were both very imall, but not to small that they hadn't discovered television. The Mickey Mouse Club was a visitor in the Karnbluth home every night, and the two little kids, and Cyril himself, never missed it. I don't know what the bays thought of this national mania (everywhere you went kids were singing the Mauseketeer sang and wearing mauie-ear hats), but I can tell what Cyril thought of it—and so can you, from reading The Advent an Channel Twelve.
+the_advent_on_channel_12
 
-It came to pass in the third quarter of the fiscal year that the Federal Reserve Board did raise the rediscount rate and money was tight in the land. And certain bankers which sate in New York sent to Ben Graffis in Hollywood a writing which said, Money is tight in the land so let Poopy Panda up periscope and fire all bow tubes.
+# The Advent on Channel Twelve
+
+.intro_block
+In the mid-50s Cyril’s two sons were both very small, but not to small that they hadn't discovered television. The Mickey Mouse Club was a visitor in the Kornbluth home every night, and the two little kids, and Cyril himself, never missed it. I don't know what the boys thought of this national mania (everywhere you went kids were singing the Mouseketeer sang and wearing mouse-ear hats), but I can tell what Cyril thought of it—and so can you, from reading *The Advent an Channel Twelve.*
+
+.fl
+<span class="smallcaps">It came to</span> pass in the third quarter of the fiscal year that the Federal Reserve Board did raise the rediscount rate and money was tight in the land. And certain bankers which sate in New York sent to Ben Graffis in Hollywood a writing which said, Money is tight in the land so let Poopy Panda up periscope and fire all bow tubes.
 
 Whereupon Ben Graffis made to them this moan:
 
@@ -2472,6 +2697,7 @@ And the animators and directors and cameramen and writers were sore amazed and t
 
 Whereupon another which was a director said to Ben Graffis, O chief, the thing can be done with a two-week buildup, and Ben Graffis put his hands over his face and said, Let it be so.
 
+.space
 And it came to pass that on the Friday after the two-week buildup, in the closing quarter-hour of the Poopy Panda Pals, there was a special film combining live and animated action as they were one.
 
 And in the special film did Poopy Panda appear en-haloed, and the talented kid performers did do him worship, and Otto Godd did trip over his feet whilst kneeling, and Jackie Whipple did urge in manly and sincere wise that all the Poopy Panda Pals out there in television-land do likewise, and the enhaloed Poopy Panda did say in his lovable growly voice, Poop-poop-poopy.
@@ -2482,23 +2708,30 @@ And it came to pass that Ben Graffis went into his office with his animators and
 
 Whereupon one which was a director looked at Who sate behind the desk that was the desk of Ben Graffis and he said to Ben Graffis, O chief, it is a great gag but how did the special effects boys manage the halo?
 
-And Ben Graffis was sore amazed at Who sate behind his desk and he and they all did crowd about and make as if to poke Him, whereupon He in His lovable growly voice did say, Poop-poop-poopy, and they were not
+And Ben Graffis was sore amazed at Who sate behind his desk and he and they all did crowd about and make as if to poke Him, whereupon He in His lovable growly voice did say, Poop-poop-poopy, and they were not.
 
 And certain unclean ones which had gone before turned unbelieving from their monitors and said, Holy Gee, this is awful. And one which was an operator of marionettes turned to his manager and said, Pal, if Graffis gets this off the ground we’re dead. Whereat a great and far-off voice was heard, saying, Poop-poop-poopy, and it was even so; and the days of Poopy Panda were long in the land.
 
-Filtered for error, Jan. 18th 36 P.P.
-
-Synod on Filtration & Infiltration O. Clodd, P.P.P.
-
+.right
+Filtered for error,
+Jan. 18th 36 P.P.
+Synod on Filtration & Infiltration
+O. Clodd, P.P.P.
 J. Whipple, P.P.P.
 
-The Marching Morons
+---
 
-1 described in this book's Introduction my special Interest In this story and "The Little Black Bag." So, a year or twa after both had been published, when Cyril and I were working out a plat far a new novel (it was published as Search the SfcyJ, we returned to the "marching moron" for the finale to the navel. We often borrowed from each other's heads, bath far collaborations and ance in a while for our own individual work, but I think this was the only time we borrowed fram already published work.
+the_marching_morons
 
-Some things had not changed. A potter’s wheel was still a potter’s wheel and clay was still clay. Efim Hawkins had built his shop near Goose Lake, which had a narrow band of good fat clay and a narrow beach of
+# The Marching Morons
 
-white sand. He fired three bottle-nosed kilns with willow charcoal from the wood lot. The wood lot was also useful for long walks while the kilns were cooling; if he let himself stay within sight of them, he would open them prematurely, impatient to see how some new shape or glaze had come through the fire, and— ping!—the new shape or glaze would be good for nothing but the shard pile back of his slip tanks.
+.intro_block
+I described in this book's Introduction my special Interest In this story and “The Little Black Bag.” So, a year or two after both had been published, when Cyril and I were working out a plot for a new novel (it was published as *Search the Sky*), we returned to the "marching morons" for the finale to the novel. We often borrowed from each other's heads, both for collaborations and once in a while for our own individual work, but I think this was the only time we borrowed from already published work.
+
+.fl
+<span class="smallcaps">Some things had</span> not changed. A potter’s wheel was still a potter’s wheel and clay was still clay. Efim Hawkins had built his shop near Goose Lake, which had a narrow band of good fat clay and a narrow beach of
+
+white sand. He fired three bottle-nosed kilns with willow charcoal from the wood lot. The wood lot was also useful for long walks while the kilns were cooling; if he let himself stay within sight of them, he would open them prematurely, impatient to see how some new shape or glaze had come through the fire, and—ping!—the new shape or glaze would be good for nothing but the shard pile back of his slip tanks.
 
 A business conference was in full swing in his shop, a modest cube of brick, tile-roofed, as the Chicago-Los Angeles “rocket” thundered overhead—very noisy, very sweptback, very fiery jets, shaped as sleekly swift-looking as an airborne barracuda.
 
@@ -2552,8 +2785,13 @@ Common sense took Hawkins by the scruff of the neck and yanked him over to the t
 
 The long walk left him sweating hard, with his lust for a peek into the kiln quiet in his breast. He swung his pick almost at random into one of the hummocks; it clanged on a stone which he excavated. A largely obliterated inscription said:
 
-ERSITY OF CHIC OGICAL LABO ELOVED MEMORY OF KILLED IN ACT
+.space.center
+ERSITY OF CHIC
+OGICAL LABO
+ELOVED MEMORY OF
+KILLED IN ACT
 
+.space
 The potter swore mildly. He had hoped the field would turn out to be a cemetery, preferably a once-fashionable cemetery full of once-massive bronze caskets moldered into oxides of tin and copper.
 
 Well, hell, maybe there was some around anyway.
@@ -2562,33 +2800,39 @@ He headed lackadaisically for the second largest hillock and sliced into it with
 
 Hawkins, puffing, pried up a stainless steel plate that was quite badly stained and was also marked with incised letters. It seemed to have pulled loose from rotting bronze; there were rivets on the back that brought up flakes of green patina. The potter wiped off the surface dirt with his sleeve, turned it to catch the sunlight obliquely, and read:
 
+.space.center.thin
 HONEST JOHN BARLOW
 
-"Honest John,” famed in university annals, represents a challenge which medical science has not yet answered: revival of a human being accidentally thrown into a state of suspended animation.
+.thin
+*“Honest John,” famed in university annals, represents a challenge which medical science has not yet answered: revival of a human being accidentally thrown into a state of suspended animation.*
 
-In 1988 Mr. Barlow, a leading Evanston real estate dealer, visited his dentist for treatment of an impacted wisdom tooth. His dentist requested and received permission to use the experimental anesthetic Cycloparadimethanol-B-7, developed at the University.
+.thin
+*In 1988 Mr. Barlow, a leading Evanston real estate dealer, visited his dentist for treatment of an impacted wisdom tooth. His dentist requested and received permission to use the experimental anesthetic Cycloparadimethanol-B-7, developed at the University.*
 
-After administration of the anesthetic, the dentist resorted to his drill. By freakish mischance, a short circuit in his machine delivered 220 volts of 60-cycle current into the patient. (In a damage suit instituted by Mrs. Barlow against the dentist, the University and the makers of the drill, a jury found for the defendants.) Mr. Barlow never got up pom the dentist’s chair and was assumed to have died of poisoning, electrocution, or both.
+.thin
+*After administration of the anesthetic, the dentist resorted to his drill. By freakish mischance, a short circuit in his machine delivered 220 volts of 60-cycle current into the patient. (In a damage suit instituted by Mrs. Barlow against the dentist, the University and the makers of the drill, a jury found for the defendants.) Mr. Barlow never got up pom the dentist’s chair and was assumed to have died of poisoning, electrocution, or both.*
 
-Morticians preparing him for embalming discovered, however, that their subject war—though certainly not living—just as certainly not dead. The University was notified and a series of exhaustive tests was begun, including attempts to duplicate the trance state on volunteers. After a bad run of seven cases that ended fatally, the attempts were abandoned.
+.thin
+*Morticians preparing him for embalming discovered, however, that their subject war—though certainly not living—just as certainly not dead. The University was notified and a series of exhaustive tests was begun, including attempts to duplicate the trance state on volunteers. After a bad run of seven cases that ended fatally, the attempts were abandoned.*
 
-Honest John was long an exhibit at the University museum, and livened many a football game as mascot of the University’s Blue Crushers. The bounds of taste were overstepped, however, when a pledge to Sigma Delta Chi was ordered in ‘03 to "kidnap” Honest John pom his loosely guarded glass museum case and introduce him into the
+.thin
+*Honest John was long an exhibit at the University museum, and livened many a football game as mascot of the University’s Blue Crushers. The bounds of taste were overstepped, however, when a pledge to Sigma Delta Chi was ordered in ‘03 to "kidnap” Honest John from his loosely guarded glass museum case and introduce him into the Rachel Swanson Memorial Girls’ Gymnasium shower room.*
 
-Rachel Swanson Memorial Girls’ Gymnasium shower room.
+.thin
+*On May 22, 2003, the University Board of Regents issued the following order: "By unanimous vote, it is directed that the remains of Honest John Barlow be removed from the University museum and conveyed to the University’s Lieutenant James Scott HI Memorial Biological Laboratories and there be securely locked in a specially prepared vault. It is further directed that all possible measures for the preservation of these remains be taken by the laboratory administration and that access to these remains be denied to all persons except qualified scholars authorized in writing by the Board. The Board reluctantly takes this action in view of recent notices and photographs in the nation’s press which, to say the least, reflect but small credit upon the University.’’*
 
-On May 22, 2003, the University Board of Regents issued the following order: "By unanimous vote, it is directed that the remains of Honest John Barlow be removed from the University museum and conveyed to the University’s Lieutenant James Scott HI Memorial Biological Laboratories and there be securely locked in a specially prepared vault. It is further directed that all possible measures for the preservation of these remains be taken by the laboratory administration and that access to these remains be denied to all persons except qualified scholars authorized in writing by the Board. The Board reluctantly takes this action in view of recent notices and photographs in the nation’s press which, to say the least, reflect but small credit upon the University.’’
-
+.space
 It was far from his field, but Hawkins understood what had happened—an early and accidental blundering onto the bare bones of the Levantman shock anesthesia, which had since been replaced by other methods. To bring subjects out of Levantman shock, you let them have a squirt of simple saline in the trigeminal nerve. Interesting. And now about that bronze—
 
-He heaved the pick into the rotting green salts, expecting no resistance, and almost fractured his wrist. Something down there was solid. He began to flake off the oxides.
+He heaved the pick into the rotting green salts, expecting no resistance, and almost fractured his wrist. *Something* down there was *solid*. He began to flake off the oxides.
 
 A half-hour of work brought him down to phosphor bronze, a huge casting of the almost incorruptible metal. It had weakened structurally over the centuries; he could fit the point of his pick under a corroded boss and pry off great creaking and grumbling striae of the stuff.
 
 Hawkins wished he had an archeologist with him, but didn’t dream of returning to his shop and calling one to take over the find. He was an all-around man: by choice and in his free time, an artist in clay and glaze; by necessity, an automotive, electronics, and atomic engineer who could also swing a project in traffic control, individual and group psychology, architecture or tool design. He didn’t yell for a specialist every time something out of his line came up; there were so few with so much to do . . .
 
-He trenched around his find, discovering that it was a great brick-shaped bronze mass with an excitingly hollow sound. A long strip of moldering metal from one of the long vertical faces pulled away, exposing red rust that went whoosh and was sucked into the interior of the mass.
+He trenched around his find, discovering that it was a great brick-shaped bronze mass with an excitingly hollow sound. A long strip of moldering metal from one of the long vertical faces pulled away, exposing red rust that went *whoosh* and was sucked into the interior of the mass.
 
-It had been de-aired, thought Hawkins, and there must have been an inner jacket of glass which had crystallized through the centuries and quietly crumbled at the first clang of his pick. He didn’t know what a vacuum would do to a subject of Levantman shock, but he had hopes, nor did he quite understand what a real estate dealer was, but it might have something to do with pottery. And anything might have a bearing on Topic Number One.
+It had been de-aired, thought Hawkins, and there must have been an inner jacket of glass which had crystallized through the centuries and quietly crumbled at the first clang of his pick. He didn’t know what a vacuum would do to a subject of Levantman shock, but he had hopes, nor did he quite understand what a real estate dealer was, but it might have something to do with pottery. And *anything* might have a bearing on Topic Number One.
 
 He flung his pick out of the trench, climbed out, and set off at a dogtrot for his shop. A little rummaging turned up a hypo and there was a plasticontainer of salt in the kitchen.
 
@@ -2602,7 +2846,7 @@ In an hour Barlow’s chest began to pump.
 
 In another hour, he rasped, “Did it work?”
 
-“Did it!” muttered Hawkins.
+“*Did* it!” muttered Hawkins.
 
 Barlow opened his eyes and stirred, looked down, turned his hands before his eyes—
 
@@ -2652,7 +2896,7 @@ Back in the shop, Hawkins gave Barlow a suit of clothes, deposited him in the wa
 
 “The Problem,” agreed CentraL “Yes, there’s a chance.”
 
-The potter delighted Barlow by making him a cup of coffee with a cube that not only dissolved in cold water but heated the water to boiling point. Killing time, Hawkins chatted about the “rocket” Barlow had admired, and had to haul himself up short; he had almost told the real estate man what its top speed really was— almost, indeed, revealed that it was not a rocket.
+The potter delighted Barlow by making him a cup of coffee with a cube that not only dissolved in cold water but heated the water to boiling point. Killing time, Hawkins chatted about the “rocket” Barlow had admired, and had to haul himself up short; he had almost told the real estate man what its top speed really was—almost, indeed, revealed that it was not a rocket.
 
 He regretted, too, that he had so casually handed Barlow a couple of hundred dollars. The man seemed obsessed with fear that they were worthless since Hawkins refused to take a note or I.O.U. or even a definite promise of repayment. But Hawkins couldn’t go into details, and was very glad when a stranger arrived from Central.
 
@@ -2668,15 +2912,15 @@ The bismuth resinate luster had fired to perfection, a haunting film of silvery-
 
 Barlow and Tinny-Peete arrived at the concrete highway where the psychist’s car was parked in a safety bay.
 
-“What—a—boat!” gasped the man from the past
+“What—a—*boat!*” gasped the man from the past
 
 “Boat? No, that’s my car.”
 
-Barlow surveyed it with awe. Swept-back lines, deep-drawn compound curves, kilograms of chrome. He ran his hands futilely over the door—or was it the door?— in a futile search for a handle, and asked respectfully, “How fast does it go?”
+Barlow surveyed it with awe. Swept-back lines, deep-drawn compound curves, kilograms of chrome. He ran his hands futilely over the door—or was it the door?—in a futile search for a handle, and asked respectfully, “How fast does it go?”
 
 The psychist gave him a keen look and said slowly, “Two hundred and fifty. You can tell by the speedometer.”
 
-“Wow! My old Chewy could hit a hundred on a straightaway, but you’re out of my class, mister!”
+“Wow! My old Chevvy could hit a hundred on a straightaway, but you’re out of my class, mister!”
 
 Tinny-Peete somehow got a huge, low door open and Barlow descended three steps into immense cushions, floundering over to the right. He was too fascinated to pay serious attention to his flayed dermis. The dashboard was a lovely wilderness of dials, plugs, indicators, lights, scales, and switches.
 
@@ -2686,7 +2930,7 @@ The psychist climbed down into the driver’s seat and did something with his fe
 
 “It’s terrific!” Barlow yelled back. “It’s—”
 
-He was shut up as the car pulled out from the bay into the road with a great voo-ooo-ooom! A gale roared past Barlow’s head, though the windows seemed to be closed; the impression of speed was terrific. He located the speedometer on the dashboard and saw it climb past 90,100, 150, 200.
+He was shut up as the car pulled out from the bay into the road with a great *voo-ooo-ooom!* A gale roared past Barlow’s head, though the windows seemed to be closed; the impression of speed was terrific. He located the speedometer on the dashboard and saw it climb past 90,100, 150, 200.
 
 “Fast enough for me,” yelled the psychist, noting that Barlow’s face fell in response. “Radio?”
 
@@ -2696,7 +2940,7 @@ He passed over a surprisingly light object like a football helmet, with no trail
 
 He snatched off the helmet and gave the psychist an injured look. Tinny-Peete grinned and turned a dial associated with the pushbutton layout. The man from the past donned the helmet again and found the voice had lowered to normal.
 
-“The show of shows! The supershow! The super-duper show! The quiz of quizzes! Take it and stick it!"
+“The show of shows! The supershow! The super-duper show! The quiz of quizzes! *Take it and stick it!*"
 
 There were shrieks of laughter in the background.
 
@@ -2706,7 +2950,7 @@ There were shrieks of laughter in the background.
 
 “Name? Uh—”
 
-“Hoddaya like that, folks? She don’t remember her name! Hah? Would you buy that for a quarter?" The question was spoken with arch significance, and the au-
+“Hoddaya like that, folks? She don’t remember her name! Hah? *Would you buy that for a quarter?*" The question was spoken with arch significance, and the au-
 
 dience shrieked, howled, and whistled its appreciation.
 
@@ -2716,9 +2960,9 @@ It was dull listening when you didn’t know the punch lines and catch lines. Ba
 
 “And here is a quote from Kingsley-Schultz: ‘Hull-Mendoza don’t know what he’s talking about. He should drop dead.’ Unquote. Hull-Mendoza says he won’t publistat the affydavits to perfect his sources. He says they was sworn by three former employes of the Bureau which was fired for in-competence and in-com-pat-ibility by Kingsley-Schultz.
 
-“Elsewhere they was the usual run of traffic accidents. A three-way pileup of cars on Route 66 going outta Chicago took twelve lives. The Chicago-Los Angeles morning rocket crashed and exploded in the Mohave—Mo-jawy—whatever-you-call-it Desert. All the 94 people aboard got killed. A Civil Aeronautics Authority investigator on the scene says that the pilot was buzzing herds of sheep and didn’t pull out in time.
+“Elsewhere they was the usual run of traffic accidents. A three-way pileup of cars on Route 66 going outta Chicago took twelve lives. The Chicago-Los Angeles morning rocket crashed and exploded in the Mohave—Mo-javvy—whatever-you-call-it Desert. All the 94 people aboard got killed. A Civil Aeronautics Authority investigator on the scene says that the pilot was buzzing herds of sheep and didn’t pull out in time.
 
-“Hey! Here’s a hot one from New York! A Diesel tug run wild in the harbor while the crew was below and shoved in the port bow of the luck-shury liner S. S. Placentia. It says the ship filled and sank, taking the lives of an es-ti-mated 180 passengers and 50 crew members. Six divers was sent down to study the wreckage, but they died, too, when their suits turned out to be fulla little holes.
+“Hey! Here’s a hot one from New York! A Diesel tug run wild in the harbor while the crew was below and shoved in the port bow of the luck-shury liner *S. S. Placentia.* It says the ship filled and sank, taking the lives of an es-ti-mated 180 passengers and 50 crew members. Six divers was sent down to study the wreckage, but they died, too, when their suits turned out to be fulla little holes.
 
 “And here is a bulletin I just got from Denver. It seems—”
 
@@ -2728,20 +2972,24 @@ Tinny-Peete shook his head and pointed at his ears. The roar of air was deafenin
 
 A glowing sign said:
 
+.space.center.sc
 moogs!
+would you buy it
+for a quarter?
 
-WOULD YOU BUY IT FOR A QUARTER?
-
+.space
 He didn’t know what Moogs was or were; the illustration showed an incredibly proportioned girl, 99.9 per cent naked, writhing passionately in animated full color.
 
 The roadside jingle was still with him, but with a new feature. Radar or something spotted the car and alerted the lines of the jingle. Each in turn sped along a roadside track, even with the car, so it could be read before the next line was alerted.
 
+.space.center.sc
 if there’s a girl
+you want to get
+deflocculize
+unromantic sweat.
+“a∗r∗m∗p∗i∗t∗t∗o”
 
-YOU WANT TO GET DEFLOCCULIZE UNROMANTIC SWEAT.
-
-“a*r*m*p*i*t*t*o”
-
+.space
 Another animated job, in two panels, the familiar “Before and After.” The first said, “Just Any Cigar?” and was illustrated with a two-person domestic tragedy of a wife holding her nose while her coarse and redfaced husband puffed a slimy-looking rope. The second panel glowed, “Or a VUELTA ABAJO?” and was illustrated with—
 
 Barlow blushed and looked at his feet until they had passed the sign.
@@ -2766,7 +3014,7 @@ The light changed to green and he started the pickup. Barlow stiffened as he rea
 
 The city grew on them slowly: scattered buildings, denser buildings, taller buildings, and a red light ahead. The car rolled to a stop in zero braking time, the rush of air cut off an instant after it stopped, and Barlow was out of the car and running frenziedly down a sidewalk one instant after that
 
-They’ll track me down, he thought, panting. Its a secret police thing. They'll get you—mind-reading machines, television eyes everywhere, afraid yoitll tell their slaves about freedom and stuff. They don’t let anybody cross them, like that story I once read.
+*They’ll track me down,* he thought, panting. *It’s a secret police thing. They'll get you—mind-reading machines, television eyes everywhere, afraid yoitll tell their slaves about freedom and stuff. They don’t let anybody cross them, like that story I once read.*
 
 Winded, he slowed to a walk and congratulated himself that he had guts enough not to turn around. That was what they always watched for. Walking, he was just another business-suited back among hundreds. He would be safe, he would be safe—
 
@@ -2788,7 +3036,7 @@ Barlow walked on, trembling. Evidently he had handled it well enough. He stopped
 
 The signal changed to green, the cars kept on coming for about thirty seconds and then dwindled to an occasional light-runner. Barlow crossed warily and leaned against a vending machine, blowing big breaths.
 
-Look natural, he told himself. Do something normal. Buy something pom the machine.
+*Look natural,* he told himself. D*o something normal. Buy something from the machine.*
 
 He fumbled out some change, got a newspaper for a dime, a handkerchief for a quarter, and a candy bar for another quarter.
 
@@ -2798,21 +3046,21 @@ Thirsty, he drew a carbonated orange drink in another one of the glassy wrappers
 
 The shop windows were—shop windows. People still wore and bought clothes, still smoked and bought tobacco, still ate and bought food. And they still went to the movies, he saw with pleased surprise as he passed and then returned to a glittering place whose sign said it was THE BIJOU.
 
-The place seemed to be showing a quintuple feature, Babies Are Terrible, Don’t Have Children, and The Canali Kid.
+The place seemed to be showing a quintuple feature, *Babies Are Terrible*, *Don’t Have Children*, and *The Canali Kid*.
 
 It was irresistible; he paid a dollar and went in.
 
-He caught the tail end of The Canali Kid in threedimensional, full-color, full-scent production. It appeared to be an interplanetary saga winding up with a chase scene and a reconciliation between estranged hero and heroine. Babies Are Terrible and Don’t Have Children were fantastic arguments against parenthood—the grotesquely exaggerated dangers of painfully graphic childbirth, vicious children, old parents beaten and starved by their sadistic offspring. The audience, Barlow astoundedly noted, was placidly chomping sweets and showing no particular signs of revulsion.
+He caught the tail end of The Canali Kid in threedimensional, full-color, full-scent production. It appeared to be an interplanetary saga winding up with a chase scene and a reconciliation between estranged hero and heroine. *Babies Are Terrible* and *Don’t Have Children* were fantastic arguments against parenthood—the grotesquely exaggerated dangers of painfully graphic childbirth, vicious children, old parents beaten and starved by their sadistic offspring. The audience, Barlow astoundedly noted, was placidly chomping sweets and showing no particular signs of revulsion.
 
-The Coming Attractions drove him into the lobby. The fanfares were shattering, the blazing colors blinding, and the added scents stomach-heaving.
+The *Coming Attractions* drove him into the lobby. The fanfares were shattering, the blazing colors blinding, and the added scents stomach-heaving.
 
-When his eyes again became accustomed to the moderate lighting of the lobby, he groped his way to a bench and opened the newspaper he had bought. It turned out to be The Racing Sheet, which afflicted him -with a crushing sense of loss. The familiar boxed index in the lower left-hand comer of the front page showed almost unbearably that Churchill Downs and Empire City were still in business—
+When his eyes again became accustomed to the moderate lighting of the lobby, he groped his way to a bench and opened the newspaper he had bought. It turned out to be *The Racing Sheet*, which afflicted him with a crushing sense of loss. The familiar boxed index in the lower left-hand corner of the front page showed almost unbearably that Churchill Downs and Empire City were still in business—
 
 Blinking back tears, he turned to the Past Performances at Churchill. They weren’t using abbreviations any more, and the pages because of that were singlecolumn instead of double. But it was all the same—or was it?
 
 He squinted at the first race, a three-quarter-mile maiden claimer for thirteen hundred dollars, Incredibly, the track record was two minutes, ten and three-fifths seconds. Any beetle in his time could have knocked o& the three-quarter in one-fifteen. It was the same for the other distances, much worse for route events.
 
-What the hell had happened to everything?
+*What the hell had happened to everything?*
 
 He studied the form of a five-year-old brown mare in the second and couldn’t make head or tail of it She’d won and lost and placed and showed and lost and placed without rhyme or reason. She looked like a front-runner for a couple of races and then she looked like a no-good pig and then she looked like a mudder but the next time it rained she wasn’t and then she was a stayer and then she was a pig again. In a good five-thousand-dollar allowances event, too!
 
@@ -2826,7 +3074,7 @@ Barlow whirled to his feet and saw it was Tinny-Peete, his driver.
 
 “So you’ve got me,” said Barlow.
 
-"Got you7”
+"*Got* you?”
 
 “Don’t pretend. I can put two and two together. You’re the secret police. You and the rest of the aristocrats live in luxury on the sweat of these oppressed slaves. You’re afraid of me because you have to keep them ignorant.”
 
@@ -2852,9 +3100,9 @@ A hawk-faced man rose from a plain chair as the door closed behind them. After a
 
 “What of it?”
 
-“This of it. You were a blind, selfish stupid ass to tolerate economic and social conditions which penalized child-bearing by the prudent and foresighted. You made us what we are today, and I want you to know that we are far from satisfied. Damn-fool rockets! Damn-fool automobiles! Damn-fool cities with overhead ramps!” “As far as I can see,” said Barlow, “you’re running down the best features of your time. Are you crazy?” “The rockets aren’t rockets. They’re turbo-jets— good turbo-jets, bin the fancy shell around them makes for a bad drag. The automobiles have a top speed of one hundred kilometers per hour—a kilometer is, if I recall my paleolinguistics, three-fifths of a mile—and the speedometers are all rigged accordingly so the drivers will think they’re going two hundred and fifty. The cities are ridiculous, expensive, unsanitary, wasteful conglomerations of people who’d be better off and more productive if they were spread over the countryside.
+“This of it. You were a blind, selfish stupid ass to tolerate economic and social conditions which penalized child-bearing by the prudent and foresighted. You made us what we are today, and I want you to know that we are far from satisfied. Damn-fool rockets! Damn-fool automobiles! Damn-fool cities with overhead ramps!” “As far as I can see,” said Barlow, “you’re running down the best features of your time. Are you crazy?” “The rockets aren’t rockets. They’re turbo-jets—good turbo-jets, bin the fancy shell around them makes for a bad drag. The automobiles have a top speed of one hundred kilometers per hour—a kilometer is, if I recall my paleolinguistics, three-fifths of a mile—and the speedometers are all rigged accordingly so the drivers will think they’re going two hundred and fifty. The cities are ridiculous, expensive, unsanitary, wasteful conglomerations of people who’d be better off and more productive if they were spread over the countryside.
 
-“We need the rockets and trick speedometers and cities because, while you and your kind were being prudent and foresighted and not having children, the migrant workers, slum dwellers, and tenant farmers were shiftlessly and short-sightedly having children— breeding, breeding. My God, how they bred!”
+“We need the rockets and trick speedometers and cities because, while you and your kind were being prudent and foresighted and not having children, the migrant workers, slum dwellers, and tenant farmers were shiftlessly and short-sightedly having children—breeding, breeding. My God, how they bred!”
 
 “Wait a minute,” objected Barlow. “There were lots of people in our crowd who had two or three children.” “The attrition of accidents, illness, wars, and such took care of that. Your intelligence was bred out. It is gone. Children that should have been bom never were. The just-average, they’ll-get-along majority took over the population. The average IQ now is forty-five.”
 
@@ -2862,7 +3110,7 @@ A hawk-faced man rose from a plain chair as the door closed behind them. After a
 
 “So are you,” grunted the hawk-faced man sourly.
 
-“But who are you people?”
+“But who are *you* people?”
 
 “Just people—real people. Some generations ago, the geneticists realized at last that nobody was going to pay any attention to what they said, so they abandoned words for deeds. Specifically, they formed and recruited for a closed corporation intended to maintain and improve the breed. We are their descendants, about three million of us. There are five billion of the others, so we are their slaves.
 
@@ -2872,7 +3120,9 @@ A hawk-faced man rose from a plain chair as the door closed behind them. After a
 
 The man grimaced. “We tried it once for three months. We holed up at the South Pole and waited. They didn’t notice it. Some drafting-room people were missing, some chief nurses didn’t show up, minor government people on the non-policy level couldn’t be located. It didn’t seem to matter.
 
-“In a week there was hunger. In two weeks there were famine and plague, in three weeks war and anarchy. We called off the experiment; it took us most of the next generation to get things squared away again.” “But why didn’t you let them kill each other off?”
+“In a week there was hunger. In two weeks there were famine and plague, in three weeks war and anarchy. We called off the experiment; it took us most of the next generation to get things squared away again.”
+
+“But why *didn’t* you let them kill each other off?”
 
 “Five billion corpses mean about five hundred million tons of rotting flesh.”
 
@@ -2884,15 +3134,15 @@ Barlow had another idea. “Why don’t you sterilize them?”
 
 “Who the devil are they?”
 
-“It was a—uh—paradox of my time. Somebody figured out that if all die Chinese in the world were to line up four abreast, I think it was, and start marching past a given point, they’d never stop because of the babies that would be bom and grow up before they passed the point.”
+“It was a—uh—paradox of my time. Somebody figured out that if all the Chinese in the world were to line up four abreast, I think it was, and start marching past a given point, they’d never stop because of the babies that would be born and grow up before they passed the point.”
 
 “That’s right. Only instead of ‘a given point,’ make it ‘the largest conceivable number of operating rooms that we could build and staff.’ There could never be enough.”
 
-“Say!” said Barlow. “Those movies about babies— was that your propaganda?”
+“Say!” said Barlow. “Those movies about babies—was that your propaganda?”
 
 “It was. It doesn’t seem to mean a thing to them. We have abandoned the idea of attempting propaganda contrary to a biological drive.”
 
-“So if you work with a biological drive—?”
+“So if you work *with* a biological drive—?”
 
 “I know of none consistent with inhibition of fertility.”
 
@@ -2954,7 +3204,9 @@ Barlow looked closely at the hand, then at the man’s face. “Ryan what?”
 
 “It is. My mother’s father was a Watusi.”
 
-Barlow didn’t take the hand. “I thought you looked pretty dark. I don’t want to hurt your feelings, but I don’t think I’d be at my best working with you. There must be somebody else just as well qualified, I’m sure.” The psychist made a facial sign to Ryan-Ngana that meant, “Steady yourself, boy!”
+Barlow didn’t take the hand. “I thought you looked pretty dark. I don’t want to hurt your feelings, but I don’t think I’d be at my best working with you. There must be somebody else just as well qualified, I’m sure.”
+
+The psychist made a facial sign to Ryan-Ngana that meant, “Steady *yourself*, boy!”
 
 “Very well,” Ryan-Ngana told Barlow. “We’ll see what arrangement can be made.”
 
@@ -2994,7 +3246,7 @@ At day’s end he reclined in a snug underground billet with the sixty-mile gale
 
 It was like old times, he thought—like a coup in real estate where you had the competition by the throat, like a fifty-percent rent boost when you knew damned well there was no place for the tenants to move, like smiling when you read over the breakfast orange juice that the city council had decided to build a school on the ground you had acquired by a deal with the city council. And it was simple: He would just sell tundra building lots to eagerly suicidal lemmings, and that was absolutely all there was to solving the Problem that had these doubledomes spinning.
 
-They’d have to work out most of the details, naturally, but what the hell, that was what subordinates were for. He’d need specialists in advertising, engineering, communications—did they know anything about hypnotism? That might be helpful. If not, there’d have to be a lot of bribery done, but he’d make sure— damned sure—there were unlimited funds.
+They’d have to work out most of the details, naturally, but what the hell, that was what subordinates were for. He’d need specialists in advertising, engineering, communications—did they know anything about hypnotism? That might be helpful. If not, there’d have to be a lot of bribery done, but he’d make sure—damned sure—there were unlimited funds.
 
 Just selling building lots to lemmings . . .
 
@@ -3020,13 +3272,13 @@ Somebody wanted the floor to discuss the matter, with the declared hope that per
 
 Congress waived debate and voted by show of hands. Barlow won unanimously.
 
-“You don’t know how close you came to losing me,” he said in his first official address to the joint Houses. “I’m not the boy to haggle; either I get what I ask, or I go elsewhere. The first thing I want is to see designs for a new palace for me—nothing unostentatious, either— and your best painters and sculptors to start working on my portraits and statues. Meanwhile, I’ll get my staff together.”
+“You don’t know how close you came to losing me,” he said in his first official address to the joint Houses. “I’m not the boy to haggle; either I get what I ask, or I go elsewhere. The first thing I want is to see designs for a new palace for me—nothing unostentatious, either—and your best painters and sculptors to start working on my portraits and statues. Meanwhile, I’ll get my staff together.”
 
 He dismissed the Polar President and the Polar Congress, telling them that he’d let them know when the next meeting would be.
 
 A week later, the program started with North America the first target.
 
-Mrs. Garvy was resting after dinner before the ordeal of turning on the dishwasher. The TV, of course, was on and it said: “Oooh!”—long, shuddery and ecstatic, the cue for the Parfum Assault Criminate spot commercial. “Girls,” said the announcer hoarsely, “do you want your man? It’s easy to get him—easy as a trip to Venus.”
+Mrs. Garvy was resting after dinner before the ordeal of turning on the dishwasher. The TV, of course, was on and it said: “Oooh!”—long, shuddery and ecstatic, the cue for the *Parfum Assault Criminate* spot commercial. “Girls,” said the announcer hoarsely, “do you want your man? It’s easy to get him—easy as a trip to Venus.”
 
 “Huh?” said Mrs. Garvy.
 
@@ -3036,7 +3288,7 @@ Mrs. Garvy was resting after dinner before the ordeal of turning on the dishwash
 
 “Wha’?”
 
-“He said ‘easy like a trip to Venus.’ ”
+“He said ‘easy like a trip to Venus.’”
 
 “So?”
 
@@ -3046,21 +3298,21 @@ Mrs. Garvy was resting after dinner before the ordeal of turning on the dishwash
 
 “Oh,” said his wife uncertainly.
 
-And the next day, on Henry's Other Mistress, there was a new character who had just breezed in: Buzz Rentshaw, Master Rocket Pilot of the Venus run. On Henry’s Other Mistress, “the broadcast drama about you and your neighbors, folksy people, ordinary people, real people!” Mrs. Garvy listened with amazement over a cooling cup of coffee as Buzz made hay of her hazy convictions.
+And the next day, on *Henry's Other Mistress*, there was a new character who had just breezed in: Buzz Rentshaw, Master Rocket Pilot of the Venus run. On *Henry’s Other Mistress*, “the broadcast drama about you and your neighbors, *folksy* people, *ordinary* people, *real* people!” Mrs. Garvy listened with amazement over a cooling cup of coffee as Buzz made hay of her hazy convictions.
 
 MONA: Darling, it’s so good to see you again!
 
 BUZZ: You don’t know how I’ve missed you on that dreary Venus run.
 
-SOUND: Venetian blind run down, key turned in door lock.
+SOUND: *Venetian blind run down, key turned in door lock.*
 
-MONA: Was it very dull, dearest?
+MONA: Was it *very* dull, dearest?
 
 BUZZ: Let’s not talk about my humdrum job, darling. Let’s talk about us.
 
-SOUND: Creaking bed.
+SOUND: *Creaking bed.*
 
-Well, the program was back to normal at last. That evening Mrs. Garvy tried to ask again whether her husband was sure about those rockets, but he was dozing right through Take It and Stick It, so she watched the screen and forgot the puzzle.
+Well, the program was back to normal at last. That evening Mrs. Garvy tried to ask again whether her husband was sure about those rockets, but he was dozing right through *Take It and Stick It*, so she watched the screen and forgot the puzzle.
 
 She was still rocking with laughter at the gag line, “Would you buy it for a quarter?” when the commercial went on for the detergent powder she always faithfully loaded her dishwasher with on the first of every month.
 
@@ -3116,7 +3368,7 @@ Vacationing was one thing. Power politics was another.
 
 At the Pole, a small man was in a soundproof room, his face deathly pale and his body limp in a straight chair.
 
-In the American Senate Chamber, Senator Hull-Mendoza (Synd., N. Cal.) was saying: “Mr. President and gentlemen. I would be remiss in my dutv as a legislature ifn I didn’t bring to the attention of the au-gust body I see here a perilous situation which is fraught with peril. As is well known to members of this au-gust body, the perfection of space flight has broueht with it a situation I can only describe as fraught with peril. Mr. President and gentlemen, now that swift American rockets now traverse the trackless void of space between this planet and our nearest planetarial neighbor in space—and, gentlemen, I refer to Venus, the star of dawn, the brightest jewel in fair Vulcan’s diadome— now, I say, I want to inquire what steps are being taken to colonize Venus with a vanguard of patriotic citizens like those minutemen of yore.
+In the American Senate Chamber, Senator Hull-Mendoza (Synd., N. Cal.) was saying: “Mr. President and gentlemen. I would be remiss in my dutv as a legislature ifn I didn’t bring to the attention of the au-gust body I see here a perilous situation which is fraught with peril. As is well known to members of this au-gust body, the perfection of space flight has broueht with it a situation I can only describe as fraught with peril. Mr. President and gentlemen, now that swift American rockets now traverse the trackless void of space between this planet and our nearest planetarial neighbor in space—and, gentlemen, I refer to Venus, the star of dawn, the brightest jewel in fair Vulcan’s diadome—now, I say, I want to inquire what steps are being taken to colonize Venus with a vanguard of patriotic citizens like those minutemen of yore.
 
 “Mr. President and gentlemen! There are in this world nations, envious nations—I do not name Mexico—who by fair means or foul may seek to wrest from Columbia’s grasp the torch of freedom of space; nations whose low living standards and innate depravity give them an unfair advantage over the citizens of our fair republic.
 
@@ -3144,18 +3396,25 @@ The president of Mexico, hypnotically alarmed at this extension of yanqui imperi
 
 Across the water it was England versus Ireland, France versus Germany, China versus Russia, India versus Indonesia. Ancient hatreds grew into the flames that were rocket ships assailing the air by hundreds daily.
 
-Dear Ed,
+.fl.thin
+*Dear Ed,*
 
-How are you? Sam and I are fine and hope you are fine. Is it nice up there like they say with food and close grone on trees? I drove by Springfield yesterday and it sure looked funny all the buildings down but of coarse it is worth it we have to keep the greasers in their place. Do you have any truble with them on Venus? Drop me a line some time. Your loving sister,
+.thin
+*How are you? Sam and I are fine and hope you are fine. Is it nice up there like they say with food and close grone on trees? I drove by Springfield yesterday and it sure looked funny all the buildings down but of coarse it is worth it we have to keep the greasers in their place. Do you have any truble with them on Venus? Drop me a line some time. Your loving sister,*
 
-Alma
+.thin.right
+*Alma*
 
-Dear A Ima,
+.fl.thin
+*Dear Alma,*
 
-l am fine and hope you are fine. It is a fine place here fine climate and easy living. The doctor told me today that I seem to be ten years younger. He thinks there is something in the air here keeps people young. We do not have much trouble with the greasers here they keep to theirselves it is just a question of us outnumbering them and staking out the best places for the A mericans. In South Bay I know a nice little island that I have been saving for you and Sam with lots of blanket trees and ham bushes. Hoping to see you and Sam soon, your loving brother,
+.thin
+*l am fine and hope you are fine. It is a fine place here fine climate and easy living. The doctor told me today that I seem to be ten years younger. He thinks there is something in the air here keeps people young. We do not have much trouble with the greasers here they keep to theirselves it is just a question of us outnumbering them and staking out the best places for the A mericans. In South Bay I know a nice little island that I have been saving for you and Sam with lots of blanket trees and ham bushes. Hoping to see you and Sam soon, your loving brother,*
 
-Ed
+.thin.right
+*Ed*
 
+.space
 Sam and Alma were on their way shortly.
 
 Poprob got a dividend in every nation after the emigration had passed the halfway mark. The lonesome stay-at-homes were unable to bear the melacholy of a low population density; their conditioning had been to swarms of their kin. After that point it was possible to foist off the crudest stripped-down accomodations on would-be emigrants; they didn’t care.
@@ -3194,11 +3453,17 @@ Lying twisted and broken under the acceleration, Barlow realized that some thing
 
 The last thing he learned was that death is the end of pain.
 
-The Last Man Left in the Bar
+---
 
-Around 1956, bar* were full of new-fangled television let*, and television was full of tanktown prizefighters and musical programs. I remember discussing The Hit Parade with Cyril, ond confessing to him that I loved Giselle Mackenzie with a pure and permanent passion. I suspect that, in one of the fragments of bar talk, with a slight change of name, I am quoted.
+the_last_man_left_in_the_bar
 
-You know him, Joe—or Sam, Mike, Tony, Ben, whatever your deceitful, cheaply genial name may be. And do not lie to yourself, Gentle Reader; you know him too.
+# The Last Man Left in the Bar
+
+.intro_block
+Around 1956, bars were full of new-fangled television sets, and television was full of tanktown prizefighters and musical programs. I remember discussing *The Hit Parade* with Cyril, and confessing to him that I loved Giselle Mackenzie with a pure and permanent passion. I suspect that, in one of the fragments of bar talk, with a slight change of name, I am quoted.
+
+.fl
+<span class="smallcaps">You know him</span>, Joe—or Sam, Mike, Tony, Ben, whatever your deceitful, cheaply genial name may be. And do not lie to yourself, Gentle Reader; you know him too.
 
 A loner, he was.
 
@@ -3254,7 +3519,7 @@ In the box above the bar the rollicking raster raced.
 
 Shot of Red Top and a beer. At 8:50.
 
-In his own un-secret heart: Steady, boy. You’ve got to think this out. Nothing impossible about it, no reason to settle for a stalemate; just a little time to think it out. Galardo said the Black Chapter would accept a token submission, let me return the Seal, and that would be that. But I mustn’t count on that as a datum; he lied to me about the Serpen tists. Token submission sounds right; they go in big for symbolism. Maybe because they’re so stone-broke, like the Japs. Drinking a cup of tea, they gussie it all up until it’s a religion; that’s the way you squeeze nourishment out of poverty— ■»
+In his own un-secret heart: Steady, boy. You’ve got to think this out. Nothing impossible about it, no reason to settle for a stalemate; just a little time to think it out. Galardo said the Black Chapter would accept a token submission, let me return the Seal, and that would be that. But I mustn’t count on that as a datum; he lied to me about the Serpen tists. Token submission sounds right; they go in big for symbolism. Maybe because they’re so stone-broke, like the Japs. Drinking a cup of tea, they gussie it all up until it’s a religion; that’s the way you squeeze nourishment out of poverty—■»
 
 Skip the Japs. Think. He lied to me about the Ser-pentists. The big thing to remember is, I have the Chapter Seal and they need it back, or think they do. All you need’s a little time to think things through, place where he won’t dare jump you and grab the Seal. And this is it.
 
@@ -3314,7 +3579,7 @@ sound: click of cocking pistol.
 
 harkrider: Drop it, Madame Golkov.
 
-Paul; No, Madame Golkov; we American agents were not really so stupid. Wish I could say the same for— your people. Pierre Tourneur was a plant, I am glad to say; otherwise he would not have missed me. He is one of the best pistol shots in Counterintelligence. harkrider: Come along, Madame Golkov.
+Paul; No, Madame Golkov; we American agents were not really so stupid. Wish I could say the same for—your people. Pierre Tourneur was a plant, I am glad to say; otherwise he would not have missed me. He is one of the best pistol shots in Counterintelligence. harkrider: Come along, Madame Golkov.
 
 music; theme up and out.
 
@@ -3382,7 +3647,7 @@ You slopped the whiskey as you turned and looked.
 
 Galardo gone.
 
-You smiled and shrugged; he comes and goes as he pleases, you know. Irresponsible, no manners at all— but loyal. A prince among men when you get to know him, a prince, I tell you. All this in your smile and shrug—why, you could have been an actor! The worry, the faint neurotic worry, didn’t show at all, and indeed there is no reason why it should. You have the whip hand; you have the Seal; Galardo will come crawling back and explain everything. As for example:
+You smiled and shrugged; he comes and goes as he pleases, you know. Irresponsible, no manners at all—but loyal. A prince among men when you get to know him, a prince, I tell you. All this in your smile and shrug—why, you could have been an actor! The worry, the faint neurotic worry, didn’t show at all, and indeed there is no reason why it should. You have the whip hand; you have the Seal; Galardo will come crawling back and explain everything. As for example:
 
 “You may wonder why I’ve asked all of you to assemble in the libr’reh.”
 
@@ -3518,11 +3783,17 @@ Their heads shake slowly. Unable to look his fingers feel the rim and rolled thr
 
 The nod together, sad and glitter-eyed, and The Century of Flame begins.
 
-The Mindworm
+---
 
-What's the difference between science fiction and fantasy? Easy, you soy: fantasy is about fairies and vampires and werewolves, while science fiction is about Man and the year 8000 A.D. But it's not a very satisfactory answer, hecause there have heen first-rate stories about werewolves, say (far instance, James Blish's "There Shall Be No Darkness"] that are clearly science fiction. The difference is that in a science fiction story you are willing to believe, far the duration af the story at least, that it might under certain circumstances be true—somewhere else, or at some future time— while in fantasy you don't think for a moment it's true, but are just enjoying the gooseflesh ar the ramp. And then you come across something like The Mindworm . . .
+the_mindworm
 
-The handsome j. g. and the pretty nurse held out against it as long as they reasonably could, but blue Pacific water, languid tropical nights, the low atoll dreaming on the horizon—and the complete absence of any other nice young people for company on the small, uncomfortable parts boat—did their work. On June 30th they watched through dark glasses as the dazzling thing burst over the fleet and the atoll. Her manicured hand gripped his arm in excitement and terror. Unfelt radiation sleeted through their loins.
+# The Mindworm
+
+.intro_block
+What's the difference between science fiction and fantasy? Easy, you say: fantasy is about fairies and vampires and werewolves, while science fiction is about Man and the year 8000 A.D. But it's not a very satisfactory answer, because there have been first-rate stories about werewolves, say (for instance, James Blish's “There Shall Be No Darkness”] that are clearly science fiction. The difference is that in a science fiction story you are willing to believe, for the duration of the story at least, that it might under certain circumstances be true—somewhere else, or at some future time—while in fantasy you don't think for a moment it's true, but are just enjoying the gooseflesh or the romp. And then you come across something like *The Mindworm* . . .
+
+.fl
+<span class="smallcaps">The handsome j. g.</span> and the pretty nurse held out against it as long as they reasonably could, but blue Pacific water, languid tropical nights, the low atoll dreaming on the horizon—and the complete absence of any other nice young people for company on the small, uncomfortable parts boat—did their work. On June 30th they watched through dark glasses as the dazzling thing burst over the fleet and the atoll. Her manicured hand gripped his arm in excitement and terror. Unfelt radiation sleeted through their loins.
 
 A storekeeper-third-class named Bielaski watched the young couple with more interest than he showed in Test Able. After all, he had twenty-five dollars riding on the nurse. That night he lost it to a chief bosun’s mate who had backed the j. g.
 
@@ -3530,6 +3801,7 @@ In the course of time, the careless nurse was discharged under conditions other 
 
 She had a child, a boy, turned it over to a foundling home, and vanished from his life into a series of good jobs and finally marriage.
 
+.space
 The boy grew up stupid, puny and stubborn, greedy and miserable. To the home’s hilarious young athletics director he suddenly said: “You hate me. You think I make the rest of the boys look bad.”
 
 The athletics director blustered and laughed, and later told the doctor over coffee: “I watch myself around the kids. They’re sharp—they catch a look or a gesture and it’s like a blow in the face to them, I know that, so I watch myself. So how did he know?”
@@ -3540,15 +3812,11 @@ The boy said: “What’s ‘neurasthenic’ mean?”
 
 The doctor later said to the director: “It made my flesh creep. I was looking at his little spindling body and dishing out the old pep talk about growing big and strong, and inside my head I was thinking ‘we’d call him neurasthenic in the old days’ and then out he popped with it. What should we do? Should we do anything? Maybe it’ll go away. I don’t know anything about these things. I don’t know whether anybody does.”
 
-“Reads minds, does he?” asked the director. Be damned if he’s going to read my mind about Schultz Meat Market's ten percent. “Doctor, I think I’m going to take my vacation a little early this year. Has anybody shown any interest in adopting the child?”
+“Reads minds, does he?” asked the director. *Be damned if he’s going to read my mind about Schultz Meat Market's ten percent.* “Doctor, I think I’m going to take my vacation a little early this year. Has anybody shown any interest in adopting the child?”
 
 “Not him. He wasn’t a baby doll when we got him, and at present he’s an exceptionally unattractive-looking kid. You know how people don’t give a damn about anything but their looks.”
 
-"Some couples would take anything, or so they tell
-
->1
-
-me.
+"Some couples would take anything, or so they tell me.
 
 “Unapproved for foster-parenthood., you mean?”
 
@@ -3580,13 +3848,14 @@ At his leisure, he robbed the bodies of three dollars and twenty-four cents.
 
 Thereafter his fame preceded him like a death wind. Two years on the road and he had his growth and his fill of the dull and stupid minds he met there. He moved to northern cities, a year here, a year there, quiet, unobtrusive, prudent, an epicure.
 
+.space
 Sebastian Long woke suddenly, with something on his mind. As night fog cleared away he remembered, happily. Today he started the Demeter Bowl! At last there was time, at last there was money—six hundred and twenty-three dollars in the bank. He had packed and shipped the three dozen cocktail glasses last night, engraved with Mrs. Klausman’s initials—his last commercial order for as many months as the Bowl would take.
 
 He shifted from nightshirt to denims, gulped coffee, boiled an egg but was too excited to eat it. He went to the front of his shop-workroom-apartment, checked the lock, waved at neighbors’ children on their way to school, and ceremoniously set a sign in the cluttered window.
 
 It said: “NO COMMERCIAL ORDERS TAKEN UNTIL FURTHER NOTICE.”
 
-From a closet he tenderly carried a shrouded object that made a double armful and laid it on his workbench. Unshrouded, it was a glass bowl—what a glass bowl! The clearest Swedish lead glass, the purest lines he had ever seen, his secret treasure since the crazy day he had bought it, long ago, for six months’ earnings. His wife had given him hell for that until the day she died. From the closet he brought a portfolio filled with sketches and designs dating back to the day he had bought the bowl. He smiled over the first, excitedly scrawled—a florid, rococo conception, unsuited to the classicism of the lines and the serenity of the perfect glass.
+From a closet he tenderly carried a shrouded object that made a double armful and laid it on his workbench. Unshrouded, it was a glass bowl—*what* a glass bowl! The clearest Swedish lead glass, the purest lines he had ever seen, his secret treasure since the crazy day he had bought it, long ago, for six months’ earnings. His wife had given him hell for that until the day she died. From the closet he brought a portfolio filled with sketches and designs dating back to the day he had bought the bowl. He smiled over the first, excitedly scrawled—a florid, rococo conception, unsuited to the classicism of the lines and the serenity of the perfect glass.
 
 Through many years and hundreds of sketches he had refined his conception to the point where it was, he humbly felt, not unsuited to the medium. A strongly-molded Demeter was to dominate the piece, a matron as serene as the glass, and all the fruits of the earth would flow from her gravely outstretched arms.
 
@@ -3644,7 +3913,7 @@ The driver smiled shyly, kind of like Jimmy Stewart but of course not so tall, a
 
 “Advertising.”
 
-"Advertising!" Dolly wanted to kick herself for ever having doubted, for ever having thought in low, selfloathing moments that it wouldn’t work out, that she’d marry a grocer or a mechanic and live forever after fn a smelly tenement and grow old and sick and stooped. She felt vaguely in her happy daze that it might have been cuter, she might have accidentally pushed him into a pond or something, but this was cute enough. An advertising man, leopard-skin seat covers . . . what more could a girl with a sexy smile and a nice little figure want?
+“Advertising!” Dolly wanted to kick herself for ever having doubted, for ever having thought in low, selfloathing moments that it wouldn’t work out, that she’d marry a grocer or a mechanic and live forever after fn a smelly tenement and grow old and sick and stooped. She felt vaguely in her happy daze that it might have been cuter, she might have accidentally pushed him into a pond or something, but this was cute enough. An advertising man, leopard-skin seat covers . . . what more could a girl with a sexy smile and a nice little figure want?
 
 Speeding down the South Shore she learned that his name was Michael Brent, exactly as it ought to be. She wished she could tell him she was Jennifer Brown or one of those real cute names they had nowadavs. but was reassured when he told her he thought Dolly Gonzalez was a beautiful name. He didn’t, and she noticed the omission, add: “It’s the most beautiful name I ever heard!” That, she comfortably thought as she settled herself against the cushions, would come later.
 
@@ -3712,7 +3981,7 @@ Regretfully, he again dragged his net:
 
 n	m
 
-2 <P (ar, at) — 2 <P (ax, a,) > 0.
+2 &lt;P (ar, at)—2 &lt;P (ax, a,) &gt; 0.
 
 fc-m * I	/ mT
 
@@ -3736,7 +4005,7 @@ Lt. John Braidwood of the 24th Pet. said of the alleged molester: “We got a fa
 
 Clickety-click, clickety-click, clickety-click sang the rails as the Mindworm drowsed in his coach seat.
 
-Some people were walking forward from the diner. One was thinking: “Different-looking fellow, (a) he's aberrant, (b) he’s nonaberrant and ill. Cancel (b)— respiration normal, skin smooth and healthy, no tremor of limbs, well-groomed. Is aberrant (1) trivially. (2) significandy. Cancel (1)—displayed no involuntary interest when . . . odd! Running for the washroom! Unexpected because (a) neat grooming indicates amour propre inconsistent with amusing others; (b) evident health inconsistent with . . It had taken one second, was fully detailed.
+Some people were walking forward from the diner. One was thinking: “Different-looking fellow, (a) he’s aberrant, (b) he’s nonaberrant and ill. Cancel (b)—respiration normal, skin smooth and healthy, no tremor of limbs, well-groomed. Is aberrant (1) trivially. (2) significandy. Cancel (1)—displayed no involuntary interest when . . . odd! Running for the washroom! Unexpected because (a) neat grooming indicates amour propre inconsistent with amusing others; (b) evident health inconsistent with . . It had taken one second, was fully detailed.
 
 The Mindworm, locked in the toilet of the coach, wondered what the next stop was. He was getting off at it—not frightened, just careful. Dodge them, keep dodging them and everything would be all right. Send out no mental taps until the train was far away and everything would be all right.
 
@@ -3848,9 +4117,13 @@ The door of his room burst open, and mustached old men with their shirt sleeves 
 
 The sharpened stake was through his heart and the scythe blade through his throat before he could realize that he had not been the first of his kind; and that what clever people have not yet learned, some quite ordinary people have not yet entirely forgotten.
 
-With These Hands
+---
 
-When Cyril Karnbluth married, it was to a young femmefan from Ohio named Mary G. Byers. Mary was (and is) a sculptor and ceramicist, and the furnishings of their heme included a patter's wheel and a kiln, bath regularly in use. From Mary Cyril gat an understanding af the jays and difficulties at urging shapeless matter to become art. For years I had one af his awn ceramics (ta be catalogued, he said, as "the Pohl bawl"), until same far-gotten guest decided it was an ashtray, and decided ta put it an the floor next to his chair and got up in too much of a hurry ta notice where he was putting hit feet. And from Mary Cyril alto got the raw material far With These Hands.
+with_these_hands
+
+# With These Hands
+
+When Cyril Kornbluth married, it was to a young femmefan from Ohio named Mary G. Byers. Mary was (and is) a sculptor and ceramicist, and the furnishings of their home included a potter’s wheel and a kiln, bath regularly in use. From Mary Cyril gat an understanding af the jays and difficulties at urging shapeless matter to become art. For years I had one af his awn ceramics (ta be catalogued, he said, as “the Pohl bawl”), until same far-gotten guest decided it was an ashtray, and decided ta put it an the floor next to his chair and got up in too much of a hurry ta notice where he was putting hit feet. And from Mary Cyril alto got the raw material far With These Hands.
 
 I
 
@@ -3890,7 +4163,7 @@ The prelate’s eyes fell on the detailed drawings of the Stations of the Cross 
 
 The artist walked past the secretary blindly and out of the Chancery into Fifth Avenue’s spring sunlight. He hoped Monsignor Reedy was enjoying the drawings and was ashamed of himself and sorry for Halvorsen. And he was glad he didn’t have to carry the heavy portfolio any more. Everything was heavy lately—chisels, hammer, wooden palette. Maybe the padre would send him something and pretend it was for expenses or an advance, as he had in the past.
 
-Halvorsen’s feet carried him up the Avenue. No, there wouldn’t be any advances any more. The last steady trickle of income had just been dried up, by an announcement in Osservatore Romano. Religious conservatism had carried the church as'far as it would go in its ancient role of art patron.
+Halvorsen’s feet carried him up the Avenue. No, there wouldn’t be any advances any more. The last steady trickle of income had just been dried up, by an announcement in Osservatore Romano. Religious conservatism had carried the church as’far as it would go in its ancient role of art patron.
 
 When all Europe was writing on the wonderful new vellum, the church stuck to good old papyrus. When all Europe was writing on the wonderful new paper, the church stuck to good old vellum. When all architects and municipal monument committees and portrait bust clients were patronizing the stereopantograph, the church stuck to good old expensive sculpture. But not any more.
 
@@ -3962,7 +4235,7 @@ II
 
 He took the subway to Passaic and walked down a long-still traffic beltway to his studio, almost the only building alive in the slums near the rusting railroad freightyard.
 
-A sign that had once said “F. Labuerre, Sculptor— Portraits and Architectural Commissions” now said “Roald Halvorsen; Art Classes—Reasonable Fees.” It was a grimy two-story frame building with a shopfront in which were mounted some of his students’ charcoal figure studies and oil still-lifes. He lived upstairs, taught downstairs front, and did his own work downstairs, back behind dirty, ceiling-high drapes.
+A sign that had once said “F. Labuerre, Sculptor—Portraits and Architectural Commissions” now said “Roald Halvorsen; Art Classes—Reasonable Fees.” It was a grimy two-story frame building with a shopfront in which were mounted some of his students’ charcoal figure studies and oil still-lifes. He lived upstairs, taught downstairs front, and did his own work downstairs, back behind dirty, ceiling-high drapes.
 
 Going in, he noticed that he had forgotten to lock the door again. He slammed it bitterly. At the noise, somebody called from behind the drapes: “Who’s that?”
 
@@ -3976,7 +4249,7 @@ A pupil. Pupils were never to be abused, especially not now.
 
 “I’m terribly sorry,” he said. “I had a trying day in the city.” Now turn it on. “I wouldn’t tell everybody a terrible secret like this, but I’ve lost a commission. You understand? I thought so. Anybody who’d traipse out here to my dingy abode would be simpatica. Won’t you sit down? No, not there—humor an artist and sit over there. The warm background of that still-life brings out your color—quite good color. Have you ever been painted? You’ve a very interesting face, you know. Some day I’d like to—but you mentioned classes.
 
-“We have figure classes, male and female models alternating, on Tuesday nights. For that I have to be very stem and ask you to sign up for an entire course of twelve lessons at sixty dollars. It’s the models’ fees— they’re exorbitant. Saturday afternoons we have still-life classes for beginners in oils. That’s only two dollars a class, but you might sign up for a series of six and pay ten dollars in advance, which saves you two whole dollars. I also give private instructions to a few talented amateurs.”
+“We have figure classes, male and female models alternating, on Tuesday nights. For that I have to be very stem and ask you to sign up for an entire course of twelve lessons at sixty dollars. It’s the models’ fees—they’re exorbitant. Saturday afternoons we have still-life classes for beginners in oils. That’s only two dollars a class, but you might sign up for a series of six and pay ten dollars in advance, which saves you two whole dollars. I also give private instructions to a few talented amateurs.”
 
 The price- was open on that one—whatever the traffic would bear. It had been a year since he’d had a private pupil and she’d taken only six lessons at five dollars an hour.
 
@@ -4024,7 +4297,7 @@ Halvorsen awoke in his bed on the second floor of the building. His fingers and 
 
 “We won’t tell anybody,” the girl promised. Here’s five dollars. Just stop nagging him.”
 
-“Malnutrition,” said the doctor. “Normally I’d send him to a hospital, but I don’t see how I could manage it. He isn’t on any Plan at all. Look, I’ll take the money and leave some vitamins. That’s what he needs— vitamins. And food.”
+“Malnutrition,” said the doctor. “Normally I’d send him to a hospital, but I don’t see how I could manage it. He isn’t on any Plan at all. Look, I’ll take the money and leave some vitamins. That’s what he needs—vitamins. And food.”
 
 “I’ll see that he eats,” the girl said, and the doctor left.
 
@@ -4092,9 +4365,9 @@ But the two interminable hours finally ticked by. He nagged them into cleaning u
 
 That was all the wedge her fellow-pupils needed.
 
-"Aus-tin Ma-lone! Well!"
+“Aus-tin Ma-lone! Well!”
 
-“Lucy, darling, I’d love to meet a real spaceman."
+“Lucy, darling, I’d love to meet a real spaceman.”
 
 “Roald, darling, would you mind very much if I stayed a moment?”
 
@@ -4114,7 +4387,7 @@ He sat down at last and said: “I don’t know what to think, Halvorsen. This p
 
 People who never have given a thought to Chartres and Mont St. Michel usually call it the Dark Ages, Halvorsen thought wryly. He asked, “Technologically, you mean? No, not at all. My plaster’s better, my colors are better, my metal is better—tool metal, not casting metal, that is.”
 
-“I mean hand work,” said the spaceman. “Actually working by hand."
+“I mean hand work,” said the spaceman. “Actually working by hand.”
 
 The artist shrugged. “There have been crazes for the techniques of the boiler works and the machine shop,” he admitted. “Some interesting things were done, but they didn’t stand up well. Is there anything here that takes your eye?”
 
@@ -4154,7 +4427,7 @@ Malone’s determined restraint broke. “Damned right you are. In—” He reco
 
 Halvorsen curled the middle finger of his left hand into the palm, where he usually carried it to hide the missing first joint.
 
-“Accidents are a sign of inadequate mastery of material and equipment,” said Malone sententiously. “While you stick to your methods and I stick to mine, you can't compete with me.”
+“Accidents are a sign of inadequate mastery of material and equipment,” said Malone sententiously. “While you stick to your methods and I stick to mine, you can’t compete with me.”
 
 His tone made it clear that he was talking about more than engineering.
 
@@ -4210,7 +4483,7 @@ He took the envelope, counted three hundred and sixty dollars, and crammed it in
 
 She stood there, shocked.
 
-"1 said get out, 1 have work to do.”
+“1 said get out, 1 have work to do.”
 
 “Austin was right,” she told him miserably. “You don’t care how people feel. You just want to get things out of them.”
 
@@ -4246,11 +4519,15 @@ There was the heroic, tragic central figure that looked mighty enough to battle 
 
 Halvorsen, walking uncertainly toward the fountain, felt something break inside him, and a heaviness in his lungs. As he pitched forward among the weeds, he didn’t care that the three-headed dog was grinning its knowing, hateful grin down at him. He had heard the chord from the lyre.
 
-Shark Ship
+---
 
-Dawn near Union Square in New York City there used la be a itare that specialized in whip & chain items, mostly photographs of girls in high-heeled boots and black-leather bras tying up other girls in white. There was never a hint of overt sex. Nothing was visible an any af the girls that was not visible on any bathing beach. This kept the proprietors out of jail on pornography charges (this was a long time ago). The place fascinated Cyril. He never came to H. L. (Galaxy) Gold's place an East Fourteenth Street without stopping in for their latest catalogue an the way.
+shark_ship
 
-I always assumed that somewhere, somewhen, he would make use af all this . . . and after his death, halfway through "Shark Ship," 1 came across the sequence involving the decimation af land-based mankind and let out a whoop of recognition.
+# Shark Ship
+
+Dawn near Union Square in New York City there used la be a itare that specialized in whip & chain items, mostly photographs of girls in high-heeled boots and black-leather bras tying up other girls in white. There was never a hint of overt sex. Nothing was visible an any af the girls that was not visible on any bathing beach. This kept the proprietors out of jail on pornography charges (this was a long time ago). The place fascinated Cyril. He never came to H. L. (Galaxy) Gold’s place an East Fourteenth Street without stopping in for their latest catalogue an the way.
+
+I always assumed that somewhere, somewhen, he would make use af all this . . . and after his death, halfway through “Shark Ship,” 1 came across the sequence involving the decimation af land-based mankind and let out a whoop of recognition.
 
 It was the spring swarming of the plankton; every man and woman and most of the children aboard Grenville’s Convoy had a job to do. As the seventy-five gigantic sailing ships plowed their two degrees of the South Atlantic, the fluid that foamed beneath their cutwaters seethed also with life. In the few weeks of the swarming, in the few meters of surface water where sunlight penetrated in sufficient strength to trigger photosynthesis, microscopic spores burst into microscopic plants, were devoured by minute animals which in turn were swept into the maws of barely visible sea monsters almost a tenth of an inch from head to tail; these in turn were fiercely pursued and gobbled in shoals by the fierce little brit, the tiny herring and shrimp that could turn a hundred miles of green water to molten silver before your eyes.
 
@@ -4358,7 +4635,7 @@ Taking care not to pant, he finished the climb with a flourish, springing onto t
 
 Six intent women went past, their hand lamps sweeping the deck; he jumped, though they never noticed him. They were in something like a trance state while on their tour of duty. Normal courtesies were suspended for them; with their work began the job of survival. One thousand women, five per cent of the ship’s company, inspected night and day for corrosion. Sea water is a vicious solvent and the ship had to live in it; fanaticism was the answer.
 
-' His stateroom above the rudder waited; the hatchway to it glowed a hundred feet down the deck with the light of a wasteful lantern. After harvest, when the tanks brimmed with oil, one type acted as though the tanks would brim forever. The captain wearily walked around and over a dozen stay-ropes to the hatchway and blew out the lamp. Before descending he took a mechanical look around the deck; all was well—
+‘ His stateroom above the rudder waited; the hatchway to it glowed a hundred feet down the deck with the light of a wasteful lantern. After harvest, when the tanks brimmed with oil, one type acted as though the tanks would brim forever. The captain wearily walked around and over a dozen stay-ropes to the hatchway and blew out the lamp. Before descending he took a mechanical look around the deck; all was well—
 
 Except for a patch of paleness at the fantaiL
 
@@ -4382,7 +4659,7 @@ Because he thought he would not sleep, he did not.
 
 Marriage. Parenthood. What a strange business it must be! To share a bed with a wife, a cabin with two children decently behind their screen for sixteen years . . . what did one talk about in bed? His last mistress had hardly talked at all, except with her eyes. When these showed signs that she was falling in love with him, Heaven knew why, he broke with her as quietly as possible and since then irritably rejected the thought of acquiring a successor. That had been two years ago, when he was thirty-eight, and already beginning to feel like a cabin-crawler fit only to be dropped over the fantail into the wake. An old lecher, a rou£, a user of women. Of course she had talked a little; what did they have in common to talk about? With a wife ripening beside him, with children to share, it would have been different That pale, tall quiet girl deserved better than he could give; he hoped she was decently married now in a double cabin, perhaps already heavy with the first of her two children.
 
-A whistle squeaked above his head; somebody was blowing into one of the dozen speaking tubes clustered against the bulkhead. Then a push-wire popped open the steel lid of Tube Seven, Signals. He resignedly "picked up the flexible reply tube and said into it: “This is the captain. Go ahead.”
+A whistle squeaked above his head; somebody was blowing into one of the dozen speaking tubes clustered against the bulkhead. Then a push-wire popped open the steel lid of Tube Seven, Signals. He resignedly “picked up the flexible reply tube and said into it: “This is the captain. Go ahead.”
 
 ”Grenville signals Force Three squall approaching from astern, sir.”
 
@@ -4446,7 +4723,7 @@ The eldest of them, Retired Sailmaker Hodgins, presided. Venerably bearded, stil
 
 “Shipmates, our accident has come. We are dead men. Decency demands that we do not spin out the struggle and sink into—unlawful eatings. Reason tells us that we cannot survive. What I propose is an honorable voluntary death for us all, and the legacy of our ship’s fabric to be divided among the remainder of the Convoy at the discretion of the Commodore.”
 
-He had little hope of his old man’s viewpoint prevailing. The Chief Inspector rose at once. She had only three words to say: "Not my children.”
+He had little hope of his old man’s viewpoint prevailing. The Chief Inspector rose at once. She had only three words to say: “Not my children.”
 
 Women’s heads nodded grimly, and men’s with resignation. Decency and duty and common sense were all very well until you ran up against that steel bulkhead. Not my children.
 
@@ -4456,11 +4733,11 @@ Captain Salter should have answered that, but he, murderer of the twenty thousan
 
 Lieutenant Zwingli temporized by taking out his signals slate and pretending to refresh his memory. He said: “At 0035 today a lamp signal was made to Grenville advising that our net was lost. Grenville replied as follows: ‘Effective now, your ship no longer part of Convoy. Have no recommendations. Personal sympathy and regrets. Signed, Commodore.’ ”
 
-Captain Salter found his voice. “I’ve sent a couple of other messages to Grenville and to our neighboring vessels. They do not reply. This is as it should be. We are no longer part of the Convoy. Through our own— lapse—we have become a drag on the Convoy. We cannot look to it for help. I have no word of condemnation for anybody. This is how life is.”
+Captain Salter found his voice. “I’ve sent a couple of other messages to Grenville and to our neighboring vessels. They do not reply. This is as it should be. We are no longer part of the Convoy. Through our own—lapse—we have become a drag on the Convoy. We cannot look to it for help. I have no word of condemnation for anybody. This is how life is.”
 
 The chaplain folded his hands and began to pray inaudibly.
 
-And then a council member spoke whom Captain Salter knew in another role. It was Jewel Flyte, the tall, pale girl who had been his mistress two years, ago. She must be serving as an alternate, he thought, looking at her with new eyes. He did not know she was even that; he had avoided her since then. And no, she was not married; she wore no ring. And neither was her hair drawn back in the semi-official style of the semi-official voluntary celibates, the super-patriots (or simply sex-shy people, or dislikers of children) who surrendered their right to reproduce for the good of the ship (or their own convenience). She was simply a girl in the uniform of a—a what? He had to think hard before he could match the badge over her breast to a department She was Ship’s Archivist with her crossed key and quill, an obscure clerk and shelf-duster under—far under!— the Chief of Yeomen Writers. She must have been elected alternate by the Yeomen in a spasm of sympathy for her blind-alley career.
+And then a council member spoke whom Captain Salter knew in another role. It was Jewel Flyte, the tall, pale girl who had been his mistress two years, ago. She must be serving as an alternate, he thought, looking at her with new eyes. He did not know she was even that; he had avoided her since then. And no, she was not married; she wore no ring. And neither was her hair drawn back in the semi-official style of the semi-official voluntary celibates, the super-patriots (or simply sex-shy people, or dislikers of children) who surrendered their right to reproduce for the good of the ship (or their own convenience). She was simply a girl in the uniform of a—a what? He had to think hard before he could match the badge over her breast to a department She was Ship’s Archivist with her crossed key and quill, an obscure clerk and shelf-duster under—far under!—the Chief of Yeomen Writers. She must have been elected alternate by the Yeomen in a spasm of sympathy for her blind-alley career.
 
 “My job,” she said in her calm steady voice, “is chiefly to search for precedents in the Log when unusual events must be recorded and nobody recollects offhand the form in which they should be recorded. It is one of those provoking jobs which must be done by someone but which cannot absorb the full time of a person. I have therefore had many free hours of actual working time. I have also remained unmarried and am not inclined to sports or games. I tell you this so you may believe me when I say that during the past two years I have read the Ship’s Log in its entirety.”
 
@@ -4610,7 +4887,7 @@ The others stared. It was Mrs. Graves who went for the paper.
 
 The maintenancewoman spread the paper, studied it and said: “Just some nonsense. Captain, what do you make of it?”
 
-It was a large page tom from a book, and on it were simple polychrome drawings and some lines of verse in the style of a child’s first reader. Salter repressed a shocked guffaw. The picture was of a little boy and a little girl quaintly dressed and locked in murderous combat, using teeth and nails. "Jack and Jill went up the hill,” said the text, “to fetch a pail of water. She threw Jack down and broke his crown; it was a lovely slaughter.”
+It was a large page tom from a book, and on it were simple polychrome drawings and some lines of verse in the style of a child’s first reader. Salter repressed a shocked guffaw. The picture was of a little boy and a little girl quaintly dressed and locked in murderous combat, using teeth and nails. “Jack and Jill went up the hill,” said the text, “to fetch a pail of water. She threw Jack down and broke his crown; it was a lovely slaughter.”
 
 Jewel Flyte took the page from his hands. All she said was, after a long pause: “I suppose they couldn’t start them too young.” She dropped the page and she too wiped her hands.
 
@@ -4632,7 +4909,7 @@ One door stood open, its lock shattered by blows of a fire axe. Salter said: “
 
 Merdeka the Chosen, the All-Foreigner, the Ur-Alien, had never intended any of it. He began as a retail mail-order vendor of movie and television stills, eight-by-ten glossies for the fan trade. It was a hard dollar; you had to keep an immense stock to cater to a tottery Mae Bush admirer, to the pony-tailed screamer over Rip Tom, and to everybody in between. He would have no truck with pinups. “Dirty, lascivious pictures!” he snarled when broadly hinting letters arrived. “Filth! Men and women kissing, ogling, pawing each other! Orgies! Bah!” Merdeka kept a neutered dog, a spayed cat, and a crumpled uncomplaining housekeeper who was technically his wife. He was poor; he was very poor. Yet he never neglected his charitable duties, contributing every year to the Planned Parenthood Federation and the Midtown Hysterectomy Clinic.
 
-They knew him in the Third Avenue saloons where he talked every night, arguing with Irishmen, sometimes getting asked outside to be knocked down. He let them knock him down, and sneered from the pavement. Was this their argument? He could argue. He spewed facts and figures and cliches in unanswerable profusion. Hell, man, the Russians’U have a bomb base on the moon in two years and in two years the Army and the Air Force will still be beating each other over the head with pigs’ bladders. Just a minute, let me tell you: the goddammycin’s making idiots of us all; do you know of any children bom in the past two years that’re healthy? And: ’flu be go to hell; it’s our own germ warfare from Camp Crowder right outside Baltimore that got out of hand, and it happened the week of the twenty-fourth. And: the human animal’s obsolete; they’ve proved'at M.I.T., Steinwitz and Kohlmann proved that the human animal cannot survive the current radiation levels. And: enjoy your lung cancer, friend; for every automobile and its stinking exhaust there will be two-point-seven-oh-three cases of lung cancer, and we’ve got to have our automobiles, don’t we? And: delinquency my foot; they’re insane and it’s got to the point where the economy cannot support mass insanity; they’ve got to be castrated: it’s the only way. And: they should dig up the body of Metchnikoff and throw it to the does; he’s the degenerate who invented venereal prophylaxis and since then vice without punishment has run hogwild through
+They knew him in the Third Avenue saloons where he talked every night, arguing with Irishmen, sometimes getting asked outside to be knocked down. He let them knock him down, and sneered from the pavement. Was this their argument? He could argue. He spewed facts and figures and cliches in unanswerable profusion. Hell, man, the Russians’U have a bomb base on the moon in two years and in two years the Army and the Air Force will still be beating each other over the head with pigs’ bladders. Just a minute, let me tell you: the goddammycin’s making idiots of us all; do you know of any children bom in the past two years that’re healthy? And: ’flu be go to hell; it’s our own germ warfare from Camp Crowder right outside Baltimore that got out of hand, and it happened the week of the twenty-fourth. And: the human animal’s obsolete; they’ve proved’at M.I.T., Steinwitz and Kohlmann proved that the human animal cannot survive the current radiation levels. And: enjoy your lung cancer, friend; for every automobile and its stinking exhaust there will be two-point-seven-oh-three cases of lung cancer, and we’ve got to have our automobiles, don’t we? And: delinquency my foot; they’re insane and it’s got to the point where the economy cannot support mass insanity; they’ve got to be castrated: it’s the only way. And: they should dig up the body of Metchnikoff and throw it to the does; he’s the degenerate who invented venereal prophylaxis and since then vice without punishment has run hogwild through
 
 the world; what we need on the streets is a few of those old-time locomotor ataxia cases limping and drooling to show the kids where vice leads.
 
@@ -4650,7 +4927,7 @@ He had them there; Merdeka’s girls always wore at least full panties, bras, an
 
 The next year they tried to get him on his income tax; those deductions for the Planned Parenthood Federation and the Midtown Hysterectomy Clinic were preposterous, but he proved them with canceled checks to the last nickel. “In fact,” he indignantly told them, “I spend a lot of time at the Clinic and sometimes they let me watch the operations. That’s how highly they think of me at the Clinic.”
 
-The next year he started DEATH; the Weekly Picture Magazine with the aid of a half-dozen bright young grads from the new Harvard School of Communication-eering. As DEATH'S Communicator in Chief (only yesterday he would have been its Publisher, and only fifty years before he would have been its Editor) he slumped biliously in a pigskin-paneled office, peering suspiciously at the closed-circuit TV screen which had a hundred wired eyes throughout DEATH'S offices, sometimes growling over the voice circuit: “You! What’s your name? Boland? You’re through, Boland. Pick up your time at the paymaster.” For any reason; for no reason. He was a living legend in his narrow-lapel charcoal flannel suit and stringy bullfighter neckties; the bright young men in their Victorian Revival frock coats and pearl-pinned cravats wondered at his— not “obstinacy”; not when there might be a mike even in the comer saloon; say, his “timelessness.”
+The next year he started DEATH; the Weekly Picture Magazine with the aid of a half-dozen bright young grads from the new Harvard School of Communication-eering. As DEATH’S Communicator in Chief (only yesterday he would have been its Publisher, and only fifty years before he would have been its Editor) he slumped biliously in a pigskin-paneled office, peering suspiciously at the closed-circuit TV screen which had a hundred wired eyes throughout DEATH’S offices, sometimes growling over the voice circuit: “You! What’s your name? Boland? You’re through, Boland. Pick up your time at the paymaster.” For any reason; for no reason. He was a living legend in his narrow-lapel charcoal flannel suit and stringy bullfighter neckties; the bright young men in their Victorian Revival frock coats and pearl-pinned cravats wondered at his—not “obstinacy”; not when there might be a mike even in the comer saloon; say, his “timelessness.”
 
 The bright young men became bright young-old men, and the magazine which had been conceived as a vehicle for deadheading house ads of the mail order picture business went into the black. On the cover of every issue of DEATH was a pictured execution-of-the-week, and no price for one was ever too high. A fifty-thousand-dollar donation to a mosque had purchased the right to secretly snap the Bread Ordeal by which perished a Yemenite suspected of tapping an oil pipeline. An interminable illustrated History of Flagellation was a staple of the reading matter, and the Medical Section (in color) was tremendously popular. So too was the weekly Traffic Report
 
@@ -4752,7 +5029,7 @@ Again a huge fish lazily surfaced; Salter regarded it thoughtfully. He said: “
 
 Jewel Flyte said: “No. Not forever. This time it was the net, at the end of harvest. What if it were three masts in midwinter, in mid-Atlantic?”
 
-“Or,” said the captain, “the rudder—any time. Anywhere. But can you imagine telling the Council they’ve got to walk off the ship onto land, take up quarters in those brick cabins, change everything? And fight maniacs, and learn to farm?"
+“Or,” said the captain, “the rudder—any time. Anywhere. But can you imagine telling the Council they’ve got to walk off the ship onto land, take up quarters in those brick cabins, change everything? And fight maniacs, and learn to farm?”
 
 “There must be a way,” said Jewel Flyte. “Just as Merdeka, whatever it was, was a way. There were too many people, and Merdeka was the answer to too many people. There’s always an answer. Man is a land mammal in spite of brief excursions at sea. We were seed stock put aside, waiting for the land to be cleared so we could return. Just as these offshore fish are waiting very patiently for us to stop harvesting twice a year so they can return to deep water and multiply. What’s the way, Captain?”
 
@@ -4780,9 +5057,13 @@ The captain looked horrified.
 
 A flicker of consciousness was passing through the wounded chaplain; he heard the words and was pleased that somebody aboard was praying.
 
-Friend to Man
+---
 
-Karnbluth'l writing concerned moitly the faihlw of human beingi, and to he seldom gave us an alien being as a character. But there are exceptions, and "Friend to Man" is one.
+friend_to_man
+
+# Friend to Man
+
+Karnbluth’l writing concerned moitly the faihlw of human beingi, and to he seldom gave us an alien being as a character. But there are exceptions, and “Friend to Man” is one.
 
 Call him, if anything, Smith. He had answered to that and to other names in the past. Occupation, fugitive. His flight, it is true, had days before slowed to a walk and then to a crawl, but still he moved, a speck of gray, across the vast and featureless red plain of a planet not his own.
 
@@ -4870,7 +5151,7 @@ Wait longer, little ones. Wait longer.
 
 “You understand me?” Smith asked abruptly.
 
-The amber drop exuded, and the native played whiningly: "A-ah-nn-nah-t-ann.”
+The amber drop exuded, and the native played whiningly: “A-ah-nn-nah-t-ann.”
 
 “Well,” said Smith, “thanks.”
 
@@ -4890,7 +5171,7 @@ He told it of life in the cities of the planet, and it sawed out politely that t
 
 Under its cool benevolence he stammered and faltered in his ruthlessness. On the nights when he woke screaming and was comforted by it he would demand to know why it cared to comfort him.
 
-It would saw out: "S-z-lee-p mm-ah-ee-nn-d s-z-rahng." And from that he could conjecture that sound sleep makes the mind strong, or that the mind must be strong for the body to be strong, or whatever else he wished. It was kindness, he knew, and he felt shifty and rotten when he thought of, say, Amy.
+It would saw out: “S-z-lee-p mm-ah-ee-nn-d s-z-rahng.” And from that he could conjecture that sound sleep makes the mind strong, or that the mind must be strong for the body to be strong, or whatever else he wished. It was kindness, he knew, and he felt shifty and rotten when he thought of, say, Amy.
 
 It will be soon, will it not? Soon?
 
@@ -4936,9 +5217,13 @@ The map blurred a bit before Smith’s eyes. Then the map toppled and slid and b
 
 The screy mother did not look at the prostrate host as she turned and crawled up from the incubator to the surface. Something like fond humor wrinkled the surface of her thoughts as she remembered the little ones and their impatience. Heigh-ho! She had given them the best she could, letting many a smaller host go by until this fine, big host came her way. It had taken feeding and humoring, but it would last many and many a month while the little wrigglers grew and ate and grew within it. Heigh-ho! Life went on, she thought; one did the best one could . . .
 
-The Altar at Midnight
+---
 
-The thing about Kornbluth'i ebaracteri, James Blish once laid ta me, is that so many of them are working stiffs, and they sound like working stiffs; and how could a middle-class college-going intellectually oriented youngster like Cyril know sa much about how an ex-railway switchman felt about the world? I knew the answer. He found out about it from ex-railway switchmen, and all the rest of the world's invisible men who hang around a neighborhood bar until they succeed in taking aboard enough anesthesia to get through another night. Cyril was endlessly fascinated by barfly companions. He drank with them, listened to them, compared notes an the world with them—and stored them away, until they emerged again in the pages of a story like this one.
+the_altar_at_midnight
+
+# The Altar at Midnight
+
+The thing about Kornbluth’i ebaracteri, James Blish once laid ta me, is that so many of them are working stiffs, and they sound like working stiffs; and how could a middle-class college-going intellectually oriented youngster like Cyril know sa much about how an ex-railway switchman felt about the world? I knew the answer. He found out about it from ex-railway switchmen, and all the rest of the world’s invisible men who hang around a neighborhood bar until they succeed in taking aboard enough anesthesia to get through another night. Cyril was endlessly fascinated by barfly companions. He drank with them, listened to them, compared notes an the world with them—and stored them away, until they emerged again in the pages of a story like this one.
 
 He had quite a rum-blossom on him for a kid, I thought at first. But when he moved closer to the light by the cash register to ask the bartender for a match or something, I saw it wasn’t that. Not just the nose. Broken veins on his cheeks, too, and the funny eyes. He must have seen me look, because he slid back away from the light.
 
@@ -4958,7 +5243,7 @@ A three-piece band behind the drapes at the back of the stage began to make warm
 
 He turned to me right away and said: “What kind of a place is this, anyway?” The broken veins were all over his face, little ones, but so many, so close, that they made his face look something like marbled rubber. The funny look in his eyes was it—the trick contact lenses. But I tried not to stare and not to look away.
 
-' “It’s okay,” I said. “It’s a good show if you don’t mind a lot of noise from—”
+‘ “It’s okay,” I said. “It’s a good show if you don’t mind a lot of noise from—”
 
 He stuck a cigarette into his mouth and poked the pack at me. “I’m a spacer,” he said, interrupting.
 
@@ -5000,7 +5285,7 @@ He laughed like a real youngster and I figured he couldn’t even be twenty-five
 
 “What’s that mean?”
 
-“Oh. Well, it’s hard to describe. When you’re outside and you lose your point, it means you’re all mixed up, you don’t know which way the can—that’s the ship— which way the can is. It’s having all that room around you. But if you have a good balance, you feel a little tugging to the ship, or maybe you just know which way the ship is without feeling it. Then you have your point and you can get the work done.”
+“Oh. Well, it’s hard to describe. When you’re outside and you lose your point, it means you’re all mixed up, you don’t know which way the can—that’s the ship—which way the can is. It’s having all that room around you. But if you have a good balance, you feel a little tugging to the ship, or maybe you just know which way the ship is without feeling it. Then you have your point and you can get the work done.”
 
 “There must be a lot that’s hard to describe.”
 
@@ -5068,7 +5353,7 @@ One of the orators was a mush-mouthed evangelist. “And oh, my friends,” he s
 
 The crowd didn’t know what he was talking about, but “Wheah’s your redlines” sounded good to them, so they heckled mushmouth off his box with it.
 
-I got the kid to a bench. The liquor was working in him all of a sudden. He simmered down after a while and asked: “Doc, should I’ve given Miz Rorty some money? I asked her afterward and she said she’d admire to have something to remember me by, so I gave her my lighter. She seem’ to be real pleased with it. But I was wondering if maybe I embarrassed her by asking her right out. Like I tel’ you, back in Covington, Kentucky, we don’t have places like that. Or maybe we did and I just didn’t know about them. But what do you think I should’ve done about Miz Rorty?"’
+I got the kid to a bench. The liquor was working in him all of a sudden. He simmered down after a while and asked: “Doc, should I’ve given Miz Rorty some money? I asked her afterward and she said she’d admire to have something to remember me by, so I gave her my lighter. She seem’ to be real pleased with it. But I was wondering if maybe I embarrassed her by asking her right out. Like I tel’ you, back in Covington, Kentucky, we don’t have places like that. Or maybe we did and I just didn’t know about them. But what do you think I should’ve done about Miz Rorty?”’
 
 “lust what you did,” I told him. “If they want money, they ask you for it first. Where you staying?” “Y.M.C.A.,” he said, almost asleep. “Back in Covington, Kentucky, I was a member of the Y and I kept up my membership. They have to let me in because I’m a member. Spacers have all kinds of trouble, Doc. Woman trouble. Hotel trouble. Fam’ly trouble. Religious trouble. I was raised a Southern Baptist, but wheah’s Heaven, anyway? I ask’ Doctor Chitwood las’ time home before the redlines got so thick—Doc, you aren’t a minister of the Gospel, are you? I hope I di’n’ say anything to offend you.”
 
@@ -5080,7 +5365,7 @@ I walked him to the avenue and waited for a fleet cab. It was almost five minute
 
 When I walked through Screwball Square again, some college kids were yelling “wheah’s your redlines” at old Charlie, the last of the Wobblies.
 
-Old Charlie kept roaring: “The hell with your breadlines! I’m talking about atomic bombs. Right—up— there!” And he pointed at the Moon.
+Old Charlie kept roaring: “The hell with your breadlines! I’m talking about atomic bombs. Right—up—there!” And he pointed at the Moon.
 
 It was a nice night, but the liquor was dying in me. There was a joint around the comer, so I went in and
 
@@ -5100,9 +5385,13 @@ Down at the Institute, I was in the doghouse.
 
 The hell with them all.
 
-Dominoes
+---
 
-Twenty yean ago 1 was writing a full-scale history of the Great Depression (one af these days I may finish it). When I completed the chapter an the causes of the 1929 stack market crash I showed it ta Cyril. He shook his head. "Too complicated," he said. "1 bet there was □ simpler explanation." And he went home and wrote "Dominoes."
+dominoes
+
+# Dominoes
+
+Twenty yean ago 1 was writing a full-scale history of the Great Depression (one af these days I may finish it). When I completed the chapter an the causes of the 1929 stack market crash I showed it ta Cyril. He shook his head. “Too complicated,” he said. “1 bet there was □ simpler explanation.” And he went home and wrote “Dominoes.”
 
 “Money!” ms wife screamed at him. “You’re killing yourself, Will. Pull out of the market and let’s go some place where we can live like human—”
 
@@ -5172,7 +5461,7 @@ Bom yanked the door open and said: “Loring! What the devil—” And then he s
 
 He rushed from the big room and down the stairs. It was the same street in the West Seventies. Two hours, he thought, and looked at his watch. It said 9:55, but the sun unmistakably said it was late afternoon. Something had happened. He resisted an impulse to grab a passing high-school boy and ask him what year it was. There was a newsstand down the street, and Bom went to it faster than he had moved in years. He threw down a quarter and snatched a Post, dated—September 11th, 1977. He had done it.
 
-Eagerly he riffled to the Post's meager financial page. Moon Mining and Smelting had opened at 27. Uranium at 19. United Com at 24. Catastrophic lows! The crash had come!
+Eagerly he riffled to the Post’s meager financial page. Moon Mining and Smelting had opened at 27. Uranium at 19. United Com at 24. Catastrophic lows! The crash had come!
 
 He looked at his watch again, in panic. 9:59. It had said 9:55. He’d have to be back in the phone booth by 11:55 or—he shuddered. An H-bomb would be out of his league.
 
@@ -5280,7 +5569,7 @@ W. J. Bom shook his head. “You see what’s going on,” he said. “Money’s
 
 “It’s gone,” Loring said hoarsely. “I haven’t paid for the damn equipment—not ten cents on the dollar yet. I’ve been playing the market. I lost a hundred and fifty thousand on soy futures this morning. They’ll dismantle my stuff and haul it away. I’ve got to have some money.”
 
-“No!" W. J. Bom barked. “Absolutely not!”
+“No!” W. J. Bom barked. “Absolutely not!”
 
 “They’ll come with a truck for the generators this afternoon. I stalled them. My stocks kept going up. And now—all I wanted was enough in reserve to keep working. I’ve got to have money.”
 
@@ -5290,9 +5579,13 @@ Bom read the headline—again—of the Stock Exchange Journal for April 17th, 19
 
 Dominoes, W. J. Bom thought vaguely through the pain, and managed to hit a button on his desk. Miss Ulig came in and screamed and went out again and came back with a couple of husky customers’ men, but it was too late.
 
-Two Dooms
+---
 
-Just before hli death, Cyril finished two major pieces of work. One was the final revision of our last navel in collaboration, WoJfbane. The other was this. Cyril's name far the story was "The Dcomimcn," and it was accepted under that title by The Magazine of Fantasy and Science Fiction. But he died before It was published. Under the circumstances, the editor thought that title ghoulish, and so he changed it. There have been any number of if stories since about what would have happened if the Germans and the Japanese had won World War II, but this was one of the first—and one of the best.
+two_dooms
+
+# Two Dooms
+
+Just before hli death, Cyril finished two major pieces of work. One was the final revision of our last navel in collaboration, WoJfbane. The other was this. Cyril’s name far the story was “The Dcomimcn,” and it was accepted under that title by The Magazine of Fantasy and Science Fiction. But he died before It was published. Under the circumstances, the editor thought that title ghoulish, and so he changed it. There have been any number of if stories since about what would have happened if the Germans and the Japanese had won World War II, but this was one of the first—and one of the best.
 
 It was May, not yet summer by five weeks, but the afternoon heat under the corrugated roofs of Manhattan Engineer District’s Los Alamos Laboratory was daily less bearable. Young Dr. Edward Royland had lost fifteen pounds from an already meager frame during his nine-month hitch in the desert. He wondered every day while the thermometer crawled up to its 5:45 peak whether he had made a mistake he would regret the rest of his life in accepting work with the Laboratory rather than letting the local draft board have his carcass and do what they pleased with it. His University of Chicago classmates were glamorously collecting ribbons and wounds from Saipan to Brussels; one of them, a first-rate mathematician named Hatfield, would do no more first-rate mathematics. He had gone down, burning, in an Eighth Air Force Mitchell bomber ambushed over Lille.
 
@@ -5326,7 +5619,7 @@ Royland was a theory man, not a Wheatstone or a Kelvin; he liked the numbers for
 
 Oppie’s whistle blew; it was quitting time. Royland sat still in his cubicle. He should go, of course, to Rotschmidt and tell him; Rotschmidt would probably clap him on the back and pour him a jigger of Bols Geneva from the tall clay bottle he kept in his safe. Then Rotschmidt would go to Oppenheimer. Before sunset the project would be redesigned! Track I, Track II, Track IV, and Track V would be shut down and their people crammed into Track III, the one with the paydirt! New excitement would boil through the project; it had been torpid and souring for three months. Phase 56c was the first good news in at least that long; it had been one damned blind alley after another. General Groves had looked sour and dubious last time around.
 
-Desk drawers were slamming throughout the corrugated, sun-baked building; doors were slamming shut on cubicles; down the corridor, somebody roared with laughter, strained laughter. Passing Royland’s door somebody cried impatiently: "—aber was kan Man tun?”
+Desk drawers were slamming throughout the corrugated, sun-baked building; doors were slamming shut on cubicles; down the corridor, somebody roared with laughter, strained laughter. Passing Royland’s door somebody cried impatiently: “—aber was kan Man tun?”
 
 Royland whispered to himself: “You damned fool, what are you thinking of?”
 
@@ -5422,7 +5715,7 @@ Yes, he was thirsty; soon he would be hungry and tired; what of it? The dirt roa
 
 He began to construct his story as he hiked. In large parts it was a repeated “I don’t know.” He would tell them: “I don’t expect you to believe this, so my feelings won’t be hurt when you don’t. Just listen to what I say and hold everything until the F.B.I. has checked my fingerprints. My name is—” And so on.
 
-It was midmorning then, and he would be on the highway soon. His nostrils, sharpened by hunger, picked up a dozen scents on the desert breeze: the spice of sage, a whiff of acetylene stink from a rattler dozing on the shaded side of a rock, the throat-tightening reek of tar suggested for a moment on the air. That would be the highway, perhaps a recent hotpatch on a chuckhole. Then a startling tang of sulfur dioxide drowned them out and passed on, leaving him stung and sniffling and groping for a handkerchief that was not there. What in God’s name had that been, and where from? Without ceasing to trudge he studied the horizon slowly and found a smoke pall to the far west dimly smudging the sky. It looked like a small city’s, or a fair-sized factory’s, pollution. A city or a factory where “in his time”— he formed the thought reluctantly—there had been none.
+It was midmorning then, and he would be on the highway soon. His nostrils, sharpened by hunger, picked up a dozen scents on the desert breeze: the spice of sage, a whiff of acetylene stink from a rattler dozing on the shaded side of a rock, the throat-tightening reek of tar suggested for a moment on the air. That would be the highway, perhaps a recent hotpatch on a chuckhole. Then a startling tang of sulfur dioxide drowned them out and passed on, leaving him stung and sniffling and groping for a handkerchief that was not there. What in God’s name had that been, and where from? Without ceasing to trudge he studied the horizon slowly and found a smoke pall to the far west dimly smudging the sky. It looked like a small city’s, or a fair-sized factory’s, pollution. A city or a factory where “in his time”—he formed the thought reluctantly—there had been none.
 
 Then he was at the highway. It had been improved; it was a two-laner still, but it was nicely graded now, built up by perhaps three inches of gravel and tar beyond its old level, and lavishly ditched on either side.
 
@@ -5432,7 +5725,7 @@ I am a reasonable animal, he was telling himself, and I will accept whatever com
 
 A faint siren scream began behind him and built up fast. The reasonable animal jumped for the ditch and hugged it for dear life. The siren howled closer, and motors roared. At the ear-splitting climax Royland put his head up for one glimpse, then fell back into the ditch as if a grenade had exploded in his middle.
 
-The convoy roared on, down the center of the two-lane highway, straddling the white line. First the three little recon cars with the twin-mount machine guns, each filled brimful with three helmeted Japanese soldiers. Then the high-profiled, armored car of state, sixwheeled, with a probably ceremonial gun turret astern —nickel-plated gunbarrels are impractical—and the Japanese admiral in the fore-and-aft hat taking his lordly ease beside a rawboned, hatched-faced SS officer in gleaming black. Then, diminuendo, two more little recon jobs . . .
+The convoy roared on, down the center of the two-lane highway, straddling the white line. First the three little recon cars with the twin-mount machine guns, each filled brimful with three helmeted Japanese soldiers. Then the high-profiled, armored car of state, sixwheeled, with a probably ceremonial gun turret astern—nickel-plated gunbarrels are impractical—and the Japanese admiral in the fore-and-aft hat taking his lordly ease beside a rawboned, hatched-faced SS officer in gleaming black. Then, diminuendo, two more little recon jobs . . .
 
 “We’ve lost,” Royland said in his ditch meditatively. “Ceremonial tanks with glass windows—we lost a long time ago.” Had there been a Rising Sun insignia or was he now imagining that?
 
@@ -5458,7 +5751,7 @@ With the same bark: “Who do you think you are?”
 
 “I happen to be a theoretical physicist—” tiredly arguing with a dim seventh-carbon-copy imitation of a drill sergeant.
 
-“Oh-hoh!" Martfield suddenly laughed. His stiffness vanished; he actually reached into his baggy tunic and brought out a pint canteen that gurgled. He then forgot all about the canteen in his hand, roguishly dug Roy-land in the ribs and said: “I should have suspected. You scientists! Somebody was supposed to pick you up—but he was another scientist, eh? Ah-hah-hah-hahl”
+“Oh-hoh!” Martfield suddenly laughed. His stiffness vanished; he actually reached into his baggy tunic and brought out a pint canteen that gurgled. He then forgot all about the canteen in his hand, roguishly dug Roy-land in the ribs and said: “I should have suspected. You scientists! Somebody was supposed to pick you up—but he was another scientist, eh? Ah-hah-hah-hahl”
 
 Royland took the canteen from his hand and sipped. So a scientist was supposed to be an idiot-savant, eh? Never mind now; drink. People said you were not supposed to fill your stomach with water after great thirst; it sounded to him like one of those puritanical rules people make up out of nothing because they sound reasonable. He finished the canteen while Martfield, Paymaster Seventh, looked alarmed, and wished only that there were three or four more of them.
 
@@ -5466,7 +5759,7 @@ Royland took the canteen from his hand and sipped. So a scientist was supposed t
 
 Martfield cringed briefly. “Doctor, I regret extremely that I have nothing with me. However if you would do me the honor of riding with me to my quarters—”
 
-“Let’s go,” Royland said. He squatted on the flour sacks and away they chugged at a good thirty miles an hour; it was a fair little engine. The Paymaster Seventh continued deferential, apologizing over his shoulder because there was no windscreen, later dropped his cringing entirely to explain that Royland was seated on flour—"white flour, understand?” An over-the-shoulder wink. He had a friend in the bakery at Los Alamos. Several buckboards passed the other way as they traveled. At each encounter there was a peering examination of insignia to decide who saluted. Once they met a sketchily enclosed vehicle that furnished its driver with a low seat instead of obliging him to sit with legs straight out, and Paymaster Seventh Martfield almost dislocated his shoulder saluting first. The driver of that one was a Japanese in a kimono. A long curved sword lay across his lap.
+“Let’s go,” Royland said. He squatted on the flour sacks and away they chugged at a good thirty miles an hour; it was a fair little engine. The Paymaster Seventh continued deferential, apologizing over his shoulder because there was no windscreen, later dropped his cringing entirely to explain that Royland was seated on flour—”white flour, understand?” An over-the-shoulder wink. He had a friend in the bakery at Los Alamos. Several buckboards passed the other way as they traveled. At each encounter there was a peering examination of insignia to decide who saluted. Once they met a sketchily enclosed vehicle that furnished its driver with a low seat instead of obliging him to sit with legs straight out, and Paymaster Seventh Martfield almost dislocated his shoulder saluting first. The driver of that one was a Japanese in a kimono. A long curved sword lay across his lap.
 
 Mile after mile the smell of sulfur and sulfides increased; finally there rose before them the towers of a Frasch Process layout. It looked like an oilfield, but instead of ground-laid pipelines and bass-drum storage tanks there were foothills of yellow sulfur. They drove between them—more salutes from baggily uniformed workers with shovels and yard-long Stilson wrenches. Off to the right were things that might have been Solvay Process towers for sulfuric acid, and a glittering horror of a neo-Roman administration-and-labs building. The Rising Sun banner fluttered from its central flagstaff.
 
@@ -5568,7 +5861,7 @@ For one hundred and fifty years now the Germans and the Japanese had uneasily ey
 
 “You’re all French?” Royland asked, startled.
 
-“French Germans," Piqueron stiffly corrected him. “Colonel Biederman happens to be a French German also; Major Kappel is—hrrmph—an Italian German.” He sniffed to show what he thought of that.
+“French Germans,” Piqueron stiffly corrected him. “Colonel Biederman happens to be a French German also; Major Kappel is—hrrmph—an Italian German.” He sniffed to show what he thought of that.
 
 The Italian German entered at that point, not in time to shut off the question: “And you all come from Europe?”
 
@@ -5600,11 +5893,11 @@ Kappel shrugged. “It’s not my job to persuade you; I wouldn’t know how to 
 
 “What—is a work camp?” Royland unsteadily asked.
 
-“Good heavens, man, a camp where one works! You’ve obviously an ungleichgeschaltling and you’ve got to be gleichgeschaltet." He did not speak these words as if they were foreign; they were obviously part of the everyday American working vocabulary. Gleichgeschaltet meant to Royland something like “coordinated, brought into tune with.” So he would be brought into tune—with what, and how?
+“Good heavens, man, a camp where one works! You’ve obviously an ungleichgeschaltling and you’ve got to be gleichgeschaltet.” He did not speak these words as if they were foreign; they were obviously part of the everyday American working vocabulary. Gleichgeschaltet meant to Royland something like “coordinated, brought into tune with.” So he would be brought into tune—with what, and how?
 
 The Major went on: “You’ll get your clothes and your bunk and your chow, and you’ll work, and eventually your irregular vagabondish habits will disappear and you’ll be turned loose on the labor market. And you’ll be damned glad we took the trouble with you.” His face fell. “By the way, I was too late with your friend the Paymaster. I’m sorry. I sent a messenger to Disciplinary Control with a stop order. After all, if you took us in for an hour, why should you not have fooled a Pay-Seventh?”
 
-“Too late? He’s dead? For picking up a hitchhiker?"
+“Too late? He’s dead? For picking up a hitchhiker?”
 
 “I don’t know what that last word means,” said the Major. “If it’s dialect for ‘vagabond,’ the answer is ordinarily ‘yes.’ The man, after all, was a Pay-Seventh; he could read. Either you’re keeping up your hoax with remarkable fidelity or you’ve been living in isolation.
 
@@ -5622,7 +5915,7 @@ One thing was certain: life in the work camp would at least bore him to death. H
 
 He found a natty change of uniform and what must be a civilian suit: somewhat baggy pants and a sort of tunic with the neat, sensible Russian collar. Obviously it would be all right to wear it because here it was; just as obviously, it was all wrong for him to be dressed in chinos and a flannel shirt. He did not know exactly what this made him, but Martfield had been done to death for picking up a man in chinos and a flannel shirt. Royland changed into the civilian suit, stuffed his own shirt and pants far back on the top shelf of the closet; this was probably concealment enough from those murderous clowns.
 
-He walked out, and up the stairs, and through the busy lobby, and into the industrial complex. Nobody saluted him and he saluted nobody. He knew where he was going —to a good, sound Japanese laboratory where there were no Germans.
+He walked out, and up the stairs, and through the busy lobby, and into the industrial complex. Nobody saluted him and he saluted nobody. He knew where he was going—to a good, sound Japanese laboratory where there were no Germans.
 
 Royland had known Japanese students at the University and admired them beyond words. Their brains, frugality, doggedness, and good humor made them, as far as he was concerned, the most sensible people he had ever known. Tojo and his warlords were not, as far as Royland was concerned, essentially Japanese but just more damnfool soldiers and politicians. The real Japanese would courteously listen to him, calmly check against available facts—
 
@@ -5758,13 +6051,13 @@ He assumed, or pretended, that they were within earshot and yelled at them broke
 
 “Women. That’s wrong. It’s good for the men, but it’s wrong. Half of you are slaves, do you understand? Women are people too, but you use them like animals and you’ve convinced them it’s right for them to be old at thirty and discarded for the next girl. For God’s sake, can’t you try to think of yourselves in their place?
 
-“The breeding, the crazy breeding—it’s got to stop. You frugal Orientals! But you aren’t frugal; you’re crazy drunken sailors. You’re squandering the whole world. Every mouth you breed has got to be fed by the land, and the land'isn’t infinite.
+“The breeding, the crazy breeding—it’s got to stop. You frugal Orientals! But you aren’t frugal; you’re crazy drunken sailors. You’re squandering the whole world. Every mouth you breed has got to be fed by the land, and the land’isn’t infinite.
 
 “I hope some of you understood. Li Po would have, a little, but he’s dead.
 
 ‘Tm going away now. You’ve been kind to me and all I’ve done is make trouble. I’m sorry.”
 
-He fumbled on the ground and found the samurai's flashlight. With it he hunted the village’s outskirts until he found the Japanese’s buckboard car. He started the motor with its crank and noisily rolled down the dirt track from the village to the highway.
+He fumbled on the ground and found the samurai’s flashlight. With it he hunted the village’s outskirts until he found the Japanese’s buckboard car. He started the motor with its crank and noisily rolled down the dirt track from the village to the highway.
 
 Royland drove all night, still westward. His knowledge of southern California’s geography was inexact, but he hoped to hit Los Angeles. There might be a chance of losing himself in a great city. He had abandoned hope of finding present-day counterparts of his old classmates like Jimmy Ichimura; obviously they had lost out. Why shouldn’t have they lost? The soldier-politicians had won the war by happenstance, so all power to the soldier-politicians! Reasoning under the great natural law post hoc ergo propter hoc, Tojo and his crowd had decided: fanatic feudalism won the war; therefore fanatic feudalism is a good thing, and it necessarily follows that the more fanatical and feudal it is, the better a thing it is. So you had Sukoshi Village, and Ugetsu Village; Ichi Village, Ni Village, San Village, Shi Village, dotting that part of Great Japan formerly known as North America, breeding with die good old fanatic feudalism and so feudally averse to new thought and innovations that it made you want to scream at them—which he had.
 
@@ -5788,15 +6081,15 @@ He found exactly one building which owned some clear space around it and which w
 
 ni give them the Bomb, hei said to himself. Why not? None of this is mine. And for the Bomb Til exact a price of some comfort and dignity for as long as I live. Lei them blow one another up! He climbed the consulate steps.
 
-To the black-uniformed guard at the swastika-trimmed bronze doors he said: “Wenn die Lichtsttirke der von einer Fldche kommenden Strahlung dem Cosinus des Winkels zwischen Strahlrichtung und Fldchennormalen proportional ist, so nennen wir die Fldche eine volkom-men streunde Fldche." Lambert’s Law, Optics I. All the Goethe he remembered happened to rhyme, which might have made the guard suspicious.
+To the black-uniformed guard at the swastika-trimmed bronze doors he said: “Wenn die Lichtsttirke der von einer Fldche kommenden Strahlung dem Cosinus des Winkels zwischen Strahlrichtung und Fldchennormalen proportional ist, so nennen wir die Fldche eine volkom-men streunde Fldche.” Lambert’s Law, Optics I. All the Goethe he remembered happened to rhyme, which might have made the guard suspicious.
 
 Naturally the German came to attention and said apologetically: “I don’t speak German. What is it, sir?”
 
-"You may take me to the consul,” Royland said, affecting boredom.
+“You may take me to the consul,” Royland said, affecting boredom.
 
 “Yes, sir. At once, sir. Er, you’re an agent of course, sir?”
 
-Royland said witheringly: "Sicherheit, bittei“
+Royland said witheringly: “Sicherheit, bittei“
 
 “Yessir. This way, sir!”
 
@@ -5838,7 +6131,7 @@ Now he remembered. In the cafeteria about three months ago Bloom had been sippin
 
 Bloom looked up with tears in his eyes: “It’s cruel, I’m tellink you, Royland, it’s cruel. They’re not givink them the right to scream, to strike a futile blow, to say-ink prayers Kiddush ha Shem like a Jew should when he is dyink for Consecration of the Name! They trick them, they say they go to farm settlements, to labor camps, so four-five of the stinkink bastards can handle a whole trainload Jews. They trick the clothes off of them at the camps, they sayink they delouse them. They trick them into room says showerbath over the door and then is too late to sayink prayers; then goes on the gas.”
 
-Bloom had let go of him and put his head on the table between his hands. Royland had mumbled something, patted his shoulder, and walked on, shaken. For once the neurotic little man might have got some straight facts. That was a very circumstantial touch about expediting the handling of prisoners by systematic lies— always the carrot and the stick.
+Bloom had let go of him and put his head on the table between his hands. Royland had mumbled something, patted his shoulder, and walked on, shaken. For once the neurotic little man might have got some straight facts. That was a very circumstantial touch about expediting the handling of prisoners by systematic lies—always the carrot and the stick.
 
 Yes, everybody had been so god-damn agreeable since he climbed the Consulate steps! The friendly door guard, the Consul who nodded and remarked that his story was not an impossible one, the men he’d eaten with—all that quiet optimism. “Thanks. I’ll remember you, Corporal Collins. You’ve been very helpful.” He had felt positively benign toward the corporal, and now remembered that the corporal had turned around very quickly after he spoke. To hide a grin?
 
@@ -5954,7 +6247,7 @@ Albiani had been interested enough to look up the mushrooms in question in the r
 
 “They’re not there,” Royland said.
 
-The professor, annoyed at last, said: “There might be some uncatalogued in the basement. Really, we don’t have room for everything in our limited display space— just the interesting items.”
+The professor, annoyed at last, said: “There might be some uncatalogued in the basement. Really, we don’t have room for everything in our limited display space—just the interesting items.”
 
 Royland pulled himself together and charmed the location of the department’s basement storage space out of him, together with permission to inspect it. And, left alone for a moment, ripped the color plate from the professor’s book and stowed it away.
 
@@ -6024,34 +6317,14 @@ Rotschmidt would be philosophical. He would probably sigh about the Bomb: “Ah,
 
 And Royland would have to try to avoid answering him very sharply: “Yes. This once we damn well do.”
 
-About the Author
+---
 
-Once, when one of C.M. Karnblutli's short story collection! was published, he wos asked ta write a short autobiographical sketch to indude in it. This is it.
+about_the_author
+
+# About the Author
+
+Once, when one of C.M. Karnblutli’s short story collection! was published, he wos asked ta write a short autobiographical sketch to indude in it. This is it.
 
 I was born in New York City in 1923, and was educated in the city schools as tar as freshman year at C.C.N.Y., when I was dropped for the usual reasons. I had already begun to contribute to the science-fiction magazines and became a full-time writer after leaving college, though most people regarded me as an unemployed bum. I weakened once to the extent of getting a job as a hand-screw-machine operator, but quit after a few months to enlist in the army. In three years of service I acquired a wife, a combat infantry badge, two ETO campaign stars, a PFC stripe, and a constant ringing in the ears.* After my discharge I settled in Chicago, where I combined writing blood-and-guts detective stories with acquiring an education according to the precepts of the University of Chicago. A friend managing the local bureau of a moribund news agency got me a job on its desk, and it was goodbye, Chancellor Hutchins. I rose to bureau chief eventually, paralleling the news job with contributions to the science-fiction magazines and such fantastic chores as writing a syndicated review of phonograph records for children. In 1951, at the urging of my wife, my agent, and my doctor, I resigned my job to come east as a full-time free-lance writer again. Since then I’ve sired two children and eleven books, including this one. I live now in a Tioga
 
-County, New York, farmhouse, and visit New York City infrequently. I drive a senile Ford timidly and not well; I like to cook, specializing in Italian and Chinese dishes. I have been accused of being a compulsive reader. My writing habits have changed over the years from white-hot all-night sessions to a-little-every-day and plenty of polishing. 1 have no formal hobbies, but am interested in practically every human activity except sports. I have no settled opinions about writing; currently I’m concerned most over the invasion of science fiction by exponents of the so-called “mandarin style.” •The "conslant ringing in the ears" turned out la be essential malignant hypertension, and a lew years later it caused his death.
-
-THEWONDEROF
-
-C./nroRNBULnH
-
-HERE IN ONE SPECTACULAR VOLUME ARE THE 20 MOST BRILLIANT STORIES OF THE EXTRAORDINARY
-
-BREATHTAKING AMAZEMENT AND SHEER DELIGHT.
-
-■ THE LITTLE BLACK BAG ' THE SILLY SEASON
-
-•	GOMEZ
-
-He was a 17-year-old Puerto Rican dishwasher v atomic physics that could turn top sec rets Inside
-
-•	THE MARCHING MORONS
-
-An impacted wisdom tooth hod led John Badou^i
-
-• FRIENDTOMAN
-
-He wasa fugitive on an alien planet, being pursued by a posse of -AND 15 MORE MEMORABLE SELECTIONS..
-
-BY A MAN WHOSE ASTOUNDING STORIES HAVE ENTHRALLED MILLIONS
+County, New York, farmhouse, and visit New York City infrequently. I drive a senile Ford timidly and not well; I like to cook, specializing in Italian and Chinese dishes. I have been accused of being a compulsive reader. My writing habits have changed over the years from white-hot all-night sessions to a-little-every-day and plenty of polishing. 1 have no formal hobbies, but am interested in practically every human activity except sports. I have no settled opinions about writing; currently I’m concerned most over the invasion of science fiction by exponents of the so-called “mandarin style.” •The “conslant ringing in the ears” turned out la be essential malignant hypertension, and a lew years later it caused his death.

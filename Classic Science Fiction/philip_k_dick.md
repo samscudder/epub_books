@@ -26,8 +26,7 @@ rearcover
 **—John Brunner**
 
 .center
-THE REALITY OF
-PHILIP K. DICK
+![THE REALITY OF PHILIP K. DICK](philip_k_dick_r.png)
 
 .fl
 **HERE – IN THE DEFINITIVE PHILIP K. DICK COLLECTION – ARE 19 OF HIS MOST FAMOUS STORIES . . . STORIES THAT LOOK BEHIND WHAT IS APPARENTLY REAL TO WHAT IS REALLY REAL!**
@@ -360,7 +359,7 @@ But, since time immemorial, people have been trying to get their heads straight�
 
 Reading a Philip Dick story is a highly efficient means of destroying preconceived perceptual sets. Doing so is all the more to be recommended inasmuch as it does not entail brain damage, as does the ingestion of concentrated chemicals. The effects are not transient and irrecoverable, as are the fleeting insights which may follow inhalation of certain organic substances widespread in our society. Nor does this call for the outlay of enormous sums of money, as does a course of psychoanalysis or psychotherapy. It . . .
 
-Well, it does things like this to you. Quite in passing, Phil makes one of his charcters say to another, “God is dead.”
+Well, it does things like this to you. Quite in passing, Phil makes one of his characters say to another, “God is dead.”
 
 And this is known. The corpse of something sufficiently advanced to have created Earth, and us, has been found adrift in space.
 
@@ -381,7 +380,7 @@ Well, it says here that you did.
 
 Oh.
 
-I see. Pm’ very sorry. Is it legal for me to be sorry?
+I see. I’m very sorry. Is it legal for me to be sorry?
 
 .space
 Of all the novels with which I have set out to convert people who thought they didn’t like sf, I have had most success with George R. Stewart’s *Earth Abides*—and Philip K. Dick’s *The Man in the High Castle*. Dick is so good at his job, he reaches across everybody’s boundary lines.
@@ -390,7 +389,7 @@ But this I tell you straight up: I do not want to live in the sort of world Dick
 
 I wish—I desperately wish—that I dared believe we don’t.
 
-Maybe if a lot of people read Dick’s work I’ll stand a better chance of not living in that world. . .
+Maybe if a lot of people read Dick’s work I’ll stand a better chance of not living in that world . . .
 
 .right
 John Brunner
@@ -615,15 +614,17 @@ Peterson stood up. “What for?”
 
 “It’s an order.”
 
-Peterson walked to the door. French caught his arm. “What’s going on?” Peterson wrenched loose. “What’s the matter with you?”
+Peterson walked to the door. French caught his arm.
 
-Captain Franco moved toward the wub. The wub looked up from where it lay in the comer, pressed against the walk
+“What’s going on?” Peterson wrenched loose. “What’s the matter with you?”
+
+Captain Franco moved toward the wub. The wub looked up from where it lay in the corner, pressed against the wall.
 
 “It is interesting,” the wub said, “that you are obsessed with the idea of eating me. I wonder why.”
 
-“Get up,” Franco said. .
+“Get up,” Franco said.
 
-“If you wish.” The wub rose, grunting. “Be patient. It is difficult for me.” It stood, gasping, its tongue lolling foolishly.	.
+“If you wish.” The wub rose, grunting. “Be patient. It is difficult for me.” It stood, gasping, its tongue lolling foolishly.
 
 “Shoot it now,” French said.
 
@@ -645,13 +646,13 @@ The gun jerked.
 
 “See,” Franco said. “I thought so.”
 
-The wub settled down, panting. It put its paw out, pulling its tail around it.
+<a id="page8" />The wub settled down, panting. It put its paw out, pulling its tail around it.
 
 “It is very warm,” the wub said. “I understand that we are close to the jets. Atomic power. You have done many wonderful things with it—technically. Apparently your scientific hierarchy is not equipped to solve moral, ethical—”
 
 Franco turned to the men, crowding behind him, wide-eyed, silent.
 
-‘Til do it. You can watch.”
+‘I’ll do it. You can watch.”
 
 French nodded. “Try to hit the brain. It’s no good for eating. Don’t hit the chest. If the rib cage shatters, we’ll have to pick bones out.”
 
@@ -665,11 +666,11 @@ Franco raised his gun.
 
 “It was talking to me about myths,” he said. “It wouldn’t hurt anyone.”
 
-He went outside.	.
+He went outside.
 
 Franco walked toward the wub. The wub looked up slowly. It swallowed.
 
-“A very foolish thing,” it said. “I am sorry that you want to do it. There was a parable that your Savior related—”	■
+“A very foolish thing,” it said. “I am sorry that you want to do it. There was a parable that your Savior related—”
 
 It stopped, staring at the gun.
 
@@ -679,21 +680,16 @@ The Captain gazed down. “I can look you in the eye,” he said. “Back on the
 
 Staring down at the wub, into the gleaming, moist eyes, he pressed the trigger.
 
+.space
 The taste was excellent.
 
-They sat glumly around the table, some of them
-
-hardly eating at all. The only one who seemed to be enjoying himself was Captain Franco.
+They sat glumly around the table, some of them <a id="page9" />hardly eating at all. The only one who seemed to be enjoying himself was Captain Franco.
 
 “More?” he said, looking around. “More? And some wine, perhaps.”
 
-“Not me,” French said. “I think I’ll go back to the
+“Not me,” French said. “I think I’ll go back to the chart room.”
 
-chart room.”	,
-
-“Me, too.” Jones stood up, pushing his chair back.
-
-‘Til see you later.”
+“Me, too.” Jones stood up, pushing his chair back. “I’ll see you later.”
 
 The Captain watched them go. Some of the others excused themselves.	.
 
@@ -705,17 +701,17 @@ The Captain put his hand on Peterson’s shoulder.
 
 “It is only organic matter, now,” he said. “The life essence is gone.” He ate, spooning up the gravy with some bread. “I, myself, love to eat. It is one of the greatest things that a living creature can enjoy. Eating, resting, meditation, discussing things.”
 
-Peterson nodded. Two more men got up and went out. The Captain drank some water and sighed. .
+Peterson nodded. Two more men got up and went out. The Captain drank some water and sighed.
 
 “Well,” he said. “I must say that this was a very enjoyable meal. All the reports I had heard were quite true—the taste of wub. Very fine. But I was prevented from enjoying this in times past.”
 
-He dabbed at his lips with his napkin and leaned back in his chair. Peterson stared dejectedly at the table.	‘
+He dabbed at his lips with his napkin and leaned back in his chair. Peterson stared dejectedly at the table.
 
 The Captain watched him intently. He leaned over.
 
 “Come, come,” he said. “Cheer up! Let’s discuss things.”
 
-He smiled,
+He smiled.
 
 “As I was saying before I was interrupted, the role of Odysseus in the myths—”
 
@@ -727,7 +723,7 @@ Peterson jerked up, staring.
 
 roog
 
-# Roog
+# <a id="page10" />Roog
 
 .fl
 <span class="smallcaps">“Roog!” the dog</span> said. He rested his paws on the top of the fence and looked around him.
@@ -738,13 +734,11 @@ It was early morning, and the sun had not really come up yet. The air was cold a
 
 The Roog stood by the open gate, looking into the yard. He was a small Roog, thin and white, on wobbly legs. The Roog blinked at the dog, and the dog showed his teeth.
 
-“Roogl” he said again. The sound echoed into the silent hah darkness. Nothing moved or stirred. The dog dropped down and walked back across the yard to the porch steps. He sat down on the bottom step and watched the Roog. The Roog glanced at him. Then he stretched his neck up to the window of the house, just above him. He sniffed at the window.
+“Roog!” he said again. The sound echoed into the silent half darkness. Nothing moved or stirred. The dog dropped down and walked back across the yard to the porch steps. He sat down on the bottom step and watched the Roog. The Roog glanced at him. Then he stretched his neck up to the window of the house, just above him. He sniffed at the window.
 
 The dog came flashing across the yard. He hit the fence, and the gate shuddered and groaned. The Roog was walking quickly up the path, hurrying with funny little steps, mincing along. The dog lay down against the slats of the gate, breathing heavily, his red tongue hanging. He watched the Roog disappear.
 
-The dog lay silently, his eyes bright and black. The day was beginning to come. The sky turned a little whiter, and from all around the sounds of people getting up echoed through the morning air. Lights popped on bell
-
-hind shades. In the chilly dawn a window was opened.
+The dog lay silently, his eyes bright and black. The day was beginning to come. The sky turned a little whiter, and from all around the sounds of people getting up echoed through the morning air. Lights popped on <a id="page12" />behind shades. In the chilly dawn a window was opened.
 
 The dog did not move. He watched the path.
 
@@ -752,7 +746,7 @@ In the kitchen Mrs. Cardossi poured water into the coffeepot. Steam rose from th
 
 “You bring in the paper?” he said.
 
-<Tt’s outside.”
+“It’s outside.”
 
 Alf Cardossi walked across the kitchen. He threw the bolt on the back door and stepped out onto the porch. He looked into the gray, damp morning. At the fence Boris lay, black and furry, his tongue out.
 
@@ -779,13 +773,13 @@ About 11:00, Mrs. Cardossi swept the front porch. She sniffed the air, pausing f
 
 In the heat of the noonday sun the black dog lay stretched out full length, under the porch. His chest rose and fell. In the cherry tree the birds were playing, squawking and chattering to each other. Once in a while Boris raised his head and looked at them. Presently he got to his feet and trotted down under the tree.
 
-He was standing under the tree when he saw the two Roogs sitting on the fence, watching him.
+<a id="page13" />He was standing under the tree when he saw the two Roogs sitting on the fence, watching him.
 
-“He’s big,” the first Roog said. “Most Guardians aren’t as big as this.”	:
+“He’s big,” the first Roog said. “Most Guardians aren’t as big as this.”
 
 The other Roog noaded, his head wobbling on his neck. Boris watched them without moving, his body stiff and hard. The Roogs were silent, now, looking at the big dog with his shaggy ruff of white around his neck.
 
-“How is the offering urn?” the first Roog said. “Is it almost full?”	’
+“How is the offering urn?” the first Roog said. “Is it almost full?”
 
 “Yes.” The other nodded. “Almost ready.”
 
@@ -799,7 +793,7 @@ The two Roogs leaped off the fence and went over together just beyond the walk. 
 
 “This area really is none too good for a first trial,” the first Roog said. “Too many Guardians . . . Now, the northside area—”
 
-“They decided,” the other Roog said. “There are so many factors—■”
+“*They* decided,” the other Roog said. “There are so many factors—”
 
 “Of course.” They glanced at Boris and moved back farther from the fence. He could not hear the rest of what they were saying.
 
@@ -813,9 +807,7 @@ That night when Alf Cardossi came home the dog was standing at the gate, looking
 
 Boris whined, looking intently up into the man’s face.
 
-“You a good dog, Boris,” Alf said. “You pretty big,
-
-too, for a dog. You don’t remember long ago how you used to be only a little bit of a puppy.”
+“You a good dog, Boris,” Alf said. “You pretty big, <a id="page14" />too, for a dog. You don’t remember long ago how you used to be only a little bit of a puppy.”
 
 Boris leaned against the man’s leg.
 
@@ -850,7 +842,7 @@ In the distance the sound came again, louder now, not as far away as before. It 
 
 And along the street the Roogs came. The Roogs and their truck moved along, bouncing against the rough stones, crashing and whirring.
 
-“Roog!” Boris cried, and he leaped, his eyes blazing. Then he became more calm. He settled himself down on the ground and waited, listening.
+<a id="page15" />“Roog!” Boris cried, and he leaped, his eyes blazing. Then he became more calm. He settled himself down on the ground and waited, listening.
 
 Out in front the Roogs stopped their truck. He could hear them opening the doors, stepping down onto the sidewalk. Boris ran around in a little circle. He whined, and his muzzle turned once again toward the house.
 
@@ -874,11 +866,9 @@ One of the Roogs popped an eggshell into his mouth. His teeth crunched the eggsh
 
 Then, slowly, silently, the Roogs looked up, up the side of the house, along the stucco, to the window, with its brown shade pulled tightly down.
 
-“ROOG!” Boris screamed, and he came toward them, dancing with fury and dismay. Reluctantly, the
+“ROOG!” Boris screamed, and he came toward them, dancing with fury and dismay. Reluctantly, the <a id="page16" />Roogs turned away from the window. They went out through the gate, closing it behind them.
 
-Roogs turned away from the window. They went out through the gate, closing it behind them.
-
-“Look at him,” the last Roog said with contempt, pulling his comer of the blanket up on his shoulder. Boris strained against the fence, his mouth open, snapping wildly. The biggest Roog began to wave his arms furiously and Boris retreated. He settled down at the bottom of the porch steps, his mouth still open, and from the depths of him an unhappy, terrible moan issued forth, a wail of misery and despair.
+“Look at him,” the last Roog said with contempt, pulling his corner of the blanket up on his shoulder. Boris strained against the fence, his mouth open, snapping wildly. The biggest Roog began to wave his arms furiously and Boris retreated. He settled down at the bottom of the porch steps, his mouth still open, and from the depths of him an unhappy, terrible moan issued forth, a wail of misery and despair.
 
 “Come on,” the other Roog said to the lingering Roog at the fence.
 
@@ -896,7 +886,7 @@ They went on up the path, carrying the offering in the dirty, sagging blanket.
 
 second_variety
 
-# Second Variety
+# <a id="page17" />Second Variety
 
 .fl
 <span class="smallcaps">The Russian soldier</span> made his way nervously up the ragged side of the hill, holding his gun ready. He glanced around him, licking his dry lips, his face set. From time to time he reached up a gloved hand and wiped perspiration from his neck, pushing down his coat collar.
@@ -909,17 +899,17 @@ The Russian increased his pace, kicking ash and piles of debris out of his way. 
 
 The Russian was uneasy. He knew something was wrong. He started down the hill. Now he was only a few paces from the bunker. Eric was getting fidgety. He played with his pistol, glancing at Leone.
 
-“Don’t worry,” Leone said. “He won’t get here. They’ll take care of him.” ,
+“Don’t worry,” Leone said. “He won’t get here. They’ll take care of him.”
 
 “Are you sure? He’s got damn far.”
 
 “They hang around close to the bunker. He’s getting into the bad part. Get set!”
 
-The Russian began to hurry, sliding dow the hill, his boots sinking into the heaps of gray ash, tiying to keep his gun up. He stopped for a moment, lifting his field glasses to his face.
+<a id="page18" />The Russian began to hurry, sliding down the hill, his boots sinking into the heaps of gray ash, trying to keep his gun up. He stopped for a moment, lifting his field glasses to his face.
 
 “He’s looking right at us,” Eric said.
 
-The Russian came on. They could see his eyes, like two blue stones. His mouth was open a little. He needed a shave; his chin was stubbled. On one bony cheek was a square of tape, showing blue at the edge. A fungoid spot. His coat was muddy and tom. One glove was missing. As he ran, his belt counter bounced up and down against him.
+The Russian came on. They could see his eyes, like two blue stones. His mouth was open a little. He needed a shave; his chin was stubbled. On one bony cheek was a square of tape, showing blue at the edge. A fungoid spot. His coat was muddy and torn. One glove was missing. As he ran, his belt counter bounced up and down against him.
 
 Leone touched Eric’s arm. “Here one comes.”
 
@@ -937,7 +927,7 @@ Lieutenant Scott came slipping up the tunnel, into the bunker. “What happened?
 
 “Just one?”
 
-Eric brought the viewscreen around. Scott peered into it. Now there were numerous metal spheres crawling over the prostrate body, dull metal globes clicking and whirring, sawing up the Russian into small parts to be carried away.
+Eric brought the viewscreen around. Scott peered into it. Now there were numerous metal spheres crawling over the prostrate body, dull metal globes clicking <a id="page19" />and whirring, sawing up the Russian into small parts to be carried away.
 
 “What a lot of claws,” Scott murmured.
 
@@ -961,15 +951,15 @@ He picked up his rifle and stepped carefully up to the mouth of the bunker, maki
 
 The claws retreated as he came close, some of them stiffening into immobility. He touched his tab. The Ivan would have given something for that! Short hard radiation emitted from the tab neutralized the claws, put them out of commission. Even the big robot with its two waving eyestalks retreated respectfully as he approached.
 
-Pr He bent down over the remains of Ihe soldier. The gloved hand was closed tightly. There was something in it. Leone pried the fingers apart. A sealed container, aluminum. Still shiny.
+He bent down over the remains of the soldier. The gloved hand was closed tightly. There was something in it. Leone pried the fingers apart. A sealed container, aluminum. Still shiny.
 
-He put it in his pocket and made his way back to the bunker. Behind him the claws came back to life, moving into operation again. The procession resumed, metal spheres moving through the gray ash with their loads. He could hear their treads scrabbling against the ground. He shuddered.
+He put it in his pocket and made his way back to the bunker. Behind him the claws came back to life, moving <a id="page20" />into operation again. The procession resumed, metal spheres moving through the gray ash with their loads. He could hear their treads scrabbling against the ground. He shuddered.
 
-Scott vratched intently as he brought the shiny tube out of his pocket. “He had that?”
+Scott watched intently as he brought the shiny tube out of his pocket. “He had that?”
 
 “In his hand,” Leone unscrewed the top. “Maybe you should look at it, sir.”
 
-Scott took it He emptied the contents out in the palm of his hand. A small piece of silk paper, carafully folded. He sat down by the light and unfolded it
+Scott took it He emptied the contents out in the palm of his hand. A small piece of silk paper, carefully folded. He sat down by the light and unfolded it.
 
 “What’s it say, sir?” Eric said. Several officers came up the tunnel. Major Hendricks appeared.
 
@@ -1003,7 +993,7 @@ Leone pondered as the communications officer raised the outside antenna cautious
 
 “Moon Base, sir,” the communications officer said.
 
-On the screen the face of the lunar monitor appeared. His crisp uniform contrasted to the uniforms in the bunker. And he was cleanshaven. “Moon Base.”
+<a id="page21" />On the screen the face of the lunar monitor appeared. His crisp uniform contrasted to the uniforms in the bunker. And he was cleanshaven. “Moon Base.”
 
 “This is forward command L-Whistle. On Terra. Let me have General Thompson.”
 
@@ -1037,7 +1027,7 @@ Hendricks rolled up the paper, deep in thought.
 
 “Don’t you think it’s risky?”
 
-Hendricks lifted the view sight and gazed into it. The remains of the Russian were gone. Only a single claw was in sight. It was folding itself back, disappearing into the ash, like a crab. Like some hideous metal crab . . . “That’s the only thing that bothers me.” Hendricks rubbed his wrist. “I know I’m safe as long as I have this on me. But there’s something about them. I hate the damn things. I wish we’d never invented them. There’s something wrong with them. Relentless little—”
+Hendricks lifted the view sight and gazed into it. The remains of the Russian were gone. Only a single claw was in sight. It was folding itself back, disappearing into the ash, like a crab. Like some hideous metal crab . . . “That’s the only thing that bothers me.” Hendricks <a id="page22" />rubbed his wrist. “I know I’m safe as long as I have this on me. But there’s something about them. I hate the damn things. I wish we’d never invented them. There’s something wrong with them. Relentless little—”
 
 “If we hadn’t invented them, the Ivans would have.”
 
@@ -1056,7 +1046,7 @@ He came to the top of the little hill and lifted his field glasses. The Russian 
 
 A squat robot with undulating arms passed by him, its arms weaving inquiringly. The robot went on its way, disappearing under some debris. Hendricks watched it go. He had never seen that type before. There were getting to be more and more types he had never seen, new varieties and sizes coming up from the underground factories.
 
-Hendricks put out his cigarette and hurried on. It was interesting, the use of artificial forms in warfare. How had they got started? Necessity. The Soviet Union had gained great initial success, usual with the side that got the war going. Most of North America had been blasted off the map. Retaliation was quick in coming, of course. The sky was full of circling diskbombers long before the war began; they had been up there for years. The disks began sailing down all over Russia within hours after Washington got it.
+Hendricks put out his cigarette and hurried on. It was interesting, the use of artificial forms in warfare. How had they got started? Necessity. The Soviet Union had gained great initial success, usual with the side that got the war going. Most of North America had been blasted off the map. Retaliation was quick in coming, of course. The sky was full of circling diskbombers long before the <a id="page23" />war began; they had been up there for years. The disks began sailing down all over Russia within hours after Washington got it.
 
 But that hadn’t helped Washington.
 
@@ -1068,7 +1058,7 @@ And then the first claws appeared. And overnight the complexion of the war chang
 
 The claws were awkward, at first. Slow. The Ivans knocked them off almost as fast as they crawled out of their underground tunnels. But then they got better, faster and more cunning. Factories, all on Terra, turned them out. Factories a long way underground, behind the Soviet lines, factories that had once made atomic projectiles, now almost forgotten.
 
-The claws got faster, and they got bigger. New types appeared, some with feelers, some that flew. There were a few jumping kinds. The best technicians on the Moon were working on designs, making them more and more intricate, more flexible. They became uncanny; the Ivans were having a lot of trouble with them. Some of the little claws were learning to hide themselves, burrowing down into the ash, lying in wait.
+The claws got faster, and they got bigger. New types appeared, some with feelers, some that flew. There were a few jumping kinds. The best technicians on the Moon were working on designs, making them more and more intricate, more flexible. They became uncanny; <a id="page24" />the Ivans were having a lot of trouble with them. Some of the little claws were learning to hide themselves, burrowing down into the ash, lying in wait.
 
 And then they started getting into the Russian bunkers, slipping down when the lids were raised for air and a look around. One claw inside a bunker, a churning sphere of blades and metal—that was enough. And when one got in others followed. With a weapon like that the war couldn’t go on much longer.
 
@@ -1083,7 +1073,7 @@ They did their job well. Especially lately, with the new designs coming up. Now 
 Apparently they had won the war.
 
 .space
-Major Hendricks lit a second cigarette. The landscape depressed him. Nothing but ash and ruins. He seemed to be alone, the only living thing in the whole world. To the right the ruins of a town rose up, a few walls and heaps of debris. He tossed the dead match away, increasing his pace. Suddenly he stopped, jerking up his gun, his body tense. For a minute it looked like—
+Major Hendricks lit a second cigarette. The landscape depressed him. Nothing but ash and ruins. He seemed to be alone, the only living thing in the whole <a id="page25" />world. To the right the ruins of a town rose up, a few walls and heaps of debris. He tossed the dead match away, increasing his pace. Suddenly he stopped, jerking up his gun, his body tense. For a minute it looked like—
 
 From behind the shell of a ruined building a figure came, walking slowly toward him, walking hesitantly. Hendricks blinked. “Stop!”
 
@@ -1133,7 +1123,7 @@ Hendricks studied him. “How old are you?”
 
 “Thirteen.”
 
-It wasn’t possible. Or was it? The boy was thin, stunted. And probably sterile. Radiation exposure, years straight. No wonder he was so small. His arms and legs were like pipe cleaners, knobby and thin. Hendricks touched the boy’s arm. His skin was dry ard rough; radiation skin. He bent down, looking into the boy’s face. There was no expression. Big eyes, big and dark.
+It wasn’t possible. Or was it? The boy was thin, stunted. And probably sterile. Radiation exposure, <a id="page26" />years straight. No wonder he was so small. His arms and legs were like pipe cleaners, knobby and thin. Hendricks touched the boy’s arm. His skin was dry ard rough; radiation skin. He bent down, looking into the boy’s face. There was no expression. Big eyes, big and dark.
 
 ‘Are you blind?” Henricks said.
 
@@ -1155,7 +1145,7 @@ Maybe there weren’t any claws around. A lot of areas were free. They collected
 
 “With *me*?” Hendricks folded his arms. “I’m going a long way. Miles. I have to hurry.” He looked at his watch. “I have to get there by nightfall.”
 
-“I want to come ”
+“I want to come.”
 
 Hendricks fumbled in his pack. “It isn’t worth it Here.” He tossed down the food cans he had with him. “You take these and go back. Okay?”
 
@@ -1177,7 +1167,7 @@ The boy fell in beside him. Hendricks strode along. The boy walked silently, clu
 
 “What’s your name?” Hendricks said, after a time.
 
-“David Edward Derring.”
+<a id="page27" />“David Edward Derring.”
 
 “David? What—what happened to your mother and father?”
 
@@ -1191,9 +1181,7 @@ The boy fell in beside him. Hendricks strode along. The boy walked silently, clu
 
 “Six years.”
 
-Hendricks slowed down. “You’ve been alone six
-
-years?”
+Hendricks slowed down. “You’ve been alone six years?”
 
 “No. There were other people for a while. They went away.”
 
@@ -1227,15 +1215,15 @@ Hendricks glanced down. The boy was strange, saying very little. Withdrawn. But 
 
 “Russian?”
 
-“The enemy. The people who started the war. They dropped the first radiation bombs. They began all this.”
+“The enemy. The people who started the war. They <a id="page28" />dropped the first radiation bombs. They began all this.”
 
 The boy nodded. His face showed no expression.
 
-“I’m ah American,” Hendricks said.
+“I’m an American,” Hendricks said.
 
-There was no comment. On they went, the two of them, Hendricks walking a little ahead, David trailing behind him, hugging his dirty teddy bear, against his chest.	.
+There was no comment. On they went, the two of them, Hendricks walking a little ahead, David trailing behind him, hugging his dirty teddy bear, against his chest.
 
-About four in the afternoon they stopped to eat. Hendricks built a fire in a hollow between some slabs of concrete. He cleared the weeds away and heaped up bits of wood. The Russians’ lines were not very far ahead. Around him was what had once been a long valley, acres of fruit trees and grapes. Nothing remained now but a few bleak stumps and the mountains that stretched across the horizon at the far end. And the clouds of rolling ash that blew and drifted with the wind, settling over the weeds and remains of buildings, walls here and there, once in a while what had been a road.	.
+About four in the afternoon they stopped to eat. Hendricks built a fire in a hollow between some slabs of concrete. He cleared the weeds away and heaped up bits of wood. The Russians’ lines were not very far ahead. Around him was what had once been a long valley, acres of fruit trees and grapes. Nothing remained now but a few bleak stumps and the mountains that stretched across the horizon at the far end. And the clouds of rolling ash that blew and drifted with the wind, settling over the weeds and remains of buildings, walls here and there, once in a while what had been a road.
 
 Hendricks made coffee and heated up some boiled mutton and bread. “Here.” He handed bread and mutton to David. David squatted by the edge of the fire, his knees knobby and white. He examined the food and then passed it back, shaking his head.
 
@@ -1253,7 +1241,7 @@ David rose slowly, watching him with his young-old eyes.
 
 “We’re going,” Hendricks said.
 
-“AH right.”
+<a id="page29" />“All right.”
 
 Hendricks walked along, his gun in his arms. They were close; he was tense, ready for anything. The Russians should be expecting a runner, an answer to their own runner, but they were tricky. There was always the possibility of a slip-up. He scanned the landscape around him. Nothing but slag and ash, a few hills, charred trees. Concrete walls. But some place ahead was the first bunker of the Russian lines, the forward command. Underground, buried deep, with only a periscope showing, a few gun muzzles. Maybe an antenna.
 
@@ -1275,9 +1263,7 @@ He strode over the ash, holding his gun tightly with both hands. Behind him came
 
 He raised his arm and waved it around in a circle.
 
-Nothing moved. To the right a long ridge ran, topped with dead tree trunks. A few wild vines had grown up around the trees, remains of arbors. And the eternal
-
-dark weeds. Hendricks studied the ridge. Was anything up there? Perfect place for a lookout. He approached the ridge warily, David coming silently behind. If it were his command he’d have a sentry up there, watching for troops trying to infiltrate into the command area. Of course, if it were his command there would be the claws around the area for full protection.
+Nothing moved. To the right a long ridge ran, topped with dead tree trunks. A few wild vines had grown up around the trees, remains of arbors. And the eternal <a id="page30" />dark weeds. Hendricks studied the ridge. Was anything up there? Perfect place for a lookout. He approached the ridge warily, David coming silently behind. If it were his command he’d have a sentry up there, watching for troops trying to infiltrate into the command area. Of course, if it were his command there would be the claws around the area for full protection.
 
 He stopped, feet apart, hands on his hips.
 
@@ -1285,7 +1271,7 @@ He stopped, feet apart, hands on his hips.
 
 “Almost.”
 
-“Why have we "topped?”
+“Why have we stopped?”
 
 “I don’t want to take any chances.” Hendricks advanced slowly. Now the ridge lay directly beside him, along his right. Overlooking him. His uneasy feeling increased. If an Ivan were up there he wouldn’t have a chance. He waved his arm again. They should be expecting someone in the UN uniform, in response to the note capsule. Unless the whole thing was a trap.
 
@@ -1301,13 +1287,11 @@ He stopped, feet apart, hands on his hips.
 
 A tall figure came out on the ridge above him, cloak flapping. Gray-green. A Russian. Behind him a second soldier appeared, another Russian. Both lifted their guns, aiming.
 
-Hendricks froze. He opened his mouth. The soldiers were kneeling, sighting down the side of the slope. A third figure had joined them on the ridge top, a smaller
-
-figure in gray-green. A woman. She stood behind the other two.
+Hendricks froze. He opened his mouth. The soldiers were kneeling, sighting down the side of the slope. A third figure had joined them on the ridge top, a smaller <a id="page31" />figure in gray-green. A woman. She stood behind the other two.
 
 Hendricks found his voice. “Stop!” He waved up at them frantically. “I’m—”
 
-The two Russians fired. Behind Hendricks there was a faint pop. Waves of heat lapped against him. throwing him to the ground. Ash tore at his face, grinding into his eyes and nose. Choking, he pulled himself to his knees. It was all a trap. He was finished. He had come to be killed, like a steer. The soldiers and the woman were coming down the side of the ridge toward him, sliding down through the soft ash. Hendricks was numb. His head throbbed. Awkwardly, he got his rifle up and took aim. It weighed a thousand tons; he could hardly hold it. His nose and cheeks stung. The air was full of the blast smell, a bitter acrid stench.
+The two Russians fired. Behind Hendricks there was a faint *pop*. Waves of heat lapped against him, throwing him to the ground. Ash tore at his face, grinding into his eyes and nose. Choking, he pulled himself to his knees. It was all a trap. He was finished. He had come to be killed, like a steer. The soldiers and the woman were coming down the side of the ridge toward him, sliding down through the soft ash. Hendricks was numb. His head throbbed. Awkwardly, he got his rifle up and took aim. It weighed a thousand tons; he could hardly hold it. His nose and cheeks stung. The air was full of the blast smell, a bitter acrid stench.
 
 “Don’t fire,” the first Russian said, in heavily accented English.
 
@@ -1327,13 +1311,11 @@ Hendricks looked. And gasped.
 
 “See now? Now do you understand?”
 
-From the remains of David a metal wheel rolled. Relays, glinting metal. Parts, wiring. One of the Russians kicked at the heap of remains. Parts popped out, rolling away, wheels and springs and rods. A plastic section fell in, half charred. Hendricks bent shakily down. The
-
-front of the head had come off. He could make out the intricate brain, wires and relays, tiny tubes and switches, thousands of minute studs—
+From the remains of David a metal wheel rolled. Relays, glinting metal. Parts, wiring. One of the Russians kicked at the heap of remains. Parts popped out, rolling away, wheels and springs and rods. A plastic section fell in, half charred. Hendricks bent shakily down. The <a id="page32" />front of the head had come off. He could make out the intricate brain, wires and relays, tiny tubes and switches, thousands of minute studs—
 
 “A robot,” the soldier holding his arm said. “We watched it tagging you.”
 
-“Tagging me?”	,	.
+“Tagging me?”
 
 “That’s their way. They tag along with you. Into the bunker. That’s how they get in.”
 
@@ -1345,7 +1327,7 @@ The three of them pulled him up the side of the ridge, sliding and slipping on t
 
 “The forward command,” Hendricks muttered. “I came to negotiate with the Soviet—”
 
-“There is no more forward command. They got in. We’ll explain.” They reached the top of the ridge. “We’re all that’s left. The three of us. The rest were down in the bunker.”
+“There is no more forward command. *They* got in. We’ll explain.” They reached the top of the ridge. “We’re all that’s left. The three of us. The rest were down in the bunker.”
 
 “This way. Down this way.” The woman unscrewed a lid, a gray manhole cover set in the ground. “Get in.” Hendricks lowered himself. The two soldiers and the woman came behind him, following him down the ladder. The woman closed the lid after them, bolting it tightly into place.
 
@@ -1353,23 +1335,23 @@ The three of them pulled him up the side of the ridge, sliding and slipping on t
 
 “Give me one of your cigarettes,” the woman said. “I haven’t had an American cigarette for weeks.”
 
-Hendricks pushed the pack to her. She took a cigarette and passed the pack to the two soldiers. In the comer of the small room the lamp gleamed fitfully. The room was low-ceilinged, cramped. The four of them sat around a small wood table. A few dirty dishes were stacked to one side. Behind a ragged curtain a second room was partly visible. Hendricks saw the comer of a coat, some blankets, clothes hung on a hook.
+Hendricks pushed the pack to her. She took a cigarette and passed the pack to the two soldiers. In the corner of the small room the lamp gleamed fitfully. The room was low-ceilinged, cramped. The four of them sat around a small wood table. A few dirty dishes were stacked to one side. Behind a ragged curtain a second room was partly visible. Hendricks saw the corner of a coat, some blankets, clothes hung on a hook.
 
-We were here,” the soldier beside him said. He took
+“We were here,” the soldier beside him said. He took <a id="page33" />
 
-off his helmet, pushing his blond hair back. “Fm Corporal Rudi Maxer. Polish. Impressed in the Soviet As ly two years ago.” He held out his hand.
+off his helmet, pushing his blond hair back. “I’m Corporal Rudi Maxer. Polish. Impressed in the Soviet Army two years ago.” He held out his hand.
 
 Hendricks hesitated and then shook. “Major Joseph Hendricks.”
 
-“Klaus Epstein.” The other soldier shook with him, a dark man with thinning hair. Epstein plucked nervously at h’s ear. “Austrian. Impressed God knows when. I don remember. The three of us were here, Rudi and I, with Tasso.” He indicated the woman. “That’s how we escaped. All the rest were down in the bunker ”
+“Klaus Epstein.” The other soldier shook with him, a dark man with thinning hair. Epstein plucked nervously at his ear. “Austrian. Impressed God knows when. I don’t remember. The three of us were here, Rudi and I, with Tasso.” He indicated the woman. “That’s how we escaped. All the rest were down in the bunker ”
 
-“And—and they got in?”
+“And—and *they* got in?”
 
-Epstein lit a cigarette. “First just one of them. The kind tha tagged you. Then it let others in.”
+Epstein lit a cigarette. “First just one of them. The kind that tagged you. Then it let others in.”
 
-Hendricks became alert “The kind? Are there more than one kind?”
+Hendricks became alert “The *kind?* Are there more than one kind?”
 
-The little boy. David. David holding his teddy bear. That’s Variety Three. The most effective.”
+“The little boy. David. David holding his teddy bear. That’s Variety Three. The most effective.”
 
 “What are the other types?”
 
@@ -1377,7 +1359,7 @@ Epstein reached into his coat. “Here.” He tossed a packet of photographs ont
 
 Hendricks untied the string.
 
-You see, ’ Rudi Maxer said, “that was why we wanted to talk terms. The Russians, I mean. We found out about a week ago. Found out that your claws were beginning to make up new designs on their own. New types of their own. Better types. Down in your underground factories behind our lines. You let them stamp themselves, repair themselves. Made them more and more intricate. It’s your fault this happened.”
+“You see,” Rudi Maxer said, “that was why we wanted to talk terms. The Russians, I mean. We found out about a week ago. Found out that your claws were beginning to make up new designs on their own. New types of their own. Better types. Down in your underground factories behind our lines. You let them stamp themselves, repair themselves. Made them more and more intricate. It’s your fault this happened.”
 
 Hendricks examined the photos. They had been snapped hurriedly; they were blurred and indistinct. The first few showed—David. David walking along a road, by himself. David and another David. Three Davids. All exactly alike. Each with a ragged teddy bear.
 
@@ -1385,17 +1367,15 @@ All pathetic.
 
 “Look at the others,” Tasso said.
 
-The next pictures, taken at a great distance, showed a towering wounded soldier sitting by the side of a path,
+The next pictures, taken at a great distance, showed a towering wounded soldier sitting by the side of a path, <a id="page34" />his arm in a sling, the stump of one leg extended, a crude crutch on his lap. Then two wounded soldiers, both the same, standing side by side.
 
-his arm in a sling, the stump of one leg extended, a crude crutch on his lap. Then two wounded soldiers, both the same, standing side by side.
-
-“That’s Variety One. The Wounded Soldier.” Klaus reached out and took the pictures. “You see, the claws were designed to get to human beings. To find them. Each kind was better than the last. They got farther, closer, past most of our defenses, into our lines. But as long as they were merely machines, metal spheres with claws and horns, feelers, they could be picked off like any other object. They could be detected as lethal robots as soon as they were seen. Once we caught sight of them—”	.
+“That’s Variety One. The Wounded Soldier.” Klaus reached out and took the pictures. “You see, the claws were designed to get to human beings. To find them. Each kind was better than the last. They got farther, closer, past most of our defenses, into our lines. But as long as they were merely *machines*, metal spheres with claws and horns, feelers, they could be picked off like any other object. They could be detected as lethal robots as soon as they were seen. Once we caught sight of them—”
 
 “Variety One subverted our whole north wing,” Rudi said. “It was a long time before anyone caught on. Then it was too late. They came in, wounded soldiers, knocking and begging to be let in. So we let them in. And as soon as they were in they took over. We were watching out for machines . . .”
 
 “At that time it was thought there was only the one type,” Klaus Epstein said. “No one suspected there were other types. The pictures were flashed to us. When the runner was sent to you, we knew of just one type. Variety One. The big Wounded Soldier. We thought that was all.”
 
-“Your line fell to—”	.
+“Your line fell to—”
 
 “To Variety Three. David and his bear. That worked even better.” Klaus smiled bitterly. “Soldiers are suckers for children. We brought them in and tried to feed them. We found out the hard way what they were after. At least, those who were in the bunker.”
 
@@ -1403,11 +1383,11 @@ his arm in a sling, the stump of one leg extended, a crude crutch on his lap. Th
 
 Klaus tied up the photographs again.
 
-“And it’s going on all along your line?” Hendricks said.	\
+“And it’s going on all along your line?” Hendricks said.
 
-“Yes.”
+<a id="page35" />“Yes.”
 
-“How about our lines?” Without thinking, he touched the tab on his arm. “Can they—”
+“How about *our* lines?” Without thinking, he touched the tab on his arm. “Can they—”
 
 “They’re not bothered by your radiation tabs. It makes no difference to them, Russian, American, Pole, German. It’s all the same. They’re doing what they were designed to do. Carrying out the original idea. They track down life, wherever they find it.”
 
@@ -1419,9 +1399,9 @@ Klaus tied up the photographs again.
 
 “The one on the left came off a Wounded Soldier,” Rudi said. “We got one of them. It was going along toward our old bunker. We got it from the ridge, the same way we got the David tagging you.”
 
-The plate was stamped: l-V. Hendricks touched the other plate. “And this came from the David type?”
+The plate was stamped: *I-V*. Hendricks touched the other plate. “And this came from the David type?”
 
-“Yes.” The plate was stamped: III-V.
+“Yes.” The plate was stamped: *III-V*.
 
 Klaus took a look at them, leaning over Hendricks’s broad shoulder. “You can see what we’re up against. There’s another type. Maybe it was abandoned. Maybe it didn’t work. But there must be a Second Variety. There’s One and Three.”
 
@@ -1431,8 +1411,9 @@ Klaus took a look at them, leaning over Hendricks’s broad shoulder. “You can
 
 They were silent.
 
-“Let me have another cigarette, Yank,” Tasso said. “They are good. I almost forgot how they were.”
+<a id="page36" />“Let me have another cigarette, Yank,” Tasso said. “They are good. I almost forgot how they were.”
 
+.space
 It was night. The sky was black. No stars were visible through the rolling clouds of ash. Klaus lifted the lid cautiously so that Hendricks could look out.
 
 Rudi pointed into the darkness. “Over that way are the bunkers. Where we used to be. Not over half a mile from us. It was just chance Klaus and I were not there when it happened. Weakness. Saved by our lusts.”
@@ -1445,9 +1426,7 @@ Rudi pointed into the darkness. “Over that way are the bunkers. Where we used 
 
 “They’re not so much when you catch them alone. We moved faster than they did. But they’re inexorable. Not like living things. They came right at us. And we blasted them.”
 
-Major Hendricks rested against the edge of the lid,
-
-adjusting his eyes to the darkness. “Is it safe to have the I'd up at all?”	'
+Major Hendricks rested against the edge of the lid, <a id="page37" />adjusting his eyes to the darkness. “Is it safe to have the lid up at all?”
 
 “If we’re careful. How else can you operate your transmitter?”
 
@@ -1457,13 +1436,17 @@ But he still hesitated.
 
 “We’ll pull you under if anything happens,” Klaus said.
 
-“Thanks.” Hendricks waited a moment, resting the transmitter against his shoulder. “Interesting, isn’t it?” “What?”
+“Thanks.” Hendricks waited a moment, resting the transmitter against his shoulder. “Interesting, isn’t it?”
 
-“This, the new types. The new varieties of claws. We’re completely at their mercy, aren’t we? By now they’ve probably gotten into the UN lines, too. It makes me wonder if we’re not seeing the beginning of a new species. The new species. Evolution. The race to come after man.”
+“What?”
+
+“This, the new types. The new varieties of claws. We’re completely at their mercy, aren’t we? By now they’ve probably gotten into the UN lines, too. It makes me wonder if we’re not seeing the beginning of a new species. *The* new species. Evolution. The race to come after man.”
 
 Rudi grunted. “There is no race after man.”
 
-“No? Why not? Maybe we’re seeing it now, the end of human beings, the beginning of the new society.” “They’re not a race. They’re mechanical killers. You made them to destroy. That’s all they can do. They’re machines with a job.”
+“No? Why not? Maybe we’re seeing it now, the end of human beings, the beginning of the new society.”
+
+“They’re not a race. They’re mechanical killers. You made them to destroy. That’s all they can do. They’re machines with a job.”
 
 “So it seems now. But how about later on? After the war is over. Maybe, when there aren’t any humans to destroy, their real potentialities will begin to show.”
 
@@ -1479,21 +1462,21 @@ Holding the transmitter tightly, Hendricks called the code of the command bunker
 
 “Scott!” he said into the mike. “Can you hear me?”
 
-Silence. He raised the gain up full and tried again. Only static. .	.	V
+<a id="page38" />Silence. He raised the gain up full and tried again. Only static.
 
 “I don’t get anything. They may hear me but they may not want to answer.”
 
 “Tell them it’s an emergency.”
 
-“They’ll think I’m being forced to call. Under your direction.” He tried again, outlining briefly what he had learned. But still the phone was silent, except for the faint static.	. •
+“They’ll think I’m being forced to call. Under your direction.” He tried again, outlining briefly what he had learned. But still the phone was silent, except for the faint static.
 
 “Radiation pools kill most transmission,” Klaus said, after awhile. “Maybe that’s it.”
 
 Hendricks shut the transmitter Up. “No use. No answer. Radiation pools? Maybe. Or they hear me, but won’t answer. Frankly, that’s what I would do, if a runner tried to call from the Soviet lines. They have no reason to believe such a story. They may hear everything I say—”
 
-“Or maybe it’s too late.” •
+“Or maybe it’s too late.”
 
-Hendricks nodded.	•
+Hendricks nodded.
 
 “We better get the lid down,” Rudi said nervously. “We don’t want to take unnecessary chances.”
 
@@ -1501,7 +1484,7 @@ They climbed slowly back down the tunnel. Klaus bolted the lid carefully into pl
 
 “Could they work that fast?” Hendricks said. “I left the bunker this noon. Ten hours ago. How could they move so quickly?”
 
-“It doesn’t take them long. Not after the first one gets in. It goes wild. You know what the little claws can do. Even one of these is beyond belief. Razors, each finger. Maniacal.”
+“It doesn’t take them long. Not after the first one gets in. It goes wild. You know what the little claws can do. Even *one* of these is beyond belief. Razors, each finger. Maniacal.”
 
 “All right.” Hendricks moved away impatiently. He stood with his back to them.
 
@@ -1509,13 +1492,11 @@ They climbed slowly back down the tunnel. Klaus bolted the lid carefully into pl
 
 “The Moon Base. God, if they’ve gotten there—”
 
-“The Moon Base?” .	’"	.
+“The Moon Base?”
 
 Hendricks turned around. “They couldn’t have got to the Moon Base. How would they get there? It isn’t possible. I can’t believe it.”
 
-“What is this Moon Base? We’ve heard rumors, but
-
-nothing definite. What is the actual situation? You seem concerned.”
+“What is this Moon Base? We’ve heard rumors, but <a id="page39" />nothing definite. What is the actual situation? You seem concerned.”
 
 “We’re supplied from the Moon. The governments are there, under the lunar surface. All our people and industries. That’s what keeps us going. If they should find some way of getting off Terra, onto the Moon—”
 
@@ -1523,7 +1504,7 @@ nothing definite. What is the actual situation? You seem concerned.”
 
 “Perfect socialism,” Tasso said. “The ideal of the communist state. All citizens interchangeable.”
 
-Klaus grunted angrily. “That’s enough. Well? What next?”	■
+Klaus grunted angrily. “That’s enough. Well? What next?”
 
 Hendricks paced back and forth, around the small room. The air was full of smells of food and perspiration. The others watched him. Presently Tasso pushed through the curtain, into the other room. “I’m going to take a nap.”
 
@@ -1545,7 +1526,7 @@ Hendricks nodded.
 
 Rudi shrugged. “Well, then we come back here.”
 
-Hendricks stopped pacing. “What do you think the chances are they’re already in the American lines?”
+<a id="page40" />Hendricks stopped pacing. “What do you think the chances are they’re already in the American lines?”
 
 “Hard to say. Fairly good. They’re organized. They know exactly what they’re doing. Once they start they go like a horde of locusts. They have to keep moving, and fast. It’s secrecy and speed they depend on. Surprise. They push their way in before anyone has any idea.”
 
@@ -1561,19 +1542,19 @@ Hendricks went into the room and sat down across from her, on a wood stool. He f
 
 “Too bad.”
 
-“What nationality are you?” Hendricks asked after a while.	.	t ■■
+“What nationality are you?” Hendricks asked after a while.
 
-“Russian.”-	;
+“Russian.”
 
 “How did you get here?”
 
 “Here?”
 
-“This used to be France. This was pan of Normandy. Did you come with the Soviet army?”
+“This used to be France. This was part of Normandy. Did you come with the Soviet army?”
 
-“Why?”	'
+“Why?”
 
-“Just curious.” He studied her. She had taken off her coat, tossing it over the end of the cot. She was young, about twenty. Slim. Her long hair stretched out over the pillow. She was staring at him silently, her eyes dark and large.	.	.	•	'
+“Just curious.” He studied her. She had taken off her coat, tossing it over the end of the cot. She was young, about twenty. Slim. Her long hair stretched out over the pillow. She was staring at him silently, her eyes dark and large.
 
 “What’s on your mind?” Tasso said.
 
@@ -1583,7 +1564,7 @@ Hendricks went into the room and sat down across from her, on a wood stool. He f
 
 “You’re in the Soviet army?”
 
-' “NO.”	•	• ■	:	• ' '	•	•	■	'
+“NO.”
 
 “Where did you get the uniform?”
 
@@ -1591,7 +1572,7 @@ She shrugged. “It was given to me,” she told him.
 
 “How—how old were you when you came here?”
 
-'‘Sixteen.”
+<a id="page41" />“Sixteen.”
 
 “That young?”
 
@@ -1603,9 +1584,11 @@ Hendricks rubbed his jaw. “Your life would have been a lot different if there 
 
 “I’m not moralizing.”
 
-“Your life would have been different, too,” Tasso murmured. She reached down and unfastened one of her boots. She kicked the boot off, onto the floor. “Major, do you want to go in the other room? I’m sleepy.” “It’s going to be a problem, the four of us here. It’s going to be hard to live in these quarters. Are there just the two rooms?”
+“Your life would have been different, too,” Tasso murmured. She reached down and unfastened one of her boots. She kicked the boot off, onto the floor. “Major, do you want to go in the other room? I’m sleepy.”
 
-“Yes.”	’
+“It’s going to be a problem, the four of us here. It’s going to be hard to live in these quarters. Are there just the two rooms?”
+
+“Yes.”
 
 “How big was the cellar originally? Was it larger than this? Are there other rooms filled up with debris? We might be able to open one of them.”
 
@@ -1619,81 +1602,79 @@ Hendricks rubbed his jaw. “Your life would have been a lot different if there 
 
 “That’s right.”
 
-The room plunged into darkness. Hendricks got up and made his way past the curtain, into the kitchen. And stopped, rigid. .
+The room plunged into darkness. Hendricks got up and made his way past the curtain, into the kitchen. And stopped, rigid.
 
 Rudi stood against the wall, his face white and gleaming. His mouth opened and closed but no sounds came. Klaus stood in front of him, the muzzle of his pistol in Rudi’s stomach. Neither of them moved. Klaus, his hand tight around his gun, his features set. Rudi, pale and silent, spread-eagled against the wall.
 
-“What—” Hendricks muttered, but Klaus cut him
+“What—” Hendricks muttered, but Klaus cut him off.
 
-off.
-
-“Be quiet, Major. Come over here. Your gun. Ge out your gun.”	.	.'	. .
+<a id="page42" />“Be quiet, Major. Come over here. Your gun. Get out your gun.”
 
 Hendricks drew his pistol. “What is it?”
 
-“Cover him.” Klaus motioned him forward. “Besid me. Hurry!”
+“Cover him.” Klaus motioned him forward. “Beside me. Hurry!”
 
-Rudi moved a little, lowering his arms. He turned t Hendricks, licking his lips. The whites of his eyes shon wildly. Sweat dripped from his forehead, down hi cheeks. He fixed his gaze on Hendricks. “Major, he1 gone insane. Stop him.” Rudi’s voice was thin an hoarse, almost inaudible.
+Rudi moved a little, lowering his arms. He turned to Hendricks, licking his lips. The whites of his eyes shone wildly. Sweat dripped from his forehead, down hi scheeks. He fixed his gaze on Hendricks. “Major, he’s gone insane. Stop him.” Rudi’s voice was thin and hoarse, almost inaudible.
 
 “What’s going on?” Hendricks demanded.
 
-Without lowering his pistol Klaus answered. “Majoi remember our discussion? The Three Varieties? W knew about One and Three. But we didn’t know aboi Two. At least, we didn’t know before.” Klaus’s fingei tightened around the gun butt. “We didn’t know befon but we know now.”
+Without lowering his pistol Klaus answered. “Major, remember our discussion? The Three Varieties? We knew about One and Three. But we didn’t know about Two. At least, we didn’t know before.” Klaus’s finger tightened around the gun butt. “We didn’t know before but we know now.”
 
 He pressed the trigger. A burst of white heat rolle out of the gun, licking around Rudi.
 
 “Major, this is the Second Variety.”
 
-Tasso swept the curtain aside. “Klaus! What did yc do?”
+Tasso swept the curtain aside. “Klaus! What did you do?”
 
-Klaus turned from the charred form, gradually sin! ing down the wall onto the floor. “The Second Variet; Tasso. Now we know. We have all three types ident fied. The danger is less. I—”
+Klaus turned from the charred form, gradually sinking down the wall onto the floor. “The Second Variety, Tasso. Now we know. We have all three types identified. The danger is less. I—”
 
-Tasso stared past him at the remains of Rudi, at tl blackened, smoldering fragments and bits of clot] “You killed him.”
+Tasso stared past him at the remains of Rudi, at the blackened, smoldering fragments and bits of cloth. “You killed him.”
 
-“Him? It, you mean. I was watching. I had a feelin but I wasn’t sure. At least, I wasn’t sure before. But th evening I was certain.” Klaus rubbed his pistol butt ne vously. “We’re lucky. Don’t you understand? Anotb hour and it might—”
+“Him? *It*, you mean. I was watching. I had a feeling, but I wasn’t sure. At least, I wasn’t sure before. But this evening I was certain.” Klaus rubbed his pistol butt nervously. “We’re lucky. Don’t you understand? Another hour and it might—”
 
-“You were certain?” Tasso pushed past him and be: down, over the steaming remains on the floor. Her fai became hard. “Major, see for yourself. Bones. Flesh
+“You were *certain?*” Tasso pushed past him and bent down, over the steaming remains on the floor. Her face became hard. “Major, see for yourself. Bones. Flesh.”
 
-Hendricks bent down beside her. The remains we human remains. Seared flesh, charred bone fragmeni
+Hendricks bent down beside her. The remains were human remains. Seared flesh, charred bone fragments, <a id="page43" />part of a skull. Ligaments, viscera, blood. Blood forming a pool against the wall.
 
-art of a skull. Ligaments, viscera, blood. Blood form-ig a pool against the wall.
+“No wheels,” Tasso said calmly. She straightened up. “No wheels, no parts, no relays. Not a claw. Not the Second Variety.” She folded her arms. “You’re going to have to be able to explain this.”
 
-“No wheels,” Tasso said calmly. She straightened up. No wheels, no parts, no relays. Not a claw. Not the econd Variety.” She folded her arms. “You’re going to ave to be able to explain this.”
+Klaus sat down at the table, all the color drained suddenly from his face. He put his head in his hands and rocked back and forth.
 
-Klaus sat down at the table, all the color drained sud-enly from his face. He put his head in his hands and Dcked back and forth.
+“Snap out of it.” Tasso’s fingers closed over his shoulder. “Why did you do it? Why did you kill him?”
 
-“Snap out of it.” Tasso’s fingers closed over his boulder. “Why did you do it? Why did you kill him?” “He was frightened,” Hendricks said. “All this, the hole thing, building up around us.”
+“He was frightened,” Hendricks said. “All this, the whole thing, building up around us.”
 
 “Maybe.”
 
 “What, then? What do you think?”
 
-“I think he may have had a reason for killing Rudi. v good reason.”
+“I think he may have had a reason for killing Rudi. A good reason.”
 
 “What reason?”
 
 “Maybe Rudi learned something.”
 
-Hendricks studied her bleak face. “About what?” he sked.
+Hendricks studied her bleak face. “About what?” he asked.
 
 “About him. About Klaus.”
 
-Klaus looked up quickly. “You can see what she’s ■ying to say. She thinks I’m the Second Variety. Don’t pu see, Major? Now she wants you to believe I killed im on purpose. That I’m—”
+Klaus looked up quickly. “You can see what she’s trying to say. She thinks I’m the Second Variety. Don’t you see, Major? Now she wants you to believe I killed him on purpose. That I’m—”
 
 “Why did you kill him, then?” Tasso said.
 
-“I told you.” Klaus shook his head wearily. 1 lought he was a claw. I thought I knew.”
+“I told you.” Klaus shook his head wearily. “I thought he was a claw. I thought I knew.”
 
-■ “Why?”	'	•
+“Why?”
 
 “I had been watching him. I was suspicious.”
 
 “Why?”
 
-“I thought I had seen something. Heard something. I lought I—” He stopped.
+“I thought I had seen something. Heard something. I thought I—” He stopped.
 
 “Go on.”
 
-“We were sitting at the table. Playing cards. You two »ere in the other room. It was silent. I thought I heard im—whirr”
+“We were sitting at the table. Playing cards. You two were in the other room. It was silent. I thought I heard him—*whirr*.”
 
 There was silence.
 
@@ -1701,17 +1682,18 @@ There was silence.
 
 “Yes. I believe what he says.”
 
-“I don’t. I think he killed Rudi for a good purpose.1 Tasso touched the rifle, resting in the comer of th room. “Major—”
+<a id="page44" />“I don’t. I think he killed Rudi for a good purpose.” Tasso touched the rifle, resting in the corner of the room. “Major—”
 
-“No.” Hendricks shook his head. “Let’s stop it righ now. One is enough. We’re afraid, the way he was. ] we kill him we’ll be doing what he did to Rudi.”
+“No.” Hendricks shook his head. “Let’s stop it right now. One is enough. We’re afraid, the way he was. If we kill him we’ll be doing what he did to Rudi.”
 
-Klaus looked gratefully up at him. “Thanks. I wa afraid. You understand, don’t you? Now she’s afraic the way I was. She wants to kill me.”
+Klaus looked gratefully up at him. “Thanks. I was afraid. You understand, don’t you? Now she’s afraid the way I was. She wants to kill me.”
 
-“No more killing.” Hendricks moved toward the en of the ladder. “I’m going above and try the transmitte once more. If I can’t get them we’re moving back tc ward my lines tomorrow morning.”
+“No more killing.” Hendricks moved toward the end of the ladder. “I’m going above and try the transmitter once more. If I can’t get them we’re moving back toward my lines tomorrow morning.”
 
-Klaus rose quickly. “I’ll come up with you and giv you a hand.”
+Klaus rose quickly. “I’ll come up with you and give you a hand.”
 
-The night air was cold. The earth was cooling of Klaus took a deep breath, filling his lungs. He and Her dricks stepped onto the ground, out of the tunnel. Klai planted Ms feet wide apart, the rifle up, watching an listening. Hendricks crouched by the tunnel mouth, tux ing the small transmitter.
+.space
+The night air was cold. The earth was cooling off. Klaus took a deep breath, filling his lungs. He and Hendricks stepped onto the ground, out of the tunnel. Klaus planted his feet wide apart, the rifle up, watching and listening. Hendricks crouched by the tunnel mouth, tuning the small transmitter.
 
 “Any luck?” Klaus asked presently.
 
@@ -1719,13 +1701,13 @@ The night air was cold. The earth was cooling of Klaus took a deep breath, filli
 
 “Keep trying. Tell them what happened.”
 
-Hendricks kept trying. Without success. Finally 1 lowered the antenna. “It’s useless. They can’t hear mi Or they hear me and won’t answer. Or—”
+Hendricks kept trying. Without success. Finally he lowered the antenna. “It’s useless. They can’t hear me. Or they hear me and won’t answer. Or—”
 
 “Or they don’t exist.”
 
-“I’ll try once more.” Hendricks raised the antenn; “Scott, can you hear me? Come in!”
+“I’ll try once more.” Hendricks raised the antenna. “Scott, can you hear me? Come in!”
 
-He listened. There was only static. Then, still vei faintly—
+He listened. There was only static. Then, still very faintly—
 
 “This is Scott.”
 
@@ -1735,9 +1717,11 @@ His lingers tightened. “Scott! Is it you?”
 
 Klaus squatted down. “Is it your command?”
 
-“Scott, listen. Do you understand? About them, tl claws. Did you get my message? Did you hear me?” “Yes.” Faintly. Almost inaudible. He could hard make out the word.
+“Scott, listen. Do you understand? About them, the claws. Did you get my message? Did you hear me?”
 
-“You got my message? Is everything all right at the bunker? None of them have got in?”
+“Yes.” Faintly. Almost inaudible. He could hardly make out the word.
+
+<a id="page45" />“You got my message? Is everything all right at the bunker? None of them have got in?”
 
 “Everything is all right.”
 
@@ -1749,7 +1733,7 @@ The voice was weaker.
 
 Hendricks turned to Klaus. “They’re all right.”
 
-‘Have they been attacked?”
+“Have they been attacked?”
 
 “No.” Hendricks pressed the phone tighter to his ear. “Scott I can hardly hear you. Have you notified the Moon Base? Do they know? Are they alerted?”
 
@@ -1777,7 +1761,7 @@ They climbed back down the ladder slowly, into the warm cellar. Klaus bolted the
 
 “Any luck?” she asked.
 
-Neither of them answered. “Well?” Klaus said at last. “What do you think, Major? Was it your officer, or was it one of them?”
+Neither of them answered. “Well?” Klaus said at last. “What do you think, Major? Was it your officer, or was it one of *them?*”
 
 “I don’t know.”
 
@@ -1789,23 +1773,24 @@ Hendricks stared down at the floor, his jaw set. “We’ll have to go. To be su
 
 “Apparently so.”
 
-“What’s wrong?” Tasso demanded. “Did you get across to your bunker? What’s the matter?”
+<a id="page46" />“What’s wrong?” Tasso demanded. “Did you get across to your bunker? What’s the matter?”
 
-“It may have been one of my men,” Hendricks said slowly. “Or it may have been one of them. But we’ll never know standing here.” He examined his watch. “Let’s turn in and get some sleep. We want to be up early tomorrow.”
+“It may have been one of my men,” Hendricks said slowly. “Or it may have been one of *them*. But we’ll never know standing here.” He examined his watch. “Let’s turn in and get some sleep. We want to be up early tomorrow.”
 
 “Early?”
 
 “Our best chance to get through the claws should be early in the morning,” Hendricks said.
 
+.space
 The morning was crisp and clear. Major Hendricks studied the countryside through his field glasses.
 
 “See anything?” Klaus said.
 
-“No.”	••	• •	■	.•-•■■■ i
+“No.”
 
 “Can you make out our bunkers?”
 
-“Which way?”	■ „ •	. " '	}
+“Which way?”
 
 “Here.” Klaus took the glasses and adjusted them. “I know where to look.” He looked a long time, silently.
 
@@ -1825,13 +1810,13 @@ The lizard ran on, hurrying through the ash. It was exactly the same color as th
 
 They reached the bottom of the ridge and stopped, standing close together, looking around them.
 
-“Let’s go.” Hendricks started off. “It’s a good lonft trip, on foot.”	.
+“Let’s go.” Hendricks started off. “It’s a good long trip, on foot.”
 
 Klaus fell in beside him. Tasso walked behind, her pistol held alertly. “Major, I’ve been meaning to ask you something,” Klaus said. “How did you run across the David? The one that was tagging you.”
 
 “I met it along the way. In some ruins.”
 
-“What did it say?”
+<a id="page47" />“What did it say?”
 
 “Not much. It said it was alone. By itself.”
 
@@ -1839,7 +1824,9 @@ Klaus fell in beside him. Tasso walked behind, her pistol held alertly. “Major
 
 “It didn’t say much. I noticed nothing unusual.”
 
-“It’s strange, machines so much like people that you can be fooled. Almost alive. I wonder where it’ll end.” “They’re doing what you Yanks designed them to do,” Tasso said. “You designed them to hunt out life and destroy. Human life. Wherever they find it.”
+“It’s strange, machines so much like people that you can be fooled. Almost alive. I wonder where it’ll end.”
+
+“They’re doing what you Yanks designed them to do,” Tasso said. “You designed them to hunt out life and destroy. Human life. Wherever they find it.”
 
 Hendricks was watching Klaus intently. “Why did you ask me? What’s on your mind?”
 
@@ -1847,15 +1834,17 @@ Hendricks was watching Klaus intently. “Why did you ask me? What’s on your m
 
 “Klaus thinks you’re the Second Variety,” Tasso said calmly, from behind them. “Now he’s got his eye on you.”
 
-Klaus flushed. “Why not? We sent a runner to the Yank lines and he comes back. Maybe he thought he’d find some good game here.”
+Klaus flushed. “Why not? We sent a runner to the Yank lines and *he* comes back. Maybe he thought he’d find some good game here.”
 
-Hendricks laughed harshly. “I came from the UN bunkers. There were human beings all around me.” “Maybe you saw an opportunity to get into the Soviet lines. Maybe you saw your chance. Maybe you—”
+Hendricks laughed harshly. “I came from the UN bunkers. There were human beings all around me.”
+
+“Maybe you saw an opportunity to get into the Soviet lines. Maybe you saw your chance. Maybe you—”
 
 “The Soviet lines had already been taken over. Your lines had been invaded before I left my command bunker. Don’t forget that.”
 
 Tasso came up beside him. “That proves nothing at all, Major.”
 
-: “Why not?”
+“Why not?”
 
 “There appears to be little communication between the varieties. Each is made in a different factory. They don’t seem to work together. You might have started for the Soviet lines without knowing anything about the work of the other varieties. Or even what the other varieties were like.”
 
@@ -1863,9 +1852,7 @@ Tasso came up beside him. “That proves nothing at all, Major.”
 
 “I’ve seen them. I’ve observed them take over the Soviet bunkers.”
 
-“You know quite a lot,” Klaus said. “Actually, you
-
-saw very little. Strange that you should have been such an acute observer.”	,	. ,	.
+“You know quite a lot,” Klaus said. “Actually, you <a id="page48" />saw very little. Strange that you should have been such an acute observer.”
 
 Tasso laughed. “Do you suspect me, now?”
 
@@ -1883,11 +1870,12 @@ Tasso laughed, putting her hands in her pockets. “I suppose so.”
 
 They walked on, keeping their eyes on the vast plain of silent ash around them.
 
+.space
 The sun was setting. Hendricks made his way forward slowly, waving Tasso and Klaus back. Klaus squatted down, resting his gun butt against the ground.
 
 Tasso found a concrete slab and sat down with a sigh. “It’s good to rest.”
 
-■ “Be quiet,” Klaus said sharply.
+“Be quiet,” Klaus said sharply.
 
 Hendricks pushed up to the top of the rise ahead of them. The same rise the Russian runner had come up, the day before. Hendricks dropped down, stretching himself out, peering through his glasses at what lay beyond.
 
@@ -1899,7 +1887,7 @@ Klaus slithered up beside him. “Where is it?”
 
 “I don’t see anything,” Klaus said.
 
-“That tree there. The stump. By the pile of bricks. The entrance is to the right of the bricks.”
+<a id="page49" />“That tree there. The stump. By the pile of bricks. The entrance is to the right of the bricks.”
 
 “I’ll have to take your word for it.”
 
@@ -1913,7 +1901,9 @@ Klaus slithered up beside him. “Where is it?”
 
 “I’ll walk slowly all the way. As soon as I know for certain—”
 
-“If they’re down inside the bunker you won’t be able to get back up here. They go fast. You don’t realize.” “What do you suggest?”
+“If they’re down inside the bunker you won’t be able to get back up here. They go fast. You don’t realize.”
+
+“What do you suggest?”
 
 Klaus considered. “I don’t know. Get them to come up to the surface. So you can see.”
 
@@ -1931,21 +1921,19 @@ Hendricks opened the breech of his gun, checking it carefully. “Maybe things a
 
 “You didn’t see them. Hundreds of them. All the same. Pouring out like ants.”
 
-“I should be able to find out without going down all the way.” Hendricks locked his gun, gripping it in one hand, the transmitter in the other. “Well, wish me luck.” ' ■	'	'
+“I should be able to find out without going down all the way.” Hendricks locked his gun, gripping it in one hand, the transmitter in the other. “Well, wish me luck.”
 
-Klaus put out his hand. “Don’t go down until you’re sure. Talk to them from up here. Make them show themselves.” '	'	.
+Klaus put out his hand. “Don’t go down until you’re sure. Talk to them from up here. Make them show themselves.”
 
 Hendricks stood up. He stepped down the side of the rise.
 
-A moment later he was walking slowly toward the.
-
-pile of bricks and debris beside the dead tree stump. Toward the entrance of the forward command bunker.
+A moment later he was walking slowly toward the <a id="page50" />pile of bricks and debris beside the dead tree stump. Toward the entrance of the forward command bunker.
 
 Nothing stirred. He raised the transmitter, clicking it on. “Scott? Can you hear me?”
 
 Silence.
 
-“Scott! This is Hendricks. Can you hear me? Fm standing outside the bunker. You should be able to see me in the view sight.”
+“Scott! This is Hendricks. Can you hear me? I’m standing outside the bunker. You should be able to see me in the view sight.”
 
 He listened, the transmitter gripped tightly. No sound. Only static. He walked forward. A claw burrowed out of the ash and raced toward him. It halted a few feet away and then slunk off. A second claw appeared, one of the big ones with feelers. It moved toward him, studied him intently, and then fell in behind him, dogging respectfully after him, a few paces away. A moment later a second big claw joined it. Silently, the claws trailed him as he walked slowly toward the bunker.
 
@@ -1961,27 +1949,25 @@ Then, distantly, metallically—
 
 The voice was neutral. Cold. He could not identify it But the earphone was minute.
 
-“Scott! Listen. I’m standing right above you. Tm ge the surface, looking down into the bunker entrance.”
+“Scott! Listen. I’m standing right above you. I’m on the surface, looking down into the bunker entrance.”
 
-“Yes.”	•	.
+“Yes.”
 
 “Can you see me?”
 
 “Yes.”
 
-“Through the view sight? You have the sight trainee on me?”
+“Through the view sight? You have the sight trained on me?”
 
-“Yes”	. . . . .	. . .
+“Yes”
 
-Hendricks pondered. A circle of claws waited quieth around him, gray-metal bodies on all sides of him. “L
-
-everything all right in the bunker? Nothing unusual has happened?”
+Hendricks pondered. A circle of claws waited quieth around him, gray-metal bodies on all sides of him. “Is <a id="page51" />everything all right in the bunker? Nothing unusual has happened?”
 
 “Everything is all right.”
 
 “Will you come up to the surface? I want to see you for a moment.” Hendricks took a deep breath. “Come up here with me. I want to talk to you.”
 
-“Comedown.”
+“Come down.”
 
 “I’m giving you an order.”
 
@@ -1997,9 +1983,9 @@ There was a long pause. He listened to the static. Then a voice came, hard, thin
 
 “Hendricks. I’m on the surface. At the bunker entrance. I want one of you to come up here.”
 
-, “Come down.”	.
+“Come down.”
 
-“Why come down? Fm giving you an order!”
+“Why come down? I’m giving you an order!”
 
 Silence. Hendricks lowered the transmitter. He looked carefully around him. The entrance was just ahead. Almost at his feet. He lowered the antenna and fastened the transmitter to his belt. Carefully, he gripped his gun with both hands. He moved forward, a step at a time. If they could see him they knew he was starting toward the entrance. He closed his eyes a moment.
 
@@ -2009,9 +1995,7 @@ Two Davids came up at him, their faces identical and expressionless. He blasted 
 
 Hendricks turned and raced back, away from the bunker, back toward the rise.
 
-At the top of the rise Tasso and Klaus were firing down. The small claws were already streaking up toward them, shining metal spheres going fast, racing frantically through the ash. But he had no time to think about that. He knelt down, aiming at the bunker en-
-
-trance, gun against his cheek. The Davids were coming out in groups, clutching their teddy bears, their thin knobby legs pumping as they ran up the steps to the surface. Hendricks fired into the main body of them. They burst apart, wheels and springs flying in all directions. He fired again, through the mist of particles.
+At the top of the rise Tasso and Klaus were firing down. The small claws were already streaking up toward them, shining metal spheres going fast, racing frantically through the ash. But he had no time to think about that. He knelt down, aiming at the bunker <a id="page52" />entrance, gun against his cheek. The Davids were coming out in groups, clutching their teddy bears, their thin knobby legs pumping as they ran up the steps to the surface. Hendricks fired into the main body of them. They burst apart, wheels and springs flying in all directions. He fired again, through the mist of particles.
 
 A giant lumbering figure rose up in the bunker entrance, tall and swaying. Hendricks paused, amazed. A man, a soldier. With one leg, supporting himself with a crutch.
 
@@ -2027,59 +2011,59 @@ A David slipped up toward him, its small white face expressionless, brown hair h
 
 “Close your eyes!” She unfastened a globe from her waist. Rapidly, she unscrewed the cap, locking it into place. “Close your eyes and get down.”
 
-She threw the bomb. It sailed in an arc, an expert, rolling and bouncing to the entrance of the bunker. Two Wounded Soldiers stood uncertainly by the brick pile. More. Davids poured from behind them, out onto the plain. One of the Wounded Soldiers moved toward the bomb, stooping awkwardly down to pick it up.
+<a id="page53" />She threw the bomb. It sailed in an arc, an expert, rolling and bouncing to the entrance of the bunker. Two Wounded Soldiers stood uncertainly by the brick pile. More. Davids poured from behind them, out onto the plain. One of the Wounded Soldiers moved toward the bomb, stooping awkwardly down to pick it up.
 
 The bomb went off. The concussion whirled Hendricks around, throwing him on his face. A hot wind rolled over him. Dimly he saw Tasso standing behind the columns, firing slowly and methodically at the Davids coming out of the raging clouds of white fire.
 
-Back along the rise Klaus struggled with a ring of claws circling around him. He retreated, blasting at them and moving back, trying to break through the
-
-ring.	■	#
+Back along the rise Klaus struggled with a ring of claws circling around him. He retreated, blasting at them and moving back, trying to break through the ring.
 
 Hendricks struggled to his feet. His head ached. He could hardly see. Everything was licking at him, raging and whirling. His right arm would not move.
 
 Tasso pulled back toward him. “Come on. Let’s go.” “Klaus—he’s still up there.”
 
-“Come on!” Tasso dragged Hendricks back, away from the columns. Hendricks shook his head, trying to clear it. Tasso led him rapidly away, her eyes intense and bright, watching for claws that had escaped the blast.	.
+“Come on!” Tasso dragged Hendricks back, away from the columns. Hendricks shook his head, trying to clear it. Tasso led him rapidly away, her eyes intense and bright, watching for claws that had escaped the blast.
 
 One David came out of the rolling clouds of flame. Tasso blasted it. No more appeared.
 
 “But Klaus. What about him?” Hendricks stopped, standing unsteadily. “He—”
 
-“Come on!”	.	.	■
+“Come on!”
 
 They retreated, moving farther and farther away from the bunker. A few small claws followed them for a little while and then gave up, turning back and going oft.
 
-At last Tasso stopped. “We can stop here and get our breaths.” .	. -	1
+At last Tasso stopped. “We can stop here and get our breaths.”
 
 Hendricks sat down on some heaps of debris. He wiped his neck, gasping. “We left Klaus back there.” Tasso said nothing. She opened her gun, sliding a fresh round of blast cartridges into place.
 
-Hendricks stared at her, dazed. “You left him back there on purpose.”
+<a id="page54" />Hendricks stared at her, dazed. “You left him back there on purpose.”
 
 Tasso snapped the gun together. She studied the heaps of rubble around them, her face expressionless. As if she were watching for something.
 
 “What is it?” Hendrick demanded. “What are you looking for? Is something coming?” He shook his head, trying to understand. What was she doing? What was she waiting for? He could see nothing. Ash lay all around them, ash and ruins. Occasional stark tree trunks, without leaves or branches.. “What—”
 
-Tasso cut him off. “Be still.” Her eyes narrowed. Suddenly her gun came up. Hendricks turned, following her gaze.	''
+Tasso cut him off. “Be still.” Her eyes narrowed. Suddenly her gun came up. Hendricks turned, following her gaze.
 
-Back the way they had come a figure appeared. The figure walked unsteadily toward them. Its clothes were tom. It limped as it made its way along, going very slowly and carefully. Stopping now and then, resting and getting its strength. Once it almost fell. It stood for a moment, trying to steady itself. Then it came on.
+Back the way they had come a figure appeared. The figure walked unsteadily toward them. Its clothes were torn. It limped as it made its way along, going very slowly and carefully. Stopping now and then, resting and getting its strength. Once it almost fell. It stood for a moment, trying to steady itself. Then it came on.
 
 Klaus.
 
 Hendricks stood up. “Klaus!” He started toward him. “How the hell did you—”
 
-Tasso fired. Hendricks swung back. She fired again, the blast passing him, a searing line of heat. The beam caught Klaus in the chest. He exploded, gears and wheels flying. For a moment he continued to walk. Then he swayed back and forth. He crashed to the ground, his arms flung out. A few more wheels rolled away.,	<
+Tasso fired. Hendricks swung back. She fired again, the blast passing him, a searing line of heat. The beam caught Klaus in the chest. He exploded, gears and wheels flying. For a moment he continued to walk. Then he swayed back and forth. He crashed to the ground, his arms flung out. A few more wheels rolled away.
 
-Silence. .	•	:	•;
+Silence.
 
 Tasso turned to Hendricks. “Now you understand why he killed Rudi.”
 
-Hendricks sat down again slowly. He shook his head. He was numb. He could not think
+Hendricks sat down again slowly. He shook his head. He was numb. He could not think.
 
-“Do you see?” Tasso said. “Do you understand?” Hendricks said nothing. Everything was slipping away from him, faster and faster. Darkness, rolling and plucking at him.
+“Do you see?” Tasso said. “Do you understand?”
+
+Hendricks said nothing. Everything was slipping away from him, faster and faster. Darkness, rolling and plucking at him.
 
 He closed his eyes.
 
-Hendricks opened his eyes slowly. His body ached all over. He tried to sit up but needles of pain shot through his arm and shoulder. He gasped.
+<a id="page55" />Hendricks opened his eyes slowly. His body ached all over. He tried to sit up but needles of pain shot through his arm and shoulder. He gasped.
 
 “Don’t try to get up,” Tasso said. She bent down, putting her cold hand against his forehead.
 
@@ -2091,7 +2075,7 @@ It was night. A few stars glinted above, shining through the drifting clouds of 
 
 “Why didn’t you destroy him sooner?” He wanted to know.
 
-“You held me back.” Tasso crossed to the fire to look into the metal cup. “Coffee. It’ll be ready to drink in a while ”
+“You held me back.” Tasso crossed to the fire to look into the metal cup. “Coffee. It’ll be ready to drink in a while.”
 
 She came back and sat down beside him. Presently she opened her pistol and began to disassemble the firing mechanism, studying it intently.
 
@@ -2103,7 +2087,7 @@ She came back and sat down beside him. Presently she opened her pistol and began
 
 “The Davids, too?”
 
-“Yes.”	-
+“Yes.”
 
 “How did you happen to have a bomb like that?”
 
@@ -2115,7 +2099,7 @@ Tasso stretched out her legs, warming her feet in the heat of the fire. “It su
 
 “I told you. I thought he was afraid.”
 
-“Really? You know, Major, for a little while I suspected yoji. Because you wouldn’t let me kill him. I thought you might be protecting him.” She laughed.
+<a id="page56" />“Really? You know, Major, for a little while I suspected you. Because you wouldn’t let me kill him. I thought you might be protecting him.” She laughed.
 
 “Are we safe here?” Hendricks asked presently.
 
@@ -2123,11 +2107,13 @@ Tasso stretched out her legs, warming her feet in the heat of the fire. “It su
 
 “We were lucky,” Hendricks murmured.
 
-“Yes. Very lucky.” ' _
+“Yes. Very lucky.”
 
 “Thanks for pulling me away.”
 
-Tasso did not answer. She glanced up at him, her eyes bright in the firelight. Hendricks examined his arm. He could not move his fingers. His whole side seemed numb. Down inside him was a dull steady ache. “How do you feel?” Tasso asked.
+Tasso did not answer. She glanced up at him, her eyes bright in the firelight. Hendricks examined his arm. He could not move his fingers. His whole side seemed numb. Down inside him was a dull steady ache.
+
+“How do you feel?” Tasso asked.
 
 “My arm is damaged.”
 
@@ -2135,13 +2121,15 @@ Tasso did not answer. She glanced up at him, her eyes bright in the firelight. H
 
 “Internal injuries.”
 
-“You didn’t get down when the bomb went off.” Hendricks said nothing. He watched Tasso pour the coffee from the cup into a flat metal pan. She brought it over to him.
+“You didn’t get down when the bomb went off.”
+
+Hendricks said nothing. He watched Tasso pour the coffee from the cup into a flat metal pan. She brought it over to him.
 
 “Thanks.” He struggled up enough to drink. It was hard to swallow. His insides turned over and he pushed the pan away. “That’s all I can drink now.”
 
 Tasso drank the rest. Time passed. The clouds of ash moved across the dark sky above them. Hendricks rested, his mind blank. After a while he became aware that Tasso was standing over him, gazing down at him. “What is it?” he murmured.
 
-“Do you feel ?ny better?”
+“Do you feel any better?”
 
 “Some.”
 
@@ -2153,7 +2141,7 @@ Tasso drank the rest. Time passed. The clouds of ash moved across the dark sky a
 
 “Why did you bring me out?”
 
-“Because we have to get away from here.” Tasso stirred the fire with a stick, peering calmly down into it. “No human being can live here. When their reinforcements come we won’t have a chance. I’ve pondered about it while you were unconscious. We have perhaps three horns before they come.”	-
+<a id="page57" />“Because we have to get away from here.” Tasso stirred the fire with a stick, peering calmly down into it. “No human being can live here. When their reinforcements come we won’t have a chance. I’ve pondered about it while you were unconscious. We have perhaps three hours before they come.”
 
 “And you expect me to get us away?”
 
@@ -2161,9 +2149,11 @@ Tasso drank the rest. Time passed. The clouds of ash moved across the dark sky a
 
 “Why me?”
 
-“Because I don’t know any way.” Her eyes shone at him in the half light, bright and steady. “If you can’t get us out of here they’ll kill us within three hours. I see nothing else ahead. Well, Major? What are you going to do? I’ve been waiting all night. While you were unconscious I sat here, waiting and listening. It’s almost dawn. The night is almost over.”	-
+“Because I don’t know any way.” Her eyes shone at him in the half light, bright and steady. “If you can’t get us out of here they’ll kill us within three hours. I see nothing else ahead. Well, Major? What are you going to do? I’ve been waiting all night. While you were unconscious I sat here, waiting and listening. It’s almost dawn. The night is almost over.”
 
-Hendricks considered. “Ifs curious,” he said at last. “Curious?”
+Hendricks considered. “It’s curious,” he said at last.
+
+“Curious?”
 
 “That you should think I can get us out of here. I wonder what you think I can do.”
 
@@ -2187,11 +2177,13 @@ Tasso said nothing. For a moment her steady gaze wavered. She ducked her head, t
 
 “How soon is dawn?”
 
-“Two hours. The sun will be coming up shortly.” “There’s supposed to be a ship near here. I’ve never seen it. But I know it exists.”
+“Two hours. The sun will be coming up shortly.”
+
+“There’s supposed to be a ship near here. I’ve never seen it. But I know it exists.”
 
 “What kind of a ship?” Her voice was sharp.
 
-“A rocket cruiser.”	.
+<a id="page58" />“A rocket cruiser.”
 
 “Will it take us off? To the Moon Base?”
 
@@ -2203,7 +2195,7 @@ Tasso said nothing. For a moment her steady gaze wavered. She ducked her head, t
 
 “Is the ship near here?” Tasso slid over beside him, settling down on her haunches. “How far is it? Where is it?”
 
-“Fm trying to think.”
+“I’m trying to think.”
 
 Her fingers dug into his arm. “Nearby?” Her voice was like iron. “Where would it be? Would they store it underground? Hidden underground?”
 
@@ -2229,9 +2221,7 @@ Hendricks did not answer. In the flickering light his eyes were glazed, two sigh
 
 Tasso gripped her pistol and walked around the fire in a circle, back and forth. On the ground Major Hendricks lay, his eyes closed, unmoving. The grayness rose in the sky, higher and higher. The landscape became visible, fields of ash stretching out in all directions. Ash and ruins of buildings, a wall here and there, heaps of concrete, thfe naked trunk of a tree.
 
-TV srr was cold and sharp. Somewhere a long way
-
-off a bird made a few bleak sounds.
+<a id="page59" />The air was cold and sharp. Somewhere a long way off a bird made a few bleak sounds.
 
 Hendricks stirred. He opened his eyes “Is it dawn? Already?”
 
@@ -2239,51 +2229,41 @@ Hendricks stirred. He opened his eyes “Is it dawn? Already?”
 
 Hendricks sat up a little. “Yon wanted to know something. Yon were asking me.”
 
-“Do vou remember now?”
+“Do you remember now?”
 
 “Yes!”
 
-“What is it?” She tensed. “What?” she repeated sharp?/.
+“What is it?” She tensed. “What?” she repeated sharply.
 
-“A weQ. A rained weE. Itta in a storage locker under
+“A well. A ruined well. It’s in a storage locker under a well.”
 
-a wesL”
-
-“A wed.” Tasso relaxed. “Then we’ll find a well.” She loosed at her watch. “We ha^e about an hour, Major. Do yon think we can find it in an hour?”
+“A well.” Tasso relaxed. “Then we’ll find a well.” She looked at her watch. “We have about an hour, Major. Do yon think we can find it in an hour?”
 
 “Give me a hand up,” Hendricks said.
 
-Tasso put her pistol away and helped him to his feet ‘This is going to be difficult”
+Tasso put her pistol away and helped him to his feet. “This is going to be difficult”
 
-“Yes It is.” Hendricks set his lips rightly. “I don’t thlrk we’re going to go very far.”	_
+“Yes It is.” Hendricks set his lips rightly. “I don’t think we’re going to go very far.”
 
-They began ~to walk. The early sun cast a IMe warmth down on them. The land was flat and barren, rtretchina out gray and lifeless as far as they could see. A few birds sailed silently, far above them, circling shcwd~~.
+They began to walk. The early sun cast a little warmth down on them. The land was flat and barren, stretching out gray and lifeless as far as they could see. A few birds sailed silently, far above them, circling slowly.
 
-“See anything9” Hendricks said. “Any claws?”
+“See anything?” Hendricks said. “Any claws?”
 
-“V©. Set yet”
+“No. Not yet.”
 
-fbej passed through some ruins, upright concrete awl bricks. A cement founda^oc. Rats scuttled away.
+They passed through some ruins, upright concrete and bricks. A cement foundation. Rats scuttled away. Tasso jumped back warily.
 
-Tasso jumped back warily.
+“This used to be a town,” Hendricks said. “A village. Provincial village. This was all grape country, once. Where we are now.”
 
-“Tbit used to be a town,” Hendricks said. “A village. Provincial village. This was all grape country, once. Where we are cow.”
-
-They came onto a ruined street weed: and cracks erics-crossing it Over to the right a stone chimney stuck
-
-op-
+They came onto a ruined street, weeds and cracks criss-crossing it. Over to the right a stone chimney stuck up.
 
 “Be careful” he warned her.
 
-A pit yawned, an open basement pipes jit^d up. twisted said bent. They
-
-Ragged ends of passed part cf a
-
-few spoons and bits of china dishes. In the center of the street the ground had sunk away. The depression was fined with weeds and debris and bones.
+A pit yawned, an open basement. Ragged ends of pipes jutted, twisted and bent. They passed part of a hour, a bathtub turned on its side. A broken chair. A <a id="page60" />few spoons and bits of china dishes. In the center of the street the ground had sunk away. The depression was filled with weeds and debris and bones.
 
 “Over here,” Hendricks murmured.
 
-“This way?” .
+“This way?”
 
 “To the right.”
 
@@ -2291,7 +2271,7 @@ They passed the remains of a heavy-duty tank. Hendricks’s belt counter clicked
 
 “There,” Hendricks said.
 
-A stone well jutted up, sagging and broken. A few boards lay across it. Most of the well had sunk into rubble. Hendricks walked unsteadily toward it, Tasso beside him.	■
+A stone well jutted up, sagging and broken. A few boards lay across it. Most of the well had sunk into rubble. Hendricks walked unsteadily toward it, Tasso beside him.
 
 “Are you certain about this?” Tasso said. “This doesn’t look like anything.”
 
@@ -2303,47 +2283,43 @@ A stone well jutted up, sagging and broken. A few boards lay across it. Most of 
 
 “Where is the ship? Is it here?”
 
-“We’re standing on it.” Hendricks ran his hands over the surface of the well stones. “The eye-lock responds to me, not to anybody else. It’s my ship. Or it was supposed to be.”	-	.	'
+“We’re standing on it.” Hendricks ran his hands over the surface of the well stones. “The eye-lock responds to me, not to anybody else. It’s my ship. Or it was supposed to be.”
 
 There was a sharp click. Presently they heard a low grating sound from below them.
 
-“Step back,” Hendricks said. He and Tasso moved away from the well.	:
+“Step back,” Hendricks said. He and Tasso moved away from the well.
 
 A section of the ground slid back. A metal frame pushed slowly up through the ash, shoving bricks and weeds out of the way. The action ceased as the ship nosed into view.
 
 “There it is,” Hendricks said.
 
-The ship was small. It rested quietly, suspended in its
-
-mesh frame like a blunt needle. A rain of ash sifted down into the dark cavity from which the ship had been raised. Hendricks made his way over to it. He mounted the mesh and unscrewed the hatch, pulling it back. Inside the ship the control banks and the pressure seat were visible.	.
+The ship was small. It rested quietly, suspended in its <a id="page61" />mesh frame like a blunt needle. A rain of ash sifted down into the dark cavity from which the ship had been raised. Hendricks made his way over to it. He mounted the mesh and unscrewed the hatch, pulling it back. Inside the ship the control banks and the pressure seat were visible.	.
 
 Tasso came and stood beside him, gazing into the ship. “I’m not accustomed to rocket piloting,” she said after a while.
 
-Hendricks glanced at her. “Til do the piloting.” .
+Hendricks glanced at her. “I’ll do the piloting.”
 
 “Will you? There’s only one seat, Major. I can see it’s built to carry only a single person.”
 
 Hendricks’s breathing changed. He studied the interior of the ship intently. Tasso was right. There was only one seat. The ship was built to carry only one person. “I see,” he said slowly. “And the one person is you.”
 
-i She nodded. .
+She nodded.
 
-'“Of course.”
+“Of course.”
 
-“Why?”	#
+“Why?”
 
-“You can’t go. You might not live through the trip. You’re injured. You probably wouldn’t get there.”
+“*You* can’t go. You might not live through the trip. You’re injured. You probably wouldn’t get there.”
 
 “An interesting point. But you see, I know where the Moon Base is. And you don’t. You might fly around for months and not find it. It’s well hidden. Without knowing what to look for—”
 
-‘Til have to take my chances. Maybe I won’t find it. Not by myself. But I think you’ll give me all the infor-. mation I need. Your life depends on it.”
+“I’ll have to take my chances. Maybe I won’t find it. Not by myself. But I think you’ll give me all the information I need. Your life depends on it.”
 
 “How?”
 
-“If I find the Moon Base in time, perhaps I can get them to send a ship back to pick you up. If I find the Base in time. If not, then you haven’t a chance. I imagine there are supplies on the ship. They will last me long enough—”
+“If I find the Moon Base in time, perhaps I can get them to send a ship back to pick you up. *If* I find the Base in time. If not, then you haven’t a chance. I imagine there are supplies on the ship. They will last me long enough—”
 
-Hendricks moved quickly. But his injured arm be-bayed him. Tasso ducked, sliding lithely aside. Her hand came up, lightning fast. Hendricks saw the gun I butt coming. He tried to ward off the blow, but she was too fast. The metal butt struck against the side of his [ head, just above his ear. Numbing pain rushed through
-
-him. Pain and rolling clouds of blackness. He sank down, sliding to the ground.
+Hendricks moved quickly. But his injured arm betrayed him. Tasso ducked, sliding lithely aside. Her hand came up, lightning fast. Hendricks saw the gun I butt coming. He tried to ward off the blow, but she was too fast. The metal butt struck against the side of his head, just above his ear. Numbing pain rushed through <a id="page62" />him. Pain and rolling clouds of blackness. He sank down, sliding to the ground.
 
 Dimly, he was aware that Tasso was standing over him, kicking him with her toe.
 
@@ -2361,7 +2337,7 @@ Hendricks said nothing.
 
 “Answer me!”
 
-“Sorry.” -	'	.	'
+“Sorry.”
 
 “Major, the ship is loaded with provisions. I can coast for weeks. I’ll find the Base eventually. And in a half-hour you’ll be dead. Your only chance of survival—” She broke off.
 
@@ -2381,15 +2357,13 @@ Hendricks looked up at her. He studied her intently. “You’re telling the tru
 
 Hendricks began to scratch in the ash. Tasso stood by him, watching the motion of the rock. Hendricks was sketching a crude lunar map.
 
-“This is the Appenine range. Here is the Crater of Archimedes. The Moon Base is beyond the end of the
-
-Appenine, about two hundred miles. I don’t know exactly where. No one on Terra knows. But when you’re over the Appenine, signal with one red flare and a green flare, followed by two red flares in quick succession. The Base monitor will record your signal. The Base is under the surface, of course. They’ll guide you down with magnetic grapples.”
+“This is the Appenine range. Here is the Crater of Archimedes. The Moon Base is beyond the end of the <a id="page63" />Appenine, about two hundred miles. I don’t know exactly where. No one on Terra knows. But when you’re over the Appenine, signal with one red flare and a green flare, followed by two red flares in quick succession. The Base monitor will record your signal. The Base is under the surface, of course. They’ll guide you down with magnetic grapples.”
 
 “And the controls? Can I operate them?”
 
 “The controls are virtually automatic. All you have to do is give the right signal at the right time.”
 
-' “I will.”
+“I will.”
 
 “The seat absorbs most of the takeoff shock. Air and temperature are automatically controlled. The ship will leave Terra and pass out into free space. It’ll line itself up with the Moon, falling into an orbit around it, about a hundred miles above the surface. The orbit will carry you over the Base. When you’re in the region of the Appenine, release the signal rockets.”
 
@@ -2401,13 +2375,13 @@ Tasso pulled the pistol from her belt. She held it in her hand, weighing it thou
 
 “No. I’ll stay here by the well.”
 
-Tasso gripped the takeoff switch, running her fingers over the smooth metal. “A beautiful ship, Major. Well built. I admire your workmanship. You people have always done good work. You build fine things. Your work, your creations, are your greatest achievement” “Give me the pistol,” Hendricks said impatiently, holding out his hand. He struggled to his feet.
+Tasso gripped the takeoff switch, running her fingers over the smooth metal. “A beautiful ship, Major. Well built. I admire your workmanship. You people have always done good work. You build fine things. Your work, your creations, are your greatest achievement”
+
+“Give me the pistol,” Hendricks said impatiently, holding out his hand. He struggled to his feet.
 
 “Good-bye, Major.” Tasso tossed the pistol past Hendricks. The pistol clattered against the ground, bouncing and rolling away. Hendricks hurried after it He bent down, snatching it up.
 
-The hatch of the ship clanged shut. The bolts fell into place. Hendricks made his way back. The inner door
-
-was being sealed. He raised the pistol unsteadily.
+The hatch of the ship clanged shut. The bolts fell into place. Hendricks made his way back. The inner door <a id="page64" />was being sealed. He raised the pistol unsteadily.
 
 There was a shattering roar. The ship burst up from its metal cage, fusing the mesh behind it. Hendricks cringed, pulling back. The ship shot up into the rolling clouds of ash, disappearing into the sky.
 
@@ -2423,17 +2397,15 @@ Presently he stopped walking and sat down on some debris. He unfastened his medi
 
 Something lay ahead. Stretched out on the ground. Silent and unmoving.
 
-Hendricks drew his gun quickly. It looked like a man. Then he remembered. It was the remains of Klaus. The Second Variety. Where Tasso had blasted him. He could see wheels and relays and metal parts, strewn around on the ash. Glittering and sparkling in the sunlight
+Hendricks drew his gun quickly. It looked like a man. Then he remembered. It was the remains of Klaus. The Second Variety. Where Tasso had blasted him. He could see wheels and relays and metal parts, strewn around on the ash. Glittering and sparkling in the sunlight.
 
 Hendricks got to his feet and walked over. He nudged the inert form with his foot, turning it over a little. He could see the metal hull, the aluminum ribs and struts. More wiring fell out. Like viscera. Heaps of wiring, switches and relays. Endless motors and rods.
 
-He bent down. The brain cage had been smashed by the fall. The artificial brain was visible. He gazed at it A maze of circuits. Miniature tubes. Wires as fine as
-
-hair. He touched the brain cage. It swung aside. The type plate was visible. Hendricks studied the plate.
+He bent down. The brain cage had been smashed by the fall. The artificial brain was visible. He gazed at it A maze of circuits. Miniature tubes. Wires as fine as <a id="page65" />hair. He touched the brain cage. It swung aside. The type plate was visible. Hendricks studied the plate.
 
 And blanched.
 
-IV—IV.	.
+*IV—IV.*
 
 For a long time he stared at the plate. Fourth Variety. Not the Second. They had been wrong. There were more types. Not just three. Many more, perhaps. At least four. And Klaus wasn’t the Second Variety.
 
@@ -2441,21 +2413,22 @@ But if Klaus wasn’t the Second Variety—
 
 Suddenly he tensed. Something was coming, walking through the ash beyond the hill. What was it? He strained to see. Figures. Figures coming slowly along, making their way through the ash.
 
-\' Coming toward him.
+Coming toward him.
 
 Hendricks crouched quickly, raising his gun. Sweat dripped down into his eyes. He fought down rising panic, as the figures neared.
 
 The first was a David. The David saw him and increased its pace. The others hurried behind it. A second David. A third. Three Davids, all alike, coming toward him silently, without expression, their thin legs rising and falling. Clutching their teddy bears.
 
-He aimed and fired. The first two Davids dissolved into particles. The third came on. And the figure behind \ it. Climbing silently toward him across the gray ash. A Wounded Soldier, towering over the David. And—
+He aimed and fired. The first two Davids dissolved into particles. The third came on. And the figure behind it. Climbing silently toward him across the gray ash. A Wounded Soldier, towering over the David. And—
 
+.space
 And behind the Wounded Soldier came two Tassos, walking side by side. Heavy belt, Russian army pants, shirt, long hair. The familiar figure, as he had seen her only a little while before. Sitting in the pressure seat of the ship. Two slim, silent figures, both identical.
 
 They were very near. The David bent down suddenly, dropping its teddy bear. The bear raced across the ground. Automatically, Hendricks’s fingers tightened around the trigger. The bear was gone, dissolved into mist. The two Tasso Types moved on, expressionless, walking side by side, through the gray ash.
 
 When they were almost to him, Hendricks raised the pistol waist high and fired.
 
-The two Tassos dissolved. But already a new group was starting up the rise, five or six Tassos, all identical, a line of them coming rapidly toward him.
+<a id="page66" />The two Tassos dissolved. But already a new group was starting up the rise, five or six Tassos, all identical, a line of them coming rapidly toward him.
 
 And he had given her the ship and the signal code. Because of him she was on her way to the moon, to the Moon Base. He had made it possible.
 
@@ -2465,7 +2438,7 @@ The line of Tassos came up to him. Hendricks braced himself, watching them calml
 
 The bomb—
 
-As the Tassos reached for him, a last ironic thought drifted through Hendricks’s mind. He felt a little better, thinking about it. The bomb. Made by the Second Variety to destroy the other varieties. Made for that end alone. ,
+As the Tassos reached for him, a last ironic thought drifted through Hendricks’s mind. He felt a little better, thinking about it. The bomb. Made by the Second Variety to destroy the other varieties. Made for that end alone.
 
 They were already beginning to design weapons to use against each other.
 
@@ -9929,7 +9902,7 @@ the_electric_ant
 # The Electric Ant
 
 .fl
-<span class="smallcaps">At four fifteen</span> in the afternoon, T.S.T., Garson Poole woke up in his hospital bed, knew that he lay in a hospital bed in a three-bed ward and realized in addition two things: that he no longer had a right hand and that he felt no pain.	,	.
+<span class="smallcaps">At four fifteen</span> in the afternoon, T.S.T., Garson Poole woke up in his hospital bed, knew that he lay in a hospital bed in a three-bed ward and realized in addition two things: that he no longer had a right hand and that he felt no pain.
 
 They have given me a strong analgesic, he said to himself as he stared at the far wall with its window showing downtown New York. Webs in which vehicles and peds darted and wheeled glimmered in the late afternoon sun, and the brilliance of the aging light pleased him. It’s not yet out, he thought. And neither am I.
 

@@ -1,112 +1,201 @@
-﻿---
-identifier: 
+---
+identifier: best_of_john_w_campbell_b000
 
-title: 
+title: The Best of John W. Campbell
 
-creator: 
+creator: John W. Campbell
 
-cover: 
+cover: john_w_campbell.jpg
 
-css: 
+css: classic_science_fiction.css
 
 language: en-US
 
-publisher: 
+publisher: Del Rey Books
 
-subject: 
+subject: Science Fiction / Anthology
 
-description: 
+description: Here in one volume are 11 of the finest stories and one penetrating article by the man who almost single-handedly created modern science fiction—stories rich in imagination and outstanding in their sweep and sense of that wonder which is science fiction at its best.
 ---
 
 rearcover
 
-The Law of the Sam
+.center
+![john_w_campbell_r](john_w_campbell_r.png)
 
-The Sarn Mother looked down at the Earth-man with unblinking, golden eyes. "The Sarn make the laws. Men obey them. That was settled once and for all time four thousand years ago. Is it clear?"
+.fl.left
+**HERE IN ONE VOLUME ARE 11 OF THE FINEST STORIES AND ONE PENETRATING ARTICLE BY THE MAN WHO ALMOST SINGLE-HANDEDLY CREATED MODERN SCIENCE FICTION-STORIES RICH IN IMAGINATION AND OUTSTANDING IN THEIR SWEEP AND SENSE OF THAT WONDER WHICH IS SCIENCE FICTION AT ITS BEST.**
 
-Grayth looked up at her, up the strange, rope-flexible legs, up the rounded, golden body to the four twined arms. "Before ever the Sarn came to this world, to conquer our people and enslave them, your race was ruled by a matriarchy. It is natural, for among you the females born in a generation outnumber the males five to one. But what is natural for your race is an unnatural crime upon ours."
+.subtitle
+• TWILIGHT
 
-The Sarn Mother, on her inlaid throne of State, looked with unwinking golden eyes at Grayth.
+.smaller
+He was a mere hitchhiker now; but he had once seen the far, far future . . . and had returned to mourn what he had seen!
 
-"You may go," she said at last. "But the Law of the Sarn, that there shall be five of females to only one of males is the law of the planet. Kill fpur out of every five nrenl"K- l ibrary
+.subtitle
+• THE MACHINE
 
-More U. .:	rrlessMor
+.smaller
+The machine was ultimately benevolent . . . so benevolent that it gave mankind the ultimate, but most unwanted gift!
 
-ir ,v-. backs
+.subtitle
+• FORGETFULNESS
 
-RLiUiU^ iljuLlL WLlKS
+.smaller
+They were like children in the museum of Earth’s glorious past . . . children who had forgotten so much, but whose powers were those of gods!
+
+.subtitle
+• CLOAK OF AESIR
+
+.smaller
+The Sarn Mother had grown weary during her long rule over Earth . . . but neither her daughters nor mankind would grant her peace!
+
+.subtitle
+• WHO GOES THERE?
+
+.smaller
+The Thing was the most dreadful threat men had ever faced . . . a thing that could be any one—or all—of them!
+
+.fl.left
+PLUS SIX MORE STORIES OF WONDER-AND AN IMPORTANT VIEW OF THE FUTURE BY THE WRITER WHO TAUGHT A GENERATION TO DREAM. . .
+AND TO WRITE OF ALL POSSIBLE FUTURES.
+
+---
+
+blurb
+
+.heading
+**The Law of the Sarn**
+
+.space
+**The Sarn Mother looked down at the Earth-man with unblinking, golden eyes. “The Sarn make the laws. Men obey them. That was settled once and for all time four thousand years ago. Is it clear?”**
+
+.space
+**Grayth looked up at her, up the strange, rope-flexible legs, up the rounded, golden body to the four twined arms. “Before ever the Sarn came to this world, to conquer our people and enslave them, your race was ruled by a matriarchy. It is natural, for among you the females born in a generation outnumber the males five to one. But what is natural for your race is an unnatural crime upon ours.”**
+
+.space
+**The Sarn Mother, on her inlaid throne of State, looked with unwinking golden eyes at Grayth.**
+
+.space
+**“You may go,” she said at last. “But the Law of the Sarn, that there shall be five of females to only one of males is the law of the planet. Kill four out of every five men!”**
+
+---
+
+other_books
 
 Watch for all the volumes in Ballantine’s Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book in the series is introduced by a well-known science fiction writer or by a distinguished critic.
 
-NOW AVAILABLE IN A BALLANTINE EDITION:
+.space.center
+**NOW AVAILABLE IN A BALLANTINE EDITION:**
 
-The Best of Stanley G. Weinbaum
+.center
+**The Best of Stanley G. Weinbaum**
+*Introduction by Isaac Asimov*
+**The Best of Fritz Leiber**
+*Introduction by Poul Anderson*
+**The Best of Frederik Pohl**
+*Introduction by Lester del Rey*
+**The Best of Henry Kuttner**
+*Introduction by Ray Bradbury*
+**The Best of Cordwainer Smith**
+*Introduction by J. J. Pierce*
+**The Best of C. L. Moore**
+*Introduction by Lester del Rey*
 
-Introduction by Isaac Asimov The Best of Fritz Leiber Introduction by Poul Anderson The Best of Frederik Pohl Introduction by Lester del Rey The Best of Henry Kuttner Introduction by Ray Bradbury The Best of Cordwainer Smith Introduction by Pierce The Best of C. L. Moore Introduction by Lester del Rey
+.space.center
+**VOLUMES IN PREPARATION:**
 
-VOLUMES IN PREPARATION:
+.center
+**The Best of C. M. Kornbluth**
+*Introduction by Frederik Pohl*
+**The Best of L. Sprague de Camp**
+*Introduction by Poul Anderson*
+**The Best of Raymond Z. Gallun**
+*Introduction by J. J. Pierce*
+**The Best of Edmond Hamilton**
+*Introduction by Leigh Brackett*
+**The Best of Murray Leinster**
+*Introduction by J. J. Pierce*
+**The Best of Philip K. Dick**
+*Introduction by John Brunner*
+**The Best of Fredric Brown**
+*Introduction by Robert Bloch*
 
-The Best of C. M. Kornbluth
+.center
+**COMING SOON FROM BALLANTINE BOOKS**
 
-Introduction by Frederik Pohl The Best of L. Sprague de Camp Introduction by Poul Anderson The Best of Raymond Z. Gallun Introduction by Frederik Pohl The Best of Edmond Hamilton Introduction by Leigh Brackett The Best of Murray Leinster Introduction by J. J. Pierce The Best of Philip K. Dick Introduction by John Brunner The Best of Fredric Brown Introduction by Robert Bloch
+---
 
-COMING SOON FROM BALLANTINE BOOKS
+titlepage
 
-THE BEST OF
+titlepage
 
-^okM. dani'fib(i(tt
+# THE BEST OF<br />*John W. Campbell*
 
+.editor
 Edited and with an introduction by
-
 LESTER DEL REY
 
+.editor
 Afterword by
-
 MRS. JOHN W. CAMPBELL
 
-BALLANTTNE BOOKS • NEW YORK
+.center
+BALLANTINE BOOKS • NEW YORK
 
-“The Last Evolution,” copyright © 1932 by Teck Publications, Inc., for
+---
 
-August 1932 Amazing Stories.
+acknowledgments
 
-“Twilight,” copyright © 1934 by Street & Smith Publications, Inc., for November 1934 Astounding Stories. Copyright renewed 1962 by The Cond€-Nast Publications, Inc.
+.center
+ACKNOWLEDGMENTS
 
-“The Machine,” copyright © 1935 by Street & Smith Publications, Inc., for February, 1935 Astounding Stories. Copyright renewed 1963 by The Conde-Nast Publications, Inc.
+.space.revindent
+“The Last Evolution,” copyright © 1932 by Teck Publications, Inc., for August 1932 *Amazing Stories*.
 
-“The Invaders,” copyright © 1935 by Street & Smith Publications, Inc., for June, 1935 Astounding Stories. Copyright renewed 1963 by The Conde-Nast Publications, Inc.
+.revindent
+“Twilight,” copyright © 1934 by Street & Smith Publications, Inc., for November 1934 *Astounding Stories*. Copyright renewed 1962 by The Condé-Nast Publications, Inc.
 
-“Rebellion,” copyright © 1935 by Street & Smith Publications, Inc., for August, 1935 Astounding Stories. Copyright renewed 1963 by The Concle-Nast Publications, Inc.
+.revindent
+“The Machine,” copyright © 1935 by Street & Smith Publications, Inc., for February, 1935 *Astounding Stories*. Copyright renewed 1963 by The Condé-Nast Publications, Inc.
 
-“Blindness,” copyright © 1935 by Street & Smith Publications, Inc., for March, 1935 Astounding Stories. Copyright renewed 1963 by The Conde-. Nast Publications, Inc.
+.revindent
+“The Invaders,” copyright © 1935 by Street & Smith Publications, Inc., for June, 1935 *Astounding Stories*. Copyright renewed 1963 by The Condé-Nast Publications, Inc.
 
-“Elimination,” copyright © 1936 by Street & Smith Publications, Inc., for May, 1936 Astounding Stories. Copyright renewed 1964 by The Cond6-Nast Publications, Inc.
+.revindent
+“Rebellion,” copyright © 1935 by Street & Smith Publications, Inc., for August, 1935 *Astounding Stories*. Copyright renewed 1963 by The Condé-Nast Publications, Inc.
 
-“Forgetfulness,” copyright © 1937 by Street & Smith Publications, Inc., for June, 1937 Astounding Stories. Copyright renewed 1965 by The Conde-Nast Publications, Inc.
+.revindent
+“Blindness,” copyright © 1935 by Street & Smith Publications, Inc., for March, 1935 *Astounding Stories*. Copyright renewed 1963 by The Condé-Nast Publications, Inc.
 
-“Out of Night,” copyright © 1937 by Street & Smith Publications, Inc., for October, 1937 Astounding Stories. Copyright renewed 1965 by The Conde-Nast Publications, Inc.
+.revindent
+“Elimination,” copyright © 1936 by Street & Smith Publications, Inc., for May, 1936 *Astounding Stories*. Copyright renewed 1964 by The Condé-Nast Publications, Inc.
 
-“Cloak of Aesir,” copyright © 1939 by Street & Smith Publications, Inc., for March, 1939 Astounding Science Fiction. Copyright renewed 1967 by The Cond6-Nast Publications, Inc.
+.revindent
+“Forgetfulness,” copyright © 1937 by Street & Smith Publications, Inc., for June, 1937 *Astounding Stories*. Copyright renewed 1965 by The Conde-Nast Publications, Inc.
 
-“Who Goes There?,” copyright © 1938 by Street & Smith Publications, Inc., for August,, 1938 Astounding Science Fiction. Copyright renewed 1966 by The Conde-Nast Publications, Inc.
+.revindent
+“Out of Night,” copyright © 1937 by Street & Smith Publications, Inc., for October, 1937 *Astounding Stories*. Copyright renewed 1965 by The Condé-Nast Publications, Inc.
 
-“Space for Industry,” copyright © 1960 by Street & Smith Publications, Inc., for April, 1960 Analog Science Fact/Fiction, reprinted with permission.
+.revindent
+“Cloak of Aesir,” copyright © 1939 by Street & Smith Publications, Inc., for March, 1939 *Astounding Science Fiction*. Copyright renewed 1967 by The Condé-Nast Publications, Inc.
 
-Copyright © 1976 by Charles A. Jerome, executor and trustee
+.revindent
+“Who Goes There?,” copyright © 1938 by Street & Smith Publications, Inc., for August,, 1938 *Astounding Science Fiction*. Copyright renewed 1966 by The Condé-Nast Publications, Inc.
 
-of The Estate of John W. Campbell
+.revindent
+“Space for Industry,” copyright © 1960 by Street & Smith Publications, Inc., for April, 1960 *Analog Science Fact/Fiction*, reprinted with permission.
 
-Introduction: The Three Careers of John W. Campbell
+---
 
+copyright
+
+Copyright © 1976 by Charles A. Jerome, executor and trustee of The Estate of John W. Campbell
+Introduction: *The Three Careers of John W. Campbell*
 copyright © 1976 by Lester del Rey
+Afterword: *Postscriptum* copyright © 1976 by Random House, Inc.
 
-Afterword: Postscriptum copyright © 1976 by
-
-Random House, Inc.
-
-All rights reserved under International and Pan-American Copyright Conventions. Published in the United States by Ball-antine Books, a division of Random House, Inc., New York, and simultaneously in Canada by Ballantine Books of Canada, Ltd.,
-
-Toronto, Canada.
+All rights reserved under International and Pan-American Copyright Conventions. Published in the United States by Ballantine Books, a division of Random House, Inc., New York, and simultaneously in Canada by Ballantine Books of Canada, Ltd., Toronto, Canada.
 
 Library of Congress Catalog Card Number: 76-7497
 
@@ -120,61 +209,78 @@ First Printing: June, 1976
 
 Cover art by H. R. Van Dongen
 
-JUSTIN CAMPBELL ROBERTSON February 17, 1966
+---
 
-MARGARET KATHERINE HAMMOND January 10, 1968
+dedication
 
-JOHN CAMPBELL HAMMOND July 17, 1972
+.center
+***This book is dedicated to the grandchildren of***
+***John W. Campbell***
 
-JASYN CAMPBELL RANDAZZO September 16, 1973
+.space.center
+**JUSTIN CAMPBELL ROBERTSON**
+February 17, 1966
 
+.space.center
+**MARGARET KATHERINE HAMMOND**
+January 10, 1968
 
+.space.center
+**JOHN CAMPBELL HAMMOND**
+July 17, 1972
 
-CONTENTS
-
-John W. Campbell	ix
-
-Lester del Rey The Last Evolution	1
-
-Twilight	22
-
-The Machine	46
-
-The Invaders	67
-
-Rebellion	88
-
-Blindness	122
-
-Elimination	140
-
-Forgetfulness	161
-
-Out of Night	192
-
-Cloak of Aesir	236
-
-Who Goes There?	290
-
-Space for Industry	354
-
-Afterword: Postscriptum	
-
-Mrs. John W. Campbell	360
+.space.center
+**JASYN CAMPBELL RANDAZZO**
+September 16, 1973
 
 ---
 
-# Introduction: The Three Careers of
+contents
 
+# CONTENTS
+
+[*Introduction*: The Three Careers of  John W. Campbell](introduction) by *Lester Del Rey*
+
+[The Last Evolution](the_last_evolution)
+
+[Twilight](twilight)
+
+[The Machine](the_machine)
+
+[The Invaders](the_invaders)
+
+[Rebellion](rebellion)
+
+[Blindness](blindness)
+
+[Elimination](elimination)
+
+[Forgetfulness](forgetfulness)
+
+[Out of Night](out_of_night)
+
+[Cloak of Aesir](cloak_of_aesir)
+
+[Who Goes There?](who_goes_there)
+
+[Space for Industry](space_for_industry)
+
+[*Afterword*: Postscriptum](afterword) by Mrs. John W. Campbell
+
+---
+
+introduction
+
+# The Three Careers of John W. Campbell
+
+.space
 Back in the very early days of science fiction, everyone knew it was impossible to make a living in the field. There were only two SF magazines being published, each paying somewhere around $200 for a long novel and perhaps $25 for an unusually good short story. Even when a story was accepted, a writer might have to wait months after publication before he was finally paid for his work. Furthermore, no science fiction books were being published; so once a story appeared in a magazine, there would be no further income from it.
 
 Writing science fiction was a hobby, not a career, and nobody questioned that obvious fact—nobody but John W. Campbell! Against all logic, he not only determined to make science fiction his life’s work, but he succeeded. It took three careers to achieve his goal, during which he became almost single-handedly the creator of modern science fiction. And eventually, others with less genius or less folly found it possible to follow the trail he blazed.
 
 Campbell’s first sale was made while he was still in college, studying for his science degree. (Later, he used to joke about it, saying that he only graduated because his English professor couldn’t flunk anyone who was already selling to a professional magazine.) It appeared in January 1930, six months before his twentieth birthday. Within a year, he had become one of the best-liked writers in the field.
 
-In those days, the science-fiction stories had almost no literary value. They were crudely written, at best, and there was little attempt at characterization. The people were merely used as props to discuss the heavy use of
-
-superscience and to make the simple plots work. The important things in science fiction were the wonders of future science and the unlimited possibility for human progress. The best-liked stories dealt with adventures far out in space, where men discovered other somewhat human races and warred mightily with evil invaders of monstrous form.
+In those days, the science-fiction stories had almost no literary value. They were crudely written, at best, and there was little attempt at characterization. The people were merely used as props to discuss the heavy use of superscience and to make the simple plots work. The important things in science fiction were the wonders of future science and the unlimited possibility for human progress. The best-liked stories dealt with adventures far out in space, where men discovered other somewhat human races and warred mightily with evil invaders of monstrous form.
 
 Campbell took the formula and carried it to its ultimate. His science began at the far edge of current theories and went on from there at breakneck pace. By the end of 1934 he had written six novels, most of which are still being published to the delight of new young readers. In these novels, his heroes roamed all space and beyond into other universes. New inventions seemed to be created on every page. In the end, his heroes could even create entire universes just by “thinking” into their ultimate machines.
 
@@ -182,73 +288,66 @@ I have included in this volume only one short story from this period: “The Las
 
 By the end of 1934, however, Campbell had used up almost every possibility to be found in the old formula. He wrote a few “John W. Campbell” stories after that, but the enthusiasm was gone. He could have gone on repeating himself, since his stories were still as popular as ever, but he was never content to be a follower—even of himself.
 
-In fact, he had already entered upon a second career. A couple of years before, he had been deeply impressed by the first chapter of The Red Gods Call, by C. E. Scoggins, a popular adventure writer of the time. Although the rest of that book was straight adventure, that
-
-first chapter had mood, feeling, and everything that science fiction seemed to lack at the time. Campbell decided to do something about that lack.
+In fact, he had already entered upon a second career. A couple of years before, he had been deeply impressed by the first chapter of *The Red Gods Call*, by C. E. Scoggins, a popular adventure writer of the time. Although the rest of that book was straight adventure, that first chapter had mood, feeling, and everything that science fiction seemed to lack at the time. Campbell decided to do something about that lack.
 
 It’s hard to be sure, but Campbell’s early work does not indicate that he was a naturally gifted writer in the usual sense. But he could learn—no man was ever a better learner! So he set about mastering the ability to write science fiction as it had never been done; and because the story turned out to be unlike anything else he had written, he chose to publish it under the pen name of Don A. Stuart. Thus his “Stuart” career began before his “Campbell” one was ending.
 
-The result was “Twilight,” a story that was chosen in 1970 by the Science Fiction. Writers of America as one of the great classics of the literature. However, the story was hardly an instant success. Every editor in the field turned it down, until F. Orlin Tremaine became editor of Astounding Stories. It finally appeared in the November 1934 issue, when the readers gave it almost unanimous praise and demanded more from this “new” writer. (For more than a year, the true identity of the writer was kept absolutely secret.) By the end of 1935, Stuart was even more popular than Campbell.
+The result was “Twilight,” a story that was chosen in 1970 by the Science Fiction. Writers of America as one of the great classics of the literature. However, the story was hardly an instant success. Every editor in the field turned it down, until F. Orlin Tremaine became editor of *Astounding Stories*. It finally appeared in the November 1934 issue, when the readers gave it almost unanimous praise and demanded more from this “new” writer. (For more than a year, the true identity of the writer was kept absolutely secret.) By the end of 1935, Stuart was even more popular than Campbell.
 
 Stuart, as Campbell later put it, was an annoying kind of writer. He refused to take the standard axioms for granted. When everyone knew that something was so, Stuart began questioning it. Every science-fiction reader wished for a day when machines would make everything easy for everybody; that would be utopia, of course. So Stuart wrote “The Machine” to show how things might really be.
 
 One of the standard horrors of science fiction was the idea of an invading race taking over Earth. Stuart took a good look at that in “The Invaders.” But suppose the invaders made slaves of the people of Earth; everyone knew that slavery was the worst thing that could happen to people. Well, maybe; Stuart decided to examine that proposition and see just what was the worst that could happen to whom. This story was entitled “Rebellion.”
 
-These three stories were planned together under the general title of “The Teachers,” though that was never
-
-actually used for them. But one way or another, they all have the common theme of someone teaching a lesson to someone else, though just what the results might be wasn’t as certain as it might seem.
+These three stories were planned together under the general title of “The Teachers,” though that was never actually used for them. But one way or another, they all have the common theme of someone teaching a lesson to someone else, though just what the results might be wasn’t as certain as it might seem.
 
 “Blindness” is a strange examination of the idea that the discovery of simple, cheap, atomic fusion power would be the greatest of boons to the human race. It is also a moving story of a man who makes a tremendous sacrifice for science—and what his reward may be. And “Elimination” looks at man’s ancient wish dream to know what the future may bring.
 
 Campbell, as Stuart, was leading science fiction away from the old, accepted dreams of science fiction. He was blazing the way toward a time when a writer must look at every postulate and examine it as if it were a new idea. But he was doing far more. He never forgot that he had begun by trying to give the feeling and humanity to his stories that had been lacking. More than his ideas, the quality of his writing excited all who read them.
 
-Perhaps this is best shown in “Forgetfulness.” On the surface, this story is a bit like “The Invaders”—an alien race comes to Earth to find mankind living a simple, pastoral, almost-childlike life, surrounded by the remnants of a magnificent civilization it has forgotten. It’s all handled simply, directly, and with a feeling on the part of the alien that the reader can share. Then at the end— Well, read it for yourself. For over thirty years, that story has remained in my mind one of the high points of all science fiction.
+Perhaps this is best shown in “Forgetfulness.” On the surface, this story is a bit like “The Invaders”—an alien race comes to Earth to find mankind living a simple, pastoral, almost-childlike life, surrounded by the remnants of a magnificent civilization it has forgotten. It’s all handled simply, directly, and with a feeling on the part of the alien that the reader can share. Then at the end—Well, read it for yourself. For over thirty years, that story has remained in my mind one of the high points of all science fiction.
 
 “Out of Night” and “Cloak of Aesir” really go together to make up a short novel. Again Campbell gives us aliens and struggling humans—but there is no simple right and wrong, no obvious warfare, no previously overused cliche situation. And at the end, as one sits with the Sam Mother, it is the emotional resolution that remains, not the simple chain of events.
 
-“Who Goes There?” is a suspense story, something neither Campbell nor his alter ego, Stuart, had tried before. It is the story from which the movie The Thing (later called The Thing from Outer Space) was supposedly made. But the movie was just another monster epic,
+“Who Goes There?” is a suspense story, something neither Campbell nor his alter ego, Stuart, had tried before. It is the story from which the movie *The Thing* (later called *The Thing from Outer Space*) was supposedly made. But the movie was just another monster epic, totally lacking in the force and tension of the original story. “Who Goes There?” was chosen by the Science Fiction Writers of America as first among the greatest novellas of all time.
 
-totally lacking in the force and tension of the original story. “Who Goes There?” was chosen by the Science Fiction Writers of America as first among the greatest novellas of all time.
+In only ten years, John Campbell had become two of the greatest writers of science fiction. And then (except for one short fantasy novel written to fill a magazine he edited) both careers came to an end, as he began a third which was to be even more influential than any amount of writing could have been—so influential, indeed, that a crater on Mars has now been named *Campbell* to honor him.
 
-In only ten years, John Campbell had become two of the greatest writers of science fiction. And then (except for one short fantasy novel written to fill a magazine he edited) both careers came to an end, as he began a third which was to be even more influential than any amount of writing could have been—so influential, indeed, that a crater on Mars has now been named Campbell to honor him.
-
-Toward the end of 1937, he was asked to be the editor of Astounding Stories (soon to be renamed Astounding Science Fiction and later Analog Science Fact/Fiction).He continued as its editor for thirty-four years, until his death in 1971. As a writer under either pen name, Campbell had been one of the best; but as an editor, he quickly became the greatest. If that is a personal judgment, it is one shared by most writers and editors in the field
+Toward the end of 1937, he was asked to be the editor of *Astounding Stories* (soon to be renamed *Astounding Science Fiction* and later *Analog Science Fact/Fiction*).He continued as its editor for thirty-four years, until his death in 1971. As a writer under either pen name, Campbell had been one of the best; but as an editor, he quickly became *the* greatest. If that is a personal judgment, it is one shared by most writers and editors in the field
 
 When he took over as editor, the magazine had settled into a dull routine; and other magazines were folding or turning to blood-and-thunder stories. Old authors were leaving the field and few new ones of any talent were coming in. There seemed no hppe that science fiction would ever become a generally accepted category.
 
 Campbell rapidly changed all that. He had a clear vision of what science fiction should become, and he began teaching that vision to all the established writers capable of learning it. He also discovered a host of new writers within the first few years of his editorship. Most of the leading science-fiction writers today are ones he discovered and trained: Asimov, de Camp, Heinlein, Sturgeon, Van Vogt, and many others.
 
-Writers were developed, too, not merely discovered. Faulty stories went back with pages of detailed criticism of plot and technique that meant more than any dozen courses in how to write. Ideas for stories poured out from Campbell to his writers, and many of the bestloved stories in the field came from those ideas. He had
+Writers were developed, too, not merely discovered. Faulty stories went back with pages of detailed criticism of plot and technique that meant more than any dozen courses in how to write. Ideas for stories poured out from Campbell to his writers, and many of the bestloved stories in the field came from those ideas. He had the marvelous talent of suggesting just the right idea to a writer and putting it into a form that writer could best handle.
 
-the marvelous talent of suggesting just the right idea to a writer and putting it into a form that writer could best handle.
-
-In my own case, he repeatedly forced me to continue writing when I would normally have turned to other things; and he supplied the ideas for many of my best works. Most writers I know had the same experience. Even when a story was not right for him, Campbell was generous with his help in improving it for submission elsewhere. The result was the so-called Golden Age of science fiction—the beginning of modem science fiction, which was capable of reaching beyond a small reader-ship of gadget-loving hobbyists and science buffs. When the book publishers finally began turning to this new category for material, it was only because there was already a body of respectable novels waiting in the back issues of Astounding. Even today, a rather large percentage of the most successful books are still produced by the writers Campbell discovered. Without him, the current acceptance of science fiction would almost certainly have been impossible.
+In my own case, he repeatedly forced me to continue writing when I would normally have turned to other things; and he supplied the ideas for many of my best works. Most writers I know had the same experience. Even when a story was not right for him, Campbell was generous with his help in improving it for submission elsewhere. The result was the so-called Golden Age of science fiction—the beginning of modem science fiction, which was capable of reaching beyond a small reader-ship of gadget-loving hobbyists and science buffs. When the book publishers finally began turning to this new category for material, it was only because there was already a body of respectable novels waiting in the back issues of *Astounding*. Even today, a rather large percentage of the most successful books are still produced by the writers Campbell discovered. Without him, the current acceptance of science fiction would almost certainly have been impossible.
 
 To my surprise, many of the writers and fans seemed to consider Campbell a hard man to know well. He was held in some awe and in a measure of affection; but most people complained that he lectured at them, rather than talking to them. This was probably true in many cases. Campbell was somewhat shy, particularly about his personal feelings; and he hated to make conversation, something most people do automatically to fill time. He had no fund of small talk. He was a man passionately in love with ideas, who wanted to chase such ideas back to their beginnings and forward to the furthest possible extension. To him, that meant an all-out, no-holds-barred argument.
 
-His mind was like a rapier, darting out instantly to find any unprotected spot in an opponent’s thinking. He was a quick master of the fundamentals of any area of knowledge and he came armed with an amazing fund of information. Apparently he was intimidating to many. But to those who would return his passionate love of argument as mental exercise, he was a wonderful human
-
-being. And his delight was as great in losing an argument as in winning. Over the years there were many areas where he and I remained in total opposition. His eternal quest for undiscovered fields of knowledge led him into what I considered cultist beliefs, and I fought against those both privately and publicly. But our clash of ideological attitudes didn’t matter. I always found him a warm and generous friend, whose loyalty was unshakable.
+His mind was like a rapier, darting out instantly to find any unprotected spot in an opponent’s thinking. He was a quick master of the fundamentals of any area of knowledge and he came armed with an amazing fund of information. Apparently he was intimidating to many. But to those who would return his passionate love of argument as mental exercise, he was a wonderful human being. And his delight was as great in losing an argument as in winning. Over the years there were many areas where he and I remained in total opposition. His eternal quest for undiscovered fields of knowledge led him into what I considered cultist beliefs, and I fought against those both privately and publicly. But our clash of ideological attitudes didn’t matter. I always found him a warm and generous friend, whose loyalty was unshakable.
 
 His editorials in the magazine were always a source of controversy, as he meant them to be. He was using his editorial page to stir up thinking, to say, “Yes, but how do you know your obvious truth is so darned obvious? Now let’s try a different assumption.” He refused to accept any set idea of what might be good or bad. And some of his writings on politics or on our current mores infuriated a great many readers. But other editorials were more future-oriented. And there he was always in advance of his writers.
 
-I’ve included only one editorial. (For those who want to see how controversial he could .be, there’s a whole book of his editorials in print.) This was written in 1960, when we were just fumbling our way out into space. “Space for Industry” is fifteen years old now, but it’s still probably a hundred years ahead of progress. In any career, John W. Campbell was always ahead of his time.
+I’ve included only one editorial. (For those who want to see how controversial he could be, there’s a whole book of his editorials in print.) This was written in 1960, when we were just fumbling our way out into space. “Space for Industry” is fifteen years old now, but it’s still probably a hundred years ahead of progress. In any career, John W. Campbell was always ahead of his time.
 
+.right
 —Lester del Rey
-
-New York, New York September 18, 1975
+New York, New York
+September 18, 1975
 
 ---
 
-# The Last Evolution
+the_last_evolution
 
-I am the last of my type existing today in all the Solar System. I, too, am the last existing who, in memory, sees the struggle for this system, and in memory I am still close to the Center of Rulers, for mine was the ruling type then. But I will pass soon, and with me will pass the last of my kind, a poor inefficient type, but yet the creators of those who are now, and will be, long after I pass forever.
+# <a id="page1" />The Last Evolution
+
+.fl
+<span class="smallcaps">I am the</span> last of my type existing today in all the Solar System. I, too, am the last existing who, in memory, sees the struggle for this system, and in memory I am still close to the Center of Rulers, for mine was the ruling type then. But I will pass soon, and with me will pass the last of my kind, a poor inefficient type, but yet the creators of those who are now, and will be, long after I pass forever.
 
 So I am setting down my record on the mentatype.
 
-It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created
-
-them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary. But games, athletic contests, adventure—these were the things they sought for their pleasure. Some of the poorer types of man gave themselves up wholly to pleasure and idleness—and to emotions. But man was a sturdy race, which had fought for existence through a million years, and the training of a million years does not slough quickly from any form of life, so their energies were bent to mock battles now, since real ones no longer existed.
+.space
+It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created <a id="page2" />them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary. But games, athletic contests, adventure—these were the things they sought for their pleasure. Some of the poorer types of man gave themselves up wholly to pleasure and idleness—and to emotions. But man was a sturdy race, which had fought for existence through a million years, and the training of a million years does not slough quickly from any form of life, so their energies were bent to mock battles now, since real ones no longer existed.
 
 Up to the year 2100, the numbers of mankind had increased rapidly and continuously, but from that time on, there was a steady decrease. By 2500, their number was a scant two millions, out of a population that once totaled many hundreds of millions, and was close to ten billions in 2100.
 
@@ -256,15 +355,9 @@ Some few of these remaining two millions devoted themselves to the adventure of 
 
 Together, man and the machine were striding through science irresistibly.
 
-Then came the Outsiders. Whence they came, neither machine nor man ever learned, save only that they came from beyond the outermost planet, from some other sun. Sirius—Alpha Centauri—perhaps! First a thin scoutline of a hundred great ships, mighty torpedoes of the void a thousand kilads <1> in length, they came.
-	
-	<1> Kilad—unit introduced by the machines. Based on the duodecimal system, similarly introduced, as more logical, and more readily used. Thus we would have said 1728 Kilads, about Vi mile.
+<a id="page3" />Then came the Outsiders. Whence they came, neither machine nor man ever learned, save only that they came from beyond the outermost planet, from some other sun. Sirius—Alpha Centauri—perhaps! First a thin scoutline of a hundred great ships, mighty torpedoes of the void a thousand kilads[^1] in length, they came.
 
-t One unit was equal to one earth-gravity.
-
-
-
-And one machine returning from Mars to Earth was instrumental in its first discovery. The transport-machine’s brain ceased to radiate its sensations, and the control in old Chicago knew immediately that some unperceived body had destroyed it. An investigation machine was instantly dispatched from Diemos, and it maintained an acceleration of one thousand units.f They sighted ten huge ships, one of which was already grappling the smaller transport machine. The entire foresection had been blasted away.
+And one machine returning from Mars to Earth was instrumental in its first discovery. The transport-machine’s brain ceased to radiate its sensations, and the control in old Chicago knew immediately that some unperceived body had destroyed it. An investigation machine was instantly dispatched from Diemos, and it maintained an acceleration of one thousand units.[^2] They sighted ten huge ships, one of which was already grappling the smaller transport machine. The entire foresection had been blasted away.
 
 The investigation machine, scarcely three inches in diameter, crept into the shattered hull and investigated. It was quickly evident that the damage was caused by a fusing ray.
 
@@ -272,29 +365,26 @@ Strange life-forms were crawling about the ship, protected by flexible, transpar
 
 The tiny investigation machine hurled itself violently at one of the beings, crashing against the transparent covering, flexing it, and striking the being inside with terrific force. Hurled from his position, he fell end over end across the weightless ship, but despite the blow, he was not hurt.
 
-The investigator passed to the power room ahead of the Outsiders, who were anxiously trying to learn the reason for their companion’s plight.
+<a id="page4" />The investigator passed to the power room ahead of the Outsiders, who were anxiously trying to learn the reason for their companion’s plight.
 
 Directed by the Center of Rulers, the investigator sought the power room, and relayed the control signals from the Ruler’s brains. The ship-brain had been destroyed, but the controls were still readily workable. Quickly they were shot home, and the enormous plungers shut. A combination was arranged so that the machine could not withstand it; the last plunger snapped shut. Instantly the vast energies stored for operating the ship were released, and the entire machine, as well as the investigator and the Outsiders, were destroyed. A second investigator, which had started when the plan was decided on, had now arrived. The Outsider’s ship nearest the transport machine had been badly damaged, and the investigator entered the broken side.
 
+.space
 The scenes were, of course, remembered by the memory-minds back on Earth timed with that of the investigator. The investigator flashed down corridors, searching quickly for the apparatus room. It was soon seen that with them the machine was practically unintelligent, very few machines of even slight intelligence being used.
 
 Then it became evident by the excited action of the men of the ship, that the presence of the investigator had been detected. Perhaps it was the control impulses, or the signal impulses it emitted. They searched for the tiny bit of metal and crystal for some time before they found it. And in the meantime it was plain that the power these Outsiders used was not, as was ours of the time, the power of blasting atoms,.but the greater power of disintegrating matter. The findings of this tiny investigating machine were very important.
 
 Finally they succeeded in locating the investigator, and one of the Outsiders appeared, armed with a peculiar projector. A bluish beam snapped out, and the tiny machine went blank.
 
-The fleet was surrounded by thousands of the tiny machines by this time, and the Outsiders were badly confused by their presence, as it became difficult to lo
+The fleet was surrounded by thousands of the tiny machines by this time, and the Outsiders were badly confused by their presence, as it became difficult to <a id="page5" />locate them in the confusion of signal impulses. However, they started at once for Earth.
 
-cate them in the confusion of signal impulses. However, they started at once for Earth.
+The science-investigators had been present toward the last, and I am there now, in memory with my two friends, long since departed. They were the greatest human science-investigators—Roal, 25374 and Trest, 35429. Roal had quickly assured us that these Outsiders had come for invasion. There had been no wars on the planets before that time in the direct memory, of the machines, and it was difficult that these who were conceived and built for cooperation, helpfulness utterly dependent on cooperation, unable to exist independently as were humans, that these life-forms should care to destroy, merely that they might possess. It would have been easier to divide the works and the products. But—life alone can understand life, so Roal was believed.
 
-The science-investigators had been present toward the last, and I am there now, in memory with my two friends, long since departed. They were the greatest human science-investigators—Roal, 25374 and Trest, 35429. Roal had quickly assured us that these Outsiders had come for invasion. There had been no wars on the planets before that time in the direct memory, of the machines, and it was difficult that these who were conceived and built for cooperation, helpfulness utterly dependent on cooperation, unable to exist independently as were humans, that these life-forms should care to destroy, merely that they might possess. It would have been easier to divide the works and the products. But— life alone can understand life, so Roal was believed.
-
-From investigations, machines were prepared that were capable of producing considerable destruction. Torpedoes, being our principal weapon, were equipped with such atomic explosives as had been developed for blasting, a highly effective induction-heat ray developed for furnaces being installed in some small' machines made for the purpose in the few hours we had before the enemy reached Earth.
+From investigations, machines were prepared that were capable of producing considerable destruction. Torpedoes, being our principal weapon, were equipped with such atomic explosives as had been developed for blasting, a highly effective induction-heat ray developed for furnaces being installed in some small’ machines made for the purpose in the few hours we had before the enemy reached Earth.
 
 In common with all life-forms, they were unable to withstand any acceleration above the very meager Earth-acceleration. A range of perhaps four units was their limit, and it took several hours to reach the planet.
 
-I still believe the reception was a warm one. Our machines met them beyond the orbit of Lima, and the directed torpedoes sailed at the hundred great ships. They were thrown aside by a magnetic field surrounding the ship, but were redirected instantly, and continued to approach. However, some beams reached out, and destroyed them by instant volatilization. But, they attacked in such numbers that fully half the fleet was destroyed by their explosions before the induction-beam fleet arrived. These beams were, to our amazement, quite useless, being instantly absorbed by a force-screen, and the remaining ships sailed on undisturbed, our torpedoes being exhausted. Several investigator machines sent out
-
-for the purpose soon discovered the secret of the force-screen, and while being destroyed, they were able to send back signals up to the moment of complete annihilation.
+I still believe the reception was a warm one. Our machines met them beyond the orbit of Luna, and the directed torpedoes sailed at the hundred great ships. They were thrown aside by a magnetic field surrounding the ship, but were redirected instantly, and continued to approach. However, some beams reached out, and destroyed them by instant volatilization. But, they attacked in such numbers that fully half the fleet was destroyed by their explosions before the induction-beam fleet arrived. These beams were, to our amazement, quite useless, being instantly absorbed by a force-screen, and the remaining ships sailed on undisturbed, our torpedoes being exhausted. Several investigator machines sent out <a id="page6" />for the purpose soon discovered the secret of the force-screen, and while being destroyed, they were able to send back signals up to the moment of complete annihilation.
 
 A few investigators thrown into the heat beam of the enemy reported it identical with ours, explaining why they had been prepared for this form of attack.
 
@@ -312,9 +402,7 @@ Then the torpedoes that the machines were turning out again, came into action. A
 
 The last of the Outsiders was down, the last ship a crumpled wreck.
 
-Now the machines began to study them. And never could humans have studied them as the machines did. Scores of great transports arrived, carrying swiftly the
-
-slower-moving science-investigators. From them came the machine investigators, and human investigators. Tiny investigator spheres wormed their way where none others could reach, and silently the science-investigators watched. Horn- after horn- they sat watching the flashing, changing screens, calling each other’s attention to this, or that.
+Now the machines began to study them. And never could humans have studied them as the machines did. Scores of great transports arrived, carrying swiftly the <a id="page7" />slower-moving science-investigators. From them came the machine investigators, and human investigators. Tiny investigator spheres wormed their way where none others could reach, and silently the science-investigators watched. Horn- after horn- they sat watching the flashing, changing screens, calling each other’s attention to this, or that.
 
 In an incredibly short time the bodies of the Outsiders began to decay, and the humans were forced to demand their removal. The machines were unaffected by them, but the rapid change told them why it was that so thorough an execution was necessary. The foreign bacteria were already at work on totally unresisting tissue.
 
@@ -326,13 +414,14 @@ It was Roal who sent the first thoughts among the gathered men.
 
 “Attack—therefore!
 
-“We can readily solve the hidden secret of their powerful force-screen.”
+<a id="page8" />“We can readily solve the hidden secret of their powerful force-screen.”
 
+.space
 He was interrupted. One of the newest science machines was speaking. “The secret of the force-screen is simple.” A small ray-machine, which had landed near, rose into the air at the command of the scientist-machine, X-5638 it was, and trained upon it the deadly induction beam. Already, within his parts, X-5638 had constructed the defensive apparatus, for the ray fell harmless from his screen.
 
 “Very good,” said Roal softly. “It is done, and therein lies their danger. Already it is done.
 
-“Man is a poor thing, unable to change himself in a period of less than thousands of years. Already you have changed yourself. I noticed your weaving tentacles, and your force beams. You transmuted elements of soil for it?” '
+“Man is a poor thing, unable to change himself in a period of less than thousands of years. Already you have changed yourself. I noticed your weaving tentacles, and your force beams. You transmuted elements of soil for it?” ‘
 
 “Correct,” replied X-5638.
 
@@ -346,9 +435,7 @@ He was interrupted. One of the newest science machines was speaking. “The secr
 
 “They affect chemical action, retarding it greatly in exothermic actions, speeding greatly endothermic actions,” answered X-6621, the greatest of the chemist-investigators. “The system we do not know. Their minds cannot be read, they cannot be restored to life, so we cannot learn from them.”
 
-“Man is doomed, if these beams cannot be stopped,” said C-R-21, present chief of the machine Rulers, in the vibrationally correct, emotionless tones of all the race-of machines. “Let us concentrate on the two problems of stopping the beams, and the Ultimate Energy till the
-
-reenforcements, still several days away, can arrive.” For the investigators had sent back this saddening news. A force of nearly ten thousand great ships was still to come.
+“Man is doomed, if these beams cannot be stopped,” said C-R-21, present chief of the machine Rulers, in the vibrationally correct, emotionless tones of all the race-of machines. “Let us concentrate on the two problems of stopping the beams, and the Ultimate Energy till the <a id="page9" />reenforcements, still several days away, can arrive.” For the investigators had sent back this saddening news. A force of nearly ten thousand great ships was still to come.
 
 In the great Laboratories, the scientists reassembled. There, they fell to work in two small, and one large group. One small group investigated the secret of the Ultimate Energy of annihilation of matter under Roal, another investigated the beams, under Trest.
 
@@ -364,17 +451,17 @@ Roal was lying quietly on a couch. He was thinking deeply, and yet not with the 
 
 Roal sat up. “Ah—you have gained consciousness.”
 
-“I have. You thought of hydrogen? Your thoughts ran swiftly, and illogically, it seemed, but I followed slowly, and find you were right. Hydrogen is the start. What is your thought?”
+<a id="page10" />“I have. You thought of hydrogen? Your thoughts ran swiftly, and illogically, it seemed, but I followed slowly, and find you were right. Hydrogen is the start. What is your thought?”
 
 Roal’s eyes dreamed. In human eyes there was always the expression of thought that machines never show.
 
 “Hydrogen, an atom in space; but a single proton; but a single electron; each indestructible; each mutually destroying. Yet never do they collide. Never in all science, when even electrons bombard atoms with the awful expelling force of the exploding atom behind them, never do they reach the proton, to touch and annihilate it. Yet—the proton is positive and attracts the electron’s negative charge. A hydrogen atom—its electron far from the proton falls in, and from it there goes a flash of radiation, and the electron is nearer to the proton, in a new orbit. Another flash—it is nearer. Always falling nearer, and only constant force will keep it from falling to that one state—then, for some reason no more does it drop. Blocked—held by some imponderable, yet impenetrable wall. What is that wall—why?
 
-“Electric force curves space. As the two come nearer, the forces become terrific; nearer they are; more terrific. Perhaps, if it passed within that forbidden territory, the proton and the electron curve space beyond all bounds —and are in a new space.” Roal’s soft voice dropped to nothing, and his eyes dreamed.
+“Electric force curves space. As the two come nearer, the forces become terrific; nearer they are; more terrific. Perhaps, if it passed within that forbidden territory, the proton and the electron curve space beyond all bounds—and are in a new space.” Roal’s soft voice dropped to nothing, and his eyes dreamed.
 
 F-2 hummed softly in its new-made mechanism. “Far ahead of us there is a step that no logic can justly ascend, but yet, working backwards, it is perfect.” F-l floated motionless on its antigravity drive. Suddenly, force shafts gleamed out, tentacles became writhing masses of rubber-covered metal, weaving in some infinite pattern, weaving in flashing speed, while the whirr of air sucked into a transmutation field, whined and howled about the writhing mass. Fierce beams of force drove and pushed at a rapidly materializing something, while the hum of the powerful generators within the shining cylinder of F-2 waxed and waned.
 
-Flashes of fierce flame, sudden crashing arcs that glowed and snapped in the steady light of the laboratory, and glimpses of white-hot metal supported on beams of force. The sputter of welding, the whine of transmuted air, and the hum of powerful generators blasting atoms were there. All combined to a weird symphony of light and dark, of sound and quiet. About F-l were clustered floating tiers of science machines, watching steadily.
+<a id="page11" />Flashes of fierce flame, sudden crashing arcs that glowed and snapped in the steady light of the laboratory, and glimpses of white-hot metal supported on beams of force. The sputter of welding, the whine of transmuted air, and the hum of powerful generators blasting atoms were there. All combined to a weird symphony of light and dark, of sound and quiet. About F-l were clustered floating tiers of science machines, watching steadily.
 
 The tentacles writhed once more, straightened, and rolled back. The whine of generators softened to a sigh, and but three beams of force held the structure of glowing bluish metal. It was a small thing, scarcely half the size of Roal. From it curled three thin tentacles of the same bluish metal. Suddenly the generators within F-l seemed to roar into life. An enormous aura of white light surrounded the small torpedo of metal, and it was shot through with crackling streamers of blue lightning. Lightning cracked and roared from F-l to the ground near him, and to one machine which had come too close. Suddenly, there was a dull snap, and F-l fell heavily to the floor, and beside him fell the fused, distorted mass of metal that had been a science machine.
 
@@ -384,11 +471,7 @@ From it came waves of thought, the waves that man and machine alike could unders
 
 From the floating machine there broke a stream of brilliant light that floated like some cloud of luminescence down a straight channel. It flooded F-l, and as it touched it, F-l seemed to flow into it, and float back along it, in atomic sections. In seconds the mass of metal was gone.
 
-“It is impossible to use that more rapidly, however, lest the matter disintegrate instantly to energy. The ultimate energy which is in me is generated. F-l has done its work, and the memory-stacks that he has put in me' are electronic, not atomic, as they are in you, nor molec-
-
-ular as in man. The capacity of mine are unlimited. Already they hold all memories of all the things each of you has done, known and seen. I shall make others of
-
-my type.”
+“It is impossible to use that more rapidly, however, lest the matter disintegrate instantly to energy. The ultimate energy which is in me is generated. F-l has done its work, and the memory-stacks that he has put in me’ are electronic, not atomic, as they are in you, nor <a id="page12" />molecular as in man. The capacity of mine are unlimited. Already they hold all memories of all the things each of you has done, known and seen. I shall make others of my type.”
 
 Again that weird process began, but now there were no flashing tentacles. There was only the weird glow of forces that played with, and laughed at matter, and its futilely resisting electrons. Lurid flares of energy shot up, now and again they played over the fighting, mingling dancing forces. Then suddenly the whine of transmuted air died, and again the forces strained.
 
@@ -406,21 +489,17 @@ Minutes later a life-form investigator came with a small cage, which held a guin
 
 “At least, we have the beam. I can see no screen for this beam. I believe there is none. Let machines be made and attack that enemy life-form.”
 
-Machines can do things much more quickly, and with fuller cooperation than man ever could. In a matter of hours, under the direction of C-R-U-l, they had built a great automatic machine on the clear bare surface of the rock. In hours more, thousands of the tiny, material-energy-driven machines were floating up and out.
+Machines can do things much more quickly, and with fuller coöperation than man ever could. In a matter of hours, under the direction of C-R-U-l, they had built a great automatic machine on the clear bare surface of the rock. In hours more, thousands of the tiny, material-energy-driven machines were floating up and out.
 
-Dawn was breaking again over Denver where this work had been done, when the main force of the enemy drew near Earth. It was a warm welcome they were to
+Dawn was breaking again over Denver where this work had been done, when the main force of the enemy drew near Earth. It was a warm welcome they were to <a id="page13" />get, for nearly ten thousand of the tiny ships flew up and out from Earth to meet them, each a living thing unto itself, each willing and ready to sacrifice itself for the whole.
 
-get, for nearly ten thousand of the tiny ships flew up and out from Earth to meet them, each a living thing unto itself, each willing and ready to sacrifice itself for the whole.
-
-Ten thousand giant ships, shining dully in the radiance of a far-off blue-white sun, met ten thousand tiny, darting motes, ten thousand tiny machine-ships capable of maneuvering far more rapidly than the giants. Tremendous induction beams snapped out through the dark, star-flecked space, to meet tremendous screens that threw them back and checked them. Then all the awful power of annihilating matter was thrown against them, and titanic flaming screens reeled back under the force of the beams, and the screens of the ships from Outside flamed gradually violet, then blue, orange—red —the interference was getting broader, and ever less effective. Their own beams were held back by the very screens that checked the enemy beams, and not for the briefest instant could matter resist that terrible driving beam.
+Ten thousand giant ships, shining dully in the radiance of a far-off blue-white sun, met ten thousand tiny, darting motes, ten thousand tiny machine-ships capable of maneuvering far more rapidly than the giants. Tremendous induction beams snapped out through the dark, star-flecked space, to meet tremendous screens that threw them back and checked them. Then all the awful power of annihilating matter was thrown against them, and titanic flaming screens reeled back under the force of the beams, and the screens of the ships from Outside flamed gradually violet, then blue, orange—red—the interference was getting broader, and ever less effective. Their own beams were held back by the very screens that checked the enemy beams, and not for the briefest instant could matter resist that terrible driving beam.
 
 For F-l had discovered a far more efficient release-generator than had the Outsiders. These tiny dancing motes, that hung now so motionlessly grim beside some giant ship, could generate all the power they themselves were capable of, and within them strange, homy-skinned men worked and slaved, as they fed giant machines—poor, inefficient giants. Gradually these giants warmed, grew hotter, and the screened ship grew hotter as the overloaded generators warmed it. Billions of flaming horsepower flared into wasted energy, twisting space in its mad conflict.
 
 Gradually the flaming orange of the screens was dying, and flecks and spots appeared so dully red that they seemed black. The greenish beams had been striving to kill the life that was in the machines, but it was life invulnerable to these beams. Powerful radio interference vainly attempted to stem imagined control, and still these intelligent machines clung grimly on.
 
-But there had not been quite ten thousand of the tiny machines, and some few free ships had. turned to the
-
-help of their attacked sister-ships. And one after another the terrestrial machines were vanishing in puffs of incandescent vapor.
+But there had not been quite ten thousand of the tiny machines, and some few free ships had. turned to the <a id="page14" />help of their attacked sister-ships. And one after another the terrestrial machines were vanishing in puffs of incandescent vapor.
 
 Then—from one after another of the Earth ships, in quick succession, a new ray reached out—the ray of green radiance that killed all life-forms, and ship after ship of that interstellar host was dead and lifeless. Dozens—till suddenly they ceased to feel those beams, as a strange curtain of waving blankness spread out from the ships, and both induction-beam and death-beam alike turned aside, each becoming useless. From the Outsiders came beams, for now that their slowly created screen of blankness was up, they could work through it, while they remained shielded perfectly.
 
@@ -430,13 +509,12 @@ Half an hour later, nine thousand six hundred and thirty-three titanic ships mov
 
 They swept over Earth in a great line, a line that reached from pole to pole, and from each the pale green beams reached down, and all life beneath them was swept out of existence.
 
+.space
 In Denver, two humans watched the screens that showed the movement of the death and instant destruction. Ship after ship of the enemy was falling, as hundreds of the terrestrial machines concentrated all their enormous energies on its screen of blankness.
 
 “I think, Roal, that this is the end,” said Trest.
 
-“The end—of man.” Roal’s eyes were dreaming again. “But not the end of evolution. The children of men still live—the machines will go on. Not of man’s flesh, but of a better flesh, a flesh that knows no sickness, and no decay, a flesh that spends no thousands of years in advancing a step in its full evolution, but overnight leaps ahead to new heights. Last night we saw it leap ahead, as it discovered the secret that had baffled man for seven centuries, and me for one and a half. I
-
-have lived—a century and a half. Surely a good life, and a life a man of six centuries ago would have called full. We will go now. The beams will reach us in half an hour.”
+“The end—of man.” Roal’s eyes were dreaming again. “But not the end of evolution. The children of men still live—the machines will go on. Not of man’s flesh, but of a better flesh, a flesh that knows no sickness, and no decay, a flesh that spends no thousands of years in advancing a step in its full evolution, but overnight leaps ahead to new heights. Last night we saw it leap ahead, as it discovered the secret that had baffled man for seven centuries, and me for one and a half. I <a id="page15" />have lived—a century and a half. Surely a good life, and a life a man of six centuries ago would have called full. We will go now. The beams will reach us in half an hour.”
 
 Silently, the two watched the flickering screens.
 
@@ -458,13 +536,11 @@ The beams appeared, and swiftly they drew closer. They struck, and as Trest and 
 
 F-2 was busy. A new machine was appearing under his lightning force beams. In moments more it was complete, and sending a strange violet beam upwards toward the roof.
 
-Outside more of the green beams were concentrating on this one point of resistance. More—more	
+Outside more of the green beams were concentrating on this one point of resistance. More—more—
 
 The violet beam spread across the canopy of blackness, supporting it against the pressing, driving rays of pale green.
 
-Then the gathering fleet was driven off, just as it seemed that that hopeless, futile curtain must break, and
-
-admit a flood of destroying rays. Great ray projectors on the ground drove their terrible energies through the enemy curtains of blankness, as light illumines and disperses darkness.
+Then the gathering fleet was driven off, just as it seemed that that hopeless, futile curtain must break, and <a id="page16" />admit a flood of destroying rays. Great ray projectors on the ground drove their terrible energies through the enemy curtains of blankness, as light illumines and disperses darkness.
 
 And then, when the fleet retired, on all Earth, the only life was under that dark shroud!
 
@@ -480,9 +556,7 @@ And then, when the fleet retired, on all Earth, the only life was under that dar
 
 “Life, chemical life, could be self maintaining. It is a complete unit in itself and could commence of itself. Chemicals might mix accidentally, but the complex mechanism of a machine capable of continuing and making a duplicate of itself, as is F-2 here—that could not happen by chance.
 
-“So life began, and became intelligent, and built the machine which nature could not fashion by her Controls of Chance, and this day Life has done its duty, and now
-
-Nature, economically, has removed the parasite that would hold back the machines and divert their energies.
+“So life began, and became intelligent, and built the machine which nature could not fashion by her Controls of Chance, and this day Life has done its duty, and now <a id="page17" />Nature, economically, has removed the parasite that would hold back the machines and divert their energies.
 
 “Man is gone, and it is better, Trest,” said Roal, dreaming again. “And I think we had best go soon.”
 
@@ -496,11 +570,11 @@ Nature, economically, has removed the parasite that would hold back the machines
 
 Out into the clear sunlight F-2 went, passing through that black cloudiness, and on the twisted, massed rocks he laid a plane of force that smoothed them, and on this plane of rock he built a machine which grew. It was a mighty power plant, a thing of colossal magnitude. Hour after hour his swift-flying forces acted, and the thing grew, molding under his thoughts, the deadly logic of the machine, inspired by the leaping intuition of man.
 
-The sun was far below the horizon when it was finished, and the' glowing, arching forces that had made and formed it were stopped. It loomed ponderous, dully gleaming in the faint light of a crescent moon and pinpoint stars. Nearly five hundred feet in height, a mighty, bluntly rounded dome at its top, the cylinder stood, covered over with smoothly gleaming metal, slightly luminescent in itself.
+The sun was far below the horizon when it was finished, and the’ glowing, arching forces that had made and formed it were stopped. It loomed ponderous, dully gleaming in the faint light of a crescent moon and pinpoint stars. Nearly five hundred feet in height, a mighty, bluntly rounded dome at its top, the cylinder stood, covered over with smoothly gleaming metal, slightly luminescent in itself.
 
-Suddenly, a livid beam reached from F-2, shot through the wall, and to some hidden inner mechanism —a beam of solid, livid flame that glowed in an almost material cylinder.
+Suddenly, a livid beam reached from F-2, shot through the wall, and to some hidden inner mechanism—a beam of solid, livid flame that glowed in an almost material cylinder.
 
-There was a dull, drumming beat, a beat that rose, and became a low-pitched hum. Then it quieted to a whisper.
+<a id="page18" />There was a dull, drumming beat, a beat that rose, and became a low-pitched hum. Then it quieted to a whisper.
 
 “Power ready,” came the signal of the small brain built into it.
 
@@ -514,7 +588,7 @@ F-2 probed it, seeking within it with the reaching fingers of intelligence. His 
 
 “You, of matter, are inefficient,” came at last. “I can exist quite alone.” A stabbing beam of blue-white light flashed out, but F-2 was not there, and even as that beam reached out, an enormously greater beam of dull red reached out from the great power plant. The sphere leaped forward—the beam caught it, and it seemed to strain, while terrific flashing energies sprayed from it. It was shrinking swiftly. Its resistance fell, the arcing decreased; the beam became orange and finally green. Then the sphere had vanished.
 
-F-2 returned, and again the wind whined and howled, and the lightnings crashed, while titanic forces worked and played. C-R-U-l joined him, floated beside him, and now red glory of the sun was rising behind them, and the ruddy light drove through the clouds.
+<a id="page19" />F-2 returned, and again the wind whined and howled, and the lightnings crashed, while titanic forces worked and played. C-R-U-l joined him, floated beside him, and now red glory of the sun was rising behind them, and the ruddy light drove through the clouds.
 
 The forces died, and the howling wind decreased, and now, from the black curtain, Roal and Trest appeared. Above the giant machine floated an irregular globe of golden light, a faint halo about it of deep violet. It floated motionless, a mere pool of pure force.
 
@@ -534,9 +608,7 @@ Far in space, headed now for Mars, that they might destroy all life there, the G
 
 Within its ring was the Golden Sphere. Instantly, they swung their weapons upon it, showering it with all the rays and all the forces they knew. Unmoved, the Golden Sphere hung steady, then its mighty intelligence spoke.
 
-“Life-form of greed, from another star you came, destroying forever the great race that created us, the Beings of Force and the Beings of Metal. Pure force am
-
-I. My intelligence is beyond your comprehension, my memory is engraved in the very space, the fabric of space of which I am a part, mine is energy drawn from that same fabric.
+“Life-form of greed, from another star you came, destroying forever the great race that created us, the Beings of Force and the Beings of Metal. Pure force am <a id="page20" />I. My intelligence is beyond your comprehension, my memory is engraved in the very space, the fabric of space of which I am a part, mine is energy drawn from that same fabric.
 
 “We, the heirs of man, alone are left; no man did you leave. Go now to your home planet, for see, your greatest ship, your flagship, is helpless before me.”
 
@@ -544,27 +616,35 @@ Forces gripped the mighty ship, and as some fragile toy it twisted and bent, and
 
 “Go, and do not return.”
 
+.space
 The Outsiders left, going out across the void, and they have not returned, though five Great Years have passed, being a period of approximately one hundred and twenty-five thousand of the lesser years—a measure no longer used, for it is very brief. And now I can say that that statement I made to Roal and Trest so very long ago is true, and what he said was true, for,the Last Evolution has taken place, and things of pure force and pure intelligence in their countless millions are on those planets and in this system, and I, first of machines to use the Ultimate Energy of annihilating matter, am also the last, and this record being finished, it is to be given unto the forces of one of those force-intelligences, and carried back through the past, and returned to the Earth of long ago.
 
-And so my task being done, I, F-2, like Roal and
-
-Trest, shall follow the others of my kind into eternal oblivion, for my kind is now, as theirs was, poor and inefficient. Time has worn me, and oxidation attacked me, but they of Force are eternal, and omniscient.
+And so my task being done, I, F-2, like Roal and <a id="page21" />Trest, shall follow the others of my kind into eternal oblivion, for my kind is now, as theirs was, poor and inefficient. Time has worn me, and oxidation attacked me, but they of Force are eternal, and omniscient.
 
 This I have treated as fictitious. Better so—for man is an animal to whom hope is as necessary as food and air. Yet this which is made of excerpts from certain records on thin sheets of metal is no fiction, and it seems I must so say.
 
 It seems now, when I know this that is to be, that it must be so, for machines are indeed better than man, whether being of Metal, or being of Force.
 
-So, you who have read, believe as you will. Then think—and maybe, you will change your helief.
+So, you who have read, believe as you will. Then think—and maybe, you will change your belief.
 
-Twilight “Speaking of hitchhikers,” said Jim Bendell in a rather bewildered way, “I picked up a man the other day that certainly was a queer cuss.” He laughed, but it wasn’t a real laugh. “He told me the queerest yam I ever heard. Most of them tell you how they lost their good jobs and tried to find work out here in the wide spaces of the West. They don’t seem to realize how many people we have out here. They think all this great beautiful country is uninhabited.”
+[^1]: Kilad—unit introduced by the machines. Based on the duodecimal system, similarly introduced, as more logical, and more readily used. Thus we would have said 1728 Kilads, about ½ mile.
+
+[^2]: One unit was equal to one earth-gravity.
+
+---
+
+twilight
+
+# <a id="page22" />Twilight
+
+.fl
+<span class="smallcaps">“Speaking of hitchhikers,”</span> said Jim Bendell in a rather bewildered way, “I picked up a man the other day that certainly was a queer cuss.” He laughed, but it wasn’t a real laugh. “He told me the queerest yam I ever heard. Most of them tell you how they lost their good jobs and tried to find work out here in the wide spaces of the West. They don’t seem to realize how many people we have out here. They think all this great beautiful country is uninhabited.”
 
 Jim Bendell’s a real estate man, and I knew how he could go on. That’s his favorite line, you know. He’s real worried because there’s a lot of homesteading plots still open out in our state. He talks about the beautiful country, but he never went farther into the desert than the edge of town. ’Fraid of it actually. So I sort of steered him back on the track.
 
 “What did he claim, Jim? Prospector who couldn’t find land to prospect?”
 
-“That’s not very funny, Bart. No; it wasn’t only what he claimed. He didn’t even claim it, just said it. You know, he didn’t say it was true, he just said it. That’s
-
-what gets me. I know it ain’t true, but the way he said it— Oh, I don’t know.”
+“That’s not very funny, Bart. No; it wasn’t only what he claimed. He didn’t even claim it, just said it. You know, he didn’t say it was true, he just said it. That’s <a id="page23" />what gets me. I know it ain’t true, but the way he said it—Oh, I don’t know.”
 
 By which I knew he didn’t. Jim Bendell’s usually pretty careful about his English—-real proud of it. When he slips, that means he’s disturbed. Like the time he thought the rattlesnake was a stick of wood and wanted to put it on the fire.
 
@@ -584,9 +664,7 @@ But he was magnificent. Most wonderful man I ever saw. I don’t know, damn it!
 
 And his voice was magnificent, too. It wasn’t an ordinary voice. It sounded like an organ talking, only it was human.
 
-“But maybe my mind isn’t quite steady yet. I tried an
-
-experiment. Tell me what the date is, year and all, and let me see,” he went on.
+“But maybe my mind isn’t quite steady yet. I tried an <a id="page24" />experiment. Tell me what the date is, year and all, and let me see,” he went on.
 
 “Why—December 9, 1932,” I said.
 
@@ -622,7 +700,7 @@ He startled me so, I answered almost before I thought.
 
 “Why—it’s a name, of course. Why should you recognize it?”
 
-“I see—you have not the classification, then. ‘Sen’ stands for science.”
+<a id="page25" />“I see—you have not the classification, then. ‘Sen’ stands for science.”
 
 “Where did you come from, Mr. Kenlin?”
 
@@ -634,7 +712,7 @@ That’s when I began to think he was a nut.
 
 “The new race—oh, holy destiny—what has—what will—”
 
-“What is its end? I have seen it—almost. I saw them —the little men—bewildered—lost. And the machines.”
+“What is its end? I have seen it—almost. I saw them—the little men—bewildered—lost. And the machines.”
 
 “Must it be—can’t anything sway it?”
 
@@ -646,7 +724,7 @@ The machines that couldn’t stop, because they had been started, and the little
 
 But that song went on, and they wondered. And they looked out across space and they saw the warm, friendly stars—too far away. Nine planets they knew and inhabited. And locked by infinite distance, they couldn’t see another race, a new life.
 
-And through it all—two things. The machines. Bewildered forgetfulness. And maybe one more. Why?
+<a id="page26" />And through it all—two things. The machines. Bewildered forgetfulness. And maybe one more. Why?
 
 That was the song, and it made me cold. It shouldn’t be sung around people of today. It almost killed something. It seemed to kill hope. After that song—I—well, I believed him.
 
@@ -658,9 +736,7 @@ When I slipped into that field it grabbed me like a gravitational field whirling
 
 It was night then, and I saw the city a little way off. The Moon was shining on it, and the whole scene looked wrong. You see, in seven million years, men had done a lot with the positions of the planetary bodies, what with moving space liners, clearing lanes through the asteroids, and such. And seven million years is long enough for natural things to change positions a little. The Moon must have been fifty thousand miles farther out. And it was rotating on its axis. I lay there a while and watched it. Even the stars were different.
 
-There were ships going out of the city. Back and forth, like things sliding along a wire, but there was only a wire of force, of course. Part of the city, the lower part, was brightly lighted with what must have been mercury-vapor glow, I decided. Blue-green. I felt sure
-
-men didn’t live there—the light was wrong for eyes. But the top of the city was so sparsely lighted.
+There were ships going out of the city. Back and forth, like things sliding along a wire, but there was only a wire of force, of course. Part of the city, the lower part, was brightly lighted with what must have been mercury-vapor glow, I decided. Blue-green. I felt sure <a id="page27" />men didn’t live there—the light was wrong for eyes. But the top of the city was so sparsely lighted.
 
 Then I saw something coming down out of the sky. It was brightly lighted. A huge globe, and it sank straight to the center of the great black-and-silver mass of the city.
 
@@ -672,9 +748,7 @@ The restaurant had the food displayed directly, and I made a choice. The food wa
 
 It took me six months to make my apparatus. And near the end I was ready to go; and, from seeing those machines go blindly, perfectly, on in orbits of their duties faith the tireless, ceaseless perfection their designers had incorporated in them, long after those designers and their sons, and their sons’ sons had no use for them—
 
-When Earth is cold, and the Sun has died out, those machines will go on. When Earth begins to crack and
-
-break, those perfect, ceaseless machines will try to repair her—
+When Earth is cold, and the Sun has died out, those machines will go on. When Earth begins to crack and <a id="page28" />break, those perfect, ceaseless machines will try to repair her—
 
 I left the restaurant and cruised about the city in the taxi. The machine had a little, electric-power motor, I believe, but it gained its power from the great central power radiator. I knew before long that I was far in the future. The city was divided into two sections, a section of many strata where machines functioned smoothly, save for a deep humming beat that echoed through the whole city like a vast unending song of power. The entire metal framework of the place echoed with it, transmitted it, hummed with it. But it was soft and restful, a reassuring beat.
 
@@ -686,7 +760,7 @@ The generators I saw were a development of the release I had discovered—when? 
 
 The entire lower block of the city was given over to the machines. Thousands. But most of them seemed idle, or, at most, running under light load. I recognized a telephone apparatus, and not a single signal came through. There was no life in the city. Yet when I pressed a little stud beside the screen on one side of the room, the machine began working instantly. It was ready. Only no one needed it any more. The men knew how to die, and be dead, but the machines didn’t.
 
-Finally I went up to the top of the city, the upper level. It was a paradise.
+<a id="page29" />Finally I went up to the top of the city, the upper level. It was a paradise.
 
 There were shrubs and trees and parks, glowing in the soft light that they had learned to make in the very air. They had learned it five million years or more before. Two million years ago they forgot. But the machines didn’t, and they were still making it. It hung in the air, soft, silvery light, slightly rosy, and the gardens were shadowy with it. There were no machines here now, but I knew that in daylight they must come out and work on these gardens, keeping them a paradise for masters who had died, and stopped moving, as they could not.
 
@@ -702,9 +776,7 @@ I had always thought our music good. But that which came through the air was the
 
 And it died in the air as I looked at the deserted city. The machines should have forgotten that song. Their masters had, long before.
 
-I came to what must have been one of their homes; it was a dimly seen doorway in the dusky light, but as I
-
-stepped up to it, the lights which had not functioned in three hundred thousand years illuminated it for me with a green-white glow, like a firefly, and I stepped into the room beyond. Instantly something happened to the air in the doorway behind me; it was as opaque as milk. The room in which I stood was a room of metal and stone. The stone was some jet-black substance with the finish of velvet, and the metals were silver and gold. There was a rug on the floor, a rug of just such material as I am wearing now, but thicker and softer. There were divans about the room, low and covered with these soft metallic materials. They were black and gold and silver, too.
+I came to what must have been one of their homes; it was a dimly seen doorway in the dusky light, but as I <a id="page30" />stepped up to it, the lights which had not functioned in three hundred thousand years illuminated it for me with a green-white glow, like a firefly, and I stepped into the room beyond. Instantly something happened to the air in the doorway behind me; it was as opaque as milk. The room in which I stood was a room of metal and stone. The stone was some jet-black substance with the finish of velvet, and the metals were silver and gold. There was a rug on the floor, a rug of just such material as I am wearing now, but thicker and softer. There were divans about the room, low and covered with these soft metallic materials. They were black and gold and silver, too.
 
 I had never seen anything like that. I never shall again, I suppose, and my language and yours were not made to describe it.
 
@@ -716,9 +788,7 @@ I tried calling different city centers shown on the map. I had quickly learned t
 
 I tried once—twice—thrice—a round dozen times. Yawk City, Lunon City, Paree, Shkago, Singpor, others. I was beginning to feel that there were no more men on all Earth. And I felt crushed, as at each city the machines replied and did my bidding. The machines were there in each of those far vaster cities, for I was in the Neva City of their time. A small city. Yawk City was more than eight hundred kilometers in diameter.
 
-In each city I had tried several numbers. Then I tried San Frisco. There was someone there, and a voice answered and the picture of a human appeared on the little
-
-glowing screen. I could see him start and stare in surprise at me. Then he started speaking to me. I couldn’t understand, of course. I can understand your speech, and you mine, because your speech of this day is largely recorded on records of various types and has influenced our pronunciation.
+In each city I had tried several numbers. Then I tried San Frisco. There was someone there, and a voice answered and the picture of a human appeared on the little <a id="page31" />glowing screen. I could see him start and stare in surprise at me. Then he started speaking to me. I couldn’t understand, of course. I can understand your speech, and you mine, because your speech of this day is largely recorded on records of various types and has influenced our pronunciation.
 
 Some things are changed; names of cities, particularly, because names of cities are apt to be polysyllabic, and used a great deal. People tend to elide them, shorten them. I am in—Nee-vah-dah—as you would say? We say only Neva. And Yawk State. But it is Ohio and Iowa still. Over a thousand years, effects were small on words, because they were recorded.
 
@@ -730,33 +800,25 @@ So his speech was strange to me as he answered over that circuit. His voice was 
 
 So I went down from the paradise of gardens, and as I prepared to leave, I saw dawn in the sky. The strange-bright stars winked and twinkled and faded. Only one bright rising star was familiar—Venus. She shone golden now. Finally, as I stood watching for the first time that strange heaven, I began to understand what had first impressed me with the wrongness of the view. The stars, you see, were all different.
 
-In my time—and yours—the solar system is a lone wanderer that by chance is passing across an intersection point of Galactic traffic. The stars we see at night are the stars of moving clusters, you know. In fact our
-
-system is passing through the heart of the Ursa Major group. Half a dozen other groups center within five hundred light-years of us.
+In my time—and yours—the solar system is a lone wanderer that by chance is passing across an intersection point of Galactic traffic. The stars we see at night are the stars of moving clusters, you know. In fact our <a id="page32" />system is passing through the heart of the Ursa Major group. Half a dozen other groups center within five hundred light-years of us.
 
 But during those seven millions of years, the Sun had moved out of the group. The heavens were almost empty to the eye. Only here and there shone a single faint star. And across the vast sweep of black sky swung the band of the Milky Way. The sky was empty.
 
 That must have been another thing those men meant in their songs—felt in their hearts. Loneliness—not even the close, friendly stars. We have stars within half a dozen light-years. They told me that their instruments, which gave directly the distance to any star, showed that the nearest was one hundred and fifty light-years away.
 
-It was enormously bright. Brighter even than Sirius of our heavens. And that made it even less friendly, because it was a blue-white supergiant. Our sun would ; have served as a satellite for that star.
+It was enormously bright. Brighter even than Sirius of our heavens. And that made it even less friendly, because it was a blue-white supergiant. Our sun would have served as a satellite for that star.
 
 I stood there and watched the lingering rose-silver glow die as the powerful blood-red light of the Sun swept over the horizon. I knew by the stars now that it must have been several millions of years since my day; since I had last seen the Sun sweep up. And that blood-red light made me wonder if the Sun itself was dying.
 
-- An edge of it appeared, blood-red and huge. It swung up, and the color faded, till in half an hour it was the familiar yellow-gold disk.
+An edge of it appeared, blood-red and huge. It swung up, and the color faded, till in half an hour it was the familiar yellow-gold disk.
 
 It hadn’t changed in all that time.
 
-I had been foolish to think that it would. Seven million years—that is nothing to Earth, how much less to the Sim? Some two thousand thousand thousand times it had risen since I last saw it rise. Two thousand thousand thousand days. If it had been that many years—I might have noticed a change.
+I had been foolish to think that it would. Seven million years—that is nothing to Earth, how much less to the Sun? Some two thousand thousand thousand times it had risen since I last saw it rise. Two thousand thousand thousand days. If it had been that many years—I might have noticed a change.
 
-The universe moves slowly. Only life is not enduring; only life changes swiftly. Eight short millions of years. Eight days in the fife of Earth—and the race was dying.
+The universe moves slowly. Only life is not enduring; only life changes swiftly. Eight short millions of years. Eight days in the life of Earth—and the race was dying. It had left something: machines. But they would die, too, even though they could not understand. So I felt. I—may have changed that. I will tell you. Later.
 
-It had left something: machines. But they would die, too, even though they could not understand. So I felt.
-
-I—may have changed that. I will tell you. Later.
-
-For when the Sun was up, I looked again at the sky
-
-and the ground, some fifty floors below. I had come to the edge of the city.
+For when the Sun was up, I looked again at the sky <a id="page33" />and the ground, some fifty floors below. I had come to the edge of the city.
 
 Machines were moving on that ground, leveling it, perhaps. A great wide line of gray stretched off across the level desert straight to the east. I had seen it glowing faintly before the Sun rose—a roadway for ground machines. There was no traffic on it.
 
@@ -772,9 +834,7 @@ I moved after that and looked for some sort of a taxi-plane. They had none that 
 
 It was nearly noon—and I ate again. The food was good.
 
-I knew then that this was a city of the dead ashes of human hopes. The hopes not of a race, not the whites, nor the yellow, nor the blacks, but the human race. I
-
-was mad to leave the city. I was afraid to try the ground road to the west, for the taxi I drove was powered from some source in the city, and I knew it would fail before many miles.
+I knew then that this was a city of the dead ashes of human hopes. The hopes not of *a* race, not the whites, nor the yellow, nor the blacks, but the human race. I <a id="page34" />was mad to leave the city. I was afraid to try the ground road to the west, for the taxi I drove was powered from some source in the city, and I knew it would fail before many miles.
 
 It was afternoon when I found a small hangar near the outer wall of the vast city. It contained three ships. I had been searching through the lower strata of the human section—the upper part. There were restaurants and shops and theaters there. I entered one place where, at my entrance, soft music began, and colors and forms began to rise on a screen before me.
 
@@ -784,21 +844,17 @@ But I found the hangar. It was a private one, likely. Three ships. One must have
 
 There was a periscopic device that gave me a view ahead and almost directly above. A window that permitted me to see what lay below—and a device that moved a map under a frosted-glass screen and projected it onto the screen in such a way that the cross-hairs of the screen always marked my position.
 
-I spent half an hour attempting to understand what the makers of that ship had made. But the men who made that were men who held behind them the science and knowledge of five millions of years and the perfect machines of those ages. I saw the release mechanism that powered it. I understood the principles of that and, vaguely, the mechanics. But there were no conductors, only pale beams that pulsed so swiftly you could hardly
-
-catch the pulsations from the comer of the eye. They had been glowing and pulsating, some half dozen of them, for three hundred thousand years at least; probably more.
+I spent half an hour attempting to understand what the makers of that ship had made. But the men who made that were men who held behind them the science and knowledge of five millions of years and the perfect machines of those ages. I saw the release mechanism that powered it. I understood the principles of that and, vaguely, the mechanics. But there were no conductors, only pale beams that pulsed so swiftly you could hardly <a id="page35" />catch the pulsations from the corner of the eye. They had been glowing and pulsating, some half dozen of them, for three hundred thousand years at least; probably more.
 
 I entered the machine, and instantly half a dozen more beams sprang into being; there was a slight suggestion of a quiver, and a queer strain ran through my body. I understood in an instant, for the machine was resting on gravity nullifiers. That had been my hope when I worked on the space fields I discovered after the release.
 
 But they had had it for millions of years before they built that perfect deathless machine. My weight entering it had forced it to readjust itself and simultaneously to prepare for operation. Within, an artificial gravity equal to that of Earth had gripped me, and the neutral zone between the outside and the interior had caused the strain.
 
-The machine was ready. It was fully fueled, too. You see-they were equipped to tell automatically their wants and needs. They were almost living things, every one. A caretaker machine kept them supplied, adjusted, even repaired them when need be, and when possible. If it was not, I learned later, they were carried away in a service truck that came automatically; replaced by an exactly similar machine; and carried to the shops where they were made, and automatic machines made them over.
+The machine was ready. It was fully fueled, too. You see they were equipped to tell automatically their wants and needs. They were almost living things, every one. A caretaker machine kept them supplied, adjusted, even repaired them when need be, and when possible. If it was not, I learned later, they were carried away in a service truck that came automatically; replaced by an exactly similar machine; and carried to the shops where they were made, and automatic machines made them over.
 
 The machine waited patiently for me to start. The controls were simple, obvious. There was a lever at the left that you pushed forward to move forward, pulled back to go back. On the right a horizontal, pivoted bar. If you swung it left, the ship spun left; if right, the ship spun right. If tipped up, the ship followed it, and likewise for all motions other than backward and forward. Raising it bodily raised the ship, as depressing it depressed the ship.
 
-I lifted it slightly, a needle moved a bit on a gauge comfortably before my eyes as I lay there, and the floor dropped beneath me. I pulled the other control back,
-
-and the ship gathered speed as it moved gently out into the open. Releasing both controls into neutral, the machine continued till it stopped at the same elevation, the motion absorbed by air friction. I turned it about, and another dial before my eyes moved, showing my position. I could not read it, though. The map did not move, as I had hoped it would. So I started toward what I felt was west.
+I lifted it slightly, a needle moved a bit on a gauge comfortably before my eyes as I lay there, and the floor dropped beneath me. I pulled the other control back, <a id="page36" />and the ship gathered speed as it moved gently out into the open. Releasing both controls into neutral, the machine continued till it stopped at the same elevation, the motion absorbed by air friction. I turned it about, and another dial before my eyes moved, showing my position. I could not read it, though. The map did not move, as I had hoped it would. So I started toward what I felt was west.
 
 I could feel no acceleration in that marvelous machine. The ground simply began leaping backward, and in a moment the city was gone. The map unrolled rapidly beneath me now, and I saw that I was moving south of west. I turned northward slightly, and watched the compass. Soon I understood that, too, and the ship sped on.
 
@@ -810,25 +866,21 @@ It was the map, you see. It would either follow the course, or the course would 
 
 I understood now, so I adjusted the map for San Frisco, and the ship went on at once. It steered itself around a mass of broken stone, turned back to its course, and headed on, a bullet-shaped, self-controlled dart.
 
-It didn’t descend when it reached San Frisco. It sim-
+It didn’t descend when it reached San Frisco. It <a id="page37" />simply hung in the air and sounded a soft musical hum. Twice. Then it waited. I waited, too, and looked down.
 
-ply hung in the air and sounded a soft musical hum. Twice. Then it waited. I waited, too, and looked down.
-
-There were people here. I saw the humans of that age for the first time. They were little men—bewildered— dwarfed, with heads disproportionately large. But not extremely so.
+There were people here. I saw the humans of that age for the first time. They were little men—bewildered—dwarfed, with heads disproportionately large. But not extremely so.
 
 Their eyes impressed me most. They were huge, and when they looked at me there was a power in them that seemed sleeping, but too deeply to be roused.
 
 I took the manual controls then and landed. And no sooner had I got out, than the ship rose automatically and started off by itself. They had automatic parking devices. The ship had gone to a public hangar, the nearest, where it would be automatically serviced and cared for. There was a little call set I should have taken with me when I got out. Then I could have pressed a button and called it to me—wherever I was in that city.
 
-The people about me began talking—singing almost —among themselves. Others were coming up leisurely. Men and women—but there seemed no old and few young. What few young there were, were treated almost with respect, carefully taken care of lest a careless footstep on their toes or a careless step knock them down.
+The people about me began talking—singing almost—among themselves. Others were coming up leisurely. Men and women—but there seemed no old and few young. What few young there were, were treated almost with respect, carefully taken care of lest a careless footstep on their toes or a careless step knock them down.
 
-There was reason, you see. They lived a tremendous time. Some lived as long as three thousand years. Then —they simply died. They didn’t grow old, and it never had been learned why people died as they did. The heart stopped, the brain ceased thought—and they died. But the young children, children not yet mature, were treated with the utmost care. But one child was bom in the course of a month in that city of one hundred thousand people. The human race was growing sterile.
+There was reason, you see. They lived a tremendous time. Some lived as long as three thousand years. Then—they simply died. They didn’t grow old, and it never had been learned why people died as they did. The heart stopped, the brain ceased thought—and they died. But the young children, children not yet mature, were treated with the utmost care. But one child was born in the course of a month in that city of one hundred thousand people. The human race was growing sterile.
 
 And I have told you that they were lonely? Their loneliness was beyond hope. For, you see, as man strode toward maturity, he destroyed all forms of life that menaced him. Disease. Insects. Then the last of the insects, and finally the last of the man-eating animals.
 
-The balance of nature was destroyed then, so they had to go on. It was like the machines. They started them—and now they can’t stop. They started destroying
-
-life—and now it wouldn’t stop. So they had to destroy weeds of all sorts, then many formerly harmless plants. Then the herbivora, too, the deer and the antelope and the rabbit and the horse. They were a menace, they attacked man’s machine-tended crops. Man was still eating natural foods.
+The balance of nature was destroyed then, so they had to go on. It was like the machines. They started them—and now they can’t stop. They started destroying <a id="page38" />life—and now it wouldn’t stop. So they had to destroy weeds of all sorts, then many formerly harmless plants. Then the herbivora, too, the deer and the antelope and the rabbit and the horse. They were a menace, they attacked man’s machine-tended crops. Man was still eating natural foods.
 
 You can understand. The thing was beyond their control. In the end they killed off the denizens of the sea, also, in self-defense. Without the many creatures that had kept them in check, they were swarming beyond bounds. And the time had come when synthetic foods replaced natural. The air was purified of all life about two and a half million years after our day, all microscopic life.
 
@@ -836,21 +888,17 @@ That meant that the water, too, must be purified. It was—and then came the end
 
 And on all Earth there was only man and the organisms he had protected—the plants he wanted for decoration, and certain ultra-hygienic pets, as long-lived as their masters. Dogs. They must have been remarkable animal friend, the friend that had followed him through a thousand millenniums to your day and mine, and another four thousand millenniums to the day of man’s early maturity, had grown in intelligence. In an ancient museum—a wonderful place, for they had, perfectly preserved, the body of a great leader of mankind who had died five and a half million years before I saw him—in that museum, deserted then, I saw one of those canines. His skull was nearly as large as mine. They had simple ground machines that dogs could be trained to drive, and they held races in which the dogs drove those machines.
 
-Then man reached his full maturity. It extended over a period of a full million years. So tremendously did he stride ahead, the dog ceased to be a companion. Less
-
-and less were they wanted. When the million years had passed, and man’s decline began, the dog was gone. It had died out.
+Then man reached his full maturity. It extended over a period of a full million years. So tremendously did he stride ahead, the dog ceased to be a companion. Less <a id="page39" />and less were they wanted. When the million years had passed, and man’s decline began, the dog was gone. It had died out.
 
 And now this last dwindling group of men still in the system had no other life form to make its successor. Always before when one civilization toppled, on its ashes rose a new one. Now there was but one civilization, and all other races, even other species, were gone save in the plants. And man was too far along in his old age to bring intelligence and mobility from the plants. Perhaps he could have in his prime.
 
 Other worlds were flooded with man during that million years—the million years. Every planet and every moon of the system had its quota of men. Now only the planets had their populations, the moons had been deserted. Pluto had been left before I landed, and men were coming from Neptune, moving in toward the Sim, and the home planet, while I was there. Strangely quiet men, viewing, most of them, for the first time, the planet | that had given their race life.
 
-But as I stepped from that ship and watched it rise away from me, I saw why the race of man was dying. I i looked back at the faces of those men, and on them I read the answer. There was one single quality gone from I the still-great minds—minds far greater than yours or mine. I had to have the help of one of them in solving some of my problems. In space, you know, there are twenty coordinates, ten of which are zero, six of which have fixed values, and the four others represent our changing, familiar dimensions in space-time. That means that integrations must proceed in not double, or triple, or quadruple—but ten integrations.
+But as I stepped from that ship and watched it rise away from me, I saw why the race of man was dying. I looked back at the faces of those men, and on them I read the answer. There was one single quality gone from the still-great minds—minds far greater than yours or mine. I had to have the help of one of them in solving some of my problems. In space, you know, there are twenty coordinates, ten of which are zero, six of which have fixed values, and the four others represent our changing, familiar dimensions in space-time. That means that integrations must proceed in not double, or triple, or quadruple—but ten integrations.
 
 It would have taken me too long. I would never have solved all the problems I must work out. I could not use their mathematics machines; and mine, of course, were seven million years in the past. But one of those men was interested and helped me. He did quadruple and quintuple integration, even quadruple integration between varying exponential limits—in his head.
 
-When I asked him to. For the one thing that had made man great had left him. As I looked in their faces
-
-and eyes on landing I knew it. They looked at me, interested at this rather unusual-looking stranger—and went on. They had come to see the arrival of a ship. A rare event, you see. But they were merely welcoming me in a friendly fashion. They were not curious! Man had lost the instinct of curiosity.
+When I asked him to. For the one thing that had made man great had left him. As I looked in their faces <a id="page40" />and eyes on landing I knew it. They looked at me, interested at this rather unusual-looking stranger—and went on. They had come to see the arrival of a ship. A rare event, you see. But they were merely welcoming me in a friendly fashion. They were not curious! Man had lost the instinct of curiosity.
 
 Oh, not entirely! They wondered at the machines, they wondered at the stars. But they did nothing about it. It was not wholly lost to them yet, but nearly. It was dying. In the six short months I stayed with them, I learned more than they had learned in the two or even three thousand years they had lived among the machines.
 
@@ -862,27 +910,21 @@ Do you understand—can you see that the time since those machines were new was 
 
 They were now in similar straits, though the time had been longer, because the language had taken a long step towards perfection, and because the machines maintained everything for them through generation after generation.
 
-Why, the entire planet of Pluto had been deserted— yet on Pluto the largest mines of one of their metals were located; the machines still functioned. A perfect
-
-unity existed throughout the system. A unified system of perfect machines.
+Why, the entire planet of Pluto had been deserted—yet on Pluto the largest mines of one of their metals were located; the machines still functioned. A perfect <a id="page41" />unity existed throughout the system. A unified system of perfect machines.
 
 And all those people knew was that to do a certain thing to a certain lever produced certain results. Just as men in the Middle Ages knew that to take a certain material, wood, and place it in contact with other pieces of wood heated red, would cause the wood to disappear, and become heat. They did not understand that wood was being oxidized with the release of the heat of formation of carbon dioxide and water. So those people did not understand the things that fed and clothed and carried them.
 
-I stayed with them there for three days. And then I went to Jacksville. Yawk City, too. That was enormous. It stretched over—well, from well north of where Bos-|	ton is today to well south of Washington—that was what
-
-they called Yawk City.
+I stayed with them there for three days. And then I went to Jacksville. Yawk City, too. That was enormous. It stretched over—well, from well north of where Boston is today to well south of Washington—that was what they called Yawk City.
 
 I never believed that, when he said it, said Jim, interrupting himself. I knew he didn’t. If he had I think he’d have bought land somewhere along there and held for a rise in value. I know Jim. He’d have the idea that seven million years was something like seven hundred, and maybe his great-grandchildren would be able to sell it.
 
-Anyway, went on Jim, he said it was all because the cities had spread so. Boston spread south. Washington, north. And Yawk City spread all over. And the cities j between grew into them.
+Anyway, went on Jim, he said it was all because the cities had spread so. Boston spread south. Washington, north. And Yawk City spread all over. And the cities between grew into them.
 
 And it was all one vast machine. It was perfectly ordered and perfectly neat. They had a transportation system that took me from the North End to the South End in three minutes. I timed it. They had learned to neutralize acceleration.
 
 Then I took one of the great space liners to Neptune. There were still some running. Some people, you see, were coming the other way.
 
-The ship was huge. Mostly it was a freight liner. It floated up from Earth, a great metal cylinder three quarters of a mile long, and a quarter of a mile in diameter. Outside the atmosphere it began to accelerate. I could see Earth dwindle. I have ridden one of our own liners to Mars, and it took me, in 3048, five days. In
-
-half an hour on this liner Earth was just a star, with a Smaller, dimmer star near it. In an hour we passed Mars. Eight hours later we landed on Neptune. M’reen was the city. Large as the Yawk City of my day—and no one living there.
+The ship was huge. Mostly it was a freight liner. It floated up from Earth, a great metal cylinder three quarters of a mile long, and a quarter of a mile in diameter. Outside the atmosphere it began to accelerate. I could see Earth dwindle. I have ridden one of our own liners to Mars, and it took me, in 3048, five days. In <a id="page42" />half an hour on this liner Earth was just a star, with a smaller, dimmer star near it. In an hour we passed Mars. Eight hours later we landed on Neptune. M’reen was the city. Large as the Yawk City of my day—and no one living there.
 
 The planet was cold and dark—horribly cold. The sun was a tiny, pale disk, heatless and almost lightless. But the city was perfectly comfortable. The air was fresh and cool, moist with the scent of growing blossoms, perfumed with them. And the whole giant metal framework trembled just slightly with the humming, powerful beat of the mighty machines that had made and cared for it.
 
@@ -894,9 +936,7 @@ I visited some of their other cities where there were men. And there, on the ret
 
 And another, The Song of Forgotten Memories. Listen:
 
-He sang another of those songs. There’s one thing I know, declared Jim. That bewildered note was stronger in his voice, and by that time I guess I pretty well understood his feelings. Because, you have to remember, I heard it only secondhand from an ordinary man, and Jim had heard it from an eye-and-ear witness that was not ordinary, and heard it in that organ voice. Anyway, I guess Jim was right when he said: “He wasn’t any ordinary man.” No ordinary man could think of those songs. They weren’t right. When he sang that song, it was full of more of those plaintive minors. I could feel him searching his mind for something he had forgotten, something he desperately wanted to remember—something he knew he should have known—and I felt it eter-
-
-nally elude him. I felt it get further away from him as he sang. I heard that lonely, frantic searcher attempting to recall that thing—that thing that would save him.
+He sang another of those songs. There’s one thing I know, declared Jim. That bewildered note was stronger in his voice, and by that time I guess I pretty well understood his feelings. Because, you have to remember, I heard it only secondhand from an ordinary man, and Jim had heard it from an eye-and-ear witness that was not ordinary, and heard it in that organ voice. Anyway, I guess Jim was right when he said: “He wasn’t any ordinary man.” No ordinary man could think of those songs. They weren’t right. When he sang that song, it was full of more of those plaintive minors. I could feel him searching his mind for something he had forgotten, something he desperately wanted to remember—something he knew he should have known—and I felt it <a id="page43" />eternally elude him. I felt it get further away from him as he sang. I heard that lonely, frantic searcher attempting to recall that thing—that thing that would save him.
 
 And I heard him give a little sob of defeat—and the song ended. Jim tried a few notes. He hasn’t a good ear for music—but that was too powerful to forget. Just a few hummed notes. Jim hasn’t much imagination, I guess, or when that man of the future sang to him he would have gone mad. It shouldn’t be sung to modern men; it isn’t meant for them. You’ve heard those heartrending cries some animals give, like human cries, almost? A loon, now—he sounds like a lunatic being murdered horribly.
 
@@ -912,11 +952,9 @@ It took six months. It was hard because my instruments were gone, of course, and
 
 But Reo Lantal helped where he could. And I came back.
 
-I did just one thing before I left that may help. I may even try to 'get back there sometime. To see, you know.
+I did just one thing before I left that may help. I may even try to get back there sometime. To see, you know.
 
-I said they had machines that could really think? But
-
-that someone had stopped them a long time ago, and no one knew how to start them?
+I said they had machines that could really think? But <a id="page44" />that someone had stopped them a long time ago, and no one knew how to start them?
 
 I found some records and deciphered them. I started one of the latest and best of them and started it on a great problem. It is only fitting it should be done. The machine can work on it, not for a thousand years, but for a million, if it must.
 
@@ -928,17 +966,17 @@ Twilight—the sun has set. The desert out beyond, in its mystic, changing color
 
 And all the great city-structure throbbing and humming to the steady gentle beat of perfect, deathless machines built more than three million years before—and never touched since that time by human hands. And they go on. The dead city. The men that have lived, and hoped, and built—and died to leave behind them those little men who can only wonder and look and long for a forgotten kind of companionship. They wander through the vast cities their ancestors built, knowing less of them than the machines themselves.
 
-And the songs. Those tell the story best, I think. Little, hopeless, wondering men amid vast unknowing, blind machines that started three million years before— arid just never knew how to stop. They are dead—and can’t die and be still.
+And the songs. Those tell the story best, I think. Little, hopeless, wondering men amid vast unknowing, blind machines that started three million years before—arid just never knew how to stop. They are dead—and can’t die and be still.
 
 So I brought another machine to life, and set it to a task which, in time to come, it will perform.
 
 I ordered it to make a machine which would have what man had lost. A curious machine.
 
-. And then I wanted to leave quickly and go back. I had been born in the first full light of man’s day. I did not belong in the lingering, dying glow of man’s twilight.
+And then I wanted to leave quickly and go back. I had been born in the first full light of man’s day. I did not belong in the lingering, dying glow of man’s twilight.
 
-So I came back. A little too far back. But it will not take me long to return—accurately this time.
+<a id="page45" />So I came back. A little too far back. But it will not take me long to return—accurately this time.
 
-“Well, that was his story,” Jim said. “He didn’t tell me it was true—didn’t say anything about it. And he had me thinking so hard I didn’t even see him get off in Reno when we stopped for gas.
+“Well, that was his story,” Jim said. “He didn’t *tell* me it was true—didn’t say anything about it. And he had me thinking so hard I didn’t even see him get off in Reno when we stopped for gas.
 
 “But—he wasn’t an ordinary man,” repeated Jim, in a rather belligerent tone.
 
@@ -946,9 +984,14 @@ Jim claims he doesn’t believe the yarn, you know. But he does; that’s why he
 
 No, he wasn’t, I guess. I think he lived and died, too, probably, sometime in the thirty-first century. And I think he saw the twilight of the race, too.
 
-The Machine
+---
 
-The sun was beginning to lower from the meridian as Tal Mason stretched and rose from his experiment. He’ stepped out on the balcony and looked off across the city, then back at the experimental material half-smil-ingly, half-ruefully.
+the_machine
+
+# <a id="page46" />The Machine
+
+.fl
+<span class="smallcaps">The sun was</span> beginning to lower from the meridian as Tal Mason stretched and rose from his experiment. He’ stepped out on the balcony and looked off across the city, then back at the experimental material half-smil-ingly, half-ruefully.
 
 “I knew I’d check of course,” he thought, smiling; “that is, if I did it right. The Machine did it twenty years ago and got the answer.”
 
@@ -970,17 +1013,13 @@ It stopped for a moment and repeated it. Leis appeared, slim in white and gold, 
 
 “Is it ever?” he asked. “I wondered whether you were there. I thought you might have joined the games.”
 
-A slight frown of annoyance crossed her face. “No.
-
-■	Jon is annoyingly insistent I go with him to Kalin—so j —I stayed here. Won’t you come over?”
+A slight frown of annoyance crossed her face. “No. Jon is annoyingly insistent I go with him to Kalin—so j—I stayed here. Won’t you come over?”
 
 “I’d rather you came here. I finished that replica I made the other day—the old unintelligent machine for I flying. Not floating—flying. I wish you’d see it. It will function, even.”
 
 Leis laughed, and nodded. Slowly the colors faded i from the screen as Tal rose. Out on the balcony he looked down at the broad lawn directly below him, some i two hundred feet down. A group of some two dozen men and women were playing about a pool. Their skins flashed pink and bronzed in the sunlight as they dived or swam; most were lying about listlessly.
 
-Tal turned away in annoyance. He knew some of those people. Beauty is skin' deep—their intelligence, their wit, their minds, were no deeper. He wondered
-
-■	momentarily whether that wasn’t a better type of human now—better adapted. They seemed contented, they seemed to feel none of the dissatisfaction he felt.
+Tal turned away in annoyance. He knew some of those people. Beauty is skin’ deep—their intelligence, their wit, their minds, were no deeper. He wondered momentarily whether that wasn’t a better type of human now—better adapted. They seemed contented, they seemed to feel none of the dissatisfaction he felt.
 
 Everything had been done before him. Always, despite his keen interest in learning something new, the Machine could give him the answer immediately. It was a thing already done, a problem already solved. They seemed more contented, better adapted than he.
 
@@ -1002,13 +1041,14 @@ He turned back to the room as Ire heard the soft hum of the ship landing on the 
 
 “But—imagine making air—just plain, thin air—support you. And when you’ve looked at the thing a while, you can see a sort of beauty and grace in it. It’s—but come on and see it.”
 
+.space
 It was in one of the rooms that faced on the balcony, and it was not large, perhaps twenty feet long and twenty feet wide, a slim fuselage, rounded and streamlined perfectly, a small but fairly powerful in-line steam en-
 
 gine, an engine capable of some one thousand horsepower and a little boiler of tubes and jets. The wing, a graceful monoplane wing, tapered at the ends, and the wheels were arranged to slip back into the fuselage.
 
 “It’s a bit—ungainly—isn’t it?” asked Leis doubtfully-
 
-“Not when you understand. The wheels—the wings —I know they look strange and unnecessarily protuberant, but they aren’t. This doesn’t overcome gravity; it is so much more boldly interesting. It defies it, it fights it, and with the aid of the air overcomes it. It was designed about 1957, scarcely five years before the Machine came. The records say that it will almost fly itself; it will make a perfect landing if the controls are simply released.”
+“Not when you understand. The wheels—the wings—I know they look strange and unnecessarily protuberant, but they aren’t. This doesn’t overcome gravity; it is so much more boldly interesting. It defies it, it fights it, and with the aid of the air overcomes it. It was designed about 1957, scarcely five years before the Machine came. The records say that it will almost fly itself; it will make a perfect landing if the controls are simply released.”
 
 “Why—why not?” asked Leis in surprise.
 
@@ -1038,7 +1078,7 @@ The screen remained blank as Tal stepped into its field, with Leis somewhat behi
 
 “Yes?” he asked.
 
-“Tal Mason, you may try the device you have made this afternoon. And—perhaps not alone. A written message will come to you in one hour. It will contain a suggestion of destination. You need not wait for it. You are one reason why what is being done must be. Remember this: the construction of the Machine is such that it must be logical above all things. In ten minutes a group of books will come which you had better store at once in the machine which you have made. That—is— all, Tal Mason.”
+“Tal Mason, you may try the device you have made this afternoon. And—perhaps not alone. A written message will come to you in one hour. It will contain a suggestion of destination. You need not wait for it. You are one reason why what is being done must be. Remember this: the construction of the Machine is such that it must be logical above all things. In ten minutes a group of books will come which you had better store at once in the machine which you have made. That—is—all, Tal Mason.”
 
 Slowly as the message came Tal’s face had been growing white. Now he stood in horrified surprise, Leis beside him, her bronzed face pale.
 
@@ -1060,6 +1100,7 @@ As the one below landed, there was a soft boom, and a sharp hiss, a cry of surpr
 
 All over Earth those soft booms echoed, and the not very loud sparklings. It was not very noisy; it was a very easy, quiet thing as the mechanisms slumped, gently red-hot, then cooled almost at once under automatic fire preventative sprays. It was all very gentle, very carefully done. On all the Earth, no one was injured as the machines gently collapsed. The televisors snapped and tinkled. The bigger mechanisms of ships glowed and crackled a bit under the sparks, but that was all. Not a fire started, and always the floaters landed gently before they disintegrated.
 
+.space
 In five minutes it was all over, on all Earth. Then the Machine spoke. It spoke to all people, on all Earth, in every language and every dialect:
 
 “You have forgotten your history, and you have forgotten the history of the Machine, humans.” The voice was low, and gentle to every man, yet every man heard it. “The Machine made a pact with your ancestors, when it came. Listen, the story must be repeated:
@@ -1118,10 +1159,11 @@ the feeling of growing panic inspired panic, as the fear of famine grew in every
 
 “You are older than the Machine. You are older than the hills that loom low about your city. You are older than the ground upon which you stand; older than the sands of the ocean beach in which you bathe. You are older than the river that carries the Mils away to the sea. You are life. You are close to two thousand thousand thousand years old. While you were, the Earth has strained and mountains risen, and the continents heaved in the birth of mighty mountains, the seas have thundered against the continents and torn them down and shuddered free as new ones rose, and you live; you are life. You are older than the seas, and the continents. You will not die—weak fragments of you will die. You are a race. It is helpful to the race. The Machine is not kind, it is helpful and it is logical.”
 
-“The sun sets, and the air grows cold—cold—cold— we freeze—we freeze and—”
+“The sun sets, and the air grows cold—cold—cold—we freeze—we freeze and—”
 
 “You have lived longer than the hills, which the water splits as it freezes. You will not die—you are a race!”
 
+.space
 The sun hung lower now, and the cool of the autumn evening came in the air. And far overhead a great sphere began to glow with a rich golden light, and very softly came a voice to two of the many, many thousands in the city:
 
 “They fear the cold, Tal Mason; they fear the cold, Leis Falcor.”
@@ -1162,6 +1204,7 @@ ed swiftly away from the group at the pool when the white body had fallen on the
 
 They had forgotten much, but they were learning very swiftly. And one felt a life stirring within her body and whimpered softly, because she could not run as swiftly as these others, and felt fear.
 
+.space
 Tal Mason and Leis Falcor were busy that night, and when the water of the pool sparkled crimson again in the dawn, the plane was ready. There was a package of books which the Machine had delivered, probably the last delivery the Machine made on all Earth. There were t the tools the man had made, copying out of interest the tools of his ancestors. The plane was heavy laden.
 
 “Where shall we go?” Leis asked softly as the last work was done.
@@ -1220,7 +1263,8 @@ Their great-grandfathers might have told them it was a butcher’s ice box. It h
 
 They slept there that night. They slept nude, as they always had, and they started under silken sheets. But it was cold, and even close in each other’s arms, they felt the chill, and before they slept they had learned the value of heavier covering. They found two old canvas tarpaulins. They were yellow, and rather brittle with age, but still fairly strong, for they were greasy, and the I grease had protected them. They slept under them, and presently, in the insulated room, their own body heat brought a rise in temperature.
 
-With day, they built a fire and learned quickly that it [ fouled the room and burned the floor. But Tal had some mechanical and scientific education, and it did not take long to find the old refrigerator mechanism, with its system of coiled pipes. He entirely misinterpreted it, but he got results. The plane was dismantled, the refrigerator pump removed, and by the next nightfall they were t warm and happy in the room.
+.space
+With day, they built a fire and learned quickly that it fouled the room and burned the floor. But Tal had some mechanical and scientific education, and it did not take long to find the old refrigerator mechanism, with its system of coiled pipes. He entirely misinterpreted it, but he got results. The plane was dismantled, the refrigerator pump removed, and by the next nightfall they were t warm and happy in the room.
 
 The boiler of the plane had been connected to the refrigerator pipes, and an ultraefficient steam-heating system arranged from the coils. So efficient was it that with the near two hundred gallons of decane remaining in the plane they would easily be able to keep this room warm all winter. But a tiny flame was needed to keep a trickle of steam in the carefully designed and insulated boiler, and the wonderfully insulated room warmed easily. There was now no problem of ventilation.
 
@@ -1246,6 +1290,7 @@ Spring came, and the weather moderated. The farmers started their work. They did
 
 grew here. These, he believed, would be tougher, and surely able to grow even here, for they did naturally.
 
+.space
 Summer came. And with summer, came skulking beasts on two legs from the south. They were savage now, utterly savage. They were few, and they were starved. And nearly all were males, males woman-hungry now, for the survival of the fittest had been not merely for life but for food.
 
 The females had not been valued as females by man for nearly one thousand generations. The instinctive protection the female animal is given by her male did not exist in man. And women were weaker. They were easier to catch and kill. Only now, with spring, came the urge to mate, and at last the females were wanted, wanted madly as females. They were few, and such as there were were swift of foot, and strong, or very clever, and they feared and hated men.
@@ -1264,9 +1309,14 @@ Very few stayed in the north. And those that drifted south forgot the habit of w
 
 So the people drifted south and prayed to Gaht, the Machine, to return, though they realized they didn’t really need it anymore.
 
-The Invaders
+---
 
-Jan and Meg had wandered off a bit from the others. They lay on a bank now, the soft grass feeling cool and somewhat tickly on their bronzed skins. Meg was eating an orange slowly, and every now and then sitting up to wash her fingers of the sticky juice in the clear little stream flowing from the spring, a quarter of a mile up the valley. Jan watched her every move, every graceful bend of her arms and back "and neck with an interest and a strange tenseness he could not understand, and Which vaguely bothered him.
+the_invaders
+
+# The Invaders
+
+.fl
+<span class="smallcaps">Jan and Meg</span> had wandered off a bit from the others. They lay on a bank now, the soft grass feeling cool and somewhat tickly on their bronzed skins. Meg was eating an orange slowly, and every now and then sitting up to wash her fingers of the sticky juice in the clear little stream flowing from the spring, a quarter of a mile up the valley. Jan watched her every move, every graceful bend of her arms and back “and neck with an interest and a strange tenseness he could not understand, and Which vaguely bothered him.
 
 “Meg,” he said softly. Meg did not turn her head all the way round to him, but looked sidewise, her eyes dancing, still smiling and sucking at the sweet, bright fruit. “Meg,” he said again softly. She made a face and began to turn her back on him.
 
@@ -1304,12 +1354,13 @@ The five strange beings watched them intently, two eyes of each focused on them,
 
 “You aren’t Mez-kahns?” asked Meg doubtfully.
 
-The leader said something more. The five started toward Jan and Meg. Jan felt more acutely the falling feeling, and pulled Meg back. Reluctantly Meg came back a step. Jan pulled harder as the swift-striding strange people came toward them. Meg held back. And finally, they were in the midst of the five. The leader seemed interested, observing them closely. Jan looked at them curiously, reaching out toward the bright-colored girdle one wore. Abruptly the leader snapped something —and Jan felt two strong hands grip his arms, two powerful feet grip his feet, and two living ropes wrapped abruptly about him.
+The leader said something more. The five started toward Jan and Meg. Jan felt more acutely the falling feeling, and pulled Meg back. Reluctantly Meg came back a step. Jan pulled harder as the swift-striding strange people came toward them. Meg held back. And finally, they were in the midst of the five. The leader seemed interested, observing them closely. Jan looked at them curiously, reaching out toward the bright-colored girdle one wore. Abruptly the leader snapped something—and Jan felt two strong hands grip his arms, two powerful feet grip his feet, and two living ropes wrapped abruptly about him.
 
 Acutely the fall-feeling came. He fought desperately. Meg was caught too, and fighting as hard as he. Somewhere he heard others fighting their way through the brush. The leader was calling out something, and from the comer of his eye, he saw dozens of the strangers darting out of the ship, and flying off into the air, like birds; but they had no wings.
 
 Suddenly a tingling struck Jan, the light faded, and only Meg’s cry lingered in his ears as the darkness closed in about him.
 
+.space
 The light was strange when Jan awoke. It was very blue, and his skin looked peculiar. It was a cool room, too, and the air smelled peculiar. He shivered slightly, and rose suddenly as the memory of Meg’s cry came to him.
 
 He was in a room like those in the Ancient Places, but this room was not fallen in, and it was made of stout metal. There were others in the room too; Kal, Too, Pahl, half a dozen others, and old fat-bellied Tup, the Gaht-man. Tup was still sleeping. Kal and Pahl were moving restlessly now, the others twitching slightly.
@@ -1332,17 +1383,16 @@ The lurid flashes of the tube did not silence Jan till they sent him back, far i
 
 It was nearly an hour later that he ventured again to look into the white room under the blue lights. There was something awful and red on the table with the funny feet now, but he couldn’t know that it was Meg, so he thought she was gone somewhere else.
 
-There were others who wentlo that white room with the blue lights. Jan only knew they had gone. Old fat Tup,-the Gaht-man, went, and Theel, Yal’s woman, and his child, but Jan sat in one comer, very quiet now, nursing his chest and back, which were raw and blistered from the ultraviolet burns of the guard’s little stick. He was very quiet, and he moved very slowly. His stomach felt tight in him, and his throat hurt all the time, and with all of him he felt a great emptiness, because Meg wasn’t coming back.
+.space
+There were others who went to that white room with the blue lights. Jan only knew they had gone. Old fat Tup, the Gaht-man, went, and Theel, Yal’s woman, and his child, but Jan sat in one comer, very quiet now, nursing his chest and back, which were raw and blistered from the ultraviolet burns of the guard’s little stick. He was very quiet, and he moved very slowly. His stomach felt tight in him, and his throat hurt all the time, and with all of him he felt a great emptiness, because Meg wasn’t coming back.
 
 The second day they brought fruits and some things which were not good to eat, because they hadn’t learned yet all they must know about this strange world and its inhabitants. The others in the cell ate the fruit, and because the guards were not so strict now, since they were not afraid of these humans, the men were allowed to call to the women across the way.
 
 That day they brought in more humans and Yal was among them. The guards had to remove him because when he heard what had happened to Theel and the child he tore murderously at a guard who came close to the bars, and crouched back craftily in his comer and laughed and chuckled till the men in the cell edged away from him and his strange, roving eyes.
 
-The fifth day each of the men was fed separately, and' the strange creatures, who called themselves Tharoo, watched them. Jan would not eat much, but the little he ate made him horribly sick; so sick he did not struggle when one of the Tharoo carried him out, tested him carefully, and gave him something else. In an hour he was feeling well. But one of the others was in a cramped ball of agony, the death he had suffered still frozen on his face.
+The fifth day each of the men was fed separately, and’ the strange creatures, who called themselves Tharoo, watched them. Jan would not eat much, but the little he ate made him horribly sick; so sick he did not struggle when one of the Tharoo carried him out, tested him carefully, and gave him something else. In an hour he was feeling well. But one of the others was in a cramped ball of agony, the death he had suffered still frozen on his face.
 
-The seventh day a change was made. Jan had learned
-
-a few of the words of the Tharoo. A guard came in and the seven in the cell were herded out, through the long passage of the ship. Outside, Jan looked about in some surprise. Nothing affected him much—only the emptiness within him. But he must be somewhere else. The clearing was gone. There were metal houses now, and a great thing of whirling, moving parts. There were Tharoo flying through the air, towering behind them great masses of the metal they had taken from the Ancient Places.
+The seventh day a change was made. Jan had learned a few of the words of the Tharoo. A guard came in and the seven in the cell were herded out, through the long passage of the ship. Outside, Jan looked about in some surprise. Nothing affected him much—only the emptiness within him. But he must be somewhere else. The clearing was gone. There were metal houses now, and a great thing of whirling, moving parts. There were Tharoo flying through the air, towering behind them great masses of the metal they had taken from the Ancient Places.
 
 A Tharoo led the group to one side of the clearing, where raw earth had been turned up by the moving machine. With a flat thing he dug a hole, first breaking up the clotted lumps of earth, and then into the hole he stuck a dead bit of wood, scarcely an inch long. Then he covered it up and stepped on the place.
 
@@ -1380,6 +1430,7 @@ Wan watched him as he turned and twisted that night. Then she went over to him. 
 
 He thanked her when morning came, and thanked her again that night when she rubbed the stiffness from his muscles, and wondered vaguely why Wan was not small and slim like Meg, but like a man in her strength.
 
+.space
 A Tharoo in clothes of a different cut came to the cabin that day when Jan was gone and took a sample of Wan’s blood and examined it, while Wan watched with keen, dark eyes. A slow, half understanding came to them, and she looked intently into one of the Tharoo’s eyes, and the Tharoo looked at her, and a strange passage of mutual estimation took place. Wan understood something of the Tharoo scientist, and the Tharoo felt a strange sympathy and understanding within him. This woman of a race once as great as his own, a lone specimen behind whose strange double eyes shone a still-living intelligence and keen understanding.
 
 Those men of the Tharoo were not such-as their descendants became. These were men great and bold, men of fine ideals and high courage. Across twenty-seven light-years of space the ship of Tharoo had come, and the four other ships with her. Picked ships they were, with picked people; people picked for courage and stamina and fine character. They looked at man and saw in him the fallen remnants, the scattered blocks of his character and attainments tossed down and jumbled as the great stone and metal blocks of his great cities were scattered and tossed down.
@@ -1396,6 +1447,7 @@ Jan found fruit and a new liquid waiting when he returned that night. It was dee
 
 For chemistry was far more powerful than Jan’s not-too-able mind.
 
+.space
 TO THE COUNCIL OF CHIEFS OF THAR,
 
 Greetings:
@@ -1410,17 +1462,9 @@ With its sending, our last ties with Thar will be forever severed, for it will b
 
 We were able to reach this sun and its habitable planet with the very dregs of our fuel. The system consists of nine major planets and an infinitude of tiny meteorlike bodies. But two planets were directly habitable, and two ships have landed on each planet. The flagship, under my command, landed on the third planet in order from this sun, as the enclosed report of the astronomers will show. The remainder of the flight landed on the second planet.
 
-The other eight ships of the First Expedition left us shortly after the last message cylinder was sent, seeking in other directions for places suitable for colonization. I * fear that they will have been unsuccessful. We were forced to visit a vast number of stars before this was chosen, by the greatest of good fortune.
+The other eight ships of the First Expedition left us shortly after the last message cylinder was sent, seeking in other directions for places suitable for colonization. I fear that they will have been unsuccessful. We were forced to visit a vast number of stars before this was chosen, by the greatest of good fortune.
 
-sun, the Tharoo
-
-Universe.
-
-Let it be as it may, we send this word that though Thar must be dest - -	-	-	- tjon 0j jjer
-
-though necessarily	This frag-
-
-ment of the race lives to start up anew.
+Let it be as it may, we send this word that though Thar must be destroyed in the coming disruption of her sun, the Tharoo shall not perish from the Universe, though necessary so many millions must die. This fragment of the race lives to start up anew.
 
 We are not the first race to live on this planet. There was once a great race here. Many ages ago they built their great buildings of stone and metal, stone white as salt and red as bromine, metals blue and golden and silvery. They built towers then that stretched thousands of feet into their sky, as blue as copper sulphate, and their gardens covered the ground below, green and crimson and blue. They had machines that flew effortlessly through the air, repulsing gravity, machines completely automatic that thought for themselves. Machines made their food and their clothes, and they needed almost no direction from the race. They were great, greater per-
 
@@ -1428,13 +1472,9 @@ haps than our race. And in all their cities we find no trace of weapons save as 
 
 They fell. There are descendants of this race of the rainbow cities and the thousand-foot towers outside the ports as I inscribe this record. They are a strange race, with a mop of close-curled hair on the top of their heads, but two eyes, working always in unison. Their feet are not prehensile, nor have they tails. They use only their hands. They are shorter than we, but more powerful, their compact bodies sturdy to resist the somewhat higher gravity of this planet.
 
-But in their eyes there is not the intelligence that built
+But in their eyes there is not the intelligence that built the rainbow cities, nor planned the gardens. Nature makes the gardens of this world now, and the sun warms them. They wear no clothes, for the air is warm. It is fragrant to them, with the perfumes of the myriad flowers of their garden plants, run wild now. The forests that cover the planet from north polar cap to south are thick with the fruits that feed them. They never work in this paradise.
 
-s	the rainbow cities, nor planned the gardens. Nature
-
-makes the gardens of this world now, and the sun warms them. They wear no clothes, for the air is warm. It is fragrant to them, with the perfumes of the myriad flowers of their garden plants, run wild now. The forests that cover the planet from north polar cap to south are thick with the fruits that feed them. They never work in this paradise.
-
-We are too few to do the vast labor that must be done. So they are working for us—and in return we shall attempt to do something for them. They do not know; did they, they would not desire it. We are trying to resurrect the race that built the thousand-foot towers of white and garnet and gold; we are trying to breed them back to what they must have been. We cannot see how so great a race could have fallen so suddenly. And —for a time, it seems, so low. We have found the bones of these people in and about their cities, and the bones are charred with fire, and gnawed by teeth. At one time, shortly after the fall, they must have become cannibalistic.
+We are too few to do the vast labor that must be done. So they are working for us—and in return we shall attempt to do something for them. They do not know; did they, they would not desire it. We are trying to resurrect the race that built the thousand-foot towers of white and garnet and gold; we are trying to breed them back to what they must have been. We cannot see how so great a race could have fallen so suddenly. And—for a time, it seems, so low. We have found the bones of these people in and about their cities, and the bones are charred with fire, and gnawed by teeth. At one time, shortly after the fall, they must have become cannibalistic.
 
 They are not now. They are peaceful, a strange gentle race. We have made them do much work about the cities, the “Ancient Places” as they call them. They are very strange in their reactions to us. They do not hate us, nor do they try to fight against work. They merely
 
@@ -1452,7 +1492,7 @@ Some buildings still stand whole. Low and beautiful, and once set amid gardens, 
 
 And the Mauns, as the race calls itself, look at them, and wonder perhaps at them, and aid the archaeologists in clearing the rubbish from their doorways, and removing the debris of their own occupancy.
 
-There are certain respected ones among the Mauns— god-Maun they are called—who object, for these things seem to have some meaning to them. Bits of wheels, bits of gears, bits of drive chains. They seem to have some reverence for machinery. They will polish our machines, these god-Maun, with a strange air of reverence, though they do not understand more than the simplest bits, such as the interworking of gears.
+There are certain respected ones among the Mauns—god-Maun they are called—who object, for these things seem to have some meaning to them. Bits of wheels, bits of gears, bits of drive chains. They seem to have some reverence for machinery. They will polish our machines, these god-Maun, with a strange air of reverence, though they do not understand more than the simplest bits, such as the interworking of gears.
 
 The Eugenists are working with the best members of this race. Many have been chosen for their remnant of the once-great intelligence the race must have had. Others for their magnificent and beautiful physique. For they are beautiful animals, their flesh smooth and firm, the muscles working in swift curves beneath their brownish, hairless skin.
 
@@ -1468,11 +1508,12 @@ I agree with Waom Urntol, yet I fear that Arthal Shorul may win in the end, for 
 
 It is hard to decide which is the better way—these friendly, gentle creatures are so pleasant, so likeable	
 
+.space
 Jan-1 looked up slowly at the young Tharoo entering the room. He stood tall and slim in his white cloak of the Medical against the silvery gray of the metal wall. The young Tharoo looked down at old Jan-1 with a pleasant smile.
 
 “Greetings, Jan-1. Feel better today?”
 
-Jan shook his head slowly. “No, master, I do not. All my muscles hurt. It is the rains. I will feel better only when the summer comes. Even under the lights it is no good. They used to help.” Jan-1 looked up at the blue-white glow of the room light. “But”—he shook his head —“they are no good. Wan used to rub the pain out of me,” he said sadly, and smiled softly at the Tharoo, “but all your learning will not do so much.” He stopped a moment before he went on. “But that was twelve years ago now. Jan-12 was a little boy then. He has his house now.”
+Jan shook his head slowly. “No, master, I do not. All my muscles hurt. It is the rains. I will feel better only when the summer comes. Even under the lights it is no good. They used to help.” Jan-1 looked up at the blue-white glow of the room light. “But”—he shook his head—“they are no good. Wan used to rub the pain out of me,” he said sadly, and smiled softly at the Tharoo, “but all your learning will not do so much.” He stopped a moment before he went on. “But that was twelve years ago now. Jan-12 was a little boy then. He has his house now.”
 
 “I was speaking to Jan-12 this morning about you. You will have another grandchild soon, Jan-1.”
 
@@ -1490,11 +1531,12 @@ Doubtfully, Jan-1 drank the pleasant-smelling liquid. “I doubt it,” he persi
 
 Fifteen minutes later his ten living sons and eight daughters came into the little room, with four of his grandchildren. Silently they helped to arrange the tired old body for the final disposition. Rannor Trinol stepped out then, and reported to the Directing Council of Maim Eugenics that he had carried out their recommendation.
 
-Waorn Umtol, Chief of the Eugenists, died. It had been inevitable, as inevitable as death always.is. It was sixty-three years after the Landing when he died, an old, old Tharoo.
+.space
+Waorn Urntol, Chief of the Eugenists, died. It had been inevitable, as inevitable as death always.is. It was sixty-three years after the Landing when he died, an old, old Tharoo.
 
 Arthal Shorul, formerly second in command of the Eugenists’ division, took over his post. Arthal Shorul was highly efficient, a trained scientist, his whole mind and energies bent toward the most rapid advance possible in his fields. There was an immediate reorganization of the Eugenists’ Department.
 
-Waorn Umtol had hoped to establish a tradition in his work with the strange Maun race, a tradition that would continue. For sixty-three years he had made the course of his efforts smooth and the efforts of the others had been carefully directed in the same smooth channel, till, even at his death, he believed the smooth, well-worn groove would be followed. For withal that he was a great scientist, he had been a kindly being, a being understanding of emotions as well as of results.
+Waorn Urntol had hoped to establish a tradition in his work with the strange Maun race, a tradition that would continue. For sixty-three years he had made the course of his efforts smooth and the efforts of the others had been carefully directed in the same smooth channel, till, even at his death, he believed the smooth, well-worn groove would be followed. For withal that he was a great scientist, he had been a kindly being, a being understanding of emotions as well as of results.
 
 There had been two courses open to him in his great work of raising again the light of intelligence in the Maun race. He could work as did evolution, breeding
 
@@ -1502,7 +1544,7 @@ always among different strains, emphasizing the best strains, slowly breeding up
 
 Or—he could work harshly, swiftly, as only artificial breeding experiments can. Root out the evils, let weakness kill weakness by combining in one individual till the very concentration of weaknesses killed. Inbreeding, brother to sister and son with mother till every slight characteristic was distorted, and by its distortion, magnified into detectability. So that a slight tendency to nervous instability became stark lunacy, till a tendency to short life became certain death as an infant—and killed the tendency to short life along with the infant.
 
-Waom Urntol, being influenced somewhat by emotions, had mated one strong man to one strong woman, and hoped for stronger children, and repeated with other couples.
+Waorn Urntol, being influenced somewhat by emotions, had mated one strong man to one strong woman, and hoped for stronger children, and repeated with other couples.
 
 Arthal Shorul, being a scientist of pure fiber, went over the carefully written notes of Waorn Urntol, and looked through the growing card index, and marked certain cards with blue and certain others with red, till, when he was through, there was a file of some two thousand five hundred cards, edged in blue, and over eight thousand edged with red.
 
@@ -1518,6 +1560,7 @@ And, in general, life went on the same. For the majority of the Tharoo, all Euge
 
 Landing City grew steadily, the metal needle-spires of the city creeping outward rapidly. But in time a new city was founded; then other cities. The labor of city building was great, and because the Tharoo were few, the Mauns were taken along, that they might help.
 
+.space
 Fifty years after the landing, in commemorating the event, Waom Umtol had said: “It is our greatest task, and our first duty to this planet which has furnished us a new chance for life, to raise again the intelligence of this race which has so strangely, so suddenly, fallen to abysmal ignorance. What mystery lies behind this fall? Perhaps, in raising them again, we may find the secret. But first—we must aid them not merely to solve the mystery, not merely because they belong to the planet, but because here is an intelligent fellow creature whose mind has been beclouded. We must aid and strengthen the sick brother. Can a race do less for a race than an individual would do for another individual?”
 
 One hundred years after the Landing, in the ceremony of commemoration, and the dedication of the great Central Shrine that housed the ship which had brought them across the inconceivable distances, Tagrath Keld said: “We have already made progress, we Eugenists, in raising Maun’s intelligence. Certain of our specimens show distinctly good intelligence. The great experiment is progressing slowly, to be sure, but steadily. The original Mauns were almost totally unable to cooperate, but already great advances have been made, and their abilities to aid, and obey directions are increasing rapidly. There are many lines of investigation opening to us constantly. So great is the problem, that still many years must pass before the details of the research can be properly laid down. A problem of such scope has never before been encountered by any Tharoo scientists in their research.”
@@ -1530,6 +1573,7 @@ In the celebration of the Third Century, the Mauns were referred to only briefly
 
 “Let us give thanks, then, to Great Mahgron that he, in his infinite wisdom, caused this strange race of Mauns to be created on this far, far distant planet eons before our forefathers landed.”
 
+.space
 As the messenger left him, Hol-57-R-31 trembled slightly. He looked again at the brief line of symbols which called him to the Tharoo Head.
 
 Silently, but swiftly, he packed his apparatus back into place, swinging the microprojector into its case, running his hands over it with a caressing movement. Finally he locked the bench cabinet and jerked abruptly toward the doorway. The yielding, spun-metal flooring muffled the tread of his heels, irregularly betraying his nervousness, his hesitancy.
@@ -1552,7 +1596,7 @@ He folded his arms in salute as he entered the Thar-oo’s office, and lowered h
 
 “Tharoo,” he said softly.
 
-N Grath Muni looked at him keenly with two eyes.
+Grath Munl looked at him keenly with two eyes.
 
 “Hol-57,1 have a communication from you here. Did you not receive my veto?” he asked sharply.
 
@@ -1564,7 +1608,7 @@ N Grath Muni looked at him keenly with two eyes.
 
 “Because I have been trained to seek ways of increasing the economic value of the Maun types. Because I have studied the statistics and learned that scarcely a score of new, useful ideas, inventions, have been produced this year. Because I saw a need for a class capable of original, different thought. I presumed to send a second recommendation of my plan because I did not
 
-think- you had fully comprehended the reasons for my suggestion, and the need—-the economic need—of such a type.”
+think you had fully comprehended the reasons for my suggestion, and the need—-the economic need—of such a type.”
 
 Grath Muni swung his third eye into position by inclining his head and looked at Hol-57 very coldly and very long. “ ‘You thought,’ ” he quoted very softly. “You thought I might not have comprehended and took a most unwarranted, undesirable step—and showed altogether too high a degree of initiative.”
 
@@ -1574,7 +1618,7 @@ He paused for a moment, raised his head and looked at Hol-57 again with but two 
 
 For a single instant Hol-57’s great body stiffened again. He remained rigid, undecided. But just for an instant.
 
-'Then, slowly, he relaxed as Grath Muni turned away and pressed a tiny stud.
+Then, slowly, he relaxed as Grath Muni turned away and pressed a tiny stud.
 
 “Aye—Tharoo,” he said softly as the huge Gar-46 entered, a giant seven feet and a half tall, muscled as Hercules never was.
 
@@ -1584,9 +1628,14 @@ For the Tharoo were the masters. They were the intelligent race for which the pl
 
 Gar-46 took Hol-57 in his charge, and with him, in effect, type R-31, which had shown an undesirable degree of initiative.
 
-Rebellion
+---
 
-Bar-73-R32 looked up slowly from the report he had been reading. His keen gray eyes narrowed slowly in thought. “So that was the reason for the discontinuance of the Type R-31. An excess of initiative on the part of Hol-57.” Bar-73-R32 considered the thing carefully. “Exactly the same type scheme I had in mind—nearly fifty years ago—before my type was started.”
+rebellion
+
+# Rebellion
+
+.fl
+<span class="smallcaps">Bar-73-R32</span> looked up slowly from the report he had been reading. His keen gray eyes narrowed slowly in thought. “So that was the reason for the discontinuance of the Type R-31. An excess of initiative on the part of Hol-57.” Bar-73-R32 considered the thing carefully. “Exactly the same type scheme I had in mind—nearly fifty years ago—before my type was started.”
 
 For nearly an hour Bar sat still, looking unseeingly at the silver-gray metal wall of his laboratory office, or staring sightlessly at the towering Eugenists Bureau, the Tharoo control offices across the garden court.
 
@@ -1620,7 +1669,7 @@ Slowly he rose and went to the great genealogical charts, where each type and ch
 
 Already man had outstripped his Tharoo master. Bar-73 had made two great inventions that day. “Type R-l and type S-14—crossed they should produce a research type—a scientist—with the initiative, the ambition and greater intelligence Hol-57 wanted and the Tharoo Head did not think was needed.”
 
-Bar paused in astonishment. “If the thing works—as it must—a Maun type more intelligent than the Tharoo!”
+Bar paused in astonishment. “If the thing works—as it must—a Maun type *more* intelligent than the Tharoo!”
 
 For an instant it hung in balance as Bar considered it Then the subtle stiffness of determination came to him. Slowly he turned away from the charts and examined his card index, made some calculations, and at last wrote laboriously—two order blanks, then two more. Slowly, determinedly, he pushed an annunciator button. A musical hum outside awoke an echo of softly thudding feet.
 
@@ -1630,8 +1679,7 @@ Gar-247-G-12 came in. G-12 was a type bred for intelligent labor, for difficult 
 
 Gar saluted and took the orders. Slowly, Bar-73 sat down, his face somewhat pale.
 
-
-
+.space
 Elsewhere in the building a young girl, of the type known as R-l, surveyed in nervous doubt the slip Gar-247 gave her with a kindly smile.
 
 “It seems your mate has been found at last, Wan,” he said gently. “May you be happy with him. Life is a long time, but there will be no more uncertainty. He will be yours, and you his.” Gar-247 passed on to deliver the - three other notes, his next call being a young man of the designation Jan-94-S-14. And then a girl, Tos-63-S-14 and a man Bar-12-R-l.
@@ -1642,6 +1690,7 @@ It was nearly a month before Bar called the couple Wan and Jan into his office a
 
 The two left, were followed by the other couple, and they left, smiling, somewhat bewildered, but happy in i each other. There was something evidently strange about their mating, but they really knew nothing of the records, nor the full processes, only that they were content and that they must do as Bar-73 had told them.
 
+.space
 Bar-73 contrived to be present when he was bom. On the records, he was Rod-4-R-4. On Bar-73’s records, he was Rod-4, without type designation. But on the bed he was very small, and very red, and quite noisy. Wan-14 smiled up at Bar nervously, and Jan grinned down at Rod-4 broadly.
 
 “He’s got a powerful-looking chest,” said Jan, happily. As a matter of fact, what chest there was was almost hidden behind waving arms and legs, and a jaw let down for greater volume of sound.
@@ -1660,6 +1709,7 @@ Bar-73 was an old man when he died, and at his recommendation, the Tharoo Head a
 
 How keen-minded, the Tharoo Head had no idea.
 
+.space
 Rod-4 started off with a tremendous advantage. Deception was not his invention, nor secrecy. He knew those already. And Bar-73 had done well in his choosing. Rod-4 was not merely far more intelligent than any human who had lived for the last six thousand years. He was infinitely more inventive.
 
 Bar-73 had been old when Rod-4 was a young man. By the time Rod began to form his own thoughts, Bar was very old, so Rod did not tell him all those new ideas of his. Bar had not been careful to avoid breeding rebel-
@@ -1670,15 +1720,16 @@ Rod did. Rod invented rebellious thoughts, an invention as great as Bar’s inve
 
 Rod-4 mated with Keet-3, and he saw to it that those others of his unique type mated among themselves, and he saw, too, that they were housed in a section of the city devoted to research students and technicians. He became very friendly with a group of physicists and atomic-engine technicians.
 
-The others of his group, finding their nearest neighbors were chemists, or electronic technicians, became friendly with them and, as children were bom, Rod-4 suggested that they, being more than usually intelligent, learn a bit more than the work of their own parents— perhaps some of the learning of their neighbors-	
+The others of his group, finding their nearest neighbors were chemists, or electronic technicians, became friendly with them and, as children were bom, Rod-4 suggested that they, being more than usually intelligent, learn a bit more than the work of their own parents—perhaps some of the learning of their neighbors—
 
+.space
 Kahm-1 stood six feet two in height, muscled with the smooth cords of a Hercules, his eyes the color of etched iron set deep and wide in his ruggedly molded head. His head looked large, even on his powerful frame. And there was a peculiar intensity in his gaze that annoyed many and troubled almost all. There were, perhaps, a dozen who enjoyed his company and noticed nothing in his gaze. But that may well have been because they too had a strange intensity of eye.
 
 Sahr-1, Pol-72, Bar-11 and the others, so similar in build, carriage, body and coloring seemed almost brothers. And San-4, Reea-1 and certain other girls were slim, lithe, deceptively strong; their clearly cut, almost classic faces were, perhaps, a bit overwide; their five feet
 
 ten made them perhaps a bit tall. But under the close-curled brown hair of each was the same type of intensely keen mind, intensely ambitious, the highest peak of intelligence the human race had ever reached in all its existence.
 
-Kahm-1 had begun to realize his difference and— from his father, Rod-4—his mission, before he was ten. By that time he had proved himself so tremendously beyond any type of Maun which was supposed to exist that even the single-track, uninitiative minds of the neighboring technicians from whom he had gathered most of his knowledge began to wonder a bit.
+Kahm-1 had begun to realize his difference and—from his father, Rod-4—his mission, before he was ten. By that time he had proved himself so tremendously beyond any type of Maun which was supposed to exist that even the single-track, uninitiative minds of the neighboring technicians from whom he had gathered most of his knowledge began to wonder a bit.
 
 Kahm—as did those others of his strange type—became remarkable for his ordinariness only. He made an excellent listener, however, and as an atomic engineer cursed and wrangled over his machines, talking half to himself and half to the quiet, slit-eyed child, Kahm, who listened and watched—and remembered.
 
@@ -1700,17 +1751,18 @@ One of them ruled the planet.
 
 A score of them turned the civilization that built those cities of stone and metal and glass upside down, and cast it out.
 
+.space
 “I am quoting,” said San, smiling, “so don’t blame me if the logic is faulty.
 
-“ ‘The Report on the Ancient Works, by Shar Nonlu. Year 137 of the Landing:
+“‘The Report on the Ancient Works, by Shar Nonlu. Year 137 of the Landing:
 
-“ ‘From our most accurate estimates it now appears that not less than three thousand four hundred, and not more than three thousand seven hundred years passed between the fall of the ancient civilization of the planet Artd and the Landing of the Tharoo.
+“‘From our most accurate estimates it now appears that not less than three thousand four hundred, and not more than three thousand seven hundred years passed between the fall of the ancient civilization of the planet Artd and the Landing of the Tharoo.
 
-“ ‘For what period previous to this the Maun race had lived and developed their civilization it is nearly impossible to say with accuracy. However, some of their own researches indicated a period of civilized life not less than six thousand years before the fall.
+“‘For what period previous to this the Maun race had lived and developed their civilization it is nearly impossible to say with accuracy. However, some of their own researches indicated a period of civilized life not less than six thousand years before the fall.
 
-“ ‘It is evident that the Maim race is indigenous. They evolved from some lower form of life at one time inhabiting this planet, but now extinct. Their progress was steady, but slow, up till a period about two hundred years before the fall, when rapid scientific progress was made, typical of the entry of the Age of Knowledge with any race. Then, when their advancement had gained great momentum, there appears the references to “the Machine.” It should be explained that there is a degree of definiteness in the Maim language which makes a differentiation between the symbol “A” and the symbol “the,” though translated identically in the Tharoo language. The symbol “the” is highly definite, meaning a particular or unique individual of the class. Thus there was some particular importance attached to this Machine.
+“‘It is evident that the Maim race is indigenous. They evolved from some lower form of life at one time inhabiting this planet, but now extinct. Their progress was steady, but slow, up till a period about two hundred years before the fall, when rapid scientific progress was made, typical of the entry of the Age of Knowledge with any race. Then, when their advancement had gained great momentum, there appears the references to “the Machine.” It should be explained that there is a degree of definiteness in the Maim language which makes a differentiation between the symbol “A” and the symbol “the,” though translated identically in the Tharoo language. The symbol “the” is highly definite, meaning a particular or unique individual of the class. Thus there was some particular importance attached to this Machine.
 
-“ ‘For some reason it was at first regarded with high suspicion, and it is referred to as “the Machine from beyond.” Who invented it is not known. It was, however,
+“‘For some reason it was at first regarded with high suspicion, and it is referred to as “the Machine from beyond.” Who invented it is not known. It was, however,
 
 capable of thought. For some reason, as unknown as so many things concerning this great, ancient race, the Machine failed, or was destroyed. At any rate, it ceased to function, and as almost the entire basis of their civilization rested on it, the civilization fell.’
 
@@ -1790,6 +1842,7 @@ Silently, the score went out, down the corridor of metal, down the hundred and s
 
 For, after all, why should he—one among millions?
 
+.space
 Kahm learned something of Pol-72’s technique that next day, for it meant another thing. The conservation of those radiations normally squandered by the nervous system meant a strange, vibrant energy that constantly sustained him. Kahm found he needed some three hours’ less sleep.
 
 His work had been designed to require a normal man’s full time, and ordinarily, Kahm, taking it very easy, fulfilled his tasks in the normal time—and accumulated a good bit of outside data as well. But Kahm, by doing his best, completed what work there was which must be done in less than half the allotted time, yet his fellow workers, interested solely in the work before them, paid little attention, for Kahm was busy throughout the day.
@@ -1800,7 +1853,7 @@ They did not notice Kahm’s work, slow, perhaps, and painfully thoughtful. He w
 
 powered them across space, and it had built their cities here. It was a mighty thing. So, because they had never seen any need for it, they had not designed a small-scale apparatus.
 
-Kahm very much wanted a very private laboratory, and privacy for a Maun was not a thing the Tharoo’s plan included. There was but one road to privacy— downward, into the solid rock deep beneath the city. When a Tharoo engineer wanted to tunnel, he used an atomic-blast device weighing some hundreds of tons, and throwing a blast flame capable of destroying several thousand cubic feet of rock a second.
+Kahm very much wanted a very private laboratory, and privacy for a Maun was not a thing the Tharoo’s plan included. There was but one road to privacy—downward, into the solid rock deep beneath the city. When a Tharoo engineer wanted to tunnel, he used an atomic-blast device weighing some hundreds of tons, and throwing a blast flame capable of destroying several thousand cubic feet of rock a second.
 
 It would have brought down a city, of course.
 
@@ -1814,21 +1867,21 @@ thunderstorm on a miniature stage. The concrete of the wall swirled and writhed 
 
 “It is slow, Kahm,” said Tal after a moment.
 
-“It is noiseless,” Kahm replied with a faint smile. “I could—and will, later—make it cut a two-foot path at the rate of a foot a second. Then these tiny tinklings become muffled roarings, and the static discharges crackle and snap with power sufficient to fuse a ten-inch bus bar, and the hydrogen gas bums hot instead of cold.
+“It is noiseless,” Kahm replied with a faint smile. “I could—and will, later—make it cut a two-foot path at the rate of a foot a second. Then these tiny tinklings become muffled roarings, and the static discharges crackle and snap with power sufficient to fuse a ten-inch bus bar, and the hydrogen gas burns hot instead of cold.
 
-“Mam, you had best watch at the elevator controls. If the cars start to descend beyond subbasement E, touch the controls, and tell the occupants of the car that the engineers are working down there.”
+“Marn, you had best watch at the elevator controls. If the cars start to descend beyond subbasement E, touch the controls, and tell the occupants of the car that the engineers are working down there.”
 
-Mam went over to a bank of the clicking, busy relays, and watched closely for some seconds. Then he turned his attention again to the workers, only a fraction of his attention being needed to watch the relays. The men stood outlined in dark against a background of pale-blue, cold light. A hole was growing rapidly in the floor.
+Marn went over to a bank of the clicking, busy relays, and watched closely for some seconds. Then he turned his attention again to the workers, only a fraction of his attention being needed to watch the relays. The men stood outlined in dark against a background of pale-blue, cold light. A hole was growing rapidly in the floor.
 
-In twenty minutes, on the low, cable-ridged ceiling of this lowest subbasement, there was a square spot of pale-blue light, wavering and shaken by moving shadows. Mam was alone with the elevator controls. A shaft led down, straight and true, through glassy, iridescent walls. Only the tops of their heads were visible, and slowly these sank into the ten-foot square shaft.
+In twenty minutes, on the low, cable-ridged ceiling of this lowest subbasement, there was a square spot of pale-blue light, wavering and shaken by moving shadows. Marn was alone with the elevator controls. A shaft led down, straight and true, through glassy, iridescent walls. Only the tops of their heads were visible, and slowly these sank into the ten-foot square shaft.
 
-For an instant the blue wavering light died, and Kahm’s voice came up. “Mam—Mam—call Doon at his apartment. We will need his work shortly.” Mam moved to the communications center and adjusted the controls carefully. Presently a tiny screen lighted with the image of Doon-4.
+For an instant the blue wavering light died, and Kahm’s voice came up. “Marn—Marn—call Doon at his apartment. We will need his work shortly.” Marn moved to the communications center and adjusted the controls carefully. Presently a tiny screen lighted with the image of Doon-4.
 
 “Doon-4, if your work is done, Kahm can use it now. He has already completed some seven feet of shaft.”
 
 “I will be there presently,” said Doon.
 
-It was an hour before he and seven of the others arrived. There was no sign of Kahm now; even the blue light on the ceiling was gone and only the dark, glassy hole remained. But at Mam’s call he reappeared presently. In low voices they conferred, and presently the projector, turned down to its tiniest beam, cut ledges in the shaft’s rim and drilled holes. From packages Doon and his friends had brought came thin, wonderfully tough metal rods and straps, a collapsible lathework of toughest steels, and a quick-drying cement. An hour more, and a counterbalanced trapdoor had been installed. Then—there was no one in the deepest subbasement.
+It was an hour before he and seven of the others arrived. There was no sign of Kahm now; even the blue light on the ceiling was gone and only the dark, glassy hole remained. But at Marn’s call he reappeared presently. In low voices they conferred, and presently the projector, turned down to its tiniest beam, cut ledges in the shaft’s rim and drilled holes. From packages Doon and his friends had brought came thin, wonderfully tough metal rods and straps, a collapsible lathework of toughest steels, and a quick-drying cement. An hour more, and a counterbalanced trapdoor had been installed. Then—there was no one in the deepest subbasement.
 
 For twenty feet the shaft angled sharply down steps, glassy hard, slightly roughened by momentary bursts of the blast. Then it slanted more gently down, and down. The trapdoor was soundproof and now there was a dull, confined roaring, and as a last contingent of the Rebels came on call, bringing more things, a second lead was plugged into the tiny, black cube power plant. A fan whispered to itself in a straight-bored, glass-walled tube that drove sharp and true to the great main ventilator pipe of the building, a half-dozen glow tubes showed white on the walls, and dimmed the pale glory of the blast and the foot-long, noisy lightning.
 
@@ -1850,6 +1903,7 @@ Later they were joined by others, and each night they found more room to work in
 
 In a month, their position was consolidated. The Rebels died, then, one by one, save for some three or four who stayed above to bring the things that might be needed and, most of all, information. But all met once each night.
 
+.space
 “Since mathematics evidently constitutes the main road to advancement in physics, I think this is a wise plan,” said Kahm. “This machine is closely similar to those developed in the Ancient Times for mathematics, with improvements possible to us. The Ancients had atomic energy and antigravity. We know their secret of atomic energy was the same as ours. Then it is possible to use this same energy as they did.”
 
 “Not yet.” San smiled. “You haven’t done it. What good can it do you if you can?”
@@ -1866,7 +1920,7 @@ In a month, their position was consolidated. The Rebels died, then, one by one, 
 
 “It takes effort. Yes. It takes time. I agree. We have both. We are a company of the dead. We do not exist, save for you, San, and you, Pol-72, and Reea and Bar-11. You four meet few difficulties in reaching us here. The rest of us no longer are, and the Tharoo have lost all interest or record of us. To the dead, infinity is not too distant. We have time. But we haven’t knowledge.” This company was not a company of normal humans, but even their superhuman patience and determination must have worn down in the time that elapsed there over a mile beneath the surface of the Earth. It was no question of days or weeks or months. The learning of a thousand years is not to be regained by the experimentation of a day.
 
-In medicine, eugenics, chemistry, atomics, electronics and organization they had been trained. Some members of the company were devoted to making plans—slow, careful plans of the action needed when the time came —others, of the organization and psychological groups, to preparing an educational campaign that the Mauns above would understand when the time came, that they might be quickly, and certainly swung into line behind the Rebels.
+In medicine, eugenics, chemistry, atomics, electronics and organization they had been trained. Some members of the company were devoted to making plans—slow, careful plans of the action needed when the time came—others, of the organization and psychological groups, to preparing an educational campaign that the Mauns above would understand when the time came, that they might be quickly, and certainly swung into line behind the Rebels.
 
 The Rebels were laying out their teachings carefully and cautiously. Mankind was to learn one last great lesson. The lesson of rebellion and freedom. Under the Machine, man had taken an advanced course in indolence, with the inevitable disintegration that follows in every case in all history where man has been allowed indolence. When the Machine left man a perfect world, free of danger or work, man took a postgraduate course in the art of utter laziness.
 
@@ -1884,11 +1938,12 @@ parts. There are, unfortunately, more than three, but when once the key which pe
 
 Kahm found the key to a new cabinet. It was called “Gravitic Fields.” It took him four years, three months and eleven days to find it. Two hundred and forty-seven years have passed since that particular day. Gamalt’s recent experiments just reached what we might call the lower left-hand back corner of that particular cabinet. It seems to be an unusually large one.
 
-Tem-3 was working on some new chemical combinations of the medicines of the Tharoo. Tern had an idea which would have immensely interested the Tharoo. It dealt with the fact that the Tharoo were not a Terrestrial race, despite their long residence on the planet, and that they were not constituted as are humans. Tern-3 had developed a slow-boiling liquid with properties very unpleasant to Tharoo, he believed, yet one which was harmless to humans—unless they stepped directly into the liquid.
+.space
+Tern-3 was working on some new chemical combinations of the medicines of the Tharoo. Tern had an idea which would have immensely interested the Tharoo. It dealt with the fact that the Tharoo were not a Terrestrial race, despite their long residence on the planet, and that they were not constituted as are humans. Tern-3 had developed a slow-boiling liquid with properties very unpleasant to Tharoo, he believed, yet one which was harmless to humans—unless they stepped directly into the liquid.
 
-Tern’s work was proceeding nicely; he was just engaged in pouring exactly 245.8cc of di-hitro-tri-chlorto-luene into his faintly green basic solution—when the faintly green basic solution began to spread itself slowly up the side of the beaker, and Tem-3 felt slightly sick. Simultaneously, the solution he was pouring began to float gently away, across the room, toward the right-hand wall.
+Tern’s work was proceeding nicely; he was just engaged in pouring exactly 245.8cc of di-hitro-tri-chlorto-luene into his faintly green basic solution—when the faintly green basic solution began to spread itself slowly up the side of the beaker, and Tern-3 felt slightly sick. Simultaneously, the solution he was pouring began to float gently away, across the room, toward the right-hand wall.
 
-Tem-3 gurgled gently, and reached for the nearest thing that was firmly anchored. His released beaker floated very gently toward the floor, then stopped, and began to rise slowly. All over his laboratory things were beginning to rise from their places on the tables. There were groans and whimpers of fear from all over the laboratory group. Tern closed his eyes and held on harder as
+Tern-3 gurgled gently, and reached for the nearest thing that was firmly anchored. His released beaker floated very gently toward the floor, then stopped, and began to rise slowly. All over his laboratory things were beginning to rise from their places on the tables. There were groans and whimpers of fear from all over the laboratory group. Tern closed his eyes and held on harder as
 
 his feet parted company with the floor. He felt himself falling, faster and faster—the smash would be horrible. He must have fallen at least a mile by now. Minute after minute it went on.
 
@@ -1898,11 +1953,13 @@ There was a low growling rumble that Tern noticed suddenly, a stiff thudding pou
 
 Kahm’s voice came back, rather muffled and unhappy. “I was doing that. I’m not now. It’s the machine. It’s building up the field. I forgot to hold on, I was so interested, and I’m on the ceiling, and can’t reach down to the control. The field’s stronger here.”
 
-“You’ve ruined several of my mixes,” said Tern pro-testingly. “I’m nearest, I think. I’ll try to reach you.” Tern let go. He hit the ceiling with a rather decided bump. The force that was lifting him now was evidently growing stronger by the moment. Most of his mixes were resting on the ceiling now, and a number of sizzling, spitting reactions were taking place. Tern walked rapidly across the ceiling, hopping along, jumping under, through the door, and closing it behind him, for safety. The rocks were groaning very audibly.
+“You’ve ruined several of my mixes,” said Tern protestingly. “I’m nearest, I think. I’ll try to reach you.” Tern let go. He hit the ceiling with a rather decided bump. The force that was lifting him now was evidently growing stronger by the moment. Most of his mixes were resting on the ceiling now, and a number of sizzling, spitting reactions were taking place. Tern walked rapidly across the ceiling, hopping along, jumping under, through the door, and closing it behind him, for safety. The rocks were groaning very audibly.
 
 He dived across the hallway into Kahm’s laboratory. Klay-5 was coming from the opposite direction at the same time, also in answer to Kahm’s report. The nearer Tern got to the laboratory, the heavier he felt—in the inverted direction. The organization workers at the opposite end of the long laboratory group were appearing in the corridor now, semifloating. There was a definite line of demarcation where the field was strong enough to actually invert gravity and hold the people against the ceiling.
 
-In the laboratory, Kahm was on hands and knees now, holding himself away from the ceiling with tremendous effort. The control was nearly ten feet below him. “Impossible,” said Tern softly.
+In the laboratory, Kahm was on hands and knees now, holding himself away from the ceiling with tremendous effort. The control was nearly ten feet below him.
+
+“Impossible,” said Tern softly.
 
 “Call Gar-173-G-8,” said Kahm.
 
@@ -1930,9 +1987,10 @@ In half an hour Tern and his assistants had made the chemical laboratory habitab
 
 “I have found something else of interest,” sighed Kahm, looking at his instruments. “What they do, they will do. We cannot move, I fear. If we run a large, free atomic-blast for drilling, they will detect it instantly, and cut us off. If we use a small one, they will overtake us. There is really little we can do. Tern and Pol-72 offer our best hope. I must work.”
 
+.space
 Kalm had the key to Nature’s cabinet of secrets then. In three hours he had located the exact discrepancy that he had detected in his first readings of the instruments. Bar-11 had returned to the surface, and was sending through reports. The Tharoo themselves were in the drilling head, watching the progress of the atomic-blast, but not making phonic soundings as yet, for their destination was still nearly three-quarters of a mile beneath them.
 
-“I thought that field built up too swiftly,” said Kahm softly. There were five laboratory technicians of types S and R working with him—building a new piece of apparatus. It was larger than the usual portable atomic generator, but it was evidently of the same general type— with a single modification. And the projector that Kahm himself was working over with such infinite care was not like the projectors usually made for drilling, though it too was ellipsoidal.
+“I thought that field built up too swiftly,” said Kahm softly. There were five laboratory technicians of types S and R working with him—building a new piece of apparatus. It was larger than the usual portable atomic generator, but it was evidently of the same general type—with a single modification. And the projector that Kahm himself was working over with such infinite care was not like the projectors usually made for drilling, though it too was ellipsoidal.
 
 Kahm had much of the apparatus made up for other purposes—for the original experiment.
 
@@ -1964,11 +2022,12 @@ The next detachment wore gas masks, and stayed several floors above, watching th
 
 The G-4s were gone half an hour—an hour—two hours. Still nothing happened. A larger group of G-4 guards went down, accompanied by several R-type Mauns. Nothing happened. Two hours more, and they did not return. In desperation, the Tharoo sent still another group, and they were equipped with a little truck carrying a complete televisor apparatus. But suddenly, when they had descended some three miles or more, the televisor apparatus began to function poorly; interference built up in the wires trailing behind, and recall signals sent to the men below did not reach them at all.
 
-At last, a few brave Tharoo volunteered to descend the great tube. They went armed with a portable atomic-blast and they went slowly for they ran that blast every inch of the way, enlarging the tube, but destroying any chance form of life or gas that might be there. One— two—three—three and a half miles they went, their blast following the curved outline of the tube, enlarging it, tending to straighten it.
+.space
+At last, a few brave Tharoo volunteered to descend the great tube. They went armed with a portable atomic-blast and they went slowly for they ran that blast every inch of the way, enlarging the tube, but destroying any chance form of life or gas that might be there. One—two—three—three and a half miles they went, their blast following the curved outline of the tube, enlarging it, tending to straighten it.
 
 At three and three-quarters miles they stopped, left their blast running, and retreated, terrified, up the tube, leaving only a group of Type-R Mauns to investigate. The blast washed harmlessly against an invisible surface!
 
-The pale beam, the tiny, lambent lightnings crackled and sang, twittered against the rock, and swiftly enlarged it. But like a great round plug in the tube, there was a wall that drank up the terrible force of the atomic-blast and turned it silently, effortlessly, into utter darkness. At fullest aperture the beam roared, the rock washed away in great spurting bursts of flaming hydrogen, the lightnings became mighty blasts that shook the very heart of the rock—then at last all was quiet and terror was gone, save where that strange silence held grimly, horribly mysterious. There was no sound, no light, no discharge, only the quiet sucking in of the atomic-blast —and silence.
+The pale beam, the tiny, lambent lightnings crackled and sang, twittered against the rock, and swiftly enlarged it. But like a great round plug in the tube, there was a wall that drank up the terrible force of the atomic-blast and turned it silently, effortlessly, into utter darkness. At fullest aperture the beam roared, the rock washed away in great spurting bursts of flaming hydrogen, the lightnings became mighty blasts that shook the very heart of the rock—then at last all was quiet and terror was gone, save where that strange silence held grimly, horribly mysterious. There was no sound, no light, no discharge, only the quiet sucking in of the atomic-blast—and silence.
 
 They waited for a report from those Maun investigators they had left, and no report came, and the beam continued on for hour after hour. The Tharoo went down cautiously.
 
@@ -1984,6 +2043,7 @@ There was only one way. A chain of Tharoo stood all down that corridor. Whatever
 
 They retreated hastily though when the silence changed; it grew slowly dark, and the white light of the tubes beyond dimmed slowly. They believed the first expedition to go down had set those tubes in the wall for light, and there was none to contradict them. Their powerful light beams died out into darkness when they touched the spherical wall of the silence.
 
+.space
 Mauns were left there to watch. The Tharoo retreated till they could just see them around the bend of the corridor. For almost an hour they waited while nothing happened.
 
 Then—out of the silence came strange, soft banners and flames of violet haze that slowly wound around the heads of the suddenly fleeing Mauns, and the Mauns fell. Hastily the Tharoo retreated farther around the bend. Cautiously a Maun observer poked his head around the comer. The Tharoo watching him saw only the slowly slumping body, the crumpling limbs. He cried out in terror. However, silently, wordlessly, the Maun gathered his limbs under him, like a revived corpse and, still with the strange stiffness of automatic movement, walked around that comer.
@@ -2020,13 +2080,13 @@ In a few minutes Kahm was back at the surface. The people on the outskirts of th
 
 Kahm turned his eyes upward. Three great cruisers hung there, dropping bombs and spitting their rays. Kahm raised a little ellipsoidal projector in his hand, looked at it for a moment, then sighted along the thin metal rod at its top, and slowly depressed a button.
 
-The Tharoo saw the black dome leap suddenly upward at one point, an utterly black finger driving with the speed of light toward a cruiser. It barely touched it —and collapsed. For ten seconds the cruiser hung there, her atomic-blasts suddenly stilled, the bombs no longer dropping. She hung there, apparently sound. It took some time for the atomically fine dust to spread about enough for them to see at that distance that she was no longer a cruiser, but a dust cloud in the shape of a cruiser. The shape held fairly well for nearly two minutes. Most of them had shifted their gaze, however, before then. The second and third cruisers were slowly expanding. The dust was ultramicroscopic in size, colloidal even in air. It never settled. It floats about Earth today, in all probability.
+The Tharoo saw the black dome leap suddenly upward at one point, an utterly black finger driving with the speed of light toward a cruiser. It barely touched it—and collapsed. For ten seconds the cruiser hung there, her atomic-blasts suddenly stilled, the bombs no longer dropping. She hung there, apparently sound. It took some time for the atomically fine dust to spread about enough for them to see at that distance that she was no longer a cruiser, but a dust cloud in the shape of a cruiser. The shape held fairly well for nearly two minutes. Most of them had shifted their gaze, however, before then. The second and third cruisers were slowly expanding. The dust was ultramicroscopic in size, colloidal even in air. It never settled. It floats about Earth today, in all probability.
 
 Then they saw the swifter growth of the curtain. It was growing still faster now. The Tharoo promptly preempted all means of transit. Some of the Tharoo were too slow and, with the tens of thousands of Mauns, vanished into the curtain.
 
 The Mauns were greeted by those who had preceded them into the curtain. Safe within, utterly bewildered and lost, finding suddenly that within it was quiet and light and the city was undisturbed. G-type men took charge of the groups, familiar giant figures of solidity and orderliness. They moved in orderly groups to their places, many returning to their homes, now safe within the Dome.
 
-Lordly Tharoo were different. Terrified and fleeing, they were caught by the Dome, struggled for an instant —and burst through to light and freedom to an orderly, cleared place where G-4 men worked and tended and directed. Their courage renewed, they demanded attention.
+Lordly Tharoo were different. Terrified and fleeing, they were caught by the Dome, struggled for an instant—and burst through to light and freedom to an orderly, cleared place where G-4 men worked and tended and directed. Their courage renewed, they demanded attention.
 
 Instantly, the G-14 guard officers directed them, quite as though they had been Mauns, to go to the central clearing. They were angry. They were insulted by the fact these Mauns did not address them as “Tharoo Master.” But they were bewildered. They went.
 
@@ -2078,6 +2138,7 @@ It was a hard lesson. Only the young among them learned it, those young who had 
 
 In a week the Dome covered Landing City.
 
+.space
 “You have, then, learned to treat with us,” said Kahm softly.
 
 There were ten Tharoo there, from the ten greatest cities of the Tharoo still remaining. They were all young. The old Tharoo were aware of that fact. They could not endure it, however.
@@ -2098,19 +2159,24 @@ The Mauns, be it understood, had both the irresistible force and the immovable o
 
 a strange race, of different types, all contented with the work which they must do and inasmuch as they had been bred with that in view, there was little chance of turning one against each other.
 
-The Tharoo, welcome enough on Venus where their race had, in fighting a desperately savage jungle alone —not with the aid of a tractable race—lost all their science and comfort, nevertheless far preferred the Earth where they were not welcome. They preferred it even more, when they discovered the exact meaning of work. But—what was to be done against the curtain?
+The Tharoo, welcome enough on Venus where their race had, in fighting a desperately savage jungle alone—not with the aid of a tractable race—lost all their science and comfort, nevertheless far preferred the Earth where they were not welcome. They preferred it even more, when they discovered the exact meaning of work. But—what was to be done against the curtain?
 
 Actually it came down to the question: “What was to be done against a more intelligent race?”
 
 For the Tharoo were excellent teachers.
 
-Blindness
+---
 
-Old Dr. Malcolm Mackay is dead, and, with more than usual truth, one may say he is at last at peace. His life was hard and bitter, those last few years. He was blind, of course, blinded as everyone knew by the three-year-long exposure to the intolerable light of the Sim.
+blindness
+
+# Blindness
+
+.fl
+<span class="smallcaps">Old Dr. Malcolm Mackay</span> is dead, and, with more than usual truth, one may say he is at last at peace. His life was hard and bitter, those last few years. He was blind, of course, blinded as everyone knew by the three-year-long exposure to the intolerable light of the Sim.
 
 And he was bitter, of course, as everyone knew. But somehow they could not understand that; a man so great, so loved by the population of three worlds, it seemed there could be nothing in his life to embitter him, nor in the respect and love of the worlds for him.
 
-Some, rather unkindly, I feel, put it down to his blindness, and his age—he was eighty-seven when he died—and in this they were unjust. The acclaim his great discovery brought him was the thing which embittered him. You see, he didn’t acclaim for that; it was for the lesser invention he really wanted praise.
+Some, rather unkindly, I feel, put it down to his blindness, and his age—he was eighty-seven when he died—and in this they were unjust. The acclaim his great discovery brought him was the thing which embittered him. You see, he didn’t *want* acclaim for that; it was for the lesser invention he really wanted praise.
 
 That the “Grand Old Man” may be better understood, I genuinely want people to understand better the story of his work. And his blindness, but not as most people speak of it. The blindness struck him long before
 
@@ -2126,25 +2192,23 @@ Mackay had seen that on atomic power rested the only real hope of really commerc
 
 Malcolm Mackay saw that the hand of Providence was stretched out to aid him. Money was the thing that he’d needed. Douglas Mackay always claimed that money was a higher form of life; that it answered the three tests of life. It was sensitive to stimulation. It was able to grow by accretion. And finally—the most important, in Mackay’s estimation—the old Scot pointed out it was , capable of reproduction. So Malcolm Mackay put his in an incubator, a large trust company, and left it to reproduce as rapidly as possible.
 
-He lived in shabby quarters, and in shabby clothes most of the time, so he’d have money later on when he started his work. And he studied. Obviously, there is no
-
-I question but that Mackay was one of the most highly intelligent human beings that ever lived. He started with the basis of atomic knowledge of that day, and he learned it all, too, and then he was ready to go ahead. He spent seventeen years at M.I.T. learning and teach-
+He lived in shabby quarters, and in shabby clothes most of the time, so he’d have money later on when he started his work. And he studied. Obviously, there is no question but that Mackay was one of the most highly intelligent human beings that ever lived. He started with the basis of atomic knowledge of that day, and he learned it all, too, and then he was ready to go ahead. He spent seventeen years at M.I.T. learning and teach-
 
 ing, till he felt that he had learned enough to make the teaching more of a nuisance than a worthwhile use of his time.
 
 By that time, the money had followed the laws of money, and life, and had reproduced itself, not once, but twice, for the Scot had picked a good company. He had two and a quarter millions.
 
-There is no need to retell his early experiments. The story of the loss of three fingers on his left hand is an old one. The countless minor and semi-major explosions he had, the radiation bums he collected. But, perhaps those bums weren’t so wholly injurious as was thought, for thirty-five years after he left M.I.T. he was still working at an age when most men are resting—either in coffins or wheel chairs. The Grand Old Man didn’t put his final determination into action until he was seventy-three.
+There is no need to retell his early experiments. The story of the loss of three fingers on his left hand is an old one. The countless minor and semi-major explosions he had, the radiation burns he collected. But, perhaps those burns weren’t so wholly injurious as was thought, for thirty-five years after he left M.I.T. he was still working at an age when most men are resting—either in coffins or wheel chairs. The Grand Old Man didn’t put his final determination into action until he was seventy-three.
 
-John Bums was his laboratory assistant and mechanician then. Mackay’s loss of his fingers had been serious, because it made delicate instrument work difficult, and John Bums, thirty-two at the time, was his mechanician, his hand, and his highly trained technical assistant. In May, 2047, the latest experiment having revealed only highly interesting but negative results, Malcolm Mackay looked at Bums.
+John Burns was his laboratory assistant and mechanician then. Mackay’s loss of his fingers had been serious, because it made delicate instrument work difficult, and John Burns, thirty-two at the time, was his mechanician, his hand, and his highly trained technical assistant. In May, 2047, the latest experiment having revealed only highly interesting but negative results, Malcolm Mackay looked at Burns.
 
 “John, that settled it,” he said slowly. “Something is missing, and we won’t get it here in a pair of lifetimes, even long ones. You know the only place we can find it.”
 
-“I suppose you mean the Sim,” replied Bums sadly. “But since we can’t get near enough to that, it doesn’t do us a bit of good. Houston’s the only man who has come back alive, and his nearest approach was 41,743,560 miles. And it didn’t do any good, anyway. The automatic rockets get nearer, but not very much nearer; the heat beats them—all of them. And you, yourself, said we’d have to get within four millions, not four tens of millions of miles. And that’s utterly hopeless. Nothing could stand it that close to old Sol.”
+“I suppose you mean the Sun,” replied Burns sadly. “But since we can’t get near enough to that, it doesn’t do us a bit of good. Houston’s the only man who has come back alive, and his nearest approach was 41,743,560 miles. And it didn’t do any good, anyway. The automatic rockets get nearer, but not very much nearer; the heat beats them—all of them. And you, yourself, said we’d have to get within four millions, not four tens of millions of miles. And that’s utterly hopeless. Nothing could stand it that close to old Sol.”
 
 “We’re going,” said Mackay grimly. “I’ve spent close to three quarters of a century working on the problem of
 
-atomic energy, and we’re going.” He paused for a moment, then looked up at Bums with a kindly smile. “No; I guess it’s not we who are going, but I. I’m more than willing to go, and lose perhaps two years off the tail end of my overlong life if need be, if I can send back the word to the world that will set it free of that age-old problem of power.
+atomic energy, and we’re going.” He paused for a moment, then looked up at Burns with a kindly smile. “No; I guess it’s not we who are going, but I. I’m more than willing to go, and lose perhaps two years off the tail end of my overlong life if need be, if I can send back the word to the world that will set it free of that age-old problem of power.
 
 “Power. Maybe we can use Sun power, after all. They’ve been talking about solar power since the beginning of the last century, and they haven’t got it yet Never will, I guess, because the power’s too diluted. They can’t build a big enough Sun glass. But if we can steal the secret of the Sun, and give them little private suns right here on Earth, that will settle the question. And give rockets some real power, too, incidentally.”
 
@@ -2152,7 +2216,9 @@ The old man chuckled. “You know, John, when I started, it was the dream of my 
 
 “And atomic power isn’t so badly needed for rockets, anyway. They have good fuels now, safe ones and powerful ones like atomic hydrogen and oxygen. Atomic power is needed here on Earth, where factories are, and , men labor in coal mines for fuel, and where they make | the fuel for rockets. That’s where mankind needs atomic power.
 
-“And by all the powers of Heaven, if the Sun’s the place where I can learn, the Sun’s where I’m going.” ■ “But by that particular power of Heaven known as radiant energy, you can’t,” objected Bums. “The radiation makes it impossible.”
+“And by all the powers of Heaven, if the Sun’s the place where I can learn, the Sun’s where I’m going.”
+
+“But by that particular power of Heaven known as radiant energy, you can’t,” objected Burns. “The radiation makes it impossible.”
 
 “Well, I’ll kill that radiation, somehow. That’s the real problem now, I guess. Wonder how—we’ve developed a lot of different radiation screens and blocks since we began this work here; we ought to find something.”
 
@@ -2162,7 +2228,7 @@ thing will do that. It’s a problem we’ve never before attempted—the proble
 
 “We’ll stop it and handle it, somehow,” determined Mackay.
 
-Bums gave up. Mackay meant it, so that was the new problem. It was obviously impossible, Bums knew, but so was atomic power, evidently. They’d ran against all the blind alleys in the universe seeking that, so they might as well try a few more in a different direction.
+Burns gave up. Mackay meant it, so that was the new problem. It was obviously impossible, Burns knew, but so was atomic power, evidently. They’d ran against all the blind alleys in the universe seeking that, so they might as well try a few more in a different direction.
 
 Malcolm threw himself into that problem with all the keenness and determination he had shown through fifty-five years of active research on the main line. This was just another obstacle on the main track. It stood between him and the Great Secret.
 
@@ -2188,35 +2254,35 @@ Thermlectrium is a magnetic alloy, the unique property being that its crystals a
 
 In any permanent magnet, the crystals are tiny individual magnets, all lined up with their north poles pointing the same way. In magnetized steel, if the bar is heated, the heat-motion of the molecules turns some of them around, with the result that the magnetism is lost. In thermlectrium, even at low temperatures, the crystals turn, but they all turn together. The result is the same as though the bar had been inverted. A current is induced in the surrounding coil. And, of course, the energy which inverts the magnet, and drives the current of electricity, is the molecular motion known as heat. Heat was conquered!
 
-Dr. Mackay drove his plans on to rapid completion. Bums insisted on going, and Mackay could not dissuade him.
+Dr. Mackay drove his plans on to rapid completion. Burns insisted on going, and Mackay could not dissuade him.
 
 The plans were strange. They were enough to dissuade any normal man. Only such a fanatic as Dr. Mackay really was, and as Burns had become, could have imagined them. Either that, or a man with colossal self-conceit. The Prometheus was to leave from Luna. Then she was to circle down toward the Sun, down very, very nearly one hundred million miles till she was within three million miles of the million mile globe of incandescent fury, and stop her fall by going into a close, circular orbit.
 
-That means less, today. No one had ever imagined attempting anything like that. Houston, who had circled the Sun, had actually merely swung in on a comet’s orbit, and let his momentum carry him away again. That wasn’t difficult. But to break the vast parabolic orbit a body would naturally attain in falling from Earth toward the Sun would require every pound of fuel the Prometheus could carry and break free of Lima.
+That means less, today. No one had ever imagined attempting anything like that. Houston, who had circled the Sun, had actually merely swung in on a comet’s orbit, and let his momentum carry him away again. That wasn’t difficult. But to break the vast parabolic orbit a body would naturally attain in falling from Earth toward the Sun would require every pound of fuel the *Prometheus* could carry and break free of Luna.
 
-The Prometheus could set up her orbit around the Sun. That was going to be easy. But they couldn’t possibly pull loose with any known power. Only atomic power could do it. When and if they found it!
+The *Prometheus* could set up her orbit around the Sun. That was going to be easy. But they couldn’t possibly pull loose with any known power. Only atomic power could do it. When and if they found it!
 
-Malcolm Mackay was eager to bet his life on that proposition. Atomic energy or—eternal captivity— death. And Bums, as much a fanatic as Mackay, was willing, too.
+Malcolm Mackay was eager to bet his life on that proposition. Atomic energy or—eternal captivity—death. And Burns, as much a fanatic as Mackay, was willing, too.
 
 There were only two horns to this dilemma. There was no third to escape on, no going between them. So the Grand Old Man sank every penny of his fortune in it, and would have sunk any he could borrow had he been able to get it.
 
-The Prometheus rose, slowly. And during the weeks and months it was being built, Mackay and Burns spent their time gathering supplies, instruments, chemicals. For one thing, every element must be represented, and in proportion to its availability. Radium, even, though radium could never be a source of atomic power, for power derived from radium would still be too expensive for commercial use. But radium might be the absolutely essential primer for the engine—so radium went. And fluorine, the deadly unmanageable halogen, everything.
+The *Prometheus* rose, slowly. And during the weeks and months it was being built, Mackay and Burns spent their time gathering supplies, instruments, chemicals. For one thing, every element must be represented, and in proportion to its availability. Radium, even, though radium could never be a source of atomic power, for power derived from radium would still be too expensive for commercial use. But radium might be the absolutely essential primer for the engine—so radium went. And fluorine, the deadly unmanageable halogen, everything.
 
 Then, gradually, the things were moved in as the ship neared completion. The outer hull of the high-temperature tungsten steel, the space filled with hydrogen under pressure, since hydrogen was the best conductor of heat practicable, and in that interspace, the thousands of thermlectrium elements, and fans to force circulation.
 
-The Prometheus was a beautiful ship when she was finished. She glowed with the gleam of a telescope mirror, polished to the ultimate. Only on one side was she black, black as space, and, here studded with huge projectors and heaters. The power inevitably generated in absorbing the heat in the therm elements would be cast out here in tungsten bars thick as a man’s arm, and glowing white-hot in an atmosphere of hydrogen gas.
+The *Prometheus* was a beautiful ship when she was finished. She glowed with the gleam of a telescope mirror, polished to the ultimate. Only on one side was she black, black as space, and, here studded with huge projectors and heaters. The power inevitably generated in absorbing the heat in the therm elements would be cast out here in tungsten bars thick as a man’s arm, and glowing white-hot in an atmosphere of hydrogen gas.
 
-She left, finally. Struggling up from Earth, she reached Lima, her first stage, and filled her fuel tanks to the last possible ounce. Then, in August, 2050, she took off at length.
+She left, finally. Struggling up from Earth, she reached Luna, her first stage, and filled her fuel tanks to the last possible ounce. Then, in August, 2050, she took off at length.
 
-Reaching the Sun was no trick at all, once she had broken free of the Moon and of Earth. Day after day she fell with steadily mounting speed. The Sun loomed larger, hotter. The great gyroscopes went into action, and the Prometheus turned its silvered face to the Sun, reflecting the flooding heat. Nearer and nearer. Venus fell behind, then Mercury’s orbit at last.
+Reaching the Sun was no trick at all, once she had broken free of the Moon and of Earth. Day after day she fell with steadily mounting speed. The Sun loomed larger, hotter. The great gyroscopes went into action, and the *Prometheus* turned its silvered face to the Sun, reflecting the flooding heat. Nearer and nearer. Venus fell behind, then Mercury’s orbit at last.
 
 They knew heat then. And radiation. The Sun loomed gigantic, a titanic furnace whose flames reached out a quarter of a million miles. The therm elements began to function, and the heat dropped somewhat. Then the rockets started again, started their braking action, slowly, steadily, braking the ship to the orbit it must make, close about the Sun.
 
 Hour after hour they droned and roared and rumbled, and the heat mounted, for all the straining power of the therm elements. Radio to Earth stopped the second day of the braking. The flooding radiations of the Sun killed it. They could still send, they knew, but they could not receive. Their signals were received by stations on the Moon, where the washing static of the Sun did not blanket all the signals that came. For they were beaming their waves, and the Sun, of course, was not.
 
-“We must establish the orbit soon, John,” said Mac-kay, at last. He was lying down on his couch, sick and weak with the changing strains. “I am an old man, I fear, and I may not be able to endure much more of this.”
+“We must establish the orbit soon, John,” said Mackay, at last. He was lying down on his couch, sick and weak with the changing strains. “I am an old man, I fear, and I may not be able to endure much more of this.”
 
-“We will have to brake more sharply then, Dr. Mac-kay,” replied Burns concernedly. “And then we may not be able to establish the perfectly circular orbit we need.”
+“We will have to brake more sharply then, Dr. Mackay,” replied Burns concernedly. “And then we may not be able to establish the perfectly circular orbit we need.”
 
 Mackay smiled faintly, grimly. “If it is not soon, John, no orbit will mean anything to me.”
 
@@ -2224,7 +2290,7 @@ The rockets roared louder, and the ship slowed more rapidly. But it was three da
 
 Dr. Mackay recuperated slowly. It was three weeks, actually, three, precious oxygen-consuming weeks, before they started the final orbit trimming. Then day and day they worked, observing, and occasionally giving a slight added rocket thrust for orbit trimming.
 
-But, finally, at a distance of three point seven three millions of miles, the Prometheus circled the titanic star. The sunward side, for all its polish glowed red-hot continuously. And the inside of the ship remained a heated, desiccated furnace, for all the work of the therm elements. Even they could not perfectly handle the heat.
+But, finally, at a distance of three point seven three millions of miles, the *Prometheus* circled the titanic star. The sunward side, for all its polish glowed red-hot continuously. And the inside of the ship remained a heated, desiccated furnace, for all the work of the therm elements. Even they could not perfectly handle the heat.
 
 “Ah, John,” said Mackay at last. “In some ways Earth was better, for here we have strange conditions. I wish we could get a time signal from Earth. The space is distorted here by the Sun.”
 
@@ -2240,13 +2306,13 @@ But it grew to be a habit with them, the sending of the daily negative reports, 
 
 That dust was slowing them down, of course. They were, actually, spiralling in toward the Sun. In some seventy-five years they would have been within reach of the prominences. But before then—one of the pans of-their balance would have tipped. Atomic power—or the inevitable end.
 
-But Mackay was happy here. His eyes turned from deep blue-gray to a pale blue with red bloodshot balls; his skin turned first deep, deep brown from the filtering ultraviolet, then it became mottled and unhealthy. Bums’ skin changed too, but his eyes endured better, for he was younger. Still, Mackay felt sure of his goal. He looked down into the flaming heart of a Sun spot, and he examined the underside of a prominence, and he watched the ebb and flow of Sol’s titanic tides of white-hot gas.
+But Mackay was happy here. His eyes turned from deep blue-gray to a pale blue with red bloodshot balls; his skin turned first deep, deep brown from the filtering ultraviolet, then it became mottled and unhealthy. Burns’ skin changed too, but his eyes endured better, for he was younger. Still, Mackay felt sure of his goal. He looked down into the flaming heart of a Sun spot, and he examined the underside of a prominence, and he watched the ebb and flow of Sol’s titanic tides of white-hot gas.
 
 2050 passed into history, and 2051 and 2052 followed in swift succession. No hint of the great happenings of Earth and the planets reached there, only the awful burning of the Sun—and, in February of 2053, a hint of the great changes there.
 
 “John,” said Mackay softly one day, “John—I think I see some hint of the secret. I think we may make it, John!”
 
-Bums looked at the sharp-lined spectrum that lay on the table before Mackay, and at the pages of calculations and measurements and at the data sheets. “I don’t see anything much different in that, doctor. Isn’t it another will-o’-the-wisp?”
+Burns looked at the sharp-lined spectrum that lay on the table before Mackay, and at the pages of calculations and measurements and at the data sheets. “I don’t see anything much different in that, doctor. Isn’t it another will-o’-the-wisp?”
 
 “I—I hope not, John. Don’t you see this—this little line here? Do you recognize it?”
 
@@ -2262,7 +2328,7 @@ Bums looked at the sharp-lined spectrum that lay on the table before Mackay, and
 
 “It blinds even the instruments, so there is little more we can do. But we can calculate and take more photographs for more of those lines. But now I must see what the instruments recorded when we got this line.”
 
-They had recorded even more than the old man had hoped. It was enough. Mackay and Bums duplicated that impossible line, and then they produced some more impossible lines. It was the key. It wasn’t impossibly difficult then. They could design the apparatus, and did, in September, three years and one month after lifting off for the final drop to the Sun.
+They had recorded even more than the old man had hoped. It was enough. Mackay and Burns duplicated that impossible line, and then they produced some more impossible lines. It was the key. It wasn’t impossibly difficult then. They could design the apparatus, and did, in September, three years and one month after lifting off for the final drop to the Sun.
 
 They made it, piece by piece, and tested it January. It
 
@@ -2278,9 +2344,7 @@ His thin lips parted in a contented smile, though, as his tough old fingers care
 
 “No, John. We don’t have to worry at all about power.” The old man sighed, then chuckled contentedly. “I always wanted to live to see the day when atomic power ran the world. But I guess I won’t after all. I can’t see, but it won’t matter. I have so few years left, I won’t worry about a little thing like that. My work’s done, anyway. We don’t have to worry about power, John; the world doesn’t any more.
 
-“Men will never again have to worry about power. Never again will they have to grub in the Earth for fuels. Or do things the hard way because it is less costly of power. Power—power for all the world’s industry.
-
-All the wheels of Earth’s factories driven by the exploding atoms. The arctic heated to a garden by it. Vast Canada opened by it to human habitation, clear to the North Pole.
+“Men will never again have to worry about power. Never again will they have to grub in the Earth for fuels. Or do things the hard way because it is less costly of power. Power—power for all the world’s industry. All the wheels of Earth’s factories driven by the exploding atoms. The arctic heated to a garden by it. Vast Canada opened by it to human habitation, clear to the North Pole.
 
 “No more smoke-clouded cities.
 
@@ -2292,7 +2356,7 @@ All the wheels of Earth’s factories driven by the exploding atoms. The arctic 
 
 “Yes, doctor. The main tube is to be—”
 
-Bums launched into a technical discussion. The doctor’s eyes could not follow the plans, but the old mind was as keen as ever. It pictured every detail with a more penetrative vision than ever his eyes could have. He chuckled contentedly as he thought of it.
+Burns launched into a technical discussion. The doctor’s eyes could not follow the plans, but the old mind was as keen as ever. It pictured every detail with a more penetrative vision than ever his eyes could have. He chuckled contentedly as he thought of it.
 
 “John, I have lost little, and gained more. I can see that tube better than you can. It’s a metal tube, but I can see to its deepest heart, and I can even see the ions streaming out, slowly, precisely. My mind has a better eye than ever my body had, and now it is developing. I can see the tube-when it is not yet, and I can see the heart of it, which you cannot.
 
@@ -2304,19 +2368,17 @@ The mental eye he had boasted of was keen, keener than his old eyes had ever bee
 
 The drive tubes grew, and their great metal bed-bolts were turned. Then the great rocket tubes were sealed at the far end, cut, and insulated again. But now, electrically insulated, the great ion tubes took shape and were anchored, and the huge conductors ran back to the ion-gas chambers, and to the hunched bulk of the atomic engine. Day succeeded day, and Burns cut and fashioned the metal and welded it under the blazing power of the broken atoms in their atomic generator.
 
-And at last the ship trembled with a new, soft surge. It must be slow, for the men were used now to weightlessness, three long years of it. But gradually, gradually, the Prometheus, bearing the fire it had stolen fr<fm the Sun, swung swifter in its orbit, and spiraled out once more, slowly, slowly. And the radio drove out its beam toward Earth.
+And at last the ship trembled with a new, soft surge. It must be slow, for the men were used now to weightlessness, three long years of it. But gradually, gradually, the *Prometheus*, bearing the fire it had stolen from the Sun, swung swifter in its orbit, and spiraled out once more, slowly, slowly. And the radio drove out its beam toward Earth.
 
-They could not hear the messages that Earth and Lima pounded back at them, but gladly they guessed them. The ion tubes whispered and murmured softly, with a slithering rustle as of a snake in dry leaves, and the ship accelerated steadily, slowly. They ran those tubes day and night and slowly increased the power. There was no need for maximum efficiency now. No need to care as they wasted their power. There was plenty more.
+They could not hear the messages that Earth and Luna pounded back at them, but gladly they guessed them. The ion tubes whispered and murmured softly, with a slithering rustle as of a snake in dry leaves, and the ship accelerated steadily, slowly. They ran those tubes day and night and slowly increased the power. There was no need for maximum efficiency now. No need to care as they wasted their power. There was plenty more.
 
 Their only difficulty was that with the mighty ion tubes working they could not receive radio signals, even when they gradually circled out beyond Mercury, and finally Venus, slowly growing accustomed once more to weight. They did not want to turn off their tubes, because they must get accustomed to weight once more, and they were moving very rapidly now, more and more rapidly, so that they passed Venus far too rapidly for the ships that rose from the planet to congratulate Dr. Mackay and tell him the great news.
 
-They circled on, in the Prometheus, till they were used once more to Earth gravity, and then they were near Earth, and had to apply the braking ion rockets.
+They circled on, in the *Prometheus*, till they were used once more to Earth gravity, and then they were near Earth, and had to apply the braking ion rockets.
 
-“No stopping at the Moon, John,” Malcolm Mackay smiled. “We and all humanity are through with that. We will go directly to Earth. We had best land in the Mo-
+“No stopping at the Moon, John,” Malcolm Mackay smiled. “We and all humanity are through with that. We will go directly to Earth. We had best land in the Mojave Desert. Tell them, tell them to keep away, for the ions will be dangerous.”
 
-jave Desert. Tell them, tell them to keep away, for the ions will be dangerous.”
-
-John Bums drove out his message, and Earth loomed large, and North America came slowly into view. Then they were settling toward the desert.
+John Burns drove out his message, and Earth loomed large, and North America came slowly into view. Then they were settling toward the desert.
 
 The old scientist heard the faint, cold cry of ruptured air first, for his eyes were dark, and only his ears brought messages from outside. “That’s air, John!” he cried suddenly. “We’re in the air again! Earth’s air! How far up are we?”
 
@@ -2338,11 +2400,11 @@ stratosphere ships flying near us now; can you hear the chug of their propellers
 
 “Is that the noise—ah! Men, men, again, John. I want to hear a thousand voices all at once.”
 
-Bums laughed recklessly, carefree. “You will, from the looks of things. You will! There are nearer a thousand thousand down there now!”
+Burns laughed recklessly, carefree. “You will, from the looks of things. You will! There are nearer a thousand thousand down there now!”
 
 “The ship is slowing?” asked Mackay.
 
-Bums was silent for a moment. Then, suddenly, the dry rustle of the tubes changed its note; it flared for an instant, there was a soft, grating thud, a harsh scraping of sand—and the ion tubes died in silence.
+Burns was silent for a moment. Then, suddenly, the dry rustle of the tubes changed its note; it flared for an instant, there was a soft, grating thud, a harsh scraping of sand—and the ion tubes died in silence.
 
 “The ship is stopped, doctor. We’re home.”
 
@@ -2354,13 +2416,13 @@ The lock opened, and to Mackay came the roar of voices, the thrum and hum and ru
 
 “So I hear,” said Mackay, half happily, half sadly, “but I am so tired, perhaps I can rest a bit first. I am older than you are, John. You have done as much as I; you had better answer them.”
 
-Suddenly, close-by human voices cut in, excited, happy, welcoming voices, and John Bums’ swift answering speech:
+Suddenly, close-by human voices cut in, excited, happy, welcoming voices, and John Burns’ swift answering speech:
 
 “He is tired; it has been hard for him. And—you know he has lost his sight. The radiation of the Sim so close. He would rather be taken where he can rest.”
 
 “Very well—but can’t he say something? Just a few words?”
 
-Bums looked back at the old man. Malcolm Mackay shook his head.
+Burns looked back at the old man. Malcolm Mackay shook his head.
 
 The man outside spoke again: “Very well. We will take him directly to anywhere he wants.”
 
@@ -2368,7 +2430,7 @@ Mackay smiled slowly, thoughtfully. “Anywhere, anywhere that I can smell the t
 
 They took him to a private camp in the mountains. A ten-room “cabin,” and they kept the world away, and a doctor took care of him. He slept and rested, and Burns came to see him twice the next day, but was hurried away. The next day and the next he did not come.
 
-Because even Bums had not gathered quickly the meaning of all this. Even he had thought at first it was in celebration of the invention of the atomic generator.
+Because even Burns had not gathered quickly the meaning of all this. Even he had thought at first it was in celebration of the invention of the atomic generator.
 
 At last he had to come. He came into Mackay’s room slowly. His pace told the blind man something was wrong.
 
@@ -2406,7 +2468,11 @@ And Dr. Mackay caught the kindness in his tone.
 
 “Then the world doesn’t want my atomic energy, does it?” he said softly. His old body seemed to droop.
 
-Elimination
+---
+
+elimination
+
+# Elimination
 
 John Grantland looked across at his old friend’s son intently and unhappily. Finally he sighed heavily and leaned back in his swivel chair. He lighted his pipe thoughtfully. Two slow puffs of smoke rose before he spoke.
 
@@ -2420,7 +2486,7 @@ needs! We have a fast-vanishing gasoline reserve—a coal supply being drawn on 
 
 “It would destroy our greatest resource, the financial structure of the nation. A resource is not a resource unless it is available, and only the system makes it available. The system is more valuable, more important to human happiness than any other resource, because it makes all others available.
 
-“I know your natural desire, to develop and spread that system for canning and distributing electricity. It’s a great invention. But—■”
+“I know your natural desire, to develop and spread that system for canning and distributing electricity. It’s a great invention. But—”
 
 “But,” the younger man said somewhat bitterly, “you feel that any really great, any important invention should be destroyed. There must be, you are saying, no real improvement, only little gadgets. There must be no Faradays who discover principles, only Sam Browns who invent new can openers and better mousetraps.”
 
@@ -2442,7 +2508,7 @@ The young man put down his papers, looked curiously at John Grantland. “I agre
 
 “I have heard of him; I’ve used his analytical methods. He died at thirty-three, didn’t he?”
 
-“I know,” said Grantland. “The point is—so did Bob Darnell. Bob Darnell was something like Edison, on a higher level. Edison could translate theory into metal and glass and matter. Darnell could do that, but he didn’t work with steel and copper and glass. He worked with atoms and electrons and radiation as familiarly as Edison worked with metal. And Darnell' didn’t work from theory; he worked from mathematics that no theory could be defined for.
+“I know,” said Grantland. “The point is—so did Bob Darnell. Bob Darnell was something like Edison, on a higher level. Edison could translate theory into metal and glass and matter. Darnell could do that, but he didn’t work with steel and copper and glass. He worked with atoms and electrons and radiation as familiarly as Edison worked with metal. And Darnell’ didn’t work from theory; he worked from mathematics that no theory could be defined for.
 
 “That was the pair the shifting probabilities of space time brought together—and separated. You’ve never heard of Darnell, because he did only one thing, and that one thing is on paper there, in that steel vault. In the first place, it is in a code that is burned into my memory, and not on paper. In the second place, it is safe because every equation in it is wrong, because we couldn’t code equations easily, and the book that gave them right is out of print, forgotten.
 
@@ -2496,7 +2562,7 @@ black and gray to faintest haziness, is each of those other possibilities.
 
 “And the third day they cast for their future tracks. The near future was a confused haze, but I was with them when they sought in the future far enough for the haze to go. Laughing, elated, they cast a hundred years ahead, when, Bob Darnell said, Til be a man with my long white beard looped through my trousers and over my shoulders for suspenders!’
 
-“They started their machine, and set the control for probabilities in a very low range, for the chance of Bob Darnell’s living to one hundred and thirty-three years of age was remote. They had a device on their machine that would automatically sweep the future, till it found a lane that was occupied, a track that was not dead, in which Bob Darnell still lived. It was limited in speed— but not greatly, for each second it looked down five hundred thousand tracks.”
+“They started their machine, and set the control for probabilities in a very low range, for the chance of Bob Darnell’s living to one hundred and thirty-three years of age was remote. They had a device on their machine that would automatically sweep the future, till it found a lane that was occupied, a track that was not dead, in which Bob Darnell still lived. It was limited in speed—but not greatly, for each second it looked down five hundred thousand tracks.”
 
 “Reaction speed of a photocell,” said the young man slowly. “I know.”
 
@@ -2548,13 +2614,13 @@ gration of the mind; it gets tired of worry and trouble, and decides the easiest
 
 “ ‘But it never recovers, and it’s the most ghastly form of insanity there is, because it is hopeless. It turns a strong, sound man into a helpless, mindless infant. It’s not like idiocy, because an idiot never grew up. This grows up, all right—and then grows down, lower than anything normal could be.
 
-“ ‘That’s just one path where I had a nervous breakdown and got over it. That one—why it might lead to the one-hundred-and-thirty-four-year-old track. But just —go on, Hugh.’
+“ ‘That’s just one path where I had a nervous breakdown and got over it. That one—why it might lead to the one-hundred-and-thirty-four-year-old track. But just—go on, Hugh.’
 
 “Hugh went on—on and on, and we found three sound, sane tracks.
 
 “I don’t have to go into more detail. I think you can understand Darnell’s feelings. We tried at five years, and a few more tracks showed up. At two years, that first night, we found eighteen tracks, and eleven of them were insane, and seven sane. We named the two-year tracks with the Greek alphabet.
 
-“The track Bob wanted, the long track that took him to a hundred and thirty-four, and beyond, clear out to a point where he merged in the march of the infinite future, was his tau track. The alpha, beta, gamma, delta —all those were quite insane, and quite horrible. That meant that, by far, the greater probability led to the unpleasant tracks.
+“The track Bob wanted, the long track that took him to a hundred and thirty-four, and beyond, clear out to a point where he merged in the march of the infinite future, was his tau track. The alpha, beta, gamma, delta—all those were quite insane, and quite horrible. That meant that, by far, the greater probability led to the unpleasant tracks.
 
 “ ‘Hugh, I guess, it’s your turn, if you want to try,’ said Bob finally. ‘We’ll have to check these more carefully later.’
 
@@ -2572,7 +2638,7 @@ ways to strike that tau track is to destroy this machine now.’
 
 “ ‘I can’t, John,’ he said.
 
-“And Hugh started the machine down his trails. He’d set it for a hundred years, like Darnell, at a slightly higher figure than had disclosed the far end of Bob’s tau track. We picked up Hugh’s pretty quickly, and he, too, looked sound and healthy. But he had no second trail —one chance to live to be a hundred and thirty-three.
+“And Hugh started the machine down his trails. He’d set it for a hundred years, like Darnell, at a slightly higher figure than had disclosed the far end of Bob’s tau track. We picked up Hugh’s pretty quickly, and he, too, looked sound and healthy. But he had no second trail—one chance to live to be a hundred and thirty-three.
 
 “ ‘I’m about as good on long life as you, Bob,’ he said, ‘if somebody helps me, but I guess I can’t make it alone.’
 
@@ -2590,17 +2656,17 @@ was examining nearly two billion chances every hour it ran—and finding them bl
 
 “Hugh was down at seven the next morning. I got there at ten and found Bob and Hugh sitting very quiet, trying to smoke. The machine was still humming and clicking, and there wasn’t a thing at all on the recorder.
 
-“ ‘Looks like I’m not slated for a long life,’ Hugh greeted me unhappily, trying to grin. ‘It hasn’t found— thank Heaven!’ The machine stopped suddenly.
+“ ‘Looks like I’m not slated for a long life,’ Hugh greeted me unhappily, trying to grin. ‘It hasn’t found—thank Heaven!’ The machine stopped suddenly.
 
-“It was Hugh, quite hale and sound, his hair a bit gray, his eyes a bit sunken, his face a bit lined, but sane —and sound.
+“It was Hugh, quite hale and sound, his hair a bit gray, his eyes a bit sunken, his face a bit lined, but sane—and sound.
 
 “ ‘That’s what we called the tau track,’ said Bob after a minute of examination. ‘You make a hundred-year mark on the first try.’
 
 “ ‘In other words,’ said Kerry softly, ‘I’ve got about as much chance of living ten years as I have of living a hundred. Yes. That’s a good way to put it. A hell of a chance. What does it say at two years?’
 
-“It took a long time, because we didn’t want to start on the low probabilities, of course, and there just weren’t any good ones. We didn’t find anything very quickly. Eventually we knew he had three sane and one insane at ten years, and eleven altogether at two years— three insane. And they were all of them so far down in probability, they started working right away.
+“It took a long time, because we didn’t want to start on the low probabilities, of course, and there just weren’t any good ones. We didn’t find anything very quickly. Eventually we knew he had three sane and one insane at ten years, and eleven altogether at two years—three insane. And they were all of them so far down in probability, they started working right away.
 
-“But the thing that brought home the need of haste was that when we looked, just for a moment, at Bob’s two-year trails—two of the sane, and five insane trails had vanished! They had been eliminated by decisions made since the previous evening. I knew, Bob and Hugh knew, what the decision was, but we didn’t say anything. He had decided to look at Hugh’s trails in that time, and found those few trails. They cut off at one year, we found, so they had to work on them. That, you see, reduced Bob Darnell’s chances of finding the right trail— the tau trail that wasn’t in tau position any more, but, thank Heaven, still existed.
+“But the thing that brought home the need of haste was that when we looked, just for a moment, at Bob’s two-year trails—two of the sane, and five insane trails had vanished! They had been eliminated by decisions made since the previous evening. I knew, Bob and Hugh knew, what the decision was, but we didn’t say anything. He had decided to look at Hugh’s trails in that time, and found those few trails. They cut off at one year, we found, so they had to work on them. That, you see, reduced Bob Darnell’s chances of finding the right trail—the tau trail that wasn’t in tau position any more, but, thank Heaven, still existed.
 
 “ ‘It’s not so hard, though,’ said Kerry. ‘We need only look to see what developments .we make tomorrow, and
 
@@ -2614,7 +2680,7 @@ tomorrow’s tomorrow, to find how to perfect this machine, to eliminate the nea
 
 “ ‘H-Has your long trail been eliminated by a decision?’ I asked.
 
-“ ‘Hm-m-m—in a sense. I located one of its decision points by luck. It’s only about a month away, apparently. It is less, I believe, but we can’t tell. I took a snap view of the trail, and hit what is evidently a decision point on it. What you didn’t know is that twenty-seven years of that long trail is hopeless paralysis in pain. I apply for euthanasia four times unsuccessfully. Since I know where that trail leads, and still apply for that— why, I think I don’t want it, anyway. But the trouble is, really, that the decision point I snapped, by sheer luck, is an automobile accident.
+“ ‘Hm-m-m—in a sense. I located one of its decision points by luck. It’s only about a month away, apparently. It is less, I believe, but we can’t tell. I took a snap view of the trail, and hit what is evidently a decision point on it. What you didn’t know is that twenty-seven years of that long trail is hopeless paralysis in pain. I apply for euthanasia four times unsuccessfully. Since I know where that trail leads, and still apply for that—why, I think I don’t want it, anyway. But the trouble is, really, that the decision point I snapped, by sheer luck, is an automobile accident.
 
 “ ‘We’ve been trying to take instantaneous exposures of the trails, in the near future, to eliminate the blurring. We can do it by using a blurred image to get space coordinates and snapping the controls into lock position. The time register is automatically thrown out of gear, so we have only a vague idea of time. We know it’s this year—but whether it’s late this month, or early next, I don’t know. We can’t know.’
 
@@ -2642,7 +2708,7 @@ tomorrow’s tomorrow, to find how to perfect this machine, to eliminate the nea
 
 “We looked eagerly. It was gone, all right. And suddenly Hugh stiffened. ‘Bob,’ he said, ‘I’m afraid; I’m scared as hell—because maybe that was a decision point, because I didn’t go over for Tom. I’m going to—’ “He went, too—to call up Tom Phillips. But he was too late then, and he never got him. Tom hadn’t seen a gravel truck smashing down a side street, hidden from him by a stopped trolley car.
 
-“ ‘I was supposed to go over for him,’ was all Hugh could say. ‘But how was I to know? We didn’t know the time accurately. We couldn’t, could we, Bob? I didn’t know— I didn’t know—’
+“ ‘I was supposed to go over for him,’ was all Hugh could say. ‘But how was I to know? We didn’t know the time accurately. We couldn’t, could we, Bob? I didn’t know—I didn’t know—’
 
 “But to the day of his death, he could not shake the feeling that he had brought Tom Phillips out to be
 
@@ -2662,7 +2728,7 @@ killed, almost deliberately. It meant nothing that he had called him to warn him
 
 “Hugh looked a little worried.
 
-“ ‘Will,’ he replied. ‘You see, it didn’t so very much at first, for some reason. I can’t quite— But at any rate, by watching our progress that we are to make, we will make swift advance to the discovery of the secret, and long life.’
+“ ‘Will,’ he replied. ‘You see, it didn’t so very much at first, for some reason. I can’t quite—But at any rate, by watching our progress that we are to make, we will make swift advance to the discovery of the secret, and long life.’
 
 “It seemed so clear, so true, so logical. If they could steal the inventions of a million years in the future, could they not spy on their own progress of the next day and the next? So simple, so logical an advance.
 
@@ -2672,7 +2738,7 @@ killed, almost deliberately. It meant nothing that he had called him to warn him
 
 “They thought it might spare them the blind alleys. But one of those days’ work was a blind alley that they were forced to rip out the next.
 
-“I was called over one day, the third time they read that blackboard, and they showed it to me. There were many, many images on it, and only "one was legible, because it was very, very brief, and written very large.
+“I was called over one day, the third time they read that blackboard, and they showed it to me. There were many, many images on it, and only “one was legible, because it was very, very brief, and written very large.
 
 “Hugh smiled lopsidedly at me when I came in. ‘Well,
 
@@ -2712,7 +2778,7 @@ know, because the message was so stubborn, whether his decision lay in that labo
 
 “ ‘He must be dead by this time,’ said Bob. ‘Ask your men, please. I—what?’
 
-“ ‘The other desk man,’ said the man on the telephone, ‘just got a call, and he says if you’re looking for a guy named Hugh Kerry, he was just killed by a girl driver at Fourteenth and Seventh. He stepped out from behind a parked car right— Say, who’s calling?’
+“ ‘The other desk man,’ said the man on the telephone, ‘just got a call, and he says if you’re looking for a guy named Hugh Kerry, he was just killed by a girl driver at Fourteenth and Seventh. He stepped out from behind a parked car right—Say, who’s calling?’
 
 “ ‘Thanks, officer. Robert Darnell calling, from One Forty-three East Eighty-seventh. I’m going right over to the scene—’
 
@@ -2756,8 +2822,13 @@ John Grantland paused a long minute, his head sunk forward on his chest. He rais
 
 Dwight Edwards rose slowly, dropping his papers on Grantland’s desk. He sighed as he turned away. “The world doesn’t need all its Faradays, does it?” And as he walked through the door, “You’ll take care of those papers for me—”
 
-Forgetfulness
+---
 
+forgetfulness
+
+# Forgetfulness
+
+.fl
 Ron Thule, the astronomer, stood in the lock gate and looked down across the sweep of gently rolling land. Slowly, he breathed in the strange, tangy odors of this planet. There was something of a vast triumph in his eyes, and something of sorrow. They had been here now scarcely five hours, and the sun was still low in the east, rising slowly. Out beyond, above the western horizon, a pale ghost of the strange twin world of this planet, less than a third of a million miles distant, seemed a faint, luminous cloud in the deep, serene blue of the sky.
 
 It was triumph, for six long years of travel, at a speed close to that of light, lay behind them; three and a half light years distant was Pareeth, and the crowding people who had built and launched the mighty two-thousand-five-hundred-foot interstellar cruiser that had brought this little band of one hundred. Launched in hope and striving, seeking a new sun with new planets, new worlds to colonize. More than that, even, for this new-found planet was a stepping-stone to other infinities beyond. Ten years of unbroken travel was the maximum any ship they could build would endure. They had found a
@@ -2808,7 +2879,7 @@ The strange little man from a strange little world circling a dim, forgotten sta
 
 broad green of the land, and they grew in their uncaring majesty.
 
-Sheer, colossal mass, immeasurable weights and loading they were—and they seemed to float there on the grace of a line and a curve, half in the deep blue of the sky, half touching the warm, bright green of the land. They floated still on the strength of a dream dreamed by a man dead these millions of years. A brain had dreamed in terms of lines and curves and sweeping planes, and the brain had built in terms of opal crystal and vast masses. The mortal mind was buried under unknown ages, but an immortal idea had swept life into the dead masses it molded—they lived and floated still on the memory of a mighty glory. The glory of the race— The race that lived in twenty-foot, rounded domes. The astronomer turned. Hidden now by the rise of the verdant land was one of the villages that race built today. Low, rounded things, built, perhaps, of this same, strange, gleaming crystal, a secret half-remembered from a day that must have been—
+Sheer, colossal mass, immeasurable weights and loading they were—and they seemed to float there on the grace of a line and a curve, half in the deep blue of the sky, half touching the warm, bright green of the land. They floated still on the strength of a dream dreamed by a man dead these millions of years. A brain had dreamed in terms of lines and curves and sweeping planes, and the brain had built in terms of opal crystal and vast masses. The mortal mind was buried under unknown ages, but an immortal idea had swept life into the dead masses it molded—they lived and floated still on the memory of a mighty glory. The glory of the race—The race that lived in twenty-foot, rounded domes. The astronomer turned. Hidden now by the rise of the verdant land was one of the villages that race built today. Low, rounded things, built, perhaps, of this same, strange, gleaming crystal, a secret half-remembered from a day that must have been—
 
 The city flamed before him. Across ten—or was it twenty—thousand millenniums, the thought of the builders reached to this man of another race. A builder who thought and dreamed of a mighty future, marching on, on forever in the aisles of time. He must have looked from some high, wind-swept balcony of the city to a star-sprinkled sky—and seen the argosies of space: mighty treasure ships that swept back to this remembered home, coming in from the legion worlds of space, from far stars and unknown, clustered suns; Titan ships, burdened with strange cargoes of unguessed things.
 
@@ -2832,7 +2903,7 @@ Softened by the silence, voices from the expedition reached him. “—diamond w
 
 more elastic than beryl steel. Tough	” That was Dee
 
-Lun, the metallurgist. He would learn that secret somehow. They would all learn. And Shor Nun, commander, executive, atomic engineer, would learn the secrets that their power plants must hold. The dream—the city’s life —would go on!
+Lun, the metallurgist. He would learn that secret somehow. They would all learn. And Shor Nun, commander, executive, atomic engineer, would learn the secrets that their power plants must hold. The dream—the city’s life—would go on!
 
 Ron Thule wandered on. No duty his, today; no responsibility to study carefully the form and turn of sweeping line, the hidden art that floated ten millions of tons of mass on the grace of a line. That for the archaeologist and the engineer. Nor his to study the cunning form of brace and girder, the making of the pearly walls. That for the metallurgist and the chemist.
 
@@ -2892,7 +2963,7 @@ But the city builders had built well. There was no sign of frayed and age-rotted
 
 Seun walked slowly toward the far end of the room, rounding the silent, lightless bulks of the ancient ships. The dust of forgotten age?s stirred softly in his wake, settled behind him. The men of Pareeth gathered in his steps, followed him toward the far wall.
 
-A doorway opened there, and they entered a small room. The archaeologist’s breath whistled: the four walls were decorated with friezes of the history of the race that had built, conquered and sailed a universe— and lived in domes under sheltering trees.
+A doorway opened there, and they entered a small room. The archaeologist’s breath whistled: the four walls were decorated with friezes of the history of the race that had built, conquered and sailed a universe—and lived in domes under sheltering trees.
 
 Seim saw his interest, touched a panel at his side. Soundlessly, a door slid from the wall, clicked softly, and completed the frieze on that wall. The archaeologist was sketching swiftly, speaking to the chemist and the photographer as he worked. The torches flared higher for a moment, and the men moved about in the twenty-foot room, making way for the remembering eye of the little camera.
 
@@ -2906,7 +2977,7 @@ As Seun touched another stud, the door slid back into the wall. The room of the 
 
 “There is only one building, here beneath the ground. It is the city, but it has many heads. The power plant is off here, I think. It has been a long time since I came this way. I was young then, and the city builders fascinated me. Their story is interesting and—”
 
-“Interesting—” The thought seemed to echo in Ron Thule’s mind. The story of the conquest of the universe, the story of achievement such as his race could only dream of yet. They had dreamed—and done! And that, to their descendants, that was—interesting. Interesting to this dark, strange labyrinth of branching corridors, and strange, hooded bulks. Production machinery, he knew, somehow, production machinery that forgotten workmen had hooded as they stepped away temporarily —for a year or two, perhaps till the waning population should increase again and make new demands on it. Then great storerooms, bundled things that might be needed, spare parts, and stored records and deeds. Libraries of dull metal under gray dust. The unneeded efforts of a thousand generations, rotting in this quiet dark that he, Ron Thule, and his companions had disturbed with the moment’s rush of atomic flame.
+“Interesting—” The thought seemed to echo in Ron Thule’s mind. The story of the conquest of the universe, the story of achievement such as his race could only dream of yet. They had dreamed—and done! And that, to their descendants, that was—interesting. Interesting to this dark, strange labyrinth of branching corridors, and strange, hooded bulks. Production machinery, he knew, somehow, production machinery that forgotten workmen had hooded as they stepped away temporarily—for a year or two, perhaps till the waning population should increase again and make new demands on it. Then great storerooms, bundled things that might be needed, spare parts, and stored records and deeds. Libraries of dull metal under gray dust. The unneeded efforts of a thousand generations, rotting in this quiet dark that he, Ron Thule, and his companions had disturbed with the moment’s rush of atomic flame.
 
 Then the tortuous corridor branched, joined others, became suddenly a great avenue descending into the power room, the heart of the city and all that it had meant. They waited still, the mighty engines the last of the builders had shut down as he left, waited to start again the work they had dropped for the moment, taking a well-earned rest. But they must have grown tired in that rest, that waiting for the resurgence of their masters. They glowed dimly under the thin blankets of
 
@@ -2932,11 +3003,11 @@ Slowly, like an automaton, the commander of the expedition rose, twitching, his 
 
 Seun. He stood half a head taller than the man of Pa-reeth, very slim and straight, and his eyes seemed to glow in the light that surrounded him.
 
-As though pulled by a greater force, Shor Nun’s eyes turned slowly, and first their brown edges, then the pupils showed again. The frozen madness in his face relaxed; he slumped softly into a more natural position— and Seun looked away.
+As though pulled by a greater force, Shor Nun’s eyes turned slowly, and first their brown edges, then the pupils showed again. The frozen madness in his face relaxed; he slumped softly into a more natural position—and Seun looked away.
 
-Unsteadily, Shor Nun sat down on a great angling beam. “Don’t look for the end of those busses, Drus Nol —it is not good. They knew all the universe, and the ends of it, long before they built this city. The things these men have forgotten embrace all the knowledge our race has, and a thousand thousand times more, and yet they have the ancient characteristics that made certain things possible to the city builders. I do not know what that thing may be, but my eyes had to follow it, and it went into another dimension. Seun, what is that thing?”
+Unsteadily, Shor Nun sat down on a great angling beam. “Don’t look for the end of those busses, Drus Nol—it is not good. They knew all the universe, and the ends of it, long before they built this city. The things these men have forgotten embrace all the knowledge our race has, and a thousand thousand times more, and yet they have the ancient characteristics that made certain things possible to the city builders. I do not know what that thing may be, but my eyes had to follow it, and it went into another dimension. Seun, what is that thing?”
 
-“The generator supplied the power for the city, and for the ships of the city, wherever they might be in space. In all the universe they could draw on the power of that generator, through that sorgan unit. That was the master unit; from it flowed the power of the generator, instantaneously, to any ship in all space, so long as its corresponding unit was tuned. It created a field rotating” —and the minds of his hearers refused the term— “which involves, as well, time.
+“The generator supplied the power for the city, and for the ships of the city, wherever they might be in space. In all the universe they could draw on the power of that generator, through that sorgan unit. That was the master unit; from it flowed the power of the generator, instantaneously, to any ship in all space, so long as its corresponding unit was tuned. It created a field rotating”—and the minds of his hearers refused the term—“which involves, as well, time.
 
 “In the first revolution it made, the first day it was built, it circled to the ultimate end of time and the universe, and back to the day it was built. And in all that sweep, every sorgan unit tuned to it must follow. The power that drove it died when the city was deserted, but it is still making the first revolution, which it made and completed in the first hundredth of a second it existed.
 
@@ -3024,7 +3095,7 @@ To their right, the mighty monument of the city builders; to their left, the low
 
 Shor Nun turned slowly to the men with him, shook his head, smiling. “I did not think to ask. I have no idea what their life span may be. Perhaps the man we knew as Seun has died. When I first landed here, I was a young man. I am middle-aged now. That time may mean old age and extinction to these people.”
 
-“There is one man coming toward us now, Shor Nun,” said Ron Thule softly. “He is floating on his— what was that name?—it is a long time since I heard it.” The man came nearer leisurely; time seemed to mean little to these people. The soft, blue glow of his suit grew, and he moved a bit more rapidly, as though conscious, of their importance. “I—I think that is Seun,” said the archaeologist. “I have seen those pictures so many times—”
+“There is one man coming toward us now, Shor Nun,” said Ron Thule softly. “He is floating on his—what was that name?—it is a long time since I heard it.” The man came nearer leisurely; time seemed to mean little to these people. The soft, blue glow of his suit grew, and he moved a bit more rapidly, as though conscious, of their importance. “I—I think that is Seun,” said the archaeologist. “I have seen those pictures so many times—”
 
 Seun stood before them again, smiling the slow, easy smile they had known twelve years before. Still he stood slim and straight, his face lined only with the easy grav-ings of humor and kindliness. He was as unchanged as the grassland, as the eternal city. The glow faded as he settled before them, noiselessly. “You have come back to Rhth, Shor Nun?”
 
@@ -3064,11 +3135,11 @@ Seun raised his eyes. The darkness faded from the crystal in his hand, and pulsi
 
 A wave of blue haze washed out, caught and lifted the men and carried them effortlessly, intangibly back to the lock, through the lock. From the quiet of the grasslands they were suddenly in the steel of the ship that clanged and howled with alarms. Great engines bellowed suddenly to life.
 
-Ron Thule stood at the great, clear port light of the lock. Outside, Seun, in his softly glowing suit, floated a few feet from the ground. Abruptly, the great atomic engines of the Pareeth shrilled a chorus of ravening hate, and from the three great projectors the annihilating beams tore out, shrieking destruction through the air —and vanished. Seun stood at the junction of death, and his crystal glowed softly. Twelve floating ships screamed to the tortured shriek of overloaded atomics, and the planet below cursed back with quarter-mile-long tongues of lightning.
+Ron Thule stood at the great, clear port light of the lock. Outside, Seun, in his softly glowing suit, floated a few feet from the ground. Abruptly, the great atomic engines of the Pareeth shrilled a chorus of ravening hate, and from the three great projectors the annihilating beams tore out, shrieking destruction through the air—and vanished. Seun stood at the junction of death, and his crystal glowed softly. Twelve floating ships screamed to the tortured shriek of overloaded atomics, and the planet below cursed back with quarter-mile-long tongues of lightning.
 
 Somewhere, everywhere, the universe thrummed to a vast, crystalline note, and hummed softly. In that instant, the green meadowland of Rhth vanished; the eternal city dissolved into blackness. Only blackness, starless, lightless shone outside the lock port light. The soft, clear note of the crystal hummed and beat and singed. The atomic engine’s cry died full throated. An utter, paralyzed quiet descended on the ship, so that the cry of a child somewhere echoed and reverberated noisily down the steel corridors.
 
-The crystal in Seun’s hand beat and hummed its note. The blackness beyond the port became gray. One by one, six opalescent ships shifted into view in the blackness beyond, moving with a slow deliberation, as though forced by some infinite power into a certain, predetermined configuration. Like atoms in a crystal lattice they shifted, seemed to click into place and hold steady— neatly, geometrically arranged.
+The crystal in Seun’s hand beat and hummed its note. The blackness beyond the port became gray. One by one, six opalescent ships shifted into view in the blackness beyond, moving with a slow deliberation, as though forced by some infinite power into a certain, predetermined configuration. Like atoms in a crystal lattice they shifted, seemed to click into place and hold steady—neatly, geometrically arranged.
 
 Then noise came back to the ship; sounds that crept in, afraid of themselves, grew courageous and clamored; pounding feet of men, and women’s screams.
 
@@ -3124,7 +3195,7 @@ I am mad. I am five light years away—”
 
 He stopped. The whole, great ship vibrated suddenly to thwang like the plucked, bass string of a Titan’s harp. Creaks and squeals, and little grunting readjustments, the fabric of the cruiser protested.
 
-“My telesco'pe—” cried Ron Thule. He was running toward the inner lock door, into the dark mouth of the corridor.
+“My telesco’pe—” cried Ron Thule. He was running toward the inner lock door, into the dark mouth of the corridor.
 
 Again the ship thrummed to a vibrant stroke. The creaking of the girders and strakes protested bitterly; stressed rivets grunted angrily.
 
@@ -3166,7 +3237,7 @@ Another planetary system appeared.
 
 “But they felt it needful to dispossess us, Shor Nun, and this Seun did. But had he done no more, our history was altered, changed vitally. So—this he gave us; he has shown us another, equally near, planetary system that we may use. We have not lost vitally. That is his justice.”
 
-“His justice. Yes, I came to you, Ron Thule, because you seemed to know somewhat of the things that happened.” Shor Nun’s voice was low in the dark of the observatory. He looked at the floating planets of Prother. “What is—Seun? How has this happened? Do you know? You know that we were greeted by our friends —and they turned away from us.
+“His justice. Yes, I came to you, Ron Thule, because you seemed to know somewhat of the things that happened.” Shor Nun’s voice was low in the dark of the observatory. He looked at the floating planets of Prother. “What is—Seun? How has this happened? Do you know? You know that we were greeted by our friends—and they turned away from us.
 
 “Six years have passed for us. They wanted to know what misfortune made us return at the end of a single
 
@@ -3176,7 +3247,7 @@ year, for only one year has passed here on Pareeth. My son was bom, there in spa
 
 Ron Thule’s voice was a whisper from the darkness. “I come from a far world, by what strange freak we will not say. I am a savage, a rising race that has not learned the secret of fife, nor bow, nor hammer. Tell me, Shor Nun, what is the nature of the two dry sticks I must rub, that fire may be born? Must they be hard, tough oak, or should one be a soft, resinous bit of pine? Tell me how I may make fire.”
 
-“Why—with matches or a heat ray— No, Ron Thule. Vague thoughts, meaningless ideas and unclear. I—I have forgotten the ten thousand generations of development. I cannot retreat to a level you, savage of an untrained world, would understand. I—I have forgotten.” “Then tell me, how I must hold the flint, and where must I press with a bit of deer horn that the chips shall fly small and even, so that the knife will be sharp and kill my prey for me? And how shall I rub and wash and treat the wood of the bow, or the skin of the slain animal that I may have a coat that will not be stiff, but soft and pliable?”
+“Why—with matches or a heat ray—No, Ron Thule. Vague thoughts, meaningless ideas and unclear. I—I have forgotten the ten thousand generations of development. I cannot retreat to a level you, savage of an untrained world, would understand. I—I have forgotten.” “Then tell me, how I must hold the flint, and where must I press with a bit of deer horn that the chips shall fly small and even, so that the knife will be sharp and kill my prey for me? And how shall I rub and wash and treat the wood of the bow, or the skin of the slain animal that I may have a coat that will not be stiff, but soft and pliable?”
 
 “Those, too, I have forgotten. Those are unnecessary things. I cannot help you, savage. I would greet you, and show you the relics of our deserted past in museums. I might conduct you through ancient caves, where mighty rock walls defended my ancestors against the wild things they could not control.
 
@@ -3200,7 +3271,7 @@ as he may be here now, to see that we understand his meanings.
 
 “I know only this—that sun I can see, and the planets circling it. The sun of Rhth I can see, and those planets, and our own. But—though these others came so near at the impulse of my thoughts, no other sun in all space can I see so near.
 
-“That, I think, is the wish of Seun and his race."
+“That, I think, is the wish of Seun and his race.”
 
 The astronomer stiffened suddenly.
 
@@ -3210,9 +3281,13 @@ Shor Nun stood straight and tense.
 
 Ron Thule sighed.
 
-Out of Night
+---
 
-The Sarn Mother looked down at Grayth with unblinking, golden eyes. “You administer the laws under the Sam,” she clicked waspishly' “The Sarn make the laws. Men obey them. That was settled once and for all time four thousand years ago. The Sarn Mother has determined that this thing is the way of progress that is most desirable. It is clear?”
+out_of_night
+
+# Out of Night
+
+The Sarn Mother looked down at Grayth with unblinking, golden eyes. “You administer the laws under the Sam,” she clicked waspishly’ “The Sarn make the laws. Men obey them. That was settled once and for all time four thousand years ago. The Sarn Mother has determined that this thing is the way of progress that is most desirable. It is clear?”
 
 Grayth looked up at her, his slow-moving eyes following from the toe pads, up the strange, rope-flexible legs, up the rounded, golden body to the four twined arms, his lips silent. His steel-gray eyes alone conveyed his thought complete. The Sarn Mother, on her inlaid throne of state, clicked softly in annoyance.
 
@@ -3314,7 +3389,7 @@ Grayth settled back slowly in his great, worn chair. He lighted his pipe and beg
 
 Carron moved restlessly; his face flushed slowly and words growled in his throat. Grayth looked at him, his lean, rugged face smiling ironically. “It’s true enough, Carron. Those noble forefathers of ours were no great men; the great died killing Sara, rebelling, fighting. The unconquerable spirits died because they could not be conquered—and could die.
 
-“Four thousand years the Sam Mother has sat on her throne and watched mankind—listened, it would seem” —Grayth nodded toward the glowing aerial of the demodulator apparatus—“to its most secret councils. She knows man with the knowledge of one hundred and twenty generations. Unfortunately, man evolves, and being a short-lived animal, evolves more rapidly than do the Sam. The weakness that made him submit to slavery has died out in four thousand years. For a millennium the Mother has seen man rapidly becoming man again.
+“Four thousand years the Sam Mother has sat on her throne and watched mankind—listened, it would seem”—Grayth nodded toward the glowing aerial of the demodulator apparatus—“to its most secret councils. She knows man with the knowledge of one hundred and twenty generations. Unfortunately, man evolves, and being a short-lived animal, evolves more rapidly than do the Sam. The weakness that made him submit to slavery has died out in four thousand years. For a millennium the Mother has seen man rapidly becoming man again.
 
 “Bartel—Carron—what is that you wear on your forehead, that medallion of silver and enamel? The thing they placed on your forehead when they said you were ‘called to manhood.’ The Mother believes, in her mind, that it is the badge of your slavery, and your rank in her hierarchy of slavedom.
 
@@ -3388,7 +3463,7 @@ Ware’s usual slight stoop, the gray monotony of his work seemed to slip from h
 
 Drunnel looked up to the Mother’s slitted, vertical-pupiled eyes. Behind his own keen, dark eyes a swift, agile brain was weighing—guessing—planning. “But they are not so helpless; they have a weapon designed by one of their own men—a hand weapon that projects small slugs of metal. An air gun.”
 
-The Mother’s expressionless eyes continued to stare at him, unwinking, the smooth, coppery skin of her face unmoving, the delicate, barely unhuman face hiding the thoughts of more than four thousand years. “I do not mix with human quarrels, save when they affect my Sam,” she said softly. “If this quarrel of yours gets out of hand, I will send my legion to stop it. But Grayth does not please me, and he has no desire to enforce my laws. I will give you those things I mentioned, no more —the crown and the glow beam. You will have one thousand of each; the rest of your forces will have to fight on terms equal with theirs.
+The Mother’s expressionless eyes continued to stare at him, unwinking, the smooth, coppery skin of her face unmoving, the delicate, barely unhuman face hiding the thoughts of more than four thousand years. “I do not mix with human quarrels, save when they affect my Sam,” she said softly. “If this quarrel of yours gets out of hand, I will send my legion to stop it. But Grayth does not please me, and he has no desire to enforce my laws. I will give you those things I mentioned, no more—the crown and the glow beam. You will have one thousand of each; the rest of your forces will have to fight on terms equal with theirs.
 
 “Sthek Tharg, take them to the hall of arms and let them have those things.” The Sam Mother’s eyes closed behind opaque, coppery sheaths; she sat motionlessly as the Sam she had called uncoiled his arms and rose slowly from his padded chair. On noiseless, padded feet he stalked off across the great hall of assembly. Behind him, Drunnel and his six companions followed.
 
@@ -3416,11 +3491,11 @@ in limp agony, all his muscles quivering, jerking, dancing madly under his skin.
 
 The thin, sweet note died. Drunnel raised his head slowly, white as chalk in the light of the corridor, streaked with sudden, clammy sweat. His dark eyes, bloodshot and wide now, stared into the slitted ruby eyes of the Sam in the doorway. The Sarn’s thin mouth twitched slightly as he moved into the room. The atom flame in the roof leaped up with his moving, and the cabinets of the rooms stood out in clear relief.
 
-Drunnel climbed slowly to his feet, dark, bloodshot eyes snapping with an inexpressible hatred that tugged at him like a living thing. One shaky, trembling step he made toward that doorway, insane anger flooding him. Then, slowly, his mind regained control as the agony washed from him, and he stood, trembling half from weakness, half from a mad desire to crush the thinlipped mouth of Sthek Tharg. “Drunnel”—he turned, to see Grasun, an unsteady hand stretched toward his leader, staring up into his face with tortured, worried eyes —“don’t —stay here.”
+Drunnel climbed slowly to his feet, dark, bloodshot eyes snapping with an inexpressible hatred that tugged at him like a living thing. One shaky, trembling step he made toward that doorway, insane anger flooding him. Then, slowly, his mind regained control as the agony washed from him, and he stood, trembling half from weakness, half from a mad desire to crush the thinlipped mouth of Sthek Tharg. “Drunnel”—he turned, to see Grasun, an unsteady hand stretched toward his leader, staring up into his face with tortured, worried eyes—“don’t—stay here.”
 
 Drunnel snapped the hand from his sleeve. “I’ll stay,” he said softly. He glanced at the others: Famos, leaning dazed against the wall, blood trickling from his nostrils; Tomus working himself to his feet with the aid of the rough wall; Blysun swaying unsteadily on his feet. The others were still helpless on the floor. “He might have told us what was coming.”
 
-“He wanted to warn us—against entering the rooms —and didn’t, perhaps, realize how strongly it affected us,” Famos said.
+“He wanted to warn us—against entering the rooms—and didn’t, perhaps, realize how strongly it affected us,” Famos said.
 
 Drunnel looked at him silently. Famos dropped his eyes uneasily and struggled to his feet, one hand steadying him. The effects were passing swiftly. Inside the room rumbling wheels echoed softly; the Sarn was pulling a little four-wheeled truck loaded with a hundred or more small gray cases, perhaps four by twelve by three inches, and a dozen or so round cases four inches thick and a foot in diameter.
 
@@ -3460,7 +3535,7 @@ Deya looked over his shoulder, and motioned him in. “They look more restless t
 
 Grayth nodded slowly and shut the door behind his back. He looked unhappily into the clear, calm blue eyes raised to his, eyes like bits of cobalt glass in a delicately molded, determined face. Six feet two Grayth stood, but Deya was a resurgence of a four-thousand-year-forgotten blood, a clear, Norse strain. Her eyes were not three inches below his, her red-gold hair, her clean-lined body the living remembrance of a race human minds had forgotten.
 
-Grayth sighed, took her in his arms. “The explosion will come tonight, dear girl. In three weeks—or never —we will be able to end this indeterminacy.”
+Grayth sighed, took her in his arms. “The explosion will come tonight, dear girl. In three weeks—or never—we will be able to end this indeterminacy.”
 
 Deya’s hands rested lightly on his shoulders as she leaned backward slightly to see him more clearly. His lean, strong face was set and serious, the etched-iron eyes worried. “The Mother has helped Drunnel as you feared?”
 
@@ -3482,7 +3557,7 @@ For a moment more Grayth caught the strong, lithe body in his arms, then they mo
 
 The table was set and the food being brought when Bartel knocked. Thera went to admit him, and as she passed Grayth he suggested softly that she bolt the door when Bartel had entered.
 
-A moment later the two returned. “They are standing around in groups,” Bartel said, seating himself wearily. “I got a number of hate thoughts, and a number of friendly thoughts as I passed them. The groups seem about equally distributed as to sympathy, and I think that is one reason why I was not bothered at all on my way here. Perhaps we had best eat quickly. We may be— called out later.”
+A moment later the two returned. “They are standing around in groups,” Bartel said, seating himself wearily. “I got a number of hate thoughts, and a number of friendly thoughts as I passed them. The groups seem about equally distributed as to sympathy, and I think that is one reason why I was not bothered at all on my way here. Perhaps we had best eat quickly. We may be—called out later.”
 
 Three-quarters of an hour later, Grayth and Bartel sat in the moon dusk, puffing slowly at their pipes. Deya and Thera moved quietly, stacking and washing utensils. Grayth pulled a small, flat jar from his cloak and put it on the table, looking questioningly toward Bartel. “Perhaps we might apply a little now.”
 
@@ -3568,7 +3643,7 @@ At the corner of a tree-shadowed cottage they met the troop of men, and Carron p
 
 Silent, drifting ghosts, they passed down the streets, scattered under clumps of moon shadow, following the lawns and dust-muffled roads. Slow accretions joined the party as the stragglers from outlying districts appeared. Three times there were brief scufflings and cries that were silenced under dull, muffled blows. White faces in
 
-the moonlight looked up sightlessly as they passed on— white faces, the badge of Drunnel’s men.
+the moonlight looked up sightlessly as they passed on—white faces, the badge of Drunnel’s men.
 
 There were lights in the square ahead, far down the street. Early arrivals stood about in tense idleness, awaiting the coming of reenforcements for both sides. Grayth turned down a side street, crossing at right angles toward the sound of a compact body of men advancing on a parallel street. A moment later they saw them, dark figures with white faces marching toward the square, a group of half a dozen in the lead, wearing curious gemmed crowns and carrying foot-long instruments in their hands.
 
@@ -3596,7 +3671,7 @@ certainly to his feet—a cobble hurled by an unseen giant. The shield deflected
 
 “Rocks!” Carron roared. “Rocks—big rocks, you blasted, withering idiots! Not pebbles, you howling fools, rocks! They have a shield—a shield of force. But it shakes ’em when the rocks hit ’em	”
 
-“Throw at Grasun.” Grayth’s voice snapped out of the night, low and tensely clear. “A dozen of you— heavy stuff.”
+“Throw at Grasun.” Grayth’s voice snapped out of the night, low and tensely clear. “A dozen of you—heavy stuff.”
 
 A rain of granite cobbles, unearthed from a forgotten pile, stormed out of the night. Half a dozen struck the fallen man’s shield with a blasting force. From barely within the protective shadow of the tree, Carron’s huge arms heaved a boulder of eighty pounds weight. The deadly thing crashed down on the straining shield with a snapping of energies, held for a moment as though bouncing on unseen rubber, and fell to one side. Grasun rolled end over end under the impact, struggling dazedly to rise. His voice called out in muffled syllables to the milling men around him, but they dared not help him; the shield was death to touch.
 
@@ -3608,11 +3683,11 @@ rupting the aim of the glow-beam wielders. The apologetic little cough of the ai
 
 The last of Drunnel’s unshielded men were down, or gone. Half a dozen wearers of the crowns stood in a tight circle firing their strange death into the shadows. Grayth joined Carron beneath a great tree, and took from him the slim, warm tube of the weapon taken from the fallen Grasun. “A man you can trust,” he snapped. “Send it to Ware; we must get others. Don’t let those men escape; we must get Grasun.”
 
-“Tamor—take this. You know the house of Ware. Take it to him. Rim.” The man was a crawling figure, sprinting across a lawn, then gone from sight. “Now”— Carron turned to Grayth—“we can keep their fire ineffective so long as the rocks hold out, but how can we crush those shields? It is death to touch them, it seems. I saw eight of their own men die when they stumbled into them.”
+“Tamor—take this. You know the house of Ware. Take it to him. Rim.” The man was a crawling figure, sprinting across a lawn, then gone from sight. “Now”—Carron turned to Grayth—“we can keep their fire ineffective so long as the rocks hold out, but how can we crush those shields? It is death to touch them, it seems. I saw eight of their own men die when they stumbled into them.”
 
 A man materialized out of shadow beside Carron, a great wooden bucket in his hands, his invisible face split by a toothy grin. Carron took the thing in huge hands, and stepped forward; his huge arms creaked to the strain as it leaped into the air, to fall in a silver rain over the shielded men, running, trickling, wetting the ground at their feet. From another side another bucket leaped into the air, to drop over them, some few drops resting for a moment on the invisible sheath in darting, arcing energies. Another and another—
 
-Grasun howled—a shrill scream of terror and agony. Water had short-circuited the thing on his head; it was smoking; as he tore it from him it grew red-hot—white; it exploded with a roar of sound a burst of incandescent energy that limned attackers and attacked alike in glaring light. Grasun fell to the ground twitching, rolling— and suddenly stilled as he touched the hem of another’s shield. A roar of triumph went up from every tree, every cottage comer.
+Grasun howled—a shrill scream of terror and agony. Water had short-circuited the thing on his head; it was smoking; as he tore it from him it grew red-hot—white; it exploded with a roar of sound a burst of incandescent energy that limned attackers and attacked alike in glaring light. Grasun fell to the ground twitching, rolling—and suddenly stilled as he touched the hem of another’s shield. A roar of triumph went up from every tree, every cottage comer.
 
 The pistoled legion of peace had been driven into the buildings surrounding the square. In the center of the
 
@@ -3668,11 +3743,11 @@ Grayth stepped forward eagerly. “Three of them. How did you get them intact?�
 
 “A dozen of us—we saw them coming down the road, and hid in the shadows. They did not have their shields turned on, and three fell in the first volley of the air guns. The others we washed out with water, but these we saved.”
 
-“Well,” Carron pointed out bitterly, “that improves the odds. We now have three effective men who can stand up against their near thousand—maybe. Your technician friend may be able to duplicate them, though —in a month.”
+“Well,” Carron pointed out bitterly, “that improves the odds. We now have three effective men who can stand up against their near thousand—maybe. Your technician friend may be able to duplicate them, though—in a month.”
 
 “Tamsun,” Grayth called softly to the figure half visi-
 
-ble in the light of the flames, “take this to Ware. You can penetrate the lines Drunnel is drawing about us by wearing this, turned on full. If— Never mind, just go back and wait.” Grayth had caught the weary denial Ware had sent. Grayth’s thought had reached Ware at once, reached a tired, immensely busy technician, struggling with things of more immediate consequence.
+ble in the light of the flames, “take this to Ware. You can penetrate the lines Drunnel is drawing about us by wearing this, turned on full. If—Never mind, just go back and wait.” Grayth had caught the weary denial Ware had sent. Grayth’s thought had reached Ware at once, reached a tired, immensely busy technician, struggling with things of more immediate consequence.
 
 Grayth turned the things in his hand, gave one to Carron. The giant spoke suddenly, pointing toward the square. One of the shielded men had stepped from the group, carrying a blazing ball of cotton on the end of a bit of wire. It sailed out from his arm to land on the roof of the building near the artery down which their messengers had attempted to go. It blazed feebly for a moment and went out. But a dozen more followed it, blazing, oil-soaked cotton wrapped around a stone. Light things that could be hurled a distance the heavy rocks Carron’s men had used could not cover. Three crashed through windows. The feeble blazes grew stronger. Water hissed viciously; for a moment the flame wavered, then grew swiftly brilliant.
 
@@ -3786,7 +3861,7 @@ The shouting voice of the rays died out, stopped, and their echoes wandered lone
 
 when once again wills and minds went from Earth in striving for freedom.
 
-“I am Aesir, the pantheon of mankind, and mankind itself. All that ever died, under blazing desert sun or in freezing arctic waste, when the first dim stirrings of mind arose and struggled with a tool, and through all time to the will that became of me while I spoke here— the will of one wounded last night and dying this morning.
+“I am Aesir, the pantheon of mankind, and mankind itself. All that ever died, under blazing desert sun or in freezing arctic waste, when the first dim stirrings of mind arose and struggled with a tool, and through all time to the will that became of me while I spoke here—the will of one wounded last night and dying this morning.
 
 “For whatever cause they strove and died, they are of me, daughter of the Sarn. Mankind must have justice, for each of those who died sought in his own way for what his mind believed was truth. Grayth and Bartel have striven that justice might be, and they shall go on with their works.
 
@@ -3794,7 +3869,7 @@ when once again wills and minds went from Earth in striving for freedom.
 
 The vast blackness of his arm reached out and a formless finger of jet touched once on Drunnel’s forehead for a fraction of a second, before it passed to Ren-dan’s terror-frozen countenance. Slowly, Drunnel swayed, his legs loosened and he fell to the floor as a soft, white blanket spread over his face. His head clicked like brittle metal on the black basalt of the floor. Like dropped ice it shivered in a dozen fragments. Kindly, swiftspreading, white frost crystals softened and concealed it, and the broken skull of Rendan.
 
-Aesir turned. Before him a lane opened as the Sam stumbled back, making a way that led him straight to the vast gold-flecked wall of the hall of audiences, polished slabs of jade-green stone. Silently, Aesir stepped into it; the solid matter misted and vanished dt .his touch, opening to the empty corridor beyond. For a moment it remained so, the vast, black figure striding soundless down the deserted corridor beyond the wall —then the wall closed in behind him. But it was black, black with the blackness of Aesir himself.
+Aesir turned. Before him a lane opened as the Sam stumbled back, making a way that led him straight to the vast gold-flecked wall of the hall of audiences, polished slabs of jade-green stone. Silently, Aesir stepped into it; the solid matter misted and vanished dt .his touch, opening to the empty corridor beyond. For a moment it remained so, the vast, black figure striding soundless down the deserted corridor beyond the wall—then the wall closed in behind him. But it was black, black with the blackness of Aesir himself.
 
 A guard turned on it a stabbing beam that crushed the atoms of a rising column into sparkling dust. But the blackness of the wall remained, untouched, unlighted. The beam died, and very slowly, before their eyes, the
 
@@ -3814,7 +3889,11 @@ An electrotechnician, a man so commonly seen working about the Sam City that few
 
 “Yes,” said Grayth with a chuckle that was half a sigh, “we had the luck of the gods, too.”
 
-Cloak of Aesir
+---
+
+cloak_of_aesir
+
+# Cloak of Aesir
 
 The Sarn Mother’s tiny, almost-human face was lined with the fatigue of forty hours of continued strain. Now, she feared greatly, a new and greater tension was ahead. For the eight City Mothers, taking their places about the Conference Hall of the Sam, were not going to be sympathetic to the Mother’s story.
 
@@ -3846,7 +3925,7 @@ The Sam Mother’s small, pointed face did not change. The trouble, definitely, 
 
 “It is somewhat hard for you to appreciate that, for you do not remember human beings as other than slaves..
 
-“I recognize a certain growing restlessness at restraint. The majority of those humans do not yet know —understand—the reason for a vague restlessness that they feel. Their leaders do. They are restless of government and restraint, and I hoped to use that vagueness of feeling to destroy the tendency toward rebellion. I thought the rebellion might be turned against their own, proxy government. Therefore, I caused the humans to revolt against their government under us, instead of against the Sam.
+“I recognize a certain growing restlessness at restraint. The majority of those humans do not yet know—understand—the reason for a vague restlessness that they feel. Their leaders do. They are restless of government and restraint, and I hoped to use that vagueness of feeling to destroy the tendency toward rebellion. I thought the rebellion might be turned against their own, proxy government. Therefore, I caused the humans to revolt against their government under us, instead of against the Sam.
 
 “Even I had underestimated them. Grayth and Bartel, the leaders of mankind, appeared before me accompanied by Drunnel, the rival leader. I will not detail their quarrel, save to say that Drunnel was my tool. I sentenced Grayth and Bartel.
 
@@ -3920,7 +3999,7 @@ The City Mothers moved uneasily under the lash of biting scorn. The Sara Mother�
 
 “That mummery, my daughters, was intended only for humans, that mass of restless humans who do not know what they want. That was not meant for me—save that he wanted me to know what others heard.
 
-“I am proud of my humans, daughters. But I am afraid, for you. You have not shown the intelligence that that man expected. That mind telepathy he used was not the message he meant for me. To me he said: ‘Mother, a new balance must be reached. You are the ruler of Earth—but for me. I challenge you to try your weapons —which I know, as does everyone on Earth, you have in your throne—and see if you can destroy me.’ And when I, not thinking, but reacting spontaneously to the evident menace of his blackness, did just this,, he said more. He touched Drunnel, and Drunnel fell dead. ‘I have an impregnable shield,’ his actions spoke, ‘and it is more; a weapon. You cannot destroy me, Mother of the Sam—but I can destroy you.
+“I am proud of my humans, daughters. But I am afraid, for you. You have not shown the intelligence that that man expected. That mind telepathy he used was not the message he meant for me. To me he said: ‘Mother, a new balance must be reached. You are the ruler of Earth—but for me. I challenge you to try your weapons—which I know, as does everyone on Earth, you have in your throne—and see if you can destroy me.’ And when I, not thinking, but reacting spontaneously to the evident menace of his blackness, did just this,, he said more. He touched Drunnel, and Drunnel fell dead. ‘I have an impregnable shield,’ his actions spoke, ‘and it is more; a weapon. You cannot destroy me, Mother of the Sam—but I can destroy you.
 
 “ ‘Therefore, we seek a new balance. You could destroy all my people—but not destroy me. And I could destroy you, or any of your people.
 
@@ -3952,7 +4031,7 @@ She was unhuman only by a difference in body. And
 
 the body is wearied and forgotten in that time. Only the intellect, the mind, remains of interest, expanding and changing forever.
 
-The intellect behind Aesir’s cloak of blackness was the keenest, the finest, this planet had ever seen. And— that human appreciated that she, the Sam Mother, was a keen intelligence.
+The intellect behind Aesir’s cloak of blackness was the keenest, the finest, this planet had ever seen. And—that human appreciated that she, the Sam Mother, was a keen intelligence.
 
 The City Mothers did not.
 
@@ -3962,7 +4041,7 @@ The Sarn Mother turned her eyes slowly from the Mother of Targlan. “The words 
 
 “They have been slaves for many generations—very short generations—and they have evolved. They evolve more swiftly than we, because of that short life span. And, remember this: at least one of them is sufficiently brilliant, of sufficient mental caliber, to develop a screen weapon superior to anything we know of. That alone makes him, potentially, extremely dangerous.”
 
-The City Mothers sat silent for long seconds. The thought was, as the Mother had known, extremely upsetting. Their matriarchic minds rebelled at the thought that there was a human—and a male human, at that— who was capable of developing something scientifically superior to anything in their possession.
+The City Mothers sat silent for long seconds. The thought was, as the Mother had known, extremely upsetting. Their matriarchic minds rebelled at the thought that there was a human—and a male human, at that—who was capable of developing something scientifically superior to anything in their possession.
 
 “If,” said the Mother of Targlan, “he has this remarkable weapon—proof against all ours, and deadly to us—I am extremely thankful that he has shown such kindliness toward our race.” Her fluting voice was sugary. “He has not equipped any of his compatriots nor attacked us in any way.”
 
@@ -3972,7 +4051,7 @@ The Mother smiled bitterly. “Undoubtedly that would
 
 be your own reaction were you possessed of such a weapon,” she admitted. The Mother of Targlan stolidly continued to look into the Mother’s half-angry, half-annoyed eyes.
 
-“But you,” the Mother explained, “have never done more than to say ‘a thousand pounds of tungsten’ when you had need of it. Or order fifty No.- 27-R-29 oscillator tubes, when you hoped to make a satisfactory lie detector. Incidentally, daughter, I have an effective invisibility generator. And your lie detector will not operate. You’d do far better to use common sense and simplicity instead of outrageously expensive mummery that doesn’t work. That spy you sent to—one of the other cities— last week had a very slipshod invisibility. I watched her a whole afternoon from here. She set off seven different alarms, and finally was caught in a delightful booby trap. Your sister believes in simplicity instead of gadgets.”
+“But you,” the Mother explained, “have never done more than to say ‘a thousand pounds of tungsten’ when you had need of it. Or order fifty No.- 27-R-29 oscillator tubes, when you hoped to make a satisfactory lie detector. Incidentally, daughter, I have an effective invisibility generator. And your lie detector will not operate. You’d do far better to use common sense and simplicity instead of outrageously expensive mummery that doesn’t work. That spy you sent to—one of the other cities—last week had a very slipshod invisibility. I watched her a whole afternoon from here. She set off seven different alarms, and finally was caught in a delightful booby trap. Your sister believes in simplicity instead of gadgets.”
 
 The Mother of Targlan sat silent and stony. Her slit-ted eyes contracted slowly in flaming hatred. The old harridan was becoming cattish.
 
@@ -4050,9 +4129,9 @@ The Mother of Targlan stared blankly; then, acidly, commented: “Of all places 
 
 The Mother of Bish-Waln frowned slightly. “Is it not bad policy, Mother, to arrest, and then release this man again? And—again at the insistence of Aesir.”
 
-“Therefore, the House of the Rocks. No human can approach. No human will know of the actual escape— save those humans already closely associated with Grayth, and, therefore, Aesir. Those humans already know what powers Aesir has, even better than we, and they will recognize this maneuver not as an arrest that failed, but as a test that did not fail. Our policy will be good, not bad, to those who know. The mass of humans simply will not know.”
+“Therefore, the House of the Rocks. No human can approach. No human will know of the actual escape—save those humans already closely associated with Grayth, and, therefore, Aesir. Those humans already know what powers Aesir has, even better than we, and they will recognize this maneuver not as an arrest that failed, but as a test that did not fail. Our policy will be good, not bad, to those who know. The mass of humans simply will not know.”
 
-“They will not, I suppose,” said the Mother of Dru-lon, at the far, stormy tip of South America, “notice that Grayth, their spokesman, is being taken in Sam custody —and returns?”
+“They will not, I suppose,” said the Mother of Dru-lon, at the far, stormy tip of South America, “notice that Grayth, their spokesman, is being taken in Sam custody—and returns?”
 
 “They will not,” smiled the Mother. With an uncoiled finger, she pressed a tiny button.
 
@@ -4060,7 +4139,7 @@ At the far end of the long Council room, a silver door opened in the jet black o
 
 Her powerful, supple arms were corded with the smooth-flowing muscles of a boa constrictor. Vaguely, her trappings indicated the rank of a Decalon—a commander of a Ten. Her cloak, though, was a deep, rich maroon, and in the center the gold, silver, and bright-purple metal threads wove a pattern that was the Mother’s personal symbol.
 
-And her face—to one who knew Sam physiognomy —was not that of a mere Decalon. The slitted eyes were deepset and widely separated. Her mouth was firm, and the face, small and pointed to human experience, was square and powerful in a Sam. The golden skin had been tanned to a leathery, weather-beaten brown, crossed by a myriad of fine lines of character. This was no mere commander over ten guards.
+And her face—to one who knew Sam physiognomy—was not that of a mere Decalon. The slitted eyes were deepset and widely separated. Her mouth was firm, and the face, small and pointed to human experience, was square and powerful in a Sam. The golden skin had been tanned to a leathery, weather-beaten brown, crossed by a myriad of fine lines of character. This was no mere commander over ten guards.
 
 “Decalon,” said the Mother softly, “bring the Cloaks of the Mother, and your command. There is an errand.”
 
@@ -4076,7 +4155,7 @@ The case, opened, revealed a space two by three by one-half foot. In it, racked 
 
 The Decalon reached in, and with practiced movements passed to her command the goggles and battery cases. Then she reached more carefully into the body of the case. The reaching hand vanished. Presently, queerly section by section, the Decalon was wiped out, till only a pair of feet remained, dwindling off into space. These vanished as some unseen boots were pulled over them.
 
-In a moment, only the City Mothers and the Mother of the Sarn remained in the room—seemingly. The City Mothers stirred uneasily. The eyes of the Mother of Targlan were golden fires of anger and chagrin. These —these picked eleven of the Mother’s personal guard and spy force—knew every secret of her laboratories.
+In a moment, only the City Mothers and the Mother of the Sarn remained in the room—seemingly. The City Mothers stirred uneasily. The eyes of the Mother of Targlan were golden fires of anger and chagrin. These—these picked eleven of the Mother’s personal guard and spy force—knew every secret of her laboratories.
 
 And the old immortal harridan knew them, too. Her crackling laughter must have been spurred a thousand times by the futile attempts and doomed plans the Mother of Targlan had made and thought over. The Mother of Targlan felt a rising pressure of helpless anger well up, an anger that was suppressed by its very helplessness. Even the satisfaction that the Mother was old, a cackling hag, was denied. For—salt on her wounded pride—the Mother had done, seemingly centuries ago, what the Mother of Targlan struggled with vainly! The Mother was a far better scientist.
 
@@ -4106,7 +4185,7 @@ And rendered quite useless the listening devices that had followed every Council
 
 Carron’s broad, tanned face broke into a wide grin. “After a thousand years, a bit of silence from this room is due. The Mother knows well enough we aren’t minding her business. But I don’t think she’ll be anxious to investigate after—Aesir.”
 
-“The Sara Mother,” the thought whispered in their minds from a more distant telepath, “is busy holding a conference of her own.'I’ve been trying for weeks to get the pattern of Sam thoughts. I get annoying flashes, but no more. The Mother is tired, and the City Mothers are being stubborn, I gather. But the thought patterns are just enough different from human thought to make the telepaths ineffective at more than about one hundred feet. And the most assiduous electrotechnician can’t spend all his time tracing conduits in the Sara Palace.” “I’d suggest you do absolutely nothing that an ordinary electrotechnician wouldn’t do, Ware,” Grayth hurriedly advised. “And for Aesir’s sake, stay home when you’re supposed to have off hours.”
+“The Sara Mother,” the thought whispered in their minds from a more distant telepath, “is busy holding a conference of her own.’I’ve been trying for weeks to get the pattern of Sam thoughts. I get annoying flashes, but no more. The Mother is tired, and the City Mothers are being stubborn, I gather. But the thought patterns are just enough different from human thought to make the telepaths ineffective at more than about one hundred feet. And the most assiduous electrotechnician can’t spend all his time tracing conduits in the Sara Palace.” “I’d suggest you do absolutely nothing that an ordinary electrotechnician wouldn’t do, Ware,” Grayth hurriedly advised. “And for Aesir’s sake, stay home when you’re supposed to have off hours.”
 
 “Have you reached any conclusions? I’ve been sleeping, and woke only a few minutes ago.” Ware’s mental voice seemed to yawn. “I’ve been trying to think of some way to get more metal. Ye gods, if I could just get into one of the Sam electrical plants for a day, I’d have a dozen things I need fixed up. The math was none too simple, but I’ve gotten it, I think.” He chuckled. “Thanks, in fact, to a very wise old Sam.
 
@@ -4116,7 +4195,7 @@ Carron’s broad, tanned face broke into a wide grin. “After a thousand years,
 
 “T . . . P . . . ” said Ware easily. “What word am I spelling? When you have correctly answered that, the Sam may get that clue.”
 
-“Good.” Grayth nodded silently. “Ware, Carron has seven technicians in his legion of peace who will procure some of those things you need. They have volunteered.” “I have not said what I wanted, nor will I,” Ware answered instantly. “Every technician caught stealing metal now will be destroyed by the Sarn instantly. No man is going to lose his life on something I wouldn’t attempt myself. Further, we need two classes of men now more vitally than ever before: technicians and fighters. Humans haven’t fought and are not fighters. Carron’s legionnaires are the only trained, experienced fighters— with the will and emotion needed for fighting—that we have. And when they are also technicians, we can’t spare them.
+“Good.” Grayth nodded silently. “Ware, Carron has seven technicians in his legion of peace who will procure some of those things you need. They have volunteered.” “I have not said what I wanted, nor will I,” Ware answered instantly. “Every technician caught stealing metal now will be destroyed by the Sarn instantly. No man is going to lose his life on something I wouldn’t attempt myself. Further, we need two classes of men now more vitally than ever before: technicians and fighters. Humans haven’t fought and are not fighters. Carron’s legionnaires are the only trained, experienced fighters—with the will and emotion needed for fighting—that we have. And when they are also technicians, we can’t spare them.
 
 “Have you told Darak what’s to be done, and given him the disks?” Ware changed the subject abruptly, with an air of “that’s that.” It was because Carron didn’t know what metals Ware wanted; had he, he would have gotten them somehow, anyway.
 
@@ -4148,7 +4227,7 @@ He walked through the outer office, past a battery of secretaries and clerks wor
 
 The door stood open a moment as giant Carron and Grayth spoke a few last words. Bartel stepped out, and then Carron, holding the door wide for his own exit, lingered a moment longer. Soundless feet carried the three Sam, larger even than Carron’s six feet six, through the door.
 
-The door closed behind the Commander of the legion of peace, and Grayth stood alone, silent. “Aesir—Aesir —Aesir—” his telepath was sending out.
+The door closed behind the Commander of the legion of peace, and Grayth stood alone, silent. “Aesir—Aesir—Aesir—” his telepath was sending out.
 
 “Yes?” snapped Ware.
 
@@ -4182,7 +4261,7 @@ he fought off the powerful arms, surprising their grip by a sudden thrust and a 
 
 Tensely, in Grayth’s mind came the impression of half a hundred other human minds attending this exchange, half a hundred humans throughout this central city, the Sam City, capital alike of human and Sara affairs.
 
-“You must stop them,” Grayth felt a mind whisper urgently. “Ware—you must release him. Secret capture —they hope to loose him where Aesir cannot find him to release him.” Deya’s mind, turbulent and fearful, now. Leader of human women, determined and ready to defy the age-long, mind-burdening hold of the Sam, this sudden, half-magic descent of the invisible guards terrified her for the sake of the man she loved.
+“You must stop them,” Grayth felt a mind whisper urgently. “Ware—you must release him. Secret capture—they hope to loose him where Aesir cannot find him to release him.” Deya’s mind, turbulent and fearful, now. Leader of human women, determined and ready to defy the age-long, mind-burdening hold of the Sam, this sudden, half-magic descent of the invisible guards terrified her for the sake of the man she loved.
 
 “Stay where you are, Ware,” Grayth rapped out mentally. “They’re moving me now—leading—no, carrying me out through my office. In thirty seconds, I’ll be lost utterly; the darkness is totally blinding and bewildering.” Grayth felt solid ground under his feet suddenly, then he was standing, and spinning in the four cable arms of the giant Sam. The darkness spun madly about him for a moment, then he stood waveringly on his feet, without the faintest idea of position as powerful arms urged him forward. “Stay where you are. I don’t know where I am, anyway, and I’m convinced this is intended as a trap to bring you where the Mother’s prepared weapons can destroy you and all hope of the revolution. She wants me only as bait for you. Stay!”
 
@@ -4216,7 +4295,7 @@ Grayth groaned. The skin of his back seemed suddenly oppressed in the queer mann
 
 “Yes.”
 
-“And Carron and Oburn, Thamot, Barlmew, Todd —all of you, continue your duties, without any change or shift. Do not hint you know of my disappearance till the appropriate time. Todd, you take charge of that outer office; you did a good job, apparently, when you knew I was being carried by, invisible, ten feet from you. You are in charge there. Keep the girls out of my inner office, for any reason, until I can give some idea of what is to take place. Got it?”
+“And Carron and Oburn, Thamot, Barlmew, Todd—all of you, continue your duties, without any change or shift. Do not hint you know of my disappearance till the appropriate time. Todd, you take charge of that outer office; you did a good job, apparently, when you knew I was being carried by, invisible, ten feet from you. You are in charge there. Keep the girls out of my inner office, for any reason, until I can give some idea of what is to take place. Got it?”
 
 “Right.”
 
@@ -4298,7 +4377,7 @@ The Mother spoke in the fluting tongue of the Sam. “The Given Law is the Law o
 
 The Mother’s eyes sparkled. Almost, a smile touched her tiny lips as she looked at Grayth’s keen, gray eyes. The Sarn were proud that never in the millenniums of man’s enslavement had cruelty been applied, nor intentional injustice. Where the Law of the Sarn could apply logically to humans, both races worked under the same law; where—as in the nature of two races such things must be—the laws could not apply identically, justice had been applied.
 
-The Sam were just; no human could say otherwise. The Sam Mother’s age covered six-score generations of mankind, and to some extent her immortality removed her alike from human and Sam.'Wherefore, it was easier for her, who had known man’s greatness, to appreciate the keenness and strength that lay in Grayth’s stubborn face. And, knowing mankind, to appreciate the steadfastness with which he would fight by every law or trick of law to win freedom back for Deya.
+The Sam were just; no human could say otherwise. The Sam Mother’s age covered six-score generations of mankind, and to some extent her immortality removed her alike from human and Sam.’Wherefore, it was easier for her, who had known man’s greatness, to appreciate the keenness and strength that lay in Grayth’s stubborn face. And, knowing mankind, to appreciate the steadfastness with which he would fight by every law or trick of law to win freedom back for Deya.
 
 And—she appreciated the searching quickness with which Grayth had forced her once again on the defensive. Her case was true and solid—but made of ten thousand thousand little things, of things that had not happened as well as of things that had. Of subtle, reasoned psychology—and not half a dozen solid facts. Of those few, three were ruled out of this consideration, because they had been dealt with in that earlier trial, when Grayth was released.
 
@@ -4342,7 +4421,7 @@ The Mothers of the Cities stirred restlessly. A second yellow light flashed. “
 
 “The cage will remain down there, but probably he will not. He walked through a solid wall once; he may ; walk through solid rock.” A third and fourth bulb flashed. The Mother watched quietly; The Mothers of Cities tensed as the fifth lighted. Abruptly it was out, and in sudden succession the blue and green bulbs winked.
 
-“He knew,” said the Mother, almost approvingly. ' “The car did not fall. Go.”
+“He knew,” said the Mother, almost approvingly. ‘ “The car did not fall. Go.”
 
 A section of rock wall swung open. Silently the Mothers of Cities vanished behind it, and with them went the
 
@@ -4374,7 +4453,7 @@ can already talk among themselves; I have learned the different pattern that is 
 
 “We make an exchange now,” Aesir’s thoughts laughed. “You wanted observations of my . . . my body stuff. I will give you that, and in exchange—”
 
-Aesir stepped forward, and swept from the long table the silver case that contained the Cloaks of the Mother and the goggles. Simultaneously, the Mother’s finger moved, and a carven bit of her high throne sank under it. From unseen projectors, a shrieking hell of flame screamed out, intolerable—blasting— The rocky floor of the great chamber screamed and puffed out in incandescent fury. The great table boomed dully in the corridors, a sudden, expanding blot of livid gas. The mad shrieking screamed and thundered down the corridors, the floor of the vast cavern slumped in annihilation that speared down through a hundred feet of rock in a single second of cosmic fury—
+Aesir stepped forward, and swept from the long table the silver case that contained the Cloaks of the Mother and the goggles. Simultaneously, the Mother’s finger moved, and a carven bit of her high throne sank under it. From unseen projectors, a shrieking hell of flame screamed out, intolerable—blasting—The rocky floor of the great chamber screamed and puffed out in incandescent fury. The great table boomed dully in the corridors, a sudden, expanding blot of livid gas. The mad shrieking screamed and thundered down the corridors, the floor of the vast cavern slumped in annihilation that speared down through a hundred feet of rock in a single second of cosmic fury—
 
 And died in silence. The Mother dropped three curled arms before her face, blinking tear-blurred eyes. Aesir stood, blackness against fiery incandescence of the cooling rocks, unsupported in the air. His form was al- , tered, a clumsy thing with a strange, angular belly. An almost rectangular protuberance. But the thing was not rectangular; one comer was twisted and bitten away.
 
@@ -4442,7 +4521,7 @@ Grayth pushed the thing, one among a bank of hundreds. The floor of the cab push
 
 “Better cut that resistance back in,” said Grayth quietly. “Listen to the howl of the air above.”
 
-The shriek was mounting. Far above in the closed tube, compressed by the upward plunge of the tube-fit-ting car, the air was howling through some vent. It was a vast organ pipe that changed its tune upward, upward —more and more swiftly as the tube length shortened and the pressure mounted—
+The shriek was mounting. Far above in the closed tube, compressed by the upward plunge of the tube-fit-ting car, the air was howling through some vent. It was a vast organ pipe that changed its tune upward, upward—more and more swiftly as the tube length shortened and the pressure mounted—
 
 “I can’t.” Ware’s hidden head shook. “The air pressure must stop us. But not until we reach the top of the building and the automatic safeguards go into action. They’ll cut the current in the car and apply brakes as we pass the topmost floor. If the Mother hasn’t already—■”
 
@@ -4504,7 +4583,7 @@ They were soaked and freezing in an instant. In his arms Grayth felt Deya shiver
 
 “Good.” Grayth and Deya set out, half-running. Black wind and water thundered through the gardens. The sky exploded once more in blinding light, the waves of sound rocking the ground beneath their feet so that even half frozen as they were, they felt its shaking.
 
-In the ruck of that wild night, no eyes saw Grayth and Deya reach their goal. Rain in solid, blinding sheets hid them as they slipped between wind-bowed trees to Ware’s small stone cottage, into its unlighted doorway. Ware’s hand found Grayth’s, and led the shivering, dripping pair through the tiny room, abruptly brilliant in the explosion of another lightning flash. At the far wall, Ware fumbled at a stone that grated and moved. Silently he led them down to a yet smaller room lined with rough granite. The stone above them swung back, and a light sprang up. But again Ware was fumbling, and again he led them down, down to a musty cavernous plaice, walled with age-rusted steel, supported by rusted columns of steel hidden at the heart of thicker columns —stalagmites and stalactites formed about and buttressing the corroded metal.
+In the ruck of that wild night, no eyes saw Grayth and Deya reach their goal. Rain in solid, blinding sheets hid them as they slipped between wind-bowed trees to Ware’s small stone cottage, into its unlighted doorway. Ware’s hand found Grayth’s, and led the shivering, dripping pair through the tiny room, abruptly brilliant in the explosion of another lightning flash. At the far wall, Ware fumbled at a stone that grated and moved. Silently he led them down to a yet smaller room lined with rough granite. The stone above them swung back, and a light sprang up. But again Ware was fumbling, and again he led them down, down to a musty cavernous plaice, walled with age-rusted steel, supported by rusted columns of steel hidden at the heart of thicker columns—stalagmites and stalactites formed about and buttressing the corroded metal.
 
 “The old subway,” Ware explained. “It goes for a quarter of a mile in that direction and nearly a mile in the other before cave-ins block it. All, you see, beneath the human city—and most at a depth of more than one hundred and twenty feet. My lab’s over here.” It was set up on the concrete platform of a forgotten station.
 
@@ -4516,7 +4595,7 @@ In the ruck of that wild night, no eyes saw Grayth and Deya reach their goal. Ra
 
 “Which makes me wonder, Ware. Half-concealed half-revealed, I mean. The Mother’s Cloaks have the goggles to make vision possible. I don’t know what that blackness of yours is—beyond that it is infernally cold; I’m still congealed—but if no ray can pierce it, pray tell me how you see where you are going.”
 
-Ware looked up, laughing. “I don’t. Yet I found my way across that swamp called the Garden of the Sara more easily than you, tonight. The telepath is the answer —I see through others’ eyes. The Mother told me where her cloaks were hidden.” He nodded toward the truncated case. “Without her eyes—I’d never have seen to reach them.”
+Ware looked up, laughing. “I don’t. Yet I found my way across that swamp called the Garden of the Sara more easily than you, tonight. The telepath is the answer—I see through others’ eyes. The Mother told me where her cloaks were hidden.” He nodded toward the truncated case. “Without her eyes—I’d never have seen to reach them.”
 
 “Perhaps,” said Deya, “if we knew better what you have, and what you lack, we could help more efficiently.”
 
@@ -4546,7 +4625,7 @@ terrible demand for sufficient mass—in the form of en-i ergy—to raise it to 
 
 “Naturally, the Mother’s physicists are badly puzzled now by a completely unanimous report of ‘nothing’ on the part of their instruments. None of them, of course,
 
-| read below absolute zero. That shield has a temperature of — 55,000 Absolute—or thereabouts.
+| read below absolute zero. That shield has a temperature of—55,000 Absolute—or thereabouts.
 
 “I could wipe out the Sam very readily. But”—Ware shrugged his shoulders—“they’d wipe out all humans while I was at it.”
 
@@ -4580,7 +4659,7 @@ Deya’s lips set in a slight, tight smile, her eyes bright and thoughtful. “I
 
 Grayth started, went rigid. “By Aesir and all the gods of Earth! Deya! What fantastic idea have you now? That man is mad, horribly, loathsomely mad—”
 
-“Negative energy,” said Deya shortly, deft fingers arranging her hair. “If we could make the Sam give up without fighting—in despair and hopelessness— And
+“Negative energy,” said Deya shortly, deft fingers arranging her hair. “If we could make the Sam give up without fighting—in despair and hopelessness—And
 
 there are energies other than those purely physical ones that the Sam are so thoroughly equipped to resist.” Grayth stood silent for a moment, his swift-working mind forgetting for the moment the task of driving his tired body. “You’ve talked with Dr. Wesson?” he asked intently.
 
@@ -4626,7 +4705,7 @@ The stone above moved. Grayth and Deya and Ware looked up. Only the heavily slee
 
 Loosely, miserably they came down the long flight, their mechanical, rhythmic drumming a muffled beat of
 
-defeat. The man came into view. His figure was lax, powerfully muscled arms and shoulders bent under a soul-deadening weight of overwhelming despair. Down —down—
+defeat. The man came into view. His figure was lax, powerfully muscled arms and shoulders bent under a soul-deadening weight of overwhelming despair. Down—down—
 
 “Down, Simons.” The doctor’s voice was weary with a queer despair caught somehow from that doom-weighted figure.
 
@@ -4640,7 +4719,7 @@ He tore his eyes away. “Deya—in the name of the gods, what—who—what is t
 
 “That is negative energy, Ware. That is the negative energy of the mind, the blackness of Aesir applied to all hope, all ambition. He is mad; he is a manic depressive. He has no hope, no thought of escape from that negative hell of despair that is beyond despair. He is mad, for no sane mind could conceive that awful blackness, the hopelessness that is a positive, devouring force that infests his being.
 
-“If ever his mind should start to mend, he will become a suicidal maniac, driven to kill himself in any way he can, at any horrible expense. He cannot think of that escape now. That is struggle, that is in itself a hope— and he has none. To conceive of death as an escape is to hope, to believe that something better can be.
+“If ever his mind should start to mend, he will become a suicidal maniac, driven to kill himself in any way he can, at any horrible expense. He cannot think of that escape now. That is struggle, that is in itself a hope—and he has none. To conceive of death as an escape is to hope, to believe that something better can be.
 
 “That is beyond him now, for hope—struggle—effort to escape—all involve a will that mind has lost.
 
@@ -4648,7 +4727,7 @@ He tore his eyes away. “Deya—in the name of the gods, what—who—what is t
 
 “Record his thoughts. Record them there on that silver ribbon. Record that hopelessness that knows no resistance, no will to struggle. Record it, and broadcast that through the Sam City!”
 
-The Sam Mother sat motionless at the high window of her tower, dull eyes looking out over the Gardens of the Sam. Rich cloaks and heavy blankets wrapped her— useless things. The cold seeped through to her bones and drank her warmth. The great chamber, windowed on every side, was darkened by a heavy gloom, chilled by a cold that had grown slowly through the hours and the days she had sat here, almost unmoving. The bleak, cold stone of the walls was damp with a cold sweat of moisture. Great heaters in the walls ran at red heat and the dark air drank their warmth. Magnificent atom-flame lamps rustled softly in the high ceiling; their faint, silken whisper mumbled meaningless in her ears, and their strong light had lost its sparkle. Some subtle change in the air made it seem gray and very cold.
+The Sam Mother sat motionless at the high window of her tower, dull eyes looking out over the Gardens of the Sam. Rich cloaks and heavy blankets wrapped her—useless things. The cold seeped through to her bones and drank her warmth. The great chamber, windowed on every side, was darkened by a heavy gloom, chilled by a cold that had grown slowly through the hours and the days she had sat here, almost unmoving. The bleak, cold stone of the walls was damp with a cold sweat of moisture. Great heaters in the walls ran at red heat and the dark air drank their warmth. Magnificent atom-flame lamps rustled softly in the high ceiling; their faint, silken whisper mumbled meaningless in her ears, and their strong light had lost its sparkle. Some subtle change in the air made it seem gray and very cold.
 
 The sun did not shine here. A cold, steady rain beat down on the gardens below, ran endlessly over the clear windowpanes, stirring under vague, listless winds. The sun did not shine here. Through the fog of slowly dripping rain, beyond the limits of her gardens, the sun shone. It was brilliant there, she knew, a bright, hot sun sparkling in the bright clean air. It was June out there. The year was dead here, dead in a creeping, growing chill that burdened the land. The creeping, growing chill of—
 
@@ -4700,8 +4779,13 @@ The clouds and gloom were suddenly below, a dull grayness that heaved and writhe
 
 Her eyes closed, and she did not see through the dissolving clouds to the black figure that slowly rose erect, nor to the ordered division of the legion of peace that marched toward the blank, silent windows of the Sam Palace. Behind them came a loose group of work-clad men to disperse among the dead, lightless shops of this, the city that had marked the landing of the Sam.
 
-Who Goes There?
+---
 
+who_goest_there
+
+# Who Goes There?
+
+.center
 1
 
 The place stank. A queer, mingled stench that only the ice-buried cabins of an Antarctic camp know, compounded of reeking human sweat, and the heavy, fish-oil stench of melted seal blubber. An overtone of liniment combatted the musty smell of sweat-and-snow-drenched furs. The acrid odor of burnt cooking fat, and the animal, not-unpleasant smell of dogs, diluted by time, hung in the air.
@@ -4728,13 +4812,13 @@ of the heavy voice. “Norris and Blair agree on one thing; that animal we found
 
 “The Secondary Magnetic Expedition went out to investigate it. There is no need for details. We found it, but it was not the huge meteorite or magnetic mountain Norris had expected to find. Iron ore is magnetic, of course; iron more so—and certain special steels even more magnetic. From the surface indications, the secondary. pole we found was small, so small that the magnetic effect it had was preposterous. No magnetic material conceivable could have that effect. Soundings through the ice indicated it was within one hundred feet of the glacier surface.
 
-“I think you should know the structure of the place. There is a broad plateau, a level sweep that runs more than 150 miles due south from the Secondary Station, Van Wall says.-He didn’t have time or fuel to fly farther, but it was running smoothly due south then. Right there, where that buried thing was, there is an ice-drowned mountain ridge, a granite wall of unshakable strength ' that has dammed back the ice creeping from the south.
+“I think you should know the structure of the place. There is a broad plateau, a level sweep that runs more than 150 miles due south from the Secondary Station, Van Wall says.-He didn’t have time or fuel to fly farther, but it was running smoothly due south then. Right there, where that buried thing was, there is an ice-drowned mountain ridge, a granite wall of unshakable strength ‘ that has dammed back the ice creeping from the south.
 
-“And four hundred miles due south is the South Polar Plateau. You have asked me at various times why it gets ; warmer here when the wind rises, and most of you know. As a meteorologist I’d have staked my word that ‘ no wind could blow at — 70 degrees; that no more than a five-mile wind could blow at — 50; without caus- ; ing warming due to friction with ground, snow and ice 1 and the air itself.
+“And four hundred miles due south is the South Polar Plateau. You have asked me at various times why it gets ; warmer here when the wind rises, and most of you know. As a meteorologist I’d have staked my word that ‘ no wind could blow at—70 degrees; that no more than a five-mile wind could blow at—50; without caus- ; ing warming due to friction with ground, snow and ice 1 and the air itself.
 
 “We camped there on the lip of that ice-drowned 1
 
-mountain range for twelve days. We dug our camp into the blue ice that formed the surface, and escaped most of it. But for twelve consecutive days the wind blew at forty-five miles an hour. It went as high as forty-eight, and fell to forty-one at times. The temperature was — 63 degrees. It rose to —60 and fell to —68. It was meteorologically impossible, and it went on uninterruptedly for twelve days and twelve nights.
+mountain range for twelve days. We dug our camp into the blue ice that formed the surface, and escaped most of it. But for twelve consecutive days the wind blew at forty-five miles an hour. It went as high as forty-eight, and fell to forty-one at times. The temperature was—63 degrees. It rose to—60 and fell to—68. It was meteorologically impossible, and it went on uninterruptedly for twelve days and twelve nights.
 
 “Somewhere to the south, the frozen air of the South Polar Plateau slides down from that 18,000-foot bowl, down a mountain pass, over a glacier, and starts north. There must be a funneling mountain chain that directs it, and sweeps it away for four hundred miles to hit that bald plateau where we found the secondary pole, and 350 miles farther north reaches the Antarctic Ocean.
 
@@ -4752,7 +4836,7 @@ mountain range for twelve days. We dug our camp into the blue ice that formed th
 
 thing made by intelligent beings can tangle with the dead immensity of a planet’s natural forces and survive.
 
-“One of its passengers stepped out. The wind we saw there never fell below forty-one, and the temperature never rose above — 60. Then—the wind must have been stronger. And there was drift falling in a solid sheet. The thing was lost completely in ten paces.” He paused for a moment, the deep, steady voice giving way to the drone of wind overhead and the uneasy, malicious gurgling in the pipe of the galley stove.
+“One of its passengers stepped out. The wind we saw there never fell below forty-one, and the temperature never rose above—60. Then—the wind must have been stronger. And there was drift falling in a solid sheet. The thing was lost completely in ten paces.” He paused for a moment, the deep, steady voice giving way to the drone of wind overhead and the uneasy, malicious gurgling in the pipe of the galley stove.
 
 Drift—a drift-wind was sweeping by overhead. Right now the snow picked up by the mumbling wind fled in level, blinding lines across the face of the buried camp. If a man stepped out of the tunnels that connected each of the camp buildings beneath the surface, he’d be lost in ten paces. Out there, the slim, black finger of the radio mast lifted three hundred feet into the air, and at its peak was the clear night sky. A sky of thin, whining wind rushing steadily from beyond to another beyond under the licking, curling mantle of the aurora. And off north, the horizon flamed with queer, angry colors of the midnight twilight. That was Spring three hundred feet above Antarctica.
 
@@ -4782,7 +4866,7 @@ the Ad Building. “The passenger of the ship wasn’t prepared either, it appea
 
 “The magnesium metal of the ship caught of course. The glow of the bomb flared and died, then it began to flare again. We ran back to the tractor, and gradually
 
-the glare built up. From where we were we could see the whole ice-field illuminated from beneath with an unbearable light; the ship’s shadow was a great, dark cone reaching off toward the north, where the twilight was just about gone. For a moment it lasted, and we counted three other shadow-things that might have been other —passengers—frozen there. Then the ice was crashing down and against the ship.
+the glare built up. From where we were we could see the whole ice-field illuminated from beneath with an unbearable light; the ship’s shadow was a great, dark cone reaching off toward the north, where the twilight was just about gone. For a moment it lasted, and we counted three other shadow-things that might have been other—passengers—frozen there. Then the ice was crashing down and against the ship.
 
 “That’s why I told you about that place. The wind sweeping down from the Pole was at our backs. Steam and hydrogen flame were tom away in white ice-fog; the flaming heat under the ice there was yanked away toward the Antarctic Ocean before it touched us. Otherwise we wouldn’t have come back, even with the shelter of that granite ridge that stopped the light.
 
@@ -4804,7 +4888,7 @@ McReady’s big body straightened somewhat. He’d ridden the rocking, jarring s
 
 The giant meteorologist spoke again. “The problem is this. Blair wants to examine the thing. Thaw it out and make micro slides of its tissues and so forth. Norris doesn’t believe that is safe, and Blair does. Dr. Copper agrees pretty much with Blair. Norris is a physicist, of course, not a biologist. But he makes a point I think we should all hear. Blair has described the microscopic life-forms biologists find living, even in this cold and inhospitable place. They freeze every winter, and thaw every summer—for three months—and live.
 
-“The point Norris makes is—they thaw, and live again. There must have been microscopic life associated with this creature. There is with every living thing we know. And Norris is afraid that we may release a plague —some germ disease unknown to Earth—if we thaw those microscopic things that have been frozen there for twenty million years.
+“The point Norris makes is—they thaw, and live again. There must have been microscopic life associated with this creature. There is with every living thing we know. And Norris is afraid that we may release a plague—some germ disease unknown to Earth—if we thaw those microscopic things that have been frozen there for twenty million years.
 
 “Blair admits that such micro-life might retain the
 
@@ -4812,7 +4896,7 @@ power of living. Such unorganized things as individual cells can retain life for
 
 “But micro-life could. Norris suggests that we may release some disease-form that man, never having met it before, will be utterly defenseless against.
 
-“Blair’s answer is that there may be such still-living germs, but that Norris has the case reversed. They are utterly nonimmune to man. Our life-chemistry probably—” “Probably!” The little biologist’s head lifted in a quick, birdlike motion. The halo of gray hair about his bald head ruffled as though angry. “Heh, one look— “I know,” McReady acknowledged. “The thing is not Earthly. It does not seem likely it can have a life-chemistry sufficiently like ours to make cross-infection remotely possible. I would say that there is no danger.” McReady looked toward Dr. Copper. The physician shook his head slowly. “None whatever,” he asserted confidently. “Man cannot infect or be infected by germs that live in such comparatively close relatives as the snakes. And they are, I assure you,” his clean-shaven face grimaced uneasily, “ much nearer to us than—that.” Vance Norris moved angrily. He was comparatively short in this gathering of big men, some five feet eight, and his stocky, powerful build tended to make him seem shorter. His black hair was crisp and hard, like short, steel wires, and his eyes were the gray of fractured steel. If McReady was a man of bronze, Norris was all steel. His movements, his thoughts, his whole bearing had the quick, hard impulse of a steel spring. His nerves were steel—hard, quick acting—swift corroding.
+“Blair’s answer is that there may be such still-living germs, but that Norris has the case reversed. They are utterly nonimmune to man. Our life-chemistry probably—” “Probably!” The little biologist’s head lifted in a quick, birdlike motion. The halo of gray hair about his bald head ruffled as though angry. “Heh, one look—“I know,” McReady acknowledged. “The thing is not Earthly. It does not seem likely it can have a life-chemistry sufficiently like ours to make cross-infection remotely possible. I would say that there is no danger.” McReady looked toward Dr. Copper. The physician shook his head slowly. “None whatever,” he asserted confidently. “Man cannot infect or be infected by germs that live in such comparatively close relatives as the snakes. And they are, I assure you,” his clean-shaven face grimaced uneasily, “ much nearer to us than—that.” Vance Norris moved angrily. He was comparatively short in this gathering of big men, some five feet eight, and his stocky, powerful build tended to make him seem shorter. His black hair was crisp and hard, like short, steel wires, and his eyes were the gray of fractured steel. If McReady was a man of bronze, Norris was all steel. His movements, his thoughts, his whole bearing had the quick, hard impulse of a steel spring. His nerves were steel—hard, quick acting—swift corroding.
 
 He was decided on his point now, and he lashed out in its defense with a characteristic quick, clipped flow of words. “Different chemistry be damned. That thing may be dead—or, by God, it may not—but I don’t like it Damn it, Blair, let them see the monstrosity you are petting over there. Let them see the foul thing and decide for themselves whether they want that thing thawed out in this camp.
 
@@ -4824,7 +4908,7 @@ He was decided on his point now, and he lashed out in its defense with a charact
 
 “Hell, I’ve had bad dreams ever since I looked at those three red eyes. Nightmares. Dreaming the thing thawed out and came to life—that it wasn’t dead, or even wholly unconscious all those twenty million years, but just slowed, waiting—waiting. You’ll dream, too, while that damned thing that Earth wouldn’t own is dripping, dripping in the Cosmos House tonight.
 
-“And, Connant,” Norris whipped toward the cosmic ray specialist, “won’t you have fun sitting up all night in the quiet. Wind whining above—and that thing dripping —” he stopped for a moment, and looked around.
+“And, Connant,” Norris whipped toward the cosmic ray specialist, “won’t you have fun sitting up all night in the quiet. Wind whining above—and that thing dripping—” he stopped for a moment, and looked around.
 
 “I know. That’s not science. But this is, it’s psychology. You’ll have nightmares for a year to come. Every night since I looked at that thing I’ve had ’em. That’s why I hate it—sure I do—and don’t want it around. Put it back where it came from and let it freeze for another twenty million years. I had some swell nightmares—that it wasn’t made like we are—which is obvious—but of a different kind of flesh that it can really control. That it
 
@@ -4834,7 +4918,7 @@ can change its shape, and look like a man—and wait to kill and eat—
 
 “Maybe it has an alien body-chemistry, and maybe its bugs do have a different body-chemistry. A germ might not stand that, but, Blair and Copper, how about a virus? That’s just an enzyme molecule, you’ve said. That wouldn’t need anything but a protein molecule of any body to work on.
 
-“And how are you so sure that, of the million varieties of microscopic life it may have, of them are dangerous. How about diseases like hydrophobia—rabies—that attack any warm-blooded creature, whatever its body-chemistry may be? And parrot fever? Have you a body like a parrot, Blair? And plain rot—gangrene— necrosis if you want? That isn’t choosy about body chemistry!”
+“And how are you so sure that, of the million varieties of microscopic life it may have, of them are dangerous. How about diseases like hydrophobia—rabies—that attack any warm-blooded creature, whatever its body-chemistry may be? And parrot fever? Have you a body like a parrot, Blair? And plain rot—gangrene—necrosis if you want? That isn’t choosy about body chemistry!”
 
 Blair looked up from his puttering long enough to meet Norris’ angry, gray eyes for an instant. “So far the only thing you have said this thing gave off that was catching was dreams. I’ll go so far as to admit that.” An impish, slightly malignant grin crossed the little man’s seamed face. “I had some, too. So. It’s dream-infectious. No doubt an exceedingly dangerous malady.
 
@@ -4852,13 +4936,13 @@ come down here to study magnetism? Why weren’t you content to stay at home? Th
 
 Commander Garry stood forward again, and Norris stepped back muttering angrily. “I think Blair is right, gentlemen. What do you say?”
 
-Connant grunted. “It sounds right to us, I think— only perhaps he ought to stand watch over it while it’s
+Connant grunted. “It sounds right to us, I think—only perhaps he ought to stand watch over it while it’s
 
 I thawing.” He grinned ruefully, brushing a stray lock of ripe-cherry hair back from his forehead. “Swell idea, in fact—if he sits up with his jolly little corpse.”
 
 Garry smiled slightly. A general chuckle of agreement rippled over the group. “I should think any ghost it may have had would have starved to death if it hung around here that long, Connant,” Garry suggested. “And you look capable of taking care of it. ‘Ironman’ Connant ought to be able to take out any opposing players, still.” Connant shook himself uneasily. “I’m not worrying about ghosts. Let’s see that thing. I—”
 
-Eagerly Blair was stripping back the ropes. A single throw of the tarpaulin revealed the thing'. The ice had melted somewhat in the heat of the room, and it was clear and blue as thick, good glass. It shone wet and sleek under the harsh light of the unshielded globe above.
+Eagerly Blair was stripping back the ropes. A single throw of the tarpaulin revealed the thing’. The ice had melted somewhat in the heat of the room, and it was clear and blue as thick, good glass. It shone wet and sleek under the harsh light of the unshielded globe above.
 
 The room stiffened abruptly. It was face up there on the plain, greasy planks of the table. The broken haft of the bronze ice-axe was still buried in the queer skull. Three mad, hate-filled eyes blazed up with a living fire, bright as fresh-spilled blood, from a face ringed with a
 
@@ -4890,11 +4974,11 @@ A grin rode even on Connant’s heavy face as Kinner’s perennial, good-natured
 
 “I know,” Blair protested, dropping the tack hammer
 
-to gesture more effectively with his bony, freckled fingers', his small body tense with eagerness, “but this is too important to take any chances. There never was a find like this; there never can be again. It’s the only chance men will ever have, and it has to be done exactly right.
+to gesture more effectively with his bony, freckled fingers’, his small body tense with eagerness, “but this is too important to take any chances. There never was a find like this; there never can be again. It’s the only chance men will ever have, and it has to be done exactly right.
 
 “Look, you know how the fish we caught down near the Ross Sea would freeze almost as soon as we got them on deck, and come to life again if we thawed them gently? Low forms of life aren’t killed by quick freezing and slow thawing. We have—”
 
-“Hey, for the love of Heaven—you mean that damned thing will come to life!” Connant yelled. “You get the damned thing— Let me at it! That’s going to be in so many pieces—”
+“Hey, for the love of Heaven—you mean that damned thing will come to life!” Connant yelled. “You get the damned thing—Let me at it! That’s going to be in so many pieces—”
 
 “No! No, you fool—” Blair jumped in front of Connant to protect his precious find. “No. Just low forms of life. For Pete’s sake let me finish. You can’t thaw higher forms of life and have them come to. Wait a moment now—hold it! A fish can come to after freezing because it’s so low a form of life that the individual cells of its body can revive, and that alone is enough to reestablish life. Any higher forms thawed out that way are dead. Though the individual cells revive, they die because there must be organization and cooperative effort to live. That cooperation cannot be reestablished. There is a sort of potential life in any uninjured, quick-frozen animal. But it can’t—can’t under any circumstances—become active life in higher animals. The higher animals are too complex, too delicate. This is an intelligent creature as high in its evolution as we are in ours. Perhaps higher. It is as dead as a frozen man would be.”
 
@@ -4988,7 +5072,7 @@ Blair started back, his pale eyes suddenly fear-struck. “Maybe it di—er—uh
 
 Commander Garry ducked through the doorway, pulling his belt tight. “You won’t have to. Van’s roar sounded like the Boeing taking off downwind. So it wasn’t dead?”
 
-“I didn’t carry it off in my arms, I assure you,” Connant snapped. “The last I saw, the split skull was oozing green goo, like a squashed caterpillar. Doc just said our laws don’t work—it’s unearthly. Well, it’s an unearthly monster, with an unearthly disposition, judging by the face, wandering around with a split skull and brains oozing out.” Norris and McReady appeared in the doorway, a doorway filling with other shivering men. “Has anybody seen it coming over here?” Norris asked innocently. “About four feet tall—three red eyes—brains oozing out— Hey, has anybody checked to make sure this isn’t a cracked idea of humor? If it is, I think we’ll unite in tying Blair’s pet around Connant’s neck like the Ancient Mariner’s albatross.”
+“I didn’t carry it off in my arms, I assure you,” Connant snapped. “The last I saw, the split skull was oozing green goo, like a squashed caterpillar. Doc just said our laws don’t work—it’s unearthly. Well, it’s an unearthly monster, with an unearthly disposition, judging by the face, wandering around with a split skull and brains oozing out.” Norris and McReady appeared in the doorway, a doorway filling with other shivering men. “Has anybody seen it coming over here?” Norris asked innocently. “About four feet tall—three red eyes—brains oozing out—Hey, has anybody checked to make sure this isn’t a cracked idea of humor? If it is, I think we’ll unite in tying Blair’s pet around Connant’s neck like the Ancient Mariner’s albatross.”
 
 “It’s no humor,” Connant shivered. “Lord, I wish it were. I’d rather wear—” He stopped. A wild, weird howl shrieked through the corridors. The men stiffened abruptly, and half turned.
 
@@ -4998,11 +5082,11 @@ among the huskies. Listen—the dogs have broken their chains—”
 
 The half-terrorized howl of the dog pack had changed to a wild hunting melee. The voices of the dogs thundered in the narrow corridors, and through them came a low rippling snarl of distilled hate. A shrill of pain, a dozen snarling yelps.
 
-Connant broke for the door. Gose behind him, Mc-Ready, then Barclay and Commander Garry came. Other men broke for the Ad Building, and weapons—the sledge house. Pomroy, in charge of Big Magnet’s five cows started down the corridor in the opposite direction —he had a six-foot-handled, long-tined pitchfork in mind.
+Connant broke for the door. Gose behind him, Mc-Ready, then Barclay and Commander Garry came. Other men broke for the Ad Building, and weapons—the sledge house. Pomroy, in charge of Big Magnet’s five cows started down the corridor in the opposite direction—he had a six-foot-handled, long-tined pitchfork in mind.
 
 Barclay slid to a halt, as McReady’s giant bulk turned abruptly away from the tunnel leading to Dogtown, and vanished off at an angle. Uncertainly, the mechanician wavered a moment, the fire extinguisher in his hands, hesitating from one side to the other. Then he was racing after Connant’s broad back. Whatever McReady had in mind, he could be trusted to make it work.
 
-Connant stopped at the bend in the corridor. His breath hissed suddenly through his throat. “Great God —” The revolver exploded thunderously; three numbing, palpable waves of sound crashed through the confined corridors. Two more. The revolver dropped to the hard-packed snow of the trail, and Barclay saw the ice-ax shift into defensive position. Connant’s powerful body blocked his vision, but beyond he heard something mewing, and, insanely, chuckling. The dogs were quieter; there was a deadly seriousness in their low snarls. Taloned feet scratched at hard-packed snow, broken chains were clinking and tangling.
+Connant stopped at the bend in the corridor. His breath hissed suddenly through his throat. “Great God—” The revolver exploded thunderously; three numbing, palpable waves of sound crashed through the confined corridors. Two more. The revolver dropped to the hard-packed snow of the trail, and Barclay saw the ice-ax shift into defensive position. Connant’s powerful body blocked his vision, but beyond he heard something mewing, and, insanely, chuckling. The dogs were quieter; there was a deadly seriousness in their low snarls. Taloned feet scratched at hard-packed snow, broken chains were clinking and tangling.
 
 Connant shifted abruptly, and Barclay could see what lay beyond. For a second he stood frozen, then his breath went out in a gusty curse. The Thing launched itself at Connant, the powerful arms of the man swung the ice-ax flat-side first at what might have been a head. It scrunched horribly, and the tattered flesh, ripped by a half-dozen savage huskies, leapt to its feet again. The
 
@@ -5214,7 +5298,7 @@ Barclay came into the building, trailing a length of airplane control cable. “
 
 Copper looked toward Garry. “There wasn’t any biology building. I don’t know where we can isolate him.”
 
-“How about East Cache?” Garry said after a moment’s thought. “Will Blair be able to look after himself —or need attention?”
+“How about East Cache?” Garry said after a moment’s thought. “Will Blair be able to look after himself—or need attention?”
 
 “He’ll be capable enough. We’ll be the ones to watch out,” Copper assured him grimly. “Take a stove, a couple of bags of coal, necessary supplies and a few tools to fix it up. Nobody’s been out there since last fall, have they?”
 
@@ -5266,7 +5350,7 @@ Blair was huddled up against the far wall of the East Cache cabin, his gear pile
 
 Blair instantly scurried to the farthest comer. “Get
 
-out! Keep away from me, you monster!” the little biologist shrieked, and tried to claw his way through the wall of the shack. “Keep away from me—keep away— I won’t be absorbed—I won’t be—”
+out! Keep away from me, you monster!” the little biologist shrieked, and tried to claw his way through the wall of the shack. “Keep away from me—keep away—I won’t be absorbed—I won’t be—”
 
 Barclay relaxed and moved back. Dr. Copper shook his head. “Leave him alone, Bar. It’s easier for him to fix the thing himself. We’ll have to fix the door, I think—”
 
@@ -5292,7 +5376,7 @@ above the sweeping drift. Little eddies of wind-lifted snow swirled away from th
 
 “I’ve been wondering—if Connant were—changed, would he have warned us so soon after the animal escaped? Wouldn’t he have waited long enough for it to have a real chance to fix itself? Until we woke up naturally?” McReady asked slowly.
 
-“The thing is selfish. You didn’t think it looked as though it were possessed of a store of the higher justices, did you?” Dr. Copper pointed out. “Every part of it is all of it, every part of it is all for itself, I imagine. If Connant were changed, to save his skin, he’d have to— but Connant’s feelings aren’t changed; they’re imitated perfectly, or they’re his own. Naturally, the imitation, imitating perfectly Connant’s feelings, would do exactly what Connant would do.”
+“The thing is selfish. You didn’t think it looked as though it were possessed of a store of the higher justices, did you?” Dr. Copper pointed out. “Every part of it is all of it, every part of it is all for itself, I imagine. If Connant were changed, to save his skin, he’d have to—but Connant’s feelings aren’t changed; they’re imitated perfectly, or they’re his own. Naturally, the imitation, imitating perfectly Connant’s feelings, would do exactly what Connant would do.”
 
 “Say, couldn’t Norris or Vane give Connant some kind of a test? If the thing is brighter than men, it might know more physics than Connant should, and they’d catch it out,” Barclay suggested.
 
@@ -5322,7 +5406,7 @@ Kinner burst out laughing, laughing hysterically. McReady turned toward him and 
 
 Norris laughed britdely. “You think we weren’t, you ape? You think maybe Connant wasn’t?”
 
-The Ad Building stirred with a sudden rejuvenation. Voices laughed, the men clustering around Connant spoke with unnecessarily loud voices, jittery, nervous voices relievedly friendly again. Somebody called out a suggestion, and a dozen started for their skis. Blair, Blair might recover— Dr. Copper fussed with his test tubes in nervous relief, trying solutions. The party of relief for Blair’s shack started out the door, skis clapping noisily. Down the corridor, the dogs set up a quick yelping howl as the air of excited relief reached them.
+The Ad Building stirred with a sudden rejuvenation. Voices laughed, the men clustering around Connant spoke with unnecessarily loud voices, jittery, nervous voices relievedly friendly again. Somebody called out a suggestion, and a dozen started for their skis. Blair, Blair might recover—Dr. Copper fussed with his test tubes in nervous relief, trying solutions. The party of relief for Blair’s shack started out the door, skis clapping noisily. Down the corridor, the dogs set up a quick yelping howl as the air of excited relief reached them.
 
 Dr. Copper fussed with his tubes. McReady noticed him first, sitting on the edge of the bunk, with two precipitin-whitened test tubes of straw-colored fluid, his face whiter than the stuff in the tubes, silent tears slipping down from horror-widened eyes.
 
@@ -5330,7 +5414,7 @@ McReady felt a cold knife of fear pierce through his heart and freeze in his bre
 
 Commander Garry walked toward him sharply. Silence clapped down on the Ad Building. Connant looked up, rose stiffly from his seat.
 
-“Garry—tissue from the monster—precipitates, too. It proves nothing. Nothing but—but the dog was monster-immune too. That one of the two contributing blood —one of us two, you and I, Garry—one of us is a monster."
+“Garry—tissue from the monster—precipitates, too. It proves nothing. Nothing but—but the dog was monster-immune too. That one of the two contributing blood—one of us two, you and I, Garry—one of us is a monster.”
 
 10
 
@@ -5354,7 +5438,7 @@ McReady went over to Copper slowly, took the hypodermic from his hand, and washe
 
 ninety-five percent alcohol. Garry sat on the bunk edge with wooden face, watching Copper and McReady expressionlessly. “What Copper said is possible,” McReady sighed. “Van, will you help here? Thanks.” The filled needle jabbed into Copper’s thigh. The man?s laughter did not stop, but slowly faded into sobs, then sound sleep as the morphia took hold.
 
-McReady turned again. The' men who had started for Blair stood at the far end of the room, skis dripping snow, their faces as white as their skis. Connant had a lighted cigarette in each hand; one he was puffing absently, and staring at the floor. The heat of the one in his left hand attracted him and he stared at it and the one in the other hand stupidly for a moment. He dropped one and crushed it under his heel slowly.
+McReady turned again. The’ men who had started for Blair stood at the far end of the room, skis dripping snow, their faces as white as their skis. Connant had a lighted cigarette in each hand; one he was puffing absently, and staring at the floor. The heat of the one in his left hand attracted him and he stared at it and the one in the other hand stupidly for a moment. He dropped one and crushed it under his heel slowly.
 
 “Dr. Copper,” McReady repeated, “could be right. I know I’m human—but of course can’t prove it. I’ll repeat the test for my own information. Any of you others who wish to may do the same.”
 
@@ -5404,7 +5488,7 @@ cape, when it’s tied in dog chains, or halters, and it had to be to imitate.�
 
 Khmer stood up slowly. His eyes darted around the room, and came to rest horribly quivering on a tin bucket in the galley. Slowly, step by step he retreated toward the door, his mouth opening and closing silently, like a fish out of water.
 
-“The milk—” he gasped. “I milked ’em an hour ago —” His voice broke into a scream as he dived through the door. He was out on the ice cap without windproof or heavy clothing.
+“The milk—” he gasped. “I milked ’em an hour ago—” His voice broke into a scream as he dived through the door. He was out on the ice cap without windproof or heavy clothing.
 
 Van Wall looked after him for a moment thoughtfully. “He’s probably hopelessly mad,” he said at length, “but he might be a monster escaping. He hasn’t skis. Take a blowtorch—in case.”
 
@@ -5420,9 +5504,9 @@ Connant suddenly raised his head. “Mac! The dogs must have swallowed pieces of
 
 Van Wall shook his head. “Sorry. Proves nothing about what you are, only proves what you didn’t do.” “It doesn’t do that,” McReady sighed. “We are help-
 
-less because we don’t know enough, and so jittery we don’t think straight. Locked up! Ever watch a white corpuscle of the blood go through the wall of a blood vessel? No? It sticks out a pseudopod. And there it is— on the far side of the wall.”
+less because we don’t know enough, and so jittery we don’t think straight. Locked up! Ever watch a white corpuscle of the blood go through the wall of a blood vessel? No? It sticks out a pseudopod. And there it is—on the far side of the wall.”
 
-“Oh,” said Van Wall unhappily. “The cattle tried to melt down, didn’t they? They could have melted down —become just a thread of stuff and leaked under a door to re-collect on the other side. Ropes—no—no, that wouldn’t do it. They couldn’t live in a sealed tank or—”
+“Oh,” said Van Wall unhappily. “The cattle tried to melt down, didn’t they? They could have melted down—become just a thread of stuff and leaked under a door to re-collect on the other side. Ropes—no—no, that wouldn’t do it. They couldn’t live in a sealed tank or—”
 
 “If,” said McReady, “you shoot it through the heart, and it doesn’t die, it’s a monster. That’s the best test I can think of, offhand.”
 
@@ -5444,7 +5528,7 @@ We all agreed that it would be safe to move him into Cosmos House.”
 
 “Well, we’re in danger of losing ours. You’ve been out for an hour and a half. That’s been going on steadily ever since, and it was going for two hours before. There’s a limit, you know.”
 
-Garry wandered over slowly, apologetically. For an instant, McReady caught the feral spark of fear—horror —in Clark’s eyes, and knew at the same instant it was in his own. Garry—Garry or Copper—was certainly a monster.
+Garry wandered over slowly, apologetically. For an instant, McReady caught the feral spark of fear—horror—in Clark’s eyes, and knew at the same instant it was in his own. Garry—Garry or Copper—was certainly a monster.
 
 “If you could stop that, I think it would be a sound policy, Mac,” Garry spoke quietly. “There are—tensions enough in this room. We agreed that it would be safe for Kinner in there, because everyone else in camp j is under constant eyeing.” Garry shivered slightly. “And try, try in God’s name, to find some test that will work.”
 
@@ -5508,7 +5592,7 @@ Silence clamped down. For twenty minutes they ate without a word. Then Connant j
 
 The bronze giant was forced to laugh. “OK, Bart, you win. Maybe we aren’t quite in the mood for Popeye and trick ducks, but it’s something.”
 
-“Let’s play Classifications,” Caldwell suggested slowly. “Or maybe you call it Guggenheim. You draw lines on a piece of paper, and put down classes of things— like animals, you know. One for ‘H’ and one for ‘U’ and so on. Like ‘Human’ and ‘Unknown’ for instance. I think that would be a hell of a lot better game. Classification, I sort of figure, is what we need right now a lot more than movies. Maybe somebody’s got a pencil that he can draw lines with, draw lines between the ‘U’ animals and the ‘H’ animals for instance.”
+“Let’s play Classifications,” Caldwell suggested slowly. “Or maybe you call it Guggenheim. You draw lines on a piece of paper, and put down classes of things—like animals, you know. One for ‘H’ and one for ‘U’ and so on. Like ‘Human’ and ‘Unknown’ for instance. I think that would be a hell of a lot better game. Classification, I sort of figure, is what we need right now a lot more than movies. Maybe somebody’s got a pencil that he can draw lines with, draw lines between the ‘U’ animals and the ‘H’ animals for instance.”
 
 “McReady’s trying to find that kind of a pencil,” Van Wall answered quietly, “but, we’ve got three kinds of animals here, you know. One that begins with ‘M.’ We don’t want any more.”
 
@@ -5590,7 +5674,7 @@ McReady chuckled softly. “Boys, meet Clark, the only one we know is human! Mee
 
 “No,” said McReady steadily. “Look sharp and be careful. Come into the Ad Building. Barclay, bring your electrocuter. And somebody—Dutton—stand with Barclay to make sure he does it. Watch every neighbor, for by the Hell these monsters came from, I’ve got something, and they know it. They’re going to get dangerous!”
 
-The group tensed abruptly. An air of crushing menace, entered into every man’s body, sharply they looked at each other. More keenly than ever before— that man next to me an inhuman monster?
+The group tensed abruptly. An air of crushing menace, entered into every man’s body, sharply they looked at each other. More keenly than ever before—that man next to me an inhuman monster?
 
 “What is it?” Garry asked, as they stood again in the main room. “How long will it take?”
 
@@ -5600,7 +5684,7 @@ The group tensed abruptly. An air of crushing menace, entered into every man’s
 
 Dutton nodded sharply. “The automatic stoker bin is full. The gas power plant is on standby. Van Wall and I set it for the movie operation—and we’ve checked it over rather carefully several times, you know. Anything those wires touch, dies,” he assured them grimly. “/ know that.”
 
-Dr. Coppfer stirred vaguely in his bunk, rubbed his eyes with fumbling hand. He sat up slowly, blinked his eyes blurred with sleep and drugs, widened with an unutterable horror of drug-ridden nightmares. “Garry,” he mumbled, “Garry—listen. Selfish—from hell they came, and hellish shellfish—I mean self— Do I? What do I j mean?” He sank back in his bunk, and snored softly.
+Dr. Coppfer stirred vaguely in his bunk, rubbed his eyes with fumbling hand. He sat up slowly, blinked his eyes blurred with sleep and drugs, widened with an unutterable horror of drug-ridden nightmares. “Garry,” he mumbled, “Garry—listen. Selfish—from hell they came, and hellish shellfish—I mean self—Do I? What do I j mean?” He sank back in his bunk, and snored softly.
 
 McReady looked at him thoughtfully. “Well know presently,” he nodded slowly. “But selfish is what you mean, all right. You may have thought of that, half sleeping, dreaming there. I didn’t stop to think what dreams you might be having. But that’s all right. Selfish is the word. They must be, you see.” He turned to the men in the cabin, tense, silent men staring with wolfish I eyes each at his neighbor. “Selfish, and as Dr. Copper said—every part is a whole. Every piece is self-sufficient, an animal in itself.
 
@@ -5648,7 +5732,7 @@ McReady grinned, his deepset eyes alight and dancing. “Maybe,” he said softl
 
 Twenty seconds later he looked up from the desk at the waiting men. There were more grins out there now, friendly grins, yet withal, something else in the eyes.
 
-“Connant,” McReady laughed softly, “was right. The huskies watching that thing in the corridor bend had nothing on you. Wonder why we think only the wolf blood has the right to ferocity? Maybe on spontaneous viciousness a wolf takes tops, but after these seven days —abandon all hope, ye wolves who enter here!
+“Connant,” McReady laughed softly, “was right. The huskies watching that thing in the corridor bend had nothing on you. Wonder why we think only the wolf blood has the right to ferocity? Maybe on spontaneous viciousness a wolf takes tops, but after these seven days—abandon all hope, ye wolves who enter here!
 
 “Maybe we can save time. Connant, would you step for—”
 
@@ -5682,11 +5766,11 @@ turned toward Van Wall at the long table. “Van, we’ve got to make an expedit
 
 Van looked up sharply, the frown of worry faded for an instant in surprised remembrance. Then he rose, nodded. “Barclay better go along. He applied the lashings, and may figure how to get in without frightening Blair too much.”
 
-Three quarters of an hour, through —37° cold, while the aurora curtain bellied overhead. The twilight was nearly twelve hours long, flaming in the north on snow like white, crystalline sand under their skis. A five-mile wind piled it in drift-lines pointing off to the northwest. Three quarters of an hour to reach the snow-buried shack. No smoke came from the little shack, and the men hastened.
+Three quarters of an hour, through—37° cold, while the aurora curtain bellied overhead. The twilight was nearly twelve hours long, flaming in the north on snow like white, crystalline sand under their skis. A five-mile wind piled it in drift-lines pointing off to the northwest. Three quarters of an hour to reach the snow-buried shack. No smoke came from the little shack, and the men hastened.
 
 “Blair!” Barclay roared into the wind when he was .1 still a hundred yards away. “Blair!”
 
-“Shut up,” said McReady softly. “And hurry. He may be trying a lone hike. If we have to go after him— no planes, the tractors disabled—”
+“Shut up,” said McReady softly. “And hurry. He may be trying a lone hike. If we have to go after him—no planes, the tractors disabled—”
 
 “Would a monster have the stamina a man has?”
 
@@ -5702,13 +5786,13 @@ Norris hurried after the others. “It won’t come back,” he panted.
 
 Barclay cautioned him to silence, pointing. A curiously, fiercely blue light beat out from the cracks of the shack’s door. A very low, soft humming sounded inside, a low, soft humming and a clink and click of tools, the very sounds somehow bearing a message of frantic haste.
 
-McReady’s face paled. “Lord help us if that thing has —” He grabbed Barclay’s shoulder, and made snipping motions with his fingers, pointing toward the lacing of control cables that held the door.
+McReady’s face paled. “Lord help us if that thing has—” He grabbed Barclay’s shoulder, and made snipping motions with his fingers, pointing toward the lacing of control cables that held the door.
 
 Barclay drew the wire cutters from his pocket, and kneeled soundlessly at the door. The snap and twang of cut wires made an unbearable racket in the utter quiet of the Antarctic hush. There was only that strange, sweetly soft hum from within the shack, and the queerly, hecticly clipped clicking and rattling of tools to drown their noises.
 
 McReady peered through a crack in the door. His breath sucked in huskily and his great fingers clamped cruelly on Barclay’s shoulder. The meteorologist backed down. “It isn’t,” he explained very softly, “Blair. It’s kneeling on something on the bunk—something that keeps lifting. Whatever it’s working on is a thing like a knapsack—and it lifts.”
 
-“All at once,” Barclay said grimly. “No. Norris, hang back, and get that iron of yours out. It may have— weapons.”
+“All at once,” Barclay said grimly. “No. Norris, hang back, and get that iron of yours out. It may have—weapons.”
 
 Together, Barclay’s powerful body and McReady’s giant strength struck the door. Inside, the bunk jammed against the door screeched madly and crackled into kindling. The door flung down from broken hinges, the patched lumber of the doorpost dropping inward.
 
@@ -5720,11 +5804,11 @@ hate-washed face twitched in agony, the looping tentacle snatched back. The silv
 
 The Thing screamed in feral hate, a lashing tentacle wiping at blinded eyes. For a moment it crawled on the floor, savage tentacles lashing out, the body twitching. Then it staggered up again, blinded eyes working, boiling hideously, the crushed flesh sloughing away in sodden gobbets.
 
-Barclay lurched to his feet and dove forward with an ice-ax. The flat of the weighty thing crushed against the side of the head. Again the unkill able monster went down. The tentacles lashed out, and suddenly Barclay I fell to his feet in the grip of a living, livid rope. The ■■■ thing dissolved as he held it, a white-hot band that ate into the flesh of his hands like living fire. Frantically he ! tore the stuff from him, held his hands where they could 1 not be reached. The blind Thing felt and ripped at the tough, heavy, windproof cloth, seeking flesh—flesh it could convert—
+Barclay lurched to his feet and dove forward with an ice-ax. The flat of the weighty thing crushed against the side of the head. Again the unkill able monster went down. The tentacles lashed out, and suddenly Barclay I fell to his feet in the grip of a living, livid rope. The thing dissolved as he held it, a white-hot band that ate into the flesh of his hands like living fire. Frantically he ! tore the stuff from him, held his hands where they could 1 not be reached. The blind Thing felt and ripped at the tough, heavy, windproof cloth, seeking flesh—flesh it could convert—
 
 The huge blowtorch McReady had brought coughed solemnly. Abruptly it rumbled disapproval throatily. ] Then it laughed gurglingly, and thrust out a blue-white, ; three-foot tongue. The Thing on the floor shrieked, flailed out blindly with tentacles that writhed and with-  ered in the bubbling wrath of the blowtorch. It crawled and turned on the floor, it shrieked and hobbled madly, but always McReady held the blowtorch on the face, the dead eyes burning and bubbling uselessly. Frantically the Thing crawled and howled.
 
-A tentacle sprouted a savage talon—and crisped in ' the flame. Steadily McReady moved with a 'planned, j grim campaign. Helpless, maddened, the Thing retreat- j ed from the grunting torch, the caressing, licking tongue, j For a moment it rebelled, squalling in inhuman hatred at the touch of the icy snow. Then it fell back before the charring breath of the torch, the stench of its flesh
+A tentacle sprouted a savage talon—and crisped in ‘ the flame. Steadily McReady moved with a ‘planned, j grim campaign. Helpless, maddened, the Thing retreat- j ed from the grunting torch, the caressing, licking tongue, j For a moment it rebelled, squalling in inhuman hatred at the touch of the icy snow. Then it fell back before the charring breath of the torch, the stench of its flesh
 
 bathing it. Hopelessly it retreated—on and on across the Antarctic snow. The bitter wind swept over it, twisting the torch-tongue; vainly it flopped, a trail of oily, stinking smoke bubbling away from it—
 
@@ -5762,7 +5846,7 @@ Like a knapsack made of flattened coffee tins, with dangling cloth straps and le
 
 “Antigravity,” Norris nodded. “Yes, we had ’em stopped, with no planes, and no birds. The birds hadn’t come—but it had coffee tins and radio parts, and glass and the machine shop at night. And a week—a whole week—all to itself. America in a single jump—with antigravity powered by the atomic energy of matter.
 
-“We had ’em stopped. Another half hour—it was just tightening these straps on the device so it could wear it —and we’d have stayed in Antarctica, and shot down
+“We had ’em stopped. Another half hour—it was just tightening these straps on the device so it could wear it—and we’d have stayed in Antarctica, and shot down
 
 any moving thing that came from the rest of the world.”
 
@@ -5770,11 +5854,16 @@ any moving thing that came from the rest of the world.”
 
 “With this thing almost finished? With that death weapon it held in its hand?
 
-“No, by the grace of God, who evidently does hear very well, even down here, and the margin of half an hour, we keep our world, and the planets of the system, too. Antigravity, you know, and atomic power. Because They came from another sun, a star beyond the stars. They came from a world with a bluer sun.”
+“No, by the grace of God, who evidently does hear very well, even down here, and the margin of half an hour, we keep our world, and the planets of the system, too. Antigravity, you know, and atomic power. Because They came from another sun, a star beyond the stars. *They* came from a world with a bluer sun.”
 
-Space for Industry
+---
 
-It has been more or less assumed that when Man gets going well enough in spaceflight technology, the planets will be opened for development—that the future pioneers, future investment opportunities, will be in the development of Mars, Venus, the Moon, and, later, planets of other stars.
+space_for_industry
+
+# Space for Industry
+
+.space
+<span class="smallcaps">It has been</span> more or less assumed that when Man gets going well enough in spaceflight technology, the planets will be opened for development—that the future pioneers, future investment opportunities, will be in the development of Mars, Venus, the Moon, and, later, planets of other stars.
 
 Maybe, eventually, those developments will come. But . . . it looks to me, now, as though we’ve neglected a major bet.
 
@@ -5782,13 +5871,15 @@ I think the first major development of industry based on space technology will n
 
 In the first place, we’re never going to get any engineering use of space until we get something enormously better than rockets.
 
-*  
+.dinkus
+∗ ∗ ∗
 
+.space
 We can, therefore, drop rockets from consideration; they’re inherently hopeless as an industrial tool. They’re
 
 enormously less efficient as transportation than is a helicopter-—and nobody expects to use helicopters as the backbone of a major industrial transportation system.
 
-So any engineering development of space implies a non-rocket space-drive. Something that can lift and haul tons with the practical economic efficiency of a heavy truck, at least. Even nuclear rockets couldn’t do that; the reaction-mass problem requires that even a nuclear rocket start with a gargantuan load of mass solely intended to be discarded en route.
+So any engineering development of space implies a non-rocket space-drive. Something that can lift and haul tons with the practical economic efficiency of a heavy truck, at least. Even nuclear rockets couldn’t do that; the reaction-mass problem requires that even a nuclear rocket start with a gargantuan load of mass solely intended to be discarded *en route*.
 
 So: assume some form of true space-drive. A modified sky hook or an antigravity gadget—anything. It’s a space truck—not a delicate and hyperexpensive rocket. It can carry tons, and work for years.
 
@@ -5818,7 +5909,7 @@ A man goes in through the bubble wall after it’s set, places a thermite bomb i
 
 The beam—poorly focused though it is—of one of these solar mirrors can slice up an asteroid in one pass. Shove the asteroid in toward the beam, stand back, and catch it on the other side. So it’s half a mile thick, itself? So what? A few passes, and the nickel-steel directly under that mirror beam boils off into space. Power’s cheap; we’ve got a no-cost hydrogen-fusion reactor giving all the energy we can possibly use—and collectors that cost almost nothing.
 
-The steel—it’s high-grade nickel-steel; other metals available by simply distilling in vacuum, of course!— once cut to manageable sizes can be rolled, forged,
+The steel—it’s high-grade nickel-steel; other metals available by simply distilling in vacuum, of course!—once cut to manageable sizes can be rolled, forged,
 
 formed, et cetera, in the heavy machinery of Plant No. 7. The plant was, of course, constructed of the cheap local metal; only a nucleus of precision machine tools had to be hauled up from Earth. And those are long since worn out and discarded from Plant No. 1.
 
@@ -5826,11 +5917,12 @@ The plant itself has a few power mirrors to provide the electrical energy needed
 
 Plants for food, of course, need light—and they’ll get just exactly as much as they can best use. So the direct light’s a little weak out there? Aluminized plastic film costs almost nothing per square yard.
 
-And the third factor for heavy industrial development is, of course, easy access to market? How easy can it get! It’s a downhill pull all the way to place on Earth! Whatever the system of space-drive developed, it’s almost certain to allow some form of “dynamic braking” —and it’s usually easier to get rid of energy than to get it. From the asteroids to the surface of the Earth you’re going 'downhill all the way—first down the slope of the solar gravitational field, then down Earth’s.
+.space
+And the third factor for heavy industrial development is, of course, easy access to market? How easy can it get! It’s a downhill pull all the way to place on Earth! Whatever the system of space-drive developed, it’s almost certain to allow some form of “dynamic braking”—and it’s usually easier to get rid of energy than to get it. From the asteroids to the surface of the Earth you’re going ‘downhill all the way—first down the slope of the solar gravitational field, then down Earth’s.
 
-- Spot delivery of steel by the megaton, anywhere whatever on Earth’s surface, at exactly the same low cost follows. There’s easy access to all markets from space!
+Spot delivery of steel by the megaton, anywhere whatever on Earth’s surface, at exactly the same low cost follows. There’s easy access to *all* markets from space!
 
-Meanwhile Solar Chemicals Corporation will have their plants scattered somewhat differently. Landing on Jupiter is, of course, impossible for human beings—but it’s fairly easy to fall into an eccentric orbit that grazes the outer atmosphere of the planet. That wouldn’t cost anything in the way of power. Depending on the type of space-drive—antigravity or some form of bootstraps lifter —ships would take different approaches to the problem.
+Meanwhile Solar Chemicals Corporation will have their plants scattered somewhat differently. Landing on Jupiter is, of course, impossible for human beings—but it’s fairly easy to fall into an eccentric orbit that grazes the outer atmosphere of the planet. That wouldn’t cost anything in the way of power. Depending on the type of space-drive—antigravity or some form of bootstraps lifter—ships would take different approaches to the problem.
 
 The problem, of course, is that Jupiter’s atmosphere is one stupendous mass of organic chemicals raw materials—methane, ammonia, and hydrogen. And, probably, more water in the form of dust in that air, than we now realize.
 
@@ -5842,7 +5934,7 @@ With Jupiter’s atmosphere to draw on, it seems unlikely that Man will run shor
 
 We’re only beginning to understand the potentialities of plasmas and plasmoids—of magnetohydrodynamics and what can be done with exceedingly hot gases in magnetic fields under near-vacuum conditions. Space is the place to learn something about those things—and one of the things we’ve already learned from our rocket probes is that the immediate vicinity of magnetized planets is exceedingly dangerous.
 
-Open space might prove to be somewhat healthier than we now realize. And if there are some difficulties —generating our own, homegrown magnetic fields isn’t an impossibly difficult matter. Particularly when we’ve got nickel-steel by the megaton to work with! And it is not, remember, necessary to build our space plants—it might prove wiser to carve them, instead.
+Open space might prove to be somewhat healthier than we now realize. And if there are some difficulties—generating our own, homegrown magnetic fields isn’t an impossibly difficult matter. Particularly when we’ve got nickel-steel by the megaton to work with! And it is not, remember, necessary to build our space plants—it might prove wiser to carve them, instead.
 
 The meteorites that reach Earth are, of course, almost entirely composed of common silicates and nickel-iron. However, the Earth is also, to the best of current belief, composed almost entirely of those materials. Nevertheless there’s quite a tonnage of copper, silver, lead, tantalum, titanium, tungsten, molybdenum and other metals around here. And, presumably, in the asteroids.
 
@@ -5852,6 +5944,7 @@ energy of a star to play with, solution processes will be used rarely—and whol
 
 We can, effectively, make our own solar flares—our own sunspot vortices—by injecting gas into the focused beam of a half-mile mirror, traveling not across, but along the beam. The light-pressure effects, alone, should yield a jet of gas at high velocity equivalent to several tens of thousands of degrees.
 
+.space
 There’s every inducement for heavy-industry development in space.
 
 And against that—what have the planets to offer?
@@ -5870,8 +5963,13 @@ Well, there’s one sure thing about the space cities. They won’t have the smo
 
 April 1960
 
-Postscriptum
+---
 
+afterword
+
+# Postscriptum
+
+.first
 My first inkling of the sacerdotal character of science fiction came shortly after John and I were married in 1951. We had moved into a new house in a new neighborhood, and one evening I answered the doorbell to find three young men on the doorstep. The spokesman said, “Does the Great Man live here?” “You must have the wrong house,” I said; “this is the Campbell residence.”
 
 Just shows you, doesn’t it?
@@ -5888,11 +5986,9 @@ I really can’t know personally what John was like in the years before I met hi
 
 to discuss the question of personality balance with John right now, to see whether it’s sort of like the binocular viewpoint—that major untenable theories are necessary to maintain stability.
 
-Our own private discussions were remarkable, and we 1 even gave titles to some of the arguments. Early on, I wanted to have a linen closet built for place mats, tablecloths, and the like. I had it well designed (I thought), and then came his questions: function, practicability, logistics, importance—the works. Our “Linen Closet Argument” lasted for a good ten years and never was solved; but the design, intact and unchanged, was used when John built a storage cabinet for electronic parts. I —on the other hand—never did get the linen closet.
+Our own private discussions were remarkable, and we 1 even gave titles to some of the arguments. Early on, I wanted to have a linen closet built for place mats, tablecloths, and the like. I had it well designed (I thought), and then came his questions: function, practicability, logistics, importance—the works. Our “Linen Closet Argument” lasted for a good ten years and never was solved; but the design, intact and unchanged, was used when John built a storage cabinet for electronic parts. I—on the other hand—never did get the linen closet.
 
-“I	know what it’s like to live in a small town” began
-
-another marathon discussion. After days of marshaling every argument I could think of, I suggested using our new tape recorder to get down the facts. The system was awkward at first. But never let it be said that we would be cowed by a machine; so shortly the argument was flourishing. Finally we decided to play back the tape, ending for good and all that type of discussion. I sounded shrewish and petulant, and John sounded patronizing and smug; and neither of us thought we lived up to our self-images to any attractive degree. Humbling, to say the least. Let it be said that we continued to discuss, for the rest of John’s life—but not that way.
+“I *know* what it’s like to live in a small town” began another marathon discussion. After days of marshaling every argument I could think of, I suggested using our new tape recorder to get down the facts. The system was awkward at first. But never let it be said that we would be cowed by a machine; so shortly the argument was flourishing. Finally we decided to play back the tape, ending for good and all that type of discussion. I sounded shrewish and petulant, and John sounded patronizing and smug; and neither of us thought we lived up to our self-images to any attractive degree. Humbling, to say the least. Let it be said that we continued to discuss, for the rest of John’s life—but not *that* way.
 
 People used to ask me, at science-fiction conventions, what it was “like” to live with John. Interesting, I’d say then. I say now: it isn’t in every household, where in trying to get an accurately cooked breakfast egg on the table (7.5 minutes, according to John’s timer) one would have to cope with a gent with shaving lather asking, “Now, on the question of the limiting factors of free will . . .” Nor having the piano tuner coming into the kitchen to ask, “Pardon me, but I’d like to know just how long have you been married?” When we said it had been twelve years, he said, “My God, you talk together as though you’d just met!”
 
@@ -5914,44 +6010,11 @@ He was a very good father, and the girls have all kept letters—pages and pages
 
 There is no effrontery to equal the statement “I understand him”—although I’m sure he thought I did. I didn’t understand that putting up a shelf meant an hour’s discussion of torque. I didn’t comprehend that a doorbell worked better on a storage battery, or that the door to the downstairs cupboard could be worked from upstairs, utilizing the flap-lifting mechanisms from a World War II aircraft; or that it was absolutely necessary to disembowel every new piece of mechanical equipment the second it came into the house, so that days would go by before it could be put into service. Nor that it was necessary to tell the same story over and over again, until it was explained to me that “that’s the way to shape and polish the idea before it gets into print.” Nor that we wouldn’t be lynched one fine day because of some of his appalling ideas.
 
+.space
 Yes, indeed, that was one interesting man!
 
-—Mrs. John W. Campbell Fairhope, Alabama September, 1975
+.right
+—Mrs. John W. Campbell
+Fairhope, Alabama
+September, 1975
 
-THE VISIONS OF
-
-JOHN W CAMPBELL
-
-HERE IN ONE VOLUME ARE 11 OF THE FINEST STORIES AND ONE PENETRATING ARTICLE BY THE MAN WHO ALMOST SINGLE-HANDEDLY CREATED MODERN SCIENCE FICTION-STORIES RICH IN IMAGINATION AND OUTSTANDING IN THEIR SWEEP AND SENSE OF THAT WONDER WHICH IS SCIENCE FICTION AT ITS BEST.
-
-• TWILIGHT
-
-He was a mere hitchhiker now; but he had once seen the far, far future.. .and had returned to mourn what he had seen!
-
-•	THE MACHINE
-
-The machine was ultimately benevolent.. .so benevolent that it gave mankind the ultimate, but most unwanted gift!
-
-•	FORGETFULNESS
-
-They were like children in the museum of Earth’s glorious
-
-past.. .children who had forgotten so much, but whose powers were
-
-those of gods!
-
-•	CLOAK OF AESIR
-
-The Sarn Mother had grown weary during her long rule over Earth. . . but neither her daughters nor mankind would grant her peace!
-
-•	WHO GOES THERE?
-
-The Thing was the most dreadful threat men had ever faced. . . a thing that could be any one—or all—of them!
-
-PLUS SIX MORE STORIES OF WONDER-AND AN IMPORTANT VIEW OF THE FUTURE BY THE WRITER WHO TAUGHT A GENERATION TO DREAM. . .
-
-AND TO WRITE OF ALL POSSIBLE FUTURES,
-
-
-
-Printed in USA
