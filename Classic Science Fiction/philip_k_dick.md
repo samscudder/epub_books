@@ -275,27 +275,46 @@ contents
 # Contents
 
 [Introduction: The Reality of Philip K. Dick](the_reality_of_philip_k_dick) - *John Brunner*
+
 [Beyond Lies the Wub](beyond_lies_the_wub)
+
 [Roog](roog)
+
 [Second Variety](second_variety)
+
 [Paycheck](paycheck)
+
 [Impostor](impostor)
+
 [Colony](colony)
+
 [Expendable](expendable)
+
 [The Days of Perky Pat](the_days_of_perky_pat)
+
 [Breakfast at Twilight](breakfast_at_twilight)
+
 [Foster, You’re Dead](foster_youre_dead)
+
 [The Father-thing](the_father-thing)
+
 [Service Call](service_call)
+
 [Autofac](autofac)
+
 [Human Is](human_is)
+
 [If There Were No Benny Cemoli](if_there_were_no_benny_cemoli)
+
 [Oh, To Be a Blobel](oh_to_be_a_blobel)
+
 [Faith of Our Fathers](faith_of_our_fathers)
+
 [The Electric Ant](the_electric_ant)
+
 [A Little Something for Us Tempunauts](a_little_something_for_us_tempunauts)
 
-.fl
+.space
 [*Afterthoughts by the Author*](afterthoughts_by_the_author)
 
 ---
@@ -905,7 +924,7 @@ The Russian was uneasy. He knew something was wrong. He started down the hill. N
 
 “They hang around close to the bunker. He’s getting into the bad part. Get set!”
 
-<a id="page18" />The Russian began to hurry, sliding down the hill, his boots sinking into the heaps of gray ash, trying to keep his gun up. He stopped for a moment, lifting his field glasses to his face.
+<a id="page18"></a>The Russian began to hurry, sliding down the hill, his boots sinking into the heaps of gray ash, trying to keep his gun up. He stopped for a moment, lifting his field glasses to his face.
 
 “He’s looking right at us,” Eric said.
 
