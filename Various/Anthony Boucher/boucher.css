@@ -13,7 +13,7 @@ body { widows: 1; orphans: 1; }
 
 .other_books .sc { line-height: .8em; }
 
-h1 { margin: 2rem 0 0 0; text-align: left; font-size: 1.7rem; font-weight: normal; padding-bottom: 1em; }
+h1 { margin: 0 0 0 0; text-align: left; font-size: 1.7rem; font-weight: normal; padding-bottom: 0; }
 h2 { margin-top: 2em; margin-bottom: 0; text-align: right; font-weight: normal; font-size: 1.2rem; }
 h3 { text-align: center; font-size: 1.3em; margin: .25em; font-weight: normal; }
 h4 { border: 0px; padding: 0px; margin: 0 0 0 0; font-size: 0.8em; font-weight: normal; text-align: center; }
@@ -22,6 +22,8 @@ h4 { border: 0px; padding: 0px; margin: 0 0 0 0; font-size: 0.8em; font-weight: 
 .caption { margin-left: 10%; margin-right: 10%; text-align: center; text-indent: 0; }
 
 .center { text-indent: 0; text-align: center !important; margin: 0px;}
+.titlepage .author { width: 100%; text-align: left; text-indent: 0; font-size: 1.5em; margin-top: 1em; }
+.titlepage h1 { margin: 2rem 0 0 0; }
 .title-foot { padding-top: 4em; text-align: center !important;}
 
 a { color: blue; text-decoration: none;}
@@ -32,10 +34,10 @@ table th { font-weight: normal; }
 
 .isbn { font-family: sans-serif; font-size: 0.8rem; font-weight: normal; }
 
-.adventure { text-align: center; text-indent: 0; font-face: sans-serif; font-weight: bold; }
+.adventure { text-align: center; text-indent: 0; font-family: sans-serif; font-weight: bold; }
 .title-head h3 { margin-top: 1em; }
 .based-on { text-indent: 0; text-align: justify; text-align-last: center; border-top: 1px solid black; border-bottom: 1px solid black; padding: .5em 0 .5em 0; }
-.author { width: 100%; text-align: center; text-indent: 0; font-size: 1.5em; margin-top: 1em; }
+.author { width: 100%; text-align: left; text-indent: 0; font-size: 1.5em; margin-top: 0; margin-bottom: 1em; }
 .illustrator { width: 100%; text-align: center; text-indent: 0; font-size: 1.25em; margin-top: 1em; }
 .conditions { padding-top: 6em; text-align: justify; text-align-last: center; font-size: 0.8em; }
 .conditions_pad { padding-top: 6em; padding-left: 10%; padding-right: 10%; text-align: justify; text-align-last: center; font-size: 0.8em; }
@@ -79,7 +81,7 @@ table th { font-weight: normal; }
 .no-indent { text-indent: 0px; }
 .revindent { text-indent: -1em; margin-left: 1em; }
 .small-indent {text-indent: 0px; margin-left: 1em; }
-.sc { font-variant: small-caps; font-size: 1.1rem;}
+.sc, .smallcaps { font-variant: small-caps; font-size: 1.1rem;}
 .copy { text-align: left; text-indent: 0px; }
 .toc { margin-left:10px; text-indent: 0px; text-align: left;}
 .typewriter  { font-family: courier, times, serif; text-indent: 0px; margin-left: 5px; margin-right: 5px; font-size: .5em;}

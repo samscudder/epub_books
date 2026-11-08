@@ -1,24 +1,62 @@
 ---
-identifier: 
+identifier: best_of_fritz_leiber
 
-title: 
+title: The Best of Fritz Leiber
 
-creator: 
+creator: Fritz Leiber
 
-cover: 
+cover: fritz_leiber.jpg
 
-css: 
+css: classic_science_fiction.css
 
 language: en-US
 
-publisher: 
+publisher: Ballantine Books
 
-subject: 
+subject: Science Fiction / Anthology
 
 description: 
 ---
 
 rearcover
+
+.center
+THE BEST OF FRITZ LEIBER
+
+**FIRST THERE WAS**
+**THE BEST OF STANLEY G. WEINBAUM**
+
+.smaller
+“WEINBAUM’S TALES HAVE . . . A CAREFREE, DEVIL-TAKE-IT-ALL ATTITUDE WHICH IS, QUITE PLAINLY, IRRESISTIBLE. SCIENCE FICTION AFICIONADOS AND HISTORIANS WILL WELCOME THIS COLLECTION.”
+
+.smaller.right
+—<u>BESTSELLERS</u>
+
+**AND NOW THERE IS**
+**THE BEST OF FRITZ LEIBER . . .**
+
+.smaller
+THE SECOND VOLUME IN BALLANTINE’S CRITICALLY ACCLAIMED CLASSIC LIBRARY OF SCIENCE FICTION—BIG, DEFINITIVE COLLECTIONS BY THE TOP AUTHORS IN THE FIELD.
+
+**NOW—IN ONE SUPERLATIVE VOLUME—22 SUPERB SCIENCE FICTION TALES BY A MASTER STORYTELLER**
+
+.smaller
+• Wanted—An Enemy
+• The Man Who Never Grew Young
+• The Enchanted Forest
+• The Foxholes of Mars
+• The Big Trek
+• Space-Time for Springers
+
+PLUS 16 MORE FABULOUS STORIES—
+INCLUDING THE AWARD-WINNING
+“GONNA ROLL THE BONES,”
+THE TALE OF A MAN WHO SHOOTS
+CAPS WITH THE DEVIL!
+
+---
+
+blurb
 
 What the Critics Have Said about Fritz Leiber
 
@@ -42,49 +80,70 @@ What Fritz Leiber Says about Fritz Leiber
 
 (From the Author’s Afterword to this volume)
 
-Look for BaUantine’s landmark series of definitive collections by the masters of science fiction. Each book will be introduced by a distinguished science-fiction writer or critic.
+---
 
-Now available in a Ballantine Edition
+other_books
 
+Look for Ballantine’s landmark series of definitive collections by the masters of science fiction. Each book will be introduced by a distinguished science-fiction writer or critic.
+
+.space.center
+**Now available in a Ballantine Edition**
+
+.space.center
 The Best
-
 of Stanley G. Weinbaum
 
-Introduction by Isaac Asimov Afterword by Robert Bloch $1.65
+.center
+*Introduction by Isaac Asimov*
+Afterword by Robert Bloch
 
+.space.center
+$1.65
+
+.space.center
 Volumes now in preparation:
 
+.space.center
 The Best of Henry Kuttner
+*Introduction by Ray Bradbury*
 
-Introduction by Ray Bradbury
-
+.space.center
 The Best of Frederik Pohl
+*Introduction by Lester del Rey*
 
-Introduction by Lester del Rey
-
+.space.center
 The Best of Cordwainer Smith
+*Introduction by J. J. Pierce*
 
-Introduction by J. J. Pierce
-
+.space.center
 The Best of C. L. Moore
+*Introduction by Lester del Rey*
 
-Introduction by Lester del Rey
-
+.space.center
 Coming From Ballantine Books
 
-THE BEST QF
+---
 
-Jl^dibdt
+titlepage
 
+# THE BEST OF<br />Fritz Leiber
+
+.editor
 by Fritz Leiber
 
+.editor
 with a special introduction by
-
 POUL ANDERSON
 
-BALLANTINE BOOKS  NEW YORK
+.big_space.center
+BALLANTINE BOOKS • NEW YORK
 
-COPYRIGHT © 1974 BY FRITZ LEIBER Introduction Copyright © 1974 by Poul Anderson
+---
+
+copyright
+
+COPYRIGHT © 1974 BY FRITZ LEIBER
+Introduction Copyright © 1974 by Poul Anderson
 
 All rights reserved under International and Pan-American Copyright Conventions.
 
@@ -94,303 +153,321 @@ First Printing: November, 1974
 
 Printed in Canada
 
-BALLANTINE BOOKS A Division of Random House, Inc.
-
+BALLANTINE BOOKS
+A Division of Random House, Inc.
 201 East 50th Street, New York, N. Y. 10022
-
 Simultaneously published by
-
 Ballantine Books, Ltd., Toronto Canada
 
+---
+
+acknowledgments
+
+.center
 ACKNOWLEDGMENTS
 
+.space.revindent
 “Gonna Roll The Bones,” copyright © 1967 by Fritz Leiber.
 
-“Sanity,” copyright © 1944 by Street and Smith Publications, Inc., for Astounding Science Fiction, April, 1944.
+.revindent
+“Sanity,” copyright © 1944 by Street and Smith Publications, Inc., for *Astounding Science Fiction*, April, 1944.
 
-“Wanted—An Enemy,” copyright © 1945 by Street and Smith Publications, Inc., for Astounding Science Fiction, February, 1945.
+.revindent
+“Wanted—An Enemy,” copyright © 1945 by Street and Smith Publications, Inc., for *Astounding Science Fiction*, February, 1945.
 
-“The Man Who Never Grew Young,” copyright © 1947 by Fritz Leiber, Jr. (Appeared in Avon Fantasy Reader #9, 1948.)
+.revindent
+“The Man Who Never Grew Young,” copyright © 1947 by Fritz Leiber, Jr. (Appeared in *Avon Fantasy Reader #9*, 1948.)
 
-“The Ship Sails at Midnight,” copyright © 1950 by Ziff-Davis Publishing Company, for Fantastic Adventures, September, 1950.
+.revindent
+“The Ship Sails at Midnight,” copyright © 1950 by Ziff-Davis Publishing Company, for *Fantastic Adventures*, September, 1950.
 
-“The Enchanted Forest,” copyright © 1950 by Street and Smith Publications, Inc., for Astounding Science Fiction, October, 1950.
+.revindent
+“The Enchanted Forest,” copyright © 1950 by Street and Smith Publications, Inc., for *Astounding Science Fiction*, October, 1950.
 
-“Coming Attraction,” copyright © 1950 by World Editions, for Galaxy Science Fiction, November, 1950.
+.revindent
+“Coming Attraction,” copyright © 1950 by World Editions, for *Galaxy Science Fiction*, November, 1950.
 
-“Poor Superman,” copyright © 1951 by Galaxy Publishing Corporation for Galaxy Science Fiction, July, 1951. Copyright © (as “Appointment in Tomorrow”) 1951 by Fritz Leiber.
+.revindent
+“Poor Superman,” copyright © 1951 by Galaxy Publishing Corporation for *Galaxy Science Fiction*, July, 1951. Copyright © (as “Appointment in Tomorrow”) 1951 by Fritz Leiber.
 
-“A Pail of Air,” copyright © 1951 by Galaxy Publishing Corporation for Galaxy Science Fiction, December, 1951.
+.revindent
+“A Pail of Air,” copyright © 1951 by Galaxy Publishing Corporation for *Galaxy Science Fiction*, December, 1951.
 
+.revindent
 “The Foxholes of Mars,” copyright © 1952 by Standard Magazines for Thrilling Wonder Stories, June, 1952.
 
-“The Big Holiday,” copyright © 1952 by Fantasy House for The Magazine of Fantasy and Science Fiction, January, 1953.
+.revindent
+“The Big Holiday,” copyright © 1952 by Fantasy House for *The Magazine of Fantasy and Science Fiction*, January, 1953.
 
+.revindent
 “The Night He Cried,” copyright © 1953 by Ballantine Books, Inc.
 
-“The Big Trek,” copyright © 1957 by Fantasy House for The Magazine of Fantasy and Science Fiction, October, 1957.
+.revindent
+“The Big Trek,” copyright © 1957 by Fantasy House for *The Magazine of Fantasy and Science Fiction*, October, 1957.
 
+.revindent
 “Space-Time for Springers,” copyright © 1958 by Ballantine Books, Inc.
 
-“Try and Change the Past,” copyright © 1958 by Street and Smith Publications, Inc., for Astounding Science Fiction, March, 1958.
+.revindent
+“Try and Change the Past,” copyright © 1958 by Street and Smith Publications, Inc., for *Astounding Science Fiction*, March, 1958.
 
-“A Deskful of Girls,” copyright © 1958 by Mercury Press for The Magazine of Fantasy and Science Fiction, April, 1958.
+.revindent
+“A Deskful of Girls,” copyright © 1958 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, April, 1958.
 
-“Rump-Titty-Titty-Tum-Tah-Tee,” copyright © 1958 by Mercury Press for The Magazine of Fantasy and Science Fiction, May, 1958.
+.revindent
+“Rump-Titty-Titty-Tum-Tah-Tee,” copyright © 1958 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, May, 1958.
 
-“Little Old Miss Macbeth,” copyright © 1958 by Mercury Press for The Magazine of Fantasy and Science Fiction, December, 1958.
+.revindent
+“Little Old Miss Macbeth,” copyright © 1958 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, December, 1958.
 
-“Mariana,” copyright © 1960 by Ziff-Davis for Fantastic Science Fiction Stories, February, 1960.
+.revindent
+“Mariana,” copyright © 1960 by Ziff-Davis for *Fantastic Science Fiction Stories*, February, 1960.
 
-“The Man Who Made Friends With Electricity,” copyright © 1962 by Mercury Press for The Magazine of Fantasy and Science Fiction, March, 1962.
+.revindent
+“The Man Who Made Friends With Electricity,” copyright © 1962 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, March, 1962.
 
-“The Good New Days,” copyright © 1965 by Galaxy Publishing Corporation for Galaxy Magazine, October, 1965.
+.revindent
+“The Good New Days,” copyright © 1965 by Galaxy Publishing Corporation for *Galaxy Magazine*, October, 1965.
 
+.revindent
 “America the Beautiful,” copyright © 1970 by Harry Harrison.
 
-CONTENTS
+---
 
-Introduction: The Wizard of Nehwon—
+contents
 
-Poul Anderson	ix
+# CONTENTS
 
-Gonna Roll The Bones	1
+[*Introduction:* The Wizard of Nehwon](introduction)—*Poul Anderson*
 
-Sanity	25
+[Gonna Roll The Bones](gonna_roll_the_bones)
 
-Wanted—An Enemy	42
+[Sanity](sanity)
 
-The Man Who Never Grew Young	57
+[Wanted—An Enemy](wanted_an_enemy)
 
-The Ship Sails at Midnight	65
+[The Man Who Never Grew Young](the_man_who_never_grew_young)
 
-The Enchanted Forest	88
+[The Ship Sails at Midnight](the_ship_sails_at_midnight)
 
-Coming Attraction	109
+[The Enchanted Forest](the_enchanted_forest)
 
-Poor Superman	124
+[Coming Attraction](comming_attraction)
 
-A Pail of Air	153
+[Poor Superman](poor_superman)
 
-The Foxholes of Mars	169
+[A Pail of Air](a_pail_of_air)
 
-The Big Holiday	179
+[The Foxholes of Mars](the_foxholes_of_mars)
 
-The Night He Cried	188
+[The Big Holiday](the_big_holiday)
 
-The Big Trek	197
+[The Night He Cried](the_night_he_cried)
 
-Space-Time for Springers	203
+[The Big Trek](the_big_trek)
 
-Try and Change the Past	216
+[Space-Time for Springers](space-time_for_springers)
 
-A Deskful of Girls	224
+[Try and Change the Past](try_and_change_the_past)
 
-Rump-Titty-Titty-Tum-Tah-Tee	254
+[A Deskful of Girls](a_deskful_of_girls)
 
-Little Old Miss Macbeth	272
+[Rump-Titty-Titty-Tum-Tah-Tee](rump-titty-titty-tum-tah-tee)
 
-Mariana	278
+[Little Old Miss Macbeth](little_old_miss_macbeth)
 
-The Man Who Made Friends With Electricity	284
+[Mariana](mariana)
 
-The Good New Days	295
+[The Man Who Made Friends With Electricity](the_man_who_made_friends_with_electricity)
 
-America the Beautiful	311
+[The Good New Days](the_good_new_days)
 
-Afterword	325
+[America the Beautiful](america_the_beautiful)
 
+[Afterword](afterword)
 
+---
 
+introduction
 
+# The Wizard of Nehwon
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Wizard of Nehwon
-
-When i was first asked to write an introduction to a volume of Fritz Leiber stories—the most important of such collections at that—my reaction was inappropriately inelegant: “Huh?” I still think it had a fundamental rightness. How can anybody properly comment on the work of one who is not only his senior in the profession by a good many years, but is universally acknowledged to be among its three or four all-time titans?
+.fl
+<span class="smallcaps">When I was</span> first asked to write an introduction to a volume of Fritz Leiber stories—the most important of such collections at that—my reaction was inappropriately inelegant: “Huh?” I still think it had a fundamental rightness. How can anybody properly comment on the work of one who is not only his senior in the profession by a good many years, but is universally acknowledged to be among its three or four all-time titans?
 
 Yet this was an honor I could not decline. It was like being in a physics department back around 1935 and invited to introduce a series of guest lectures by Einstein. A person in that position realizes the audience hasn’t come to hear, or read, him. But he’ll try to avoid boring platitudes. If he’s lucky, he’ll even convey a slight extra insight, which will help that audience appreciate the visitor and what he’ll say a little bit more than they might otherwise have done. Maybe I’ll luck out.
 
-Let’s first make a few remarks about the man himself, before going on to his writing. They will be only a few— despite the keyhole school of criticism, the facts of a creator’s life are not required for an understanding of his or her work; or if they are, then that person has to that extent failed as an artist. Fritz Leiber does employ a certain amount of autobiography in his work, perhaps more than
+Let’s first make a few remarks about the man himself, before going on to his writing. They will be only a few—despite the keyhole school of criticism, the facts of a creator’s life are not required for an understanding of his or her work; or if they are, then that person has to that extent failed as an artist. Fritz Leiber does employ a certain amount of autobiography in his work, perhaps more than any other maker of science fiction or fantasy. But he’s far too skillful for you to need to know what the personal element is. Besides, he lets you in on some of it himself, for your pleasure, in his afterword to the present volume.
 
-tx
+And I can’t claim deep knowledge of him in any event. We have been friends for a long time, guests in each other’s homes, and so on; but until recently, geographical separation prevented frequent encounters, and we never happened to strike up one of his extended correspondences which have delighted a number of people. Therefore, a mere scattering of reminiscences and data:
 
-any other maker of science fiction or fantasy. But he’s far too skillful for you to need to know what the personal element is. Besides, he lets you in on some of it himself, for your pleasure, in his afterword to the present volume.
+I first met Fritz Leiber at the 1949 world science fiction convention in Cincinnati. The author of such cornerstone tales as *Gather, Darkness!* and *Conjure Wife* seemed even more awe-inspiring in person, towering, classically handsome, altogether theatrical. The last of these qualities was not deliberate—rather, he was conventionally clad and soft-spoken—but he couldn’t help it; personality will come through. He talked to me, a beginner with half a dozen stories in print, as graciously as he did to the biggest-name writer or editor present, or the humblest fan. Here “graciously” is used in an exact sense which is best defined by an example.
 
-And I can’t claim deep knowledge of him in any event We have been friends for a long time, guests in each other’s homes, and so on; but until recently, geographical separation prevented frequent encounters, and we never happened to strike up one of his extended correspondences which have delighted a number of people. Therefore, a mere scattering of reminiscences and data:
+From time to time we are all afflicted with bores or boors. Some of us give them the brutal brush-off; most of us suffer them for a short while, then escape on a mumbled excuse. Fritz Leiber has repeatedly been seen to *listen* to such characters, *respond* to them, actively, sympathetically, and patiently enough that they never suspect the toleration. He cannot have an enemy in the world; instead, there is a worldful of people who all hope to be worthy of his friendship.
 
-I first met Fritz Leiber at the 1949 world science fiction convention in Cincinnati. The author of such cornerstone tales as Gather, Darkness! and Conjure Wife seemed even more awe-inspiring in person, towering, classically handsome, altogether theatrical. The last of these qualities was not deliberate—rather, he was conventionally clad and soft-spoken—but he couldn’t help it; personality will come through. He talked to me, a beginner with half a dozen stories in print, as graciously as he did to the biggest-name writer or editor present, or the humblest fan. Here “graciously” is used in an exact sense which is best defined by an example.
+It is etymologically wrong but psychologically right to define a gentleman as one who is gentle, yet very much a man. Leiber has been a championship fencer and a chess player rated “expert.” To see and hear him recite Chesterton’s bravura “Lepanto” is an unforgettable experience. And, of course, in his writing he has stared down—or laughed down—death, horror, human absurdity, with guts worthy of a Jeffers, Kafka, or Cervantes.
 
-From time to time we are all afflicted with bores or boors. Some of us give them the brutal brush-off; most of us suffer them for a short while, then escape on a mumbled excuse. Fritz Leiber has repeatedly been seen to listen to such characters, respond to them, actively, sympathetically, and patiently enough that they never suspect the toleration. He cannot have an enemy in the world; instead, there is a worldful of people who all hope to be worthy of his friendship.
+Born in Chicago near the end of 1910, his father a famous Shakespearean actor for whom Fritz was named, he grew up in the atmosphere of the stage, which doubtless has a great deal to do with the highly visual and dramatic quality of his work. But he took his degree in psychology, which also shows. Variously a lay preacher, actor, college teacher of drama, and staff writer for an encyclopedia, he tried free-lancing sporadically. His first published story appeared in 1939, in that lustrous and mourned magazine *Unknown*. During World War II he reached a painful decision—that the struggle against fascism was more important than the pacifist convictions which he had long held, and still does—and he accepted a job in aircraft production. Afterward, he was on the staff of *Science Digest* for a dozen years. During all this time he acquired a wife and son and, between dry spells which readers regretted, wrote a lot of the best science fiction and fantasy in the business. Eventually he moved from Chicago to southern California and started writing full time. Since his wife’s death (everybody who knew her misses Jonquil) he has lived in San Francisco.
 
-It is etymologically wrong but psychologically right to define a gentleman as one who is gentle, yet very much a man. Leiber has been a championship fencer and a chess player rated “expert.” To see and hear him recite Chesterton’s bravura “Lepanto” is an unforgettable experience. And, of course, in his writing he has stared down—or laughed down—-death, horror, human absurdity, with guts worthy of a Jeffers, Kafka, or Cervantes.
+So now Fritz Leiber is in his sixties, an age when most artists have either retired or are sterilely repeating themselves. The years show on him a bit—but not too much, and only physically. Inside, while possessing all the wisdom of a lifetime, he’s younger than the average man of thirty. To give a small personal illustration: not long ago, in his rambles around his newly adopted city, he discovered a walking tour that will take you to every place where action occurs in Dashiell Hammett’s *The Maltese Falcon*. Or . . . recently my wife gave an elaborate dinner to honor the memory of E. R. Eddison, upon the date of Lessingham’s translation into Zimiamvia. Only those who would understand what that means were invited, and they were expected to come in costume. Fritz graced the party as the oldest, most sharply humorous, and best-dressed man present.
 
-Born in Chicago near the end of 1910, his father a famous Shakespearean actor for whom Fritz was named, he grew up in the atmosphere of the stage, which doubtless has a great deal to do with the highly visual and dramatic quality of his work. But he took his degree in psychology, which also shows. Variously a lay preacher, actor, college teacher of drama, and staff writer for an encyclopedia, he tried free-lancing sporadically. His first published story appeared in 1939, in that lustrous and mourned magazine Unknown. During World War II he reached a painful decision—that the struggle against fascism was more important than the pacifist convictions which he had long held, and still does—and he accepted a job in aircraft production. Afterward, he was on the staff of Science Digest for a dozen years. During all this time he acquired a wife and son and, between dry spells which readers regretted, wrote a lot of the best science fiction and fantasy in the business. Eventually he moved from Chicago to southern California and started writing full time. Since his wife’s death (everybody who knew her misses Jonquil) he has lived in San Francisco.
+If anything, he keeps growing younger, more actively creative. His past unproductive periods seem to have been times during which, consciously or unconsciously, he was preparing himself to strike out in a different direction. The results were always surprising and consequential. Though ever aware of and sensitive to the great issues of the real world around him, he has never been a merely “relevant” writer. Instead, he has always been in the forefront in both themes and treatment. In these past several years we have been witnessing a new burst of pioneering, which looks as if it will continue while he lives. That makes especially appropriate the book, both retrospective and contemporary, which you are holding. And it brings up our real subject, Fritz Leiber’s achievement.
 
-So now Fritz Leiber is in his sixties, an age when most artists have either retired or are sterilely repeating themselves. The years show on him a bit—but not too much, and only physically. Inside, while possessing all the wisdom of a lifetime, he’s younger than the average man of thirty. To give a small personal illustration: not long ago, in his rambles around his newly adopted city, he discovered a walking tour that will take you to every place where action occurs in Dashiell Hammett’s The Maltese Falcon. Or . . . recently my wife gave an elaborate dinner to honor the memory of E. R. Eddison, upon the date of Lessingham’s translation into Zimiamvia. Only those who would understand what that means were invited, and they were expected to come in costume. Fritz graced the party as the oldest, most sharply humorous, and best-dressed man present.
+I do not propose to offer you a critique. For one thing, while mildly disagreeing with a few of her judgments, I couldn’t better the one by Judith Merril.[^1] Besides, I lay no claim to being a critic, simply a working writer.
 
-If anything, he keeps growing younger, more actively creative. His past unproductive periods seem to have been times during which, consciously or unconsciously, he was preparing himself to strike out in a different direction. The results were always surprising and consequential. Though ever aware of and sensitive to the great issues of the real world around him, he has never been a merely “relevant” writer. Instead, he has always been in the forefront in both themes and treatment. In these past several years we have been witnessing a new burst of pioneering, which looks as if it will continue while he lives. That makes especially appropriate the book, both retrospective and contemporary, which you are holding. And it brings up our real subject, Fritz Leiber’s achievement
+To be sure, that distinction is far from absolute. Thus Merril published excellent fiction in earlier days, while Leiber has done a certain amount of criticism. The question to consider is where the emphasis of a life—in this case Leiber’s—has lain—or, at least, what an essayist is trying to do. I’ll say little about the stories in this volume. They speak for themselves; moreover, you have the author’s own notes. Rather, I’d like to consider in a very informal fashion, and from the viewpoint of a fellow practitioner, some of those items which are not on hand. You who already know them may enjoy a revival of memories. You who don’t may get a better idea of Leiber’s accomplishment and, I hope, will be led to read further.
 
-I do not propose to offer you a critique. For one thing, while mildly disagreeing with a few of her judgments, I couldn’t better the one by Judith Merril. <1> Besides, I lay no claim to being a critic, simply a working writer.
+It’s too bad that we have no tale of Fafhrd and the Gray Mouser here. Not only did that charming pair of rogues—the tall Northern barbarian and the small city-bred trickster—launch the author’s career; they are still going strong, to the joy of everybody who appreciates a rattling good fantasy adventure. But by no means are these stories conventional “sword and sorcery.” The world of Nehwon is made real in wondrously imaginative detail, its human aspects as true as in any conscientious job of reporting. To visit the city of Lankhmar is to learn what decadence in fact means; to roam with our vulnerable vagabonds is to experience pity and terror as well as suspense, wry humor, and uproarious hilarity. Here Leiber in his way—like the late J. R. R. Tolkien in his, and not vastly different—has done, and is doing, for the heroic fantasy what Robert Louis Stevenson did for the pirate yarn: by originality and sheer writing genius, he revived an ossified genre and started it off on a fresh path.
 
-	<1> In The Magazine of Fantasy and Science Fiction for July 1969, a special issue honoring Fritz Leiber. Previously, in November 1959, Fantastic had run an all-Leiber issue. These, and the awards voted him, indicate the esteem in which his work is held by those who know the field.
-
-
-
-To be sure, that distinction is far from absolute. Thus Merril published excellent fiction in earlier days, while Lei-ber has done a certain amount of criticism. The question to consider is where the emphasis of a life—in this case Leiber’s—has lain—or, at least, what an essayist is trying to do. I’ll say little about the stories in this volume. They speak for themselves; moreover, you have the author’s own notes. Rather, I’d like to consider in a very informal fashion, and from the viewpoint of a fellow practitioner, some of those items which are not on hand. You who already know them may enjoy a revival of memories. You who don’t may get a better idea of Leiber’s accomplishment and, I hope, will be led to read further.
-
-It’s too bad that we have no tale of Fafhrd and the Gray Mouser here. Not only did that charming pair of rogues— the tall Northern barbarian and the small city-bred trickster—launch the author’s career; they are still going strong, to the joy of everybody who appreciates a rattling good fantasy adventure. But by no means are these stories conventional “sword and sorcery.” The world of Nehwon is made real in wondrously imaginative detail, its human aspects as true as in any conscientious job of reporting. To visit the city of Lankhmar is to learn what decadence in fact means; to roam with our vulnerable vagabonds is to experience pity and terror as well as suspense, wry humor, and uproarious hilarity. Here Leiber in his way—like the late J. R. R. Tolkien in his, and not vastly different—has done, and is doing, for the heroic fantasy what Robert Louis Stevenson did for the pirate yarn: by originality and sheer writing genius, he revived an ossified genre and started it off on a fresh path.
-
-I could likewise wish that this book held a sample or two or Leiber’s horror stories. In my opinion, which Fritz modestly does not share, Lovecraft and Poe himself never dealt out comparable chills. The typical Leiber frightener gains tremendous power by its economy, its evocative contemporary setting, and its bleak brilliance of concept—like “Smoke Ghost,” to name a single tale, whose phantom is in and of the corrupted air pervading a modem industrial city.
+I could likewise wish that this book held a sample or two of Leiber’s horror stories. In my opinion, which Fritz modestly does not share, Lovecraft and Poe himself never dealt out comparable chills. The typical Leiber frightener gains tremendous power by its economy, its evocative contemporary setting, and its bleak brilliance of concept—like “Smoke Ghost,” to name a single tale, whose phantom is in and of the corrupted air pervading a modern industrial city.
 
 And you would have enjoyed “The Sixty-Four-Square Madhouse” and/or “The Moriarty Gambit,” both masterly chess stories, the latter also a grand Sherlock Holmes pastiche. Well, look them up. All the omissions I have mentioned are not the fault of author or editor, but merely due to lack of space. They would have crowded out equally vivid pieces that you do find here.
 
 The novels were inevitably excluded. But any discussion of Leiber’s work, or of science fantasy as a whole, must consider them. They are few in number, but each is unique and, with two exceptions, of major significance in the development of present-day imaginative literature.
 
-The first exception is Tarzcm and the City of Gold, “only” a delightful continuation of Burroughs. Come to think of it, though, a scholar of English letters would find it most interesting to trace out how Leiber managed to convey the flavor of his model while avoiding all its crudities, outdoing Burroughs in every way that counts, and throwing occasional philosophical and moral issues into the bargain. Does anybody need material for a master’s thesis?
+The first exception is *Tarzan and the City of Gold*, “only” a delightful continuation of Burroughs. Come to think of it, though, a scholar of English letters would find it most interesting to trace out how Leiber managed to convey the flavor of his model while avoiding all its crudities, outdoing Burroughs in every way that counts, and throwing occasional philosophical and moral issues into the bargain. Does anybody need material for a master’s thesis?
 
-Doubtless many will argue with my assertion that The
+Doubtless many will argue with my assertion that *The Green Millennium* is not a landmark. It is, in the sense of being a fine book, highly recommended. But it carries further the world of “Coming Attraction” and “Poor Superman,” both in the present collection, and thus does not break new ground—by Leiber’s standards—however inventive and often astoundingly witty it is. All the rest of us, from Heinlein on down, would rank it among our own best, had we written it.
 
-Green Millennium is not a landmark. It is, in the sense of being a fine book, highly recommended. But it carries further the world of “Coming Attraction” and “Poor Superman,” both in the present collection, and thus does not break new ground—by Leiber’s standards—however inventive and often astoundingly witty it is. All the rest of us, from Heinlein on down, would rank it among our own best, had we written it.
+Heinlein offers a natural starting point for a few words about *Gather, Darkness!*, that prototype of the interplay of ideas which has always given vitality to science fiction. In 1940 appeared his serial *If This Goes On—*, wherein the United States has fallen under a totalitarian regime posing as the church of a new faith and using technological devices to work suitably impressive “miracles.” A year later, under his pseudonym “Anson MacDonald,” he brought forth *Sixth Column*. There, the United States has been invaded and occupied by a foreign power which allows the people freedom of religion but of nothing else. A small underground takes advantage of secret scientific knowledge—gathered just before the collapse, so that it was never brought to bear in the war—to give the priests of a stalking-horse faith similar capabilities.
 
-Heinlein offers a natural starting point for a few words about Gather, Darkness!, that prototype of the interplay of ideas which has always given vitality to science fiction. In 1940 appeared his serial If This Goes On—, wherein the United States has fallen under a totalitarian regime posing as the church of a new faith and using technological devices to work suitably impressive “miracles.” A year later, under his pseudonym “Anson MacDonald,” he brought forth Sixth Column. There, the United States has been invaded and occupied by a foreign power which allows the people freedom of religion but of nothing else. A small underground takes advantage of secret scientific knowledge —gathered just before the collapse, so that it was never brought to bear in the war—to give the priests of a stalking-horse faith similar capabilities.
+Heinlein stopped with those two books, but Leiber saw that the theme was still full of potential. Suppose such a church came to power, then never stepped down again and never was overthrown for centuries. In *Gather, Darkness!* it has built a neo-medieval world of ignorant commoners dominated by a hierarchy that really can invoke “supernatural” sanctions in the name of its God. A liberation movement finally does start. But in this environment it calls itself “witchcraft” and claims to serve the Devil! There are many magnificently funny details (e.g., since the priesthood rides around in aircraft built to look like angels, the aircraft of the opposition are bat-winged and homed) but the story isn’t simply a romp. Its account of brainwashing by chemical and electronic means is fast becoming a foul reality.
 
-Heinlein stopped with those two books, but Leiber saw that the theme was still full of potential. Suppose such a church came to power, then never stepped down again and never was overthrown for centures. In Gather, Darkness! it has built a neo-medieval world of ignorant commoners dominated by a hierarchy that really can invoke “supernatural” sanctions in the name of its God. A liberation movement finally does start. But in this environment it calls itself “witchcraft” and claims to serve the Devil! There are many magnificently funny details (e.g., since the priesthood rides around in aircraft built to look like angels, the aircraft of the opposition are bat-winged and homed) but the story isn’t simply a romp. Its account of brainwashing by chemical and electronic means is fast becoming a foul reality.
+*Gather, Darkness!* was followed by a swarm of dull imitations. But surely, in due course, it partly inspired Philip Jose Farmer’s seminal work *The Lovers*. That’s what I mean by a landmark work.
 
-Gather, Darkness! was followed by a swarm of dull imitations. But surely, in due course, it partly inspired Philip
+I wonder how Women’s Lib would react to a reissue of the fantasy novel from this period, *Conjure Wife*, with its assumption that all women are witches but they don’t tell their men. Probably there’d be general pleasure. It was popular enough to get two filmed versions; and I know several ladies in the movement who still love the original story. As often elsewhere, Leiber doubled his strength by combining dazzling imagination with unsparing realism. The principal setting is a small college community, and I have since observed for myself how vicious the infighting can get in such a place. By the way, the hero, Norman Saylor, reappears in this collection. Leiber likes to interconnect tales whenever possible.
 
-Jose Farmer’s seminal work The Lovers. That’s what I mean by a landmark work.
+Likewise, several of Leiber’s stories are part of a series incorporating the many-branched time-lines whose origins were described in the short novel *Destiny Times Three*. Ranging from a placid utopia through a cruel dictatorship to a freezing ruin of an Earth—and beyond—this novel is more than a fast-paced chase story; it is a vatic study of power over nature and over man, so easy to misuse and so nearly impossible to use rightly.
 
-I wonder how Women’s Lib would react to a reissue of the fantasy novel from this period, Conjure Wife, with its assumption that all women are witches but they don’t tell their men. Probably there’d be general pleasure. It was popular enough to get two filmed versions; and I know several ladies in the movement who still love the original story. As often elsewhere, Leiber doubled his strength by combining dazzling imagination with unsparing realism. The principal setting is a small college community, and I have since observed for myself how vicious the infighting can get in such a place. By the way, the hero, Norman Saylor, reappears in this collection. Leiber likes to interconnect tales whenever possible.
+Similarly, Leiber wrote a number of stories in what has come to be known as the Change-War cycles—this series has rather overshadowed the one mentioned above. A couple of the Change-War stories are reprinted here. The heart of the cycle is in another novel, *The Big Time*. Few comparable tours de force exist anywhere in literature. The action takes place continuously in a single setting, a station outside the cosmos to which half-crazed soldiers from all time and space are sent for a little rest and recreation. Beneath the flamboyancies, tension racks up notch by notch toward a breaking-point climax followed by an ironic denouement. It’s fantastically good theater—literally. How I wish to see it staged!
 
-Likewise, several of Leiber’s stories are part of a series incorporating the many-branched time-lines whose origins were described in the short novel Destiny Times Three. Ranging from a placid utopia through a cruel dictatorship to a freezing ruin of an Earth—and beyond—this novel is more than a fast-paced chase story; it is a vatic study of power over nature and over man, so easy to misuse and so nearly impossible to use rightly.
+Being such a virtuoso performance, *The Big Time* doesn’t seem to have had any followers. I admit to keeping it in mind while writing my own *A Midsummer Tempest*, but cannot claim that that employs the dramatic unities as the former book did. Evidently nobody in our field can match Fritz Leiber here.
 
-Similarly, Leiber wrote a number of stories in what has come to be known as the Change-War cycles—this series has rather overshadowed the one mentioned above. A couple of the Change-War stories are reprinted here. The heart of the cycle is in another novel, The Big Time. Few comparable tours de force exist anywhere in literature. The action takes place continuously in a single setting, a station outside the cosmos to which half-crazed soldiers from all time and space are sent for a little rest and recreation. Beneath the flamboyancies, tension racks up notch by notch toward a breaking-point climax followed by an ironic denouement. It’s fantastically good theater—literally. How I wish to see it staged!
+He went on to a different technique, the out-and-out satirical, in *The Silver Eggheads*. This account of an ultra-mechanized future lacks the misanthropy of a Swift but bites just as hard. I really think its blend of sardonicism, earthy (even slapstick) mirth, and underlying compassion is best likened to Aristophanes. For instance, consider what might be done with pseudo-female robots—
 
-Being such a virtuoso performance, The Big Time doesn’t seem to have had any followers. I admit to keeping it in mind while writing my own A Midsummer Tempest, but cannot claim that that employs the dramatic unities as the former book did. Evidently nobody in our field can match Fritz Leiber here.
+.space.thin
+“Can you imagine, Flaxy, having it with a girl who is all velvet or plush, or who really goes all hot and cold, or who can softly sing you a full-orchestra symphony while you’re doing it or maybe Ravel’s *Bolero*, or who has slightly—not excessively—prehensile breasts or various refreshingly electric skin areas, or who has some of the features—not overdone, of course—of a cat or a vampire or an octopus, or who has hair like Medusa’s or Shambleau’s that lives and caresses you, or who has four arms like Siva, or a prehensile tail eight feet long, or . . . and at the same time is perfectly safe and can’t bother or involve or infect or dominate you in any way?”
 
-He went on to a different technique, the out-and-out satirical, in The Silver Eggheads. This account of an ultra-mechanized future lacks the misanthropy of a Swift but bites just as hard. I really think its blend of sardonicism, earthy (even slapstick) mirth, and underlying compassion is best likened to Aristophanes. For instance, consider what might be done with pseudo-female robots—
+.space
+—consider this machinery, and when you are done laughing, consider the latest issue of *Playboy*.
 
-“Can you imagine, Flaxy, having it with a girl who is all velvet or plush, or who really goes all hot and cold, or who can softly sing you a full-orchestra symphony while you’re doing it or maybe Rave’s Bolero, or who has slightly—not excessively—prehensile breasts or various refreshingly electric skin areas, or who has some of the features—not overdone, of course—of a cat or a vampire or an octopus, or who has hair like Medusa’s or Shambleau’s that lives and caresses you, or who has four arms like Siva, or a prehensile tail eight feet long, or . . . and at the same time is perfectly safe and can’t bother or involve or infect or dominate you in any way?”
+A slightly similar minor motif occurs in *The Wanderer*. This novel concerns the effects on a large and varied cast of characters of a mobile planet coming near Earth. All kinds of things happen, all fascinating. But I have a reason for singling out the relationship, which eventually becomes erotic, between the human Paul and the highly evolved, feline-like Tigerishka. Leiber flinches no more from the fact that we are sexual beings than he does from the fact that we are limited, usually ridiculous, and ultimately mortal. This quotation will at least give you some extra words of his:
 
-—consider this machinery, and when you are done laughing, consider the latest issue of Playboy.
+.space.thin
+After a space he came slowly floating up out of the infinite softness of that bottomless black bed, and there were the stars again, and Tigerishka lifted up a little above him so that very faintly, by starlight, he saw the violet of her petaled irises and the bronzy green of her cheeks and her mulberry lips parted, careless that she showed her whitely-glinting fangs, and she recited:
 
-A slightly similar minor motif occurs in The Wanderer. This novel concerns the effects on a large and varied cast of characters of a mobile planet coming near Earth. All kinds of things happen, all fascinating. But I have a reason for singling out the relationship, which eventually becomes erotic, between the human Paul and the highly evolved, feline-like Tigerishka. Leiber flinches no more from the fact that we are sexual beings than he does from the fact that we are limited, usually ridiculous, and ultimately mortal. This quotation will at least give you some extra words of his:
+.thin
+“Poor little ape, you’re sick again tonight.
 
-After a space he came slowly floating up out of the infinite softness of that bottomless black bed, and
+.thin
+Has the shrill, fretful chatter fevered you?
 
-there were the stars again, and Tigerishka lifted up a little above him so that very faintly, by starlight, he saw the violet of her petaled irises and the bronzy green of her cheeks and her mulberry lips parted, careless that she showed her whitely-giinting fangs, and she recited:
-
-“Poor little ape, you’re sick again tonight Has the shrill, fretful chatter fevered you?
-
+.thin
 Was it a dream-lion gave you such a fright?
 
+.thin
 And did the serpent Fear glide from the slough?
 
-You cough, you moan, I hear your small teeth grate. What are those words you mutter as you toss?
+.thin
+You cough, you moan, I hear your small teeth grate.
 
-War, torture, guilt revenge, crime, murder, hate?
+.thin
+What are those words you mutter as you toss?
 
-FI! stroke your brow, poor little ape—you’re cross.
+.thin
+War, torture, guilt, revenge, crime, murder, hate?
 
+.thin
+I’ll stroke your brow, poor little ape—you’re cross.
+
+.thin
 Far wiser beings under far older stars
 
+.thin
 Have had your sickness, seen their hopes denied,
 
+.thin
 Sought God, fought Fate, pounded against the bars,
 
+.thin
 And like you, little ape, they some day died.
 
+.thin
 The bough swings in the wind, the night is deep.
 
-Look at the stars, poor little ape, and sleep.” ‘Tigerishka,” Paul wondered with a sleepy puzzlement, “I started to write that sonnet years ago, but I could get only three lines. Did you—”
+.thin
+Look at the stars, poor little ape, and sleep.”
 
-“No,” she said softly, “you finished it by yourself.
+.thin
+“Tigerishka,” Paul wondered with a sleepy puzzlement, “I started to write that sonnet years ago, but I could get only three lines. Did you—”
 
-I found it, lying there in die dark behind your eyes, tossed in a comer. Rest now, Paul. Rest . . .”
+.thin
+“No,” she said softly, “you finished it by yourself. I found it, lying there in the dark behind your eyes, tossed in a corner. Rest now, Paul. Rest. . . .”
 
-To be thus aware of mortality, and of the ancient deeps within us while we live, is not morbid but mature. Leiber can even laugh with them—not at them, which is an evasion, but with them. He does so in A Specter Is Haunting Texas. The satire there is more stark than in The Silver Eggheads, more reminiscent of Huxley or Heine though with a strong dash of. . . shall we say Buster Keaton? The hero, bom and reared on the Moon, has in its low gravity grown up excessively tall and thin. Forced to visit Earth, he must wear a skeleton-like supportive framework which, with his black garb, makes him Death discamate to the inhabitants of a crazy-quilt of nations formed after a nuclear war. One of his loves is equally a Death figure, the other
+.space
+To be thus aware of mortality, and of the ancient deeps within us while we live, is not morbid but mature. Leiber can even laugh with them—not at them, which is an evasion, but with them. He does so in *A Specter Is Haunting Texas*. The satire there is more stark than in *The Silver Eggheads*, more reminiscent of Huxley or Heine though with a strong dash of . . . shall we say Buster Keaton? The hero, born and reared on the Moon, has in its low gravity grown up excessively tall and thin. Forced to visit Earth, he must wear a skeleton-like supportive framework which, with his black garb, makes him Death discarnate to the inhabitants of a crazy-quilt of nations formed after a nuclear war. One of his loves is equally a Death figure, the other Flesh itself. Needless to say, the author never puts it this crudely or obviously, and the overtones are infinite. Perhaps no other modem writers except James Branch Cabell and Vladimir Nabokov have gotten such fun out of the human tragicomedy; and they, for all their wit, have never had Leiber’s uninhibited gusto.
 
-Flesh itself. Needless to say, the author never puts it this crudely or obviously, and the overtones are infinite. Perhaps no other modem writers except James Branch Cabell and Vladimir Nabokov have gotten such fun out of the human tragicomedy; and they, for all their wit, have never had Leiber’s uninhibited gusto.
+Let us hope for much more from this man, in whatever vein he may next select. Meanwhile, the volume in your hands gives a good overview. If you are already familiar with Fritz Leiber, you know you have a treat in store. If it will be your first encounter with him, I envy you.
 
-Let us hope for much more from this man, in whatever vein he may next select Meanwhile, the volume in your hands gives a good overview. If you are already familiar with Fritz Leiber, you know you have a treat in store. If it will be your first encounter with him, I envy you.
-
+.right.sc
 —Poul Anderson
 
-Gonna Roll The Bones
+[^1]: In The Magazine of Fantasy and Science Fiction for July 1969, a special issue honoring Fritz Leiber. Previously, in November 1959, Fantastic had run an all-Leiber issue. These, and the awards voted him, indicate the esteem in which his work is held by those who know the field.
 
-Suddenly Joe Slattermill knew for sure he’d have to get out quick or else blow his top and knock out with the shrapnel of his skull the props and patches holding up his decaying home, that was like a house of big wooden and plaster and wallpaper cards except for the huge fireplace and ovens and chimney across the kitchen from him.
+---
+
+gonna_roll_the_bones
+
+# <a id="page1"></a>Gonna Roll The Bones
+
+.fl
+<span class="smallcaps">Suddenly Joe Slattermill</span> knew for sure he’d have to get out quick or else blow his top and knock out with the shrapnel of his skull the props and patches holding up his decaying home, that was like a house of big wooden and plaster and wallpaper cards except for the huge fireplace and ovens and chimney across the kitchen from him.
 
 Those were stone-solid enough, though. The fireplace was chin high, at least twice that long, and filled from end to end with roaring flames. Above were the square doors of the ovens in a row—his Wife baked for part of their living. Above the ovens was the wall-long mantelpiece, too high for his Mother to reach or Mr. Guts to jump any more, set with all sorts of ancestral curios, but any of them that weren’t stone or glass or china had been so dried and darkened by decades of heat that they looked like nothing but shrunken human heads and black golf balls. At one end were clustered his Wife’s square gin bottles. Above the mantelpiece hung one old chromo, so high and so darkened by soot and grease that you couldn’t tell whether the swirls and fat cigar shape were a whaleback steamer ploughing through a hurricane or a spaceship plunging through a storm of light-driven dust motes.
 
-As soon as Joe curled his toes inside his boots, his Mother knew what he was up to. “Going bumming,” she
-
-l
-
-mumbled with conviction. “Pants pockets full of cartwheels : of house money, too, to spend on sin.” And she went back to munching the long shreds she stripped fumblingly with i her right hand off the turkey carcass set close to the terrible heat, her left hand ready to fend off Mr. Guts, who stared at her yellow-eyed, gaunt-flanked, with long mangy tail a-twitch. In her dirty dress, streaky as the turkey’s sides, Joe’s Mother looked like a bent brown bag and her fingers were lumpy twigs.
+As soon as Joe curled his toes inside his boots, his Mother knew what he was up to. “Going bumming,” she <a id="page2"></a>mumbled with conviction. “Pants pockets full of cartwheels of house money, too, to spend on sin.” And she went back to munching the long shreds she stripped fumblingly with her right hand off the turkey carcass set close to the terrible heat, her left hand ready to fend off Mr. Guts, who stared at her yellow-eyed, gaunt-flanked, with long mangy tail a-twitch. In her dirty dress, streaky as the turkey’s sides, Joe’s Mother looked like a bent brown bag and her fingers were lumpy twigs.
 
 Joe’s Wife knew as soon or sooner, for she smiled thin-eyed at him over her shoulder from where she towered at the centermost oven. Before she closed its door, Joe glimpsed that she was baking two long, flat, narrow, fluted loaves and one high, round-domed one. She was thin as death and disease in her violet wrapper. Without looking, she reached out a yard-long, skinny arm for the nearest gin bottle and downed a warm slug and smiled again. And without a word spoken, Joe knew she’d said, “You’re going out and gamble and get drunk and lay a floozy and come home and beat me and go to jail for it,” and he had a flash of the last time he’d been in the dark gritty cell and she’d come by moonlight, which showed the green and yellow lumps on her narrow skull where he’d hit her, to whisper to him through the tiny window in the back and slip him a half pint through the bars.
 
-And Joe knew for certain that this time it would be that bad and worse, but just the same he heaved up himself and his heavy, muffled clanking pockets and shuffled straight to the door, muttering, “Guess I’ll roll the bones, up the pike a stretch and back,” swinging his bent, knobbly-el-bowed arms like paddlewheels to make a little joke about his words.
+And Joe knew for certain that this time it would be that bad and worse, but just the same he heaved up himself and his heavy, muffled clanking pockets and shuffled straight to the door, muttering, “Guess I’ll roll the bones, up the pike a stretch and back,” swinging his bent, knobbly-elbowed arms like paddlewheels to make a little joke about his words.
 
-When he’d stepped outside, he held the door open a hand’s breadth behind him for several seconds. When he finally closed it, a feeling of deep misery struck him. Earlier years, Mr. Guts would have come streaking along to seek fights and females on the roofs and fences, but now the big tom was content to stay home and hiss by the fire and snatch for turkey and dodge a broom, quarrelling and comforting with two house-bound women. Nothing had fol-
+When he’d stepped outside, he held the door open a hand’s breadth behind him for several seconds. When he finally closed it, a feeling of deep misery struck him. Earlier years, Mr. Guts would have come streaking along to seek fights and females on the roofs and fences, but now the big tom was content to stay home and hiss by the fire and snatch for turkey and dodge a broom, quarrelling and comforting with two house-bound women. Nothing had <a id="page3"></a>followed Joe to the door but his Mother’s chomping and her gasping breaths and the clink of the gin bottle going back on the mantel and the creaking of the floor boards under his feet.
 
-f^>wed Joe to the door but his Mother’s chomping and her gasping breaths and the clink of the gin bottle going back r >n the mantel and the creaking of the floor boards under rus feet
-
-The night was up-side-down deep among the frosty -tars. A few of them seemed to move, like the white-hot ets of spaceships. Down below it looked as if the whole .own of Ironmine had blown or buttoned out the light and -gone to sleep, leaving the streets and spaces to the equally unseen breezes and ghosts. But Joe was still in the hemisphere of the musty dry odour of the worm-eaten carpentry behind him, and as he felt and heard the dry grass of tthe lawn brush his calves, it occurred to him that something deep down inside him had for years been planning tthings so that he and the House and his Wife and Mother and Mr. Guts would all come to an end together. Why the [kitchen heat hadn’t touched off the tindery place ages ago was a physical miracle.
+The night was up-side-down deep among the frosty stars. A few of them seemed to move, like the white-hot jets of spaceships. Down below it looked as if the whole town of Ironmine had blown or buttoned out the light and gone to sleep, leaving the streets and spaces to the equally unseen breezes and ghosts. But Joe was still in the hemisphere of the musty dry odour of the worm-eaten carpentry behind him, and as he felt and heard the dry grass of the lawn brush his calves, it occurred to him that something deep down inside him had for years been planning things so that he and the House and his Wife and Mother and Mr. Guts would all come to an end together. Why the kitchen heat hadn’t touched off the tindery place ages ago was a physical miracle.
 
 Hunching his shoulders, Joe stepped out, not up the pike, but down the dirt road that led past Cypress Hollow Cemetery to Night Town.
 
-The breezes were gentle, but unusually restless and variable tonight, like leprechaun squalls. Beyond the drunken, whitewashed cemetery fence dim in the starlight, they rustled the scraggly trees of Cypress Hollow and made it seem they were stroking their beards of Spanish moss. Joe sensed that the ghosts were just as restless as the breezes, uncertain where and whom to haunt, or whether to take the night off, drifting together in sorrowfully lecherous companionship. While among the trees the red-green vampire lights pulsed faintly and irregularly, like sick fireflies or a plague-stricken space fleet The feeling of deep misery stuck with Joe and deepened and he was tempted to turn aside and curl up in any convenient tomb or around some half-toppled head board and cheat his Wife and the other two behind him out of a shared doom. He thought: Gonna roll the bones, gonna roll ’em up and go to sleep. But while he was deciding, he got past the sagged-open gate and the rest of the delirious fence and Shantyville too.
+The breezes were gentle, but unusually restless and variable tonight, like leprechaun squalls. Beyond the drunken, whitewashed cemetery fence dim in the starlight, they rustled the scraggly trees of Cypress Hollow and made it seem they were stroking their beards of Spanish moss. Joe sensed that the ghosts were just as restless as the breezes, uncertain where and whom to haunt, or whether to take the night off, drifting together in sorrowfully lecherous companionship. While among the trees the red-green vampire lights pulsed faintly and irregularly, like sick fireflies or a plague-stricken space fleet. The feeling of deep misery stuck with Joe and deepened and he was tempted to turn aside and curl up in any convenient tomb or around some half-toppled head board and cheat his Wife and the other two behind him out of a shared doom. He thought: Gonna roll the bones, gonna roll ’em up and go to sleep. But while he was deciding, he got past the sagged-open gate and the rest of the delirious fence and Shantyville too.
 
-At first Night Town seemed dead as the rest of Iron-mine, but then he noticed a faint glow, sick as the vampire lights but more feverish, and with it a jumping music, tiny at first as a jazz for jitterbugging ants. He stepped along the springy sidewalk, wistfully remembering the days when the spring was all in his own legs and he’d bound into a fight like a bobcat or a Martian sand-spider. God, it had been years now since he had fought a real fight, or felt the power. Gradually the midget music got raucous as a bunny-hug for grizzly bears and loud as a polka for elephants, while the glow became a riot of gas flares and flambeaux and corpse-blue mercury tubes and jiggling pink neon ones that all jeered at the stars where the spaceships roved. Next thing, he was facing a three-storey false front flaring everywhere like a devil’s elbow, with a pale blue topping of St. Elmo’s fire. There were wide swinging doors in the center of it, spilling light above and below. Above the doorway, golden calcium light scrawled over and over again, with wild curlicues and flourishes, “The Boneyard,” while a fiendish red kept printing out, “Gambling.”
+At first Night Town seemed dead as the rest of <a id="page4"></a>Ironmine, but then he noticed a faint glow, sick as the vampire lights but more feverish, and with it a jumping music, tiny at first as a jazz for jitterbugging ants. He stepped along the springy sidewalk, wistfully remembering the days when the spring was all in his own legs and he’d bound into a fight like a bobcat or a Martian sand-spider. God, it had been years now since he had fought a real fight, or felt the power. Gradually the midget music got raucous as a bunny-hug for grizzly bears and loud as a polka for elephants, while the glow became a riot of gas flares and flambeaux and corpse-blue mercury tubes and jiggling pink neon ones that all jeered at the stars where the spaceships roved. Next thing, he was facing a three-storey false front flaring everywhere like a devil’s elbow, with a pale blue topping of St. Elmo’s fire. There were wide swinging doors in the center of it, spilling light above and below. Above the doorway, golden calcium light scrawled over and over again, with wild curlicues and flourishes, “The Boneyard,” while a fiendish red kept printing out, “Gambling.”
 
-So the new place they’d all been talking about for so long had opened at last! For the first time that night, Joe Slattermill felt a stirring of real life in him and the faintest caress of excitement
+So the new place they’d all been talking about for so long had opened at last! For the first time that night, Joe Slattermill felt a stirring of real life in him and the faintest caress of excitement.
 
-Gonna roll the bones, he thought He dusted off his blue-green work clothes with big, careless swipes and slapped his pockets to hear the clank. Then he threw back his shoulders and grinned his lips sneeringly and pushed through the swinging doors as if giving a foe the straight-armed heel of his palm.
+Gonna roll the bones, he thought.
 
-Inside, the Boneyard seemed to cover the area of a township and the bar looked as long as the railroad tracks. Round pools of light on the green poker tables alternated with hourglass shapes of exciting gloom, through which drink girls and change-girls moved like white-legged witches. By the jazz-stand in the distance, belly dancers made their white hourglass shapes. The gamblers were thick and hunched down as mushrooms, all bald from agonizing over the fall of a card or a die or the dive of an ivory ball, while the Scarlet Women were like fields of poinsettia.
+He dusted off his blue-green work clothes with big, careless swipes and slapped his pockets to hear the clank. Then he threw back his shoulders and grinned his lips sneeringly and pushed through the swinging doors as if giving a foe the straight-armed heel of his palm.
 
-The calls of the croupiers and the slaps of dealt cards were as softly yet fatefully staccato as the rustle and beat of the jazz drums. Every tight-locked atom of the place was controlledly jumping. Even the dust motes jiggled tensely in the cones of light
+Inside, The Boneyard seemed to cover the area of a township and the bar looked as long as the railroad tracks. Round pools of light on the green poker tables alternated with hourglass shapes of exciting gloom, through which drink girls and change-girls moved like white-legged witches. By the jazz-stand in the distance, belly dancers made *their* white hourglass shapes. The gamblers were thick and hunched down as mushrooms, all bald from agonizing over the fall of a card or a die or the dive of an ivory ball, while the Scarlet Women were like fields of poinsettia.
+
+The calls of the croupiers and the slaps of dealt cards <a id="page5"></a>were as softly yet fatefully staccato as the rustle and beat of the jazz drums. Every tight-locked atom of the place was controlledly jumping. Even the dust motes jiggled tensely in the cones of light.
 
 Joe’s excitement climbed and he felt sift through him, like a breeze that heralds a gale, the faintest breath of a confidence which he knew could become a tornado. All thoughts of his House and Wife and Mother dropped out of his mind, while Mr. Guts remained only as a crazy young tom walking stiff-legged around the rim of his consciousness. Joe’s own leg muscles twitched in sympathy and he felt them grow supplely strong.
 
-He coolly and searchingly looked the place over, his hand going out like it didn’t belong to him to separate a drink from a passing, gently bobbing tray. Finally his gaze settled on what he judged to be the Number One Crap Table. All the Big Mushrooms seemed to be there, bald as the rest but standing tall as toadstools. Then through a gap in them Joe saw on the other side of the table a figure still taller, but dressed in a long dark coat with collar turned up and a dark slouch hat pulled low, so that only a triangle of white face showed A suspicion and a hope rose in Joe and he headed straight for the gap in the Big Mushrooms.
+He coolly and searchingly looked the place over, his hand going out like it didn’t belong to him to separate a drink from a passing, gently bobbing tray. Finally his gaze settled on what he judged to be the Number One Crap Table. All the Big Mushrooms seemed to be there, bald as the rest but standing tall as toadstools. Then through a gap in them Joe saw on the other side of the table a figure still taller, but dressed in a long dark coat with collar turned up and a dark slouch hat pulled low, so that only a triangle of white face showed. A suspicion and a hope rose in Joe and he headed straight for the gap in the Big Mushrooms.
 
-As he got nearer, the white-legged and shiny-topped drifters eddying out of his way, his suspicion received confirmation after confirmation and his hope budded and swelled. Back from one end of the table was the fattest man he’d ever seen, with a long cigar and a silver vest and a gold tie clasp at least eight inches wide that just said in thick script, “Mr. Bones.” Back a little from the other end was the naLkedest change-girl yet and the only one he’d seen whose tray, slung from her bare shoulders, and indenting her belly just below her breasts, was stacked with gold in gleaming little towers and with jet-black chips. While the dice-girl, skinnier and taller and longer armed than his Wife even, didn’t seem to be wearing much but a pair of long white gloves. She was all right if you went for the type that isn’t much more than pale skin over bones with breasts like china doorknobs.
+As he got nearer, the white-legged and shiny-topped drifters eddying out of his way, his suspicion received confirmation after confirmation and his hope budded and swelled. Back from one end of the table was the fattest man he’d ever seen, with a long cigar and a silver vest and a gold tie clasp at least eight inches wide that just said in thick script, “Mr. Bones.” Back a little from the other end was the nakedest change-girl yet and the only one he’d seen whose tray, slung from her bare shoulders, and indenting her belly just below her breasts, was stacked with gold in gleaming little towers and with jet-black chips. While the dice-girl, skinnier and taller and longer armed than his Wife even, didn’t seem to be wearing much but a pair of long white gloves. She was all right if you went for the type that isn’t much more than pale skin over bones with breasts like china doorknobs.
 
-Beside each gambler was a high round table for his chips. The one by the gap was empty. Snapping his fingers at the nearest silver change-girl, Joe traded all his greasy dollars for an equal number of pale chips and tweaked her left nipple for luck. She playfully snapped her teeth towards his fingers.
+Beside each gambler was a high round table for his <a id="page6"></a>chips. The one by the gap was empty. Snapping his fingers at the nearest silver change-girl, Joe traded all his greasy dollars for an equal number of pale chips and tweaked her left nipple for luck. She playfully snapped her teeth towards his fingers.
 
 Not hurrying but not wasting any time, he advanced and carelessly dropped his modest stacks on the empty table and took his place in the gap. He noted that the second Big Mushroom on his right had the dice. His heart but no other part of him gave an extra jump. Then he steadily lifted his eyes and looked straight across the table.
 
 The coat was a shimmering elegant pillar of black satin with jet buttons, the upturned collar of fine dull plush black as the darkest cellar, as was the slouch hat with down-turned brim and a band of only a thin braid of black horse-hair. The arms of the coat were long, lesser satin pillars, ending in slim, longfingered hands that moved swiftly when they did, but held each position of rest with a statue’s poise.
 
-Joe still couldn’t see much of the face except for smooth lower forehead with never a bead or trickle of sweat—the eyebrows were like straight snippets of the hat’s braid— and gaunt aristocratic cheeks and narrow but somewhat flat nose. The complexion of the face wasn’t as white as Joe had first judged. There was a faint touch of brown in it, like ivory that’s just begun to age, or Venusian soapstone. Another glance at the hands confirmed this.
+Joe still couldn’t see much of the face except for smooth lower forehead with never a bead or trickle of sweat—the eyebrows were like straight snippets of the hat’s braid—and gaunt aristocratic cheeks and narrow but somewhat flat nose. The complexion of the face wasn’t as white as Joe had first judged. There was a faint touch of brown in it, like ivory that’s just begun to age, or Venusian soapstone. Another glance at the hands confirmed this.
 
 Behind the man in black was a knot of just about the flashiest and nastiest customers, male or female, Joe had ever seen. He knew from one look that each bediamonded, pomaded bully had a belly gun beneath the flap of his flowered vest and a blackjack in his hip pocket, and each snake-eyed sporting girl a stiletto in her garter and a pearl-handled silver-plated derringer under the sequinned silk in the hollow between her jutting breasts.
 
-Yet at the same time Joe knew they were just trimmings. It was the man in black, their master, who was the deadly one, the kind of man you knew at a glance you couldn’t touch and live. If without asking you merely laid a finger on his sleeve, no matter how lightly and respectfully, an
-
-Ivory hand would move faster than thought and you’d be stabbed or shot Or maybe just the touch would kill you, as if every black article of his clothing were charged from his ivory skin outwards with a high-voltage, high-amperage ivory electricity. Joe looked at the shadowed face again and decided he wouldn’t care to try it
+Yet at the same time Joe knew they were just trimmings. It was the man in black, their master, who was the deadly one, the kind of man you knew at a glance you couldn’t touch and live. If without asking you merely laid a finger on his sleeve, no matter how lightly and respectfully, an ivory hand would move faster than thought and you’d be stabbed or shot. Or maybe just the touch would kill you, as if every black article of his clothing were charged from his ivory skin outwards with a high-voltage, high-amperage ivory electricity. Joe looked at the shadowed face again and decided he wouldn’t care to try it.
 
 For it was the eyes that were the most impressive feature. All great gamblers have dark-shadowed deep-set eyes. But this one’s eyes were sunk so deep you couldn’t even be sure you were getting a gleam of them. They were inscrutability incarnate. They were unfathomable. They were like black holes.
 
@@ -404,7 +481,7 @@ Yes, this was the kind of man Joe had always yearned to pit his skill against. H
 
 Joe lowered his gaze to the crap table. It was almost as wide as a man is tall, at least twice as long, unusually deep, and lined with black, not green, felt, so that it looked like a giant’s coffin. There was something familiar about its shape which he couldn’t place. Its bottom, though not its sides or ends, had a twinkling iridescence, as if it had been lightly sprinkled with very tiny diamonds. As Joe lowered his gaze all the way and looked directly down, his eyes barely over the table, he got the crazy notion that it went down all the way through the world, so that the diamonds were the stars on the other side, visible despite the sunlight there, just as Joe was always able to see the stars by day up the shaft of the mine he worked in, and so that if a cleaned-out gambler, dizzy with defeat, toppled forward into it, he’d fall forever, towards the bottom-most bottom, be it Hell or some black galaxy. Joe’s thoughts swirled and he felt the cold, hard-fingered clutch of fear at his crotch. Someone was crooning beside him, “Come on, Big Dick.”
 
-Then the dice, which had meanwhile passed to the Big Mushroom immediately on his right, came to rest near the table’s center, contradicting and wiping out Joe’s vision. But instantly there was another oddity to absorb him. The Ivory dice were large and unusually round-cornered with dark red spots that gleamed like real rubies, but the spots were arranged in such a way that each face looked like a miniature skull. For instance, the seven thrown just now, by which the Big Mushroom to his right had lost his point, which had been ten, consisted of a two with the spots evenly spaced towards one side, like eyes, instead of towards opposite comers, and of a five with the same red eyespots but a central red nose and two spots close together below that to make teeth.
+Then the dice, which had meanwhile passed to the Big Mushroom immediately on his right, came to rest near the table’s center, contradicting and wiping out Joe’s vision. But instantly there was another oddity to absorb him. The Ivory dice were large and unusually round-cornered with dark red spots that gleamed like real rubies, but the spots were arranged in such a way that each face looked like a miniature skull. For instance, the seven thrown just now, by which the Big Mushroom to his right had lost his point, which had been ten, consisted of a two with the spots evenly spaced towards one side, like eyes, instead of towards opposite corners, and of a five with the same red eyespots but a central red nose and two spots close together below that to make teeth.
 
 The long, skinny, white-gloved arm of the dice-girl snaked out like an albino cobra and scooped up the dice and whisked them on to the rim of the table right in front of Joe. He inhaled silently, picked up a single chip from his table and started to lay it beside the dice, then realized that wasn’t the way things were done here, and put it back. He would have liked to examine the chip more closely, though. It was curiously lightweight and pale tan, about the colour of cream with a shot of coffee in it, and it had embossed on its surface a symbol he could feel, though not see. He didn’t know what the symbol was, that would have taken more feeling. Yet its touch had been very good, setting the power tingling full blast in his shooting hand.
 
@@ -412,7 +489,7 @@ Joe looked casually yet swiftly at the faces around the table, not missing the B
 
 There was a hiss of indignation from all the Big Mushrooms and the moonface of big-bellied Mr. Bones grew purple as he started forward to summon his bouncers.
 
-The Big Gambler raised a black-satined forearm and sculptured hand, palm down. Instantly Mr. Bones froze and the hissing stopped faster than that of a meteor prick in self-sealing space steel. Then in a whispery, cultured voice, without the faintest hint of derision, die man in black said, “Get on him, gamblers.”
+The Big Gambler raised a black-satined forearm and sculptured hand, palm down. Instantly Mr. Bones froze and the hissing stopped faster than that of a meteor prick in self-sealing space steel. Then in a whispery, cultured voice, without the faintest hint of derision, the man in black said, “Get on him, gamblers.”
 
 Here, Joe thought, was a final confirmation of his suspicion, had it been needed. The really great gamblers were always perfect gentlemen and generous to the poor.
 
@@ -444,13 +521,11 @@ Right away the thought of a crap-table-size hole through the earth came back to 
 
 Joe decided he had to know which was true. Unless absolutely unavoidable, he didn’t want to take the chance of being troubled by vertigo at some crucial stage of the game.
 
-He made a few more meaningless throws, from time to time crooning for realism, “Come on, Little Joe.” Finally he settled on his plan. When he did at last make his point —the hard way, with two twos—he caromed the dice off the far comer so that they landed exactly in front of him.
-
-Then, after a minimum pause for his throw to be seen by the table, he shot his left hand down under the cubes, just a flicker ahead of the dice-giri’s strike, and snatched them up.
+He made a few more meaningless throws, from time to time crooning for realism, “Come on, Little Joe.” Finally he settled on his plan. When he did at last make his point—the hard way, with two twos—he caromed the dice off the far comer so that they landed exactly in front of him. Then, after a minimum pause for his throw to be seen by the table, he shot his left hand down under the cubes, just a flicker ahead of the dice-girl’s strike, and snatched them up.
 
 Wow! Joe had never had a harder time in his life making his face and manner conceal what his body felt, not even when the wasp had stung him on the neck just as he had been for the first time putting his hand under the skirt of his prudish, fickle, demanding Wife-to-be. His fingers and the back of his hand were in as much agony as if he’d stuck them into a blast furnace. No wonder the dice-girl wore white gloves. They must be asbestos. And a good thing he hadn’t used his shooting hand, he thought as he ruefully watched the blisters rise.
 
-He remembered he’d been taught in school what Twenty-Mile Mine also demonstrated: that the earth was fearfully hot under its crust The crap-table-size hole must pipe up that heat, so that any gambler taking the Big Dive would fry before he’d fallen a furlong and come out less than a cinder in China.
+He remembered he’d been taught in school what Twenty-Mile Mine also demonstrated: that the earth was fearfully hot under its crust. The crap-table-size hole must pipe up that heat, so that any gambler taking the Big Dive would fry before he’d fallen a furlong and come out less than a cinder in China.
 
 As if his blistered hand weren’t bad enough, the Big Mushrooms were all hissing at him again and Mr. Bones had purpled once more and was opening his melon-size mouth to shout for his bouncers.
 
@@ -460,15 +535,15 @@ The latter roared towards Joe, “No gambler may pick up the dice he or any othe
 
 Joe snapped Mr. Bones the barest nod. He said coolly, “Rolling a dime less two,” and when that still peewee bet was covered, he shot Phoebe for his point and then fooled around for quite a while, throwing anything but a five or a seven, until the throbbing in his left hand should fade and all his nerves feel rock-solid again. There had never been the slightest alteration in the power in his right hand; he felt that strong as ever, or stronger.
 
-Midway of this interlude, the Big Gambler bowed slightly but respectfully towards Joe, hooding those unfathomable eye sockets, before turning around to take a long black cigarette from Ms prettiest and evilest-looking sporting girl. Courtesy in the smallest matters, Joe thought, another mark of the master devotee of games of chance. The Big Gambler sure had himself a flash crew, all right, though in idly looking them over again as he rolled, Joe noted one bummer towards the back who didn’t fit in—a raggedly-el-egant chap with the elflocked hair and staring eyes and TB-spotted cheeks of a poet.
+Midway of this interlude, the Big Gambler bowed slightly but respectfully towards Joe, hooding those unfathomable eye sockets, before turning around to take a long black cigarette from his prettiest and evilest-looking sporting girl. Courtesy in the smallest matters, Joe thought, another mark of the master devotee of games of chance. The Big Gambler sure had himself a flash crew, all right, though in idly looking them over again as he rolled, Joe noted one bummer towards the back who didn’t fit in—a raggedly-elegant chap with the elflocked hair and staring eyes and TB-spotted cheeks of a poet.
 
-• As he watched the smoke trickling up from under the black slouch hat, he decided that either the lights across the table had dimmed or else the Big Gambler’s complexion was yet a shade darker than he’d thought at first Or it might even be—wild fantasy—that the Big Gambler’s skin was slowly darkening tonight, like a meerschaum pipe being smoked a mile a second. That was almost funny to think of—there was enough heat in this place, all right, to darken meerschaum, as Joe knew from sad experience, but so far as he was aware it was all under the table.
+As he watched the smoke trickling up from under the black slouch hat, he decided that either the lights across the table had dimmed or else the Big Gambler’s complexion was yet a shade darker than he’d thought at first. Or it might even be—wild fantasy—that the Big Gambler’s skin was slowly darkening tonight, like a meerschaum pipe being smoked a mile a second. That was almost funny to think of—there was enough heat in this place, all right, to darken meerschaum, as Joe knew from sad experience, but so far as he was aware it was all under the table.
 
-None of Joe’s thoughts, either familiar or admiring, about the Big Gambler decreased in the slightest degree Ms certainty of the supreme menace of the man in black and Ms conviction that it would be death to touch him. And if any doubts had stirred in Joe’s mind, they would have been squelched by the chilling incident wMch next occurred.
+None of Joe’s thoughts, either familiar or admiring, about the Big Gambler decreased in the slightest degree his certainty of the supreme menace of the man in black and his conviction that it would be death to touch him. And if any doubts had stirred in Joe’s mind, they would have been squelched by the chilling incident which next occurred.
 
-The Big Gambler had just taken into his arms Ms pretti-est-evilest sporting girl and was running an aristocratic hand across her haunch with perfect gentility, when the poet chap, green-eyed from jealousy and lovesickness, came leaping forward like a wildcat and aimed a long gleaming dagger at the black satin back.
+The Big Gambler had just taken into his arms his prettiest-evilest sporting girl and was running an aristocratic hand across her haunch with perfect gentility, when the poet chap, green-eyed from jealousy and lovesickness, came leaping forward like a wildcat and aimed a long gleaming dagger at the black satin back.
 
-Joe couldn’t see how the blow could miss, but without taking Ms genteel right hand off the sporting girl’s plush rear end, the Big Gambler shot out his left arm like a steel spring straightening. Joe couldn’t tell whether he stabbed the poet chap in the throat, or judo-chopped bim there, or gave him the Martian double-finger, or just touched Mm, but anyhow the fellow stopped as dead as if he’d been shot by a silent elephant gun or an invisible ray pistol and he slammed down on the floor. A couple of darkies came running up to drag off the body and nobody paid the least attention, such episodes apparently being taken for granted at The Boneyard.
+Joe couldn’t see how the blow could miss, but without taking his genteel right hand off the sporting girl’s plush rear end, the Big Gambler shot out his left arm like a steel spring straightening. Joe couldn’t tell whether he stabbed the poet chap in the throat, or judo-chopped him there, or gave him the Martian double-finger, or just touched him, but anyhow the fellow stopped as dead as if he’d been shot by a silent elephant gun or an invisible ray pistol and he slammed down on the floor. A couple of darkies came running up to drag off the body and nobody paid the least attention, such episodes apparently being taken for granted at The Boneyard.
 
 It gave Joe quite a turn and he almost shot Phoebe before he intended to.
 
@@ -476,7 +551,7 @@ But by now the waves of pain had stopped running up his left arm and his nerves 
 
 He rolled nine successive naturals, seven sevens and two elevens, pyramiding his first wager of a single chip to a stake of over four thousand dollars. None of the Big Mushrooms had dropped out yet, but some of them were beginning to look worried and a couple were sweating. The Big Gambler still hadn’t covered any part of Joe’s bets, but he seemed to be following the play with interest from the cavernous depths of his eye sockets.
 
-Then Joe got a devilish thought. Nobody could beat him tonight, he knew, but if he held on to the dice until the table was cleaned out, he’d never get a chance to see the Big Gambler exercise his skill, and he was truly curious about that Besides, he thought, he ought to return courtesy for courtesy and have a crack at being a gentleman himself.
+Then Joe got a devilish thought. Nobody could beat him tonight, he knew, but if he held on to the dice until the table was cleaned out, he’d never get a chance to see the Big Gambler exercise his skill, and he was truly curious about that. Besides, he thought, he ought to return courtesy for courtesy and have a crack at being a gentleman himself.
 
 “Pulling out forty-one dollars less a nickel,” he announced. “Rolling a penny.”
 
@@ -488,23 +563,21 @@ Joe immediately crapped out by throwing boxcars, rather pleased to see the two b
 
 The play worked rather rapidly around the table, nobody getting very hot and the stakes never more than medium high. “Shoot a fin.” “Rolling a sawbuck.” “An Andrew Jackson.” “Rolling thirty bucks.” Now and then Joe covered part of a bet, winning more than he lost. He had over seven thousand dollars, real money, before the bones got around to the Big Gambler.
 
-That one held the dice for a long moment on his statue-steady palm while he looked at them reflectively, though not the hint of a furrow appeared in his almost brownish forehead down which never a bead of sweat trickled. He murmured, “Rolling a double sawbuck,” and when he had been faded, he closed his fingers, lightly rattled the cubes —the sound was like big seeds inside a small gourd only half dry—and negligently cast the dice towards the end of the table.
+That one held the dice for a long moment on his statue-steady palm while he looked at them reflectively, though not the hint of a furrow appeared in his almost brownish forehead down which never a bead of sweat trickled. He murmured, “Rolling a double sawbuck,” and when he had been faded, he closed his fingers, lightly rattled the cubes—the sound was like big seeds inside a small gourd only half dry—and negligently cast the dice towards the end of the table.
 
 It was a throw like none Joe had ever seen before at any crap table. The dice travelled flat through the air without turning over, struck the exact juncture of the table’s end and bottom, and stopped there dead, showing a natural seven.
 
-Joe was distinctly disappointed. On one of his own throws he was used to calculating something like, “Launch three-up, five north, two and a half rolls in the air, hit on the six-five-three comer, three-quarter roll and a one-quarter side-twist right, hit end on the one-two edge, one-half reverse roll and three-quarter side-twist left, land on five face, roll over twice, come up two,” and that would be for just one of the dice, and a really commonplace throw, without extra bounces.
+Joe was distinctly disappointed. On one of his own throws he was used to calculating something like, “Launch three-up, five north, two and a half rolls in the air, hit on the six-five-three corner, three-quarter roll and a one-quarter side-twist right, hit end on the one-two edge, one-half reverse roll and three-quarter side-twist left, land on five face, roll over twice, come up two,” and that would be for just one of the dice, and a really commonplace throw, without extra bounces.
 
 By comparison, the technique of the Big Gambler had been ridiculously, abysmally, horrifyingly simple. Joe could have duplicated it with the greatest ease, of course. It was no more than an elementary form of his old pastime of throwing fallen rocks back into their holes. But Joe had never once thought of pulling such a babyish trick at the crap table. It would make the whole thing too easy and destroy the beauty of the game.
 
-Another reason Joe had never used the trick was that he’d never dreamed he’d be able to get away with it. By all the rules he’d ever heard of, it was a most questionable throw. There was the possibility that one or the other die hadn’t completely reached the end of the table, or lay a wee bit cocked against the end. Besides, he reminded him-
+Another reason Joe had never used the trick was that he’d never dreamed he’d be able to get away with it. By all the rules he’d ever heard of, it was a most questionable throw. There was the possibility that one or the other die hadn’t completely reached the end of the table, or lay a wee bit cocked against the end. Besides, he reminded himself, weren’t both dice supposed to rebound off the end, if only for a fraction of an inch?
 
-self, weren’t both dice supposed to rebound off the end, if only for a fraction of an inch?
-
-However, as far as Joe’s very sharp eyes could see, both dice lay perfectly flat and sprang up against the end wall. Moreover, everyone else at the table seemed to accept the throw, the dice-girl had scooped up the cubes, and the Big Mushrooms who had faded the man in black were paying off. As far as the rebound business went, well, The Bone-yard appeared to put a slightly different interpretation on that rule, and Joe believed in never questioning House Rules except in dire extremity—both his Mother and Wife had long since taught him it was the least troublesome way.
+However, as far as Joe’s very sharp eyes could see, both dice lay perfectly flat and sprang up against the end wall. Moreover, everyone else at the table seemed to accept the throw, the dice-girl had scooped up the cubes, and the Big Mushrooms who had faded the man in black were paying off. As far as the rebound business went, well, The Boneyard appeared to put a slightly different interpretation on that rule, and Joe believed in never questioning House Rules except in dire extremity—both his Mother and Wife had long since taught him it was the least troublesome way.
 
 Besides, there hadn’t been any of his own money riding on that roll.
 
-In a voice like wind through Cypress Hollow or on Mars, the Big Gambler announced, “Roll a century.” It was the biggest bet yet tonight, ten thousand dollars, and the way the Big Gambler said it made it seem something more than that A hush fell on The Boneyard, they put the mutes on the jazz horns, the croupiers’ calls became more confidential, the cards fell softlier, even the roulette balls seemed to be trying to make less noise as they rattled into their cells. The crowd around the Number One Crap Table quietly thickened. The Big Gambler’s flash boys and girls formed a double semicircle around him, ensuring him lots of elbow room.
+In a voice like wind through Cypress Hollow or on Mars, the Big Gambler announced, “Roll a century.” It was the biggest bet yet tonight, ten thousand dollars, and the way the Big Gambler said it made it seem something more than that. A hush fell on The Boneyard, they put the mutes on the jazz horns, the croupiers’ calls became more confidential, the cards fell softlier, even the roulette balls seemed to be trying to make less noise as they rattled into their cells. The crowd around the Number One Crap Table quietly thickened. The Big Gambler’s flash boys and girls formed a double semicircle around him, ensuring him lots of elbow room.
 
 That century bet, Joe realized, was thirty bucks more than his own entire pile. Three or four of the Big Mushrooms had to signal each other before they’d agreed how to fade it.
 
@@ -516,27 +589,21 @@ And again.
 
 And again.
 
-Joe was getting mighty concerned and pretty indignant too. It seemed unjust that the Big Gambler should be winning such huge bets with such machinelike, utterly unromantic rolls. Why, you couldn’t even call them rolls, the dice
-
-never turned over an iota, in the air or after. It was the sort of thing you’d expect from a robot, and a very dully programmed robot at that. Joe hadn’t risked any of his own chips fading the Big Gambler, of course, but if things went on like this he’d have to. Two of the Big Mushrooms had already retired sweatingly from the table, confessing defeat, and no one had taken their places. Pretty soon there’d be a bet the remaining Big Mushrooms couldn’t entirely cover between them, and then he’d have to risk some of his own chips or else pull out of the game himself—and he couldn’t do that, not with the power surging in his right hand like chained lightning.
+Joe was getting mighty concerned and pretty indignant too. It seemed unjust that the Big Gambler should be winning such huge bets with such machinelike, utterly unromantic rolls. Why, you couldn’t even call them rolls, the dice never turned over an iota, in the air or after. It was the sort of thing you’d expect from a robot, and a very dully programmed robot at that. Joe hadn’t risked any of his own chips fading the Big Gambler, of course, but if things went on like this he’d have to. Two of the Big Mushrooms had already retired sweatingly from the table, confessing defeat, and no one had taken their places. Pretty soon there’d be a bet the remaining Big Mushrooms couldn’t entirely cover between them, and then he’d have to risk some of his own chips or else pull out of the game himself—and he couldn’t do that, not with the power surging in his right hand like chained lightning.
 
 Joe waited and waited for someone else to question one of the Big Gambler’s shots, but no one did. He realized that, despite his efforts to look imperturbable, his face was slowly reddening.
 
-With a little lift of his left hand, the Big Gambler stopped the dice-girl as she was about to snatch at the cubes. The eyes that were like black wells directed themselves at Joe, who forced himself to look back into them steadily.
-
-He still couldn’t catch the faintest gleam in them. All at once he felt the lightest touch-on-neck of a dreadful suspicion.
+With a little lift of his left hand, the Big Gambler stopped the dice-girl as she was about to snatch at the cubes. The eyes that were like black wells directed themselves at Joe, who forced himself to look back into them steadily. He still couldn’t catch the faintest gleam in them. All at once he felt the lightest touch-on-neck of a dreadful suspicion.
 
 With the utmost civility and amiability, the Big Gambler whispered, “I believe that the fine shooter across from me has doubts about the validity of my last throw, though he is too much of a gentleman to voice them. Lottie, the card test.”
 
-The wraith-tall, ivory dice-girl plucked a playing card from below the table and with a venomous flash of her little white teeth spun it low across the table through the air | at Joe. He caught the whirling pasteboard and examined it briefly. It was the thinnest, stillest, flattest, shiniest playing card Joe had ever handled. It was also the Joker, if that meant anything. He spun it back lazily into her hand and she slid it very gently, letting it descend by its own weight, down the end wall against which the two dice lay. It came to rest in the tiny hollow their rounded edges made against the black felt. She deftly moved it about without force,
-
-demonstrating that there was no space between either of the cubes and the table’s end at any point.
+The wraith-tall, ivory dice-girl plucked a playing card from below the table and with a venomous flash of her little white teeth spun it low across the table through the air at Joe. He caught the whirling pasteboard and examined it briefly. It was the thinnest, stiffest, flattest, shiniest playing card Joe had ever handled. It was also the Joker, if that meant anything. He spun it back lazily into her hand and she slid it very gently, letting it descend by its own weight, down the end wall against which the two dice lay. It came to rest in the tiny hollow their rounded edges made against the black felt. She deftly moved it about without force, demonstrating that there was no space between either of the cubes and the table’s end at any point.
 
 “Satisfied?” the Big Gambler asked. Rather against his will Joe nodded. The Big Gambler bowed to him. The dice-girl smirked her short, thin lips and drew herself up, flaunting her white-china-doorknob breasts at Joe.
 
 Casually, almost with an air of boredom, the Big Gambler returned to his routine of shooting a century and making a natural seven. The Big Mushrooms wilted fast and one by one tottered away from the table. A particularly pink-faced Toadstool was brought extra cash by a gasping runner, but it was no help. He only lost the additional centuries. While the stacks of pale and black chips beside the Big Gambler grew skyscraper-tall.
 
-Joe got more and more furious and frightened. He watched like a hawk or spy satellite the dice nesting against the end wall, but never could spot justification for calling for another card test, or nerve himself to question the House Rules at this late date. It was maddening, in fact in-sanitizing, to know that if only he could get the cubes once more he could shoot circles around that black pillar of sporting aristocracy. He damned himself a googelplex of ways for the idiotic, conceited, suicidal impulse that had led him to let go of the bones when he’d had them.
+Joe got more and more furious and frightened. He watched like a hawk or spy satellite the dice nesting against the end wall, but never could spot justification for calling for another card test, or nerve himself to question the House Rules at this late date. It was maddening, in fact insanitizing, to know that if only he could get the cubes once more he could shoot circles around that black pillar of sporting aristocracy. He damned himself a googelplex of ways for the idiotic, conceited, suicidal impulse that had led him to let go of the bones when he’d had them.
 
 To make matters worse, the Big Gambler had taken to gazing steadily at Joe with those eyes like coal mines. Now he made three rolls running without even glancing at the dice or the end wall, as far as Joe could tell. Why, he was getting as bad as Joe’s Wife or Mother—watching, watching, watching Joe.
 
@@ -546,7 +613,7 @@ At the same time the Big Gambler stayed just that—a black satin-coated, slouch
 
 The remorseless mowing down of the Big Mushrooms went on. The empty spaces outnumbered the Toadstools. Soon there were only three left.
 
-The Boneyard had grown still as Cypress Hollow or the Moon. The jazz had stopped and the gay laughter and the 1 shuffle of feet and the squeak of goosed girls and the clink of drinks and coins. Everybody seemed to be gathered around the Number One Crap Table, rank on silent rank.
+The Boneyard had grown still as Cypress Hollow or the Moon. The jazz had stopped and the gay laughter and the shuffle of feet and the squeak of goosed girls and the clink of drinks and coins. Everybody seemed to be gathered around the Number One Crap Table, rank on silent rank.
 
 Joe was racked by watchfulness, sense of injustice, selfcontempt, wild hopes, curiosity and dread. Especially the last two.
 
@@ -582,7 +649,7 @@ The dice-girl fairly snarled and reared up and back as if she were going to spit
 
 It was hot to the touch and singed a pale brown all over, though otherwise unimpaired. Joe gulped and spun it back high.
 
-Sneering poisoned daggers at him, Lottie let it glide down the end wall. . . and after a moment’s hesitation, it slithered behind the die Joe had suspected.
+Sneering poisoned daggers at him, Lottie let it glide down the end wall . . . and after a moment’s hesitation, it slithered behind the die Joe had suspected.
 
 A bow and then the whisper: “You have sharp eyes, sir. Undoubtedly that die failed to reach the wall. My sincerest apologies and . . . your dice, sir.”
 
@@ -596,7 +663,7 @@ Throwing out a hand, palm back, to either side, to indicate that none of his boy
 
 Joe shook the dice reflectively, getting over the shock. After a little bit he decided that though he could now guess the Big Gambler’s real name, he’d still give him a run for his money.
 
-A little comer of Joe’s mind wondered how a live skeleton hung together. Did the bones still have gristle and thews, were they wired, was it done with force-fields, or was each bone a calcium magnet clinging to the next?— this tying in somehow with the generation of the deadly ivory electricity.
+A little comer of Joe’s mind wondered how a live skeleton hung together. Did the bones still have gristle and thews, were they wired, was it done with force-fields, or was each bone a calcium magnet clinging to the next?—this tying in somehow with the generation of the deadly ivory electricity.
 
 In the great hush of The Boneyard, someone cleared his throat, a Scarlet Woman tittered hysterically, a coin fell from the nakedest change-girl’s tray with a golden clink and rolled musically across the floor.
 
@@ -604,9 +671,7 @@ In the great hush of The Boneyard, someone cleared his throat, a Scarlet Woman t
 
 Joe gave him a courtly bow back, it felt funny, and then decided to start his run with a natural seven made up of an ace and a six. He rolled and this time the Big Gambler, judging from the movements of his skull, closely followed the course of the cubes with his eyes that weren’t there.
 
-The dice landed, rolled over, and lay still. Incredulously,
-
-Joe realized that for the first time in his crap-shooting life he’d made a mistake. Or else there was a power in the Big Gambler’s gaze greater than that in his own right hand. The six cube had come down okay, but the ace had taken an extra half roll and come down six too.
+The dice landed, rolled over, and lay still. Incredulously, Joe realized that for the first time in his crap-shooting life he’d made a mistake. Or else there was a power in the Big Gambler’s gaze greater than that in his own right hand. The six cube had come down okay, but the ace had taken an extra half roll and come down six too.
 
 “End of the game,” Mr. Bones boomed sepulchrally.
 
@@ -626,9 +691,7 @@ Joe Slattermill quailed, but then the drama of the situation took hold of him. H
 
 Joe concentrated his mind as never before, the power tingled triumphantly in his hand, and he made his throw.
 
-The dice never hit the felt. They went swooping down, then up, in a crazy curve far out over the end of the table,
-
-and then came streaking back like tiny red-glinting meteors towards the face of the Big Gambler, where they suddenly nested and hung in his black eye sockets, each with the single red gleam of an ace showing.
+The dice never hit the felt. They went swooping down, then up, in a crazy curve far out over the end of the table, and then came streaking back like tiny red-glinting meteors towards the face of the Big Gambler, where they suddenly nested and hung in his black eye sockets, each with the single red gleam of an ace showing.
 
 Snake eyes.
 
@@ -636,9 +699,7 @@ The whisper, as those red-glinting dice-eyes stared mockingly at him: “Joe Sla
 
 Using thumb and middle finger—or bone rather—of either hand, the Big Gambler removed the dice from his eye sockets and dropped them in Lottie’s white-gloved hand.
 
-“Yes, you’ve crapped out, Joe Slattermill,” he went on tranquilly. “And now you can shoot yourself’—he touched the silver gun—“or cut your throat”—he whipped a gold-handled bowie knife out of his coat and laid it beside the revolver—“or poison yourself’—the two weapons were joined by a small black bottle with white skull and cross-bones on it—“or Miss Flossie here can kiss you to death.”
-
-He drew forward beside him is prettiest, evilest-looking sporting girl. She preened herself and flounced her short violet skirt and gave Joe a provocative, hungry look, lifting her carmine upper lip to show her long white canines.
+“Yes, you’ve crapped out, Joe Slattermill,” he went on tranquilly. “And now you can shoot yourself”—he touched the silver gun—“or cut your throat”—he whipped a gold-handled bowie knife out of his coat and laid it beside the revolver—“or poison yourself”—the two weapons were joined by a small black bottle with white skull and crossbones on it—“or Miss Flossie here can kiss you to death.” He drew forward beside him his prettiest, evilest-looking sporting girl. She preened herself and flounced her short violet skirt and gave Joe a provocative, hungry look, lifting her carmine upper lip to show her long white canines.
 
 “Or else,” the Big Gambler added, nodding significantly towards the black-bottomed crap table, “you can take the Big Dive.”
 
@@ -648,13 +709,11 @@ He put his right foot on his empty chip table, his left on the black rim, fell f
 
 As he flashed across the exact center of the table he got an instant photograph of what really lay below, but his brain had no time to develop that snapshot, for the next instant he was ploughing into the Big Gambler.
 
-Stiffened brown palm edge caught him in the temple i with a lightning-like judo chop . . . and the brown fingers or bones flew all apart like puff paste. Joe’s left hand went through the Big Gambler’s chest as if there were nothing there but black satin coat, while his right hand, straight-
-
-armedly clawing at the slouch-hatted skull, crunched it to pieces. Next instant Joe was sprawled on the floor with some black clothes and brown fragments.
+Stiffened brown palm edge caught him in the temple with a lightning-like judo chop . . . and the brown fingers or bones flew all apart like puff paste. Joe’s left hand went through the Big Gambler’s chest as if there were nothing there but black satin coat, while his right hand, straight-armedly clawing at the slouch-hatted skull, crunched it to pieces. Next instant Joe was sprawled on the floor with some black clothes and brown fragments.
 
 He was on his feet in a flash and snatching at the Big Gambler’s tall stacks. He had time for one left-handed grab. He couldn’t see any gold or silver or any black chips, so he stuffed his left pants pocket with a handful of the pale chips and ran.
 
-Then the whole population of The Boneyard was on him and after him. Teeth, knives and brass knuckles flashed. He was punched, clawed, kicked, tripped and stamped on with spike heels. A gold-plated trumpet with a bloodshoteyed black face behind it bopped him on the head. He got a white flash of the golden dice-girl and made a grab for her, but she got away. Someone tried to mash a lighted cigar in his eye. Lottie, writhing and flailing like a white boa constrictor, almost got a simultaneous strangle hold and scissors on him. From a squat wide-mouth bottle Flossie, snarling like a feline fiend, threw what smelt like acid past his face. Mr. Bones peppered shots around him from the silver revolver. He was stabbed at, gouged, rabbit-punched, scragmauled, slugged, kneed, bitten, bear-hugged, butted, beaten and had his toes trampled.
+Then the whole population of The Boneyard was on him and after him. Teeth, knives and brass knuckles flashed. He was punched, clawed, kicked, tripped and stamped on with spike heels. A gold-plated trumpet with a bloodshot-eyed black face behind it bopped him on the head. He got a white flash of the golden dice-girl and made a grab for her, but she got away. Someone tried to mash a lighted cigar in his eye. Lottie, writhing and flailing like a white boa constrictor, almost got a simultaneous strangle hold and scissors on him. From a squat wide-mouth bottle Flossie, snarling like a feline fiend, threw what smelt like acid past his face. Mr. Bones peppered shots around him from the silver revolver. He was stabbed at, gouged, rabbit-punched, scragmauled, slugged, kneed, bitten, bear-hugged, butted, beaten and had his toes trampled.
 
 But somehow none of the blows or grabs had much real force. It was like fighting ghosts. In the end it turned out that the whole population of The Boneyard, working together, had just a little more strength than Joe. He felt himself being lifted by a multitude of hands and pitched out through the swinging doors so that he thudded down on his rear end on the board sidewalk. Even that didn’t hurt much. It was more like a kick of encouragement.
 
@@ -664,13 +723,20 @@ He found he was chewing on something crusty that he’d somehow carried in his r
 
 He spat out what was in his mouth and pegged the rest of the bit of giant-popover skull across the street.
 
-He fished in his left pocket Most of the pale poker chips had been mashed in the fight, but he found a whole one and explored its surface with his fingertips. The symbol embossed on it was a cross. He lifted it to his lips and took a bite. It tasted delicate, but delicious. He ate it and felt his strength revive. He patted his bulging left pocket. At least | he’d started out well provisioned.
+He fished in his left pocket. Most of the pale poker chips had been mashed in the fight, but he found a whole one and explored its surface with his fingertips. The symbol embossed on it was a cross. He lifted it to his lips and took a bite. It tasted delicate, but delicious. He ate it and felt his strength revive. He patted his bulging left pocket. At least he’d started out well provisioned.
 
 Then he turned and headed straight for home, but he took the long way, around the world.
 
-Sanity “Come in, Phy, and make yourself comfortable,”
+---
 
-The mellow voice—and the suddenly dilating doorway —caught the general secretary of the World playing with a blob of greenish gasoid, squeezing it in his fist and watching it ooze between his fingers in spatulate tendrils that did not dissipate. Slowly, crookedly, he turned his head. World Manager Carrsbury became aware of a gaze that was at once oafish, sly, vacuous. Abruptly the expression was replaced by a nervous smile. The thin man straightened himself, as much as his habitually drooping shoulders would permit, hastily entered, and sat down on the extreme edge of a pneumatically form-fitting chair.
+sanity
+
+# <a id="page25"></a>Sanity
+
+.fl
+<span class="smallcaps">“Come in, Phy,</span> and make yourself comfortable.”
+
+The mellow voice—and the suddenly dilating doorway—caught the general secretary of the World playing with a blob of greenish gasoid, squeezing it in his fist and watching it ooze between his fingers in spatulate tendrils that did not dissipate. Slowly, crookedly, he turned his head. World Manager Carrsbury became aware of a gaze that was at once oafish, sly, vacuous. Abruptly the expression was replaced by a nervous smile. The thin man straightened himself, as much as his habitually drooping shoulders would permit, hastily entered, and sat down on the extreme edge of a pneumatically form-fitting chair.
 
 He embarrassedly fumbled the blob of gasoid, looking around for a convenient disposal vent or a crevice in the upholstery. Finding none, he stuffed it hurriedly into his pocket. Then he repressed his fidgetings by clasping his hands resolutely together, and sat with downcast eyes.
 
@@ -680,13 +746,13 @@ The general secretary did not look up.
 
 “Anything bothering you, Phy?” Carrsbury continued solicitously. “Do you feel a bit unhappy, or dissatisfied, about your . . . er . . . transfer, now that the moment has arrived?”
 
-Still the general secretary did not respond. Carrsbnry leaned forward across the dully silver, semicircular desk and, in his most winning tones, urged, “Come on, old fellow, tell me all about it.”
+Still the general secretary did not respond. Carrsbury leaned forward across the dully silver, semicircular desk and, in his most winning tones, urged, “Come on, old fellow, tell me all about it.”
 
 The general secretary did not lift his head, but he rolled up his strange, distant eyes until they were fixed directly on Carrsbury. He shivered a little, his body seemed to contract, and his bloodless hands tightened their interlocking grip.
 
 “I know,” he said in a low, effortful voice. “You think I’m insane.”
 
-Carrsbury sat back, forcing his brows, to assume a baffled frown under the mane of silvery hair.
+Carrsbury sat back, forcing his brows to assume a baffled frown under the mane of silvery hair.
 
 “Oh, you needn’t pretend to be puzzled,” Phy continued, swiftly now that he had broken the ice. “You know what that word means as well as I do. Better—even though we both had to do historical research to find out.”
 
@@ -696,7 +762,7 @@ Carrsbury sat back, forcing his brows, to assume a baffled frown under the mane 
 
 “No,” said Phy, his gaze pinning Carrsbury. “You think I’m insane. You think all my colleagues in the World Management Service are insane. That’s why you’re having us replaced with those men you’ve been training for ten years in your Institute of Political Leadership—ever since, with my help and connivance, you became World manager.”
 
-Carrsbury retreated before the finality of the statement For the first time his smile became a bit uncertain. He started to say something, then hesitated and looked at Phy, as if half hoping he would go on.
+Carrsbury retreated before the finality of the statement. For the first time his smile became a bit uncertain. He started to say something, then hesitated and looked at Phy, as if half hoping he would go on.
 
 But that individual was once again staring rigidly at the floor.
 
@@ -704,91 +770,90 @@ Carrsbury leaned back, thinking. When he spoke it was in a more natural voice, m
 
 “Well, all right, Phy. But look here, tell me something, honestly. Won’t you—and the others—be a lot happier when you’ve been relieved of all your responsibilities?”
 
-Phy nodded someberly. “Yes,” he said, “we will . . . but”—his face became strained—“you see—”
+Phy nodded somberly. “Yes,” he said, “we will . . . but”—his face became strained—“you see—”
 
 “But—?” Carrsbury prompted.
 
-Phy swallowed hard. He seemed unable to go on. He had gradually slumped toward one side of the chair, and the pressure had caused the green gasoid to ooze from his pocket His long fingers crept over and kneaded it fretfully.
+Phy swallowed hard. He seemed unable to go on. He had gradually slumped toward one side of the chair, and the pressure had caused the green gasoid to ooze from his pocket. His long fingers crept over and kneaded it fretfully.
 
 Carrsbury stood up and came around the desk. His sympathetic frown, from which perplexity had ebbed, was not quite genuine.
 
 “I don’t see why I shouldn’t tell you all about it now, Phy,” he said simply. “In a queer sort of way I owe it all to you. And there isn’t any point now in keeping it a secret . . . there isn’t any danger—”
 
-“Yes,” Phy agreed with a quick bitter smile, “you haven’t been in any danger of a coup d’etat for some years now. If ever we should have revolted, there’d have been” —his gaze shifted to a point in the opposite wall where a faint vertical crease indicated the presence of a doorway— “your secret police.”
+“Yes,” Phy agreed with a quick bitter smile, “you haven’t been in any danger of a *coup d’état* for some years now. If ever we should have revolted, there’d have been”—his gaze shifted to a point in the opposite wall where a faint vertical crease indicated the presence of a doorway—“your secret police.”
 
-Carrsbury started. He hadn’t thought Phy had known. Disturbingly, there loomed in his mind a phrase The cunning of the insane. But only for a moment. Friendly complacency flooded back. He went behind Phy’s chair and rested his hands on the sloping shoulders.
+.space
+Carrsbury started. He hadn’t thought Phy had known. Disturbingly, there loomed in his mind a phrase *The cunning of the insane*. But only for a moment. Friendly complacency flooded back. He went behind Phy’s chair and rested his hands on the sloping shoulders.
 
 “You know, I’ve always had a special feeling toward you, Phy,” he said, “and not only because your whims made it a lot easier for me to become World manager. I’ve always felt that you were different from the others, that there were times when—” He hesitated.
 
 Phy squirmed a little under the friendly hands. “When I had my moments of sanity?” he finished flatly.
 
-“Like now,” said Carrsbury softly, after a nod the other
-
-could not see. ‘Tve always felt that sometimes, in a kind of twisted, unrealistic way, you understood. And that has meant a lot to me. I’ve been alone, Phy, dreadfully alone, for ten whole years. No companionship any where, not even among the men I’ve been training in the Institute of Political Leadership—for I’ve had to play a part with them too, keep them in ignorance of certain facts, for fear they would try to seize power over my head before they were sufficiently prepared. No companionship anywhere, except for my hopes—and for occasional moments with you. Now that it’s over and a new regime is beginning for us both, I can tell you that And Fm glad.”
+“Like now,” said Carrsbury softly, after a nod the other could not see. “I’ve always felt that sometimes, in a kind of twisted, unrealistic way, you *understood*. And that has meant a lot to me. I’ve been alone, Phy, dreadfully alone, for ten whole years. No companionship anywhere, not even among the men I’ve been training in the Institute of Political Leadership—for I’ve had to play a part with them too, keep them in ignorance of certain facts, for fear they would try to seize power over my head before they were sufficiently prepared. No companionship anywhere, except for my hopes—and for occasional moments with you. Now that it’s over and a new regime is beginning for us both, I can tell you that. And I’m glad.”
 
 There was a silence. Then—Phy did not look around, but one lean hand crept up and touched Carrsbury’s. Carrsbury cleared his throat. Strange, he thought, that there could be even a momentary rapport like this between the sane and the insane. But it was so.
 
 He disengaged his hands, strode rapidly back to his desk, turned.
 
-“I’m a throwback, Phy,” he began in a new, unused, eager voice. “A throwback to a time when human mentality was far sounder. Whether my case was due chiefly to heredity, or to certain unusual accidents of environment, or to both, is unimportant. The point is that a person had been bom who was in a position to criticize the present state of mankind in the light of the past, to diagnose its condition, and to begin its cure. For a long time I refused to face the facts, but finally my researchers—especially those in the literature of the twentieth century—left me no alternative. The mentality of mankind had become—aberrant. Only certain technological advances, which had resulted in making the business of living infinitely easier and simpler, and the fact that war had been ended with the creation of the present world state, were staving off the inevitable breakdown of civilization. But only staving it off— delaying it. The great masses of mankind had become what would once have been called hopelessly neurotic. Their leaders had become . . . you said it first, Phy . . . insane. Incidentally, this latter phenomenon—the drift of psycho-, logical aberrants toward leadership—has been noted in all ages.”
+“I’m a throwback, Phy,” he began in a new, unused, eager voice. “A throwback to a time when human mentality was far sounder. Whether my case was due chiefly to heredity, or to certain unusual accidents of environment, or to both, is unimportant. The point is that a person had been born who was in a position to criticize the present state of mankind in the light of the past, to diagnose its condition, and to begin its cure. For a long time I refused to face the facts, but finally my researches—especially those in the literature of the twentieth century—left me no alternative. The mentality of mankind had become—aberrant. Only certain technological advances, which had resulted in making the business of living infinitely easier and simpler, and the fact that war had been ended with the creation of the present world state, were staving off the inevitable breakdown of civilization. But only staving it off—delaying it. The great masses of mankind had become what would once have been called hopelessly neurotic. Their leaders had become . . . you said it first, Phy . . . insane. Incidentally, this latter phenomenon—the drift of psychological aberrants toward leadership—has been noted in all ages.”
 
 He paused. Was he mistaken, or was Phy following his words with indications of a greater mental clarity than he had ever noted before, even in the relatively non-violent World secretary? Perhaps—he had often dreamed wistfully of the possibility—there was still a chance of saving Phy. Perhaps, if he just explained to him clearly and calmly—
 
-“In my historical studies,” he continued, “I soon came to the conclusion that the crucial period was that of the Final Amnesty, concurrent with the founding of the present world state. We are taught that at that time there were released from confinement millions of political prisoners— and millions of others. Just who were those others? To this question, our present histories gave only vague and platitudinous answers. The semantic difficulties I encountered were exceedingly obstinate. But I kept hammering away. Why, I asked myself, have such words as insanity, lunacy, madness, psychosis, disappeared from our vocabulary— and the concepts behind them from our thought? Why has the subject ‘abnormal psychology’ disappeared from the curricula of our schools? Of greater significance, why is our modern psychology strikingly similar to the field of abnormal psychology as taught in the twentieth century, and to that field alone? Why are there no longer, as there were in the twentieth century, any institutions for the confinement and care of the psychologically aberrant?”
+“In my historical studies,” he continued, “I soon came to the conclusion that the crucial period was that of the Final Amnesty, concurrent with the founding of the present world state. We are taught that at that time there were released from confinement millions of political prisoners—and millions of others. Just who were those others? To this question, our present histories gave only vague and platitudinous answers. The semantic difficulties I encountered were exceedingly obstinate. But I kept hammering away. Why, I asked myself, have such words as insanity, lunacy, madness, psychosis, disappeared from our vocabulary—and the concepts behind them from our thought? Why has the subject ‘abnormal psychology’ disappeared from the curricula of our schools? Of greater significance, why is our modern psychology strikingly similar to the field of abnormal psychology as taught in the twentieth century, and to that field alone? Why are there no longer, as there were in the twentieth century, any institutions for the confinement and care of the psychologically aberrant?”
 
 Phy’s head jerked up. He smiled twistedly. “Because,” he whispered slyly, “everyone’s insane now.”
 
-The cunning of the insane. Again that phrase loomed wamingly in Carrsbury’s mind. But only for a moment. He nodded.
+.space
+*The cunning of the insane*. Again that phrase loomed wamingly in Carrsbury’s mind. But only for a moment. He nodded.
 
-“At first I refused to make that deduction. But gradually I reasoned out the why and wherefore of what had happened. It wasn’t only that a highly technological civilization had subjected mankind to a wider and more swiftly-tem-poed range of stimulations, conflicting suggestions, mental strains, emotional wrenchings. In the literature of twentieth century psychiatry there ^re observations on a kind of psychosis that results from success. An unbalanced individual keeps going so long as he is fighting something, struggling toward a goal. He reaches his goal—and goes to pieces. His repressed confusions come to the surface, he realizes that he doesn’t know what he wants at all, his energies hitherto engaged in combating something outside himself are turned against himself, he is destroyed. Well, when war was finally outlawed, when the whole world became one unified state, when social inequality was abolished. . . you see what I’m driving at?”
+“At first I refused to make that deduction. But gradually I reasoned out the why and wherefore of what had happened. It wasn’t only that a highly technological civilization had subjected mankind to a wider and more swiftly-tempoed range of stimulations, conflicting suggestions, mental strains, emotional wrenchings. In the literature of twentieth century psychiatry there are observations on a kind of psychosis that results from success. An unbalanced individual keeps going so long as he is fighting something, struggling toward a goal. He reaches his goal—and goes to pieces. His repressed confusions come to the surface, he realizes that he doesn’t know what he wants at all, his energies hitherto engaged in combating something outside himself are turned against himself, he is destroyed. Well, when war was finally outlawed, when the whole world became one unified state, when social inequality was abolished . . . you see what I’m driving at?”
 
 Phy nodded slowly. “That,” he said in a curious, distant voice, “is a very interesting deduction.”
 
-“Having reluctantly accepted my main premise,” Carrs-bury went on, “everything became clear. The cyclic six-months’ fluctuations in world credit—I realized at once that Morganstem of Finance must be a manic-depressive with a six-months’ phase, or else a dual personality with one aspect a spendthrift, the other a miser. It turned out to be the former. Why was the Department of Cultural Advancement stagnating? Because Manager Hobart was markedly catatonic. Why the boom in Extraterrestrial Research? Because McElvy was a euphoric.”
+“Having reluctantly accepted my main premise,” Carrsbury went on, “everything became clear. The cyclic six-months’ fluctuations in world credit—I realized at once that Morganstern of Finance must be a manic-depressive with a six-months’ phase, or else a dual personality with one aspect a spendthrift, the other a miser. It turned out to be the former. Why was the Department of Cultural Advancement stagnating? Because Manager Hobart was markedly catatonic. Why the boom in Extraterrestrial Research? Because McElvy was a euphoric.”
 
 Phy looked at him wonderingly. “But naturally,” he said, spreading his lean hands, from one of which the gasoid dropped like a curl of green smoke.
 
-Carrsbury glanced at him sharply. He replied. “Yes, I know that you and several of the others have a certain warped awareness of the differences between your . . . personalities, though none whatsoever of the basic aberration involved in them all. But to get on. As soon as I realized the situation, my course was marked out As a sane man, capable of entertaining fixed realistic purposes, and surrounded by individuals of whose inconsistencies and delusions it was easy to make use, I was in a position to attain, with time and tact, any goal at which I might aim. I was already in the Managerial Service. In three years I became World manager. Once there, my range of influence was vastly enhanced. Like the man in Archimedes’ epigram, I had a place to stand from which I could move the world. I was able, in various guises and on various pre-rtexts, to promulgate regulations the actual purpose of "which was to soothe the great neurotic masses by curtailing * upsetting stimulations and introducing a more regimented and orderly program of living. I was able, by humoring my fellow executives and making the fullest use of my greater capacity for work, to keep world affairs staggering along fairly safely—at least stave off the worst At the same time I I was able to begin my Ten Years’ Plan—the training, in j comparative isolation, first in small numbers, then in larger, as those instructed could in turn become instructors, of a group of prospective leaders carefully selected on the basis of their relative freedom from neurotic tendencies.”
+Carrsbury glanced at him sharply. He replied. “Yes, I know that you and several of the others have a certain warped awareness of the differences between your . . . personalities, though none whatsoever of the basic aberration involved in them all. But to get on. As soon as I realized the situation, my course was marked out. As a sane man, capable of entertaining fixed realistic purposes, and surrounded by individuals of whose inconsistencies and delusions it was easy to make use, I was in a position to attain, with time and tact, any goal at which I might aim. I was already in the Managerial Service. In three years I became World manager. Once there, my range of influence was vastly enhanced. Like the man in Archimedes’ epigram, I had a place to stand from which I could move the world. I was able, in various guises and on various pretexts, to promulgate regulations the actual purpose of which was to soothe the great neurotic masses by curtailing upsetting stimulations and introducing a more regimented and orderly program of living. I was able, by humoring my fellow executives and making the fullest use of my greater capacity for work, to keep world affairs staggering along fairly safely—at least stave off the worst. At the same time I was able to begin my Ten Years’ Plan—the training, in comparative isolation, first in small numbers, then in larger, as those instructed could in turn become instructors, of a group of prospective leaders carefully selected on the basis of their relative freedom from neurotic tendencies.”
 
-| “But that—” Phy began rather excitedly, starting up. j “But what?” Carrsbury inquired quickly.
+“But that—” Phy began rather excitedly, starting up.
 
-| “Nothing,” muttered Phy dejectedly, sinking back.
+“But what?” Carrsbury inquired quickly.
 
-“That about covers it,” Carrsbury concluded, his voice suddenly grown a little duller. “Except for one secondary matter. I couldn’t afford to let myself go ahead without a protection. Too much depended on me. There was always the risk of being wiped out by some ill-co-ordinated but none the less effective spasm of violence, momentarily uncontrollable by tact, on the part of my fellow executives. So, only because I could see no alternative, I took a dangerous step. I created”—his glance strayed toward the faint crease in die side wall—“my secret police. There is a type | of insanity known as paranoia, an exaggerated suspiciousness involving delusions of persecution. By means of the late twentieth century Rand technique of hypnotism, I inculcated a number of these unfortunate individuals with the ; fixed idea that their lives depended on me and that I was I threatened from all sides and must be protected at all costs.
+“Nothing,” muttered Phy dejectedly, sinking back.
 
-A distasteful expedient, even though it served its purpose. I | shall be glad, very glad to see it discontinued. You can understand, can’t you, why I had to take that step?”
+“That about covers it,” Carrsbury concluded, his voice suddenly grown a little duller. “Except for one secondary matter. I couldn’t afford to let myself go ahead without any protection. Too much depended on me. There was always the risk of being wiped out by some ill-co-ordinated but none the less effective spasm of violence, momentarily uncontrollable by tact, on the part of my fellow executives. So, only because I could see no alternative, I took a dangerous step. I created”—his glance strayed toward the faint crease in the side wall—“my secret police. There is a type of insanity known as paranoia, an exaggerated suspiciousness involving delusions of persecution. By means of the late twentieth century Rand technique of hypnotism, I inculcated a number of these unfortunate individuals with the fixed idea that their lives depended on me and that I was threatened from all sides and must be protected at all costs. A distasteful expedient, even though it served its purpose. I shall be glad, very glad to see it discontinued. You can understand, can’t you, why I had to take that step?”
 
 He looked questioningly at Phy—and became aware with a shock that that individual was grinning at him vacuously and holding up the gasoid between two fingers.
 
-“I cut a hole in my couch and a lot of this stuff came out,” Phy explained in a thick naive voice. “Ropes of it got all over my office. I kept tripping.” His fingers patted at it
+“I cut a hole in my couch and a lot of this stuff came out,” Phy explained in a thick naive voice. “Ropes of it got all over my office. I kept tripping.” His fingers patted at it deftly, sculpturing it into the form of a hideous transparent green head, which he proceeded to squeeze out of existence. “Queer stuff,” he rambled on. “Rarefied liquid. Gas of fixed volume. And all over my office floor, tangled up with the furniture.”
 
-deftly, sculpturing it into the form of a hideous transparent k green head, which he proceeded to squeeze out of exist- i ence. “Queer stuff,” he rambled on. “Rarefied liquid. Gas < of fixed volume. And all over my office floor, tangled up i with the furniture.”
-
-Carrsbury leaned back and shut his eyes. His shoulders : slumped. He felt suddenly a little weary, a little eager for | his day of triumph to be done. He knew he shouldn’t be despondent because he had failed with Phy. After all, the main victory was won. Phy was the merest of side issues. He had always known that, except for flashes, Phy was hopeless as the rest. Still—
+.space
+Carrsbury leaned back and shut his eyes. His shoulders slumped. He felt suddenly a little weary, a little eager for his day of triumph to be done. He knew he shouldn’t be despondent because he had failed with Phy. After all, the main victory was won. Phy was the merest of side issues. He had always known that, except for flashes, Phy was hopeless as the rest. Still—
 
 “You don’t need to worry about your office floor, Phy,” he said with a listless kindliness. “Never any more. Your successor will have to see about cleaning it up. Already, you know, to all intents and purposes, you have been replaced.”
 
-“That’s just it!” Carrsbury started at Phy’s explosive loudness. The World secretary jumped up and strode toward him, pointing an excited hand. “That’s what I came to see you about! That’s what I’ve been trying to tell you! I can’t be replaced like that! None of the others can, either! It won’t work. You can’t do it!”
+“That’s just it!” Carrsbury started at Phy’s explosive loudness. The World secretary jumped up and strode toward him, pointing an excited hand. “That’s what I came to see you about! That’s what I’ve been trying to tell you! I can’t be replaced like that! None of the others can, either! It won’t work! You can’t do it!”
 
 With a swiftness born of long practice, Carrsbury slipped behind his desk. He forced his features into that expression of calm, smiling benevolence of which he had grown unutterably weary.
 
-“Now, now, Phy,” he said brightly, soothingjy, “if I can’t do it, of course I can’t do it. But don’t you think you ought to tell me why? Don’t you think it would be very nice to sit down and talk it all over and you tell me why?”
+“Now, now, Phy,” he said brightly, soothingly, “if I can’t do it, of course I can’t do it. But don’t you think you ought to tell me why? Don’t you think it would be very nice to sit down and talk it all over and you tell me why?”
 
 Phy halted and hung his head, abashed.
 
 “Yes, I guess it would,” he said slowly, abruptly falling back into the low, effortful tones. “I guess I’ll have to. I guess there just isn’t any other way. I had hoped, though, not to have to tell you everything.” The last sentence was half question. He looked up wheedlingly at Carrsbury. The latter shook his head, continuing to smile. Phy went back and sat down.
 
-“Well,” he finally began, gloomily kneading the gasoid, “fit all began when you first wanted to be World manager. ■You weren’t the usual type, but I thought it would be kind : jf fun—yes, and kind of helpful.” He looked up at Carrs-fcury. “You’ve really done the world a lot of good in quite Ea lot of ways, always remember that,” he assured him. “Of bourse,” he added, again focusing the tortured gasoid, f“they weren’t exactly the ways you thought”
+“Well,” he finally began, gloomily kneading the gasoid, “it all began when you first wanted to be World manager. You weren’t the usual type, but I thought it would be kind of fun—yes, and kind of helpful.” He looked up at Carrsbury. “You’ve really done the world a lot of good in quite a lot of ways, always remember that,” he assured him. “Of course,” he added, again focusing the tortured gasoid, “they weren’t exactly the ways you thought.”
 
-“No?” Carrsbury prompted automatically. Humor him. iBumor him. The womout refrain droned in his mind.
+“No?” Carrsbury prompted automatically. *Humor him*. *Humor him*. The wornout refrain droned in his mind.
 
-; Phy sadly shook his head. “Take those regulations you roromulgated to soothe people—”
+Phy sadly shook his head. “Take those regulations you promulgated to soothe people—”
 
 “Yes?”
 
-“—they kind of got changed on the way. For instance, ryour prohibition, regarding reading tapes, of all exciting lit-►erature . . . oh, we tried a little of the soothing stufi you suggested at first. Everyone got a great kick out of it. They laughed and laughed. But afterwards, well, as I said, it kind of got changed—in this case to a prohibition of all unexciting literature.”
+“—they kind of got changed on the way. For instance, your prohibition, regarding reading tapes, of all exciting literature . . . oh, we tried a little of the soothing stuff you suggested at first. Everyone got a great kick out of it. They laughed and laughed. But afterwards, well, as I said, it kind of got changed—in this case to a prohibition of all *unexciting* literature.”
 
-Carrsbury’s smile broadened. For a moment the edge of his mind had toyed with a fear, but Phy’s last remark had banished it
+Carrsbury’s smile broadened. For a moment the edge of his mind had toyed with a fear, but Phy’s last remark had banished it.
 
 “Every day I coast past several reading stands,” Carrsbury said gently. “The fiction tapes offered for sale are always in the most chastely and simply colored containers. None of those wild and lurid pictures that one used to see everywhere.”
 
@@ -796,33 +861,32 @@ Carrsbury’s smile broadened. For a moment the edge of his mind had toyed with 
 
 “For ten years I’ve been a very busy man,” Carrsbury answered. “Of course I’ve read the official reports regarding such matters, and at times glanced through sample resumes of taped fiction.”
 
-“Oh, sure, that sort of official stuff,” agreed Phy, glancing up at the wall of tape files beyond the desk. “What we did, you see, was to keep the monochrome containers but go back to the old kind of contents. The contrast kind of tickled people. Remember, as I said before, a lot of your
+“Oh, sure, that sort of official stuff,” agreed Phy, glancing up at the wall of tape files beyond the desk. “What we did, you see, was to keep the monochrome containers but go back to the old kind of contents. The contrast kind of tickled people. Remember, as I said before, a lot of your regulations have done good. Cut out a lot of unnecessary noise and inefficient foolishness, for one thing.”
 
-regulations have done good. Cut out a lot of unnecessary f noise and inefficient foolishness, for one thing.”
+*That sort of official stuff.* The phrase lingered unpleasantly in Carrsbury’s ears. There was a trace of irrepressible suspicion in his quick over-the-shoulder glance at the tiered tape files.
 
-That sort of official stuff. The phrase lingered unpleas- l antly in Carrsbury’s ears. There was a trace of irrepressible 1 suspicion in his quick over-the-shoulder glance at the tiered tape files.
+“Oh, yes,” Phy went on, “and that prohibition against yielding to unusual or indecent impulses, with a long listing of specific categories. It went into effect all right, but with a little rider attached: ‘unless you really want to.’ That seemed absolutely necessary, you know.” His fingers worked furiously with the gasoid. “As for the prohibition of various stimulating beverages—well, in this locality they’re still served under other names, and an interesting custom has grown up of behaving very soberly while imbibing them. Now when we come to that matter of the eight-hour working day—”
 
-“Oh, yes,” Phy went on, “and that prohibition against t yielding to unusual or indecent impulses, with a long listing i of specific categories. It went into effect all right, but with 1 a little rider attached: ‘unless you really want to.’ That i seemed absolutely necessary, you know.” His fingers i worked furiously with the gasoid. “As for the prohibition of various stimulating beverages—well, in this locality they’re still served under other names, and an interesting custom has grown up of behaving very soberly while imbibing them. Now when we come to that matter of the eight-hour working day—”
-
+.space
 Almost involuntarily, Carrsbury had got up and walked over to the outer wall. With a flip of his hand through an invisible U-shaped beam, he switched on the window. It was as if the outer wall had disappeared. Through its near-perfect transparency, he peered down with fierce curiosity past the sleekly gleaming facades to the terraces and parkways below.
 
 The modest throngs seemed quiet and orderly enough. But then there was a scurry of confusion—a band of people, at this angle all tiny heads with arms and legs, came out from a shop far below and began to pelt another group with what looked like foodstuffs. While, on a side parkway, two small ovoid vehicles, seamless drops of silver because their vision panels were invisible from the outside, butted each other playfully. Someone started to run.
 
-Carrsbury hurriedly switched off the window and tumedi around. Those were just off-chance occurrences, he told himself angrily. Of no real statistical significance whatever. For ten years mankind had steadily been trending toward sanity despite occasional relapses. He’d seen it with his own eyes, seen the day-by-day progress—at least enough to know. He’d been a fool to let Ph/s ramblings effect him —only tired nerves had made that possible.
+Carrsbury hurriedly switched off the window and turned around. Those were just off-chance occurrences, he told himself angrily. Of no real statistical significance whatever. For ten years mankind had steadily been trending toward sanity despite occasional relapses. He’d seen it with his own eyes, seen the day-by-day progress—at least enough to know. He’d been a fool to let Phy’s ramblings effect him—only tired nerves had made that possible.
 
 He glanced at his timepiece.
 
-“Excuse me,” he said curtly, striding past Phy’s chair, Td like to continue this conversation, but I have to get •along to the first meeting of the new Central Managerial Staff.”
+“Excuse me,” he said curtly, striding past Phy’s chair, “I’d like to continue this conversation, but I have to get along to the first meeting of the new Central Managerial Staff.”
 
-“Oh but you can’t!” Instantly Phy was up and dragging Jt his arm. “You just can’t do it, you know! It’s impossible!”
+“Oh but you can’t!” Instantly Phy was up and dragging at his arm. “You just can’t do it, you know! It’s impossible!”
 
-The pleading voice rose toward a scream. Impatiently sCarrsbury tried to shake loose. The seam in the side wall •widened, became a doorway. Instantly both of them stopped struggling.
+The pleading voice rose toward a scream. Impatiently Carrsbury tried to shake loose. The seam in the side wall widened, became a doorway. Instantly both of them stopped struggling.
 
-In the doorway stood a cadaverous giant of a man with a stubby dark weapon in his hand. Straggly black beard ^shaded into guant cheeks. His face was a cruel blend of csuspicion and fanatical devotion, the first directed along with the weapon at Phy, the second—and the somnambulistic eyes—at Carrsbury.
+In the doorway stood a cadaverous giant of a man with a stubby dark weapon in his hand. Straggly black beard shaded into gaunt cheeks. His face was a cruel blend of suspicion and fanatical devotion, the first directed along with the weapon at Phy, the second—and the somnambulistic eyes—at Carrsbury.
 
 “He was threatening you?” the bearded man asked in a harsh voice, moving the weapon suggestively.
 
-For a moment an angry, vindictive light glinted in Carrs-bury’s eyes. Then it flicked out. What could he have been thinking, he asked himself. This poor lunatic World secretary was no one to hate.
+For a moment an angry, vindictive light glinted in Carrsbury’s eyes. Then it flicked out. What could he have been thinking, he asked himself. This poor lunatic World secretary was no one to hate.
 
 “Not at all, Hartman,” he remarked calmly. “We were discussing something and we became excited and allowed our voices to rise. Everything is quite all right.”
 
@@ -832,15 +896,14 @@ For a moment an angry, vindictive light glinted in Carrs-bury’s eyes. Then it 
 
 He had stepped on to the corridor slidewalk and had coasted halfway to the elevator before he realized that Phy had followed him and was plucking timidly at his sleeve.
 
-“You can’t go off like this,” Phy pleaded urgently, with an apprehensive backward glance. Carrsbury noted that
+“You can’t go off like this,” Phy pleaded urgently, with an apprehensive backward glance. Carrsbury noted that Hartman had also followed—an ominous pylon two paces to the rear. “You must give me a chance to explain, to tell you why, just like you asked me.”
 
-Hartman had also followed—an ominous pylon two paces to the rear. “You must give me a chance to explain, to tell , you why, just like you asked me.”
+.space
+*Humor him*. Carrsbury’s mind was deadly tired of the drone, but mere weariness prompted him to dance to it a little longer. “You can talk to me in the elevator,” he conceded, stepping off the slidewalk. His finger flipped through a U-beam and a serpentine movement of light across the wall traced the elevator’s obedient rise.
 
-Humor him. Carrsbury’s mind was deadly tired of the drone, but mere weariness prompted him to dance to it a ! little longer. “You can talk to me in the elevator,” he con- jt ceded, stepping off the slidewalk. His finger flipped through ; a U-beam and a serpentine movement of light across the wall traced the elevator’s obedient rise.
+“You see, it wasn’t just that matter of prohibitory regulations,” Phy launched out hurriedly. “There were lots of other things that never did work out like your official reports indicated. Departmental budgets for instance. The reports showed, I know, that appropriations for Extraterrestrial Research were being regularly slashed. Actually, in your ten years of office, they increased tenfold. Of course, there was no way for you to know that. You couldn’t be all over the world at once and see each separate launching of supra-stratospheric rockets.”
 
-“You see, it wasn’t just that matter of prohibitory regu- ; lations,” Phy launched out hurriedly. “There were lots of other things that never did work out like your official re- p ports indicated. Departmental budgets for instance. The re- r ports showed, I know, that appropriations for Extraterrestrial Research were being regularly slashed. Actually, in your ten years of office, they increased tenfold. Of course, there was no way for you to know that. You couldn’t be all over the world at once and see each separate launching of supra-stratospheric rockets.”
-
-The moving light became stationary. A seam dilated. Carrsbury stepped into the elevator. He debated sending Hartman back. Poor babbling Phy was no menace, Still— the cunning of the insane. He decided against it, reached out and flipped the control beam at the sector which would bring them to the hundredth and top floor. The door snipped softly shut. The cage became a surging darkness in I which floor numerals winked softly. Twenty-one. Twenty- 1 two. Twenty-three.
+The moving light became stationary. A seam dilated. Carrsbury stepped into the elevator. He debated sending Hartman back. Poor babbling Phy was no menace. Still—*the cunning of the insane*. He decided against it, reached out and flipped the control beam at the sector which would bring them to the hundredth and top floor. The door snipped softly shut. The cage became a surging darkness in which floor numerals winked softly. Twenty-one. Twenty-two. Twenty-three.
 
 “And then there was the Military Service. You had it sharply curtailed.”
 
@@ -848,11 +911,11 @@ The moving light became stationary. A seam dilated. Carrsbury stepped into the e
 
 “I know,” Phy’s answer came guiltily from the darkness. “Still, what’s happened is that, unknown to you, the Military Service has been increased in size, and recently four rocket squadrons have been added.”
 
-Fifty-seven. Fifty-eight. Humor him. “Why?”
+Fifty-seven. Fifty-eight. *Humor him*. “Why?”
 
-“Well, you see we’ve found out that Earth is being re-connoitered. Maybe from Mars. Maybe hostile. Have to be prepared. We didn’t tell you . . . well, because we were afraid it might excite you.”
+“Well, you see we’ve found out that Earth is being reconnoitered. Maybe from Mars. Maybe hostile. Have to be prepared. We didn’t tell you . . . well, because we were afraid it might excite you.”
 
-The voice trailed off. Carrsbury shut his eyes. How long, he asked himself, how long? He realized with dull surprise that in the last hour people like Phy, endured- for ten years, had become unutterably weary to him. For the moment even the thought of the conference over which he would soon be presiding, the conference that was to usher in a sane world, failed to stir him. Reaction to success? To the end of a ten years’ tension?
+The voice trailed off. Carrsbury shut his eyes. How long, he asked himself, how long? He realized with dull surprise that in the last hour people like Phy, endured for ten years, had become unutterably weary to him. For the moment even the thought of the conference over which he would soon be presiding, the conference that was to usher in a sane world, failed to stir him. Reaction to success? To the end of a ten years’ tension?
 
 “Do you know how many floors there are in this building?”
 
@@ -862,7 +925,7 @@ Carrsbury was not immediately conscious of the new note in Phy’s voice, but he
 
 “Then,” asked Phy, “just where are we?”
 
-Carrsbury opened his eyes to the darkness. One hundred twenty-seven, blinked the floor numeral. One hundred twenty-eight One hundred twenty-nine.
+Carrsbury opened his eyes to the darkness. One hundred twenty-seven, blinked the floor numeral. One hundred twenty-eight. One hundred twenty-nine.
 
 Something cold dragged at Carrsbury’s stomach, pulled at his brain. He felt as if his mind were being slowly and irresistibly twisted. He thought of hidden dimensions, of unsuspected holes in space. Something remembered from elementary physics danced through his thoughts: If it were possible for an elevator to keep moving upward with uniform acceleration, no one inside an elevator could determine whether the effects they were experiencing were due to acceleration or to gravity—whether the elevator were standing motionless on some planet or shooting up at ever-increasing velocity through free space.
 
@@ -870,9 +933,7 @@ One hundred forty-one. One hundred forty-two.
 
 “Or as if you were rising through consciousness into an unsuspected realm of mentality lying above,” suggested Phy in his new voice, with its hint of gentle laughter.
 
-One hundred forty-six. One hundred forty-seven. It was
-
-slowing now. One hundred forty nine. One hundred fifty. It had stopped.
+One hundred forty-six. One hundred forty-seven. It was slowing now. One hundred forty-nine. One hundred fifty. It had stopped.
 
 This was some trick. The thought was like cold water in Carrsbury’s face. Some cunning childish trick of Phy’s. An easy thing to hocus the numerals. Carrsbury groped irascibly about in the darkness, encountered the slick surface of a holster, Hartman’s gaunt frame.
 
@@ -890,17 +951,18 @@ He paused and looked quizzically at Carrsbury. “All very simple,” he observe
 
 Carrsbury gaped at him stupidly.
 
-Phy turned to watch the growing speck of an approaching aircraft “You might look at it too,” he remarked to Carrsbury, “for it’s going to transport you to a far happier, more restful life.”
+Phy turned to watch the growing speck of an approaching aircraft. “You might look at it too,” he remarked to Carrsbury, “for it’s going to transport you to a far happier, more restful life.”
 
 Carrsbury parted his lips, wet them. “But—” he said, unsteadily. “But—”
 
-Phy smiled. “That’s right, I didn’t finish my explanation. Well, you might have gone on being World manager all your life, in the isolation of your office and your miles of taped official reports and your occasional confabs with me and the others. Except for your Institute of Political Leadership and your Ten-Year-Plan. That upset things. Of course, we were as much interested in it as we were in you. It had definite possibilities. We hoped it would work out. We would have been glad to retire from office if it had. But, most fortunately, it didn’t And that sort of ended the whole experiment.”
+Phy smiled. “That’s right, I didn’t finish my explanation. Well, you might have gone on being World manager all your life, in the isolation of your office and your miles of taped official reports and your occasional confabs with me and the others. Except for your Institute of Political Leadership and your Ten-Year-Plan. That upset things. Of course, we were as much interested in it as we were in you. It had definite possibilities. We hoped it would work out. We would have been glad to retire from office if it had. But, most fortunately, it didn’t. And that sort of ended the whole experiment.”
 
 He caught the downward direction of Carrsbury’s gaze.
 
 “No,” he said, “I’m afraid your pupils aren’t waiting for you in the conference chamber on the hundredth story. I’m afraid they’re still in the Institute.” His voice became gently sympathetic. “And I’m afraid that it’s become . . . well . . . a somewhat different sort of institute.”
 
-Carrsbury stood very still, swaying a little. Gradually his thoughts and his will power were emerging from the waking nightmare that had paralyzed them. The cunning of the insane—he had neglected that trenchant warning. In the very moment of victory—
+.space
+Carrsbury stood very still, swaying a little. Gradually his thoughts and his will power were emerging from the waking nightmare that had paralyzed them. *The cunning of the insane*—he had neglected that trenchant warning. In the very moment of victory—
 
 No! He had forgotten Hartman! This was the very emergency for which that counterstroke had been prepared.
 
@@ -908,31 +970,33 @@ He glanced sideways at the chief member of his secret police. The black giant, u
 
 Now Hartman became aware of Carrsbury’s gaze. He divined his thought.
 
-He drew his dark weapon from its holster, pointed it un- i waveringly at Phy.
+He drew his dark weapon from its holster, pointed it unwaveringly at Phy.
 
-His black-bearded lips curled. From them came a hiss- s ing sound. Then, in a loud voice, he cried, “You’re dead, Phy! I disintegrated you.”
+His black-bearded lips curled. From them came a hissing sound. Then, in a loud voice, he cried, “You’re dead, Phy! I disintegrated you.”
 
-Phy reached over and took the weapon from his hand, i
+Phy reached over and took the weapon from his hand.
 
-“That’s another respect in which you completely miscal- I culated the modem temperament,” he remarked to Carrs-bury, a shade argumentatively. “All of us have certain subjects on which we’re a trifle unrealistic. That’s only human nature. Hartman’s was his suspiciousness—a weakness for ideas involving plots and persecutions. You gave him the worst sort of job—one that catered to and encouraged his weaknesses. In a very short time he became hopelessly unrealistic. Why for years he’s never realized that he’s been carrying a dummy pistol.”
+“That’s another respect in which you completely miscalculated the modern temperament,” he remarked to Carrsbury, a shade argumentatively. “All of us have certain subjects on which we’re a trifle unrealistic. That’s only human nature. Hartman’s was his suspiciousness—a weakness for ideas involving plots and persecutions. You gave him the worst sort of job—one that catered to and encouraged his weaknesses. In a very short time he became hopelessly unrealistic. Why for years he’s never realized that he’s been carrying a dummy pistol.”
 
 He passed it to Carrsbury for inspection.
 
-“But,” he added, “give him the proper job and he’d function well enough—say something in creation or exploration. Fitting the man to the job is an art with infinite possibilities. That’s why we had Morgenstem in Finance—to keep credit fluctuating in a safe, predictable rhythm. That’s why a euphoric is made manager of Extraterrestial Research—to keep it booming. Why a catatonic is given Cultural Advancement—to keep it from tripping on its face in its haste to get ahead.”
+“But,” he added, “give him the proper job and he’d function well enough—say something in creation or exploration. Fitting the man to the job is an art with infinite possibilities. That’s why we had Morgenstern in Finance—to keep credit fluctuating in a safe, predictable rhythm. That’s why a euphoric is made manager of Extraterrestial Research—to keep it booming. Why a catatonic is given Cultural Advancement—to keep it from tripping on its face in its haste to get ahead.”
 
 He turned away. Dully, Carrsbury observed that the aircraft was hovering close to the cage and sidling slowly in.
 
 “But in that case why—” he began stupidly.
 
-“Why were you made World manager?” Phy finished easily. “Isn’t that fairly obvious? Haven’t I told you several times that you did a lot of good, indirectly? You interested us, don’t you see? In fact, you were practically unique. As you know, it’s our cardinal principle to let every individual express himself as he wants to. In your case, that involved letting you become World manager. Taken all in all it worked out very well. Everyone had a good time, a number of constructive regulations were promulgated, we learned a lot—oh, we didn’t get everything we hoped for, but one never does. Unfortunately, in the end, we were forced to discontinue the experiment”
+“Why were you made World manager?” Phy finished easily. “Isn’t that fairly obvious? Haven’t I told you several times that you did a lot of good, indirectly? You interested us, don’t you see? In fact, you were practically unique. As you know, it’s our cardinal principle to let every individual express himself as he wants to. In your case, that involved letting you become World manager. Taken all in all it worked out very well. Everyone had a good time, a number of constructive regulations were promulgated, we learned a lot—oh, we didn’t get everything we hoped for, but one never does. Unfortunately, in the end, we were forced to discontinue the experiment.”
 
-The aircraft had made contact
+The aircraft had made contact.
 
-“You understand, of course, why that was necessary?” Thy continued hurriedly, as he urged Carrsbury toward the •opening port. “I’m sure you must It all comes down to a •question of sanity. What is sanity—now, in the twentieth ^century, any time? Adherence to a norm. Conformity to certain basic conventions underlying all human conduct. In our age, departure from the norm has become the norm. Inability to conform has become the standard of conformity. That’s quite clear, isn’t it? And it enables you to understand, doesn’t it, your own case and that of your proteges? Over a long period of years you persisted in adhering to a norm, in conforming to certain basic conventions. You were completely unable to adapt yourself to the society around you. You could only pretend—and your proteges wouldn’t have been able to do even that. Despite your many engaging personal characteristics, there was obviously only one course of action open to us.”
+“You understand, of course, why that was necessary?” Phy continued hurriedly, as he urged Carrsbury toward the opening port. “I’m sure you must. It all comes down to a question of sanity. What is sanity—now, in the twentieth century, any time? Adherence to a norm. Conformity to certain basic conventions underlying all human conduct. In our age, departure from the norm has become the norm. Inability to conform has become the standard of conformity. That’s quite clear, isn’t it? And it enables you to understand, doesn’t it, your own case and that of your proteges? Over a long period of years you persisted in adhering to a norm, in conforming to certain basic conventions. You were completely unable to adapt yourself to the society around you. You could only pretend—and your proteges wouldn’t have been able to do even that. Despite your many engaging personal characteristics, there was obviously only one course of action open to us.”
 
-In the port Carrsbury turned. He had found his voice at last. It was hoarse, ragged. “You mean that all these years you’ve just been humoring me?”
+In the port Carrsbury turned. He had found his voice at last. It was hoarse, ragged. “You mean that all these years you’ve just been *humoring* me?”
 
-The port was closing. Phy did not answer the question. As the aircraft edged out, he waved farewell with the blob of green gasoid.
+The port was closing. Phy did not answer the question.
+
+As the aircraft edged out, he waved farewell with the blob of green gasoid.
 
 “It’ll be very pleasant where you’re going,” he shouted encouragingly. “Comfortable quarters, adequate facilities for exercise, and a complete library of twentieth century literature to while away your time.”
 
@@ -940,21 +1004,26 @@ He watched Carrsbury’s rigid face, staring whitely from the vision port, until
 
 Then he turned away, looked at his hands, noticed the gasoid, tossed it out the open door of the cage, studied its flight for a few moments, then flicked the downbeam.
 
-“I’m glad to see the last of that fellow,” he muttered, more to himself than to Hartman, as they plummeted toward the roof. “He was beginning to have a very disturbing influence on me. In fact, I was beginning to fear for my” —his expression became suddenly vacuous—“sanity.”
+“I’m glad to see the last of that fellow,” he muttered, more to himself than to Hartman, as they plummeted toward the roof. “He was beginning to have a very disturbing influence on me. In fact, I was beginning to fear for my”—his expression became suddenly vacuous—“sanity.”
 
-Wanted—An Enemy
+---
 
-The bright stars of Mars made a glittering roof for a fantastic tableau. A being equipped with retinal vision would have seen an Earthman dressed in the familiar coat and trousers of the twentieth century standing on a boulder that put him a few feet above the rusty sand. His face was bony and puritanic. His eyes gleamed wildly from deep sockets. Occasionally his long hair flopped across them. His lips worked vociferously, showing big yellowed teeth, and there was a cloud of blown spittle in front of them, for he was making a speech—in the English language. He so closely resembled an old-style soapbox orator that one looked around for the lamp-post, the dull-faced listeners overflowing the curb, and the strolling cop.
+wanted_an_enemy
 
-But the puzzling globe of soft radiance surrounding Mr. Whitlow struck highlights from enamel-black shells and jointed legs a little resembling those of an ant under a microscope. Each individual in the crowd consisted of a yard-long oval body lacking a separate head or any sensory or other orifices in its gleaming black surface except for a small mouth that worked like a sliding door and kept opening and closing at regular intervals. To this body were attached eight of the jointed legs, the inner pairs showing highly manipulative end organs.
+# <a id="page42"></a>Wanted—An Enemy
+
+.fl
+<span class="smallcaps">The bright stars</span> of Mars made a glittering roof for a fantastic tableau. A being equipped with retinal vision would have seen an Earthman dressed in the familiar coat and trousers of the twentieth century standing on a boulder that put him a few feet above the rusty sand. His face was bony and puritanic. His eyes gleamed wildly from deep sockets. Occasionally his long hair flopped across them. His lips worked vociferously, showing big yellowed teeth, and there was a cloud of blown spittle in front of them, for he was making a speech—in the English language. He so closely resembled an old-style soapbox orator that one looked around for the lamp-post, the dull-faced listeners overflowing the curb, and the strolling cop.
+
+But the puzzling globe of soft radiance surrounding Mr. Whitlow struck highlights from enamel-black shells and jointed legs a little resembling those of an ant under a microscope. Each individual in the crowd consisted of a yard-long oval body lacking a separate head or any sensory or other orifices in its gleaming black surface except for a small mouth that worked like a sliding door and kept opening and closing at regular intervals. To this body were attached eight of the jointed legs, the inner pairs showing highly manipulative end-organs.
 
 These creatures were ranged in a circle around Mr. Whitlow’s boulder. Facing him was one who crouched a little apart from the rest, on a smaller boulder. Flanking this one, were two whose faintly silvered shells suggested weathering and, therefore, age.
 
 Beyond them—black desert to a horizon defined only by the blotting out of the star fields.
 
-Low in the heavens gleamed sky-blue Earth, now Mars evening star, riding close to the meager crescent of Phobos.
+Low in the heavens gleamed sky-blue Earth, now Mars’ evening star, riding close to the meager crescent of Phobos.
 
-To the Martian coleopteroids this scene presented itself in a very different fashion, since they depended on perception rather than any elaborate sensory set-up. Their internal brains were directly conscious of everything within a radius of about fifty yards. For them the blue earthshine was a diffuse photonic cloud just above the threshold of perception, similar to but distinct from the photonic clouds of the starlight and faint moonshine; they could perceive no image of Earth unless they used lenses to create such an image within their perceptive range. They were conscious of the ground beneath them as a sandy hemisphere tunneled through by various wrigglers and the centipedlike burrowers. They were conscious of each other’s armored, neatly-compartmented bodies, and each other’s thoughts. But chiefly their attention was focused on that squidgy, uninsulated, wasteful jumble of organs that thought of itself as Mr. Whitlow—an astounding moist suppet of life on dry, miserly Mars.
+To the Martian coleopteroids this scene presented itself in a very different fashion, since they depended on perception rather than any elaborate sensory set-up. Their internal brains were directly conscious of everything within a radius of about fifty yards. For them the blue earthshine was a diffuse photonic cloud just above the threshold of perception, similar to but distinct from the photonic clouds of the starlight and faint moonshine; they could perceive no image of Earth unless they used lenses to create such an image within their perceptive range. They were conscious of the ground beneath them as a sandy hemisphere tunneled through by various wrigglers and the centipedelike burrowers. They were conscious of each other’s armored, neatly-compartmented bodies, and each other’s thoughts. But chiefly their attention was focused on that squidgy, uninsulated, wasteful jumble of organs that thought of itself as Mr. Whitlow—an astounding moist suppet of life on dry, miserly Mars.
 
 The physiology of the coleopteroids was typical of a depleted planet economy. Their shells were double; the space between could be evacuated at night to conserve heat, and flooded by day to absorb it. Their lungs were really oxygen accumulators. They inhaled the rarefied atmosphere about one hundred times for every exhalation, the double-valve mouth permitting the building up of high internal pressure. They had one hundred percent utilization of inhaled oxygen, and exhaled pure carbon dioxide freighted with other respiratory excretions. Occasional whiffs of this exceedingly bad breath made Mr. Whitlow wrinkle his flaring nostrils.
 
@@ -962,19 +1031,20 @@ Just what permitted Mr. Whitlow to go on functioning, even speechifying, in the 
 
 Communication between him and his audience was purely telepathic. He was speaking vocally at the request of the coleopteroids, because like most nontelepaths he could best organize and clarify his thoughts while talking. His voice died out abruptly in the thin air. It sounded like a phonograph needle scratching along without amplification, and intensified the eerie ludicrousness of his violent gestures and facial contortions.
 
+.space
 “And so,” Whitlow concluded wheezily, brushing the long hair from his forehead, “I come back to my original proposal: Will you attack Earth?”
 
-“And we, Mr. Whitlow,” thought the Chief Coleopter-oid, “come back to our original question, which you still have not answered: Why should we?”
+“And we, Mr. Whitlow,” thought the Chief Coleopteroid, “come back to our original question, which you still have not answered: Why should we?”
 
 Mr. Whitlow made a grimace of frayed patience. “As I have told you several times, I cannot make a fuller explanation. But I assure you of my good faith. I will do my best to provide transportation for you, and facilitate the thing in every way. Understand, it need only be a token invasion. After a short time you can retire to Mars with your spoils. Surely you cannot afford to pass up this opportunity.”
 
-“Mr. Whitlow,” replied the Chief Coleopteroid with a humor as poisonously dry as his planet, “I cannot read your thoughts unless you vocalize them. They are to confused. But I can sense your biases. You are laboring under a serious misconception as to our psychology. Evidently it is customary in your world to think of alien intelligent beings as evil monsters, whose only desire is to ravage, destroy, tyrannize, and inflict unspeakable cruelties on creatures less advanced than themselves. Nothing could be farther from the truth. We are an ancient and unemotional race. We have outgrown the passions and vanities—even the ambitions—of our youth. We undertake no projects except for sound and sufficient reason.”
+“Mr. Whitlow,” replied the Chief Coleopteroid with a humor as poisonously dry as his planet, “I cannot read your thoughts unless you vocalize them. They are too confused. But I can sense your biases. You are laboring under a serious misconception as to our psychology. Evidently it is customary in your world to think of alien intelligent beings as evil monsters, whose only desire is to ravage, destroy, tyrannize, and inflict unspeakable cruelties on creatures less advanced than themselves. Nothing could be farther from the truth. We are an ancient and unemotional race. We have outgrown the passions and vanities—even the ambitions—of our youth. We undertake no projects except for sound and sufficient reason.”
 
 “But if that’s the case, surely you can see the practical advantages of my proposal. At little or no risk to yourselves, you will acquire valuable loot.”
 
 The Chief Coleopteroid settled back on his boulder, and his thoughts did the same. “Mr. Whitlow, let me remind you that we have never gone to war lightly. During the whole course of our history, our only intelligent enemies have been the molluscoids of the tideless seas of Venus. In the springtide of their culture they came conquesting in their water-filled spaceships, and we fought several long and bitter wars. But eventually they attained racial maturity and a certain dispassionate wisdom, though not equivalent to our own. A perpetual truce was declared, on condition that each party stick to its own planet and attempt no more forays. For ages we have abided by that truce, living in mutual isolation. So you can see, Mr. Whitlow, that we would be anything but inclined to accept such a rash and mysterious proposal as yours.”
 
-“May I make a suggestion?” interjected the Senior Coleopteroid on the Chiefs right His thoughts flicked out subtly toward Whitlow. “You seem, Earthling, to possess powers that are perhaps even in excess of our own. Your arrival on Mars without any perceptible means of transport and your ability to endure its rigors without any obvious insulation, are sufficient proofs. From what you tell us, the other inhabitants of your planet possess no such powers. Why don’t you attack them by yourself, like the solitary armored poison-worm? Why do you need our aid?”
+“May I make a suggestion?” interjected the Senior Coleopteroid on the Chief’s right. His thoughts flicked out subtly toward Whitlow. “You seem, Earthling, to possess powers that are perhaps even in excess of our own. Your arrival on Mars without any perceptible means of transport and your ability to endure its rigors without any obvious insulation, are sufficient proofs. From what you tell us, the other inhabitants of your planet possess no such powers. Why don’t you attack them by yourself, like the solitary armored poison-worm? Why do you need our aid?”
 
 “My friend,” said Mr. Whitlow solemnly, bending forward and fixing his gaze on the silvery-shelled elder, “I abhor war as the foulest evil, and active participation in it as the greatest crime. Nonetheless, I would sacrifice myself as you suggest, could I attain my ends that way. Unfortunately I cannot. It would not have the psychological effect I desire. Moreover”—he paused embarrassedly—“I might as well confess that I am not wholly master of my powers. I don’t understand them. The workings of an inscrutable providence have put into my hands a device that is probably the handiwork of creatures vastly more intelligent than any in this solar system, perhaps even this cosmos. It enables me to cross space and time. It protects me from danger. It provides me with warmth and illumination. It concentrates your Martian atmosphere in a sphere around me, so that I can breathe normally. But as for using it in any larger way—I’d be mortally afraid of its getting out of control. My one small experiment was disastrous. I wouldn’t dare.”
 
@@ -982,15 +1052,16 @@ The Senior Coleopteroid shot a guarded aside to the Chief. “Shall I try to hyp
 
 “Do so.”
 
-“Very well, though Tm afraid the device will protect his mind as well as his body. Still, it’s worth the chance.”
+“Very well, though I’m afraid the device will protect his mind as well as his body. Still, it’s worth the chance.”
 
+.space
 “Mr. Whitlow,” thought the Chief abruptly, “it is time we got down to cases. Every word you say makes your proposal sound more irrational, and your own motives more unintelligible. If you expect us to take any serious interest, you must give us a clear answer to one question: Why do you want us to attack Earth?”
 
 Whitlow twisted. “But that’s the one question I don’t want to answer.”
 
 “Well, put it this way then,” continued the Chief patiently. “What personal advantage do you expect to gain from our attack?”
 
-Whitlow drew himself up and tucked in his necktie. “None! None whatsoever! I seek nothing for myselfl”
+Whitlow drew himself up and tucked in his necktie. “None! None whatsoever! I seek nothing for myself!”
 
 “Do you want to rule Earth?” the Chief persisted.
 
@@ -1006,61 +1077,64 @@ Whitlow gnawed his lip baffledly.
 
 The Chief slipped in a quick question to the Senior Coleopteroid. “What progress?”
 
-“None whatsoever. His mind is extraordinarily difficult a) grasp. And as I anticipated, there is a shield.”
+“None whatsoever. His mind is extraordinarily difficult to grasp. And as I anticipated, there is a shield.”
 
-Whitlow rocked uneasily on his shoulder, his eyes fixed m the star-edged horizon.
+Whitlow rocked uneasily on his shoulder, his eyes fixed on the star-edged horizon.
 
-“I’ll tell you this much,” he said. “It’s solely because I >ove Earth and mankind so much that I want you to attack *ier.”
+“I’ll tell you this much,” he said. “It’s solely because I love Earth and mankind so much that I want you to attack her.”
 
-“You choose a strange way of showing your affection,” f he Chief observed.
+“You choose a strange way of showing your affection,” the Chief observed.
 
-“Yes,” continued Whitlow, warming a bit, his eyes still tost. “I want you to do it in order to end war.”
+“Yes,” continued Whitlow, warming a bit, his eyes still lost. “I want you to do it in order to end war.”
 
-“This gets more and more mysterious. Start war to stop rt? That is a paradox which demands explanation. Take sare, Mr. Whitlow, or I will fall into your error of looking jn alien beings as evil and demented monsters.”
+“This gets more and more mysterious. Start war to stop it? That is a paradox which demands explanation. Take care, Mr. Whitlow, or I will fall into your error of looking on alien beings as evil and demented monsters.”
 
-Whitlow lowered his gaze until it was fixed on the Chief. He sighed windily. “I guess I’d better tell you,” he muttered. “You’d have probably found out in the end. Though :t would have been simpler the other way—”
+Whitlow lowered his gaze until it was fixed on the Chief. He sighed windily. “I guess I’d better tell you,” he muttered. “You’d have probably found out in the end. Though it would have been simpler the other way—”
 
-He pushed back the rebellious hair and massaged his fforehead, a little wearily. When he spoke again it was in a less oratorical style.
+He pushed back the rebellious hair and massaged his forehead, a little wearily. When he spoke again it was in a less oratorical style.
 
-“I am a pacifist My life is dedicated to the task of presenting war. I love my fellow men. But they are steeped in terror and sin. They are victims of their baser passions. Instead of marching on, hand in hand, trustingly, toward the glorious fulfillment of all their dreams, they insist on engaging in constant conflict, in vile war.”
+“I am a pacifist. My life is dedicated to the task of preventing war. I love my fellow men. But they are steeped in error and sin. They are victims of their baser passions. Instead of marching on, hand in hand, trustingly, toward the glorious fulfillment of all their dreams, they insist on engaging in constant conflict, in vile war.”
 
-“Perhaps there is a reason for that,” suggested the Chief mildly. “Some inequalities that require leveling or—” “Please,” said the pacifist reprovingly. “These wars have sgrown increasingly more violent and terrible. I, and others, Ihave sought to reason with the majority, but in vain. They ipersist in their delusions. I have racked my brain to find a solution. I have considered every conceivable remedy. Since I came into the possession of . . . er . . . the device, (I have sought throughout the cosmos and even in other “time-streams, for the secret of preventing war. With no success. Such intelligent races as I encountered were either 1 engaged in war, which ruled them out, or had never known
+“Perhaps there is a reason for that,” suggested the Chief mildly. “Some inequalities that require leveling or—”
 
-war—these were very obliging but obviously could volun- c teer no helpful information—or else had outgrown war by ! the painful and horrible process of fighting until there was nothing more to fight about”
+“Please,” said the pacifist reprovingly. “These wars have grown increasingly more violent and terrible. I, and others, have sought to reason with the majority, but in vain. They persist in their delusions. I have racked my brain to find a solution. I have considered every conceivable remedy. Since I came into the possession of . . . er . . . the device, I have sought throughout the cosmos and even in other time-streams, for the secret of preventing war. With no success. Such intelligent races as I encountered were either engaged in war, which ruled them out, or had never known war—these were very obliging but obviously could volunteer no helpful information—or else had outgrown war by the painful and horrible process of fighting until there was nothing more to fight about.”
 
 “As we have,” the Chief thought, in an undertone.
 
-The pacifist spread his hands, palms toward the stars. “So, once more, I was thrown on my own resources. I studied mankind from every angle. Gradually I became convinced that its worst trait—and the one most responsible for war—was its overgrown sense of self-importance. On my planet man is the lord of creation. All the other animals are merely one among many—no species is pre-eminent The flesh-eaters have their flesh-eating rivals. Each browser or grazer competes with other types for the grass and herbage. Even the fish in the seas and the myraid parasites that swarm in bloodstreams are divided into species of roughly equal ability and competence. This makes for humility and a sense of perspective. No species is inclined to fight among itself when it realizes that by so doing it will merely clear the way for other species to take over. Man alone has no serious rivals. As a result, he has developed delusions of grandeur—and of persecution and hate. Lacking the restraint that rivalry would provide, he fouls his planetary nest with constant civil war.
+The pacifist spread his hands, palms toward the stars. “So, once more, I was thrown on my own resources. I studied mankind from every angle. Gradually I became convinced that its worst trait—and the one most responsible for war—was its overgrown sense of self-importance. On my planet man is the lord of creation. All the other animals are merely one among many—no species is pre-eminent. The flesh-eaters have their flesh-eating rivals. Each browser or grazer competes with other types for the grass and herbage. Even the fish in the seas and the myriad parasites that swarm in bloodstreams are divided into species of roughly equal ability and competence. This makes for humility and a sense of perspective. No species is inclined to fight among itself when it realizes that by so doing it will merely clear the way for other species to take over. Man alone has no serious rivals. As a result, he has developed delusions of grandeur—and of persecution and hate. Lacking the restraint that rivalry would provide, he fouls his planetary nest with constant civil war.
 
-“I mulled this idea for some time. I thought wistfully of how different mankind’s development might have been had he been compelled to share his planet with some equally intelligent species, say a mechanically-minded sea dweller.
+“I mulled this idea for some time. I thought wistfully of how different mankind’s development might have been had he been compelled to share his planet with some equally intelligent species, say a mechanically-minded sea dweller. I considered, how, when great natural catastrophes occur, such as fires and floods and earthquakes and plagues, men temporarily quit squabbling and work hand in hand—rich and poor, friend and enemy alike. Unfortunately such cooperation only lasts until man once more asserts his mastery over his environment. It does not provide a constant sobering threat. And then . . . I had an inspiration.”
 
-I considered, how, when great natural catastrophes occur, such as fires and floods and earthquakes and plagues, men temporarily quit squabbling and work hand in hand—rich and poor, friend and enemy alike. Unfortunately such cooperation only lasts until man once more asserts his mastery over his environment. It does not provide a constant sobering threat. And then. . . I had an inspiration.”
+.space
+Mr. Whitlow’s gaze swept the black-shelled forms—a jumble of satiny crescent highlights ringing the sphere of light enveloping him. Similarly his mind swept their cryptically armored thoughts.
 
-Mr. Whitlow’s gaze swept the black-shelled forms—a jumble of satiny cresent highlights ringing the sphere of light enveloping him. Similarly his mind swept their cryptically armored thoughts.
-
-**I remembered an incident from my childhood. A radio “oadcast—we make use of high velocity vibrations to .ansmit sound—had given an impishly realistic fictional port of an invasion of Earth by beings from Mars, beings - that evil and destructive nature which, as you say, we ad to attribute to alien life. Many believed the report here were brief scares and panics. It occurred to me how, the first breath of an actual invasion of that sort, warring copies would forget their differences and join staunchly ‘’igether to meet the invader. They would realize that the nings they were fighting about were really trifling matters, hantoms of moodiness and fear. Their sense of perspec-'■ve would be restored. They would see that the all-impor--nnt fact was that they were men alike, facing a common aemy, and they would rise magnificently to the challenge, .h my friends, when that vision occurred to me, of warring nankind at one stroke united, and united forever, I stood 'enabling and speechless. I—”
+“I remembered an incident from my childhood. A radio broadcast—we make use of high velocity vibrations to transmit sound—had given an impishly realistic fictional report of an invasion of Earth by beings from Mars, beings of that evil and destructive nature which, as you say, we tend to attribute to alien life. Many believed the report. There were brief scares and panics. It occurred to me how, at the first breath of an actual invasion of that sort, warring peoples would forget their differences and join staunchly together to meet the invader. They would realize that the things they were fighting about were really trifling matters, phantoms of moodiness and fear. Their sense of perspective would be restored. They would see that the all-important fact was that they were men alike, facing a common enemy, and they would rise magnificently to the challenge. Ah my friends, when that vision occurred to me, of warring mankind at one stroke united, and united forever, I stood trembling and speechless. I—”
 
 Even on Mars, emotion choked him.
 
-“Very interesting,” thought the Senior Coleopteroid flandly, “but wouldn’t the method you propose be a con-adiction of that higher morality to which I can perceive sou subscribe?”
+“Very interesting,” thought the Senior Coleopteroid blandly, “but wouldn’t the method you propose be a contradiction of that higher morality to which I can perceive you subscribe?”
 
-The pacifist bowed his head. “My friend, you are quite iight—in the large and ultimate sense. And let me assure ,ou”—the fire crept back into his hoarse voice—“that vhen that day comes, when the question of interplanetary Nations arises, I will be in the vanguard of the interspecie-ots, demanding full equality for coleopteroid and man [.like. But”—his feverish eyes peered up again through the lair that had once more fallen across his forehead—“that s a matter for the future. The immediate question is: How ;o stop war on Earth. As I said before, your invasion need inly be a token one, and of course the more bloodless, the 'Tetter. It would only take one taste of an outside menace, >ne convicing proof that he has equals and even superiors ;n the cosmos, to restore man’s normalcy of outlook, to weld him into a mutually-protective brotherhood, to establish peace forever!”
+The pacifist bowed his head. “My friend, you are quite right—in the large and ultimate sense. And let me assure you”—the fire crept back into his hoarse voice—“that when that day comes, when the question of interplanetary relations arises, I will be in the vanguard of the interspecieists, demanding full equality for coleopteroid and man alike. But”—his feverish eyes peered up again through the hair that had once more fallen across his forehead—“that is a matter for the future. The immediate question is: How to stop war on Earth. As I said before, your invasion need only be a token one, and of course the more bloodless, the better. It would only take one taste of an outside menace, one convincing proof that he has equals and even superiors in the cosmos, to restore man’s normalcy of outlook, to weld him into a mutually-protective brotherhood, to establish peace forever!”
 
-He threw his hands wide and his head back. His hair , flipped into its proper place, but his tie popped out again, t “Mr. Whitlow,” thought the Chief, with a cold sardonic ■ merriment, “if you have any notion that we are going to in- I vade another planet for the sake of improving the psychol- ' ogy of its inhabitants, disabuse yourself of it at once. I Earthlings mean nothing to us. Their rise is such a recent £ matter that we hardly had taken note of it until you called il it to our attention. Let them go on warring, if they want to. t Let them kill themselves off. It is no concern of ours.” t Whitlow blinked. “Why—” he started angrily. Then he caught himself. “But I wasn’t asking you to do it for hu- it manitarian reasons. I pointed out that there would be l loot—”
+He threw his hands wide and his head back. His hair flipped into its proper place, but his tie popped out again.
+
+“Mr. Whitlow,” thought the Chief, with a cold sardonic merriment, “if you have any notion that we are going to invade another planet for the sake of improving the psychology of its inhabitants, disabuse yourself of it at once. Earthlings mean nothing to us. Their rise is such a recent matter that we hardly had taken note of it until you called it to our attention. Let them go on warring, if they want to. Let them kill themselves off. It is no concern of ours.”
+
+Whitlow blinked. “Why—” he started angrily. Then he caught himself. “But I wasn’t asking you to do it for humanitarian reasons. I pointed out that there would be loot—”
 
 “I very much doubt if your Earthlings have anything that would tempt us.”
 
-Whitlow almost backed off his boulder. He started to splutter something, but again abruptly changed his tack. There was a flicker of shrewdness in his expression. “Is it possible you’re holding back because you’re afraid the Venusian molluscoids will attack you if you violate the perpetual truce by making a foray against another planet?” “By no means,” thought the Chief harshly, revealing for the first time a certain haughtiness and racial pride bred of dry eons of tradition. “As I told you before, the molluscoids are a distinctly inferior race. Mere waterlings. We have seen nothing of them for ages. For all we know I they’ve died out. Certainly we wouldn’t be bound by any outworn agreements with them, if there were a sound and profitable reason for breaking them. And we are in no sense—no sense whatever—afraid of them.”
+Whitlow almost backed off his boulder. He started to splutter something, but again abruptly changed his tack. There was a flicker of shrewdness in his expression. “Is it possible you’re holding back because you’re afraid the Venusian molluscoids will attack you if you violate the perpetual truce by making a foray against another planet?”
+
+“By no means,” thought the Chief harshly, revealing for the first time a certain haughtiness and racial pride bred of dry eons of tradition. “As I told you before, the molluscoids are a distinctly inferior race. Mere waterlings. We have seen nothing of them for ages. For all we know they’ve died out. Certainly we wouldn’t be bound by any outworn agreements with them, if there were a sound and profitable reason for breaking them. And we are in no sense—no sense whatever—afraid of them.”
 
 Whitlow’s thoughts fumbled confusedly, his spatulate-fingered hands making unconsciously appropriate gestures. Driven back to his former argument, he faltered lamely. “But surely then there must be some loot that would make it worth your while to invade Earth. After all, Earth is a planet rich in oxygen and water and minerals and life forms, whereas Mars has to contend with a dearth of all these things.”
 
-“Precisely,” thought the Chief. “And we have developed!
+“Precisely,” thought the Chief. “And we have developed a style of life that fits in perfectly with that dearth. By harvesting the interplanetary dust in the neighborhood of Mars, and by a judicious use of transmutation and other techniques, we are assured of a sufficient supply of all necessary raw materials. Earth’s bloated abundance would be an embarrassment to us, upsetting our system. An increased oxygen supply would force us to learn a new rhythm of breathing to avoid oxygen-drowning, besides making any invasion of Earth uncomfortable and dangerous. Similar hazards might attend an oversupply of other elements and compounds. And as for Earth’s obnoxiously teeming life forms, none of them would be any use to us on Mars—except for the unlucky chance of one of them finding harborage in our bodies and starting an epidemic.”
 
-a style of life that fits in perfectly with that dearth. By harvesting the interplanetary dust in the neighborhood of Mars, and by a judicious use of transmutation and other techniques, we are assured of a sufficient supply of all necessary raw materials. Earth’s bloated abundance would be an embarrassment to us, upsetting our system. An increased oxygen supply would force us to learn a new rhythm of breathing to avoid oxygen-drowning, besides making any invasion of Earth uncomfortable and dangerous. Similar hazards might attend an oversupply of other elements and compounds. And as for Earth’s obnoxiously teeming life forms, none of them would be any use to us on Mars—except for the unlucky chance of one of them finding harborage in our bodies and starting an epidemic.”
+Whitlow winced. Whether he knew it or not, his planetary vanity had been touched. “But you’re overlooking the most important things,” he argued, “the products of man’s industry and ingenuity. He has changed the face of his planet much more fully than you have yours. He has covered it with roads. He does not huddle savagely in the open as you do. He has built vast cities. He has constructed all manner of vehicles. Surely among such a wealth of things you would find many to covet.”
 
-Whitlow winced. Whether he knew it or not, his planetary vanity had been touched. “But you’re overlooking the most important things,” he argued, “the products of man’s industry and ingenuity. He has changed the face of his planet much more fully than you have yours. He has covered it with roads. He does not huddle savagely in the open as you do. He has built vast cities. He has constructed all manner of vehicles. Surely among such a wealth of things you would find many to covet”
-
-“Most unlikely,” retorted the Chief. “I cannot see envisaged in your mind any that would awaken even our passing interest. We are adapted to our environment. We have no need of garments and housing and all the other artificialties which your ill-adjusted Earthlings require. Our mastery of our planet is greater than yours, but we do not advertise it so obtrusively. From your picture I can see that your Earthlings are given to a worship of bigness and a crude type of exhibitionism.”
+“Most unlikely,” retorted the Chief. “I cannot see envisaged in your mind any that would awaken even our passing interest. We are adapted to our environment. We have no need of garments and housing and all the other artificialities which your ill-adjusted Earthlings require. Our mastery of our planet is greater than yours, but we do not advertise it so obtrusively. From your picture I can see that your Earthlings are given to a worship of bigness and a crude type of exhibitionism.”
 
 “But then there are our machines,” Whitlow insisted, seething inwardly, plucking at his collar. “Machines of tremendous complexity, for every purpose. Machines that would be as useful to another species as to us.”
 
@@ -1068,47 +1142,44 @@ Whitlow winced. Whether he knew it or not, his planetary vanity had been touched
 
 He shot a swift question to the Senior. “Is his anger making his mind any more vulnerable?”
 
-“Not yet”
+“Not yet.”
 
-Whitlow made one last effort, with great difficulty holding his indignation in check. “Besides all that, there’s our art. Cultural treasures of incalculable value. The work of a species more richly creative than your own. Books, music, i paintings, sculpture. Surely—”
+Whitlow made one last effort, with great difficulty holding his indignation in check. “Besides all that, there’s our art. Cultural treasures of incalculable value. The work of a species more richly creative than your own. Books, music, paintings, sculpture. Surely—”
 
-“Mr. Whitlow, you are becoming ridiculous,” said the ! Chief. “Art is meaningless apart from its cultural environ- t ment. What interest could we be expected to take in the I fumbling self-expression of an immature species? More- r over, none of the art forms you mention would be adapted ) to our style of perception, save sculpture—and in that field k our efforts are incomparably superior, since we have a di- t rect consciousness of solidity. Your mind is only a shadow-mind, limited to flimsy two-dimensional patterns.”
+“Mr. Whitlow, you are becoming ridiculous,” said the Chief. “Art is meaningless apart from its cultural environment. What interest could we be expected to take in the fumbling self-expression of an immature species? Moreover, none of the art forms you mention would be adapted to our style of perception, save sculpture—and in that field our efforts are incomparably superior, since we have a direct consciousness of solidity. Your mind is only a shadow-mind, limited to flimsy two-dimensional patterns.”
 
-Whitlow drew himself up and folded his arms across his chest. “Very well!” he grated out. “I see I cannot persuade you. But”—he shook his finger at the Chief—“let me tell you something! You’re contemptuous of man. You call him crude and childish. You pour scorn on his industry, his science, his art. You refuse to help him in his need. You think you can afford to disregard him. All right. Go ahead. That’s my advice to you. Go ahead—and see what happens!” A vindictive light grew in his eyes. “I know my fellow man. From years of study I know him. War has made him a tyrant and exploiter. He has enslaved the beasts of field and forest. He has enslaved his own kind, when he could, and when he couldn’t he has bound them ! with the subtler chains of economic necessity and the awe of prestige. He’s wrong-headed, brutal, a tool of his baser impulses—and also he’s clever, doggedly persistent, driven by a boundless ambition! He already has atomic power and rocket transport. In a few decades he’ll have spaceships and subatomic weapons. Go ahead and wait! Constant warfare will cause him to develop those weapons to undreamed of heights of efficient destructiveness. Wait for that too! Wait until he arrives on Mars in force. Wait until he makes your acquaintance and realizes what marvelous
+Whitlow drew himself up and folded his arms across his chest. “Very well!” he grated out. “I see I cannot persuade you. But”—he shook his finger at the Chief—“let me tell you something! You’re contemptuous of man. You call him crude and childish. You pour scorn on his industry, his science, his art. You refuse to help him in his need. You think you can afford to disregard him. All right. Go ahead. That’s my advice to you. Go ahead—and see what happens!” A vindictive light grew in his eyes. “I know my fellow man. From years of study I know him. War has made him a tyrant and exploiter. He has enslaved the beasts of field and forest. He has enslaved his own kind, when he could, and when he couldn’t he has bound them with the subtler chains of economic necessity and the awe of prestige. He’s wrong-headed, brutal, a tool of his baser impulses—and also he’s clever, doggedly persistent, driven by a boundless ambition! He already has atomic power and rocket transport. In a few decades he’ll have spaceships and subatomic weapons. Go ahead and wait! Constant warfare will cause him to develop those weapons to undreamed of heights of efficient destructiveness. Wait for that too! Wait until he arrives on Mars in force. Wait until he makes your acquaintance and realizes what marvelous workers you’d be with your armored adaptability to all sorts of environments. Wait until he picks a quarrel with you and defeats you and enslaves you and ships you off, packed in evil-smelling hulls, to labor in Earth’s mines and on her ocean bottoms, in her stratosphere and on the planetoids that man will be desirous of exploiting. Yes, go ahead and wait!”
 
-workers you’d be with your armored adaptability to all sorts of environments. Wait until he picks a quarrel with you and defeats you and enslaves you and ships you off, packed in evil-smelling hulls, to labor in Earth’s mines and on her ocean bottoms, in her stratosphere and on the planetoids that man will be desirous of exploiting. Yes, go ahead and wait!”
-
+.space
 Whitlow broke off, his chest heaving. For a moment he was conscious only of his vicious satisfaction at having told off these exasperating beetle-creatures. Then he looked around.
 
-The coleopteroids had drawn in. The forms of the foremost were defined with a hatefully spiderish distinctness, almost invading his sphere of light Similarly their thoughts had drawn in, to form a menacing wall blacker than the encircling Martian night. Gone were the supercilious amusement and dispassionate withdrawal that had so irked him. Incredulously he realized that he had somehow broken through their armor and touched them on a vulnerable spot.
+The coleopteroids had drawn in. The forms of the foremost were defined with a hatefully spiderish distinctness, almost invading his sphere of light. Similarly their thoughts had drawn in, to form a menacing wall blacker than the encircling Martian night. Gone were the supercilious amusement and dispassionate withdrawal that had so irked him. Incredulously he realized that he had somehow broken through their armor and touched them on a vulnerable spot.
 
 He caught one rapid thought, from the Senior to the Chief: “And if the rest of them are anything like this one, they’ll behave just as he says. It is an added confirmation.”
 
 He looked slowly around, his hair-curtained forehead bent forward, searching for a clue to the coleopteroids’ sudden change in attitude. His baffled gaze ended on the Chief.
 
-“We’ve changed our minds, Mr. Whitlow,” the Chief volunteered grimly. “I told you at the beginning that we never hesitate about undertaking projects when given a sound and sufficient reason. What your silly arguments about humanitarianism and loot failed to provide, your recent outbrust has furnished us. It is as you say. The Earthlings will eventually attack us, and with some hope of success, if we wait. So, logically we must take preventive action, the sooner the better. We will reconnoiter Earth, and if conditions there are as you assert, we will invade her.”
+“We’ve changed our minds, Mr. Whitlow,” the Chief volunteered grimly. “I told you at the beginning that we never hesitate about undertaking projects when given a sound and sufficient reason. What your silly arguments about humanitarianism and loot failed to provide, your recent outburst has furnished us. It is as you say. The Earthlings will eventually attack us, and with some hope of success, if we wait. So, logically we must take preventive action, the sooner the better. We will reconnoiter Earth, and if conditions there are as you assert, we will invade her.”
 
-From the depths of a confused despondency Whitlow was in an instant catapulted to the heights of feverish joy.
-
-His fanatical face beamed. His lanky frame seemed to expand. His hair flipped back.
+From the depths of a confused despondency Whitlow was in an instant catapulted to the heights of feverish joy. His fanatical face beamed. His lanky frame seemed to expand. His hair flipped back.
 
 “Marvelous!” he chortled, and then rattled on excitedly, “Of course, I’ll do everything I can to help. I’ll provide transport—”
 
-“That will not be necessary,” the Chief interrupted flatly. “We have no more trust in your larger powers than you have yourself. We have our own spaceships, quite adequate to any undertaking. We do not make an ostentatious display of them, any more than we make a display of the other mechanical aspects of our culture. We do not use them, as your Earthlings would, to go purposely skittering about Nevertheless, we have them, stored away in the event of need.”
+“That will not be necessary,” the Chief interrupted flatly. “We have no more trust in your larger powers than you have yourself. We have our own spaceships, quite adequate to any undertaking. We do not make an ostentatious display of them, any more than we make a display of the other mechanical aspects of our culture. We do not use them, as your Earthlings would, to go purposely skittering about. Nevertheless, we have them, stored away in the event of need.”
 
-But not even this contempuous rebuff could spoil Whitlow’s exultation. His face was radiant. Half-formed tears made him blink his hectic eyes. His Adam’s apple bobbed chokingly.
+But not even this contemptuous rebuff could spoil Whitlow’s exultation. His face was radiant. Half-formed tears made him blink his hectic eyes. His Adam’s apple bobbed chokingly.
 
 “Ah my friends . . . my good, good friends! If only I could express to you . . . what this moment means to me! If I could only tell you how happy I am when I envisage the greater moment that is coming! When men will look up from their trenches and foxholes, from their bombers and fighters, from their observation posts and headquarters, from their factories and homes, to see this new menace in the skies. When all their petty differences of opinion will drop away from them like a soiled and tattered garment. When they will cut the barbed-wire entanglements of an illusory hate, and join together, hand in hand, true brothers at last, to meet the common foe. When, in the accomplishment of a common task, they will at last achieve perfect and enduring peace!”
 
 He paused for breath. His glazed eyes were lovingly fixed on the blue star of Earth, now just topping the horizon.
 
-“Yes,” faintly came the Chiefs dry thought. “To one of your emotional temperament, it will probably be a very satisfying and touching scene—for a little while.”
+“Yes,” faintly came the Chief’s dry thought. “To one of your emotional temperament, it will probably be a very satisfying and touching scene—for a little while.”
 
-Whitlow glanced down blankly. It was as if the Chiefs last thought had lightly scratched him—a feathery flick from a huge poisoned claw. He did not understand it, but he was conscious of up welling fear.
+Whitlow glanced down blankly. It was as if the Chief’s last thought had lightly scratched him—a feathery flick from a huge poisoned claw. He did not understand it, but he was conscious of upwelling fear.
 
-“What—” he faltered. “What. . . do you mean?”
+“What—” he faltered. “What . . . do you mean?”
 
-“I mean,” thought the Chief, “that in our invasion of Earth it probably won’t be necessary for us to use the di-vide-and-rule tactics that would normally be indicated in such a case—you know, joining with one faction on Earth to help defeat the other—warring beings never care who their allies are—and then fomenting further disunities, and so on. No, with our superiority in armament, we can probably do a straight cleanup job and avoid bothersome machinations. So you’ll probably have that glimpse of Earthlings united that you set so much store by.”
+“I mean,” thought the Chief, “that in our invasion of Earth it probably won’t be necessary for us to use the divide-and-rule tactics that would normally be indicated in such a case—you know, joining with one faction on Earth to help defeat the other—warring beings never care who their allies are—and then fomenting further disunities, and so on. No, with our superiority in armament, we can probably do a straight cleanup job and avoid bothersome machinations. So you’ll probably have that glimpse of Earthlings united that you set so much store by.”
 
 Whitlow stared at him from a face white with dawning horror. He licked his lips. “What did you mean by—‘for a little while’?” he whispered huskily. “What did you mean by ‘glimpse’?”
 
@@ -1116,55 +1187,59 @@ Whitlow stared at him from a face white with dawning horror. He licked his lips.
 
 Whitlow goggled at the Chief blankly, like a dirty and somewhat yellowed plaster statue of himself. He opened his mouth—and shut it without saying anything.
 
-“You never believed, did you, Mr. Whitlow,” continued the Chief kindly, “that we’d do anything for your sake? Or for anyone’s—except us coleopteroids?”
+“You never believed, did you, Mr. Whitlow,” continued the Chief kindly, “that we’d ever do anything for your sake? Or for anyone’s—except us coleopteroids?”
 
 Whitlow stared at the horrible, black, eight-legged eggs crowding ever closer—living embodiments of the poisonous blackness of their planet.
 
-All he could think to mumble was: “But . . . but I
+All he could think to mumble was: “But . . . but I thought you said . . . it was a misconception to think of alien beings as evil monsters intent only on ravaging . . . and destroying—”
 
-thought you said . . . it was a misconception to think of alien beings as evil monsters intent only on ravaging . . .. and destroying—”
+“Perhaps I did, Mr. Whitlow. Perhaps I did,” was the Chief’s only reply.
 
-“Perhaps I did, Mr. Whitlow. Perhaps I did,” was the Chiefs only reply.
+In that instant Mr. Whitlow realized what an alien being really was.
 
-In that instant Mr. Whitlow realized what an alien being : really was.
+As in a suffocating nightmare, he watched the coleopteroids edge closer. He heard the Chief’s contemptuously unguarded aside to the Senior, “Haven’t you got hold of his mind yet?” and the Senior’s “No,” and the Chief’s swift order to the others.
 
-As in a suffocating nightmare, he watched the coleopter- : oids edge closer. He heard the Chiefs contemptuously un- 5 guarded aside to the Senior, “Haven’t you got hold of his mind yet?” and the Senoir’s “No,” and the Chiefs swift order to the others.
+Black eggs invaded his lightsphere, cruel armored claws opening to grab—those were Mr. Whitlow’s last impressions of Mars.
 
-Black eggs invaded his lightsphere, cruel armoured claws opening to grab—those were Mr. Whitlow’s last impressions of Mars.
-
-Instants later—for the device provided him with instantaneous transportation across any spatial expanse—Mr. Whitlow found himself inside a bubble that miraculously maintained normal atmospheric pressure deep under the tideless Venusian seas. The reverse of a fish in a tank, he peered out at the gently waving luminescent vegetation and the huge mud-girt buildings it half masked. Gleaming ships and tentacled creatures darted about
+.space
+Instants later—for the device provided him with instantaneous transportation across any spatial expanse—Mr. Whitlow found himself inside a bubble that miraculously maintained normal atmospheric pressure deep under the tideless Venusian seas. The reverse of a fish in a tank, he peered out at the gently waving luminescent vegetation and the huge mud-girt buildings it half masked. Gleaming ships and tentacled creatures darted about.
 
 The Chief Molluscoid regarded the trespasser on his private gardens with a haughty disfavor that even surprise could not shake.
 
 “What are you?” he thought coldly.
 
-“I. . . I’ve come to inform you of a threatened breach in an agelong truce.”
+“I . . . I’ve come to inform you of a threatened breach in an agelong truce.”
 
 Five eyes on longish stalks regarded him with a coldness equal to that of the repeated thought: “But what are you?”
 
 A sudden surge of woeful honesty compelled Mr. Whitlow to reply, “I suppose . . . I suppose you’d call me a warmonger.”
 
-The Man Who Never Grew Young
+---
 
-Maot is becoming restless. Often toward evening she trudges to where the black earth meets the yellow sand and stands looking across the desert until the winds start.
+the_man_who_never_grew_young
+
+# The Man Who Never Grew Young
+
+.fl
+<span class="smallcaps">Maot is becoming</span> restless. Often toward evening she trudges to where the black earth meets the yellow sand and stands looking across the desert until the wind starts.
 
 But I sit with my back to the reed screen and watch the Nile.
 
-It isn’t just that she’s growing young. She is wearying of the fields. She leaves their tilling to me and lavishes her attentions on the flock. Everyday she takes the sheep and goats farther to pasture.
+It isn’t just that she’s growing young. She is wearying of the fields. She leaves their tilling to me and lavishes her attentions on the flock. Every day she takes the sheep and goats farther to pasture.
 
-I have seen it coming for a long time. For generations the fields have been growing scantier and less diligently irrigated. There seems to be more rain. The houses have become simpler—mere walled tents. And every year some family gathers its flocks and wanders off west
+I have seen it coming for a long time. For generations the fields have been growing scantier and less diligently irrigated. There seems to be more rain. The houses have become simpler—mere walled tents. And every year some family gathers its flocks and wanders off west.
 
 Why should I cling so tenaciously to these poor relics of civilization—I, who have seen king Cheops’ men take down the Great Pyramid block by block and return it to the hills?
 
 I often wonder why I never grow young. It is still as much a mystery to me as to the brown farmers who kneel in awe when I walk past.
 
-I envy those who grow young. I yearn for the sloughing of wisdom and responsibility, the plunge into a period of lovemaking and breathless excitement, the carefree years It before the end.
+I envy those who grow young. I yearn for the sloughing of wisdom and responsibility, the plunge into a period of lovemaking and breathless excitement, the carefree years before the end.
 
-But I remain a bearded man of thirty-odd, wearing the ) goatskin as I once wore the doublet or die toga, always on r the brink of that plunge yet never making it.
+But I remain a bearded man of thirty-odd, wearing the goatskin as I once wore the doublet or the toga, always on the brink of that plunge yet never making it.
 
-It seems to me that I have always been this way. Why, I , cannot even remember my own disinterment, and everyone 5 remembers that
+It seems to me that I have always been this way. Why, I cannot even remember my own disinterment, and everyone remembers that.
 
-Maot is subde. She does not ask for what she wants, but when she comes home at evening she sits far back from the fire and murmurs disturbing fragments of song and rubs her eyelids with green pigment to make herself desirable to ft me and tries in every way to infect me with her restiess-ness. She tempts me from the hot work at midday and points out how hardy our sheep and goat are becoming.
+Maot is subtle. She does not ask for what she wants, but when she comes home at evening she sits far back from the fire and murmurs disturbing fragments of song and rubs her eyelids with green pigment to make herself desirable to me and tries in every way to infect me with her restlessness. She tempts me from the hot work at midday and points out how hardy our sheep and goat are becoming.
 
 There are no young men among us any more. All of them start for the desert with the approach of youth, or before. Even toothless, scrawny patriarchs uncurl from their grave-holes, and hardly pausing to refresh themselves with the food and drink dug up with them, collect their flocks and wives and hobble off into the west.
 
@@ -1172,15 +1247,15 @@ I remember the first disinterment I witnessed. It was in a country of smoke and 
 
 There were two old women named Flora and Helen. It could not have been more than a few years since their own disinterments, but those I cannot remember. I think I was some sort of nephew, but I cannot be sure.
 
-They began to visit an old grave in the cemetery a half mile outside town. I remember the little bouquets of flowers they would bring back with them. Their prim, placid faces became troubled. I could see that grief was entereing their lives.
+They began to visit an old grave in the cemetery a half mile outside town. I remember the little bouquets of flowers they would bring back with them. Their prim, placid faces became troubled. I could see that grief was entering their lives.
 
-The years passed. Their visits to the cemetery became more frequent. Accompanying them once, I noted that the worn inscription on the headstone was growing clearer and sharper, just as was happening to their own features. “John, loving husband of Flora. . .
+The years passed. Their visits to the cemetery became more frequent. Accompanying them once, I noted that the worn inscription on the headstone was growing clearer and sharper, just as was happening to their own features. “John, loving husband of Flora. . . .”
 
 Often Flora would sob through half the night, and Helen went about with a set look on her face. Relatives came and spoke comforting words, but these seemed only to intensify their grief.
 
 Finally the headstone grew brand-new and the grass became tender green shoots which disappeared into the raw brown earth. As if these were the signs their obscure instincts had been awaiting, Flora and Helen mastered their grief and visited the minister and the mortician and the doctor and made certain arrangements.
 
-On a cold autumn day, when the brown curled leaves were whirling up into the trees, the procession set out—the empty hearse, the dark silent automobiles. At the cemetery we found a couple of men with shovels turning away unob-strusively from the newly opened grave. Then, while Flora and Helen wept bitterly and the minister spoke solemn words, a long narrow box was lifted from the grave and carried to the hearse.
+On a cold autumn day, when the brown curled leaves were whirling up into the trees, the procession set out—the empty hearse, the dark silent automobiles. At the cemetery we found a couple of men with shovels turning away unobstrusively from the newly opened grave. Then, while Flora and Helen wept bitterly and the minister spoke solemn words, a long narrow box was lifted from the grave and carried to the hearse.
 
 At home the lid of the box was unscrewed and slid back, and we saw John, a waxen old man with a long life before him.
 
@@ -1190,13 +1265,14 @@ But he was very sick and in need of rest, so the doctor waved her from the room.
 
 I should have been happy too, but I seem to recall that I felt there was something unwholesome about the whole episode. Perhaps our first experiences of the great crises of life always affect us in some such fashion.
 
-I love Maot. The hundreds I have loved before her in my wandering down the world do not take away from the sincerity of my affection. I did not enter her life, or theirs, as lovers ordinarily do—from the grave or in the passion of some terrible quarrel. I am always the drifter.
+.space
+I love Maot. The hundreds I have loved before her in my wanderings down the world do not take away from the sincerity of my affection. I did not enter her life, or theirs, as lovers ordinarily do—from the grave or in the passion of some terrible quarrel. I am always the drifter.
 
 Maot knows there is something strange about me. But she does not let that interfere with her efforts to make me do the thing she wants.
 
 I love Maot and eventually I will accede to her desire. But first I will linger a while by the Nile and the mighty pageantry conjured up by its passage.
 
-My first memories are always the most difficult and I struggle the hardest to interpret them. I have the feeling that if I could get back a little beyond them, a terrifying understanding would come to me. But I never seem able to make the necessary effort
+My first memories are always the most difficult and I struggle the hardest to interpret them. I have the feeling that if I could get back a little beyond them, a terrifying understanding would come to me. But I never seem able to make the necessary effort.
 
 They begin without antecedent in cloud and turmoil, darkness and fear. I am a citizen of a great country far away, beardless and wearing ugly confining clothing, but no different in age and appearance from today. The country is a hundred times bigger than Egypt, yet it is only one of many. All the peoples of the world are known to each other, and the world is round, not flat, and it floats in an endless immensity dotted with islands of suns, not confined under a star-speckled bowl.
 
@@ -1208,11 +1284,11 @@ But worst of all are the weapons that are only rumored.
 
 For months that seem eternities we wait on the brink of that war. We know that the mistakes have been made, the irrevocable steps taken, the last chances lost. We only await the event.
 
-It would seem that there must have been some special reason for the extremity of our hopelessness and horror. As if there had been previous worldwide wars and we had struggled back from each desperately promising ourselves that it would be the last But of any such, I can remember nothing. I and the world might well have been created under the shadow of that catastrophe, in a universal disinterment
+It would seem that there must have been some special reason for the extremity of our hopelessness and horror. As if there had been previous worldwide wars and we had struggled back from each desperately promising ourselves that it would be the last. But of any such, I can remember nothing. I and the world might well have been created under the shadow of that catastrophe, in a universal disinterment.
 
 The months wear on. Then, miraculously, unbelievably, the war begins to recede. The tension relaxes. The clouds lift. There is great activity, conferences and plans. Hopes for lasting peace ride high.
 
-This does not last In sudden holocaust, there arises an oppressor named Hitler. Odd, how that name should come back to me after these millennia. His armies fan out across the globe.
+This does not last. In sudden holocaust, there arises an oppressor named Hitler. Odd, how that name should come back to me after these millennia. His armies fan out across the globe.
 
 But their success is short-lived. They are driven back, and Hitler trails off into oblivion. In the end he is an obscure agitator, almost forgotten.
 
@@ -1224,7 +1300,7 @@ I sometimes think (I must hold on to this) that time once flowed in the opposite
 
 In that case time may turn again. We may have another chance to scale the barrier.
 
-But no. . .
+But no . . .
 
 The thought has vanished in the rippling Nile.
 
@@ -1234,7 +1310,7 @@ Maot watches beside me. But she makes no comment. She is sure of me.
 
 The cliff is bare again. Soon they will have forgotten the Nile and its disturbing ghosts of memories.
 
-All our life is a forgetting and a closing in. As die child is absorbed by its mother, so great thoughts are swallowed up in the mind of genius. At first they are everywhere. They environ us like the air. Then there is a narrowing in. Not all men know them. Then there comes one great man, and he takes them to himself, and they are a secret. There only remains the disturbing conviction that something worthy has vanished.
+All our life is a forgetting and a closing in. As the child is absorbed by its mother, so great thoughts are swallowed up in the mind of genius. At first they are everywhere. They environ us like the air. Then there is a narrowing in. Not all men know them. Then there comes one great man, and he takes them to himself, and they are a secret. There only remains the disturbing conviction that something worthy has vanished.
 
 I have seen Shakespeare unwrite the great plays. I have watched Socrates unthink the great thoughts. I have heard Jesus unsay the great words.
 
@@ -1244,6 +1320,7 @@ Then only he knows what was written there. And as he grows young, that knowledge
 
 It is the same in all we do. Our houses grow new and we dismantle them and stow the materials inconspicuously away, in mine and quarry, forest and field. Our clothes grow new and we put them off. And we grow new and forget and blindly seek a mother.
 
+.space
 All the people are gone now. Only I and Maot linger.
 
 I had not realized it would come so soon. Now that we are near the end, Nature seems to hurry.
@@ -1258,9 +1335,9 @@ We fought them in little unimportant wars that were never quite conclusive. They
 
 Yet we still considered them of such trifling importance that we found time to engage in a civil war among ourselves.
 
-The issue of this war was said. A dusky portion of our citizenry were enslaved and made to toil for us in house and field.
+The issue of this war was sad. A dusky portion of our citizenry were enslaved and made to toil for us in house and field.
 
-The Indians grew formidable. Step by step they drove us back across the wide midwestem rivers and plains, through the wooded mountains to eastward.
+The Indians grew formidable. Step by step they drove us back across the wide midwestern rivers and plains, through the wooded mountains to eastward.
 
 On the eastern coast we held for a while, chiefly by leaguing with a transoceanic island nation, to whom we surrendered our independence.
 
@@ -1268,19 +1345,19 @@ There was an enheartening occurrence. The enslaved Negroes were gathered togethe
 
 But the pressure of the Indians, sporadically aided by foreign allies, increased. City by city, town by town, settlement by settlement, we pulled up our stakes and took ship ourselves across the sea. Toward the end the Indians became strangely pacific, so that the last boatloads seemed to flee not so much in physical fear as in supernatural terror of the green silent forests that had swallowed up their homes.
 
-To the south the Aztecs took up their glass knives and flint-edged swords and drove out the. . . I think they were called Spaniards.
+To the south the Aztecs took up their glass knives and flint-edged swords and drove out the . . . I think they were called Spaniards.
 
 In another century the whole western continent was forgotten, save for dim, haunting recollections.
 
 Growing tyranny and ignorance, a constant contraction of frontiers, rebellions of the downtrodden, who in turn became oppressors—these constituted the next epoch of history.
 
-Once I thought the tide had turned. A strong and orderly people, the Romans, arose and put most of the dimin- t ished word under their sway.
+Once I thought the tide had turned. A strong and orderly people, the Romans, arose and put most of the diminished world under their sway.
 
-But this stability proved transitory. Once again the governed rose against the governors. The Romans were driven I back—from England, from Egypt, from Gaul, from Asia, jj from Greece. Rising from barren fields came Carthage to I contest successfully Rome’s preeminence. The Romans i took refuge in Rome, became unimportant, dwindled, were I lost in a maze of migrations.
+But this stability proved transitory. Once again the governed rose against the governors. The Romans were driven back—from England, from Egypt, from Gaul, from Asia, from Greece. Rising from barren fields came Carthage to contest successfully Rome’s preeminence. The Romans took refuge in Rome, became unimportant, dwindled, were lost in a maze of migrations.
 
-Their energizing thoughts flamed up for one glorious i century in Athens, then ceased to carry weight
+Their energizing thoughts flamed up for one glorious century in Athens, then ceased to carry weight.
 
-After that the decline continued at a steady pace. Never > again was I deceived into thinking the trend had changed.
+After that, the decline continued at a steady pace. Never again was I deceived into thinking the trend had changed.
 
 Except this one last time.
 
@@ -1290,8 +1367,9 @@ But the rains have come, the temples and tombs fill the scars in the cliffs, and
 
 If there is a turning point, it will not come until man is one with the beasts.
 
-And Egypt must vanish like the rest
+And Egypt must vanish like the rest.
 
+.space
 Tomorrow Maot and I set out. Our flock is gathered. Our tent is rolled.
 
 Maot is afire with youth. She is very loving.
@@ -1302,9 +1380,14 @@ Or perhaps some day I will abandon her in the desert, and her mother will find h
 
 And I will go on.
 
-The Ship Sails at Midnight
+---
 
-This is the story of a beautiful woman.
+the_ship_sails_at_midnight
+
+# The Ship Sails at Midnight
+
+.fl
+<span class="smallcaps">This is the</span> story of a beautiful woman.
 
 And of a monster.
 
@@ -1312,11 +1395,9 @@ It is also the story of four silly, selfish, culture-bound inhabitants of the pl
 
 It was an eerie, stifling August when we met Helen. The date is fixed in my mind because our little city had just had its mid-western sluggishness ruffled by a series of those scares that either give rise to oddity items in the newspapers, or else are caused by them—it’s sometimes hard to tell which. People had seen flying disks and heard noises in the sky—someone from the college geology department tried unsuccessfully to track down a meteorite. A farmer this side of the old coal pits got all excited about something “big and shapeless” that disturbed his poultry and frightened his wife, and for a couple of days men tracked around fruitlessly with shotguns—just another of those “rural monster” scares.
 
-Even the townfolk hadn’t been left out. For their imaginative enrichment they had a “Hypnotism Burglar,” an apparently mild enough chap who blinked soft lights in people’s faces and droned some siren-song outside their houses
+Even the townfolk hadn’t been left out. For their imaginative enrichment they had a “Hypnotism Burglar,” an apparently mild enough chap who blinked soft lights in people’s faces and droned some siren-song outside their houses at night. For a week high-school girls squealed twice as loud after dark, men squared their shoulders adventurously at strangers, and women peered uneasily out of their bedroom windows after turning out the lights.
 
-at night. For a week high-school girls squealed twice as loud after dark, men squared their shoulders adventurously at strangers, and women peered uneasily out of their bedroom windows after turning out the lights.
-
-Louis and Es and I had picked up Gene at the college library and wanted a bite to eat before we turned in. Although by now they had almost petered out, we were talking about our local scares—a chilly hint of the supernatural makes good conversational fare in a month too hot for any real thinking. We slouched into the one decent open- : all-night restaurant our dismal burg possesses (it wouldn’t j have that if it weren’t for the “wild” college folk) and found that Benny had a new waitress.
+Louis and Es and I had picked up Gene at the college library and wanted a bite to eat before we turned in. Although by now they had almost petered out, we were talking about our local scares—a chilly hint of the supernatural makes good conversational fare in a month too hot for any real thinking. We slouched into the one decent open-all-night restaurant our dismal burg possesses (it wouldn’t have that if it weren’t for the “wild” college folk) and found that Benny had a new waitress.
 
 She was really very beautiful, much too exotically beautiful for Benny’s. Masses of pale gold ringlets piled high on her head. An aristocratic bone structure (from Es’s greedy look I could tell she was instantly thinking sculpture). And a pair of the dreamiest, calmest eyes in the world.
 
@@ -1326,17 +1407,17 @@ Louis had asked for just a cup of black coffee.
 
 She brought him a half cantaloup also.
 
-He sat looking at it for a moment. Then he chuckled incredulously. “You know I actually wanted that,” he said. “But I didn’t know I wanted it You must have read my subconscious mind.”
+He sat looking at it for a moment. Then he chuckled incredulously. “You know, I actually wanted that,” he said. “But I didn’t know I wanted it. You must have read my subconscious mind.”
 
 “What’s that?” she asked in a low, lovely voice with intonations rather like Benny’s.
 
-Digging into his cantaloup, Louis sketched an explantion suitable for fifth-graders.
+Digging into his cantaloup, Louis sketched an explanation suitable for fifth-graders.
 
 She disregarded the explanation. “What do you use it for?” she asked.
 
 Louis, who is something of a wit, said, “I don’t use it. It uses me.”
 
-“That’s the way it should be?” she commented.
+“That the way it should be?” she commented.
 
 None of us knew the answer to that one, so since I was the Gang’s specialist in dealing with the lower orders, I remarked brilliantly, “What’s your name?”
 
@@ -1354,15 +1435,17 @@ Whereupon Gene, whose humor inclines toward the fantastic, asked, “Did you arr
 
 She glanced back at him and said, “Wise guy.”
 
-But all the same she hung around our table, filling sugar basins and what not We made our conversation especially erudite, each of us merrily spinning his favorite web of half understood intellectual jargon and half-baked private opinion. We were conscious of her presence, all right.
+But all the same she hung around our table, filling sugar basins and what not. We made our conversation especially erudite, each of us merrily spinning his favorite web of half understood intellectual jargon and half-baked private opinion. We were conscious of her presence, all right.
 
-Just as we were leaving, the thing happened. At the doorway something made us all look back. Helen was behind the counter. She was looking at us. Her eyes weren’t dreamy at all, but focused, intent, radiant She was smiling.
+Just as we were leaving, the thing happened. At the doorway something made us all look back. Helen was behind the counter. She was looking at us. Her eyes weren’t dreamy at all, but focused, intent, radiant. She was smiling.
 
-My elbow was touching Es’s naked arm—we were rather crowded in the doorway—and I felt her shiver. Then she gave a tiny jerk and I sensed that Gene, who was holding her other arm (they were more or less sweethearts), had tightened his grip on it
+My elbow was touching Es’s naked arm—we were rather crowded in the doorway—and I felt her shiver. Then she gave a tiny jerk and I sensed that Gene, who was holding her other arm (they were more or less sweethearts), had tightened his grip on it.
 
-For perhaps three seconds it stayed just like that, the four of us looking at the one of her. Then Helen shyly dropped her gaze and began to mop the counter with a rag. We were all very quiet going home.
+For perhaps three seconds it stayed just like that, the four of us looking at the one of her. Then Helen shyly dropped her gaze and began to mop the counter with a rag.
 
-Next night we went back to Benny’s again, rather earlier. Helen was still there, and quite as beautiful as we remembered her. We exchanged with her a few more of those brief, teasing remarks—her voice no longer sounded so much like Benny’s—and staged some more intellectual pyrotechnics for her benefit Just before we left, Es went up to her at the counter and talked to her privately for perhaps a minute, at the end of which Helen nodded.
+We were all very quiet going home.
+
+Next night we went back to Benny’s again, rather earlier. Helen was still there, and quite as beautiful as we remembered her. We exchanged with her a few more of those brief, teasing remarks—her voice no longer sounded so much like Benny’s—and staged some more intellectual pyrotechnics for her benefit. Just before we left, Es went up to her at the counter and talked to her privately for perhaps a minute, at the end of which Helen nodded.
 
 “Ask her to pose for you?” I asked Es when we got outside.
 
@@ -1372,35 +1455,32 @@ She nodded. “That girl has the most magnificent figure in the world,” she pr
 
 “And an incredibly exciting skull,” Es finished.
 
-It was characteristic of us that Es should have been the one to really break the ice with Helen. Like most intellectuals, we were rather timid, always setting up barriers i against other people. We clung to adolescence and the college, although all of us but Gene had been graduated from l it. Instead of getting out into the real world, we lived by i sponging off our parents and doing academic odd jobs for t the professors (Es had a few private students). Here in our \ home city we had status, you see. We were looked upon as t being frightfully clever and sophisticated, the local “bohe- 5 mian set” (though Lord knows we were anything but that). ( Whereas out in the real world we’d have been greenhorns.
+It was characteristic of us that Es should have been the one to really break the ice with Helen. Like most intellectuals, we were rather timid, always setting up barriers against other people. We clung to adolescence and the college, although all of us but Gene had been graduated from it. Instead of getting out into the real world, we lived by sponging off our parents and doing academic odd jobs for the professors (Es had a few private students). Here in our home city we had status, you see. We were looked upon as being frightfully clever and sophisticated, the local “bohemian set” (though Lord knows we were anything but that). Whereas out in the real world we’d have been greenhorns.
 
-We were scared of the world, you see. Scared that it would find out that all our vaunted abilities and projects didn’t amount to much—and that as for solid achievements, there just hadn’t been any. Es was only a mediocre artist; she was afraid to learn from the great, especially the living great, for fear her own affected little individuality would be engulfed. Louis was no philosopher; he merely cultivated a series of intellectual enthusiasms, living in a state of feverish private—and fruitless—excitement over the thoughts of other men. My own defense against reality consisted of knowingness and a cynical attitude; I had a remarkable packrat accumulation of information; I had a line on everything—and also always knew why it wasn’t worth bothering with. As for Gene, he was the best of us and also the worst. A bit younger, he still applied himself to his studies, and showed promise in nuclear physics and math. But something, perhaps his small size and puritanical farm background, had made him moody and contrary, and given him an inclination toward physical violence that threatened some day to get him into real trouble. As it was, he’d had ! his license taken away for reckless driving. And several ! times we’d had to intervene—once unsuccessfully—to keep him from getting beaten up in bars.
+.space
+We were scared of the world, you see. Scared that it would find out that all our vaunted abilities and projects didn’t amount to much—and that as for solid achievements, there just hadn’t been any. Es was only a mediocre artist; she was afraid to learn from the great, especially the living great, for fear her own affected little individuality would be engulfed. Louis was no philosopher; he merely cultivated a series of intellectual enthusiasms, living in a state of feverish private—and fruitless—excitement over the thoughts of other men. My own defense against reality consisted of knowingness and a cynical attitude; I had a remarkable packrat accumulation of information; I had a line on everything—and also always knew why it wasn’t worth bothering with. As for Gene, he was the best of us and also the worst. A bit younger, he still applied himself to his studies, and showed promise in nuclear physics and math. But something, perhaps his small size and puritanical farm background, had made him moody and contrary, and given him an inclination toward physical violence that threatened some day to get him into real trouble. As it was, he’d had his license taken away for reckless driving. And several times we’d had to intervene—once unsuccessfully—to keep him from getting beaten up in bars.
 
 We talked a great deal about our “work.” Actually we spent much more time reading magazines and detective stories, lazing around, getting drunk, and conducting our endless intellectual palavers.
 
-If we had one real virtue, it was our loyalty to each other, though it wouldn’t take a cynic to point out that we desperately needed each other for an audience. Still, there, was some genuine feeling there.
+If we had one real virtue, it was our loyalty to each other, though it wouldn’t take a cynic to point out that we desperately needed each other for an audience. Still, there was some genuine feeling there.
 
 In short, like many people on a planet where mind is wakening and has barely become aware of the eon-old fetters and blindfolds oppressing it, and has had just the faintest glimpse of its tremendous possible future destiny, we were badly cowed—frightened, frustrated, self-centered, slothful, vain, pretentious.
 
 Considering how set we were getting in those attitudes, it is all the more amazing that Helen had the tremendous effect on us that she did. For within a month of meeting her, our attitude toward the whole world had sweetened, we had become genuinely interested in people instead of being frightened of them, and we were beginning to do real creative work. An astonishing achievement for an unknown little waitress!
 
-It wasn’t that she took us in hand or set us an example, or anything like that Quite the opposite. I don’t think that Helen was responsible for a half dozen positive statements (and only one really impulsive act) during the whole time we knew her. Rather, she was like a Great Books discussion leader, who never voices an opinion of his own, but only leads other people to voice theirs—playing the part of an intellectual midwife.
+It wasn’t that she took us in hand or set us an example, or anything like that. Quite the opposite. I don’t think that Helen was responsible for a half dozen positive statements (and only one really impulsive act) during the whole time we knew her. Rather, she was like a Great Books discussion leader, who never voices an opinion of his own, but only leads other people to voice theirs—playing the part of an intellectual midwife.
 
-Louis and Gene and I would drop over to Es’s, say, and find Helen getting dressed behind the screen or taking a cup of tea after a session of posing. We’d start a discussion and for a while Helen would listen dreamily, just another shadow in the high old shadowy room. But then those startling little questions of hers would begin to come, each one opening a new vista of thought. By the time the discussion was finished—which might be at the Blue Moon bar or under the campus maples or watching the water ripple in the old coal pits—we’d have got somewhere. Instead of ending
+Louis and Gene and I would drop over to Es’s, say, and find Helen getting dressed behind the screen or taking a cup of tea after a session of posing. We’d start a discussion and for a while Helen would listen dreamily, just another shadow in the high old shadowy room. But then those startling little questions of hers would begin to come, each one opening a new vista of thought. By the time the discussion was finished—which might be at the Blue Moon bar or under the campus maples or watching the water ripple in the old coal pits—we’d have got somewhere. Instead of ending in weary shoulder-shrugging or cynical grousing at the world or getting drunk out of sheer frustration, we’d finish up with a plan—some facts to check, something to write or shape or try.
 
-in weary shoulder-shrugging or cynical grousing at the i world or getting drunk out of sheer frustration, we’d finish i up with a plan—some facts to check, something to write or shape or try.
-
-And then, people! How would we ever have got close to people without Helen? Without Helen, Old Gus would j have stayed an ancient and bleary-eyed dishwasher at Benny’s. But with Helen, Gus became for us what he really 1 was—a figure of romance who had sailed the Seven Seas, i who had hunted for gold on the Orinoco with twenty fe- I male Indians for porters (because the males were too lazy : and proud to hire out to do anything) and who had > marched at the head of his Amazon band carrying a newborn baby of one of the women in his generous arms (because the women assured him that a man-child was the only burden a man might carry without dishonor).
+And then, people! How would we ever have got close to people without Helen? Without Helen, Old Gus would have stayed an ancient and bleary-eyed dishwasher at Benny’s. But with Helen, Gus became for us what he really was—a figure of romance who had sailed the Seven Seas, who had hunted for gold on the Orinoco with twenty female Indians for porters (because the males were too lazy and proud to hire out to do anything) and who had marched at the head of his Amazon band carrying a newborn baby of one of the women in his generous arms (because the women assured him that a man-child was the only burden a man might carry without dishonor).
 
 Even Gene was softened in his attitudes. I remember once when two handsome truckdrivers tried to pick up Helen at the Blue Moon. Instantly Gene’s jaw muscles bulged and his eyes went blank and he began to wag his right shoulder—and I got ready for a scene. But Helen said a word here and there, threw in a soft laugh, and began to ask the truckdrivers her questions. In ten minutes we were all at ease and the four of us found out things we’d never dreamed about dark highways and diesels and their proud, dark-souled pilots (so like Gene in their temperaments).
 
-But it was on us as individuals that Helen’s influence showed up the biggest. Es’s sculptures acquired an altogether new scope. She dropped her pet mannerisms without a tear and began to take into her work whatever was sound and good. She rapidly developed a style that was classicial and yet had in it something that was wholly of the future. Es is getting recognition now and her work is still good, but there was a magic about her “Helenic Period” which she can’t recapture. The magic still lives in the pieces she did at that time—particularly in a nude of Helen that has all the serenity and purpose of the best ancient Egyptian work, and something much more. As we watched that piece take form, as we watched the clay grow into Helen under Es’s hands, we dimly sensed that in some indescribable way
-
-Helen was growing into Es at the same time, and Es into Helen. It was such a beautiful, subtle relationship that even Gene couldn’t be jealous.
+But it was on us as individuals that Helen’s influence showed up the biggest. Es’s sculptures acquired an altogether new scope. She dropped her pet mannerisms without a tear and began to take into her work whatever was sound and good. She rapidly developed a style that was classical and yet had in it something that was wholly of the future. Es is getting recognition now and her work is still good, but there was a magic about her “Helenic Period” which she can’t recapture. The magic still lives in the pieces she did at that time—particularly in a nude of Helen that has all the serenity and purpose of the best ancient Egyptian work, and something much more. As we watched that piece take form, as we watched the clay grow into Helen under Es’s hands, we dimly sensed that in some indescribable way Helen was growing into Es at the same time, and Es into Helen. It was such a beautiful, subtle relationship that even Gene couldn’t be jealous.
 
 At the same time Louis gave over his fickle philosophical flirtations and found the field of inquiry for which he’d always been looking—a blend of semantics and introspective psychology designed to chart the chaotic inner world of human experience. Although his present intellectual tactics lack the brilliance they had when Helen was nudging his mind, he still keeps doggedly at the project, which promises to add a whole new range of words to the vocabulary of psychology and perhaps of the English language.
 
-Gene wasn’t ripe for creative work, but from being a merely promising student he became a brilliant and very industrious one, rather to the surprise of his professors. Even with the cloud that now overhung his life and darkens his reputation, he has managed to find worthwhile employment on one of the big nuclear projects.
+Gene wasn’t ripe for creative work, but from being a merely promising student he became a brilliant and very industrious one, rather to the surprise of his professors. Even with the cloud that now overhangs his life and darkens his reputation, he has managed to find worthwhile employment on one of the big nuclear projects.
 
 As for myself, I really began to write. Enough said.
 
@@ -1408,9 +1488,7 @@ We sometimes used to speculate as to the secret of Helen’s effect on us, thoug
 
 Oddly, in these discussions we never referred to that strange, electric experience we’d all had when we first met Helen—that tearing moment when we’d looked back from the doorway. We were always strangely reticent there. And none of us ever voiced the conviction that I’m sure all of us had at times: that our social and psychoanalytic theories weren’t worth a hoot when it came to explaining Helen, that she possessed powers of feeling and mind (mostly concealed) that set her utterly apart from every other inhabitant of the planet Earth, that she was like a being from another, far saner and lovelier world.
 
-That conviction isn’t unusal, come to think of it. It’s the
-
-one every man has about the girl he loves. Which brings me to my own secret explanation of Helen’s effect on me (though not on the others).
+That conviction isn’t unusual, come to think of it. It’s the one every man has about the girl he loves. Which brings me to my own secret explanation of Helen’s effect on me (though not on the others).
 
 It was simply this. I loved Helen and I knew Helen loved me. And that was quite enough.
 
@@ -1418,15 +1496,16 @@ It happened scarcely a month after we’d met. We were staging a little party at
 
 Helen must have guessed something from my expression, for she said softly, “What’s the matter, Larry?” and then, when I ignored the question, “Something about a girl?”
 
-She was so sympathetic about it that I broke down and told her the whole story, sitting in the parked and lightless car in front of Es’s. I let myself go and lived through the I whole thing again, with all its biting shame. When I was finished I looked up from the steering wheel. The streetlight made a pale aureole around Helen’s head and a paler one where the white angora sweater covered her shoulders. The upper part of her face was in darkness, but a bit of light touched her full lips and narrow, almost fenneo or fox-like chin.
+.space
+She was so sympathetic about it that I broke down and told her the whole story, sitting in the parked and lightless car in front of Es’s. I let myself go and lived through the whole thing again, with all its biting shame. When I was finished I looked up from the steering wheel. The streetlight made a pale aureole around Helen’s head and a paler one where the white angora sweater covered her shoulders. The upper part of her face was in darkness, but a bit of light touched her full lips and narrow, almost fennec- or fox-like chin.
 
-“You poor kid,” she said softly, and the next moment we were kissing each other, and a feeling of utter relief and I courage and power was budding deep inside me.
+“You poor kid,” she said softly, and the next moment we were kissing each other, and a feeling of utter relief and courage and power was budding deep inside me.
 
 A bit later she said to me something that even at the time I realized was very wise.
 
-“Let’s keep this between you and me, Larry,” she said. “Let’s not mention it to the others. Let’s not even hint” She paused, and then added, a trifle unhappily, “I’m afraid they wouldn’t appreciate it Sometimes, I hope—but not quite yet.”
+“Let’s keep this between you and me, Larry,” she said. “Let’s not mention it to the others. Let’s not even hint.” She paused, and then added, a trifle unhappily, “I’m afraid they wouldn’t appreciate it. Sometime, I hope—but not quite yet.”
 
-I knew what she meant That Gene and Louis and even Es were only human—that is, irrational—in their jealousies, and that the knowledge that Helen was my girl would have put a damper on the exciting but almost childlike relationship of the five of us. (As the fact of Es’s and Gene’s love would never have done. Es was a rather cold, awkward girl, and Louis and I seldom grudged poor, angry Gene her affection.)
+I knew what she meant. That Gene and Louis and even Es were only human—that is, irrational—in their jealousies, and that the knowledge that Helen was my girl would have put a damper on the exciting but almost childlike relationship of the five of us. (As the fact of Es’s and Gene’s love would never have done. Es was a rather cold, awkward girl, and Louis and I seldom grudged poor, angry Gene her affection.)
 
 So when Helen and I dashed in and found the others berating Benny for making Helen work overtime, we agreed that he was an unshaven and heartless louse, and in a little while the party was going strong and we were laughing and talking unconstrainedly. No one could possibly have guessed that a new and very lovely factor had been added to the situation.
 
@@ -1436,7 +1515,7 @@ I guess all my life I will be writing books about that.
 
 I could write pages describing just one of the beautiful moments we had together. I could drown myself in the bitter ghosts of sensations. Rush of sunlight through her hair. Click of her heels on a brick sidewalk. Light of her presence brightening a mean room. Chase of unearthly expressions across her sleeping face.
 
-Yet it was on my mind that Helen’s love had the greatest effect It unfettered my thoughts, gave them passage into a far vaster cosmos.
+Yet it was on my mind that Helen’s love had the greatest effect. It unfettered my thoughts, gave them passage into a far vaster cosmos.
 
 One minute I’d be beside Helen, our hands touching lightly in the dark, a shaft of moonlight from the dusty window silvering her hair. The next, my mind would be a billion miles up, hovering like an iridescent insect over the million bright worlds of existence.
 
@@ -1452,7 +1531,7 @@ My mind is hobbled once more now, but I still know the taste of the inward freed
 
 You might think from this that Helen and I had a lot of times alone together. We hadn’t—we couldn’t have, with the Gang. But we had enough. Helen was clever at arranging things. They never suspected us.
 
-Lord knows there were times I yearned to let the Gang in on our secret But then I would remember Helen’s warning and see the truth of it
+Lord knows there were times I yearned to let the Gang in on our secret. But then I would remember Helen’s warning and see the truth of it.
 
 Let’s face it. We’re all of us a pretty vain and possessive people. As individuals, we cry for attention. We jockey for admiration. We swim or sink according to whether we feel we’re being worshipped or merely liked. We demand too much of the person we love. We want them to be a never-failing prop to our ego.
 
@@ -1470,7 +1549,7 @@ Any group of people can make themselves into that sort of lens, if they really w
 
 We had Helen.
 
-Always, but mostly in unspoken thoughts, we’d come back to the mystery of how she had managed it She was mysterious, all right. We’d known her some six months now, and we were as much in the dark about her background as when we first met her. She wouldn’t tell anything even to me. She’d come from “places.” She was a “drifter.” She liked “people.” She told us all sorts of fascinating incidents, but whether she’d been mixed up in them herself or just heard them at Benny’s (she could have made a Trapp-ist jabber) was uncertain.
+Always, but mostly in unspoken thoughts, we’d come back to the mystery of how she had managed it. She was mysterious, all right. We’d known her some six months now, and we were as much in the dark about her background as when we first met her. She wouldn’t tell anything even to me. She’d come from “places.” She was a “drifter.” She liked “people.” She told us all sorts of fascinating incidents, but whether she’d been mixed up in them herself or just heard them at Benny’s (she could have made a Trappist jabber) was uncertain.
 
 We sometimes tried to get her to talk about her past. But she dodged our questions easily and we didn’t like to press them.
 
@@ -1478,7 +1557,7 @@ You don’t cross-examine Beauty.
 
 You don’t demand that a Great Books discussion leader state his convictions.
 
-You don’t probe a goddess about her past
+You don’t probe a goddess about her past.
 
 Yet this vagueness about Helen’s past caused us a certain uneasiness. She’d drifted to us. She might drift away.
 
@@ -1496,6 +1575,7 @@ Yet, when spring came round again and burgeoned into summer, she would never go 
 
 The coal pits are a place where they once strip-mined for the stuff where it came to the surface. Long ago the huge holes were left to fill with water and their edges to grow green with grass and trees. They’re swell for swimming.
 
+.space
 But Helen would never go to our favorite, which was one of the biggest and yet the least visited—and this year the water was unusually high. We changed to suit her, of course, but because the one she didn’t like happened to be near the farmhouse of last August’s “rural monster” scare, Louis joshed her.
 
 “Maybe a monster haunts the pool,” he said. “Maybe it’s a being come from another world on a flying disk.”
@@ -1524,7 +1604,7 @@ Here Helen joined in again, distant-eyed but smiling. “I know you’ve all lau
 
 That was another of Helen’s rare positive statements.
 
-The idea was engaging and we tried to get Helen to expand it, but she wouldn’t In fact, she was rather silent the rest of that day.
+The idea was engaging and we tried to get Helen to expand it, but she wouldn’t. In fact, she was rather silent the rest of that day.
 
 As the summer began to mount toward its crests of heat and growth, the mystery of Helen began to possess us more often—that, and a certain anxiety about her.
 
@@ -1542,8 +1622,9 @@ And then there was the business of the Stranger.
 
 Helen had been talking quite a bit with a strange man, not at Benny’s, but walking in the streets, which was unusual. We didn’t know who the Stranger was. We hadn’t actually seen him face to face. Just heard about him from Benny and glimpsed him once or twice. Yet he worried us.
 
-Understand, our happiness went on, yet faintly veiling it was this new and ominous mist
+Understand, our happiness went on, yet faintly veiling it was this new and ominous mist.
 
+.space
 Then one night the mist took definite shape. It happened on an occasion of celebration. After a few days during which we’d sensed they’d been quarreling, Es and Gene had suddenly announced that they were getting married. On an immediate impulse we’d all gone to the Blue Moon.
 
 We were having the third round of drinks, and kidding Es because she didn’t seem very enthusiastic, almost a bit grumpy—when he came in.
@@ -1558,19 +1639,19 @@ The Stranger stopped by our table and stood looking at Helen as if he knew her. 
 
 What got especially under my skin was the suggestion that there was some kinship between the Stranger and Helen, that behind his proud, remote-eyed face, he was talking to her with his mind.
 
-Gene apparently took the Stranger for one of those unpleasant fellows who strut around bars looking for trouble
+Gene apparently took the Stranger for one of those unpleasant fellows who strut around bars looking for trouble—and proceeded to act as if he were one of those same fellows himself. He screwed his delicate features into a cheap frown and stood up as tall as he could, which wasn’t much. Such tough-guy behavior, always a symptom of frustration and doubts of masculinity, had been foreign to Gene for some months. I felt a pulse of sadness—and almost winced when Gene opened the side of his mouth and began, “Now look here, Joe—”
 
--—and proceeded to act as if he were one of those same fellows himself. He screwed his delicate features into a cheap (frown and stood up as tall as he could, which wasn’t much. Such tough-guy behavior, always a symptom of frustration rand doubts of masculinity, had been foreign to Gene for some months. I felt a pulse of sadness—and almost winced when Gene opened the side of his mouth and began, “Now nook here, Joe—”
+But Helen laid her hand on his arm. She looked calmly at the Stranger for a few more moments and then she said, “I won’t talk to you that way. You must speak English.”
 
-But Helen laid her hand on his arm. She looked calmly :at the Stranger for a few more moments and then she said, won’t talk to you that way. You must speak English.” If the Stranger was surprised, he didn’t show it. He rsmiled and said softly, with a faint foreign accent, “The ?ship sails at midnight, Helen.”
+If the Stranger was surprised, he didn’t show it. He smiled and said softly, with a faint foreign accent, “The ship sails at midnight, Helen.”
 
-I got a queer feeling, for our city is two hundred miles “from anything you’d call navigable waters.
+I got a queer feeling, for our city is two hundred miles from anything you’d call navigable waters.
 
-For a moment I felt what you might call supernatural (fear. The bar so tawdry and dim, the line of hunched neu-rrotic shoulders, the plump dice-girl at one end and the tiny 'Writhing television screen at the other. And against that background, Helen and the Stranger, light-haired, olive-jskinned, with proud feline features, facing each other like •duelists, on guard, opposed, yet sharing some secret knowl-•edge. Like two aristocrats come to a dive to settle a quarrel —like that, and something more. As I say, it frightened rme.
+For a moment I felt what you might call supernatural fear. The bar so tawdry and dim, the line of hunched neurotic shoulders, the plump dice-girl at one end and the tiny writhing television screen at the other. And against that background, Helen and the Stranger, light-haired, olive-skinned, with proud feline features, facing each other like duelists, on guard, opposed, yet sharing some secret knowledge. Like two aristocrats come to a dive to settle a quarrel—like that, and something more. As I say, it frightened me.
 
 “Are you coming, Helen?” the Stranger asked.
 
-And now I was really frightened. It was as if I’d realized tfor the first time just how terribly much Helen meant to all •>of us, and to me especially. Not just the loss of her, but the floss of things in me that only she could call into being. I jcould see the same fear in the faces of the others. A lost Hook in Gene’s eyes behind the fake gangster frown. Louis’ (fingers relaxing from his glass and his chunky head turning itoward the Stranger, slowly, with empty gaze, like the turret-guns of a battleship. Es starting to stub out her cigarette land then hesitating, her eyes on Helen—although in Es’s .ease I felt there was another emotion besides fear.
+And now I was really frightened. It was as if I’d realized for the first time just how terribly much Helen meant to all of us, and to me especially. Not just the loss of her, but the loss of things in me that only she could call into being. I could see the same fear in the faces of the others. A lost look in Gene’s eyes behind the fake gangster frown. Louis’ fingers relaxing from his glass and his chunky head turning toward the Stranger, slowly, with empty gaze, like the turret-guns of a battleship. Es starting to stub out her cigarette and then hesitating, her eyes on Helen—although in Es’s case I felt there was another emotion besides fear.
 
 “Coming?” Helen echoed, like someone in a dream.
 
@@ -1588,19 +1669,17 @@ Again Helen laid her hand on Gene’s arm, although her glance never left the St
 
 “Yes, I have thought of all that,” Helen said, as quietly as the Stranger, but with a tremendous finality. “I won’t try to explain it to you, because with all your wisdom and cleverness I don’t think you’d quite understand. And I know I’m breaking promises—and more than promises. But I’m not going back. I’m here with my friends, my true and equal friends, and I’m not going back.”
 
-And then it came, and I could tell it came to all of us—a great big lift, like a surge of silent music or a glow of invisible light. Helen had at last declared herself. After the faint equivocations and reservations of the spring and summer, she had put herself squarely on our side. We each of us knew that what she had said she meant wholly and forever. She was ours, ours more completely than ever before. Our
+And then it came, and I could tell it came to all of us—a great big lift, like a surge of silent music or a glow of invisible light. Helen had at last declared herself. After the faint equivocations and reservations of the spring and summer, she had put herself squarely on our side. We each of us knew that what she had said she meant wholly and forever. She was ours, ours more completely than ever before. Our quasi-goddess, our inspiration, our key to a widening future; the one who always understood, who could open doors in our imaginations and feelings that would otherwise have remained forever shut. She was our Helen now, ours and (as my mind persisted in adding exultingly) especially mine.
 
-►quasi-goddess, our inspiration, our key to a widening future; the one who always understood, who could open >«doors in our imaginations and feelings that would otherwise have remained forever shut She was our Helen now, ours and (as my mind persisted in adding exultingly) especially mine.
-
-And we? We were the Gang again, happy, poised, wise as Heaven and clever as Hell, out to celebrate, having fun ' with whatever came along.
+And we? We were the Gang again, happy, poised, wise as Heaven and clever as Hell, out to celebrate, having fun with whatever came along.
 
 The whole scene had changed. The frightening aura around the Stranger had vanished completely. He was just another of those hundreds of odd people whom we met when we were with Helen.
 
-He acted almost as if he were conscious of it. He smiled and said quickly, “Very well. I had a feeling you’d decide this way.” H^ started to move off. Then, “Oh, by the way, Helen—”
+He acted almost as if he were conscious of it. He smiled and said quickly, “Very well. I had a feeling you’d decide this way.” He started to move off. Then, “Oh, by the way, Helen—”
 
 “Yes?”
 
-“The others wanted me to say goodbye to you for them.”
+“The others wanted me to say goodby to you for them.”
 
 “Tell them the same and the best of luck.”
 
@@ -1608,27 +1687,30 @@ The Stranger nodded and again started to turn away, when Helen added, “And you
 
 The Stranger looked back.
 
-“I’ll be seeing you once more before midnight,” he said lightly, and almost the next moment, it seemed, was out the ► door.
+“I’ll be seeing you once more before midnight,” he said lightly, and almost the next moment, it seemed, was out the door.
 
-We all chuckled. I don’t know why. Partly from relief, I ; suppose, and partly—God help us!—in triumph over the ■ Stranger. One thing I’m sure of: three (and maybe even four) of us felt for a moment happier and more secure in our relationship to Helen than we ever had before. It was the peak. We were together. The Stranger had been van-i quished, and all the queer unspoken threats he had brought with him. Helen had declared herself. The future stood open before us, full of creation and achievement, with Helen ready to lead us into it. For a moment everything was perfect We were mankind, vibrantly alive, triumphantly progressing.
+We all chuckled. I don’t know why. Partly from relief, I suppose, and partly—God help us!—in triumph over the Stranger. One thing I’m sure of: three (and maybe even four) of us felt for a moment happier and more secure in our relationship to Helen than we ever had before. It was the peak. We were together. The Stranger had been vanquished, and all the queer unspoken threats he had brought with him. Helen had declared herself. The future stood open before us, full of creation and achievement, with Helen ready to lead us into it. For a moment everything was perfect. We were mankind, vibrantly alive, triumphantly progressing.
 
-It was, as I say, perfect
+It was, as I say, perfect.
 
-And only human beings know how to wreck perfection. Only human beings are so vain, so greedy, each wanting everything for himself alone.
+And only human beings know how to wreck perfection.
 
-It was Gene who did it. Gene who couldn’t stand so much happiness and who had to destroy it, from what selffear, what Puritanical self-torment, what death-wish I don’t know.
+Only human beings are so vain, so greedy, each wanting everything for himself alone.
+
+It was Gene who did it. Gene who couldn’t stand so much happiness and who had to destroy it, from what self-fear, what Puritanical self-torment, what death-wish I don’t know.
 
 It was Gene, but it might have been any of us.
 
+.space
 His face was flushed. He was smiling, grinning rather, in what I now realize was an oafish and over-bearing complacency. He put his hand on Helen’s arm in a way none of us had ever touched Helen before, and said, “That was great, dear.”
 
-It wasn’t so much what he said as the naked possessiveness of the gesture. It was surely that gesture of ownership that made Es explode, that started her talking in a voice terribly bitter, but so low it was some moments before the rest of us realized what she was getting at
+It wasn’t so much what he said as the naked possessiveness of the gesture. It was surely that gesture of ownership that made Es explode, that started her talking in a voice terribly bitter, but so low it was some moments before the rest of us realized what she was getting at.
 
 When we did we were thunderstruck.
 
 She was accusing Helen of having stolen Gene’s love.
 
-It’s hard to make anyone understand the shock we felt As if someone had accused a goddess of abominations.
+It’s hard to make anyone understand the shock we felt. As if someone had accused a goddess of abominations.
 
 Es lit another cigarette with shaking fingers, and finished up.
 
@@ -1636,17 +1718,15 @@ Es lit another cigarette with shaking fingers, and finished up.
 
 And she stopped as if her emotions had choked her.
 
-As I said, the rest of us were thunderstruck. But not Gene. His face got redder still. He slugged down the rest of i his drink and looked around at us, obviously getting ready to explode in turn.
+As I said, the rest of us were thunderstruck. But not Gene. His face got redder still. He slugged down the rest of his drink and looked around at us, obviously getting ready to explode in turn.
 
 Helen had listened to Es with a half smile and an unhappy half frown, shaking her head from time to time. Now she shot Gene a warning, imploring glance, but he disregarded it.
 
-“No, Helen,” he said, “Es is right. Fm glad she spoke. It
+“No, Helen,” he said, “Es is right. I’m glad she spoke. It was a mistake for us ever to hide our feelings. It would have been a ten times worse mistake if I’d kept that crazy promise I made you to marry Es. You go too much by pity, Helen, and pity’s no use in managing an affair like this. I don’t want to hurt Es, but she’d better know right now that it’s another marriage we’re announcing tonight.”
 
-was a mistake for us ever to hide our feelings. It would nave been a ten times worse mistake if I’d kept that crazy nromise I made you to marry Es. You go too much by pity, -lelen, and pity’s no use in managing an affair like this. I don’t want to hurt Es, but she’d better know right now that fs another marriage we’re announcing tonight.”
+I sat there speechless. I just couldn’t realize that that drunken, redfaced poppinjay was claiming that Helen was his girl, his wife to be.
 
-I sat there speechless. I just couldn’t realize that that drunken, redfaced poppinjay was claiming that Helen was nis girl, his wife to be.
-
-Es didn’t look at him. “You cheap little beast,” she ■whispered.
+Es didn’t look at him. “You cheap little beast,” she whispered.
 
 Gene went white at that, but he kept on smiling.
 
@@ -1674,7 +1754,7 @@ Louis’s hand dropped away from Gene.
 
 All of us looked at Helen. A cold, terribly hurt, horribly disgusted look.
 
-Helen blushed and looked down. Only much later did I realize it was related to the look she’d given the four of us Jthat first night at Benny’s.
+Helen blushed and looked down. Only much later did I realize it was related to the look she’d given the four of us that first night at Benny’s.
 
 “. . . but I fell in love with all of you,” she said softly.
 
@@ -1686,6 +1766,7 @@ Then Helen did the only impulsive thing I ever knew her to do.
 
 She slapped Gene’s face. Once. Hard.
 
+.space
 There are only two courses a person can take when he’s been rebuked by a goddess, even a fallen goddess. He can grovel and beg forgiveness. Or he can turn apostate and devil-worshipper.
 
 Gene did the latter.
@@ -1706,11 +1787,9 @@ On the first I was loathing Helen. I was seeing that all she’d done for us, al
 
 Mostly, on that level, I was grieving for the terrible wrong I felt she’d done me.
 
-The second level was entirely different. There an icy spider had entered my mind from realms undreamt. There sheer supernatural terror reigned. For there I was adding j up all the little hints of strangeness we’d had about Helen. ' The Stranger’s words had touched it off and now a thou- : sand details began to drop into place: the coincidence of her arrival with the flying disk, rural monster, and hypno-
+The second level was entirely different. There an icy spider had entered my mind from realms undreamt. There sheer supernatural terror reigned. For there I was adding up all the little hints of strangeness we’d had about Helen. The Stranger’s words had touched it off and now a thousand details began to drop into place: the coincidence of her arrival with the flying disk, rural monster, and hypnoscare; her interest in people, like that of a student om a far land; the impression she gave of possessing concealed powers; her pains never to say anything definite, as if she were on guard against imparting some forbidden knowledge; her long hikes into the country; her aversion for the big and yet seldom-visited coal pit (big and deep enough to float a liner or hide a submarine); above all, that impression of unearthliness she’d at times given us all, even when we were not under her spell.
 
-scare; her interest in people, like that of a student om a far land; the impression she gave of possessing concealed powers; her pains never to say anything definite, as if she were on guard against imparting some forbidden knowledge; her long hikes into the country; her aversion for the big and yet seldom-visited coal pit (big and deep enough to float a liner or hide a submarine); above all, that impression of unearthliness she’d at times given us all, even when we were not under her spelL
-
-And now this matter of a ship sailing at midnight From the Great Plains.
+And now this matter of a ship sailing at midnight. From the Great Plains.
 
 What sort of ship?
 
@@ -1728,7 +1807,7 @@ I remember the clock said eleven thirty.
 
 Gene’s face was dead white, and knobby with tension.
 
-His hand was in his pocket
+His hand was in his pocket.
 
 He never looked at anyone but Helen. They might have been alone. He wavered—or trembled. Then a terrible spasm of energy stiffened him. He started toward the table.
 
@@ -1738,11 +1817,12 @@ Gene pulled a gun out of his pocket and shot Helen six times. Four times in the 
 
 She hung for a moment, then pitched forward into the blue smoke. It puffed away from her to either side and we saw her lying on her face, one of her outstretched hands touching Gene’s shoe.
 
-Then, before a woman could scream, before Gus and the other chap could jump the bar, the outside door of the Blue Moon opened and the Stranger came in. After that none of«us could have moved or spoken. We cringed from his eyes like guilty dogs.
+.space
+Then, before a woman could scream, before Gus and the other chap could jump the bar, the outside door of the Blue Moon opened and the Stranger came in. After that none of us could have moved or spoken. We cringed from his eyes like guilty dogs.
 
 It wasn’t that he looked anger at us, or hate, or even contempt. That would have been much easier to bear.
 
-No, even as the Stranger passed Gene—Gene, pistol dangling from two fingers, looking down in dumb horror, edging his toe back by terrified inches from Helen’s dead hand—even as the Stranger sent Gene a glance, it was the glance a man might give a bull that has gored a child, a pet ape that has tom up his mistress in some inscrutable and pettish animal rage.
+No, even as the Stranger passed Gene—Gene, pistol dangling from two fingers, looking down in dumb horror, edging his toe back by terrified inches from Helen’s dead hand—even as the Stranger sent Gene a glance, it was the glance a man might give a bull that has gored a child, a pet ape that has torn up his mistress in some inscrutable and pettish animal rage.
 
 And as, without a word, the Stranger picked Helen up in his arms, and carried her silently through the thinning blue smoke into the street, his face bore that same look of tragic regret, of serene acceptance.
 
@@ -1754,7 +1834,7 @@ Eventually Gene was released and, as I’ve said, is making a life for himself, 
 
 We see him now and then, and try to console him, tell him it might as easily have been Es or Louis or I, that we were all blind, selfish fools together.
 
-And we’ve each of us got back to our work. The sculptures, the word-studies, the novels, the nuclear notions are not nearly as brilliant as when Helen was with us. But we keep turning them out We tell ourselves Helen would like that.
+And we’ve each of us got back to our work. The sculptures, the word-studies, the novels, the nuclear notions are not nearly as brilliant as when Helen was with us. But we keep turning them out. We tell ourselves Helen would like that.
 
 And our minds all work now at the third level—but only by fits and starts, fighting the jungle blindness and selfishness that are closing in again. Still, at our best, we understand Helen and what Helen was trying to do, what she was trying to bring the world even if the world wasn’t ready for it. We glimpse that strange passion that made her sacrifice all the stars for four miserable blind-worms.
 
@@ -1762,65 +1842,58 @@ But mostly we grieve for Helen, together and alone. We know there won’t be ano
 
 For we know you get only one chance at someone like Helen.
 
-We know that because, half an horn after the Stranger carried Helen’s body from the Blue Moon, a great meteor went flaming and roaring across the countryside (some say up from the countryside and out toward the stars) and the next day it was discovered that the waters of the coal pit Helen wouldn’t swim in, had been splashed, as if by the downward blow of a giant’s fist, across the fields for a thousand yards.
+We know that because, half an hour after the Stranger carried Helen’s body from the Blue Moon, a great meteor went flaming and roaring across the countryside (some say up from the countryside and out toward the stars) and the next day it was discovered that the waters of the coal pit Helen wouldn’t swim in, had been splashed, as if by the downward blow of a giant’s fist, across the fields for a thousand yards.
 
-The Enchanted Forest
+---
 
-The darkness was fusty as Formalhautian Aa leaves, acrid as a Rigelian brush fire, and it still shook faintly, like one of the dancing houses of the Wild Ones. It was filled with a petulant, low humming, so like that of a wounded Earth-wasp.
+the_enchanted_forest
 
-Machinery whirred limpingly, briefly. An oval door opened in the darkness. Soft green light filtered in—and the unique scent, aromatic in this case yet with a grassy sourness, of a new planet
+# The Enchanted Forest
 
-The green was imparted to the light by the thorny boughs or creepers crisscrossing the doorway. To eyes dreary from deep sub-space the oval of interlaced, wrist-thick tendrils was a throat-lumping sight
+.fl
+<span class="smallcaps">The darkness was</span> fusty as Formalhautian Aa leaves, acrid as a Rigelian brush fire, and it still shook faintly, like one of the dancing houses of the Wild Ones. It was filled with a petulant, low humming, so like that of a wounded Earth-wasp.
+
+Machinery whirred limpingly, briefly. An oval door opened in the darkness. Soft green light filtered in—and the unique scent, aromatic in this case yet with a grassy sourness, of a new planet.
+
+The green was imparted to the light by the thorny boughs or creepers crisscrossing the doorway. To eyes dreary from deep sub-space the oval of interlaced, wrist-thick tendrils was a throat-lumping sight.
 
 A human hand moved delicately from the darkness toward the green barrier. The finger-long, translucent thorns quivered, curved back ever so slowly, then struck—a hairbreadth short, for the hand had stopped.
 
 The hand did not withdraw, but lingered just in range, caressing danger. A sharp gay laugh etched itself against the woundedly-humming dark.
 
-Have to dust those devilish little green daggers to get oul of the wreck. Elven thought. Lucky they were here though. The thorn forests cushioning-effect may have
+*Have to dust those devilish little green daggers to get oul of the wreck.* Elven thought. *Lucky they were here though. The thorn forest’s cushioning-effect may have been the straw that saved the spaceboat’s back—or at least mine.*
 
-Hie Enchanted Forest	89
-
-ibeen the straw that saved the spaceboafs back—or at least •mine.
-
-Then Elven stiffened. The humming behind him shaped itself into faint English speech altered by centuries of slur-ering, but still essentially the same.
+Then Elven stiffened. The humming behind him shaped itself into faint English speech altered by centuries of slurring, but still essentially the same.
 
 “You fly fast, Elven.”
 
-“Faster than any of your hunters,” Elven agreed softly ■without looking around, and added, “FTL—meaning Faster Than Light”
+“Faster than any of your hunters,” Elven agreed softly without looking around, and added, “FTL—meaning Faster Than Light.”
 
-“You fly far, Elven. Tens of lightyears,” the wounded ■voice continued.
+“You fly far, Elven. Tens of lightyears,” the wounded voice continued.
 
 “Scores,” Elven corrected.
 
 “Yet I speak to you, Elven.”
 
-“But you don’t know where I am. I came on a blind reach through deep sub-space. And your FTL radio can take no zfix. You are shouting at infinity, Fedris.”
+“But you don’t know where I am. I came on a blind reach through deep sub-space. And your FTL radio can take no fix. You are shouting at infinity, Fedris.”
 
-“And fly you ever so fast and far, Elven,” the wounded "voice persisted, “you must finally go to ground, and then ■we will search you out.”
+“And fly you ever so fast and far, Elven,” the wounded voice persisted, “you must finally go to ground, and then we will search you out.”
 
-Again Elven laughed gayly. His eyes were still on the [green doorway. “You will search me out! Where will you :search me out, Fedris? On which side of the million planets
+Again Elven laughed gayly. His eyes were still on the green doorway. “You will search me out! Where will you search me out, Fedris? On which side of the million planets of the sos? On which of the hundred million planets not of the sos?”
 
-•	of the sos? On which of the hundred million planets not of the sos?”
+The wounded voice grew weaker. “Your home planet is dead, Elven. Of all the Wild Ones, only you slipped through our cordon.”
 
-The wounded voice grew weaker. “Your home planet is
-
-•	dead, Elven. Of all the Wild Ones, only you slipped through our cordon.”
-
-This time Elven did not comment vocally. He felt at his throat and carefully took from a gleaming locket there a tiny white sphere no bigger than a lady beetle. Holding it treasuringly in his cupped palm, he studied it with a brooding mockery. Then, still handling it as if it were an awesome object, he replaced it in the locket
+This time Elven did not comment vocally. He felt at his throat and carefully took from a gleaming locket there a tiny white sphere no bigger than a lady beetle. Holding it treasuringly in his cupped palm, he studied it with a brooding mockery. Then, still handling it as if it were an awesome object, he replaced it in the locket.
 
 The wounded voice had sunk to a ghostly whisper.
 
 “You are alone, Elven. Alone with the mystery and terror of the universe. The unknown will find you, Elven, even before we do. Time and space and fate will all conspire against you. Chance itself will—”
 
-The spectral FTL-radio voice died as the residual power
-
-in the wrecked machinery exhausted itself utterly. Silence
-
-filled the broken gut of the spaceboat
+The spectral FTL-radio voice died as the residual power in the wrecked machinery exhausted itself utterly. Silence filled the broken gut of the spaceboat.
 
 Silence that was gayly shattered when Elven laughed a last time. Fedris the Psychologist! Fedris the Fool! Did Fedris think to sap his nerve with witch-doctor threats and the power of suggestion? As if a man—or woman—of the Wild Ones could ever be brought to believe in the supernatural!
 
-Not that there wasn’t an unearthliness loose in the universe, Elven reminded himself somberly—an unearthly beauty born of danger and ultimate self-expression. But only the Wild Ones knew that unearthliness. It could never be known to the poor tame hordes of the sos, who would always revere safety and timidity as most members of the human sos—or society—have revered them—and hate all lovers of beauty and danger.
+Not that there wasn’t an unearthliness loose in the universe, Elven reminded himself somberly—an unearthly beauty born of danger and ultimate self-expression. But only the Wild Ones knew *that* unearthliness. It could never be known to the poor tame hordes of the sos, who would always revere safety and timidity as most members of the human sos—or society—have revered them—and hate all lovers of beauty and danger.
 
 Just as they had hated the Wild Ones and so destroyed them.
 
@@ -1832,9 +1905,9 @@ A short time later he had what he needed from the wreck.
 
 “And now, Fedris,” he murmured, “I have a work of creation to perform.” He smiled. “Or should I say recreation?”
 
-He directed at the green doorway the blunt muzzle of a dustgun. There was no sound or flash, but the green boughs shook, blackened—the thorns vanishing—and turned to a drifting powder fine and dark as the ashes carpeting Earth’s Moon. Elven sprang to the doorway and for a moment he was poised there, yellow-haired, cool-lipped, laughing-eyed, handsome as a young god—or adolescent devil—in his black tunic embroidered with platinum. Then he leaned out and directed the dustgun’s ultrasonic beam downward until he had cleared a patch of ground in the thorn forest. When this moment’s work was over, he dropped lightly down, the fine dust puffing up to his knees at the impact
+He directed at the green doorway the blunt muzzle of a dustgun. There was no sound or flash, but the green boughs shook, blackened—the thorns vanishing—and turned to a drifting powder fine and dark as the ashes carpeting Earth’s Moon. Elven sprang to the doorway and for a moment he was poised there, yellow-haired, cool-lipped, laughing-eyed, handsome as a young god—or adolescent devil—in his black tunic embroidered with platinum. Then he leaned out and directed the dustgun’s ultrasonic beam downward until he had cleared a patch of ground in the thorn forest. When this moment’s work was over, he dropped lightly down, the fine dust puffing up to his knees at the impact.
 
-Elven snapped oS his dustgun, flirted sweat from his face, laughed at his growing exasperation, and looked around at the thorn forest It had not changed an iota in the miles he’d made. Just the glassy thorns and the lanceshaped leaves and the boughs rising from the bare, reddish earth. Not another planet to be seen. Nor had he caught the tiniest glimpse of moving life, large or small—save the thorns themselves, which “noticed” him whenever he came too close. As an experiment he’d let a baby one prick him and it had stung abominably.
+Elven snapped oS his dustgun, flirted sweat from his face, laughed at his growing exasperation, and looked around at the thorn forest. It had not changed an iota in the miles he’d made. Just the glassy thorns and the lance-shaped leaves and the boughs rising from the bare, reddish earth. Not another planet to be seen. Nor had he caught the tiniest glimpse of moving life, large or small—save the thorns themselves, which “noticed” him whenever he came too close. As an experiment he’d let a baby one prick him and it had stung abominably.
 
 Such an environment! What did it suggest, anyhow? Cultivation? Or a plant that permeated its environs with poison, as Earth’s redwood its woody body. He grinned at the chill that flashed along his spine.
 
@@ -1846,7 +1919,7 @@ If only he had some notion of the general location of the planet he was on, he m
 
 Or for Fedris to know where he was, he reminded himself.
 
-Or for any deep-space approach-warning system, if there were one on this planet, to have spotted his arrival. For that matter he hadn’t forseen his arrival himself. There had been just the dip up from sub-space, the sinister black confetti of the meteorite swarm, the collision, the wrecked speacboat’s desperate fall, clutching at the nearest planet.
+Or for any deep-space approach-warning system, if there were one on this planet, to have spotted his arrival. For that matter he hadn’t forseen his arrival himself. There had been just the dip up from sub-space, the sinister black confetti of the meteorite swarm, the collision, the wrecked spaceboat’s desperate fall, clutching at the nearest planet.
 
 He should be able to judge his location when night came and he could see the stars. That is, if night ever came on this planet. Or if that high fog ever dispersed.
 
@@ -1902,7 +1975,7 @@ Elven frowned. “What planet is this?”
 
 She looked at him doubtfully. “What is a planet?”
 
-Perhaps there were going to be language difficulties after all, Elven thought “What sun?” he asked.
+*Perhaps there were going to be language difficulties after all,* Elven thought “What sun?” he asked.
 
 “What is sun?”
 
@@ -1926,13 +1999,14 @@ He pointed upward impatiently. “Doesn’t that stuff ever go away?”
 
 She sprang up and fled like a doe back to the farm buildings.
 
-When Elven reached the roof from which the smoke rose, taking the leisurely pace befitting his dignity as god or overlord or whatever the girl had taken him for, the welcoming committee had already formed. Two young men bent their knees to him, and the young woman he had seen standing at the doorway held out to him a platter of orange and purple fruit The Conqueror of the Poison Needles sampled this refreshment, then waved it aside with a curt nod of approval, although he found it delicious.
+.space
+When Elven reached the roof from which the smoke rose, taking the leisurely pace befitting his dignity as god or overlord or whatever the girl had taken him for, the welcoming committee had already formed. Two young men bent their knees to him, and the young woman he had seen standing at the doorway held out to him a platter of orange and purple fruit. The Conqueror of the Poison Needles sampled this refreshment, then waved it aside with a curt nod of approval, although he found it delicious.
 
-When he entered the rude farmhouse he was met by a blushing Sefora who carried cloths and a steaming bowl. She timidly indicated his boots. He showed her the trick of the fastening and in a few moments he was sprawled on a couch of hides stuffed with aromatic leaves, while she reverently washed his feet
+When he entered the rude farmhouse he was met by a blushing Sefora who carried cloths and a steaming bowl. She timidly indicated his boots. He showed her the trick of the fastening and in a few moments he was sprawled on a couch of hides stuffed with aromatic leaves, while she reverently washed his feet.
 
-She was about twenty, he discovered talking to her idly, not worrying about important information for the moment Her life was one of farm work and rustic play. One of the young men—Alfors—had recently become her mate.
+She was about twenty, he discovered talking to her idly, not worrying about important information for the moment. Her life was one of farm work and rustic play. One of the young men—Alfors—had recently become her mate.
 
-Outside the gray sky was swiftly darkening. The other young man, whom Elven had first seen driving the cattle and who answered to the name of Kors, now brought armfuls of knotty wood, which he fed to the meager fire, so that it crackled up in rich yellows and reds. While Tulya —Kors’ girl—busied herself nearby with work that involved mouthwatering odors.
+Outside the gray sky was swiftly darkening. The other young man, whom Elven had first seen driving the cattle and who answered to the name of Kors, now brought armfuls of knotty wood, which he fed to the meager fire, so that it crackled up in rich yellows and reds. While Tulya—Kors’ girl—busied herself nearby with work that involved mouthwatering odors.
 
 The atmosphere was homey, though somewhat stiff. After all, Elven reminded himself, one doesn’t have a god to dinner every night. But after a meal of meat stew, fresh-baked bread, fruit conserves, and a thin wine, he smiled his approval and the atmosphere quickly became more celebratory, in fact quite gay. Alfors took a harp strung with gut and sang simple praises of nature, while later Sefora and Tulya danced. Kors kept the fire roaring and Elven’s wine cup full, though once he disappeared for some time, evidently to care for the animals.
 
@@ -1940,9 +2014,9 @@ Elven brightened. These rustic folk faintly resembled his own Wild Ones. They se
 
 Meanwhile, by observation and question, he was swiftly learning, though what he learned was astonishing rather than helpful. These four young people were the sole inhabitants of their community. They knew nothing of any culture other than their own.
 
-They had never seen the sun or the stars. Evidently this was a planet whose axes of rotation and of revolution around its sun were the same, so that the climate was always unvarying at each latitude, the present locality being under a cloud belt Later he might check this, he told himself, by determining if the days and nights were always of equal length.
+They had never seen the sun or the stars. Evidently this was a planet whose axes of rotation and of revolution around its sun were the same, so that the climate was always unvarying at each latitude, the present locality being under a cloud belt. Later he might check this, he told himself, by determining if the days and nights were always of equal length.
 
-Strangest of all, the two couples had never been beyond the clearing. The thorn forest, which they conceived of as extending to infinity, was a barrier beyond their power to break. Fires, they told him, sizzled out against it It swiftly dulled their sharpest axes. And they had a healthy awe of its diabolically sentient thorns.
+Strangest of all, the two couples had never been beyond the clearing. The thorn forest, which they conceived of as extending to infinity, was a barrier beyond their power to break. Fires, they told him, sizzled out against it. It swiftly dulled their sharpest axes. And they had a healthy awe of its diabolically sentient thorns.
 
 All this suggested an obvious line of questioning.
 
@@ -1960,19 +2034,18 @@ All this suggested an obvious line of questioning.
 
 Tulya continued, “They told us when they went why they must go. So that we could live by our own powers alone, as all beings should. But we loved them and have always been sorry.”
 
-There was no getting away from it, Elven decided after making some casual use of his special mind-searching powers to test the veracity of their answers. These four people had actually been reared by robots of some sort. But why? A dozen fantastic, unprovable posibilities occurred to him. He remembered what Fedris had said about the mystery of the universe, and smiled wryly.
+There was no getting away from it, Elven decided after making some casual use of his special mind-searching powers to test the veracity of their answers. These four people had actually been reared by robots of some sort. But why? A dozen fantastic, unprovable possibilities occurred to him. He remembered what Fedris had said about the mystery of the universe, and smiled wryly.
 
 Then it was his turn to answer questions, hesitant and awestricken ones. He replied simply, “I am a black angel from above. When God created his universe he decided it would be a pretty dull place if there weren’t a few souls in it willing to take all risks and dare all dangers. So here and there among his infinite flocks of tame angels, sparingly, he introduced a wild strain, so that there would always be a few souls who would kick up their heels and jump any fences. Yes, and break the fences down too, exposing the tame flocks to night with its unknown beauties and dangers.” He smiled around impishly, the firelight making odd highlights on his lips and cheeks. “Just as I’ve broken down your thorn fence.”
 
 It had been pitch black outside for some time. The wine jar was almost empty. Elven yawned. Immediately preparations were made for his rest. The cat got up from the hearth and came and rubbed Elven’s legs.
 
-The first pale glow of dawn aroused Elven and he slipped out of bed so quietly that he wakened no one, not even the cat. For a moment he hesitated in the gray room
+.space
+The first pale glow of dawn aroused Elven and he slipped out of bed so quietly that he wakened no one, not even the cat. For a moment he hesitated in the gray room heavy with the smell of embers and the lees of wine. It occurred to him that it would be rather pleasant to live out his life here as a sylvan god adored by nymphs and rustics.
 
-heavy with the smell of embers and the lees of wine. It occurred to him that it would be rather pleasant to live out his life here as a sylvan god adored by nymphs and rustics.
+But then his hand touched his throat and he shook his head. This was no place for him to accomplish his mission—for one thing, there weren’t enough people. He needed cities. With a last look at his blanket-huddled hostesses and hosts—Sefora’s hair had just begun to turn ruddy in the increasing light—he went out.
 
-But then his hand touched his throat and he shook his head. This was no place for him to accomplish his mission —for one thing, there weren’t enough people. He needed cities. With a last look at his blanket-huddled hostesses and hosts—Sefora’s hair had just begun to turn ruddy in the increasing light—he went out
-
-As he had expected, the thorn forest had long ago repaired the break he had made near the stream. He turned in the opposite direction and skirted the hill until he reached the green wall beyond. There, consulting his compass, he set his course away from the wrecked spaceboat Then he began to dust
+As he had expected, the thorn forest had long ago repaired the break he had made near the stream. He turned in the opposite direction and skirted the hill until he reached the green wall beyond. There, consulting his compass, he set his course away from the wrecked spaceboat. Then he began to dust.
 
 By early afternoon—judging from the changing intensity of the light—he had made a dozen miles and was thinking that perhaps he should have stayed at the wreck long enough to try to patch up a levitator. If only he could get up a hundred feet to see what—if anything—was going to happen to this ridiculous forest!
 
@@ -1986,9 +2059,7 @@ Only one of the Wild Ones had escaped from their beleaguered planet, Fedris had 
 
 What did Fedris know!
 
-He knew that before Elven reached his spaceboat, he had escaped in disguise through the tremendous cordons of the sos. That in the course of that escape he had twice been
-
-searched so thoroughly that it would have been a miracle if he could have concealed more than this one tiny tablet.
+He knew that before Elven reached his spaceboat, he had escaped in disguise through the tremendous cordons of the sos. That in the course of that escape he had twice been searched so thoroughly that it would have been a miracle if he could have concealed more than this one tiny tablet.
 
 But this one tiny tablet was enough.
 
@@ -1996,22 +2067,21 @@ In it were all the Wild Ones.
 
 Early humans had often been fascinated by the idea of an invisible man. Yet it hadn’t occurred to them that the invisible man has always existed, that each one of us begins as an invisible man—the single cell from which each human grows.
 
-Here in this white tablet were the genetic elements of all the Wild Ones, the chromosomes and genes of each individual. Here were fire-eyed VIana, swashbuckling Nar, soft-laughing Forten—they, and a billion others! The identical twins of each last person destroyed with the planet of the Wild Ones, waiting only encasement in suitable denucleat-ed growth cells and nurture in some suitable mother. All rolling about prettily in Elven’s palm.
+Here in this white tablet were the genetic elements of all the Wild Ones, the chromosomes and genes of each individual. Here were fire-eyed VIana, swashbuckling Nar, soft-laughing Forten—they, and a billion others! The identical twins of each last person destroyed with the planet of the Wild Ones, waiting only encasement in suitable denucleated growth cells and nurture in some suitable mother. All rolling about prettily in Elven’s palm.
 
 So much for the physical inheritance.
 
 And as for the social inheritance, there was Elven.
 
-Then it could all begin again. Once more the WQd Ones could dream their cosmos-storming dreams and face their beautiful dangers. Once more they could seek to create, if they chose, those giant atoms, seeds of new universes, because of which the sos had destroyed them. Back in the Dawn Age physicists had envisioned the single giant atom from which the whole universe had grown, and now it was time to see if more such atoms could be created from energy drawn from sub-space. And who were Fedris and Elven and the sos to say whether or not the new universes might —or should—destroy the old? What matter how the tame herds feared those beautiful, submicroscopic eggs of creation?
+Then it could all begin again. Once more the Wild Ones could dream their cosmos-storming dreams and face their beautiful dangers. Once more they could seek to create, if they chose, those giant atoms, seeds of new universes, because of which the sos had destroyed them. Back in the Dawn Age physicists had envisioned the single giant atom from which the whole universe had grown, and now it was time to see if more such atoms could be created from energy drawn from sub-space. And who were Fedris and Elven and the sos to say whether or not the new universes might—or should—destroy the old? What matter how the tame herds feared those beautiful, submicroscopic eggs of creation?
 
-It must all begin again, Elven resolved.
+It *must* all begin again, Elven resolved.
 
 Yet it was as much the feel of the thorn shoots rising under his feet, as his mighty resolve, that drove him on.
 
-An hour later his duster disintegrated a tangle of boughs that had only sky behind it. He stepped into a clearing a half mile in diameter. Just ahead a bubbling stream went through a little valley, where russet grain rippled. Beyond the valley was a small, orchard-covered hill. On its hither
+An hour later his duster disintegrated a tangle of boughs that had only sky behind it. He stepped into a clearing a half mile in diameter. Just ahead a bubbling stream went through a little valley, where russet grain rippled. Beyond the valley was a small, orchard-covered hill. On its hither side, low gray buildings clustered raggedly. From one rose a thread of smoke. A man came around the hill, driving cattle.
 
-side, low gray buildings clustered raggedly. From one rose a thread of smoke. A man came around the hill, driving cattle.
-
+.space
 Elven’s second thought was that something must have gone wrong with his compass, some force must have been deflecting it steadily, to draw him back in a circle.
 
 His first thought, which he had repressed quickly, had been that here was the mystery Fedris had promised him, something supernatural from the ancient fairy-book world.
@@ -2020,7 +2090,7 @@ And as if time too had been drawn back in a circle—he repressed this notion ev
 
 Elven called her name and hurried toward her, a little surprised at his pleasure in seeing her again.
 
-She saw him, brought up her hand and swiftly tossed something to him. He started to catch it against his chest, thinking it a gleaming fruit
+She saw him, brought up her hand and swiftly tossed something to him. He started to catch it against his chest, thinking it a gleaming fruit.
 
 He jerked aside barely in time.
 
@@ -2030,19 +2100,17 @@ It was a gleaming and wickedly heavy-bladed knife.
 
 The red-haired nymph turned and fled like a doe, screaming, “Alfors! Kors! Tulya!” Elven raced after her.
 
-It was just beyond the first out-building that he ran into the ambush, which seemed to have been organized impromptu in an ancient carpenter’s shop. Alfors and Kors came roaring at him from the bam, the one swinging a heavy mallet, the other a long saw. While from the kitchen door, nearer by, Tulya rushed with a cleaver.
+It was just beyond the first out-building that he ran into the ambush, which seemed to have been organized impromptu in an ancient carpenter’s shop. Alfors and Kors came roaring at him from the barn, the one swinging a heavy mallet, the other a long saw. While from the kitchen door, nearer by, Tulya rushed with a cleaver.
 
 Elven caught her wrist and the two of them reeled with the force of her swing. Reluctantly then—hating his action and only obeying necessity—he snatched out his duster for a snap-shot at the nearest of the others.
 
-Kors staggered, lifted his hand to his eyes and brushed away dust. Now Alfors was the closest. Elven could see the inch-long teeth on the twanging, singing saw-blade. Then its gleaming lower length dissolved along with Alfors hand, while its upper half went screeching past his head.
+Kors staggered, lifted his hand to his eyes and brushed away dust. Now Alfors was the closest. Elven could see the inch-long teeth on the twanging, singing saw-blade. Then its gleaming lower length dissolved along with Alfors’ hand, while its upper half went screeching past his head.
 
-Kors came on, screaming in pain, swinging the mallet blindly. Elven sent him sprawling with a full-intensity shot
-
-that made his chest a small volcano of dust, swung round and cut down Alfors, ducked just in time as the cleaver, transferred to Tulya’s other hand, swiped at his neck. They went down together in a heap, the duster at Tulya’s throat.
+Kors came on, screaming in pain, swinging the mallet blindly. Elven sent him sprawling with a full-intensity shot that made his chest a small volcano of dust, swung round and cut down Alfors, ducked just in time as the cleaver, transferred to Tulya’s other hand, swiped at his neck. They went down together in a heap, the duster at Tulya’s throat.
 
 Brushing the fine gray ashes frantically from his face, Elven looked up to see Sefora racing toward him. Her flaming red hair and livid face were preceded by the three gleaming tines of a pitchfork.
 
-“Sefora!” he cried and tried to get up, but Alfors had fallen across his legs. “Sefora!” he cried again imploringly, but she didn’t seem to hear him and her face looked only hate, so he snapped on the duster, and tines and face and hair went up in a gray cloud. Her headless body pitched across him with a curious little vault as the blunted pitch-fork buried its end in the ground. She hit and rolled over twice. Then everything was very still, until a cow lowed restlessly.
+“Sefora!” he cried and tried to get up, but Alfors had fallen across his legs. “Sefora!” he cried again imploringly, but she didn’t seem to hear him and her face looked only hate, so he snapped on the duster, and tines and face and hair went up in a gray cloud. Her headless body pitched across him with a curious little vault as the blunted pitchfork buried its end in the ground. She hit and rolled over twice. Then everything was very still, until a cow lowed restlessly.
 
 Elven dragged himself from under what remained of Alfors and stood up shakily. He coughed a little, then with a somewhat horrified distaste raced out of the settling gray cloud. As soon as he was in clean air he emptied his lungs several times, shuddered a bit, smiled ruefully at the four motionless forms on which the dust was settling, and set himself to figure things out.
 
@@ -2050,29 +2118,26 @@ Evidently some magnetic force had deflected his compass needle, causing him to t
 
 The behavior of his last evening’s hosts and hostesses was a knottier problem. It seemed incredible that his mere disappearance, even granting they thought him a god, had offended them so that they had become murderous. Ancient Earth-peoples had killed gods and god-symbols, of course, yet that had been a matter of deliberate ritual, not sudden blood-frenzy.
 
-For a moment he found himself wondering if Fedris had somehow poisoned their minds against him, if Fedris possessed some FTL agency that had rendered the whole universe allergic to Elyen. But that, he knew, was the merest morbid fancy, a kind of soured humor.
+For a moment he found himself wondering if Fedris had somehow poisoned their minds against him, if Fedris possessed some FTL agency that had rendered the whole universe allergic to Elven. But that, he knew, was the merest morbid fancy, a kind of soured humor.
 
 Perhaps his charming rustics had been subject to some kind of cyclic insanity.
 
-He shnigged, then resolutely went into the house and prepared himself a meal. By the time it was ready the sky had darkened. He built a big fire and put in some time constructing out of materials in his pack, a small gyrocompass. He worked with an absent-minded mastery, as one whittles a toy for a child. He noticed the cat watching him from the doorway, but it fled whenever he called to it, and it refused to be lured by the food he set on the hearth. He looked up at the wine jars dangling from the rafters, but did not reach them down.
+He shrugged, then resolutely went into the house and prepared himself a meal. By the time it was ready the sky had darkened. He built a big fire and put in some time constructing out of materials in his pack, a small gyrocompass. He worked with an absent-minded mastery, as one whittles a toy for a child. He noticed the cat watching him from the doorway, but it fled whenever he called to it, and it refused to be lured by the food he set on the hearth. He looked up at the wine jars dangling from the rafters, but did not reach them down.
 
 After a while he disposed himself on the couch Kors and Tulya had occupied the night before. The room grew dim as the fire died down. He succeeded in keeping his thoughts away from what lay outside, except that once or twice his mind pictured the odd little vault Sefora’s body had made in pitching over him. In the doorway the cat’s eyes gleamed.
 
+.space
 When he woke it was full day. He quickly got his things together, adding a little fruit to his pack. The cat shot aside as he went out the door. He did not look at the scene of yesterday’s battle. He could hear flies buzzing there. He went over the hill to where he had entered the thorn forest last morning. The thorn trees, with their ridiculous fairy-book persistence, had long ago repaired the opening he’d made. There was no sign of it. He turned on the tiny motor of the gyrocompass, leveled his gun at the green wall, and started dusting.
 
 It was as monotonous a work as ever, but he went about it with a new and almost unsmiling grimness. At regular intervals he consulted the gyrocompass and sighted back carefully along the arrow-straight, shoot-green corridor that narrowed with more than perspective. Odd, the speed with which those thorns grew!
 
-In his mind he rehearsed his long-range course of action.
-
-He could count, he must hope, on a generation’s freedom from Fedris and the forces of the sos. In that time he must find a large culture, preferably urban, or one with a large number of the right sort of domestic animals, and make himself absolute master of it, probably by establishing a new religion. Then the proper facilities for breeding must be arranged. Next the seeds of the Wild Ones pelleted in the locket at his throat must be separated—as many as there were facilities for—and placed in their living or nonliving mothers. Probably living. And probably not human —that might present too many sociological difficulties.
+In his mind he rehearsed his long-range course of action. He could count, he must hope, on a generation’s freedom from Fedris and the forces of the sos. In that time he must find a large culture, preferably urban, or one with a large number of the right sort of domestic animals, and make himself absolute master of it, probably by establishing a new religion. Then the proper facilities for breeding must be arranged. Next the seeds of the Wild Ones pelleted in the locket at his throat must be separated—as many as there were facilities for—and placed in their living or nonliving mothers. Probably living. And probably not human—that might present too many sociological difficulties.
 
 It amused him to think of the Wild Ones reborn from sheep or goats, or perhaps some wholly alien rooter or browser, and his mind conjured up a diverting picture of himself leading his strange flocks over hilly pastures, piping like ancient Pan—until he realized that his mind had pictured Sefora and Tulya dancing along beside him, and he snapped off the mental picture with a frown.
 
-Then would come the matter of the rearing and education of the Wild Ones. His hypothetical community of underlings would take care of die former; the latter must all proceed from his own brain—supplemented by the library of educational micro-tapes in the wrecked spaceboat. Robots of some sort would be an absolute necessity. He remembered the conversation of the night before last, which had indicated that there were or had been robots on this planet, and lost himself in tenuous speculation—though not forgetting his gyrocompass observations.
+Then would come the matter of the rearing and education of the Wild Ones. His hypothetical community of underlings would take care of the former; the latter must all proceed from his own brain—supplemented by the library of educational micro-tapes in the wrecked spaceboat. Robots of some sort would be an absolute necessity. He remembered the conversation of the night before last, which had indicated that there were or had been robots on this planet, and lost himself in tenuous speculation—though not forgetting his gyrocompass observations.
 
-So the day wore on for Elven, walking hour after hour behind a dustgun into a dustcloud, until he was almost hypnotized in spite of his self-watchfulness and a host of disquieting memories fitfully thronged his mind: the darkness of sub-space; the cat’s eyes at the doorway, the feel of its fur against his ankle; dust billowing from Tulya’s throat; the little vault Sefora’s body had given in pitching over him, almost as if it rode an invisible wave in the air; an imaginary vision of the blasted planet of the Wild Ones, its dark side aglow with radioactives visible even in deep space; the wasplike humming in the wrecked spaceboat;
-
-Fedris’ ghostly whisper, “The unknown will find you, Elven—”
+So the day wore on for Elven, walking hour after hour behind a dustgun into a dustcloud, until he was almost hypnotized in spite of his self-watchfulness and a host of disquieting memories fitfully thronged his mind: the darkness of sub-space; the cat’s eyes at the doorway, the feel of its fur against his ankle; dust billowing from Tulya’s throat; the little vault Sefora’s body had given in pitching over him, almost as if it rode an invisible wave in the air; an imaginary vision of the blasted planet of the Wild Ones, its dark side aglow with radioactives visible even in deep space; the wasplike humming in the wrecked spaceboat; Fedris’ ghostly whisper, “The unknown will find you, Elven—”
 
 The break in the thorn forest took him by surprise.
 
@@ -2086,13 +2151,12 @@ He fancied he could see a black cloud of flies hovering near the low gray buildi
 
 And then he heard a rustling in the copse of trees just ahead and heard a horribly familiar voice call excitedly, “Tulya! Come quickly!”
 
+.space
 He began to shake. Then his hair-triggered muscles, obeying some random stimulus, hurled him forward aimlessly, jerked him to a stop as suddenly. Thigh-deep in the grain, he stared around wildly. Then his gaze fixed on a movement in the twilit grain—two trails of movement, shaking the grain but showing nothing more. Two trails of movement working their way from the copse to him.
 
 And then suddenly Sefora and Tulya were upon him, springing from their concealment like mischievous children, their eyes gleaming, their mouths smiling with a wicked delight. Tulya’s throat, that he had yesterday seen billow into dust, bulged with laughter. Sefora’s red hair, that he had watched puff into a gray cloud, rippled in the breeze.
 
-He tried to run back into the forest but they cut him off
-
-and caught him with gales of laughter. At the touch of their ) hands all strength went out of him, and it seemed to him that his bones were turning to an icy mush as they dragged him along stumblingly through the grain.
+He tried to run back into the forest but they cut him off and caught him with gales of laughter. At the touch of their hands all strength went out of him, and it seemed to him that his bones were turning to an icy mush as they dragged him along stumblingly through the grain.
 
 “We won’t hurt you,” Tulya assured him between peals of wicked laughter.
 
@@ -2104,17 +2168,15 @@ and caught him with gales of laughter. At the touch of their ) hands all strengt
 
 When next he opened them, he was standing near the gray buildings, and someone had put wreaths of flowers around his neck and smeared fruit on his chin, and Alfors and Kors had come, and all four of them were dancing around him wildly in the twilight, hand in hand, laughing, laughing.
 
-Then Elven laughed too, louder and louder, and then-gleaming eyes encouraged him, and he began to spin round | and round inside their spinning circle, and they grimaced i their joy at his comradeship. And then he raised his dust-gun and snapped it on and kept on spinning until the circle of other laughters was only an expanding dust ring. Then, still laughing, he ran over the hill, a cat scampering in swift rushes at his side, until he came to a thorny wall. After his hands and face were puffing with stings, he remembered to lift something he’d been holding in his hand and touch a button on it Then he marched into a dust cloud, singing.
+Then Elven laughed too, louder and louder, and their gleaming eyes encouraged him, and he began to spin round and round inside their spinning circle, and they grimaced their joy at his comradeship. And then he raised his dust-gun and snapped it on and kept on spinning until the circle of other laughters was only an expanding dust ring. Then, still laughing, he ran over the hill, a cat scampering in swift rushes at his side, until he came to a thorny wall. After his hands and face were puffing with stings, he remembered to lift something he’d been holding in his hand and touch a button on it. Then he marched into a dust cloud, singing.
 
-All night he marched and sang, pausing only to reload the gun with a gleeful automatism, or to take from his pack another flashglobe of cold light, which revealed the small world of green thorns and dust motes around him. Mostly he sang an old Centaurian lied that went:
+All night he marched and sang, pausing only to reload the gun with a gleeful automatism, or to take from his pack another flashglobe of cold light, which revealed the small world of green thorns and dust motes around him. Mostly he sang an old Centaurian *lied* that went:
 
+.center
 We’ll fall through the stars, my Deborah,
-
 We’ll fall through the skeins of light,
-
 We’ll fall out of the Galaxy
-
-And I’ll kiss you again in the night
+And I’ll kiss you again in the night.
 
 Only sometimes he sang “Sefora” instead of “Deborah” and “kill” instead of “kiss.” At times it seemed to him that he was followed by prancing goats and sheep and strange monsters that were really his brothers and sisters. And at other times there danced along beside him two nymphs, one red-haired. They sang with him in high sweet voices and smiled at him wickedly. Toward morning he grew tired and unstrapped the pack from his back and threw it away, and later he ripped something from his throat and threw that away, too.
 
@@ -2130,19 +2192,16 @@ The dust path drew closer and closer to Sefora, until it almost lapped her heels
 
 Then something tightened like a snake around Elven’s knees, and as he pitched forward something else tightened around his upper body, jerking his elbows against his sides. The dustgun flew from his hand as he smashed against the ground.
 
-Then he was lying on his back gasping, and through the thinning dust cloud Alfors and Kors were looking down at him as they wound their lassos tighter and tighter around
+Then he was lying on his back gasping, and through the thinning dust cloud Alfors and Kors were looking down at him as they wound their lassos tighter and tighter around him, trussing him up. He heard Alfors say, “Are you all right, Sefora?” and a voice reply, “Yes. Let me see him.” And then Sefora’s face appeared through the dust cloud and looked down into his with cold curiosity, and her red hair touched his cheek, and Elven closed his eyes and screamed many times.
 
-him, trussing him up. He heard Alfors say, “Are you all right, Sefora?” and a voice reply, “Yes. Let me see him.” And then Sefora’s face appeared through the dust cloud and looked down into his with cold curiosity, and her red p hair touched his cheek, and Elven closed his eyes and b screamed many times.
-
-“It was all very simple and there was, of course, abso- k lutely nothing of die supernatural,” the Director of Human Research assured Fedris, taking a sip of mellow Magellanic wine from the cup at his elbow. “Elven merely walked in a straight line.”
+.space
+“It was all very simple and there was, of course, absolutely nothing of the supernatural,” the Director of Human Research assured Fedris, taking a sip of mellow Magellanic wine from the cup at his elbow. “Elven merely walked in a straight line.”
 
 Fedris frowned. He was a small man with a worried look that the most thoroughgoing psychoanalysis had been unable to eradicate. “Of course the Galaxy is tremendously grateful to you for capturing Elven. We never dreamed he’d got as far as the Magellanics. Can’t say what horrors we may have escaped—”
 
-“I deserve no credit,” the director told him. “It was all sheer accident, and the matter of Elven’s nerve cracking.
+“I deserve no credit,” the director told him. “It was all sheer accident, and the matter of Elven’s nerve cracking. Of course you’d prepared the ground there by hinting to him that the supernatural might take a hand.”
 
-Of course you’d prepared the ground there by hinting to him that the supernatural might take a hand.”
-
-“That was the merest empty threat, bom of desperation,” Fedris interrupted, reddening a bit
+“That was the merest empty threat, bom of desperation,” Fedris interrupted, reddening a bit.
 
 “Still, it prepared the ground. And then Elven had the devilish misfortune of landing right in the middle of our project on Magellanic 47. And that, I admit, might be enough to startle anyone.” The director grinned.
 
@@ -2152,21 +2211,17 @@ The director settled back in his easy-chair. “The scientific understanding of 
 
 Fedris nodded. “Lack of controls.”
 
-“Exactly,” the director agreed. “With rats, say, it would
-
-Hie Enchanted Forest	107
-
-be easy. You can have two—or a hundred—families of rats, each family with identical heredity, each in an identical environment. Then you can vary one factor in one family and watch the results. And when you get results you can trust them, because the other family is your control, showing what happens when you don’t vary the factor.”
+“Exactly,” the director agreed. “With rats, say, it would be easy. You can have two—or a hundred—families of rats, each family with identical heredity, each in an identical environment. Then you can vary one factor in one family and watch the results. And when you get results you can trust them, because the other family is your control, showing what happens when you don’t vary the factor.”
 
 Fedris looked at him wonderingly. “Do you mean to say—?”
 
 The director nodded. “On Magellanic 47 we’re carrying on that same sort of work, not with rats, but with human beings. The cages are half-mile clearings with identical weather, terrain, plants, animals—everything identical down to the tiniest detail. The bars of the cages are the thorn trees, which our botanists developed specially for the purpose. The inmates of the cages—the human experimental animals—are identical twins—though centuplets would be closer to the right word. Identical upbringings are assured for each group by the use of robot nurses and mentors, set to perform always the same unvarying routine. These robots are removed when the members of the group are sufficiently mature for our purposes. All our observations are, of course, competely secret—and also intermittent, which had the unfortunate result of letting Elven do some serious damage before he was caught.
 
-“Do you see the setup now? In the thorn forest in which Elven was wrecked there were approximately one hundred identical clearings set at identical intervals. Each clearing looked exactly like the other, and each contained one Se-fora, one Tulya, one Alfors, and one Kors. Elven thought he was going in a circle, but actually he was going in a straight line. Each evening it was a different clearing he came to. Each night he met a new Sefora.
+“Do you see the setup now? In the thorn forest in which Elven was wrecked there were approximately one hundred identical clearings set at identical intervals. Each clearing looked exactly like the other, and each contained one Sefora, one Tulya, one Alfors, and one Kors. Elven thought he was going in a circle, but actually he was going in a straight line. Each evening it was a different clearing he came to. Each night he met a new Sefora.
 
 “Each group he encountered was identical except for one factor—the factor we were varying—and that had the effect of making it a bit more grisly for him. You see, in those groups we happened to be running an experiment to determine the causes of human behavior patterns toward strangers. We’d made slight variations in their environment and robot-education, with the result that the first group he met was submissive toward strangers; the second was violently hostile; the third as violently friendly; the fourth highly suspicious. Too bad he didn’t meet the fourth group first—though, of course, they’d have been unable to manage him except that he was half mad with supernatural terror.”
 
-The director finished his wine and smiled at Fedris. “So you see it all was the sheerest accident. No one was more surprised than I when, in taking a routine observation, I found that my ‘animals’ had this gibbering and trussed-up intruder. And you could have knocked me over with a molecule when I found out it was Elven.”
+The director finished his wine and smiled at Fedris. “So you see it all *was* the sheerest accident. No one was more surprised than I when, in taking a routine observation, I found that my ‘animals’ had this gibbering and trussed-up intruder. And you could have knocked me over with a molecule when I found out it was Elven.”
 
 Fedris whistled his wonder. “I can sympathize with the poor devil,” he said, “and I can understand, too, why your project is hush-hush.”
 
@@ -2180,11 +2235,17 @@ The director nodded. “Yes, experimenting with human beings is a rather hard no
 
 “Sometimes I think so too,” the director admitted with a smile, and poured his guest more wine.
 
+.space
 While deep in the thorn forest on Magellanic 47, green shoots and tendrils closed round a locket containing a white tablet, encapsulating all the Wild Ones save Elven in a green and tiny tomb.
 
-Coming Attraction
+---
 
-The coupe with the fishhooks welded to the fender shouldered up over the curb like the nose of a nightmare. The girl in its path stood frozen, her face probably stiff with fright under her mask. For once my reflexes weren’t shy. I took a fast step toward her, grabbed her elbow, yanked her back. Her black shirt swirled out.
+comming_attraction
+
+# Coming Attraction
+
+.fl
+<span class="smallcaps">The coupe with</span> the fishhooks welded to the fender shouldered up over the curb like the nose of a nightmare. The girl in its path stood frozen, her face probably stiff with fright under her mask. For once my reflexes weren’t shy. I took a fast step toward her, grabbed her elbow, yanked her back. Her black skirt swirled out.
 
 The big coupe shot by, its turbine humming. I glimpsed three faces. Something ripped. I felt the hot exhaust on my ankles as the big coupe swerved back into the street. A thick cloud like a black flower blossomed from its jouncing rear end, while from the fishhooks flew a black shimmering rag.
 
@@ -2200,11 +2261,11 @@ I heard voices around us:
 
 “They’re a menace. They ought to be arrested.”
 
-Sirens screamed at a rising pitch as two motor-police, their rocket-assist jets full on, came whizzing toward us after the coupe. But the black flower had become an inky fog obscuring the whole street The motor-police switched from rocket assists to rocket brakes and swerved to a stop near the smoke cloud.
+Sirens screamed at a rising pitch as two motor-police, their rocket-assist jets full on, came whizzing toward us after the coupe. But the black flower had become an inky fog obscuring the whole street. The motor-police switched from rocket assists to rocket brakes and swerved to a stop near the smoke cloud.
 
 “Are you English?” the girl asked me. “You have an English accent.”
 
-Her voice came shudderingly from behind the sleek black satin mask. I fancied her teeth must be chattering. Eyes that were perhaps blue searched my face from behind the black gauze covering the eyeholes of the mask. I told her she’d guessed right. She stood close to me. “Will you come to my place tonight?” she asked rapidly. “I can’t thank you now. And there’s something else you can help me about”
+Her voice came shudderingly from behind the sleek black satin mask. I fancied her teeth must be chattering. Eyes that were perhaps blue searched my face from behind the black gauze covering the eyeholes of the mask. I told her she’d guessed right. She stood close to me. “Will you come to my place tonight?” she asked rapidly. “I can’t thank you now. And there’s something else you can help me about.”
 
 My arm, still lightly circling her waist, felt her body trembling. I was answering the plea in that as much as in her voice when I said, “Certainly.” She gave me an address south of Inferno, an apartment number and a time. She asked me my name and I told her.
 
@@ -2214,7 +2275,7 @@ I turned obediently to the policeman’s shout. He shooed away the small cluckin
 
 He looked at them and then at me. “British Barter? How long will you be in New York?”
 
-Suppressing the urge to say, ‘Tor as short a time as possible,” I told him I’d be here for a week or so.
+Suppressing the urge to say, “For as short a time as possible,” I told him I’d be here for a week or so.
 
 “May need you as a witness,” he explained. “Those kids can’t use smoke on us. When they do that, we pull them in.”
 
@@ -2222,9 +2283,7 @@ He seemed to think the smoke was the bad thing. “They tried to kill the lady,�
 
 He shook his head wisely. “They always pretend they’re going to, but actually they just want to snag skirts. I’ve picked up rippers with as many as fifty skirt-snags tacked up in their rooms. Of course, sometimes they come a little too close.”
 
-I explained that if I hadn’t yanked her out of the way, she’d have been hit by more than hooks. But he interrupt-
-
-ed, “If she’d thought it was a real murder attempt, she’d have stayed here.”
+I explained that if I hadn’t yanked her out of the way, she’d have been hit by more than hooks. But he interrupted, “If she’d thought it was a real murder attempt, she’d have stayed here.”
 
 I looked around. It was true. She was gone.
 
@@ -2242,7 +2301,7 @@ I tried without much success to describe the three faces. A vague impression of 
 
 “No,” I half lied.
 
-The other policemen hung up his radiophone and ambled toward us, kicking at the tendrils of dissipating smoke. The black cloud no longer hid the dingy facades with their five-year-old radiation flashbums, and I could begin to make out the distant stump of the Empire State Building, thrusting up out of Inferno like a mangled finger.
+The other policeman hung up his radiophone and ambled toward us, kicking at the tendrils of dissipating smoke. The black cloud no longer hid the dingy facades with their five-year-old radiation flashburns, and I could begin to make out the distant stump of the Empire State Building, thrusting up out of Inferno like a mangled finger.
 
 “They haven’t been picked up so far,” the approaching policeman grumbled. “Left smoke for five blocks, from what Ryan says.”
 
@@ -2250,17 +2309,18 @@ The first policeman shook his head. “That’s bad,” he observed solemnly.
 
 I was feeling a bit uneasy and ashamed. An Englishman shouldn’t lie, at least not on impulse.
 
-“They sound like nasty customers,” the first policeman • continued in the same grim tone. “We’ll need witnesses. Looks as if you may have to stay in New York longer than you expect.”
+“They sound like nasty customers,” the first policeman continued in the same grim tone. “We’ll need witnesses. Looks as if you may have to stay in New York longer than you expect.”
 
 I got the point. I said, “I forgot to show you all my papers,” and handed him a few others, making sure there was a five dollar bill in among them.
 
-When he handed them back a bit later, his voice was no [ longer ominous. My feelings of guilt vanished. To cement our relationship, I chatted with the two of them about their job.
+.space
+When he handed them back a bit later, his voice was no longer ominous. My feelings of guilt vanished. To cement our relationship, I chatted with the two of them about their job.
 
-“I suppose the masks give you some trouble,” I ob- j served. “Over in England we’ve been reading about your i new crop of masked female bandits.”
+“I suppose the masks give you some trouble,” I observed. “Over in England we’ve been reading about your new crop of masked female bandits.”
 
-“Those things get exaggerated,” the first policeman assured me. “It’s the men masking as women that really mix i us up. But, brother, when we nab them, we jump on them i with both feet.”
+“Those things get exaggerated,” the first policeman assured me. “It’s the men masking as women that really mix us up. But, brother, when we nab them, we jump on them with both feet.”
 
-“And you get so you can spot women almost as well as if they had naked faces,” the second policeman volunteered. “You know, hands and all that”
+“And you get so you can spot women almost as well as if they had naked faces,” the second policeman volunteered. “You know, hands and all that.”
 
 “Especially all that,” the first agreed with a chuckle. “Say, is it true that some girls don’t mask over in England?”
 
@@ -2278,35 +2338,35 @@ The second policeman shook his head. “What an idea. You know, masks are a pret
 
 The first policeman shrugged. “If women were to stop wearing masks, in six weeks you wouldn’t know the difference. You get used to anything, if enough people do or don’t do it.”
 
-I agreed, rather regretfully, and left them. I turned north on Broadway (old Tenth Avenue, I believe) and walked i rapidly until I was beyond Inferno. Passing such an area of i undecontaminated radio-activity always makes a person
+I agreed, rather regretfully, and left them. I turned north on Broadway (old Tenth Avenue, I believe) and walked rapidly until I was beyond Inferno. Passing such an area of undecontaminated radioactivity always makes a person queasy. I thanked God there weren’t any such in England, as yet.
 
-queasy. I thanked God there weren’t any such in England, ■•us yet
+The street was almost empty, though I was accosted by a couple of beggars with faces tunnelled by H-bomb scars, whether real or of makeup putty, I couldn’t tell. A fat woman held out a baby with webbed fingers and toes. I told myself it would have been deformed anyway and that she was only capitalizing on our fear of bomb-induced mutations. Still, I gave her a seven-and-a-half-cent piece. Her mask made me feel I was paying tribute to an African fetish.
 
-The street was almost empty, though I was accosted by a ouple of beggars with faces tunnelled by H-bomb scars, whether real or of makeup putty, I couldn’t tell. A fat woman held out a baby with webbed fingers and toes. I old myself it would have been deformed anyway and that he was only capitalizing on our fear of bomb-induced mu-ations. Still, I gave her a seven-and-a-half-cent piece. Her mask made me feel I was paying tribute to an African fe-Jsh.
-
-“May all your children be blessed with one head and rwo eyes, sir.”
+“May all your children be blessed with one head and two eyes, sir.”
 
 “Thanks,” I said, shuddering, and hurried past her.
 
-“. . . There’s only trash behind the mask, so turn your bead, stick to your task: Stay away, stay away—from—the —girls!”
+.space
+“. . . There’s only trash behind the mask, so turn your head, stick to your task: Stay away, stay away—from—the—girls!”
 
-This last was the end of an anti-sex song being sung by ■some religionists half a block from the circle-and-cross insignia of a femalist temple. They reminded me only faintly joi our small tribe of British monastics. Above their heads 'was a jumble of billboards advertising predigested foods, 'wrestling instruction, radio handies and the like.
+This last was the end of an anti-sex song being sung by some religionists half a block from the circle-and-cross insignia of a femalist temple. They reminded me only faintly of our small tribe of British monastics. Above their heads was a jumble of billboards advertising predigested foods, wrestling instruction, radio handies and the like.
 
-I stared at the hysterical slogans with disagreeable fasci-raation. Since the female face and form have been banned ►on American signs, the very letters of the advertiser’s alphabet have begun to crawl with sex—the fat-bellied, big-Ibreasted capital B, the lascivious double O. However, I rreminded myself, it is chiefly the mask that so strangely accents sex in America.
+I stared at the hysterical slogans with disagreeable fascination. Since the female face and form have been banned on American signs, the very letters of the advertiser’s alphabet have begun to crawl with sex—the fat-bellied, big-breasted capital B, the lascivious double O. However, I reminded myself, it is chiefly the mask that so strangely accents sex in America.
 
-A British anthropologist has pointed out, that, while it rtook more than 5,000 years to shift the chief point of sex-rual interest from the hips to the breasts, the next transition tto the face has taken less than 50 years. Comparing the American style with Moslem tradition is not valid; Moslem r women are compelled to wear veils, the purpose of which is i to make a husband’s property private, while American women have only the compulsion of fashion and use masks to create mystery.
+A British anthropologist has pointed out, that, while it took more than 5,000 years to shift the chief point of sexual interest from the hips to the breasts, the next transition to the face has taken less than 50 years. Comparing the American style with Moslem tradition is not valid; Moslem women are compelled to wear veils, the purpose of which is to make a husband’s property private, while American women have only the compulsion of fashion and use masks to create mystery.
 
 Theory aside, the actual origins of the trend are to be found in the anti-radiation clothing of World War III, which led to masked wrestling, now a fantastically popular sport, and that in turn led to the current female fashion. Only a wild style at first, masks quickly became as necessary as brassieres and lipsticks had been earlier in the century.
 
 I finally realized that I was not speculating about masks in general, but about what lay behind one in particular. That’s the devil of the things; you’re never sure whether a girl is heightening loveliness or hiding ugliness. I pictured a cool, pretty face in which fear showed only in widened eyes. Then I remembered her blonde hair, rich against the blackness of the satin mask. She’d told me to come at the twenty-second hour—10 p.m.
 
-I climbed to my apartment near the British Consulate; the elevator shaft had been shoved out of plumb by an old blast, a nuisance in these tall New York buildings. Before it occured to me that I would be going out again, I automatically tore a tab from the film strip under my shirt. I developed it just to be sure. It showed that the total radiation I’d taken that day was still within the safety limit. I’m not phobic about it, as so many people are these days, but there’s no point in taking chances.
+.space
+I climbed to my apartment near the British Consulate; the elevator shaft had been shoved out of plumb by an old blast, a nuisance in these tall New York buildings. Before it occurred to me that I would be going out again, I automatically tore a tab from the film strip under my shirt. I developed it just to be sure. It showed that the total radiation I’d taken that day was still within the safety limit. I’m not phobic about it, as so many people are these days, but there’s no point in taking chances.
 
 I flopped down on the day bed and stared at the silent speaker and the dark screen of the video set. As always, they made me think, somewhat bitterly, of the two great nations of the world. Mutilated by each other, yet still strong, they were crippled giants poisoning the planet with their respective dreams of an impossible equality and an impossible success.
 
-I fretfully switched on the speaker. By luck the newscaster was talking excitedly of the prospect of a bumper wheat crop, sown by planes across a dust bowl moistened by seeded rains. I listened carefully to the rest of the program (it was remarkably clear of Russian telejamming) but there was no further news of interest to me. And, of course, no mention of the Moon, though everyone knows that America and Russia are racing to develop their primary bases into fortresses capable of mutual assault and the launching of alphabet-bombs toward Earth. I myself knew perfectly well that the British electronic equipment I was helping trade for American wheat was destined for use in spaceships.
+I fretfully switched on the speaker. By luck the newscaster was talking excitedly of the prospects of a bumper wheat crop, sown by planes across a dust bowl moistened by seeded rains. I listened carefully to the rest of the program (it was remarkably clear of Russian telejamming) but there was no further news of interest to me. And, of course, no mention of the Moon, though everyone knows that America and Russia are racing to develop their primary bases into fortresses capable of mutual assault and the launching of alphabet-bombs toward Earth. I myself knew perfectly well that the British electronic equipment I was helping trade for American wheat was destined for use in spaceships.
 
-I switched off the newscast It was growing dark and once again I pictured a tender, frightened face behind a mask. I hadn’t had a date since England. It’s exceedingly difficult to become acquainted with a girl in America, where as little as a smile, often, can set one of them yelping for the police—to say nothing of the increasingly puritanical morality and the roving gangs that keep most women indoors after dark. And naturally, the masks which are definitely not, as the Soviets claim, a last invention of capitalist degeneracy, but a sign of great psychological insecurity. The Russians have no masks, but they have their own signs of stress.
+I switched off the newscast. It was growing dark and once again I pictured a tender, frightened face behind a mask. I hadn’t had a date since England. It’s exceedingly difficult to become acquainted with a girl in America, where as little as a smile, often, can set one of them yelping for the police—to say nothing of the increasingly puritanical morality and the roving gangs that keep most women indoors after dark. And naturally, the masks which are definitely not, as the Soviets claim, a last invention of capitalist degeneracy, but a sign of great psychological insecurity. The Russians have no masks, but they have their own signs of stress.
 
 I went to the window and impatiently watched the darkness gather. I was getting very restless. After a while a ghostly violet cloud appeared to the south. My hair rose. Then I laughed. I had momentarily fancied it a radiation from the crater of the Hell-bomb, though I should instantly have known it was only the radio-induced glow in the sky over the amusement and residential area south of Inferno.
 
@@ -2320,19 +2380,26 @@ A door opened behind me. I jerked out my hand with as guilty a reaction as if I�
 
 She stood in the bedroom doorway. I think she was trembling. She was wearing a grey fur coat, white speckled, and a grey velvet evening mask with shirred grey lace around the eyes and mouth. Her fingernails twinkled like silver.
 
-It hadn’t occurred to me that she’d expect us to go out “I should have told you,” she said softly. Her mask veered nervously toward the books and the screen and the room’s dark comers. “But I can’t possibly talk to you here.”
+It hadn’t occurred to me that she’d expect us to go out.
 
-I said doubtfully, “There’s a place near the Consulate.. . “I know where we can be together and talk,” she said rapidly. “If you don’t mind.”
+“I should have told you,” she said softly. Her mask veered nervously toward the books and the screen and the room’s dark corners. “But I can’t possibly talk to you here.”
+
+I said doubtfully, “There’s a place near the Consulate. . .”
+
+“I know where we can be together and talk,” she said rapidly. “If you don’t mind.”
 
 As we entered the elevator I said, “I’m afraid I dismissed the cab.”
 
+.space
 But the cab driver hadn’t gone for some reason of his own. He jumped out and smirkingly held the front door open for us. I told him we preferred to sit in back. He sulkily opened the rear door, slammed it after us, jumped in front and slammed the door behind him.
 
-My companion leaned forward. “Heaven,” she said. The driver switched on the turbine and televisor.
+My companion leaned forward. “Heaven,” she said.
+
+The driver switched on the turbine and televisor.
 
 “Why did you ask if I were a British subject?” I said, to start the conversation.
 
-She leaned away from me, tilting her mask close to the window. “See the Moon,” she said in a quick, dreamy voice.	
+She leaned away from me, tilting her mask close to the window. “See the Moon,” she said in a quick, dreamy voice.
 
 “But why, really?” I pressed, conscious of an irritation that had nothing to do with her.
 
@@ -2342,9 +2409,7 @@ She leaned away from me, tilting her mask close to the window. “See the Moon,�
 
 “The purple makes it look yellower.”
 
-Just then I became aware of the source of my irritation.
-
-It lay in the square of writhing light in the front of the cab beside the driver.
+Just then I became aware of the source of my irritation. It lay in the square of writhing light in the front of the cab beside the driver.
 
 I don’t object to ordinary wrestling matches, though they bore me, but I simply detest watching a man wrestle a woman. The fact that the bouts are generally “on the level,” with the man greatly outclassed in weight and reach and the masked females young and personable, only makes them seem worse to me.
 
@@ -2368,7 +2433,7 @@ She still didn’t look at me. “Because of him.”
 
 She didn’t answer.
 
-I put my arm around her shoulders. “Are you afraid to tell me?” I asked. “What is the matter?”
+I put my arm around her shoulders. “Are you afraid to tell me?” I asked. “What *is* the matter?”
 
 She still didn’t look my way. She smelled nice.
 
@@ -2376,7 +2441,7 @@ She still didn’t look my way. She smelled nice.
 
 I half playfully lifted my hand to the band of her neck. She gave it an astonishingly swift slap. I pulled it away in sudden pain. There were four tiny indentations on the back. From one of them a tiny bead of blood welled out as I watched. I looked at her fingernails and saw they were actually delicate and pointed metal caps.
 
-“I’m dreadfully sorry,” I heard her say, “but you frightened me. I thought for a moment you were going to . .
+“I’m dreadfully sorry,” I heard her say, “but you frightened me. I thought for a moment you were going to . . .”
 
 At last she turned to me. Her coat had fallen open. Her evening dress was Cretan Revival, a bodice of lace beneath and supporting the breasts without covering them.
 
@@ -2388,7 +2453,7 @@ The soft grey velvet of her mask, moulding itself to her cheek, pressed mine. Th
 
 The cab stopped. To either side were black windows bordered by spears of broken glass. The sickly purple light showed a few ragged figures slowly moving toward us.
 
-The driver muttered, “It’s the turbine, man. We’re | grounded.” He sat there hunched and motionless. “Wish it had happened somewhere else.”
+The driver muttered, “It’s the turbine, man. We’re grounded.” He sat there hunched and motionless. “Wish it had happened somewhere else.”
 
 My companion whispered, “Five dollars is the usual amount.”
 
@@ -2398,9 +2463,10 @@ My companion came back into my arms, but her mask faced the television screen, w
 
 “I’m so frightened,” she breathed.
 
-Heaven turned out to be an equally ruinous neighborhood, but it had a club with an awning and a huge doorman uniformed like a spaceman, but in gaudy colors. In my sensuous daze I rather liked it all. We stepped out of the cab just as a drunken old woman came down the sideJi walk, her mask awry. A couple ahead of us turned theirji heads from the half revealed face, as if from an ugly body!: at the beach. As we followed them in I heard the doonnanjr say, “Get along, grandma, and cover yourself.”
+.space
+Heaven turned out to be an equally ruinous neighborhood, but it had a club with an awning and a huge doorman uniformed like a spaceman, but in gaudy colors. In my sensuous daze I rather liked it all. We stepped out of the cab just as a drunken old woman came down the sidewalk, her mask awry. A couple ahead of us turned their heads from the half revealed face, as if from an ugly body at the beach. As we followed them in I heard the doorman say, “Get along, grandma, and cover yourself.”
 
-Inside, everything was dimness and blue glows. She hadji said we could talk here, but I didn’t see how. Besides the inevitable chorus of sneezes and coughs (they say America is fifty per cent allergic these days), there was a band going full blast in the latest robop style, in which an electronic composing machine selects an arbitrary sequence of tones into which the musicians weave their raucous little individualities.
+Inside, everything was dimness and blue glows. She had said we could talk here, but I didn’t see how. Besides the inevitable chorus of sneezes and coughs (they say America is fifty per cent allergic these days), there was a band going full blast in the latest robop style, in which an electronic composing machine selects an arbitrary sequence of tones into which the musicians weave their raucous little individualities.
 
 Most of the people were in booths. The band was behind the bar. On a small platform beside them, a girl was dancing, stripped to her mask. The little cluster of men at the shadowy far end of the bar weren’t looking at her.
 
@@ -2420,11 +2486,13 @@ She nodded quick thanks, looked around, leaned forward. “Would it be hard for 
 
 “Rather,” I said, surprised at her lack of information. “Your country doesn’t like its nationals to travel, though it isn’t quite as stringent as Russia.”
 
-“Could the British Consulate help me get a passport?” “It’s hardly their. . .”
+“Could the British Consulate help me get a passport?”
+
+“It’s hardly their . . .”
 
 “Could you?”
 
-I realized we were being inspected. A man and two girls had paused opposite our table. The girls were tall and wolfish-looking, with spangled masks. The man stood jaunt-ly between them like a fox on its hind legs.
+I realized we were being inspected. A man and two girls had paused opposite our table. The girls were tall and wolfish-looking, with spangled masks. The man stood jauntily between them like a fox on its hind legs.
 
 My companion didn’t glance at them, but she sat back. I noticed that one of the girls had a big yellow bruise on her forearm. After a moment they walked to a booth in the deep shadows.
 
@@ -2436,7 +2504,7 @@ She leaned forward again. “But I must get away,” she whispered.
 
 “Because I’m so frightened.”
 
-There were chimes. I opened the panel and handed her the fried shrimps. The sauce on my breast of chicken was a delicious steaming compound of almonds, soy and ginger. But something must have been wrong with the radionic oven that had thawed and heated it, for at the first bite I crunched a kernel of ice in the meat These delicate mechanisms need constant repair and there aren’t enough mechanics.
+There were chimes. I opened the panel and handed her the fried shrimps. The sauce on my breast of chicken was a delicious steaming compound of almonds, soy and ginger. But something must have been wrong with the radionic oven that had thawed and heated it, for at the first bite I crunched a kernel of ice in the meat. These delicate mechanisms need constant repair and there aren’t enough mechanics.
 
 I put down my fork. “What are you really scared of?” I asked her.
 
@@ -2452,25 +2520,25 @@ I nodded and touched her hand.
 
 “But it’s not England’s Moon any more. It’s ours and Russia’s. You’re not responsible.
 
-“Oh, and then,” she said with a tilt of her mask, “Fm afraid of the cars and the gangs and the loneliness and Inferno. I’m afraid of the lust that undresses your face. And —” her voice hushed—“I’m afraid of the wrestlers.”
+“Oh, and then,” she said with a tilt of her mask, “I’m afraid of the cars and the gangs and the loneliness and Inferno. I’m afraid of the lust that undresses your face. And—” her voice hushed—“I’m afraid of the wrestlers.”
 
-1 “Yes?” I prompted softly after a moment
+“Yes?” I prompted softly after a moment.
 
-Her mask came forward. “Do you know something about the wrestlers?” she asked rapidly. “The ones that wrestle women, I mean. They often lose, you know. And then they have to have a girl to take their frustration out on. A girl who’s soft and weak and terribly frightened. They need that to keep them men. Other men don’t want them to have a girl. Other men want them just to fight women and be heroes. But they must have a girl. It’s horrible for her.”
+Her mask came forward. “Do you know something about the wrestlers?” she asked rapidly. “The ones that wrestle women, I mean. They often lose, you know. And then they have to have a girl to take their frustration out on. A girl who’s soft and weak and terribly frightened. They need that, to keep them men. Other men don’t want them to have a girl. Other men want them just to fight women and be heroes. But they must have a girl. It’s horrible for her.”
 
-I squeezed her fingers tighter, as if courage could be transmitted—granting I had any. “I think I can get you to | England,” I said.
+I squeezed her fingers tighter, as if courage could be transmitted—granting I had any. “I think I can get you to England,” I said.
 
-Shadows crawled onto the table and stayed there. I ; looked up at the three men who had been at the end of the bar. They were the men I had seen in the big coupe. They | wore black sweaters and close-fitting black trousers. Their [ faces were as expressionless as dopers. Two of them stood about me. The other loomed over die girl.
+Shadows crawled onto the table and stayed there. I looked up at the three men who had been at the end of the bar. They were the men I had seen in the big coupe. They wore black sweaters and close-fitting black trousers. Their faces were as expressionless as dopers. Two of them stood about me. The other loomed over the girl.
 
 “Drift off, man,” I was told. I heard the other inform the girl: “We’ll wrestle a fall, sister. What shall it be? Judo, slapsie or kill-who-can?”
 
-I stood up. There are times when an Englishman simply j must be maltreated. But just then the foxlike man came gliding in like the star of a ballet The reaction of the other three startled me. They were acutely embarrassed.
+I stood up. There are times when an Englishman simply must be maltreated. But just then the foxlike man came gliding in like the star of a ballet. The reaction of the other three startled me. They were acutely embarrassed.
 
-He smiled at them thinly. “You won’t win my favour by | tricks like this,” he said.
+He smiled at them thinly. “You won’t win my favour by tricks like this,” he said.
 
-“Don’t get the wrong idea, Zirk,” one of them pleaded, t “I will if it’s right,” he said. “She told me what you tried to do this afternoon. That won’t endear you to me, either.
+“Don’t get the wrong idea, Zirk,” one of them pleaded.
 
-| Drift.”
+“I will if it’s right,” he said. “She told me what you tried to do this afternoon. That won’t endear you to me, either. Drift.”
 
 They backed off awkwardly. “Let’s get out of here,” one of them said loudly, as they turned. “I know a place where they fight naked with knives.”
 
@@ -2502,13 +2570,13 @@ He slowly knotted his fingers in her hair.
 
 “Listen, you little vermin,” I snapped at him. “Take your hands off her.”
 
-He came up from the seat like a snake. Fm no fighter. I just know that the more scared I am, the harder and straighter I hit. This time I was lucky. But as he crumpled back, I felt a slap and four stabs of pain in my cheek. I clapped my hand to it. I could feel the four gashes made by her dagger finger caps, and the warm blood oozing out from them.
+He came up from the seat like a snake. I’m no fighter. I just know that the more scared I am, the harder and straighter I hit. This time I was lucky. But as he crumpled back, I felt a slap and four stabs of pain in my cheek. I clapped my hand to it. I could feel the four gashes made by her dagger finger caps, and the warm blood oozing out from them.
 
-She didn’t look at me. She was bending over Little Zirk
+She didn’t look at me. She was bending over Little Zirk and cuddling her mask to his cheek and crooning: “There, Ehere, don’t feel bad, you’ll be able to hurt me afterward.”
 
-and cuddling her mask to his cheek and crooning: “There, Ehere, don’t feel bad, you’ll be able to hurt me afterward.” There were sounds around us, but they didn’t come -lose. I leaned forward and ripped the mask from her face.
+There were sounds around us, but they didn’t come close. I leaned forward and ripped the mask from her face.
 
-I really don’t know why I should have expected her face So be anything else. It was very pale, of course, and there -weren’t any cosmetics. I suppose there’s no point in wearring any under a mask. The eyebrows were untidy and the Mips chapped. But as for the general expression, as for the feelings crawling and wriggling across it—
+I really don’t know why I should have expected her face to be anything else. It was very pale, of course, and there weren’t any cosmetics. I suppose there’s no point in wearring any under a mask. The eyebrows were untidy and the Mips chapped. But as for the general expression, as for the feelings crawling and wriggling across it—
 
 Have you ever lifted a rock from damp soil? Have you sver watched the slimy white grubs?
 
@@ -2516,9 +2584,14 @@ I looked down at her, she up at me. “Yes, you’re so lightened, aren’t you?
 
 And I walked right out into the purple night, still holding my hand to my bleeding cheek. No one stopped me, not even the girl wrestlers. I wished I could tear a tab from .under my shirt, and test it then and there, and find I’d tak-3n too much radiation, and so be able to ask to cross the Hudson and go down New Jersey, past the lingering radiance of the Narrows Bomb, and so on to Sandy Hook to .wait for the rusty ship that would take me back over the seas to England.
 
-Poor Superman
+---
 
-The first angry rays of the sun—which, startlingly enough, still rose in the east at twenty-four-hour intervals I —pierced the lacy tops of Atlantic combers and touched thousands of sleeping Americans with unconscious fear, ; because of their unpleasant similarity to the rays from World War Ill’s atomic bombs.
+poor_superman
+
+# Poor Superman
+
+.fl
+<span class="smallcaps">The first angry</span> rays of the sun—which, startlingly enough, still rose in the east at twenty-four-hour intervals I—pierced the lacy tops of Atlantic combers and touched thousands of sleeping Americans with unconscious fear, ; because of their unpleasant similarity to the rays from World War Ill’s atomic bombs.
 
 They turned to blood the witch circle of rusty steel skeletons around Inferno in Manhattan. Without comment, they pointed a cosmic finger at the tarnished brass plaque [ commemorating the martyrdom of the three physicists after the dropping of the Hell Bomb. They tenderly touched the rosy skin and strawberry bruises on the naked shoulders of a girl sleeping off a drunk on the furry and radiantly heated floor of a nearby roof garden. They struck green magic from the glassy blot that was Old Washington. Twelve' hours before, they had revealed things as eerily beautiful, i and more ravaged, in Asia and Russia. They pinked the white walls of the colonial dwelling of Morton Opperly. near the Institute for Advanced Studies; upstairs they slant-, ed impartially across the Pharaoh-like and open-eyed face j of the elderly physicist and the ugly, sleep-surly one of young Willard Farquar in the next room. And in nearby t New Washington they made of the spire of the Thinkers’
 
@@ -2568,13 +2641,13 @@ This was the machine that the timid cyberneticists and stuffy professional scien
 
 Gazing up at it, the President of the United States felt a : chord plucked within him that hadn’t been sounded for decades, the dark and shivery organ chord of his Baptist childhood. Here, in a strange sense, although his reason re- ■ jected it, he felt he stood face to face with the living God:  infinitely stern with the sternness of reality, yet infinitely  just. No tiniest error or willful misstep could ever escape [ the scutiny of this vast mentality. He shivered.
 
-The grizzled general—there was also one who was gray ! —was thinking that this was a very odd link in the chain of command. Some shadowy and usually well-controlled t memories from World War II faintly stirred his ire. Here i he was giving orders to a being immeasurably more intelli- i gent than himself. And always orders of the “Tell me how ) to kill that man” rather than the “Kill that man” sort. The f distinction bothered him obscurely. It relieved him to know r that Maizie had built-in controls which made her always I the servant of humanity, or of humanity’s right-minded leaders—even the Thinkers weren’t certain which.
+The grizzled general—there was also one who was gray !—was thinking that this was a very odd link in the chain of command. Some shadowy and usually well-controlled t memories from World War II faintly stirred his ire. Here i he was giving orders to a being immeasurably more intelli- i gent than himself. And always orders of the “Tell me how ) to kill that man” rather than the “Kill that man” sort. The f distinction bothered him obscurely. It relieved him to know r that Maizie had built-in controls which made her always I the servant of humanity, or of humanity’s right-minded leaders—even the Thinkers weren’t certain which.
 
 The gray general was thinking uneasily, and, like the President, at a more turbid level, of the resemblance between Papal infallibility and the dictates of the machine. B Suddenly his bony wrists began to tremble. He asked him- i self: Was this the Second Coming? Mightn’t an incarnation l be in metal rather than flesh?
 
 The austere Secretary of State was remembering what I he’d taken such pains to make everyone forget: his youth- 1 ful flirtation at Lake Success with Buddhism. Sitting before his guru, his teacher, feeling the Occidental’s awe at the fl wisdom of the East, or its pretense, he had felt a little like I this.
 
-The burly Secretary of Space, who had come up through United Rockets, was thanking his stars that at any rate the i professional scientists weren’t responsible for this job. Like f the grizzled general, he’d always felt suspicious of men who t kept telling you how to do things, rather than doing them t themselves. In World War III he’d had his fill of the professional physicists, with their eternal taint of a misty sort of radicalism and free-thinking. The Thinkers were better —more disciplined, more human. They’d called their brain pnachine Maizie, which helped take the curse off her. Somewhat.
+The burly Secretary of Space, who had come up through United Rockets, was thanking his stars that at any rate the i professional scientists weren’t responsible for this job. Like f the grizzled general, he’d always felt suspicious of men who t kept telling you how to do things, rather than doing them t themselves. In World War III he’d had his fill of the professional physicists, with their eternal taint of a misty sort of radicalism and free-thinking. The Thinkers were better—more disciplined, more human. They’d called their brain pnachine Maizie, which helped take the curse off her. Somewhat.
 
 The President’s secretary, a paunchy veteran of party caucuses, was also glad that it was the Thinkers who had created the machine, though he trembled at the power that kt gave them over the Administration. Still, you could do business with the Thinkers. And nobody (not even the [Thinkers) could do business (that sort of business) with Maizie!
 
@@ -3058,9 +3131,16 @@ Caddy leaned forward. Her arms snaked down Tregar- i ron’s, as if to imprison 
 
 She said very sweetly and sympathetically, “Poor Superman.”
 
-K Pail of Air ►A had sent me out to get an extra pail of air. I’d just "bout scooped it full and most of the warmth had leaked om my fingers when I saw the thing.
+---
 
-You know, at first I thought it was a young lady. Yes, a eautiful young lady’s face all glowing in the dark and coking at me from the fifth floor of the opposite apartment, which hereabouts is the floor just above the white lanket of frozen air four storeys thick. I’d never seen a we young lady before, except in the old magazines—Sis is ust a kid and Ma is pretty sick and miserable—and it gave me such a start that I dropped the pail. Who wouldn’t, mowing everyone on Earth was dead except Pa and Ma md Sis and you?
+a_pail_of_air
+
+# A Pail of Air
+
+.fl
+<span class="smallcaps">Pa had sent</span> me out to get an extra pail of air. I’d just about scooped it full and most of the warmth had leaked from my fingers when I saw the thing.
+
+You know, at first I thought it was a young lady. Yes, a beautiful young lady’s face all glowing in the dark and looking at me from the fifth floor of the opposite apartment, which hereabouts is the floor just above the white blanket of frozen air four storeys thick. I’d never seen a we young lady before, except in the old magazines—Sis is ust a kid and Ma is pretty sick and miserable—and it gave me such a start that I dropped the pail. Who wouldn’t, mowing everyone on Earth was dead except Pa and Ma md Sis and you?
 
 Even at that, I don’t suppose I should have been sur-rrised. We all see things now and then. Ma sees some pret-v bad ones, to judge from the way she bugs her eyes at othing and just screams and screams and huddles back gainst the blankets hanging around the Nest Pa says it is atural we should react like that sometimes.
 
@@ -3082,9 +3162,9 @@ It’s Pa who is the chief guardian of the fire, though. I always think of him t
 
 Yet it’s that glimmery blue-white stuff in the pail that rceeps us alive. It slowly melts and vanishes and refreshes the Nest and feeds the fire. The blankets keep it from escaping too fast. Pa’d like to seal the whole place, but he can’t—building’s too earthquake-twisted, and besides he ihas to leave the chimney open for smoke. But the chimney lias special things Pa calls baffles up inside it, to keep the [air from getting out too quick that way. Sometimes Pa, making a joke, says it baffles him they keep on working, or [/work at all.
 
-rfrowning anxiously at the fire, his lined face golden in its light, and every so often carefully placing on it a piece of coal from the big heap beside it. Pa tells me there used to ne guardians of the fire sometimes in the very old days— svestals, he calls them—although there was unfrozen air all around then and a sun too and you didn’t really need a fire.
+rfrowning anxiously at the fire, his lined face golden in its light, and every so often carefully placing on it a piece of coal from the big heap beside it. Pa tells me there used to ne guardians of the fire sometimes in the very old days—svestals, he calls them—although there was unfrozen air all around then and a sun too and you didn’t really need a fire.
 
-He was sitting just that way now, though he got up quick Cto take the pail from me and bawl me out for loitering— rne’d spotted my frozen helmet right off. That roused Ma and she joined in picking on me. She’s always trying to get tlhe load off her feelings, Pa explains. He shut her up pretty fast Sis let off a couple of silly squeals too.
+He was sitting just that way now, though he got up quick Cto take the pail from me and bawl me out for loitering—rne’d spotted my frozen helmet right off. That roused Ma and she joined in picking on me. She’s always trying to get tlhe load off her feelings, Pa explains. He shut her up pretty fast Sis let off a couple of silly squeals too.
 
 Pa handled the pail of air in a twist of cloth. Now that it [was inside the Nest, you could really feel its coldness. It iust seemed to suck the heat out of everything. Even the ■flames cringed away from it as Pa put it down close by the Are.
 
@@ -3114,7 +3194,7 @@ I hadn’t said anything about first thinking it was a young lady’s face. Some
 
 “And it didn’t look like stray electricity or crawling liquid or starlight focused by a growing crystal, or anything like that?”
 
-He wasn’t just making up those ideas. Odd things happen in a world that’s about as cold as can be, and just when ryou think matter would be frozen dead, it takes on a '•strange new life. A slimy stuff comes crawling toward the INest, just like an animal snuffing for heat—that’s the liquid Ehelium. And once, when I was little, a bolt of lightning— root even Pa could figure where it came from—hit the near-fby steeple and crawled up and down it for weeks, until the HjJow finally died.
+He wasn’t just making up those ideas. Odd things happen in a world that’s about as cold as can be, and just when ryou think matter would be frozen dead, it takes on a '•strange new life. A slimy stuff comes crawling toward the INest, just like an animal snuffing for heat—that’s the liquid Ehelium. And once, when I was little, a bolt of lightning—root even Pa could figure where it came from—hit the near-fby steeple and crawled up and down it for weeks, until the HjJow finally died.
 
 “Not like anything I ever saw,” I told him.
 
@@ -3190,7 +3270,7 @@ We’ve often asked Pa how people acted during that time, whether they were scar
 
 You see, Pa and some scientist friends of his had figured out part of what was going to happen—they’d known we’d get captured and our air would freeze—and they’d been working like mad to fix up a place with airtight walls and doors, and insulation against the cold, and big supplies of food and fuel and water and bottled air. But the place got smashed in the last earthquakes and all Pa’s friends were killed then and in the Big Swoop. So he had to start over and throw the Nest together quick without any advantages, just using any stuff he could lay his hands on.
 
-I guess he’s telling pretty much the truth when he says he didn’t have any time to keep an eye on how other folks behaved, either then or in the Big Freeze that followed— followed very quick, you know, both because the dark star was pulling us away very fast and because Earth’s rotation had been slowed by the tug-of-war and the tides, so that the nights were longer.
+I guess he’s telling pretty much the truth when he says he didn’t have any time to keep an eye on how other folks behaved, either then or in the Big Freeze that followed—followed very quick, you know, both because the dark star was pulling us away very fast and because Earth’s rotation had been slowed by the tug-of-war and the tides, so that the nights were longer.
 
 Still, I’ve got an idea of some of the things that happened from the frozen folk I’ve seen, a few of them in other rooms in our building, others clustered around the furnaces in the basements where we go for coal.
 
@@ -3282,24 +3362,29 @@ He nodded and put another piece of coal on the fire. Then he looked at the littl
 
 “You’ll quickly get over that feeling, son,” he said. “The trouble with the world was that it kept getting smaller and smaller, till it ended with just the Nest. Now it’ll be good to start building up to a real huge world again, the way it was in the beginning.”
 
-I guess he’s right. You think the beautiful young lady will wait for me till I grow up? I asked her that and she smiled to thank me and then she told me she’s got a daughter almost my age and that there are lots of children at the atomic places. Imagine that
+I guess he’s right. You think the beautiful young lady will wait for me till I grow up? I asked her that and she smiled to thank me and then she told me she’s got a daughter almost my age and that there are lots of children at the atomic places. Imagine that.
 
-The Foxholes of Mars
+---
 
-Ever inward from the jagged horizon, the machines of death crept, edged, scurried, rocketed and tunneled towards him. It seemed as if all this purple-sunned creation had conspired to isolate and smash him. To the west—for all planets share a west, if nothing else—the nuclear bombs bloomed, meaningless giant fungi. While invisibly overhead the space ships roared as they dipped into the atmosphere —distant as gods, yet shaking the yellow sky. Even the soil was treacherous, nauseated by artificial earthquakes—nobody’s mother, least of all an Earthman’s.
+the_foxholes_of_mars
+
+# The Foxholes of Mars
+
+.fl
+<span class="smallcaps">Ever inward from</span> the jagged horizon, the machines of death crept, edged, scurried, rocketed and tunneled towards him. It seemed as if all this purple-sunned creation had conspired to isolate and smash him. To the west—for all planets share a west, if nothing else—the nuclear bombs bloomed, meaningless giant fungi. While invisibly overhead the space ships roared as they dipped into the atmosphere—distant as gods, yet shaking the yellow sky. Even the soil was treacherous, nauseated by artificial earthquakes—nobody’s mother, least of all an Earthman’s.
 
 “Why don’t you cheer up?” the others said to him. “It’s a mad planet.” But he would not cheer up, for he knew what they said was literally true.
 
 He ducked and compressed himself as objects many times shattered, spurted up and cascaded. Soon they would fall back and the enemy would retake the mangled thing they called an objective. Was it the sixth time? The seventh? And did the soldiers on the other side have six legs, or eight? The enemy was pretty haphazard as to what troops he used in this sector.
 
-Worst was the noise. Meaningless, mechanical screeches tore at his skull, until thoughts rattled around in it like dry seeds in a dry pod. How could anyone ever love the various shock-transmitting mixtures of gases humorously
-
-called air? Even the vacuum of space was less hateful—it was silent and clean. He started to lift his hands to his ears, then checked the gesture, convulsed in soundless laughter and tearless weeping. There had been a galactic society—a galactic empire—once. He had played an unnoticed part on one of its nice quiet planets. But now? Galactic empire? Galactic horse-dung! Perhaps he had always hated his fellow men as much. But in the prewar days his hatred had been closely bound and meticulously repressed. It was still bound, tighter than ever, but it was no longer repressed from his thoughts.
+Worst was the noise. Meaningless, mechanical screeches tore at his skull, until thoughts rattled around in it like dry seeds in a dry pod. How could anyone ever love the various shock-transmitting mixtures of gases humorously called air? Even the vacuum of space was less hateful—it was silent and clean. He started to lift his hands to his ears, then checked the gesture, convulsed in soundless laughter and tearless weeping. There had been a galactic society—a galactic empire—once. He had played an unnoticed part on one of its nice quiet planets. But now? Galactic empire? Galactic horse-dung! Perhaps he had always hated his fellow men as much. But in the prewar days his hatred had been closely bound and meticulously repressed. It was still bound, tighter than ever, but it was no longer repressed from his thoughts.
 
 The deadly engine he tended, silent for a moment, began again to chatter to those of the enemy, although its voice was mostly drowned by their booming ones, like a spiteful child in a crush of complacent adults.
 
-It turned out they had been covering a withdrawal of Martian sappers and must now escape as best they might The officer running beside him fell. He hesitated. The officer cursed a new, useless joint that had appeared in his leg. All the others—including the black-shelled Martians —were ahead. He glanced around fearfully and tormented-ly, as if he were about to commit a hideous crime. Then he lifted the officer and staggered on, reeling like a top at the end of its spin. He was still grinning in a spasmic way when they reached the security of lesser danger; and even when the officer thanked him with curt sincerity he couldn’t stop. Nevertheless, they gave him the Order of Planetary Merit for that.
+.space
+It turned out they had been covering a withdrawal of Martian sappers and must now escape as best they might The officer running beside him fell. He hesitated. The officer cursed a new, useless joint that had appeared in his leg. All the others—including the black-shelled Martians—were ahead. He glanced around fearfully and tormented-ly, as if he were about to commit a hideous crime. Then he lifted the officer and staggered on, reeling like a top at the end of its spin. He was still grinning in a spasmic way when they reached the security of lesser danger; and even when the officer thanked him with curt sincerity he couldn’t stop. Nevertheless, they gave him the Order of Planetary Merit for that.
 
+.space
 He stared at the watery soup and meat shreds in his mess tin. The cellar was cool, and its seats—though built for creatures with four legs and two arms—were comfortable. The purple daylight was pleasantly muted. The noise had gone a little way off, playing cat and mouse. He was alone.
 
 Of course life had never had any meaning, except for the chillingly sardonic one perceptible to the demons in the nuclear bombs and the silver giants in space who pushed the buttons; and he had no stomach to aspire to that They’d
@@ -3392,13 +3477,18 @@ mal trainer on a galactic scale. What a zoo he’d have some day—and every sin
 
 Other words and phrases began to ooze up into his mind. “Thinkers! Listen to me . . . cheated of what you deserve . . . misled by misled men . . . the galactic runaround . . . this engineered truce . . . the creatures who used the war to consolidate their power . . . The Cosmic Delcaration of Servitude. . . life—to lose . . . liberty—to obey . . . and as for the pursuit of happiness—happiness is a light millennium ahead of all of us . . . our universal rights. . . . We have thirty armored planetoids orbiting uselessly, three hundred starships, three thousand spaceships, and three million space veterans sweating in servile jobs in this system alone! Free Martia! Terra for All! Revenge. .
 
-These unspoken words, he felt, were the harbingers of leadership. Alexander had done it Hitler had done it Smith had done it Hrivlath had done it The Neuron had done it The Great Centaur had done it All murderers— and only murderers won. He saw the brilliant light-years of his future stretch ahead, endlessly. He saw no details, but it was all of the same imperial color. Never again would he hesitate. Each moment would decide something. Each of his future actions would drop like a grain of sand from an ancient hour glass, inevitably.
+These unspoken words, he felt, were the harbingers of leadership. Alexander had done it Hitler had done it Smith had done it Hrivlath had done it The Neuron had done it The Great Centaur had done it All murderers—and only murderers won. He saw the brilliant light-years of his future stretch ahead, endlessly. He saw no details, but it was all of the same imperial color. Never again would he hesitate. Each moment would decide something. Each of his future actions would drop like a grain of sand from an ancient hour glass, inevitably.
 
 Profound excitement seized him. The scene around him grew and grew until he seemed at the center of a vast, ominous spellbound crowd that filled the galaxy. The faces of his friends were close, eager and confident. And from a great distance, as if the stars themselves pricked out its pattern on the dark like a new constellation, he seemed to see his own face staring back at him, pale, skulleyed, and insatiably hungry.
 
-The Big Holiday
+---
 
-The whistles blew. A thousand hands switched off pocket radios and wall-size television screens, right in the middle of the Martian newscast Another 500 all around the town locked the motors of sky scooters and ground buggies. A dozen cash registers rang up lucky last sales and were silent, locked. Two thousand throats breathed a sigh of relief. Two thousand hearts began to warm.
+the_big_holiday
+
+# The Big Holiday
+
+.fl
+<span class="smallcaps">The whistles blew.</span> A thousand hands switched off pocket radios and wall-size television screens, right in the middle of the Martian newscast Another 500 all around the town locked the motors of sky scooters and ground buggies. A dozen cash registers rang up lucky last sales and were silent, locked. Two thousand throats breathed a sigh of relief. Two thousand hearts began to warm.
 
 The whistles blew. Mrs. Pullen slammed a last batch of cookies into the electronic oven, counted to ten, switched it off, wiped her face, and stood there beaming at the fragrant towers of her handiwork—a gray-haired princess in a cookie castle. Mrs. Goldfarb smiled at her brown and creamflecked woodpiles of blintzes. Mr. Gianelli, his eyes watering with heat and spices, admired his steaming log jams of Italian sausage. Widowed Mr. Tomlinson was contemplating his bowls of hard-boiled eggs when a goddess shot him in the back with a silver arrow. He turned around and commented, “That tunic is a bit daring, pet.” His daughter, new to grown-up life as a pussy willow, waved her plastic bow and said, “I’m going as Diana.” Mr. Tomlinson mused, “Ah, the fleet-footed huntress.”
 
@@ -3510,7 +3600,7 @@ I Things got livelier. Rotary, Baptist Church, Volunteer [ Fire Department, and 
 
 People laughed, people talked, people milled, people mocked, people got it off their chests. It got dark. Small children were herded off to dormitories to be told wonderful stories by parents who babysat by turns. The square blossomed with bobbing lanterns. People ate quite a bit and drank quite a little. Space was cleared in the street and the dancing started.
 
-Mr. Felton weaved up to Mr. Wilson, decided that this was the man he’d been arguing with in the dark for a long, long time. “Look,” he said with brotherly aggressiveness, “I don’t hold with those folk who say America never had any good holidays and parties until now. Why, America’s the home of holidays.” His aplomb became professorial and his tongue began to trip more lightly than any sober man’s possibly could. “There’s the clambake, the cocktail party, the Sunday school picnic, the convention, the moon-jaunt, the field day, the jam session, the ten-way telephone call, the treasure hunt, the week end, the round-the-world-in-a-day-and-a-half—” He gulped a huge breath and grabbed tight to Mr. Wilson, who showed signs of edging off. “— the pub crawl, the night-to-howl, the barbecue, the wiener roast, the Sunday copter soar, the Kentucky frolic, the county fair, the retreat, the psychodrama, the psychoanalysis, the space-scoot, the blanket party, bundling, the revival, the over-the-top-of-the-world, and the fishing trip!” He waved his arms wildly and proclaimed, “They had Christmas, New Year’s, Labor Day, Mother’s Day, Father’s Day, Sweetest Day—oh, and all sorts of holidays a man might enjoy with pleasure and profit Only—” (and he hiccuped wisely) “—they got just a little too profitable.”
+Mr. Felton weaved up to Mr. Wilson, decided that this was the man he’d been arguing with in the dark for a long, long time. “Look,” he said with brotherly aggressiveness, “I don’t hold with those folk who say America never had any good holidays and parties until now. Why, America’s the home of holidays.” His aplomb became professorial and his tongue began to trip more lightly than any sober man’s possibly could. “There’s the clambake, the cocktail party, the Sunday school picnic, the convention, the moon-jaunt, the field day, the jam session, the ten-way telephone call, the treasure hunt, the week end, the round-the-world-in-a-day-and-a-half—” He gulped a huge breath and grabbed tight to Mr. Wilson, who showed signs of edging off. “—the pub crawl, the night-to-howl, the barbecue, the wiener roast, the Sunday copter soar, the Kentucky frolic, the county fair, the retreat, the psychodrama, the psychoanalysis, the space-scoot, the blanket party, bundling, the revival, the over-the-top-of-the-world, and the fishing trip!” He waved his arms wildly and proclaimed, “They had Christmas, New Year’s, Labor Day, Mother’s Day, Father’s Day, Sweetest Day—oh, and all sorts of holidays a man might enjoy with pleasure and profit Only—” (and he hiccuped wisely) “—they got just a little too profitable.”
 
 Miss Kidd, dressed like Cleopatra, glided in front of Mr. Wilson. He put his arms around her.
 
@@ -3524,9 +3614,14 @@ It got real dark. New lights flamed and flared. The music rat faster. Miss Kidd 
 
 Joy spun and flowers sprang from her dress, joined those mderfoot. Friendship waltzed with Love, Fun cut didoes, hile Laziness smiled and snoozed by turns. Dark shop-"onts all around the square reflected a whirling rout of coin's. But overhead there was nothing to turn back the hap--y hues and they shot upward, through air untroubled by ridio waves or the roar of jets, to join those from a itmdred thousand other towns on Earth and Mars, and ash a gay message to the twinkling, friendly stars.
 
-The Night He Cried
+---
 
-I glanced down my neck secretly at the two snowy hillocks, ruby peaked, that were pushing out my blouse tautly without the aid of a brassiere. I decided they’d more than do. So I turned away scornfully as his vast top-down convertible cruised past my street lamp. I struck my hip and a big match against the fluted column, and lit a cigarette. I was Lili Marlene to a T—or rather a V-neckline. (I must tell you that my command of earth-idiom and allusion is remarkable, but if you’d had my training you wouldn’t wonder.)
+the_night_he_cried
+
+# The Night He Cried
+
+.fl
+<span class="smallcaps">I glanced down</span> my neck secretly at the two snowy hillocks, ruby peaked, that were pushing out my blouse tautly without the aid of a brassiere. I decided they’d more than do. So I turned away scornfully as his vast top-down convertible cruised past my street lamp. I struck my hip and a big match against the fluted column, and lit a cigarette. I was Lili Marlene to a T—or rather a V-neckline. (I must tell you that my command of earth-idiom and allusion is remarkable, but if you’d had my training you wouldn’t wonder.)
 
 The convertible slowed down and backed up. I smiled. Td been certain that my magnificently formed milk glands would turn the trick. I puffed on my cigarette languorously-
 
@@ -3596,7 +3691,7 @@ He considered that as he slowly and carefully walked karound the car and got beh
 
 “What sort of thing?”
 
-“Girls turning up in your car, your bar, your bedroom —everywhere.”
+“Girls turning up in your car, your bar, your bedroom—everywhere.”
 
 “Where’d you hear it?”
 
@@ -3676,7 +3771,7 @@ The ice-blonde squawked, threw up her hands as if she’d had a shot of strychni
 
 I downed the scotch and advanced, shattering the paralyzed space time that Slickie seemed to be depending on as a defense.
 
-“Slickie,” I said, “let’s get down to cases. I am indeed from Galaxy Center and we very definitely don’t like your attitude. We don’t care what your motives are, or whether they are derived from jumbled genes, a curdled childhood, or a sick society. We simply love you and we want you to reform.” I grabbed him by a shivering shoulder that was now hardly higher than my waist, and dragged him into the bedroom, snatching up the rest of the scotch on the way. I switched on the light. The bedroom was a really lust love-nest. I drained the scotch—there was about a half liter left —and faced the cowering Slickie. “Now do to me,” I told him uncompromisingly, “the thing you’re always going to do to those girls, except you have to shoot them.”
+“Slickie,” I said, “let’s get down to cases. I am indeed from Galaxy Center and we very definitely don’t like your attitude. We don’t care what your motives are, or whether they are derived from jumbled genes, a curdled childhood, or a sick society. We simply love you and we want you to reform.” I grabbed him by a shivering shoulder that was now hardly higher than my waist, and dragged him into the bedroom, snatching up the rest of the scotch on the way. I switched on the light. The bedroom was a really lust love-nest. I drained the scotch—there was about a half liter left—and faced the cowering Slickie. “Now do to me,” I told him uncompromisingly, “the thing you’re always going to do to those girls, except you have to shoot them.”
 
 He frothed like an epileptic, snatched out his cannon and emptied its magazine into various parts of my torso, but since he hit only two of my five brains, I wasn’t bothered. I reeled back bloodily through the blue smoke and fell into the bathroom. I felt real crazy—maybe I shouldn’t have taken that last half liter. I reconstituted my torso faster even than I had my head, but my silver lame frock was
 
@@ -3702,9 +3797,14 @@ Over and over again I told him how I loved him.
 
 It didn’t seem to help. Slickie Millane continued to weep hysterically.
 
-The Big Trek
+---
 
-I didn’t know if Fd got to this crazy place by rocket, space dodger, time twister—or maybe even on foot the way I felt so beat My memory was gone. When I woke up there was just the desert all around me with the gray sky pressing down like the ceiling of an enormous room. The desert. . . and the big trek. And that was enough to make me stop grabbing for my memory and take a quick look at my pants to make sure I was human.
+the_big_trek
+
+# The Big Trek
+
+.fl
+<span class="smallcaps">I didn’t know</span> if I’d got to this crazy place by rocket, space dodger, time twister—or maybe even on foot the way I felt so beat My memory was gone. When I woke up there was just the desert all around me with the gray sky pressing down like the ceiling of an enormous room. The desert. . . and the big trek. And that was enough to make me stop grabbing for my memory and take a quick look at my pants to make sure I was human.
 
 These, well, animals were shuffling along about four abreast in a straggly line that led from one end of nowhere to the other, right past my rocky hole. Wherever they were heading they seemed to have come from everywhere and maybe everywhen. There were big ones and little ones, some like children and some just small. A few went on two feet, but more on six or eight, and there were wrigglers, rollers, oozers, flutterers and hoppers; I couldn’t decide whether the low-flying ones were pets or pals. Some had scales, others feathers, bright armor like beetles or fancy hides like zebras, and quite a few wore transparent suits holding air or other gases, or water or other liquids, though some of the suits were tailored for a dozen tentacles and some for no legs at all. And dam if their shuffle—to pick one word for all the kinds of movement—wasn’t more like a dance than a lockstep.
 
@@ -3748,27 +3848,35 @@ I kept on shuffling happily forward, though more slowly now, and to either side 
 
 She traced a circle with her head and I did the same, and the octopus traced a smaller circle with a free tentacle, and I knew that one of the reasons I hadn’t used Earth-talk was that I was going to keep quiet until I learned or remembered their languages, and that another reason was that the hairy fourfooters back in the ruins had been men like me and I hated them but these creatures beside me were my kind, and that we had come to take one last look at the Earth that had destroyed itself and at the men who had stayed on Earth and not got away like me—to come back and lose my memory from the shock of being on my degraded ancestral planet
 
-Then we clasped hands tight, which pushed the buttons in our palms. Our jets blossomed out behind us and we were diving up together out of this world through the smoothly rounded doughnut hole toward the stars. I realized that space wasn’t empty and that those points of light in the blackness weren’t lonely at alL
+Then we clasped hands tight, which pushed the buttons in our palms. Our jets blossomed out behind us and we were diving up together out of this world through the smoothly rounded doughnut hole toward the stars. I realized that space wasn’t empty and that those points of light in the blackness weren’t lonely at all.
 
-Space-Time for Springers
+---
 
-Gummitch was a superkitten, as he knew very well, with an L Q. of about 160. Of course, he didn’t talk. But everybody knows that I. Q. tests based on language ability are very onesided. Besides, he would talk as soon as they started setting a place for him at table and pouring him coffee. Ashurbanipal and Cleopatra ate horsemeat from pans on the floor and they didn’t talk. Baby dined in his crib on milk from a bottle and he didn’t talk. Sissy sat at table but they didn’t pour her coffee and she didn’t talk—not one word. Father and Mother (whom Gummitch had nicknamed Old Horsemeat and Kitty-Come-Here) sat at table and poured each other coffee and they did talk. Q. E. D.
+space-time_for_springers
 
-Meanwhile, he would get by very well on thought projection and intuitive understanding of all human speech —not even to mention cat patois, which almost any civilized animal could play by ear. The dramatic monologues and Socratic dialogues, the quiz and panel show appearances, the felidological expedition to darkest Africa (where he would uncover the real truth behind lions and tigers), the exploration of the outer planets—all these could wait. The same went for the books for which he was ceaselessly accumulating material: The Encyclopedia of Odors, An-thropofeline Psychology, Invisible Signs and Secret Wonders, Space-Time for Springers, Slit Eyes Look at Life, et cetera. For the present it was enough to live existence to the hilt and soak up knowledge, missing no experience proper to his age level—to rush about with tail aflame.
+# Space-Time for Springers
+
+.fl
+<span class="smallcaps">Gummitch was a superkitten,</span> as he knew very well, with an L Q. of about 160. Of course, he didn’t talk. But everybody knows that I. Q. tests based on language ability are very onesided. Besides, he would talk as soon as they started setting a place for him at table and pouring him coffee. Ashurbanipal and Cleopatra ate horsemeat from pans on the floor and they didn’t talk. Baby dined in his crib on milk from a bottle and he didn’t talk. Sissy sat at table but they didn’t pour her coffee and she didn’t talk—not one word. Father and Mother (whom Gummitch had nicknamed Old Horsemeat and Kitty-Come-Here) sat at table and poured each other coffee and they *did* talk. Q. E. D.
+
+Meanwhile, he would get by very well on thought projection and intuitive understanding of all human speech—not even to mention cat patois, which almost any civilized animal could play by ear. The dramatic monologues and Socratic dialogues, the quiz and panel show appearances, the felidological expedition to darkest Africa (where he would uncover the real truth behind lions and tigers), the exploration of the outer planets—all these could wait. The same went for the books for which he was ceaselessly accumulating material: *The Encyclopedia of Odors*, *Anthropofeline Psychology*, *Invisible Signs and Secret Wonders*, *Space-Time for Springers*, *Slit Eyes Look at Life*, et cetera. For the present it was enough to live existence to the hilt and soak up knowledge, missing no experience proper to his age level—to rush about with tail aflame.
 
 So to all outward appearances Gummitch was just a vividly normal kitten, as shown by the succession of nicknames he bore along the magic path that led from blueeyed infancy toward puberty: Little One, Squawker, Portly, Bumble (for purring not clumsiness), Old Starved-to-Death, Fierso, Loverboy (affection not sex), Spook and Catnik. Of these only the last perhaps requires further explanation: the Russians had just sent Muttnik up after Sputnik, so that when one evening Gummitch streaked three times across the firmament of the living room floor in the same direction, past the fixed stars of the humans and the comparatively slow-moving heavenly bodies of the two older cats, and Kitty-Come-Here quoted the line from Keats:
 
+.space.thin
 Then felt I like some watcher of the skies When a new planet swims into his ken;
 
-it was inevitable that Old Horsemeat would say, “Ah— Catnikl”
+.fl
+it was inevitable that Old Horsemeat would say, “Ah—Catnik!”
 
+.space
 The new name lasted all of three days, to be replaced by Gummitch, which showed signs of becoming permanent.
 
 The little cat was on the verge of truly growing up, at least so Gummitch overheard Old Horsemeat comment to Kitty-Come-Here. A few short weeks, Old Horsemeat said, and Gummitch’s fiery flesh would harden, his slim neck thicken, the electricity vanish from everything but his fur, and all his delightful kittenish qualities rapidly give way to the earthbound singlemindedness of a tom. They’d be lucky, Old Horsemeat concluded, if he didn’t turn completely surly like Ashurbanipal.
 
 Gummitch listened to these predictions with gay unconcern and with secret amusement from his vantage point of superior knowledge, in the same spirit that he accepted so many phases of his outwardly conventional existence: the murderous sidelong looks he got from Ashurbanipal and
 
-Cleopatra as he devoured his own horsemeat from his own littie tin pan, because they sometimes were given canned catfood but he never; the stark idiocy of Baby, who didn’t know the difference between a live cat and a stuffed teddy bear and who tried to cover up his ignorance by making goo-goo noises and poking indiscriminately at all eyes; the far more serious—because cleverly hidden—maliciousness of Sissy, who had to be watched out for warily—especially when you were alone—and whose retarded—even warped —development, Gummitch knew, was Old Horsemeat and Kitty-Come-Here’s deepest, most secret, worry (more of Sissy and her evil ways soon); the limited intellect of Kit-ty-Come-Here, who despite the amounts of coffee she drank was quite as featherbrained as kittens are supposed to be and who firmly believed, for example, that kittens operated in the same space-time as other beings—that to get from here to there they had to cross the space between— and similar fallacies; the mental stodginess of even Old Horsemeat, who although he understood quite a bit of the secret doctrine and talked intelligently to Gummitch when they were alone, nevertheless suffered from the limitations of his status—a rather nice old god but a maddeningly slow-witted one.
+Cleopatra as he devoured his own horsemeat from his own littie tin pan, because they sometimes were given canned catfood but he never; the stark idiocy of Baby, who didn’t know the difference between a live cat and a stuffed teddy bear and who tried to cover up his ignorance by making goo-goo noises and poking indiscriminately at all eyes; the far more serious—because cleverly hidden—maliciousness of Sissy, who had to be watched out for warily—especially when you were alone—and whose retarded—even warped—development, Gummitch knew, was Old Horsemeat and Kitty-Come-Here’s deepest, most secret, worry (more of Sissy and her evil ways soon); the limited intellect of Kit-ty-Come-Here, who despite the amounts of coffee she drank was quite as featherbrained as kittens are supposed to be and who firmly believed, for example, that kittens operated in the same space-time as other beings—that to get from here to there they had to cross the space between—and similar fallacies; the mental stodginess of even Old Horsemeat, who although he understood quite a bit of the secret doctrine and talked intelligently to Gummitch when they were alone, nevertheless suffered from the limitations of his status—a rather nice old god but a maddeningly slow-witted one.
 
 But Gummitch could easily forgive all this massed inadequacy and downright brutishness in his felino-human household, because he was aware that he alone knew the real truth about himself and about other kittens and babies as well, the truth which was hidden from weaker minds, the truth that was as intrinsically incredible as the germ theory of disease or the origin of the whole great universe in the explosion of a single atom.
 
@@ -3806,7 +3914,7 @@ Gummitch continued to feel a great deal of sympathy for his parents in their wor
 
 the day when he would metamorphose and be able as an acknowledged man-child truly to console them. It was heartbreaking to see how they each tried to coax the little gill to talk, always attempting it while the other was absent, how they seized on each accidentally wordlike note in the few sounds she uttered and repeated it back to her hopefully, how they were more and more possessed by fears not so much of her retarded (they thought) development as of her increasingly obvious maliciousness, which was directed chiefly at Baby . . . though the two cats and Gummitch bore their share. Once she had caught Baby alone in his crib and used the sharp comer of a block to dot Baby’s large-domed lightly downed head with triangular red marks. Kitty-Come-Here had discovered her doing it, but the woman’s first action had been to mb Baby’s head to i obliterate the marks so that Old Horsemeat wouldn’t see I them. That was the night Kitty-Come-Here hid the abnormal psychology books.
 
-Grummitch understood very well that Kitty-Come-Here and Old Horsemeat, honestly believing themselves to be Sissy’s parents, felt just as deeply about her as if they actually were and he did what little he could under the present circumstances to help them. He had recently come to feel a quite independent affection for Baby—the miserable little proto-cat was so completely stupid and defenseless— and so he unofficially constituted himself the creature’s guardian, taking his naps behind the door of the nursery and dashing about noisily whenever Sissy showed up. In any case he realized that as a potentially adult member of a felinn-human household he had his natural responsibilities.
+Grummitch understood very well that Kitty-Come-Here and Old Horsemeat, honestly believing themselves to be Sissy’s parents, felt just as deeply about her as if they actually were and he did what little he could under the present circumstances to help them. He had recently come to feel a quite independent affection for Baby—the miserable little proto-cat was so completely stupid and defenseless—and so he unofficially constituted himself the creature’s guardian, taking his naps behind the door of the nursery and dashing about noisily whenever Sissy showed up. In any case he realized that as a potentially adult member of a felinn-human household he had his natural responsibilities.
 
 Accepting responsibilities was as much a part of a kitten’s life, Gummitch told himself, as shouldering unshara-fble intuitions and secrets, the number of which continued Cto grow from day to day.
 
@@ -3848,7 +3956,7 @@ Then suddenly he became aware of footsteps, footsteps so soft they must, he thou
 
 No, softer than that, so soft they might be those of the Gummitch Double escaped from the mirror world at last and padding up toward him through the darkened halls. A ribbon of fur rose along his spine.
 
-Then into the nursery Sissy came prowling. She looked slim as an Egyptian princess in her long thin yellow nightgown and as sure of herself, but the cat was very strong in her tonight, from the flat intent eyes to the dainty canine teeth slightly bared—one look at her now would have sent Kitty-Come-Here running for the telephone number she kept hidden, the telephone number of the special doctor— and Gummitch realized he was witnessing a monstrous suspension of natural law in that this being should be able to exist for a moment without growing fur and changing round pupils for slit eyes.
+Then into the nursery Sissy came prowling. She looked slim as an Egyptian princess in her long thin yellow nightgown and as sure of herself, but the cat was very strong in her tonight, from the flat intent eyes to the dainty canine teeth slightly bared—one look at her now would have sent Kitty-Come-Here running for the telephone number she kept hidden, the telephone number of the special doctor—and Gummitch realized he was witnessing a monstrous suspension of natural law in that this being should be able to exist for a moment without growing fur and changing round pupils for slit eyes.
 
 He retreated to the darkest comer of the room, suppressing a snarl.
 
@@ -3860,13 +3968,13 @@ He sprang up onto the other side of the crib, not uttering a sound, and fixed hi
 
 Sissy’s moonlit face, feline and terrified, was in a sense the last thing that Gummitch, the real Gummitch-kitten, ever saw in this world. For the next instant he felt himself enfolded by the foul black blinding cloud of Sissy’s spirit, which his own had displaced. At the same time he heard the little girl scream, very loudly but even more distinctly, “Mammy!”
 
-That cry might have brought Kitty-Come-Here out of her grave, let alone from sleep merely deep or drugged. Within seconds she was in the nursery, closely followed by Old Horsemeat, and she had caught up Sissy in her arms and the little girl was articulating the wonderful word again and again, and miraculously following it with the command —there could be no doubt, Old Horsemeat heard it too— “Hold me tight!”
+That cry might have brought Kitty-Come-Here out of her grave, let alone from sleep merely deep or drugged. Within seconds she was in the nursery, closely followed by Old Horsemeat, and she had caught up Sissy in her arms and the little girl was articulating the wonderful word again and again, and miraculously following it with the command—there could be no doubt, Old Horsemeat heard it too—“Hold me tight!”
 
 Then Baby finally dared to cry. The scratches on his cheek came to attention and Gummitch, as he had known must happen, was banished to the basement amid cries of horror and loathing chiefly from Kitty-Come-Here.
 
 The little cat did not mind. No basement would be one-tenth as dark as Sissy’s spirit that now enshrouded him for always, hiding all the file drawers and the labels on all the folders, blotting out forever even the imagining of the scene of first coffee-drinking and first speech.
 
-In a last intuition, before the animal blackness closed in utterly, Gummitch realized that the spirit, alas, is not the same thing as the consciousness and that one may lose— sacrifice—the first and still be burdened with the second.
+In a last intuition, before the animal blackness closed in utterly, Gummitch realized that the spirit, alas, is not the same thing as the consciousness and that one may lose—sacrifice—the first and still be burdened with the second.
 
 Old Horsemeat had seen the hatpin (and hid it quickly from Kitty-Come-Here) and so he knew that the situation was not what it seemed and that Gummitch was at the very least being made into a sort of scapegoat. He was quite apologetic when he brought the tin pans of food to the basement during the period of the little cat’s exile. It was a comfort to Gummitch, albeit a small one. Gummitch told himself, in his new black halting manner of thinking, that after all a cats best friend is his man.
 
@@ -3874,9 +3982,14 @@ From that night Sissy never turned back in her development. Within two months sh
 
 After a few weeks Kitty-Come-Here forgot her fears and Gummitch once again had the run of the house. But by then the transformation Old Horsemeat had always warned about had fully taken place. Gummitch was a kitten no longer but an almost burly tom. In him it took the psychological form not of sullenness or surliness but an extreme dignity. He seemed at times rather like an old pirate brooding on treasures he would never live to dig up, shores of adventure he would never reach. And sometimes when you looked into his yellow eyes you felt that he had in him all the materials for the book Slit Eyes Look at Life—three or four volumes at least—although he would never write it. And that was natural when you come to think of it, for as Gummitch knew very well, bitterly well indeed, his fate was to be the only kitten in the world that did not grow up to be a man.
 
-Try and Change the Past
+---
 
-No, I wouldn’t advise anyone to try to change the past, at least not his personal past, although changing the general past is my business, my fighting business. You see, I’m a Snake in the Change War. Don’t back off—human beings, even Resurrected ones engaged in time-fighting, aren’t built for outward wriggling and their poison is mostly psychological. “Snake” is slang for the soldiers on our side, like Hun or Reb or Ghibbelin. In the Change War we’re trying to alter the past—and it’s tricky, brutal work, believe me—at points all over the cosmos, anywhere and anywhen, so that history will be warped to make our side defeat the Spiders. But that’s a much bigger story, the biggest in fact, and I’ll leave it occupying several planets of microfilm and two asteroids of coded molecules in the files of the High Command.
+try_and_change_the_past
+
+# Try and Change the Past
+
+.fl
+<span class="smallcaps">No, I wouldn’t</span> advise anyone to try to change the past, at least not his personal past, although changing the general past is my business, my fighting business. You see, I’m a Snake in the Change War. Don’t back off—human beings, even Resurrected ones engaged in time-fighting, aren’t built for outward wriggling and their poison is mostly psychological. “Snake” is slang for the soldiers on our side, like Hun or Reb or Ghibbelin. In the Change War we’re trying to alter the past—and it’s tricky, brutal work, believe me—at points all over the cosmos, anywhere and anywhen, so that history will be warped to make our side defeat the Spiders. But that’s a much bigger story, the biggest in fact, and I’ll leave it occupying several planets of microfilm and two asteroids of coded molecules in the files of the High Command.
 
 Change one event in the past and you get a brand new future? Erase the conquests of Alexander by nudging a Neolithic pebble? Extirpate America by pulling up a shoot of Sumerian grain? Brother, that isn’t the way it works at all! The space-time continuum’s built of stubborn stuff and change is anything but a chain-reaction. Change the past and you start a wave of changes moving futurewards, but it damps out mighty fast. Haven’t you ever heard of
 
@@ -3900,7 +4013,7 @@ This same character finally hung up the phone, fighting off a tendency for his h
 
 The sweltering atmosphere provided a good background for sardonic catastrophe. The French doors to the roof were open behind him but the air that drifted through was muggy as death. Unnoticed, a couple of meteors streaked faintly across the night sky.
 
-Figuring it would sure dissuade her, he told her about the inheritance. She screamed that he’d just use the money to buy more other women—not an unreasonable prediction —and pulled the trigger.
+Figuring it would sure dissuade her, he told her about the inheritance. She screamed that he’d just use the money to buy more other women—not an unreasonable prediction—and pulled the trigger.
 
 The danger was minimal. She was at the other end of a big living room, her hand wasn’t just shaking, she was waving the nickle-plated revolver as if it were a fan.
 
@@ -3912,7 +4025,7 @@ So that was the little skit, the little double blackout, he had to mull over out
 
 Naturally it didn’t take him long to figure out that if he went back and gimmicked things so that the first blackout didn’t occur, but the second still did, he would be sitting pretty back in the real world and able to devote his inheritance to fulfilling his wife’s prediction and other pastimes. He didn’t know much about Doublegangers yet and had it figured out that if he didn’t die in the real world he’d have no trouble resuming his existence there—maybe it’d even happen automatically.
 
-So this Snake—name kind of fits him, doesn’t it?-— crossed his fingers and slipped into the Dispatching Room. Dispatching is so simple a child could learn it in five minutes from studying the board. He went back to a point a couple of hours before the tragedy, carefully avoiding the spot where the Resurrection Men had lifted him from his lifeline. He found the revolver in a dresser drawer, unloaded it, checked to make sure there weren’t any more cartri-diges around, and then went ahead a couple of hours, arriving just in time to see himself get the slug between the eyes same as before.
+So this Snake—name kind of fits him, doesn’t it?-—crossed his fingers and slipped into the Dispatching Room. Dispatching is so simple a child could learn it in five minutes from studying the board. He went back to a point a couple of hours before the tragedy, carefully avoiding the spot where the Resurrection Men had lifted him from his lifeline. He found the revolver in a dresser drawer, unloaded it, checked to make sure there weren’t any more cartri-diges around, and then went ahead a couple of hours, arriving just in time to see himself get the slug between the eyes same as before.
 
 As soon as he got over his disappointment, he realized he’d learned something about Doublegangers he should have known all along, if his mind had been clicking. The bullets he’d lifted were Doublegangers, too; they had disappeared from the real world only at the point in space-time where he’d lifted them, and they had continued to exist, as real as ever, in the earlier and later sections of their lifelines—with the result that the gun was loaded again by the time his wife had grabbed it up.
 
@@ -3950,9 +4063,14 @@ Then and there this Snake Fm telling you about decided rnever again to try and c
 
 If a statistician is looking for an example of a highly im-[probable event, he can hardly pick a more vivid one than the chance of a man being hit by a meteorite. And, if he [adds the condition that the meteorite hit him between the eyes so as to counterfeit the wound made by a 32-caliber fbullet, the improbability becomes astronomical cubed. So [how’s a person going to outmaneuver a universe that finds tit easier to drill a man through the head that way rather than postpone the date of his death?
 
-A Deskful of Girls
+---
 
-Yes, I said ghostgirls, sexy ones. Personally I never in my life saw any ghosts except the sexy kind, though I saw enough of those I’ll tell you, but only for one evening, in the dark of course, with the assistance of an eminent (I should also say notorious) psychologist. It was an interesting experience, to put it mildly, and it introduced me to an unknown field of psycho-physiology, but under no circumstances would I want to repeat it
+a_deskful_of_girls
+
+# A Deskful of Girls
+
+.fl
+<span class="smallcaps">Yes, I said</span> ghostgirls, sexy ones. Personally I never in my life saw any ghosts except the sexy kind, though I saw enough of those I’ll tell you, but only for one evening, in the dark of course, with the assistance of an eminent (I should also say notorious) psychologist. It was an interesting experience, to put it mildly, and it introduced me to an unknown field of psycho-physiology, but under no circumstances would I want to repeat it
 
 But ghosts are supposed to be frightening? Well, who ever said that sex isn’t? It is to the neophyte, female or male, and don’t let any of the latter try to kid you. For one thing, sex opens up the unconscious mind, which isn’t exactly a picnic area. Sex is a force and rite that is basic, primal; and the caveman or cavewoman in each of us is a truth bigger than the jokes and cartoons about it Sex was behind the witchcraft religion, the sabbats were sexual ori-gies. The witch was a sexual creature. So is the ghost.
 
@@ -4006,7 +4124,7 @@ ached the desk now and had one hand on it as he turned >' ick toward me, and I g
 
 But the Doctor’s left thumb indicated I was to sit in it nd I couldn’t see another chair in the place except the i added button on which he was now settling himself—one p those stenographer deals with a boxing-glove back [laced to catch you low in the spine like the hand of a knowledgeable masseur. In the other leg of the l, besides «e armchair, were more books, a heavy concertina blind -aling off the window, two narrow doors that I supposed ere those of a closet and a lavatory, and what looked like slightly scaled-down and windowless telephone booth unit I guessed it must be an orgone box of the sort Reich had zivented to restore the libido when the patient occupies it. I mickly settled myself in the chair, not to be gingerly about .. It was rather incredibly comfortable, almost as if it had adjusted its dimensions a bit at the last instant to conform d mine. The back was narrow at the base but widened and nen curled in and over to almost a canopy around my ;ead and shoulders. The seat too widened a lot toward the ont, where the stubby legs were far apart. The bulky arms nrang unsupported from the back and took my own just ght, though curving inwards with the barest suggestion of hug. The leather or unfamiliar plastic was as firm and nol as young flesh and its texture as mat under my finger-ips.
 
-“An historic chair,” the Doctor observed, “designed and ruilt for me by von Helmholtz of the Bauhaus. It has been occupied by all my best mediums during their so-called -ance states. It was in that chair that I established to my ntire satisfaction the real existence of ectoplasm—that ilaboration of the mucous membrane and occasionally the ratire epidermis that is distantly analogous to the birth envelope and is the fact behind the persisted legends of the pake-shedding of filmy live skins by human beings, and I hich the spiritualist quacks are forever trying to fake with l ieir fluorescent cheesecloth and doctored negatives. Or-gone, the primal sexual energy?—Reich makes a persu- i asive case, still . . . But ectoplasm?—yes! Angna went into trance sitting just where you are, her entire body dusted with a special powder, the tracks and distant smudges of which later revealed the ectoplasm’s movements and origin —chiefly in the genital area. The test was conclusive and led to further researches, very interesting and quite revolutionary, none of which I have published; my professional colleagues froth at the mouth, elaborating an opposite sort of foam, whenever I mix the psychic with psychoanalysis —they seem to forget that hypnotism gave Freud his start and that for a time the man was keen on cocaine. Yes indeed, an historic chair.”
+“An historic chair,” the Doctor observed, “designed and ruilt for me by von Helmholtz of the Bauhaus. It has been occupied by all my best mediums during their so-called -ance states. It was in that chair that I established to my ntire satisfaction the real existence of ectoplasm—that ilaboration of the mucous membrane and occasionally the ratire epidermis that is distantly analogous to the birth envelope and is the fact behind the persisted legends of the pake-shedding of filmy live skins by human beings, and I hich the spiritualist quacks are forever trying to fake with l ieir fluorescent cheesecloth and doctored negatives. Or-gone, the primal sexual energy?—Reich makes a persu- i asive case, still . . . But ectoplasm?—yes! Angna went into trance sitting just where you are, her entire body dusted with a special powder, the tracks and distant smudges of which later revealed the ectoplasm’s movements and origin—chiefly in the genital area. The test was conclusive and led to further researches, very interesting and quite revolutionary, none of which I have published; my professional colleagues froth at the mouth, elaborating an opposite sort of foam, whenever I mix the psychic with psychoanalysis—they seem to forget that hypnotism gave Freud his start and that for a time the man was keen on cocaine. Yes indeed, an historic chair.”
 
 I naturally looked down at it and for a moment I thought I had vanished, because I couldn’t see my legs. Then I realized that the upholstery had changed to a dark gray exactly matching my suit except for the ends of the arms, which merged by fine gradations into a sallow hue which blotted out my hands.
 
@@ -4058,9 +4176,9 @@ Then he began to talk again in his reminiscing voice and damn if it wasn’t so 
 
 I was so completely taken by surprise that I couldn’t say ; anything for a moment. Either Slyker had guessed my real purpose in contacting him, or I was faced with a sizeable ►coincidence. I wet my lips and then just nodded.
 
-Slyker studied me and finally grinned. “Ah,” he said, “takes you aback a bit, doesn’t it? I perceive that in spite of your moderate sophistication you are one of the millions of males who have wistfully contemplated desert-islanding with Delectable Ewie. A complex cultural phenomenon, Eva-Lynn Korduplewski. The child of a coal miner, educated solely in backstreet movie houses—shaped by dreams, you see, into a master dream, an empress dream-figure. A hysteric, Carr, in fact the most classic example I t have ever encountered, with unequaled mediumistic capacities and also with a hypertrophied and utterly ruthless ambition. Riddled by hypochondrias, but with more real drive than a million other avid school-girls tangled and trapped in the labyrinth of film ambitions. Dumb as they come, no rational mind at all, but with ten times Einstein’s intuition —intuition enough, at least, to realize that the symbol our sex-exploiting culture craved was a girl who accepted like a happy martyr the incandescent sexuality men and Nature forced on her—and with the patience and malleability to let the feathersoft beating of the black-and-white light in a cheap cinema shape her into that symbol. I sometimes think of her as a girl in a cheap dress standing on the shoulder of a big throughway, her eyes almost blinded by the lights of an approaching bus. The bus stops and she climbs on, dragging a pet goat and breathlessly giggling explanations at the driver. The bus is Civilization.
+Slyker studied me and finally grinned. “Ah,” he said, “takes you aback a bit, doesn’t it? I perceive that in spite of your moderate sophistication you are one of the millions of males who have wistfully contemplated desert-islanding with Delectable Ewie. A complex cultural phenomenon, Eva-Lynn Korduplewski. The child of a coal miner, educated solely in backstreet movie houses—shaped by dreams, you see, into a master dream, an empress dream-figure. A hysteric, Carr, in fact the most classic example I t have ever encountered, with unequaled mediumistic capacities and also with a hypertrophied and utterly ruthless ambition. Riddled by hypochondrias, but with more real drive than a million other avid school-girls tangled and trapped in the labyrinth of film ambitions. Dumb as they come, no rational mind at all, but with ten times Einstein’s intuition—intuition enough, at least, to realize that the symbol our sex-exploiting culture craved was a girl who accepted like a happy martyr the incandescent sexuality men and Nature forced on her—and with the patience and malleability to let the feathersoft beating of the black-and-white light in a cheap cinema shape her into that symbol. I sometimes think of her as a girl in a cheap dress standing on the shoulder of a big throughway, her eyes almost blinded by the lights of an approaching bus. The bus stops and she climbs on, dragging a pet goat and breathlessly giggling explanations at the driver. The bus is Civilization.
 
-“Everybody knows her life story, which has been put out in a surprisingly accurate form up to a point: her burlesque-line days, the embarrassingly faithful cartoon-series Girl in a Fix for which she posed, her bit parts, the amazingly timed success of the movies Hydrogen Blonde and The Jean Harlow Saga, her broken marriage to Jeff Crain —What was that, Carr? Oh, I thought you’d started to say something—and her hunger for the real stage and intellectual distinction and power. You can’t imagine how hungry for brains and power that girl became after she hit the top.
+“Everybody knows her life story, which has been put out in a surprisingly accurate form up to a point: her burlesque-line days, the embarrassingly faithful cartoon-series Girl in a Fix for which she posed, her bit parts, the amazingly timed success of the movies Hydrogen Blonde and The Jean Harlow Saga, her broken marriage to Jeff Crain—What was that, Carr? Oh, I thought you’d started to say something—and her hunger for the real stage and intellectual distinction and power. You can’t imagine how hungry for brains and power that girl became after she hit the top.
 
 “I’ve been part of the story of that hunger, Carr, and I pride myself that Eve done more to satisfy it than all the culture-johnnies she’s had on her payroll. Evelyn Cordew has learned a lot about herself right where you’re sitting, and also threaded her way past two psychotic crack-ups. The trouble is that when her third loomed up she didn’t come to me, she decided to put her trust in wheat germ and yogurt instead, so now she hates my guts—and perhaps her own, on that diet. She’s made two attempts on my life, Carr, and had me trailed by gangsters . . . and by other individuals. She’s talked about me to Jeff Crain, whom she still sees from time to time, and Jerry Smyslov and Nick
 
@@ -4090,7 +4208,7 @@ I wasn’t scared. I was merely frightened half to death.
 
 “Dr. Slyker,” I said as evenly as I could, “I—”
 
-“Quiet! Activating a ghost for viewing involves certain risks. Silence is essential, though it will be necessary to use —very briefly—the suppressed Tchaikovsky music which I turned off so quickly earlier this evening.” He busied himself with the hi fi for a few moments. “But partly because of that it will be necessary to put away all the other folders and the four ghosts of Ewie we aren’t using, and lock the file drawers. Otherwise there might be complications.”
+“Quiet! Activating a ghost for viewing involves certain risks. Silence is essential, though it will be necessary to use—very briefly—the suppressed Tchaikovsky music which I turned off so quickly earlier this evening.” He busied himself with the hi fi for a few moments. “But partly because of that it will be necessary to put away all the other folders and the four ghosts of Ewie we aren’t using, and lock the file drawers. Otherwise there might be complications.”
 
 I decided to try once more. “Before you go any further, Dr. Slyker,” I began, “I would really like to explain—”
 
@@ -4118,9 +4236,9 @@ For a moment too I thought Slyker had crept noiselessly rto the door, but then I
 
 And the rustling of folders continued. I guessed Slyker (had not noticed the door. He hadn’t been exaggerating .about his bad hearing.
 
-There was the faint creaking of the hinges, once, twice —as if the door were being opened and closed—then again (the solid snap of the bolts. That puzzled me, for there
+There was the faint creaking of the hinges, once, twice—as if the door were being opened and closed—then again (the solid snap of the bolts. That puzzled me, for there
 
-should have been a big flash of light from the corridor— unless the lights were all out.
+should have been a big flash of light from the corridor—unless the lights were all out.
 
 I couldn’t hear any sound after that, except the continued rustling of the file folders, though I listened as hard as the job of breathing let me—and in a crazy kind of way the job of cautious breathing helped my hearing, because it made me hold absolutely still yet without daring to tense up. I knew that someone was in the office with us and that Slyker didn’t know it The black moments seemed to stretch out forever, as if an edge of eternity had got hooked into our timestream.
 
@@ -4188,7 +4306,7 @@ The fourth ghost rose toward the ceiling like a diver paddling up from the depth
 
 As the glow died to darkness a fourth time, Evelyn said softly, “Ah but that was cool, Emmy. I’m shivering. I’d just come back from my first location work in Europe and was sick to get at Broadway, and before you cut it you made me relive the yacht party where I overheard Ricco and the author laughing at how I’d messed up my first legitimate play reading, and we swam in the moonlight and Monica almost drowned. That was when I realized that nobody, even the bottom boobs in the audience, really respected you because you were their sex queen. They respected the little female boob in the seat beside them more than they did you. Because you were just something on the screen that they could handle as they pleased inside their minds. With the top folk, the Big Timers, it wasn’t any better. To them you were just a challenge, a prize, something to show off to other men to drive them nuts, but never something to love. Well, that’s four, Emmy, and four and one makes all.”
 
-The last ghost rose whirling and billowing like a silk robe in the wind, like a crazy photomontage, like a surrealist painting done in a barely visible wash of pale flesh tones on a black canvas, or rather like an endless series of such surrealist paintings, each distortion melting into the next —trailing behind it a gauzy wake of draperies which I realized was the way ghosts were always pictured and described. I watched the draperies bunch as Evelyn pulled them down around her, and then they suddenly whipped tight against her thighs, like a skirt in a strong wind or like nylon clinging in the cold. The final glow was a little stronger, as if there were more life in the shining woman than there had been at first.
+The last ghost rose whirling and billowing like a silk robe in the wind, like a crazy photomontage, like a surrealist painting done in a barely visible wash of pale flesh tones on a black canvas, or rather like an endless series of such surrealist paintings, each distortion melting into the next—trailing behind it a gauzy wake of draperies which I realized was the way ghosts were always pictured and described. I watched the draperies bunch as Evelyn pulled them down around her, and then they suddenly whipped tight against her thighs, like a skirt in a strong wind or like nylon clinging in the cold. The final glow was a little stronger, as if there were more life in the shining woman than there had been at first.
 
 “Ah that was like the brush of wings, Emmy, like feathers in the wind. You cut it after the party in Sammy’s plane to celebrate me being the top money star in the industry. I bothered the pilot because I wanted him to smash us in a dive. That was when I realized I was just property—something for men to make money out of (and me to make money, too, out of me) from the star who married me to prop his box-office rating to the stacks theater owner who hoped I’d sell a few extra tickets. I found that my deepest love—it was once for you, Emmy—was just something for a man to capitalize on. That any man, no matter how sweet or strong, could in the end never be anything but a pimp. Like you, Emmy.”
 
@@ -4196,9 +4314,9 @@ Just darkness for a while then, darkness and silence, broken only by the faint r
 
 Finally her voice again: “So now I got my pictures back, Emmy. All the original negatives, you might say, for you can’t make prints of them or second negatives—I don’t think. Or is there a way of making prints of them, Emmy
 
-—duplicate women? It’s not worth letting you answer— you’d be bound to say yes to scare me.
+—duplicate women? It’s not worth letting you answer—you’d be bound to say yes to scare me.
 
-“What do we do with you now, Emmy? I know what ^you’d do to me if you had the chance, for you’ve done it al-:ready. You’ve kept parts of me—no, five real me’s— 'tucked away in envelopes for a long time, something to Wake out and look at or run through your hand or twist l around a finger or crumple in a ball, whenever you felt ! bored on a long afternoon or an endless night. Or maybe i show off to special friends or even give other girls to wear —you didn’t think I knew about that trick, did you, Emmy?—I hope I poisoned them, I hope I made them burn! Remember, Emmy, I’m full of death-wish now, five ghosts of it Yes, Emmy, what do we do with you now?” Then for the first time since the ghosts had shown, I heard the sound of Dr. Slyker’s breath whistling through his nose and the muffled grunts and creakings as he lurched against the clinging sheet
+“What do we do with you now, Emmy? I know what ^you’d do to me if you had the chance, for you’ve done it al-:ready. You’ve kept parts of me—no, five real me’s—'tucked away in envelopes for a long time, something to Wake out and look at or run through your hand or twist l around a finger or crumple in a ball, whenever you felt ! bored on a long afternoon or an endless night. Or maybe i show off to special friends or even give other girls to wear—you didn’t think I knew about that trick, did you, Emmy?—I hope I poisoned them, I hope I made them burn! Remember, Emmy, I’m full of death-wish now, five ghosts of it Yes, Emmy, what do we do with you now?” Then for the first time since the ghosts had shown, I heard the sound of Dr. Slyker’s breath whistling through his nose and the muffled grunts and creakings as he lurched against the clinging sheet
 
 “Makes you think, doesn’t it, Emmy? I wish I’d asked my ghosts what to do with you when I had the chance—I wish I’d known how to ask them. They’d have been the ■ ones to decide. Now they’re too mixed in.
 
@@ -4246,9 +4364,14 @@ I’m keeping out of it—just as I left it to the firemen to discover Dr. Emil 
 
 I think a little more was burned. When I looked back the last time I saw the Doctor lying in a strait jacket of pale flames. It may have been scattered papers or the electronic plastic. I think it was ghostgirls burning.
 
-Rump-Titty-Titty-Tum-Tah-Tee
+---
 
-Once upon a time, when just for an instant all the molecules in the world and in the collective unconscious mind got very slippery, so that just for an instant something could pop through from the past or the future or other places, six very important intellectual people were gathered together in the studio of Simon Grue, the accidental painter.
+rump-titty-titty-tum-tah-tee
+
+# Rump-Titty-Titty-Tum-Tah-Tee
+
+.fl
+<span class="smallcaps">Once upon a</span> time, when just for an instant all the molecules in the world and in the collective unconscious mind got very slippery, so that just for an instant something could pop through from the past or the future or other places, six very important intellectual people were gathered together in the studio of Simon Grue, the accidental painter.
 
 There was Tally B. Washington, the jazz drummer. He was beating softly on a gray hollow African log and thinking of a composition he would entitle “Duet for Water Hammer and Whistling Faucet”
 
@@ -4332,7 +4455,7 @@ Later during the gathering, Norman Saylor again consulted with Simon and also ha
 
 “This splatter does have an obsessive quality, just as Gory said. It has that maddening feeling of incompleteness
 
-which cries for repetition. It would be a good thing if each ^>f us, whenever he feels the thing getting too strong a hold f® him, would instantly shift to some engrossing activity which has as little as possible to do with arbitrarily ordered ight and sound. Play chess or smell perfumes or eat candy r»r look at the moon through a telescope, or stare at a point r>f light in the dark and try to blank out your mind—something like that Try to set up a countercompulsion. One of us might even hit on a counterformula—a specific antidote —like quinine for malaria.”
+which cries for repetition. It would be a good thing if each ^>f us, whenever he feels the thing getting too strong a hold f® him, would instantly shift to some engrossing activity which has as little as possible to do with arbitrarily ordered ight and sound. Play chess or smell perfumes or eat candy r»r look at the moon through a telescope, or stare at a point r>f light in the dark and try to blank out your mind—something like that Try to set up a countercompulsion. One of us might even hit on a counterformula—a specific antidote—like quinine for malaria.”
 
 If the ominous note of warning in Norman’s statement didn’t register on all of them just then, it did at some time Ituring the next seven days, for the frame of mind in which She six intellectuals came to the gathering after the third week was one of paranoid grandeur and hysterical desperation.
 
@@ -4368,11 +4491,11 @@ As Simon finished speaking Gorius McIntosh rose slowly from his chair, groping a
 
 “That’s it!” he said from between bared clenched teeth, grinning horribly. “That’s what’s happening to all of us. Can’t get it out of our minds. Can’t get it out of our muscles. Psychosomatic bondage!” He stumbled slowly across the circle of intellectuals toward Lester, who was sitting opposite him. “It’s happening to me. A patient sits down across the desk and says with his eyes dripping tears, ‘Help me, Doctor McIntosh,’ and I see his problems clearly and I know just how to help him and I get up and I go around the desk to him”—he was standing right over Lester now,
 
-pottle raised high above the industrial designer’s shoulder —“and I lean down so that my face is close to his and then : shout rump-titty-titty-tum-TAH-tee!”
+pottle raised high above the industrial designer’s shoulder—“and I lean down so that my face is close to his and then : shout rump-titty-titty-tum-TAH-tee!”
 
 ; At this point Norman Saylor decided to take over, leaving to Tally and Lafcadio the restraining of Gorius, who in-peed seemed quite docile and more dazed than anything pise now that his seizure was spent, at least temporarily. IThe cultural anthropologist strode to the center of the birdie, looking very reassuring with his darkly billowing pipe •and his strong jaw and his smoky tweeds, though he kept nis hands clasped tightly together behind him, after snatch-ng his pipe with one of them.
 
-“Men,” he said sharply, “my research on this thing isn’t Tnished by a long shot, but I’ve carried it far enough to :cnow that we are dealing with what may be called an ultimate symbol, a symbol that is the summation of all symbols. It has everything in it—birth, death, mating, murder, divine and demonic possession, all of life, the whole lot— :o such a degree that after you’ve looked at it, or listened :o it, or made it, for a time, you simply don’t need life any more.”
+“Men,” he said sharply, “my research on this thing isn’t Tnished by a long shot, but I’ve carried it far enough to :cnow that we are dealing with what may be called an ultimate symbol, a symbol that is the summation of all symbols. It has everything in it—birth, death, mating, murder, divine and demonic possession, all of life, the whole lot—:o such a degree that after you’ve looked at it, or listened :o it, or made it, for a time, you simply don’t need life any more.”
 
 The studio was very quiet. The five other intellectuals I ooked at him. Norman rocked on his heels like any normal | college professor, but his arms grew perceptibly more rigid i as he clasped his hands even more tightly behind his back, fighting an exquisite compulsion.
 
@@ -4382,7 +4505,7 @@ doctor. He was acutely hungry for power. In fact, he spent his life seeking an i
 
 “Norm’s right,” Tally said, nodding somberly. “He was a mighty mean man, I’m told, and mighty persistent”
 
-Norman’s nod was quicker and also a plea for undivided attention. Beads of sweat were dripping down his forehead. “The thing came to us when it did—came to Tally specifically and through him to Simon—because our six minds, reinforcing each other powerfully, were momentarily open to receive transmissions through the collective unconscious, and because there is—was—this sender at the other end long desirous of getting his message through to one of his descendants. We cannot say precisely where this sender is —a scientifically oriented person might say that he is in a shadowed portion of the space-time continuum while a religiously oriented person might aver that he is in Heaven or Hell.”
+Norman’s nod was quicker and also a plea for undivided attention. Beads of sweat were dripping down his forehead. “The thing came to us when it did—came to Tally specifically and through him to Simon—because our six minds, reinforcing each other powerfully, were momentarily open to receive transmissions through the collective unconscious, and because there is—was—this sender at the other end long desirous of getting his message through to one of his descendants. We cannot say precisely where this sender is—a scientifically oriented person might say that he is in a shadowed portion of the space-time continuum while a religiously oriented person might aver that he is in Heaven or Hell.”
 
 ‘Td plump for the last-mentioned,” Tally volunteered. “He was that kind of man.”
 
@@ -4394,7 +4517,7 @@ Norman’s nod was quicker and also a plea for undivided attention. Beads of swe
 
 A look of acute pain crossed his face. He unclasped his I lands and brought them in front of him. His pipe fell to pie floor. He looked at the large blister the hot bowl had raised in one palm. Then clasping his hands together in iront of him, palm to palm, with a twisting motion that aade Lafcadio wince, he continued rapping out the words.
 
-“Men, we must act at once, using only such materials as an be rapidly assembled. Each of you must trust me implicitly. Tally, I know you don’t use it any more, but can tou still get weed, the genuine crushed leaf? Good, we may need enough for two or three dozen sticks. Gory, I want "ou to fetch the self-hypnotism rigmarole that’s so effective —no, I don’t trust your memory and we may need copies, ^ester, if you’re quite through satisfying yourself that Gory Hidn’t break your collarbone with his bottle, you go with Tory and see that he drinks lots of coffee. On your way oack buy several bunches of garlic, a couple of rolls of Himes, and a dozen red railway flares. Oh yes, and call up •'our mediumistic lady and do your damnedest to get her to *oin us here—her talents may prove invaluable. Laf, tear off to your home loft and get the luminous paint and the olack velvet hangings you and your red-bearded ex-friend used—yes, I know about that association!—when you and oe were dabbling with black magic. Simon and I will hold tlown the studio. All right, then—” A spasm crossed his I ace and the veins in his forehead and cords in his neck oulged and his arms were jerking with the struggle he was waging against the compulsion that threatened to overpower him. “All right, then—Rump-titty-titty-tum-GET-MOVING!”
+“Men, we must act at once, using only such materials as an be rapidly assembled. Each of you must trust me implicitly. Tally, I know you don’t use it any more, but can tou still get weed, the genuine crushed leaf? Good, we may need enough for two or three dozen sticks. Gory, I want "ou to fetch the self-hypnotism rigmarole that’s so effective—no, I don’t trust your memory and we may need copies, ^ester, if you’re quite through satisfying yourself that Gory Hidn’t break your collarbone with his bottle, you go with Tory and see that he drinks lots of coffee. On your way oack buy several bunches of garlic, a couple of rolls of Himes, and a dozen red railway flares. Oh yes, and call up •'our mediumistic lady and do your damnedest to get her to *oin us here—her talents may prove invaluable. Laf, tear off to your home loft and get the luminous paint and the olack velvet hangings you and your red-bearded ex-friend used—yes, I know about that association!—when you and oe were dabbling with black magic. Simon and I will hold tlown the studio. All right, then—” A spasm crossed his I ace and the veins in his forehead and cords in his neck oulged and his arms were jerking with the struggle he was waging against the compulsion that threatened to overpower him. “All right, then—Rump-titty-titty-tum-GET-MOVING!”
 
 L An hour later the studio smelt like a fire in a eucalyptus Bgrove. Such light from outside as got past the cabalistically figured hangings covering windows and skylight revealed t he shadowy forms of Simon, atop the scaffold, and the other five intellectuals, crouched against the wall, all puff-i ng their reefers, sipping the sour smoke industriously. [Their marijuana-blanked minds were still reverberating to the last compelling words of Gory’s rigmarole, read by Les-ier Phlegius in a sonorous bass.
 
@@ -4440,7 +4563,7 @@ longer plagued and enlivened mental hospitals. Catatonics froze again. The Young
 
 Simon’s big painting was eventually hung at one exhibition, but it got little attention even from critics, except for a few heavy sentences along the lines of “Simon Grue’s latest elephantine effort fell with a thud as dull as those of the gobs of paint that in falling composed it.” Visitors to the gallery seemed able only to give it one dazed look and then pass it by, as is not infrequently the case with modem paintings.
 
-The reason for this was clear. On top of all the other identical splatters it carried one in Chinese red that was a negation of all symbols, a symbol that had nothing in it— the new splatter that was the identical twin of the new drummed phrase that was the negation and completion of the first, the phrase that had vibrated out from Tally’s log through the red glare and come slapping down out of Simon’s smoke cloud, the phrase that stilled and ended everything (and which obviously can only be stated here once): “Tah-titty-titty-tee-toel”
+The reason for this was clear. On top of all the other identical splatters it carried one in Chinese red that was a negation of all symbols, a symbol that had nothing in it—the new splatter that was the identical twin of the new drummed phrase that was the negation and completion of the first, the phrase that had vibrated out from Tally’s log through the red glare and come slapping down out of Simon’s smoke cloud, the phrase that stilled and ended everything (and which obviously can only be stated here once): “Tah-titty-titty-tee-toel”
 
 The six intellectual people continued their weekly meetings almost as if nothing had happened, except that Simon substituted for splatter-work a method of applying the paint by handfuls with the eyes closed, later treading it in by foot He sometimes asked his friends to join him in these impromptu marches, providing wooden shoes imported from Holland for the purpose.
 
@@ -4462,13 +4585,18 @@ her experience in this apartment, she tells me, and a complete change was indica
 
 “I don’t know where he was sending from,” she said thoughtfully. “I had the impression of a warm place, an intensely warm place, though of course I may have been reacting to the railway flares.” Her frown cleared. “The actual message was short and simple enough:
 
-“ ‘Dear Descendant, They made me stop it It was beginning to catch on down here.’ ”
+“‘Dear Descendant, They *made* me stop it It was beginning to catch on *down here*.’”
 
-Little Old Miss Macbeth
+---
 
-The sphere of dim light from the electric candle on the orange crate was enough to show the cot, a little bare wall behind it and concrete floor beneath it, a shrouded birdcage on the other side of the cot, and nothing more. Spent batteries and their empty boxes overflowed the top of the orange crate and made a little mound. Three fresh batteries remained in a box by the candle.
+little_old_miss_macbeth
 
-The little old woman turned and tossed in her sleep under the blankets. Her face was troubled and her mouth pursed in a thin line that turned downward at the corners ] —a tragic mask scaled down for a little old lady. At times, | without waking, she’d creep her hands up from under the blanket and touch her ears, as though they were assaulted by noise—though the silence was profound.
+# Little Old Miss Macbeth
+
+.fl
+<span class="smallcaps">The sphere of</span> dim light from the electric candle on the orange crate was enough to show the cot, a little bare wall behind it and concrete floor beneath it, a shrouded birdcage on the other side of the cot, and nothing more. Spent batteries and their empty boxes overflowed the top of the orange crate and made a little mound. Three fresh batteries remained in a box by the candle.
+
+The little old woman turned and tossed in her sleep under the blankets. Her face was troubled and her mouth pursed in a thin line that turned downward at the corners ]—a tragic mask scaled down for a little old lady. At times, | without waking, she’d creep her hands up from under the blanket and touch her ears, as though they were assaulted by noise—though the silence was profound.
 
 At last, as if she could bear it no longer, she slowly sat up. Her eyes opened, though she did not wake, staring out with the fixity of unconscious seeing. She put her feet into snug felt slippers with a hole in the left toe. She took a woolly bathrobe from the foot of the cot and pulled it around her. Without looking, still sitting on the edge of the cot, she reached for the electric candle. Then she got up and crossed the floor to a door, carrying the candle, which made on the ceiling a circle of light that followed her. At
 
@@ -4490,7 +4618,7 @@ They seemed to be aware of the little old lady, for two or three came and circle
 
 This block was black again with just the ribbon of elusive stars. But although the little old lady still kept close to the curb, the sidewalk was narrower and the electric candle showed wrecked display windows with jagged edges and occasional stretches of almost unbroken, thick glass. The old lady’s eyes, seeing in her sleep, didn’t waver to either side, but if you’d have been there you’d have dimly seen dummies behind the broken windows, the men in zoot suits and wide-brimmed hats, the women in tight skirts and glimmering blouses, and although they stood very stiff you’d have wondered if their eyes didn’t follow the little > old lady as she passed, and there’d have been no way for t you to know, as soon as her globe of light was gone, that they didn’t step out carefully between the glass razors and follow.
 
-In the next block a ghost light swirled across a flatness l that began about a story up in the dark. It seemed to be > something moving through the ten thousand bulbs of an j old theater marquee, barely quickening for an instant their brittle old filaments—a patchy, restless shimmer. Across i< the street, but rather higher, there appeared, on the very r threshold of vision, a number of large rectangular signs, { their murky colors irregularly revealed and concealed— l giant bats crawling across almost completely faded lumi- i nescent billboards would have given the effect. While at j least twenty stories up, at the edge of the dubious starlight, j one small window spilled yellow light
+In the next block a ghost light swirled across a flatness l that began about a story up in the dark. It seemed to be > something moving through the ten thousand bulbs of an j old theater marquee, barely quickening for an instant their brittle old filaments—a patchy, restless shimmer. Across i< the street, but rather higher, there appeared, on the very r threshold of vision, a number of large rectangular signs, { their murky colors irregularly revealed and concealed—l giant bats crawling across almost completely faded lumi- i nescent billboards would have given the effect. While at j least twenty stories up, at the edge of the dubious starlight, j one small window spilled yellow light
 
 Halfway down the next block the little old lady turned in i from the curb to a fence of iron pickets. She leaned against e a gate, giving a querulous little moan, the only sound she’d > uttered, and it swung in, crunching against the gravel.
 
@@ -4530,17 +4658,24 @@ Sblahkets rising and falling almost imperceptibly over her -chest, and the smile
 
 The light was also enough to show the carbon of her mote, which read:
 
-Dear Evangeline,
+.fl.thin
+*Dear Evangeline,*
 
-l was overjoyed to receive your note and discover that you too at last have a city of your own and of course your own things. How is Louisville since the Destruction? Quiet, I trust. Pittsburgh is so noisy. I am thinking of moving to Cincinnati? Do you know if it has a tenant?
+.thin
+*I was overjoyed to receive your note and discover that you too at last have a city of your own and of course your own things. How is Louisville since the Destruction? Quiet, I trust. Pittsburgh is so noisy. I am thinking of moving to Cincinnati? Do you know if it has a tenant?*
 
-Yours very truly,
+.thin.right
+*Yours very truly,*
+*Miss Macbeth*
 
-Miss Macbeth
+---
 
-Mariana
+mariana
 
-Mariana had been living in the big villa and hating the tall pine trees around it for what seemed like an eternity when she found the secret panel in the master control panel i of the house.
+# Mariana
+
+.fl
+<span class="smallcaps">Mariana had been</span> living in the big villa and hating the tall pine trees around it for what seemed like an eternity when she found the secret panel in the master control panel i of the house.
 
 The secret panel was simply a narrow blank of aluminum—she’d thought of it as room for more switches if they ever needed any, perish the thought!—between the air-conditioning controls and the gravity controls. Above the switches for the three dimensional TV but below those for the robot butler and maids.
 
@@ -4652,9 +4787,14 @@ She was back in the starless dark. The rocks had grown wery much colder. She cou
 
 She lifted the block of switches and saw, to her unutterable relief, that the sixth and last switch now read, in tiny glowing letters: mariana.
 
-The Man Who Made Friends With Electricity
+---
 
-When Mr. Scott showed Peak House to Mr. Leverett, he hoped he wouldn’t notice the high-tension pole outside the bedroom window, because it had twice before queered promising rentals—so many elderly people were foolishly nervous about electricity. There was nothing to be done about the pole except try to draw prospective tenants’ attention away from it—electricity follows the hilltops and these lines supplied more than half the juice used in Pacific Knolls.
+the_man_who_made_friends_with_electricity
+
+# The Man Who Made Friends With Electricity
+
+.fl
+<span class="smallcaps">When Mr. Scott</span> showed Peak House to Mr. Leverett, he hoped he wouldn’t notice the high-tension pole outside the bedroom window, because it had twice before queered promising rentals—so many elderly people were foolishly nervous about electricity. There was nothing to be done about the pole except try to draw prospective tenants’ attention away from it—electricity follows the hilltops and these lines supplied more than half the juice used in Pacific Knolls.
 
 But Mr. Scott’s prayers and suave misdirections were in vain—Mr. Leverett’s sharp eyes lit on the “negative feature” the instant they stepped out on the patio. The old New Englander studied the short thick wooden column, the 18-inch ridged glass insulators, the black transformer box that stepped down voltage for this house and a few others lower on the slope. His gaze next followed the heavy wires swinging off rhythmically four abreast across the empty grey-green hills. Then he cocked his head as his ears caught the low but steady frying sound, varying from a crackle to a buzz of electrons leaking off the wires through the air.
 
@@ -4752,13 +4892,13 @@ The buzzing was quite loud that day, yet after a bit Mr. ‘Scott had to admit t
 
 Mr. Leverett, silently rocking, said, “Electricity tells me about all the work it does and all the fun it has—dances,
 
-■ singing, big crackling band concerts, trips to the stars, foot races that make rockets seem like snails. Worries, too. You •know that electric breakdown they had in New York? electricity told me why. Some of its folks went crazy— overwork, I guess—and just froze. It was a while before tthey could send others in from outside New York and heal tthe crazy ones and start them moving again through the big
+■ singing, big crackling band concerts, trips to the stars, foot races that make rockets seem like snails. Worries, too. You •know that electric breakdown they had in New York? electricity told me why. Some of its folks went crazy—overwork, I guess—and just froze. It was a while before tthey could send others in from outside New York and heal tthe crazy ones and start them moving again through the big
 
 copper web. Electricity tells me it’s fearful the same thing’s going to happen in Chicago and San Francisco. Too much pressure.
 
 “Electricity doesn’t mind working for us. It’s generous-hearted and it loves its job. But it would be grateful for a little more consideration—a little more recognition of its special problems.
 
-“It’s got its savage brothers to contend with, you see— the wild electricity that rages in storms and haunts the mountaintops and comes down to hunt and kill. Not civilized like the electricity in the wires, though it will be some day.
+“It’s got its savage brothers to contend with, you see—the wild electricity that rages in storms and haunts the mountaintops and comes down to hunt and kill. Not civilized like the electricity in the wires, though it will be some day.
 
 “For civilized electricity’s a great teacher. Shows us how to live clean and in unity and brother-love. Power fails one place, electricity’s rushing in from everywhere to fill the gap. Serves Georgia same as Vermont, Los Angeles same as Boston. Patriotic too—only revealed its greatest secrets to true-blue Americans like Edison and Franklin. Did you know it killed a Swede when he tried that kite trick? Yep, electricity’s the greatest power for good in all the U.S.A.”
 
@@ -4814,7 +4954,14 @@ One had to strain that reconstruction, though, to explain ne additional freakish
 
 bedroom window, but then through the bedroom door to catch the old man in the hall, and that the black shiny cord of the phone was wrapped like a vine twice around the old man’s right arm, as if to hold him back from escaping until the big wire had struck.
 
-The Good New Days “They don’t build slums like they used to,” Whitey Edwards told me, reaching up for a loose comer of the flexo I and pulling it down to prove his point It domed springily \ over our dreg-bottomed coffee cups, revealing in the hid-■ den space behind it the limp multicolored spaghetti of the utilities piping: gas, water, metered syntho-milk, sewage, coaxed TV, med-mist, Musik, robo-talk, robo-juice, tele, vele, elec, gelec, and such. Few of them running fat with their peculiar contributions to the good life, I judged.
+---
+
+the_good_new_days
+
+# The Good New Days
+
+.fl
+<span class="smallcaps">“They don’t build</span> slums like they used to,” Whitey Edwards told me, reaching up for a loose comer of the flexo I and pulling it down to prove his point It domed springily \ over our dreg-bottomed coffee cups, revealing in the hid-■ den space behind it the limp multicolored spaghetti of the utilities piping: gas, water, metered syntho-milk, sewage, coaxed TV, med-mist, Musik, robo-talk, robo-juice, tele, vele, elec, gelec, and such. Few of them running fat with their peculiar contributions to the good life, I judged.
 
 “That may be so,” I answered, slapping aside the dod-iderer’s hands and thumbing the blue elastic panel back in [place with a fast nib along its adhesive edge. Again it decently covered the flaccid tangle of what looked like rain-Ibow-hued sheep’s gut and rubber unmentionables. “But fthey built Ma like a bull and she’ll gore and trample you if ■'she finds you tearing down her kitchen. It’s bad enough »what the giant centipedes are doing.”
 
@@ -4844,7 +4991,7 @@ As Dick paused at this coleopterous apparition, Ma came charging out of the bed-
 
 No one can deny that Ma stands squarely in back of her our sons, like the manager of a quartet of fistic champions, conscious of our genius and determined that it get recogni-ion in the form of seven- or eight-job careers. Though at Lhe moment Dick was the only one of us with any job at all, except for Tom, who lives away with his wife and two rids. But obstructions and setbacks never daunt Ma. It’s not the money she’s after, mostly, it’s the glory of the Touse of Henley pitted against the whole bloody world.
 
-Pricked by tender filial warmth, I eyed her—a murderous son-punishing behemoth but my blessed mother— while Whitey gave her an unseen wave. He’s an old admirer she tolerates ever since Pa recognized her superior »uclear power and died.
+Pricked by tender filial warmth, I eyed her—a murderous son-punishing behemoth but my blessed mother—while Whitey gave her an unseen wave. He’s an old admirer she tolerates ever since Pa recognized her superior »uclear power and died.
 
 Dick bit out and swallowed the meat of the orange and ongued aside the peel so as to yell that the coffee was ourning his hand and what would it do to his throat? Ma lipped the fridge open against the pull of the great spring ’d fixed outside to keep it shut since the latch broke. She \ vhisked out an ice-cube and tucked it in Dick’s cup. The
 
@@ -4856,7 +5003,7 @@ The beetle-man dodged aside. Dick took off with a straight-line velocity that wo
 
 The TV blinked and—presto—there was a soldierly file of eight-job men (tabbed for that by the digit on their left shoulder) single-footing with pleasant monotony past the golden plastic statue of a twelve-jobber. Each as he reached screen-center turned head and shouted an inaudible but optimistic something at me and bared all his perfectly tended teeth in a dazzling grin.
 
-I breathed a happy sigh and got set for a spell of quiet —at least until the centipedes decided to start scuttling— but just then the beetle-man poked his head in and piped politely at Ma. “Good morning. Mrs. Henley, Tm your area med statistician, come to take your blood-pressure and photo-snap your insides and all for posterity, like we arranged for a week ago.”
+I breathed a happy sigh and got set for a spell of quiet—at least until the centipedes decided to start scuttling—but just then the beetle-man poked his head in and piped politely at Ma. “Good morning. Mrs. Henley, Tm your area med statistician, come to take your blood-pressure and photo-snap your insides and all for posterity, like we arranged for a week ago.”
 
 Ma slowly turned her head and glared at him like a bull that spots the matador, or, more likely, a peanut-vender strolling across the ring. The red in her face went purple and she slowly reached for the bubbling coffee flask and slowly lifted it The beetle-man innocently watched the lethal globe ascend with its tip-tilting seething brown hemi-core, as if all this were a job-indoctrination demonstration in astrophysics.
 
@@ -4944,7 +5091,7 @@ firing me with resentments and wild ambitions. The world’s a very tidy comfort
 
 “True, true,” he agreed. “Nevertheless, Ma’s a hopeless romantic. She wants her four sons to be Dukes of the World, lording it over all.”
 
-I couldn’t help chuckling at that. “When T was still street-smiling,” I confided, “a little man, who thought he was a great romantic, opened his mind to me wanting only to escape from the prison of his life and aim a flashing sword at other men and capture with love their women— and corral all the single girls going around loose, too. After we both looked at this stirring picture a while, we realized that what he really wanted was to have all women mother him and puff him up and lead him through life like a great bobbing red ballon.”
+I couldn’t help chuckling at that. “When T was still street-smiling,” I confided, “a little man, who thought he was a great romantic, opened his mind to me wanting only to escape from the prison of his life and aim a flashing sword at other men and capture with love their women—and corral all the single girls going around loose, too. After we both looked at this stirring picture a while, we realized that what he really wanted was to have all women mother him and puff him up and lead him through life like a great bobbing red ballon.”
 
 “That’s the way with all romantics, including Ma,” Tom said, taking advantage of me straightway. “She wants her sons to be princes and kings, or board chairmen at all events, not realizing there’s a billion others starting up the success ladder with them—and not one with a genuine ion drive. Not realizing that the competition’s too stiff for any man to dream of being more than an eight-job statistic with his peers. Or ten at most.”
 
@@ -4960,7 +5107,7 @@ The TV now was sailing over a great pile of gently crumpled bedclothes, which st
 
 “It doesn’t seem to be burning you out,” Tom observed.
 
-“Now listen here, Tom my boy,” I continued, warming to my subject “Isn’t there something altogether crazy -about a world that wants to turn everyone into merchants no matter what their natural psychological class—a world that’s turned even scientists and poets and adventurers and soldiers and priests into merchants busy selling themselves —a world that’s feared so much that the machine -would take away all jobs that it’s gone ape creating [jobs and financial ventures by the billions. With each re-r Auction in working hours paralleled by an equal or greater increase in time spent on a part-time and sideline jobs—a world that’s so money-conscious that a man who takes his >eyes off the dollar for a month or a day or even ten ^ seconds—”
+“Now listen here, Tom my boy,” I continued, warming to my subject “Isn’t there something altogether crazy -about a world that wants to turn everyone into merchants no matter what their natural psychological class—a world that’s turned even scientists and poets and adventurers and soldiers and priests into merchants busy selling themselves—a world that’s feared so much that the machine -would take away all jobs that it’s gone ape creating [jobs and financial ventures by the billions. With each re-r Auction in working hours paralleled by an equal or greater increase in time spent on a part-time and sideline jobs—a world that’s so money-conscious that a man who takes his >eyes off the dollar for a month or a day or even ten ^ seconds—”
 
 “Your eyes don’t look red with squinting at silver,” Tom ►observed like a lemon. “Besides, you’re deafening me.”
 
@@ -4968,7 +5115,7 @@ Just then Ma came lumbering daintily in again and sasked Tom, “What’s this w
 
 I groaned as if on the verge of defeat. Tom laughed and said, “I was forgetting about that. What with Mea talking of billions of jobs, my one got lost in the stampede. Well, it
 
-seems that the repair robots are getting unpredictable everywhere, spending too much time on some jobs and not enough on others, and passing up still others altogether. One repaired a leak so well it built an armor wall six feet thick around the leak and himself— Fortunata, they called that one. Another found a leak and did nothing but start making identical leaks in all the pipes he followed—until thousands of them were squirting behind him. A demolition robot started shooting rocks at a new-risen glastic building. Yet the circuits of these robots are in perfect order and they always behave properly under factory tests.
+seems that the repair robots are getting unpredictable everywhere, spending too much time on some jobs and not enough on others, and passing up still others altogether. One repaired a leak so well it built an armor wall six feet thick around the leak and himself—Fortunata, they called that one. Another found a leak and did nothing but start making identical leaks in all the pipes he followed—until thousands of them were squirting behind him. A demolition robot started shooting rocks at a new-risen glastic building. Yet the circuits of these robots are in perfect order and they always behave properly under factory tests.
 
 So what must be done is to have a man follow each metal trouble-shooter and note every move he makes, watch his behavior day after day—taking weeks if necessary so the robot will get used to his presence and not vary his behavior to please or confuse or harm the watcher. Oh, it’s a fine sort of job—no work at all—sort of like what they called Sidewalk Inspecting back in the depths of history.”
 
@@ -5034,7 +5181,14 @@ I looked down to our shadowed doorway with the faintest flicker of TV still comi
 
 But that was a little beyond the scope of my engineering, so, pushing Whitey ahead of me, off I went to tell Dick, laughing and crying.
 
-America the Beautiful ‘ AM returning to England. I am shorthanding this, July 5, 2000, aboard the Dallas-London rocket as it arches silently out of the diffused violet daylight of the stratosphere Jito the eternally star-spangled purpling night of the ionosphere.
+---
+
+america_the_beautiful
+
+# America the Beautiful
+
+.fl
+<span class="smallcaps">“I am returning</span> to England. I am shorthanding this, July 5, 2000, aboard the Dallas-London rocket as it arches silently out of the diffused violet daylight of the stratosphere Jito the eternally star-spangled purpling night of the ionosphere.
 
 I have refused the semester instructorship in poetry at UTD, which would have munificently padded my honorarium for delivering the Lanier Lectures and made me for four months second only to the Poet in Residence.
 
@@ -5086,7 +5240,7 @@ We sat in a comfortable arc before the wide fireplace, Inhere resinous woods bur
 
 A little to my surprise, the Grissims drank as heavily as he English, though they carried their liquor very well. Em-Jy was the exception to his family pattern, contenting herself with a little sherry and three long, slim reefers, which Ihe drew from an elegant foil package covered with gold -cript and Lissajous curves, and which she inhaled sipping-tf, her lips rapidly shuddering with a very faint, low, trill-ng sound.
 
-Professor Grissim set the pattern by deprecating the reasons for America’s domestic achievements, which I had led -ff by admitting were far greater than I’d expected. They weren’t due to any peculiar American drive, he said, and •ertainly not to any superior moral fiber, but simply to ^chnology and computerized civilization given their full iead and unstinting support. The powerful sweep of those wo almost mathematical forces had automatically solved roch problems as overpopulation, by effortless and aesthetic contraception, and stagnant or warped brain potential, •y unlimited semiautomated education and psychiatry— ust as on a smaller scale the drug problem had largely «een resolved by the legalization of marijuana and peyote, allowing the simple principle of restricting only the sale of uickly addictive chemicals and those provably damaging 3 nervous tissue—“Control the poisons, but let each person learn to control his intoxicants, especially now that we ave metabolic rectifiers for the congenitally alcoholic.”
+Professor Grissim set the pattern by deprecating the reasons for America’s domestic achievements, which I had led -ff by admitting were far greater than I’d expected. They weren’t due to any peculiar American drive, he said, and •ertainly not to any superior moral fiber, but simply to ^chnology and computerized civilization given their full iead and unstinting support. The powerful sweep of those wo almost mathematical forces had automatically solved roch problems as overpopulation, by effortless and aesthetic contraception, and stagnant or warped brain potential, •y unlimited semiautomated education and psychiatry—ust as on a smaller scale the drug problem had largely «een resolved by the legalization of marijuana and peyote, allowing the simple principle of restricting only the sale of uickly addictive chemicals and those provably damaging 3 nervous tissue—“Control the poisons, but let each person learn to control his intoxicants, especially now that we ave metabolic rectifiers for the congenitally alcoholic.”
 
 I was also told that American extremism, both of the right and left, which had seemed such a big thing in midcentury, had largely withered away or at least been muted by the great surge of the same forces which were making America ever more beautiful and prosperous. Cities were no longer warrens of discontent. Peace marches and Min-utemen rallies alike, culminating in the late sixties, had thereafter steadily declined.
 
@@ -5138,7 +5292,7 @@ In the act of love she was energetic, but tender. No, the word is courteous, I t
 
 She answered lazily, “I think you like to play the Hun l eaping the vestal virgin.”
 
-That made me talk dirty to her. She listened attentively —almost famishedly, I thought, for a bit—but her final -amment was “You do that very well, dear,” just before
+That made me talk dirty to her. She listened attentively—almost famishedly, I thought, for a bit—but her final -amment was “You do that very well, dear,” just before
 
 I using her lips to stop mine, which would otherwise have ulphurously cursed her insufferable poise.
 
@@ -5154,7 +5308,7 @@ Two evenings afterward the talk came around to Jack’s and Emily’s elder brot
 
 I fancied that this remark was directed at me and was her way of giving her blessing to Emily’s and my affair. I was touched and at the same time irritated—and also irritated j at myself for feeling irritated. Her remark had brought back the shadows, which darkened further when Jack said a touch grimly and for once with a soldier’s callousness, though grinning at me to remove any possible offense, “Remember not to board any more lady artists or professors, mother, at least when I’m on leave. Bad luck.”
 
-By now I was distinctly bothered by my poetry block. The last lectures were going swimmingly and I ought to have been feeling creative, but I wasn’t. Or rather, I was i feeling creative but I couldn’t create. I had also begun to i notice the way I was fitting myself to the Grissim family— muting myself, despite all the easiness among us. I couldn’t 1 help wondering if there weren’t a connection between the i two things. I had received the instructorship offer, but was delaying my final answer.
+By now I was distinctly bothered by my poetry block. The last lectures were going swimmingly and I ought to have been feeling creative, but I wasn’t. Or rather, I was i feeling creative but I couldn’t create. I had also begun to i notice the way I was fitting myself to the Grissim family—muting myself, despite all the easiness among us. I couldn’t 1 help wondering if there weren’t a connection between the i two things. I had received the instructorship offer, but was delaying my final answer.
 
 After we made love together that night—under a sinking ►crescent moon, the real night this time, repeated from above—I told Emily about my first trouble only. She pressed my hand. “Never stop writing poetry, dear,” she :said. “America needs poetry. This family—”
 
@@ -5210,11 +5364,14 @@ I hope Emily makes it to London. Perhaps there, against a very different backgro
 
 In a few more seconds the great jet will begin to brake, thrusting its hygienic, aseptic exhaust of helium down into the filthy cancerous London smog, and I will be home.
 
-Afterword
+---
 
-All I ever try to write is a good story with a good meas-#ure of strangeness in it The supreme goddess of the universe is Mystery, and being well entertained is the highest
+afterword
 
-ijoy.
+# Afterword
+
+.fl
+<span class="smallcaps">All I ever</span> try to write is a good story with a good measure of strangeness in it The supreme goddess of the universe is Mystery, and being well entertained is the highest joy.
 
 I write my stories against backgrounds of science, history and fantasy worlds of swords and sorcery. I write about the intensely strange everyday human mind and the weird and occult—about which I am a skeptic yet which interest me vastly. I always try to be meticulously accurate in handling these backgrounds, to be sure of my facts no matter what fantastic stories I build from them.
 
@@ -5232,13 +5389,13 @@ sure to meet the deadline of Harlan Ellison’s monumental anthology Dangerous V
 
 “The Ship Sails at Midnight” is the romantic tale of a love that was unconventional, at least then. The goddess Mystery makes an appearance, perhaps. I picked it as my best single story for a Derleth anthology.
 
-“The Enchanted Forest” was another story for Campbell —and for another Derleth anthology—done after a dry period of some five years.
+“The Enchanted Forest” was another story for Campbell—and for another Derleth anthology—done after a dry period of some five years.
 
-“Coming Attraction,” which Judith Merril calls “satire at its most terrifyingly prophetic,” was denounced by a minority of its first readers as Unamerican (I don’t know why —it’s Unrussian too) and praised by quite a few fellow writers. Isaac Asimov said, “Can times become even more neurotic than they are now? Well, read ‘Coming Attraction’ by Fritz Leiber on our neurotic future.” It and the novelette “Poor Superman” mirror the intense concern of 1950 with McCarthyism, computerization and, above all, the bomb. Damon Knight said about the novelette, “Fritz Leiber is at his brilliant best when sticking pins into some prominent member of the American Paranoids’ Association—e.g., Mickey Spillane in “The Night He Cried,” or, in the present case, our old friend Alfred van Vogt.” (Wrong on the second count, Damon. In “Poor Superman” I had in mind L. Ron Hubbard and Campbell himself, the
+“Coming Attraction,” which Judith Merril calls “satire at its most terrifyingly prophetic,” was denounced by a minority of its first readers as Unamerican (I don’t know why—it’s Unrussian too) and praised by quite a few fellow writers. Isaac Asimov said, “Can times become even more neurotic than they are now? Well, read ‘Coming Attraction’ by Fritz Leiber on our neurotic future.” It and the novelette “Poor Superman” mirror the intense concern of 1950 with McCarthyism, computerization and, above all, the bomb. Damon Knight said about the novelette, “Fritz Leiber is at his brilliant best when sticking pins into some prominent member of the American Paranoids’ Association—e.g., Mickey Spillane in “The Night He Cried,” or, in the present case, our old friend Alfred van Vogt.” (Wrong on the second count, Damon. In “Poor Superman” I had in mind L. Ron Hubbard and Campbell himself, the
 
 otter a very helpful but very well-intentioned innocent bylander at the monstrous birth of dianetics, mother of dentology.) “A Pail of Air” pictures a struggle against i nother sort of world doom. All three stories were pub-shed in Horace Gold’s then new (1950), stimulatingly ■r lodera magazine, Galaxy.
 
-“The Big Holiday” was my second sale (1953) to the i ther new, stimulatingly modem—and highly literate— f nagazine, Fantasy and Science Fiction. Its editor, the bril-l iant Anthony Boucher, helped me more than any other verson—but perhaps for H. P. Lovecraft and Harry Fisch-r—to give my stones style and literary polish. Boucher ailed my story “the finest conception we have yet of the sun of the future—a Breughel-like canvas of merriment.” As Damon Knight noted, I wrote “The Night He Cried” because I was distantly angry at Mickey Spillane for the ^elf-satisfied violence and loveless sex and anti-feminism he vas introducing into detective fiction and because he had fhe temerity to publish a couple of stories in the fantasy field, about which I have a parental concern. My rage •eems remote now, yet the point was valid.
+“The Big Holiday” was my second sale (1953) to the i ther new, stimulatingly modem—and highly literate—f nagazine, Fantasy and Science Fiction. Its editor, the bril-l iant Anthony Boucher, helped me more than any other verson—but perhaps for H. P. Lovecraft and Harry Fisch-r—to give my stones style and literary polish. Boucher ailed my story “the finest conception we have yet of the sun of the future—a Breughel-like canvas of merriment.” As Damon Knight noted, I wrote “The Night He Cried” because I was distantly angry at Mickey Spillane for the ^elf-satisfied violence and loveless sex and anti-feminism he vas introducing into detective fiction and because he had fhe temerity to publish a couple of stories in the fantasy field, about which I have a parental concern. My rage •eems remote now, yet the point was valid.
 
 “The Big Trek” got me a gorgeous magazine-cover illustration by Emsh. Like “Foxholes,” it was first written with a modem setting and sold only when I gave it a colorful fu-r urian one.
 
@@ -5252,7 +5409,7 @@ The novelette “A Deskful of Girls” got me another colorful magazine cover, t
 
 “Little Old Miss Macbeth” caused Robert P. Mills, then editor of Fantasy and Science Fiction, to observe, “Surely Fritz Leiber is the most vividly visual of all science-fantasy writers.” This seems extreme, yet for me vision is “worth all the rest” of the senses, as Macbeth put it It may be due to my youth as an actor and the child of actors. I visualize most of my stories and set many of them on an imaginary stage. Some, like The Big Time, have only one set
 
-“Mariana” was another story that seemed to write itself —a gift from the goddesses after I had unremittingly toiled word by word through four tales for the all-Leiber issue of the magazine Fantastic, the last one of which hung me up so that the only way I could finish it was to write it backwards from the end to the middle, scene by laborious scene. “Mariana” was selected by Judith Merril for The Year’s Best SF.
+“Mariana” was another story that seemed to write itself—a gift from the goddesses after I had unremittingly toiled word by word through four tales for the all-Leiber issue of the magazine Fantastic, the last one of which hung me up so that the only way I could finish it was to write it backwards from the end to the middle, scene by laborious scene. “Mariana” was selected by Judith Merril for The Year’s Best SF.
 
 So was “The Man Who Made Friends With Electricity,” a supernatural horror story stemming from the California environment of my last decade and a half. Before that, Chicago was my place.
 
@@ -5266,168 +5423,5 @@ So there you have them, the best of my science-fantasy stories, in my estimation
 
 So, as I say, there you have them, the best of my sci-ice-fantasy stories. But I hope to write better ones. I’ll :ver stop writing. It’s one occupation in which being cra-% even senile, might help.
 
+.right
 —Fritz Leiber
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DOS AND GOLEMS HE NEUTRAL STARS LOODHYPE
-
--RRIVE AT EASTERWINE -HE CLOUD WALKER HE ALIEN CONDITION tAVY
-
-WORLD OF TROUBLE 'RULLION—Alastor: 2262 <HE END BRINGERS HIGHT-HANOED WILDERNESS
-
-ME BEST SCIENCE FICTION OF THE YEAR, #2
-
-0 RIDE PEGASUS RANSFER TO YESTERDAY
-
-I HE PROTECTOR IHE FLIGHT OF THE HORSE iYING INSIDE LPHA 4
-
-RA1T0R TO THE LIVING
-
-Lester del Rey Dan Morgan & John Kippax Alan Dean Foster R. A. Lafferty Edmund Cooper edited by Stephen Goldin Edgar Pangbom Robert E. Toomey, Jr.
-
-Jack Vance Douglas R. Mason Robert Wells
-
-edited by Terry Carr Anne McCaffrey Isidore Haiblum Larry Niven Larry Niven Robert Silverberg edited by Robert Silverberg Philip Jos6 Farmer
-
-SELECTIONS FROM THE PUBLISHER OF THE BEST SCIENCE FICTION IN THE WORLD
-
-To order by moll, tend $1.25 per book plus 250 per order for handling to Ballantine Cash Sales, P.O. Box 505, Westminster, Maryland 21157. Please allow three weeks for delivery.
-
-BALLANTINE BOOKS BRINGS YOU
-
-STAR TREK
-
-THE MAKING OF STAR TREK
-
-Stephen E. Whitfield • Gene Roddenberry
-
-The book on how to write for TV! The complete story on how the U.S.S. Enterprise was designed, the original concept behind the show, backgrounds of the characters—the whole authentic history.
-
-THE WORLD OF STAR TREK
-
-David Gerrold
-
-Here are the worlds of Star Trek: Gene Roddenberry’s brilliant conception; the show itself and the people who created it —the writers, the stars, the technicians; the fans—the world the show created.
-
-THE TROUBLE WITH TRIBBLES
-
-David Gerrold
-
-The full story of one of Star Trek’s most popular episodes from first draft to final shooting of the script
-
-Each book contains photosl
-
-Tc order by mall, tend $1.50 per book plus 250 per order for handling to Ballantine Caih Sales, P.O. Box 505, Westminster, Maryland 21157. Please allow three weeks for delivery.
-
-
-
-CAlso available from
-
-^Ballantine ^ooks
-
-The J. R. R. Tol\ien Calendar 1975 $4.95
-
--
-
-TOLKIEN POSTERS:
-
-“Come to Middle Earth,” $1.49
-
-“Map of Middle Earth,” $1.49 Single Map Poster
-
-New Map of the Middle Earth, $2.50 Pauline Baynes
-
-Tolkien “Lord of the Rings,” $5.00 Mural (37" x 72")
-
-Tolkien “There and Back,”
-
-Map, $2.50
-
-The Tolkien Reader by J. R. R. Tolkien $1.50
-
-Smith of Wooton Major and Farmer Giles of Ham by J. R. R. Tolkien	$1.25
-
-Tolkien: A Look Behind the Lord of the Rings by Lin Carter	$1.25
-
-available at your local bookstore, or
-
-To order by mail, send price of book(s) plus 25$ per order for handling to Ballantine Cash Sales, P.O. Box 505, Westminster, Maryland 21157. Please allow three weeks for delivery.
-
-SCIENCE FICTION
-
-from ©
-
-BALLANTINE BOOKS
-
-WALK TO THE END OF THE WORLD,
-
-S. M. Charnas	$1.25
-
-SCERIGGER, Alan Dean Foster	$1.25
-
-UNDER PRESSURE, Frank Herbert	$1.25
-
-THE LEGEND OF MIAREE, Zach Hughes	$1.25
-
-THE BEST OF STANLEY G. WEINBAUM
-
-With an INTRODUCTION by Isaac Asimov and an Afterword by Robert Bloch	$1.65
-
-David Gerrold, Ed.	$1.25
-
-THE GINGER STAR	
-
-Leigh Brackett	$1.25
-
-A HOLE IN SPACE	
-
-Larry Niven	$1.25
-
-STAR TREK LOG ONE	
-
-Alan Dean Foster	$ .95
-
-PATRON OF THE ARTS	
-
-William Rotsler	$1.25
-
-THE BEST SCIENCE FICTION OF	THE YEAR #3
-
-Terry Carr, Ed.	$1.50
-
-launching a new series of Sci Fi Greats
-
-SCIENCE FICTION EMPHASIS 1
-
-available at your local bookstore
-
-To order by mail, send price of book(s) plus 250 per order for handling to Ballantine Cash Sales, P.O. Box 505, Westminster, Maryland 21157. Please allow three weeks for delivery.
-
-IL	E
-
-	• •
-
-Tic	H
-
-:ti	IO
-
-/IE	Tl
