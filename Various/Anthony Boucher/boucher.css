@@ -1,4 +1,4 @@
-body { widows: 1; orphans: 1; }
+²body { widows: 1; orphans: 1; }
 
 .flap h1 { font-family: sans-serif; padding-bottom: 0; margin-bottom: 0;}
 .flap h2 { text-align: left; font-family: sans-serif; padding-top: 0; margin-top: 0; }
@@ -6,10 +6,15 @@ body { widows: 1; orphans: 1; }
 .contents h1 { padding-bottom: 0; margin-bottom: 0 }
 .titlepage h1 { font-size: 2em; line-height: 1; }
 
-.rearcover { font-family: sans-serif; font-size: 1.2em; }
+.rearcover { font-size: 1.2em; }
 .rearcover p { text-indent: 0px; }
-.rearcover h1 { margin-top: 0; padding-top: 0; }
-.rearcover h2 { text-align: left; }
+.rearcover .title { font-family: sans-serif; margin-top: 0; font-weight: bold; padding-top: 0; }
+.rearcover .editor { font-family: sans-serif; text-align: left; font-wight: bold; }
+.rearcover .volume { font-family: sans-serif; font-size: 1.2rem; font-weight: bold; padding-top: .5em; padding: bottom: 0;}
+
+.flap p { padding: 0 10%; }
+.flap .title { font-family: sans-serif; font-size: 1.2rem; text-indent: 0; margin-top: 0; font-weight: bold; padding-top: 0; }
+.flap .editor { font-family: sans-serif; font-size: 1.2rem; text-indent: 0; text-align: left; font-wight: bold; }
 
 .other_books .sc { line-height: .8em; }
 
@@ -21,9 +26,10 @@ h4 { border: 0px; padding: 0px; margin: 0 0 0 0; font-size: 0.8em; font-weight: 
 #toc ol { list-style: none; }
 .caption { margin-left: 10%; margin-right: 10%; text-align: center; text-indent: 0; }
 
-.center { text-indent: 0; text-align: center !important; margin: 0px;}
+.center { text-indent: 0 !important; text-align: center !important; margin: 0px !important;}
+.right { text-align: right !important; }
 .titlepage .author { width: 100%; text-align: left; text-indent: 0; font-size: 1.5em; margin-top: 1em; }
-.titlepage h1 { margin: 2rem 0 0 0; }
+.titlepage h1 { margin: 2rem 0 0 0; font-size: 3rem; }
 .title-foot { padding-top: 4em; text-align: center !important;}
 
 a { color: blue; text-decoration: none;}
@@ -55,6 +61,8 @@ table th { font-weight: normal; }
 
 .copyright p { margin-left: 12%; margin-right: 12%; text-align: left; font-size: 0.8em; text-indent: 0; }
 .left { text-align: left; }
+
+.typewriter { font-family: monospace; text-indent: 0;}
 
 .grey { color: grey; }
 .lightblue { color: #098fe8; }
