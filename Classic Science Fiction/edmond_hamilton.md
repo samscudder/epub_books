@@ -1,13 +1,13 @@
 ---
-identifier: 
+identifier: best_of_edmond_hamilton_b000
 
-title: 
+title: The Best of Edmond Hamilton
 
-creator: 
+creator: Edmond Hamilton
 
-cover: 
+cover: edmond_hamilton.jpg
 
-css: 
+css: classic_science_fiction.css
 
 language: en-US
 
@@ -20,223 +20,358 @@ description:
 
 rearcover
 
-WHEN WORLDS CLASH
+.center
+![THE GRANDEUR OF EDMOND HAMILTON](edmond_hamilton_r.png)
 
-Alone on Mercury, Tollarg and Hurg and I waited in the control tower. The four oncoming worlds of the Antolians had almost reached our new star.
+.fl.left
+THESE 21 SUPERB STORIES DISPLAY THE FULL COSMIC SCOPE OF A WRITER WHOSE EPICS OF GALACTIC ADVENTURE ON THE HEROIC SCALE HAVE ENTHRALLED GENERATIONS OF SCIENCE FICTION READERS WITH THEIR CONFLICTS OF MEN, STANGE BEINGS, AND ENTIRE PLANETS.
 
-Quickly I opened up Mercury's propulsion-blasts and set the little planet hurtling back the way we had come. Toward each other, booming through space with immense speed, thundered Mercury and the invading worlds. Then the Antolian planets veered to one side—too late.
+.subtitle
+• THUNDERING WORLDS
 
-"They're going to crash!" I cried. "Up and away before they meet!" We threw ourselves into our ships and darted up like lightning from the doomed planet.
+.smaller
+Fleeing a dying sun, mankind set out across space—not in starships, but in an incredibly armada made up of the very planets of the Solar System!
 
-The rushing globe of Mercury was almost to the oncoming sphere of the first Antolian world. And then, as we shot away from them into space, they met!
+.subtitle
+• THE MAN WHO EVOLVED
 
-Watch for all the volumes in our Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book is introduced by a well-known science fiction writer or by a distinguished critic.
+.smaller
+He harnessed the energy of the Universe to reach Man’s next, god-like stage—and then took the step <u>after</u> that.
 
-NOW AVAILABLE:
+.subtitle
+• IN THE WORLD’S DUSK
 
-The Best of Stanley G. Weinbaum Introduction by Isaac Asimov The Best of Fritz Leiber Introduction by Poul Anderson The Best of Frederik Pohl Introduction by Lester del Rey The Best of Henry Kuttner Introduction by Ray Bradbury The Best of Cordwainer Smith Introduction by J. J. Pierce The Best of C. L. Moore Introduction by Lester del Rey The Best of John W. Campbell Introduction by Lester del Rey The Best of C. M. Kornbluth Introduction by Frederik Pohl The Best of Philip K. Dick Introduction by John Brunner The Best of Fredric Brown Introduction by Robert Bloch
+.smaller
+The last survivor of the human race brought back the dead to people Earth—and, when that failed, tried an even more desperate way of making his planet live again.
 
-VOLUMES IN PREPARATION:
+.subtitle
+• EXILE
 
-The Best of Leigh Brackett Introduction by Edmond Hamilton The Best of Robert Bloch Introduction by Lester del Rey The Best of L. Sprague de Camp Introduction by Poul Anderson The Best of Raymond Z. Gallun Introduction by Frederik Pohl The Best of Murray Leinster Introduction by J. J. Pierce The Best of Hal Clement Introduction by Ben Bova The Best of James Blish Introduction by Lester del Rey
+.smaller
+He created a barbaric, nightmarish world—and then he had to live in it!
 
-COMING SOON FROM DEL REY BOOKS
+.subtitle
+• DAY OF JUDGMENT
 
-THE BEST OF
+.smaller
+The last man and the last woman returned to Earth—to face a Jury with a million-year grievance to avenge!
 
-(^2mon2 '^rKLainilton
+.subtitle
+• Plus the unforgettable REQUIEM
 
+.smaller
+and fifteen other unique tales alive with a surging sense of wonder.
+
+---
+
+blurb
+
+.heading
+**WHEN WORLDS CLASH**
+
+.space.thin
+**Alone on Mercury, Tollarg and Hurg and I waited in the control tower. The four oncoming worlds of the Antolians had almost reached our new star.**
+
+.space.thin
+**Quickly I opened up Mercury's propulsion-blasts and set the little planet hurtling back the way we had come. Toward each other, booming through space with immense speed, thundered Mercury and the invading worlds. Then the Antolian planets veered to one side—too late.**
+
+.space.thin
+**"They're going to crash!" I cried. "Up and away before they meet!" We threw ourselves into our ships and darted up like lightning from the doomed planet.**
+
+.space.thin
+**The rushing globe of Mercury was almost to the oncoming sphere of the first Antolian world. And then, as we shot away from them into space, they met!**
+
+---
+
+other_books
+
+.center
+**Watch for all the volumes in our Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book is introduced by a well-known science fiction writer or by a distinguished critic.**
+
+.space.center
+**NOW AVAILABLE:**
+
+.center
+**The Best of Stanley G. Weinbaum**
+*Introduction by Isaac Asimov*
+**The Best of Fritz Leiber**
+*Introduction by Poul Anderson*
+**The Best of Frederik Pohl**
+*Introduction by Lester del Rey*
+**The Best of Henry Kuttner**
+*Introduction by Ray Bradbury*
+**The Best of Cordwainer Smith**
+*Introduction by J. J. Pierce*
+**The Best of C. L. Moore**
+*Introduction by Lester del Rey*
+**The Best of John W. Campbell**
+*Introduction by Lester del Rey*
+**The Best of C. M. Kornbluth**
+*Introduction by Frederik Pohl*
+**The Best of Philip K. Dick**
+*Introduction by John Brunner*
+**The Best of Fredric Brown**
+*Introduction by Robert Bloch*
+
+.space.center
+**VOLUMES IN PREPARATION:**
+
+.center
+**The Best of Leigh Brackett**
+*Introduction by Edmond Hamilton*
+**The Best of Robert Bloch**
+*Introduction by Lester del Rey*
+**The Best of L. Sprague de Camp**
+*Introduction by Poul Anderson*
+**The Best of Raymond Z. Gallun**
+*Introduction by Frederik Pohl*
+**The Best of Murray Leinster**
+*Introduction by J. J. Pierce*
+**The Best of Hal Clement**
+*Introduction by Ben Bova*
+**The Best of James Blish**
+*Introduction by Lester del Rey*
+
+.space.center
+***COMING SOON FROM DEL REY BOOKS***
+
+---
+
+titlepage
+
+# THE BEST OF<br />*Edmond Hamilton*
+
+.editor
 Edited and with an Introduction by
-
 LEIGH BRACKETT
 
+.big_space.center
+![DEL REY](delrey.jpg)
+
+.space.center
 A Del Rey Book
 
+.center
 BALLANTINE BOOKS • NEW YORK
 
-In Memory of
+---
 
+dedication
+
+.center
+In Memory
+of
 FARNSWORTH WRIGHT
 
-A Del Rey Book Published by Ballantine Books
+---
+
+copyright
+
+A Del Rey Book
+Published by Ballantine Books
 
 Copyright © 1977 by Edmond Hamilton
-
-Introduction: “Fifty Years of Wonder” copyright © 1977 by
-
-Leigh Brackett
+Introduction: *“Fifty Years of Wonder”* copyright © 1977 by Leigh Brackett
 
 All rights reserved under International and Pan-American Copyright Conventions. Published in the United States by Ballantine Books, a division of Random House, Inc., New York, and simultaneously in Canada by Ballantine Books of Canada, Ltd,, Toronto, Canada.
 
-Library of Congress Catalog Card Number: 77-574 ISBN 0-345-25900-9
+Library of Congress Catalog Card Number: 77-574
+
+ISBN 0-345-25900-9
 
 Printed in Canada.
 
-Book Club Edition: April 1977 First Edition: August 1977
+Book Club Edition: April 1977
+First Edition: August 1977
 
 Cover art by H. R. Van Dongen
 
+---
+
+acknowledgments
+
+.center
 ACKNOWLEDGMENTS
 
-“The Monster-God of Mamurth,” copyright © 1926 by Popular Fiction Publishing Co. for Weird Tales, August 1926.
+.space.revindent
+“The Monster-God of Mamurth,” copyright © 1926 by Popular Fiction Publishing Co. for *Weird Tales*, August 1926.
 
-“The Man Who Evolved,” copyright © 1931 by Gemsback Pub” lications, Inc. for Wonder Stories, April 1931.
+.revindent
+“The Man Who Evolved,” copyright © 1931 by Gernsback Pub” lications, Inc. for *Wonder Stories*, April 1931.
 
-“A Conquest of Two Worlds,” copyright © 1932 by Gemsback Publications, Inc. for Wonder Stories, February 1932.
+.revindent
+“A Conquest of Two Worlds,” copyright © 1932 by Gernsback Publications, Inc. for *Wonder Stories*, February 1932.
 
-“The Island of Unreason,” copyright © 1933 by Gemsback Publications, Inc. for Wonder Stories, May 1933.
+.revindent
+“The Island of Unreason,” copyright © 1933 by Gernsback Publications, Inc. for *Wonder Stories*, May 1933.
 
-“Thundering Worlds,” copyright © 1934 by Popular Fiction Publishing Co. for Weird Tales, March 1934.
+.revindent
+“Thundering Worlds,” copyright © 1934 by Popular Fiction Publishing Co. for *Weird Tales*, March 1934.
 
-“The Man Who Returned,” copyright © 1935 by Popular Fiction Publishing Co. for Weird Tales, February 1935.
+.revindent
+“The Man Who Returned,” copyright © 1935 by Popular Fiction Publishing Co. for *Weird Tales*, February 1935.
 
-“The Accursed Galaxy,” copyright © 1935 by Street & Smith Publications, Inc. for Astounding Stories, July 1935.
+.revindent
+“The Accursed Galaxy,” copyright © 1935 by Street & Smith Publications, Inc. for *Astounding Stories*, July 1935.
 
-“In the World’s Dusk,” copyright © 1936 by Popular Fiction Publishing Co. for Weird Tales, March 1936.
+.revindent
+“In the World’s Dusk,” copyright © 1936 by Popular Fiction Publishing Co. for *Weird Tales*, March 1936.
 
-“Child of the Winds,” copyright © 1936 by Popular Fiction Publishing Co. for Weird Tales, May 1936.
+.revindent
+“Child of the Winds,” copyright © 1936 by Popular Fiction Publishing Co. for *Weird Tales*, May 1936.
 
-“The Seeds from Outside,” copyright © 1937 by Popular Fiction Publishing Co. for Weird Tales, March 1937.
+.revindent
+“The Seeds from Outside,” copyright © 1937 by Popular Fiction Publishing Co. for *Weird Tales*, March 1937.
 
-“Fessenden’s Worlds,” copyright © 1937 by Popular Fiction Publishing Co. for Weird, Tales, April 1937.
+.revindent
+“Fessenden’s Worlds,” copyright © 1937 by Popular Fiction Publishing Co. for *Weird Tales*, April 1937.
 
-“Easy Money,” copyright © 1938 by Standard Magazines, Inc. for Thrilling Wonder Stories, April 1938.
+.revindent
+“Easy Money,” copyright © 1938 by Standard Magazines, Inc. for *Thrilling Wonder Stories*, April 1938.
 
-“He That Hath Wings,” copyright © 1938 by Popular Fiction Publishing Co. for Weird Tales, July 1938.
+.revindent
+“He That Hath Wings,” copyright © 1938 by Popular Fiction Publishing Co. for *Weird Tales*, July 1938.
 
-“Exile,” copyright © 1943 by Popular Publications, Inc. for Super Science Stories, May 1943.
+.revindent
+“Exile,” copyright © 1943 by Popular Publications, Inc. for *Super Science Stories*, May 1943.
 
-“Day of Judgment,” copyright © 1946 by Weird Tales for Weird Tales, September 1946.
+.revindent
+“Day of Judgment,” copyright © 1946 by Weird Tales for *Weird Tales*, September 1946.
 
-“Alien Earth,” copyright © 1949 by Standard Magazines, Inc. for Thrilling Wonder Stories, April 1949.
+.revindent
+“Alien Earth,” copyright © 1949 by Standard Magazines, Inc. for *Thrilling Wonder Stories*, April 1949.
 
-“What’s It Like Out There?” copyright © 1952 by Standard Magazines, Inc. for Thrilling Wonder Stories, December 1952.
+.revindent
+“What’s It Like Out There?” copyright © 1952 by Standard Magazines, Inc. for *Thrilling Wonder Stories*, December 1952.
 
-“Requiem,” copyright © 1962 by Ultimate Publishing Co. for Amazing Stories, April 1962.
+.revindent
+“Requiem,” copyright © 1962 by Ultimate Publishing Co. for *Amazing Stories*, April 1962.
 
-“After a Judgment Day,” copyright © 1963 by Ultimate Publishing Co. for Fantastic Science Fiction, December 1963.
+.revindent
+“After a Judgment Day,” copyright © 1963 by Ultimate Publishing Co. for *Fantastic Science Fiction*, December 1963.
 
-“The Pro,” copyright © 1964 by Mercury Publications, Inc. for The Magazine of Fantasy and Science Fiction, October 1964.
+.revindent
+“The Pro,” copyright © 1964 by Mercury Publications, Inc. for *The Magazine of Fantasy and Science Fiction*, October 1964.
 
-“Castaway,” copyright © 1968 by Edmond Hamilton for The Man Who Called Himself Poe (Sam Moskowitz, ed.; Nelson \ Doubleday, 1968).
+.revindent
+“Castaway,” copyright © 1968 by Edmond Hamilton for *The Man Who Called Himself Poe* (Sam Moskowitz, ed.; Nelson Doubleday, 1968).
 
-Contents
+---
 
-Leigh Brackett	ix
+contents
 
-The Man Who Evolved	17
+# Contents
 
-A Conquest of Two Worlds	36
+[*Introduction*: Fifty Years of Wonder](introduction) *Leigh Brackett*
 
-The Island of Unreason	69
+[The Monster-God of Mamurth](the_monster-god_of_mamurth)
 
-Thundering Worlds	90
+[The Man Who Evolved](the_man_who_evolved)
 
-The Man Who Returned	121
+[A Conquest of Two Worlds](a_conquest_of_two_worlds)
 
-The Accursed Galaxy	136
+[The Island of Unreason](the_island_of_unreason)
 
-In the World’s Dusk	155
+[Thundering Worlds](thundering_worlds)
 
-Child of the Winds	169
+[The Man Who Returned](the_man_who_returned)
 
-The Seeds from Outside	190
+[The Accursed Galaxy](the_accursed_galaxy)
 
-Fessenden’s Worlds	196
+[In the World’s Dusk](in_the_worlds_dusk)
 
-Easy Money	210
+[Child of the Winds](child_of_the_winds)
 
-He That Hath Wings	226
+[The Seeds from Outside](the_seeds_from_outside)
 
-Exile	252
+[Fessenden’s Worlds](fessendens_worlds)
 
-Day of Judgment	257
+[Easy Money](easy_money)
 
-Alien Earth	272
+[He That Hath Wings](he_that_hath_wings)
 
-What’s It Like Out There?	300
+[Exile](exile)
 
-Requiem	324
+[Day of Judgment](day_of_judgment)
 
-After a Judgment Day	344
+[Alien Earth](alien_earth)
 
-The Pro	356
+[What’s It Like Out There?](whats_it_like_out_there)
 
-Castaway	370
+[Requiem](requiem)
 
-Afterword	
+[After a Judgment Day](after_a_judgment_day)
 
-Edmond Hamilton	378
+[The Pro](the_pro)
 
-Introduction: Fifty Years of Wonder
+[Castaway](castaway)
 
+[*Afterword*](afterword) Edmond Hamilton
 
+---
 
-Fifty Years of Wonder
+introduction
 
-When it was decided that Ballantine was going to do a Best of Edmond Hamilton and that I was going to edit it, Ed allowed as how after nearly thirty years of being married to him I was probably better qualified than most, having read more Hamilton stories, and he gave me only one word of advice concerning the introduction I was to write.
+# Fifty Years of Wonder
+
+.fl
+<span class="smallcaps">When it was</span> decided that Ballantine was going to do a *Best of Edmond Hamilton* and that I was going to edit it, Ed allowed as how after nearly thirty years of being married to him I was probably better qualified than most, having *read* more Hamilton stories, and he gave me only one word of advice concerning the introduction I was to write.
 
 “Years ago,” he said, “a young reader wrote to me, saying that if he had his way there would be a golden statue of Edmond Hamilton in every city, and that each of those golden statues would be garlanded with roses. I said at the time that that was all I had ever wanted from my readers . . . not praise, just good honest criticism. And that is all I want from you.”
 
-Gazing into the middle distance, he added thoughtfully, “You should also bear in mind that I am going to edit a Best of You . . .”
+Gazing into the middle distance, he added thoughtfully, “You should also bear in mind that I am going to edit a *Best of You* . . .”
 
 So, getting briskly to it . . .
 
 Edmond Hamilton’s remarkable career spans half a century, and is still going strong. This says much for his staying power. It says even more for his ability to give the readers what they want in 1976 as well as he did in 1926. The world has changed in five decades, so much so that it is hardly the same planet. Yet Hamilton has managed, not only to keep abreast of the changes, but to stay a couple of jumps ahead of them.
 
-He was a child prodigy, but that does not seem to have affected his boyhood materially. He looks back on it as an active and happy time, full of the normal fun and scrapes and pummellings. Only one thing set him apart from his playmates. He read, everything he could get his hands on, and especially anything that was fan-
+He was a child prodigy, but that does not seem to have affected his boyhood materially. He looks back on it as an active and happy time, full of the normal fun and scrapes and pummellings. Only one thing set him apart from his playmates. He read, everything he could get his hands on, and especially anything that was fantastic or science fictional. He was in college at fourteen and out again three years later, leaving his professors to wonder why a kid with a genius IQ didn’t do better at his studies. He was just too busy reading, and dreaming.
 
-tastic or science fictional. He was in college at fourteen and out again three years later, leaving his professors to wonder why a kid with a genius IQ didn’t do better at his studies. He was just too busy reading, and dreaming.
+He had planned to be an electrical engineer. But when the crunch came, he knew what he really wanted to be, what he *had* to be, and that was a writer of fiction—specifically, of science fiction.
 
-He had planned to be an electrical engineer. But when the crunch came, he knew what he really wanted to be, what he had to be, and that was a writer of fiction—specifically, of science fiction.
-
-His first story, “The Monster-God of Mamurth,” appeared in the August 1926 issue of Weird Tales, and it’s as good a yarn now as it was then, foreshadowing what was to become Hamilton’s trademark for many years; the action-adventure story, strong on suspense and atmosphere, spiced with a delight in the alien and the strange.
+His first story, “The Monster-God of Mamurth,” appeared in the August 1926 issue of *Weird Tales*, and it’s as good a yarn now as it was then, foreshadowing what was to become Hamilton’s trademark for many years; the action-adventure story, strong on suspense and atmosphere, spiced with a delight in the alien and the strange.
 
 Having sold that all-important first story, Hamilton sold the next forty without even a request for revision. When the forty-first came back with a polite suggestion that some changes might be in order, he was outraged. But after a few days he managed to swallow his pride and see that there was a good reason for the changes, and he made them—thus crossing the divide that forever separates the gifted amateur from the professional.
 
 You might suppose that Hamilton waxed rich and fat on the proceeds of those forty quick sales, that he indulged himself in Stutz Bearcats and mink-lined polo coats. Far from it. Things are better now, but in those days the going price for a science-fiction story, in the very few and very small magazines that published them, was around thirty dollars, generally on publication, which could be a year or more after acceptance. And even then it was sometimes necessary to catch up with the publisher, knock him down, and sit on him until he signed the check. Science fiction then was written for love, or because of mental inbalance, but not for money.
 
-During the 20s and 30s the “mad scientist” story was very popular, and Hamilton wrote a number of them, notably “The Man Who Evolved,” which appeared in the old Gemsback Wonder Stories in February of 1931, and “Fessenden’s Worlds,” in Weird Tales for April 1937. The first carries the question of man’s future evolution to its logical and quite chilling conclusion; the story is also a fine example of Hamilton’s skill in encapsulating an enormous theme into the neat and perfect compass of a short story. The second, a classic which has been translated into almost every language— including Tamil and Tagalog—is a brilliantly cruel little analogue which leaves the reader thinking, and thinking again. Here too the theme is condensed into a rapier point more piercing than is possible with any novel.
+During the 20s and 30s the “mad scientist” story was very popular, and Hamilton wrote a number of them, notably “The Man Who Evolved,” which appeared in the old Gernsback *Wonder Stories* in February of 1931, and “Fessenden’s Worlds,” in *Weird Tales* for April 1937. The first carries the question of man’s future evolution to its logical and quite chilling conclusion; the story is also a fine example of Hamilton’s skill in encapsulating an enormous theme into the neat and perfect compass of a short story. The second, a classic which has been translated into almost every language—including Tamil and Tagalog—is a brilliantly cruel little analogue which leaves the reader thinking, and thinking again. Here too the theme is condensed into a rapier point more piercing than is possible with any novel.
 
-But Hamilton was writing other things as well; stories which earned him the nickname of World-Wrecker, or World-Saver. He was an innovator from the first, and let it be said that he did not think small. In a day when science fiction was concerned chiefly with laboratories and test tubes, he wanted the stars. And he got them. His Interstellar Patrol stories set the pattern for the many others that followed later on. He invented the spacesuit. He was the first to take a man outside a spaceship, for what we now call a “space walk.” He wrote about the “great booming suns of outer space”—and if they don’t boom, they by God ought to!—and the readers loved it. Hamilton more than anybody opened up the horizons of science fiction, taking it out beyond Earth, out beyond the solar system, out to the farthest star, and still outward and onward to other galaxies.
+But Hamilton was writing other things as well; stories which earned him the nickname of World-Wrecker, or World-Saver. He was an innovator from the first, and let it be said that he did not think small. In a day when science fiction was concerned chiefly with laboratories and test tubes, he wanted the stars. And he got them. His Interstellar Patrol stories set the pattern for the many others that followed later on. He invented the spacesuit. He was the first to take a man *outside* a spaceship, for what we now call a “space walk.” He wrote about the “great booming suns of outer space”—and if they don’t boom, they by God ought to!—and the readers loved it. Hamilton more than anybody opened up the horizons of science fiction, taking it out beyond Earth, out beyond the solar system, out to the farthest star, and still outward and onward to other galaxies.
 
 “Thundering Worlds” is in this tradition. Style and characterization are less important here than the central idea, which might be summed up as nine planets in search of a sun. High adventure, heroism, and great storytelling.
 
-He was an innovator also in the realm of ideas. A bom bibliophile, his reading was not restricted to fiction of any sort, but roved over all the world’s treasure of literature, history, and philosophy, and he was not above having Big Thinks, though he seldom waved them at people.
+He was an innovator also in the realm of ideas. A born bibliophile, his reading was not restricted to fiction of any sort, but roved over all the world’s treasure of literature, history, and philosophy, and he was not above having Big Thinks, though he seldom waved them at people.
 
-He became irritated with the stereotypical rendering of Earthmen as heroes with a divine right to conquer other planets, which were always inhabited by stereotypical nasty monsters. “A Conquest of Two Worlds,” which appeared in Gernsback’s Wonder Stories in February of 1932, was a landmark story that made a profound impression on its readers. In a remarkably realistic, bitter, and downbeat fashion, it questioned the philosophy of the “Earthman’s burden” and the rightness of territorial wars, and it portrayed the aliens as sympathetic victims of aggression rather than the brainless menaces of the “look-out-they’re-coming-over-the-rocks” type of thing which was so common in those days. Atom bombs are tossed about here with rather too much abandon, even assuming small tactical weapons; but then, the happy folk of 1932 had never seen an atom bomb and could only guess at what it might do. This is a technicality, and in no way lessens the power of the story.
+He became irritated with the stereotypical rendering of Earthmen as heroes with a divine right to conquer other planets, which were always inhabited by stereotypical nasty monsters. “A Conquest of Two Worlds,” which appeared in Gernsback’s *Wonder Stories* in February of 1932, was a landmark story that made a profound impression on its readers. In a remarkably realistic, bitter, and downbeat fashion, it questioned the philosophy of the “Earthman’s burden” and the rightness of territorial wars, and it portrayed the aliens as sympathetic victims of aggression rather than the brainless menaces of the “look-out-they’re-coming-over-the-rocks” type of thing which was so common in those days. Atom bombs are tossed about here with rather too much abandon, even assuming small tactical weapons; but then, the happy folk of 1932 had never seen an atom bomb and could only guess at what it might do. This is a technicality, and in no way lessens the power of the story.
 
 At about the same time, Hamilton wrote another short novel on another theme, the first landing of a manned spacecraft on Mars. He wrote it for the same reason. He was fed up with the easy assumptions about spaceflight, which had clever geniuses tinkering up spaceships in their back yards and making incredible voyages with no thought at all for any of the actual problems that would be involved. He was convinced that if spaceflight were ever to be achieved, it would be done only through a massive national effort, requiring enormous expenditure of money and manpower, and he did not believe that manned landings on other worlds would be achieved without danger and loss. He wrote a realistic story of how he thought things would be, and every editor in the business turned it down. Too grim, they said; the readers wouldn’t accept it. So the story was tucked away in the files and forgotten. But if an old story is any good it never dies, it only gets rewritten, and more of this later on.
 
 A streak of misanthropy shows through occasionally in some of Hamilton’s writings. One feels, in his earlier stories, that he really preferred aliens to humans. In “The Accursed Galaxy” he went even farther than that in offering a really startling explanation of the expanding universe. And he might just be right!
 
-So this was the early Hamilton, prodigal of fresh ideas, pounding out stories of crashing suns and thundering worlds, of nebulae bright and dark and unimaginable menaces from outer space. Sense of wonder?
-
-Oh, yes. If his body was forced to inhabit a dull mundane world, his mind was free to wander the universe, and he found there the stuff that myths are made of, heroes and demons, superhuman adventures, beauty and terror.
+So this was the early Hamilton, prodigal of fresh ideas, pounding out stories of crashing suns and thundering worlds, of nebulae bright and dark and unimaginable menaces from outer space. Sense of wonder? Oh, yes. If his body was forced to inhabit a dull mundane world, his mind was free to wander the universe, and he found there the stuff that myths are made of, heroes and demons, superhuman adventures, beauty and terror.
 
 There were smaller myths, lovely fragile things that were almost completely overlooked by the people who called him World-Wrecker and World-Saver. Perhaps it was because he did his lapidary work in the short-story form, so that it lacked the impact of his novels. It is only in comparatively recent years that Hamilton’s true literary talent has come to be recognized.
 
-There is a great dichotomy between Hamilton the novelist and Hamilton the short-story writer. Seldom does an author demonstrate such an ability to be two people, and seldom does one possess the technical mastery over two such different forms. Generally speaking, a writer’s mind is geared toward one or the other. A novelist seldom excels in the short story. The writer of short stories tends to lose himself in the complexities of the longer form. It’s a matter of how the writer sees a story when he tells it to himself in the quiet precincts of his mind. Is it one small luminous brilliant point, the single thrust? Or does it spread wide, with many characters and many fascinating avenues that require time and words for exploration? It’s a rare writer who can see stories both ways and be equally expert at developing them.
+There is a great dichotomy between Hamilton the novelist and Hamilton the short-story writer. Seldom does an author demonstrate such an ability to be two people, and seldom does one possess the technical mastery over two such different forms. Generally speaking, a writer’s mind is geared toward one or the other. A novelist seldom excels in the short story. The writer of short stories tends to lose himself in the complexities of the longer form. It’s a matter of how the writer *sees* a story when he tells it to himself in the quiet precincts of his mind. Is it one small luminous brilliant point, the single thrust? Or does it spread wide, with many characters and many fascinating avenues that require time and words for exploration? It’s a rare writer who can see stories both ways and be equally expert at developing them.
 
 Hamilton seems to manage this without effort. And not only does the form change, but the content. The novels are big and vigorous and splashy, interstellar adventures on a grand scale. The short stories are cerebral, astonishingly human, and, yes, poetic.
 
-“Child of the Winds,” which appeared in Weird Tales in May of 1936, is sheer fantasy, a beautiful and graceful tale that leaves the reader with a poignant sense of loss even though the love story involved has come to a happy conclusion—or has it?
+“Child of the Winds,” which appeared in *Weird Tales* in May of 1936, is sheer fantasy, a beautiful and graceful tale that leaves the reader with a poignant sense of loss even though the love story involved has come to a happy conclusion—or has it?
 
-Two years later, in July of 1938, Weird Tales published what many people consider to be the best of all the Hamilton stories of that period, equalled but not surpassed by anything he has done since. “He That
+Two years later, in July of 1938, *Weird Tales* published what many people consider to be the best of all the Hamilton stories of that period, equalled but not surpassed by anything he has done since. “He That Hath Wings” became an instant classic. It is, simply, the story of a child born with wings, and how that affects him in the time of his growing up, and in the time of his maturity when he falls in love and has to choose between a normal Earthly life and the freedom of the skies. Hamilton’s ability to think himself inside the skin of another being, to know what it would feel like to be something other than an ordinary mortal, is nowhere more evident than in this unforgettable tale.
 
-Hath Wings” became an instant classic. It is, simply, the story of a child born with wings, and how that affects him in the time of his growing up, and in the time of his maturity when he falls in love and has to choose between a normal Earthly life and the freedom of the skies. Hamilton’s ability to think himself inside the skin of another being, to know what it would feel like to be something other than an ordinary mortal, is nowhere more evident than in this unforgettable tale.
-
-Quite different from these two, both in mood and in theme, is “In the World’s Dusk,” published in Weird Tales in 1936. Hamilton sold a great many stories to Weird Tales. The magazine, under the brilliant guidance of Farnsworth Wright, offered a unique market, since there were no arbitrary bans against any type of story so long as it fitted into the general editorial policy. Science fiction, fantasy, the supernatural—anything went, and there were no prescribed limits to a writer’s imagination. “In the World’s Dusk” could be called a science fantasy, but it is chiefly an exercise in mood. The doom-haunted, somber claustrophobia of this one is worthy of Poe.
+Quite different from these two, both in mood and in theme, is “In the World’s Dusk,” published in *Weird Tales* in 1936. Hamilton sold a great many stories to *Weird Tales*. The magazine, under the brilliant guidance of Farnsworth Wright, offered a unique market, since there were no arbitrary bans against any type of story so long as it fitted into the general editorial policy. Science fiction, fantasy, the supernatural—anything went, and there were no prescribed limits to a writer’s imagination. “In the World’s Dusk” could be called a science fantasy, but it is chiefly an exercise in mood. The doom-haunted, somber claustrophobia of this one is worthy of Poe.
 
 “The Man Who Returned” is another one that won’t leave you with a smile on your lips. Personally, I have always hated this story, and that’s why I’ve included it. A story has to be good to rouse that much feeling in a reader. The trouble with this one is, it’s too damned true.
 
-By contrast, Hamilton wrote an occasional humorous story. Two of the best of these were “The Island of Unreason,” a gentle satire which is funny, and “Easy Money,” which is funnier; an unashamed farce, this one inspired the Pete Manx series which ran for some time in Thrilling Wonder Stories in the late 30s.
+By contrast, Hamilton wrote an occasional humorous story. Two of the best of these were “The Island of Unreason,” a gentle satire which is funny, and “Easy Money,” which is funnier; an unashamed farce, this one inspired the Pete Manx series which ran for some time in *Thrilling Wonder Stories* in the late 30s.
 
 After the late 30s, of course, came the early 40s, and the war, and the paper shortage, and the end of the Pulp Era. Some of the science-fiction magazines died outright. The survivors were forced to cut back severely, going bimonthly or quarterly and living on their inventories.
 
-Hamilton was not at first greatly worried about the shrinking market. He volunteered for service, was put in IB because of a sinus condition, and then was called up only to be caught at the last minute by the “over-38” edict. He kept on trying. He even volunteered for the Merchant Marine, but when he learned that the only rating open to him was that of cook, he decided— mercifully, for the health and well-being of merchant seamen—to go back to writing.
+Hamilton was not at first greatly worried about the shrinking market. He volunteered for service, was put in 1B because of a sinus condition, and then was called up only to be caught at the last minute by the “over-38” edict. He kept on trying. He even volunteered for the Merchant Marine, but when he learned that the only rating open to him was that of cook, he decided—mercifully, for the health and well-being of merchant seamen—to go back to writing.
 
-Because of the dearth of science-fiction magazines, it became necessary to turn to other fields in order to keep afloat. He became one of the two or three top writers for Batman and Superman comics, and this took up much of his time and energy for nearly twenty years. During the 40s, however, he turned out the classic “Star-Kings,” which did not see the light for several years, until the market opened up again, and a number of shorter stories. Among the best of these are the O. Henry-ish short-short “Exile,” a look at a quaint and not unpleasant postatomic Earth called “Day of Judgment,” and one of my own favorites, “Alien Earth.” This one seems to have been pretty well overlooked, and I don’t know why.
+Because of the dearth of science-fiction magazines, it became necessary to turn to other fields in order to keep afloat. He became one of the two or three top writers for *Batman* and *Superman* comics, and this took up much of his time and energy for nearly twenty years. During the 40s, however, he turned out the classic “Star-Kings,” which did not see the light for several years, until the market opened up again, and a number of shorter stories. Among the best of these are the O. Henry-ish short-short “Exile,” a look at a quaint and not unpleasant postatomic Earth called “Day of Judgment,” and one of my own favorites, “Alien Earth.” This one seems to have been pretty well overlooked, and I don’t know why.
 
 It was inspired by a film which featured some stunning time-lapse photography of how plants grow, and the revelation of what actually goes on—these nice pretty innocent green things do in fact wage as fierce and savage a battle for survival as the most toothed-and-clawed predator, literally murdering each other by stabbing and strangulation, but at a rate of speed so slow that we are unable to see it—made a great impression on Hamilton. “Alien Earth” is more than an action-adventure story, it’s a fine mood piece that takes us into the heart of that secret jungle and gives us a new perspective on the world we live in.
 
@@ -246,21 +381,19 @@ The one that sprang instantly to the forefront was the story he had done way bac
 
 But he did more than that. He trimmed it and turned it around for a different point of attack, and came up with “What’s It Like Out There?”, unquestionably one of the finest science-fiction stories ever done by anyone.
 
-The differences between the original version of the story and the one finally published in Thrilling Wonder Stories for December of 1952, were quite striking. The original, told in a rather harsh and clanging style, met the subject head on and battered it. The reader was somehow more aware of the agony of the crashing ships than he was of the men inside them. In the final version, which was considerably shorter, the viewpoint is oblique and restrained, the style quiet but expert, With not a word out of place, and the human emphasis is all-important, touching the heart without ever faltering into sentimentality. The writer had added a new dimension to his talents. His style had matured and his grasp of character had deepened. Mood and introspection had replaced some of the driving action, and his people had acquired a full set of human insides.
+The differences between the original version of the story and the one finally published in *Thrilling Wonder Stories* for December of 1952, were quite striking. The original, told in a rather harsh and clanging style, met the subject head on and battered it. The reader was somehow more aware of the agony of the crashing ships than he was of the men inside them. In the final version, which was considerably shorter, the viewpoint is oblique and restrained, the style quiet but expert, With not a word out of place, and the human emphasis is all-important, touching the heart without ever faltering into sentimentality. The writer had added a new dimension to his talents. His style had matured and his grasp of character had deepened. Mood and introspection had replaced some of the driving action, and his people had acquired a full set of human insides.
 
 Because of this, Hamilton was able to segue easily into the 50s and 60s, when styles of writing and storytelling had changed completely from those of the earlier days. In a time when wide-ranging star-adventures were out of fashion, he continued to write them with eminent success; they had become more literary without becoming dull or pretentious. These were generally novels or novelettes. In the short-story line he wrote much as he had always written; with more polish, perhaps, and with the deeper insights into the affairs of men that had come with years, but with no lessened ability to stir the emotions.
 
-“Requiem,” which appeared in Amazing Stories in April of 1964, is one of Hamilton’s favorites, and one of mine. Again, here is a big theme handled in brief compass, with telling effect.
+“Requiem,” which appeared in *Amazing Stories* in April of 1964, is one of Hamilton’s favorites, and one of mine. Again, here is a big theme handled in brief compass, with telling effect.
 
-“The Pro,” which he did for Avram Davidson at The Magazine of Fantasy and Science Fiction in 1964, has a less cosmic theme than “Requiem,” but it is a more universal one: a father—son relationship in a situation that is no longer science fictional, but very real.
+“The Pro,” which he did for Avram Davidson at *The Magazine of Fantasy and Science Fiction* in 1964, has a less cosmic theme than “Requiem,” but it is a more universal one: a father—son relationship in a situation that is no longer science fictional, but very real.
 
 The little story “Castaway” was done on assignment. Sam Moskowitz was putting together an anthology about Edgar Allan Poe, and he asked Hamilton for something on that subject, in about three thousand words. Now, this kind of thing—doing a story to order, on a subject chosen by someone else, in a length dictated by someone else—is referred to in some of the loftier circles as “hackwork.” And, to be sure, if "the writer is indeed a hack, i.e., one who will write anything at all for money, without love, without joy, without pride, it can be. But if the writer is sufficiently skilled in his craft to accept the dictates of length and subject and within those limits to shape a story with love and pride and pleasure, he can turn out a gem like this one. I call this being a professional in the best sense of the word; an artist who has control of his talent, rather than being always subject to its whim.
 
-Many things have happened in the real world since Hamilton began spinning his fantasies in 1926. There have been enormous advances in technology. The two faces of atomic power have been revealed to us, the Sa-vior/Destroyer who haunts us daily with promises of unlimited energy and equally unlimited catastrophe. Our view of the universe has altered. One of Hamilton’s early yams was mined by the untimely discovery of Pluto. Now we discuss black holes and probe into distant galaxies. Even conservative scientists admit the possibility of intelligent life, other than our own, somewhere in this vast jungle of stars we call the Milky Way, and the mention of spaceflight no longer brings a derisive laugh from the listener.
+Many things have happened in the real world since Hamilton began spinning his fantasies in 1926. There have been enormous advances in technology. The two faces of atomic power have been revealed to us, the Savior/Destroyer who haunts us daily with promises of unlimited energy and equally unlimited catastrophe. Our view of the universe has altered. One of Hamilton’s early yarns was mined by the untimely discovery of Pluto. Now we discuss black holes and probe into distant galaxies. Even conservative scientists admit the possibility of intelligent life, other than our own, somewhere in this vast jungle of stars we call the Milky Way, and the mention of spaceflight no longer brings a derisive laugh from the listener.
 
-For Hamilton, it all came true. He sat in the press box at Cape Kennedy and watched Apollo 12 take off in flame and thunder, just as he had written it a hundred times, and there was a thrill to it that no child of the space age will ever quite know. He had predicted, accurately, the year when men would first land on the
-
-moon, but he never really believed that it would actually happen while he was still around to see it. Now that it has happened, and the first step into a wider universe has been taken, he profoundly hopes that mankind will not falter and turn back. The future is Out There.
+For Hamilton, it all came true. He sat in the press box at Cape Kennedy and watched Apollo 12 take off in flame and thunder, just as he had written it a hundred times, and there was a thrill to it that no child of the space age will ever quite know. He had predicted, accurately, the year when men would first land on the moon, but he never really believed that it would actually happen while he was still around to see it. Now that it has happened, and the first step into a wider universe has been taken, he profoundly hopes that mankind will not falter and turn back. The future is Out There.
 
 One serious mistake he made—the same mistake that nearly all of us made who were writing in the pre-Sputnik years—was in the assumption that when man did achieve spaceflight he would also have achieved maturity, and there would be a World Government of law and reason, and we would have no more wars. That, unfortunately, has not come true.
 
@@ -272,33 +405,42 @@ But he did not have that choice, and so we, as readers, may enjoy the product of
 
 As one reader, I’m glad of it.
 
-Leigh Brackett Lancaster, California 1976
+.right
+Leigh Brackett
+Lancaster, California
+1976
 
+.fl
 (PS to EH: I didn’t even mention that one story you wrote back around 1927 that was perhaps just a shade less than inspired. Okay?)
 
-The Monster-God of Mamurth
+---
 
-Out of the desert night he came to us, stumbling into our little circle of firelight and collapsing at once. Mitchell and I sprang to our feet with startled exclamations, for men who travel alone and on foot are a strange sight in the deserts of North Africa.
+the_monster-god_of_mamurth
+
+# <a id="page1"></a>The Monster-God of Mamurth
+
+.fl
+<span class="smallcaps">Out of the</span> desert night he came to us, stumbling into our little circle of firelight and collapsing at once. Mitchell and I sprang to our feet with startled exclamations, for men who travel alone and on foot are a strange sight in the deserts of North Africa.
 
 For the first few minutes that we worked over him, I thought he would die at once, but gradually we brought him back to consciousness. While Mitchell held a cup of water to his cracked lips, I looked him over and saw that he was too far gone to live much longer. His clothes were in rags, and his hands and knees literally flayed, from crawling over the sands, I judged. So when he motioned feebly for more water, I gave it to him, knowing that in any case his time was short. Soon he could talk, in a dead, croaking voice.
 
-“I’m alone,” he told us, in answer to our first question; “no more out there to look for. What are you two—traders? I thought so. No, I’m an archeologist. A digger-up of the past.” His voice broke for a moment. “It’s not always good to dig up dead secrets. There are some things the.past should be allowed to hide.”
+“I’m alone,” he told us, in answer to our first question; “no more out there to look for. What are you two—traders? I thought so. No, I’m an archeologist. A digger-up of the past.” His voice broke for a moment. “It’s not always good to dig up dead secrets. There are some things the past should be allowed to hide.”
 
 He caught the look that passed between Mitchell and me.
 
 “No, I’m not mad,” he said. “You will hear, I’ll tell you the whole thing. But listen to me, you two,” and in his earnestness he raised himself to a sitting position, “keep out of Igidi Desert. Remember that I told you that. I had a warning, too, but I disregarded it. And I went into hell—into hell! But there, I will tell you from the beginning.
 
-“My name—that doesn’t matter now. I left Magador more than a year ago, and came through the foot-hills of the Atlas ranges, striking out into the desert in hopes of finding some of the Carthaginian ruins the North African deserts are known to hold.
+“My name—that doesn’t matter now. I left Magador more than a year ago, and came through the foot-hills <a id="page2"></a>of the Atlas ranges, striking out into the desert in hopes of finding some of the Carthaginian ruins the North African deserts are known to hold.
 
 “I spent months in the search, traveling among the squalid Arab villages, now near an oasis and now far into the black, untracked desert. And as I went farther into that savage country, I found more and more of the ruins I sought, crumbled remnants of temples and fortresses, relics, almost destroyed, of the age when Carthage meant empire and ruled all of North Africa from her walled city. And then, on the side of a massive block of stone, I found that which turned me toward Igidi.
 
 “It was an inscription in the garbled Phenician of the traders of Carthage, short enough so that I remember it and can repeat it word for word. It read, literally, as follows:
 
-“Merchants” go not into the city of Mamurth, which lies beyond the mountain pass. For I, San-Drabat of Carthage, entering the city with four companions in the month of Eschmoun, to trade. On the third night of our stay came priests and seized my fellows, I escaping by hiding. My companions they sacrificed to the evil god of the city, who has dwelt there from the beginning of time, and for whom the wise men of Mamurth have built a great temple the like of which is not on earth elsewhere, where the people of Mamurth worship their god. I escaped from the city and set this warning here that others may not turn their steps to Mamurth and to death.
+.space.thin
+“Merchants, go not into the city of Mamurth, which lies beyond the mountain pass. For I, San-Drabat of Carthage, entering the city with four companions in the month of Eschmoun, to trade. On the third night of our stay came priests and seized my fellows, I escaping by hiding. My companions they sacrificed to the evil god of the city, who has dwelt there from the beginning of time, and for whom the wise men of Mamurth have built a great temple the like of which is not on earth elsewhere, where the people of Mamurth worship their god. I escaped from the city and set this warning here that others may not turn their steps to Mamurth and to death.
 
-“Perhaps you can imagine the effect that inscription had on me. It was the last trace of a city unknown to the memory of men, a last floating spar of a civilization sunken in the sea of time. That there could have been such a city at all seemed to me quite probable. What do we know of Carthage even, but a few names? No city, no civilization was ever so completely blotted off the earth as Carthage, when Roman Scipio ground its temples and palaces into the very dust, and plowed up the
-
-ground with salt, and the eagles of conquering Rome flew across a desert where a metropolis had been.
+.space
+“Perhaps you can imagine the effect that inscription had on me. It was the last trace of a city unknown to the memory of men, a last floating spar of a civilization sunken in the sea of time. That there could have been such a city at all seemed to me quite probable. What do we know of Carthage even, but a few names? No city, no civilization was ever so completely blotted off the earth as Carthage, when Roman Scipio ground its temples and palaces into the very dust, and plowed up the <a id="page3"></a>ground with salt, and the eagles of conquering Rome flew across a desert where a metropolis had been.
 
 “It was on the outskirts of one of those wretched little Arab villages that I had found the block and its inscription, and I tried to find someone in the village to accompany me, but none would do so. I could plainly see the mountain pass, a mere crack between towering blue cliffs. In reality it was miles and miles away, but the deceptive optical qualities of the desert light made it seem very near. My maps placed that mountain range all right, as a lower branch of the Atlas, and the expanse behind the mountains was marked as ‘Igidi Desert,’ but that was all I got from them. All that I could reckon on ascertain was that it was desert that lay on the other side of the pass, and I must carry enough supplies to meet it.
 
@@ -306,9 +448,9 @@ ground with salt, and the eagles of conquering Rome flew across a desert where a
 
 “Knowing how firmly superstition is implanted in their kind, I tried no longer to persuade them, and started alone, with two scrawny camels carrying my water and supplies. So for three days I forged across the desert under a broiling sun, and on the morning of the fourth I reached the pass.
 
-“It was only a narrow crevice to begin with, and great boulders were strewn so thickly on its floor that it was a long, hard job getting through. And the cliffs on each side towered to such a height that the space between was a place of shadows and whispers and semidarkness. It was late in the afternoon when I finally came through, and for a moment I stood motionless; for from that side of the pass the desert sloped down into a vast basin, and at the basin’s center, perhaps two miles from where I stood, gleamed the white ruins of Ma-murth.
+“It was only a narrow crevice to begin with, and great boulders were strewn so thickly on its floor that it was a long, hard job getting through. And the cliffs on each side towered to such a height that the space between was a place of shadows and whispers and semidarkness. It was late in the afternoon when I finally came through, and for a moment I stood motionless; for from that side of the pass the desert sloped down into a vast basin, and at the basin’s center, perhaps two miles from where I stood, gleamed the white ruins of Mamurth.
 
-“I remember that I was very calm as I covered the two miles between myself and the ruins. I had taken the existence of the city as a fact, so much so that if the ruins had not been there I should have been vastly more surprised than at finding them.
+“I remember that I was very calm as I covered the two miles between myself and the ruins. I had taken the <a id="page4"></a>existence of the city as a fact, so much so that if the ruins had not been there I should have been vastly more surprised than at finding them.
 
 “From the pass I had seen only a tangled mass of white fragments, but as I drew nearer, some of these began to take outline as crumbling blocks, and walls, and columns. The sand had drifted, too, and the ruins were completely buried in some sections, while nearly all were half covered.
 
@@ -316,7 +458,7 @@ ground with salt, and the eagles of conquering Rome flew across a desert where a
 
 “And the riddle of the city about me seemed unsolvable also. What could I find in this half-buried mass of stone fragments to throw light on the past? I could not even superficially explore the place, for the scantiness of my supplies and water would not permit a long stay. It was with a discouraged heart that I went back to the camels and, leading them to an open spot in the ruins, made my camp for the night. And when night had fallen, and I sat beside my little fire, the vast, brooding silence of this place of death was awful. There were no laughing human voices, or cries of animals, or even cries of birds or insects. There was nothing but the darkness and silence that crowded around me, flowed down upon me, beat sullenly against the glowing spears of light my little fire threw out.
 
-“As I sat there musing, I was startled by a slight sound behind me. I turned to see its cause, and then stiffened. As I have mentioned, the space directly around my camp was clear sand, smoothed level by the winds. Well, as I stared at that flat expanse of sand, a hole several inches across suddenly appeared in its surface, yards from where I stood, but clearly visible in the firelight.
+“As I sat there musing, I was startled by a slight <a id="page5"></a>sound behind me. I turned to see its cause, and then stiffened. As I have mentioned, the space directly around my camp was clear sand, smoothed level by the winds. Well, as I stared at that flat expanse of sand, a hole several inches across suddenly appeared in its surface, yards from where I stood, but clearly visible in the firelight.
 
 “There was nothing whatever to be seen there, not even a shadow, but there it was, one moment the level surface of the sand, the next moment a hole appearing in it, accompanied by a soft, crunching sound. As I stood gazing at it in wonder, that sound was repeated, and simultaneously another hole appeared in the sand’s surface, five or six feet nearer to me than the other.
 
@@ -326,19 +468,15 @@ ground with salt, and the eagles of conquering Rome flew across a desert where a
 
 “It was little enough sleep I got that night, but when the sun finally came, with its first golden rays, my fears and oppressions dropped from me like a cloak. No wonder the early peoples were sun-worshippers!
 
-“And with my renewed strength and courage, a new thought struck me. In the inscription I have quoted to you, that long-dead merchant-adventurer had mentioned the great temple of the city and dwelt on its grandeur. Where, then, were its ruins? I wondered. I decided that what time I had would be better spent in
+“And with my renewed strength and courage, a new thought struck me. In the inscription I have quoted to you, that long-dead merchant-adventurer had mentioned the great temple of the city and dwelt on its grandeur. Where, then, were its ruins? I wondered. I decided that what time I had would be better spent in <a id="page6"></a>investigating the ruins of this temple, which should be prominent, if that ancient Carthaginian had been correct as to its size.
 
-investigating the ruins of this temple, which should be prominent, if that ancient Carthaginian had been correct as to its size.
-
-“I ascended a near-by hillock and looked about me in all directions, and though I could not perceive any vast pile of ruins that might have been the temple’s, I did see for the first time, far away, two great figures of stone that stood out black against the rosy flame of the sunrise. It was a discovery that filled me with excitement, \ and I broke camp at once, starting in the direction of those two shapes.
+“I ascended a near-by hillock and looked about me in all directions, and though I could not perceive any vast pile of ruins that might have been the temple’s, I did see for the first time, far away, two great figures of stone that stood out black against the rosy flame of the sunrise. It was a discovery that filled me with excitement, and I broke camp at once, starting in the direction of those two shapes.
 
 “They were on the very edge of the farther side of the city, and it was noon before I finally stood before them. And now I saw clearly their nature: two great, sitting figures, carved of black stone, all of fifty feet in height, and almost that far apart, facing both toward the city and toward me. They were of human shape and dressed in a queer, scaled armor, but the faces I can not describe, for they were unhuman. The features were human, well-proportioned, even, but the face, the expression, suggested no kinship whatever with humanity as we know it. Were they carved from life? I wondered. If so, it must have been a strange sort of people who had lived in this city and set up these two statues.
 
 “And now I tore my gaze away from them, and looked around. On each side of those shapes, the remains of what must once have been a mighty wall branched out, a long pile of crumbling ruins. But there had been no wall between the statues, that being evidently the gateway through the barrier. I wondered why the two guardians of the gate had survived, apparently entirely unharmed, while the wall and the city behind me had fallen into ruins. They were of a different material, I could see; but what was that material?
 
-“And now I noticed for the first time the long avenue that began on the other side of the statues and stretched away into the desert for a half-mile or more. The sides of this avenue were two rows of smaller stone figures that ran in parallel lines away from the two colossi. So I started down that avenue, passing between the two great shapes that stood at its head. And as I went between
-
-them, I noticed for the first time the inscription graven on the inner side of each.
+“And now I noticed for the first time the long avenue that began on the other side of the statues and stretched away into the desert for a half-mile or more. The sides of this avenue were two rows of smaller stone figures that ran in parallel lines away from the two colossi. So I started down that avenue, passing between the two great shapes that stood at its head. And as I went between <a id="page7"></a>them, I noticed for the first time the inscription graven on the inner side of each.
 
 “On the pedestal of each figure, four or five feet from the ground, was a raised tablet of the same material, perhaps a yard square, and covered with strange symbols—characters, no doubt, of a lost language, undecipherable, at least to me. One symbol, though, that was especially prominent in the inscription, was not new to me. It was the carven picture of the spider, or octopus, which I have mentioned that I had found everywhere on the ruins of the city. And here it was scattered thickly among the symbols that made up the inscription. The tablet on the other statue was a replica of the first, and I could learn no more from it. So I started down the avenue, turning over in my mind the riddle of that omnipresent symbol, and then forgetting it, as I observed the things about me.
 
@@ -346,9 +484,7 @@ them, I noticed for the first time the inscription graven on the inner side of e
 
 “Down between the two rows of them I went, until I came to the end of the avenue. Standing there between the last two figures, I could see nothing before me but the yellow sands of the desert, as far as the eye could reach. I was puzzled. What had been the object of all the pains that had been taken, the wall, the two great statues, and this long avenue, if it but led into the desert?
 
-“Gradually I began to see that there was something queer about the part of the desert that lay directly before me. It was flat. For an area, seemingly round in shape, that must have covered several acres, the surface of the desert seemed absolutely level. It was as though the sands within that great circle had been packed down
-
-with tremendous force, leaving not even the littlest ridge of dune on its surface. Beyond this flat area, and all around it, the desert was broken up by small hills and valleys, and traversed by whirling sand-clouds, but nothing stirred on the flat surface of the circle.
+“Gradually I began to see that there was something queer about the part of the desert that lay directly before me. It was *flat*. For an area, seemingly round in shape, that must have covered several acres, the surface of the desert seemed absolutely level. It was as though the sands within that great circle had been packed down <a id="page8"></a>with tremendous force, leaving not even the littlest ridge of dune on its surface. Beyond this flat area, and all around it, the desert was broken up by small hills and valleys, and traversed by whirling sand-clouds, but nothing stirred on the flat surface of the circle.
 
 “Interested at once, I strode forward to the edge of the circle, only a few yards away. I had just reached that edge when an invisible hand seemed to strike me a great blow on the face and chest, knocking me backward in the sand.
 
@@ -356,21 +492,17 @@ with tremendous force, leaving not even the littlest ridge of dune on its surfac
 
 “When the automatic in my outstretched hand reached the line of the circle, it struck against something hard, and I could push it no farther. It was exactly as if it had struck against the side of a wall, but no wall or anything else was to be seen. Reaching out my hand, I touched the same hard barrier, and in a moment I was on my feet.
 
-“For I knew now that it was solid matter I had run into, not force. When I thrust out my hands, the edge of the circle was as far as they would go, for there they met a smooth wall, totally invisible, yet at the same time quite material. And the phenomenon was one which even I could partly understand. Somehow, in the dead past, the scientists of the city behind me, the ‘wise men’ mentioned in the inscription, had discovered the secret of making solid matter invisible, and had applied it to the work that I was now examining. Such a thing was far from impossible. Even our own scientists can make matter partly invisible, with the X-ray. Evidently these people had known the whole process, a secret that had been lost in the succeeding ages, like the secret of hard gold, and malleable glass, and others that we find men-' tioned in ancient writings. Yet I wondered how they had done this, so that, ages after those who had built the thing were wind-driven dust, it remained as invisible as ever.
+“For I knew now that it was solid matter I had run into, not force. When I thrust out my hands, the edge of the circle was as far as they would go, for there they met a smooth wall, totally invisible, yet at the same time quite material. And the phenomenon was one which even I could partly understand. Somehow, in the dead past, the scientists of the city behind me, the ‘wise men’ mentioned in the inscription, had discovered the secret of making solid matter invisible, and had applied it to the work that I was now examining. Such a thing was far from impossible. Even our own scientists can make matter partly invisible, with the X-ray. Evidently these people had known the whole process, a secret that had been lost in the succeeding ages, like the secret of hard gold, and malleable glass, and others that we find mentioned in ancient writings. Yet I wondered how they had done this, so that, ages after those who had built the thing were wind-driven dust, it remained as invisible as ever.
 
-“I stood back and threw pebbles into the air, toward the circle. No matter how high I threw them, when they
+“I stood back and threw pebbles into the air, toward the circle. No matter how high I threw them, when they <a id="page9"></a>reached the line of the circle’s edge they rebounded with a clicking sound; so I knew that the wall must tower to a great height above me. I was on fire to get inside the wall, and examine the place from the inside, but how to do it? There must be an entrance, but where? And I suddenly remembered the two guardian statues at the head of the great avenue, with their carven tablets, and wondered what connection they had with this place.
 
-reached the line of the circle’s edge they rebounded with a clicking sound; so I knew that the wall must tower to a great height above me. I was on fire to get inside the wall, and examine the place from the inside, but how to do it? There must be an entrance, but where? And I suddenly remembered the two guardian statues at the head of the great avenue, with their car-ven tablets, and wondered what connection they had with this place.
+“Suddenly the strangeness of the whole thing struck me like a blow. The great, unseen wall before me, the circle of sand, flat and unchanging, and myself, standing there and wondering, wondering. A voice from out the dead city behind me seemed to sound in my heart, bidding me to turn and flee, to get away. I remembered the warning of the inscription, ‘Go not to Mamurth.’ And as I thought of the inscription, I had no doubt that this was the great temple described by San-Drabat. Surely he was right: the like of it was not on earth elsewhere.
 
-“Suddenly the strangeness of the whole thing struck me like a blow. The great, unseen wall before me, the circle of sand, flat and unchanging,, and myself, standing there and wondering, wondering. A voice from out the dead city behind me seemed to sound in my heart, bidding me to turn and flee, to get away. I remembered the warning of the inscription, ‘Go not to Mamurth.’ And as I thought of the inscription, I had no doubt that this was the great temple described by San-Drabat. Surely he was right: the like of it was not on earth elsewhere.
-
-“But I would not go, I could not go, until I had examined the wall from the inside. Calmly reasoning the •matter, I decided that the logical place for the gateway through the wall would be at the end of the avenue, so that those who came down the street could pass directly through the wall. And my reasoning was good, for it was at that spot that I found the entrance: an opening in the barrier, several yards wide, and running higher than I could reach, how high I had no means of telling.
+“But I would not go, I could not go, until I had examined the wall from the inside. Calmly reasoning the matter, I decided that the logical place for the gateway through the wall would be at the end of the avenue, so that those who came down the street could pass directly through the wall. And my reasoning was good, for it was at that spot that I found the entrance: an opening in the barrier, several yards wide, and running higher than I could reach, how high I had no means of telling.
 
 “I felt my way through the gate, and stepped at once upon a floor of hard material, not as smooth as the wall’s surface, but equally invisible. Inside the entrance lay a corridor of equal width, leading into the center of the circle, and I felt my way forward.
 
-“I must have made a strange picture, had there been any there to observe it. For while I knew that all around me were the towering, invisible walls, and I knew not what else, yet all my eyes could see was the great flat circle of sand beneath me, carpeted with the afternoon sunshine. Only, I seemed to be walking a foot above the ground, in thin air. That was the thickness of the floor beneath me, and it was the weight of this great floor, I
-
-knew, that held the circle of sand under it forever flat and unchanging.
+“I must have made a strange picture, had there been any there to observe it. For while I knew that all around me were the towering, invisible walls, and I knew not what else, yet all my eyes could see was the great flat circle of sand beneath me, carpeted with the afternoon sunshine. Only, I seemed to be walking a foot above the ground, in thin air. That was the thickness of the floor beneath me, and it was the weight of this great floor, I <a id="page10"></a>knew, that held the circle of sand under it forever flat and unchanging.
 
 “I walked slowly down the passageway, with hands outstretched before me, and had gone but a short distance when I brought up against another smooth wall that lay directly across the corridor, seemingly making it a blind alley. But I was not discouraged now, for I knew that there must be a door somewhere, and began to feel around me in search of it.
 
@@ -380,21 +512,21 @@ knew, that held the circle of sand under it forever flat and unchanging.
 
 “It was steps that I encountered: the first broad steps of what was evidently a staircase of titanic proportions. And I went up, slowly, carefully, feeling before me every foot of the way. It was only the feel of the staircase under me that gave reality to it, for as far as I could see, I was simply climbing up into empty space. It was weird beyond telling.
 
-“Up and up I went, until I was all of a hundred feet above the ground, and then the staircase narrowed, the sides drew together. A few more steps, and I came out on a flat floor again, which, after some groping about, I found to be a broad landing, with high, railed edges. I crawled across this landing on hands and knees, and then struck against another wall, and in it, another door. I went through this too, still crawling, and though everything about me was still invisible, I sensed that I was no longer in the open air, but in a great room.
+“Up and up I went, until I was all of a hundred feet above the ground, and then the staircase narrowed, the sides drew together. A few more steps, and I came out on a flat floor again, which, after some groping about, I found to be a broad landing, with high, railed edges. I <a id="page11"></a>crawled across this landing on hands and knees, and then struck against another wall, and in it, another door. I went through this too, still crawling, and though everything about me was still invisible, I sensed that I was no longer in the open air, but in a great room.
 
 “I stopped short, and then, as I crouched on the floor, I felt a sudden prescience of evil, of some malignant, menacing entity that was native here. Nothing I could see, or hear, but strong upon my brain beat the thought of something infinitely ancient, infinitely evil, that was a part of this place. Was it a consciousness, I wonder, of the horror that had filled the place in ages long dead? Whatever caused it, I could go no farther in the face of the terror that possessed me; so I drew back and walked to the edge of the landing, leaning over its high, invisible railing and surveying the scene below.
 
 “The setting sun hung like a great ball of red-hot iron in the western sky, and in its lurid rays the two great statues cast long shadows on the yellow sands. Not far away, my two camels, hobbled, moved restlessly about. To all appearances I was standing on thin air, a hundred feet or more above the ground, but in my mind’s eye I had a picture of the great courts and corridors below me, through which I had felt my way.
 
-. “As I mused there in the red light, it was clear to me that this was the great temple of the city. What a sight it must have been, in the time of the city’s life! I could imagine the long procession of priests and people, in somber and gorgeous robes, coming out from the city, between the great statues and down the long avenue, dragging with them, perhaps, an unhappy prisoner to sacrifice to their god in this, his temple.
+“As I mused there in the red light, it was clear to me that this was the great temple of the city. What a sight it must have been, in the time of the city’s life! I could imagine the long procession of priests and people, in somber and gorgeous robes, coming out from the city, between the great statues and down the long avenue, dragging with them, perhaps, an unhappy prisoner to sacrifice to their god in this, his temple.
 
-“The sun was now dipping beneath the horizon, and I turned to go, but before ever I moved, I became rigid and my heart seemed to stand still. For on the farther edge of the clear stretch of sand that lay beneath the temple and the city, a hole suddenly appeared in the sand, springing into being on the desert’s face exactly like the one I had seen at my campfire the night before. I watched, as fascinated as by the eyes of a snake. And before my eyes, another and another appeared, not in a straight line, but in a zigzag fashion. Two such holes would be punched down on one side, then two more on the other side, then one in the middle, making a series of tracks, perhaps two yards in width from side to side, and advancing straight toward the temple and myself. And I could see nothing!
+“The sun was now dipping beneath the horizon, and I turned to go, but before ever I moved, I became rigid and my heart seemed to stand still. For on the farther edge of the clear stretch of sand that lay beneath the temple and the city, a hole suddenly appeared in the sand, springing into being on the desert’s face exactly like the one I had seen at my campfire the night before. I watched, as fascinated as by the eyes of a snake. And before my eyes, another and another appeared, not in a straight line, but in a zigzag fashion. Two such holes <a id="page12"></a>would be punched down on one side, then two more on the other side, then one in the middle, making a series of tracks, perhaps two yards in width from side to side, and advancing straight toward the temple and myself. And I could see nothing!
 
-“It was like—the comparison suddenly struck me— like the tracks a many-legged insect might make in the sand, only magnified to unheard-of proportions. And with that thought, the truth rushed on me, for I remembered the spider carved on the ruins and on the statues, and I knew now what it had signified to the dwellers in the city. What was it the inscription had said? ‘The evil god of the city, who has dwelt there from the beginning of time.’ And as I saw those tracks advancing toward me, I knew that the city’s ancient evil god still dwelt here, and that I was in his temple, alone and unarmed.
+“It was like—the comparison suddenly struck me—like the tracks a many-legged insect might make in the sand, only magnified to unheard-of proportions. And with that thought, the truth rushed on me, for I remembered the spider carved on the ruins and on the statues, and I knew now what it had signified to the dwellers in the city. What was it the inscription had said? ‘The evil god of the city, who has dwelt there from the beginning of time.’ And as I saw those tracks advancing toward me, I knew that the city’s ancient evil god still dwelt here, and that I was in his temple, alone and unarmed.
 
 “What strange creatures might there not have been in the dawn of time? And this one, this gigantic monster in a spider’s form—had not those who built the city found it here when they came, and, in awe, taken it as the city’s god, and built for it the mighty temple in which I now stood? And they, who had the wisdom and art to make this vast fane invisible, not to be seen by human eyes, had they done the same to their god, and made of him almost a true god, invisible, powerful, undying? Undying! Almost it must have been, to survive the ages, as it had done. Yet I knew that even some kinds of parrots live for centuries, and what could I know of this monstrous relic of dead ages? And when the city died and crumbled, and the victims were no longer brought to its lair in the temple, did it not live, as I thought, by ranging the desert? No wonder the Arabs had feared the country in this direction! It would be death for anything that came even within view of such a horror, that could clutch and spring and chase, and yet remain always unseen. And was it death for me?
 
-“Such were some of the thoughts that pounded through my brain, as I watched death approach, ’with those steadily advancing tracks in the sand. And now the paralysis of terror that had gripped me was broken, and I ran down the great staircase, and into the court. I could think of no place in that great hall where I might hide. Imagine hiding in a place where all is invisible! But I must go some place, and finally I dashed past the foot of the great staircase until I reached a wall directly under the landing on which I had stood, and against this I crouched, praying that the deepening shadows of dusk might hide me from the gaze of the creature whose lair this was. _
+“Such were some of the thoughts that pounded through my brain, as I watched death approach, ’with those steadily advancing tracks in the sand. And now the paralysis of terror that had gripped me was broken, and I ran down the great staircase, and into the court. I could think of no place in that great hall where I might <a id="page13"></a>hide. Imagine hiding in a place where all is invisible! But I must go some place, and finally I dashed past the foot of the great staircase until I reached a wall directly under the landing on which I had stood, and against this I crouched, praying that the deepening shadows of dusk might hide me from the gaze of the creature whose lair this was.
 
 “I knew instantly when the thing entered the gate through which I too had come. Pad, pad, pad—that was the soft, cushioned sound of its passage. I heard the feet stop for a moment by the opened door at the end of the corridor. Perhaps it was in surprise that the door was open, I thought, for how could I know how great or little intelligence lay in that unseen creature’s brain? Then, pad, pad—across the court it came, and I heard the soft sound of its passing as it ascended the staircase. Had I not been afraid to breathe, I would have almost screamed with relief.
 
@@ -402,7 +534,7 @@ knew, that held the circle of sand under it forever flat and unchanging.
 
 “The sound of feet above me had ceased, and I judged that the thing had gone into the great room above, which I had feared to enter. Now, it ever, was the time to make my escape in the darkness; so I rose, with infinite carefulness, and softly walked across the court to the door that led into the corridor. But when I had walked only half of the distance, as I thought, I crashed squarely into another invisible wall across my path, and fell backward, the metal handle of the sheath-knife at my belt striking the flooring with a loud clang. God help me, I had misjudged the position of the door, and had walked straight into the wall, instead!
 
-“I lay there, motionless, with cold fear flooding every part of my being. Then, pad, pad—the soft steps of the thing across the landing, and then silence for a moment. Could it see me from the landing? I wondered. Could it? For a moment, hope warmed me, as no sound came, but the next instant I knew that death had me by the throat, for pad, pad—down the stairs it came.
+“I lay there, motionless, with cold fear flooding every part of my being. Then, pad, pad—the soft steps of the thing across the landing, and then silence for a moment. Could it see me from the landing? I wondered. Could <a id="page14"></a>it? For a moment, hope warmed me, as no sound came, but the next instant I knew that death had me by the throat, for pad, pad—down the stairs it came.
 
 “With that sound my last vestige of self-control fled and I scrambled to my feet and made another mad dash in the direction of the door. Crash!—into another wall I went, and rose to my feet trembling. There was no sound of footsteps now, and as quietly as I could, I walked into the great court still farther, as I thought, for all my ideas of direction were hopelessly confused. God, what a weird game it was we played there on that darkened circle of sand!
 
@@ -412,7 +544,7 @@ knew, that held the circle of sand under it forever flat and unchanging.
 
 “Up I went, and across the landing, and grasped the edge of the railing, for I meant to throw myself down from there, to a clean death on the floor below. But under my hands, the top of the railing moved, one of the great blocks that evidently made up its top was loosened and rocked toward me. In a flash I grasped the great block and staggered across the landing with it in my arms, to the head of the staircase. Two men could hardly have lifted it, I think, yet I did more, in a sudden access of mad strength; for as I heard that monster coming swiftly up the great stairs, I raised the block, invisible as ever, above my head, and sent it crashing down the staircase upon the place where I thought the thing was at that moment.
 
-“For an instant after the crash there was silence, and then a low humming sound began, that waxed into a loud droning. And at the same time, at a spot half-way down the staircase where the block had crashed, a thin, purple liquid seemed to well out of the empty air, giving form to a few of the invisible steps as it flowed over them, and outlining, too, the block I had thrown, and a great hairy limb that lay crushed beneath it, and from which the fluid that was the monster’s blood was oozing. I had not killed the thing, but had chained it down with the block that held it prisoner.
+<a id="page15"></a>“For an instant after the crash there was silence, and then a low humming sound began, that waxed into a loud droning. And at the same time, at a spot half-way down the staircase where the block had crashed, a thin, purple liquid seemed to well out of the empty air, giving form to a few of the invisible steps as it flowed over them, and outlining, too, the block I had thrown, and a great hairy limb that lay crushed beneath it, and from which the fluid that was the monster’s blood was oozing. I had not killed the thing, but had chained it down with the block that held it prisoner.
 
 “There was a thrashing sound on the staircase, and the purple stream ran more freely, and by the outline of its splashes, I saw, dimly, the monstrous god that had been known in Mamurth in ages past. It was like a giant spider, with angled limbs that were yards long, and a hairy, repellent body. Even as I stood there, I wondered that the thing, invisible as it was, was yet visible by the life-blood in it, when that blood was spilled. Yet so it was, nor can I even suggest a reason. But one glimpse I got of its half-visible, purple-splashed outline, and then, hugging the farther side of the stairs, I descended. When I passed the thing, the intolerable odor of a crushed insect almost smothered me, and the monster itself made frantic efforts to loosen itself and spring at me. But it could not, and I got safely down, shuddering and hardly able to walk.
 
@@ -420,8 +552,9 @@ knew, that held the circle of sand under it forever flat and unchanging.
 
 “It wgs well that my camels had wandered into the ruins, for such was the fear that struck through me that I would never have returned for them had they lingered by the invisible wall. All that night I rode to the north, and when morning came I did not stop, but still pushed north. And as I went through the mountain pass, one camel stumbled and fell, and in falling burst open all my water supplies that were lashed on its back.
 
-“No water at all was left, but I still held north, killing the other camel by my constant speed, and then staggered on, afoot. On hands and knees I crawled forward, when my legs gave out, always north, away from that temple of evil and its evil god. And tonight, I had been crawling, how many miles I do not know, and I saw your fire. And that is all.”
+<a id="page16"></a>“No water at all was left, but I still held north, killing the other camel by my constant speed, and then staggered on, afoot. On hands and knees I crawled forward, when my legs gave out, always north, away from that temple of evil and its evil god. And tonight, I had been crawling, how many miles I do not know, and I saw your fire. And that is all.”
 
+.space
 He lay back exhausted, and Mitchell and I looked at each other’s faces in the firelight. Then, rising, Mitchell strode to the edge of our camp and looked for a long time at the moonlit desert, which lay toward the south. What his thoughts were, I do not know. I was nursing my own, as I watched the man who lay beside our fire.
 
 It was early the next morning that he died, muttering about great walls around him. We wrapped his body securely, and bearing it with us held our way across the desert.
@@ -432,15 +565,20 @@ Often and often have Mitchell and I discussed the thing, over lonely campfires a
 
 Or, different still, was the man simply crazed by the heat and thirst of the desert, and his tale but the product of a maddened mind? I do not think that this is so. I think that he told truth, yet I do not know. Nor shall I ever know, for never, Mitchell and I have decided, shall we be the ones to venture into the place of hell on earth where that ancient god of evil may still be living, amid the invisible courts and towers, beyond the unseen wall.
 
-The Man Who Evolved
+---
 
-There were three of us in Pollard’s house on that night that I try vainly to forget. Dr. John Pollard himself, Hugh Dutton and I, Arthur Wright—we were the three. Pollard met that night a fate whose horror none could dream; Dutton has since that night inhabited a state institution reserved for the insane, and I alone am left to tell what happened.
+the_man_who_evolved
 
-It was on Pollard’s invitation that Dutton and I went up to his isolated cottage. We three had been friends and roommates at the New York Technical University. Our friendship was perhaps a little unusual, for Pollard was a number of years older than Dutton and myself and was different in temperament, being rather quieter by nature. He had followed an intensive course of biological studies, too, instead of the ordinary engineering courses Dutton and I had taken. '
+# <a id="page17"></a>The Man Who Evolved
+
+.fl
+<span class="smallcaps">There were three</span> of us in Pollard’s house on that night that I try vainly to forget. Dr. John Pollard himself, Hugh Dutton and I, Arthur Wright—we were the three. Pollard met that night a fate whose horror none could dream; Dutton has since that night inhabited a state institution reserved for the insane, and I alone am left to tell what happened.
+
+It was on Pollard’s invitation that Dutton and I went up to his isolated cottage. We three had been friends and roommates at the New York Technical University. Our friendship was perhaps a little unusual, for Pollard was a number of years older than Dutton and myself and was different in temperament, being rather quieter by nature. He had followed an intensive course of biological studies, too, instead of the ordinary engineering courses Dutton and I had taken.
 
 As Dutton and I drove northward along the Hudson on that afternoon, we found ourselves reviewing what we knew of Pollard’s career. We had known of his taking his master’s and doctor’s degrees, and had heard of his work under Braun, the Vienna biologist whose theories had stirred up such turmoil. We had heard casually, too, that afterwards he had come back to plunge himself in private research at the country-house beside the Hudson he had inherited. But since then we had had no word from him and had been somewhat surprised to receive his telegrams inviting us to spend the weekend with him.
 
-It was drawing into early-summer twilight when Dutton and I reached a small riverside village and were directed to Pollard’s place, a mile or so beyond. We found it easily enough, a splendid old pegged-frame house that for a hundred-odd years had squatted on a low hill above the river. Its outbuildings were clustered around the big house like the chicks about some protecting hen.
+It was drawing into early-summer twilight when Dutton and I reached a small riverside village and were directed to Pollard’s place, a mile or so beyond. We found it easily enough, a splendid old pegged-frame house that <a id="page18"></a>for a hundred-odd years had squatted on a low hill above the river. Its outbuildings were clustered around the big house like the chicks about some protecting hen.
 
 Pollard himself came out to greet us. “Why, you boys have grown up!” was his first exclamation. “Here I’ve remembered you as Hughie and Art, the campus trouble-raisers, and you look as though you belong to business clubs and talk everlastingly about sales-resistance!”
 
@@ -450,7 +588,7 @@ He did, too, his lanky figure and slow smile and curiously thoughtful eyes havin
 
 “If I seem a little excited it’s because this is a great day for me,” he answered.
 
-“Well, you are in luck to get two fine fellows like Dutton and me to trail up to this hermitage of yours,” I began, but he shook his head smilingly.
+“Well, you *are* in luck to get two fine fellows like Dutton and me to trail up to this hermitage of yours,” I began, but he shook his head smilingly.
 
 “I don’t refer to that, Art, though I’m mighty glad you’ve come. As for my hermitage, as you call it, don’t say a word against it. I’ve been able to do work here I could never have done amid the distractions of a city laboratory.”
 
@@ -460,9 +598,9 @@ His eyes were alight. “If you two knew what—but there, you’ll hear it soon
 
 “Same here,” Dutton said. “I just pick at my food lately. Give me a few dozen sandwiches and a bucket of, coffee and I consider it a full meal.”
 
-“Well, we’ll see what we can do to tempt your delicate., appetites,” said Pollard, as we went inside.
+“Well, we’ll see what we can do to tempt your delicate appetites,” said Pollard, as we went inside.
 
-We found his big house comfortable enough, with long, low-ceilinged rooms and broad windows looking riverward. After putting our bags in a bedroom, and while his housekeeper and cook prepared dinner, Pollard escorted us on a tour of inspection of the place. We were most interested in his laboratory.
+We found his big house comfortable enough, with long, low-ceilinged rooms and broad windows looking riverward. After putting our bags in a bedroom, and while his housekeeper and cook prepared dinner, <a id="page19"></a>Pollard escorted us on a tour of inspection of the place. We were most interested in his laboratory.
 
 It was a small wing he had added to the house, of frame construction outside to harmonize with the rest of the building, but inside offering a gleaming vista of white-tiled walls and polished instruments. A big cubelike structure of transparent metal surmounted by a huge metal cylinder resembling a monster vacuum tube, took up the room’s center, and he showed us in an adjoining stone-floored room the dynamos and motors of his private power-plant.
 
@@ -474,15 +612,16 @@ Night had fallen by the time we finished dinner, the meal having been prolonged 
 
 “What in the world have you been working at?” I asked. “Something so unholy you’ve had to keep it hidden here?”
 
-A Mad Scheme
+## A Mad Scheme
 
+.space
 Pollard chuckled. “That’s what they think down in the village. They know I’m a biologist and have a laboratory here, so it’s a foregone conclusion with them that I’m doing vivisection of a specially dreadful nature. That’s why the servants won’t stay here at night.”
 
 “As a matter of fact,” he added, “if they knew down in the village what I’ve really been working on they’d be ten times as fearful as they are now.”
 
 “Are you trying to play the mysterious great scientist for our benefit?” Dutton demanded. “If you are you’re wasting time—I know you, stranger, so take off that mask.”
 
-“That’s right,” I told him. “If you’re trying to get our curiosity worked up you’ll find we can scram you as neatly as we could five years ago.”
+<a id="page20"></a>“That’s right,” I told him. “If you’re trying to get our curiosity worked up you’ll find we can scram you as neatly as we could five years ago.”
 
 “Which scramming generally ended in black eyes for both of you,” he retorted. “But I’ve no intention of working up your curiosity—as a matter of fact I asked you up here to see what I’ve been doing and help me finish it.”
 
@@ -500,11 +639,11 @@ He smiled himself. “I suppose you’re aware of the fact, however, that all li
 
 “Shut up, Dutton,” I warned. “What’s evolution got to do with your work up here, Pollard?”
 
-“It is my work up here,” Pollard answered.
+“It *is* my work up here,” Pollard answered.
 
 He bent forward. “I’ll try to make this clear to you from the start. You know, or say you know, the main steps of evolutionary development. Life began on this earth as simple protoplasm, a jelly-like mass from which developed small protoplasmic organisms. From these developed in turn sea-creatures, land-lizards, mammals, by successive mutations. This infinitely slow evolutionary process has reached its highest point so far in the mammal man, and is still going on with the same slowness.
 
-“This much is certain biological knowledge, but two great questions concerning this process of evolution have remained hitherto unanswered. First, what is the cause of evolutionary change, the cause of these slow, steady mutations into higher forms? Second, what is the future course of man’s evolution going to be, what will be the forms into which in the future man will evolve, and where will his evolution stop? Those two questions biology has so far been unable to answer.”
+“This much is certain biological knowledge, but two great questions concerning this process of evolution have <a id="page21"></a>remained hitherto unanswered. First, what is the cause of evolutionary change, the cause of these slow, steady mutations into higher forms? Second, what is the future course of man’s evolution going to be, what will be the forms into which in the future man will evolve, and where will his evolution stop? Those two questions biology has so far been unable to answer.”
 
 Pollard was silent a moment and then said quietly, “I have found the answer to one of those questions, and am going to find the answer to the other tonight.”
 
@@ -546,7 +685,7 @@ Pollard smiled. “The old cry,” he commented. “Never an attempt has been ma
 
 “You are trying to tell me that I have become a little mad,” he said. “No, I am sane—perhaps wonderfully sane, in trying this.”
 
-His expression changed, his eyes brooding. “Can’t you two see what this may mean to humanity? As we are to the apes, so must the men of the future be to us. If we could use this method of mine to take all mankind forward through millions of years of evolutionary development at one stride, wouldn’t it be sane to do so?”
+His expression changed, his eyes brooding. “Can’t you two see what this may mean to humanity? As we are to the apes, so must the men of the future be to us. If we could use this method of mine to take all mankind <a id="page23"></a>forward through millions of years of evolutionary development at one stride, wouldn’t it be sane to do so?”
 
 My mind was whirling. “Good heavens, the whole thing is so crazy,” I protested. “To accelerate the evolution of the human race? It seems somehow a thing forbidden.”
 
@@ -564,10 +703,11 @@ Pollard had gone into the dynamo-room and as Dutton and I stared wordlessly at t
 
 Pollard pointed to it and the big quartz-like disk in the cubical chamber’s ceiling, from which the white force-shafts shot downward.
 
-“The cylinder is now gathering cosmic rays from an immense area of space,” he said, “and those concentrated rays are falling through that disk into the cube’s interior. To cut off the rays it is necessary only to open this switch.” He reached to open the switch, the light died.
+“The cylinder is now gathering cosmic rays from an immense area of space,” he said, “and those concentrated rays are falling through that disk into the cube’s interior. To cut off the rays it is necessary only to open <a id="page24"></a>this switch.” He reached to open the switch, the light died.
 
-The Man Who Evolved
+## The Man Who Evolved
 
+.space
 Quickly, while we stared, he removed his clothing, donning in place of it a loose white running suit.
 
 “I will want to observe the changes of my own body as much as possible,” he exclaimed. “Now, I will stand inside the cube and you will turn on the rays and let them play upon me for fifteen minutes. Roughly, that should represent a period of some fifty million years of future evolutionary change. At the end of fifteen minutes you will turn the rays off and we will be able to observe what changes they have caused. We will then resume the process, going forward by fifteen-minute or rather fifty-million-year periods.”
@@ -586,7 +726,7 @@ He stepped toward the cube and then paused, went to a desk and brought from it a
 
 He stepped up into the cube, standing directly beneath the disk in its ceiling. He motioned imperatively, and like an automaton I closed the door and then threw the switch.
 
-The cylinder broke again into glowing white light, and as the shafts of glowing white force shot down from the disk in the cube’s ceiling upon Pollard, we glimpsed his whole body writhing as though beneath a terrifically concentrated electrical force. The shaft of glowing emanations almost hid him from our view. I knew that the cosmic rays in themselves were invisible but guessed that the light of the cylinder and shaft was in some way a transformation of part of the rays into visible light.
+<a id="page25"></a>The cylinder broke again into glowing white light, and as the shafts of glowing white force shot down from the disk in the cube’s ceiling upon Pollard, we glimpsed his whole body writhing as though beneath a terrifically concentrated electrical force. The shaft of glowing emanations almost hid him from our view. I knew that the cosmic rays in themselves were invisible but guessed that the light of the cylinder and shaft was in some way a transformation of part of the rays into visible light.
 
 Dutton and I stared with beating hearts into the cubical chamber, having but fleeting glimpses of Pollard’s form. My watch was in one hand, the other hand on the switch. The fiteen minutes that followed seemed to me to pass with the slowness of fifteen eternities. Neither of us spoke and the only sounds were the hum of the generators and the crackling of the cylinder that from the far spaces was gathering and concentrating the rays of evolution.
 
@@ -598,7 +738,7 @@ The greatest change, though, was in his face. Pollard’s homely, good-humored f
 
 He was stepping out of the cube and his voice reached our ears, clear and bell-like, triumphant.
 
-“You see? It worked as I knew it would work! I’m fifty million years ahead of the rest of humanity in evolutionary development!”
+“You see? It worked as I knew it would work! I’m <a id="page26"></a>fifty million years ahead of the rest of humanity in evolutionary development!”
 
 “Pollard!” My lips moved with difficulty. “Pollard, this is terrible—this change—”
 
@@ -618,7 +758,7 @@ He stepped back into the chamber, while Dutton and I stared helplessly. It seeme
 
 “Turn on the rays, and let them play for fifteen minutes more,” he was directing. “It will project me ahead another fifty million years.”
 
-His eyes and voice were imperative, and I glanced at my watch, and snicked over the switch. Again the cylinder broke into light, again the shaft of force shot down into the cube to hide Pollard’s splendid figure.
+His eyes and voice were imperative, and I glanced at my watch, and snicked over the switch. Again the <a id="page27"></a>cylinder broke into light, again the shaft of force shot down into the cube to hide Pollard’s splendid figure.
 
 Dutton and I waited with feverish intensity in the next minutes. Pollard was standing still beneath the broad shaft of force, and so was hidden in it from our eyes. What would its fitting disclose? Would he have changed still more, into some giant form, or would he be the same, having already reached humanity’s highest possible development?
 
@@ -636,7 +776,7 @@ Could this be Pollard? His voice sounded thin and weak to our ears.
 
 The eyes of the shrivelled, huge-headed figure in the cube fired with anger. “Stop at that first stage? I’m glad now that I didn’t! The man I was fifteen minutes ago . . . fifty million years ago in development . . . seems now to me to have been half-animal! What was his big animal-like body beside my immense brain?”
 
-“You say that because in this change you’re getting away from all human emotions and sentiments!” I burst. “Pollard, do you realize what you’re doing? You’re changing out of human semblance!”
+<a id="page28"></a>“You say that because in this change you’re getting away from all human emotions and sentiments!” I burst. “Pollard, do you realize what you’re doing? You’re changing out of human semblance!”
 
 “I realize it perfectly,” he snapped, “and I see nothing to be deplored in the fact. It means that in a hundred million years man will be developing in brain-capacity and will care nothing for the development of body. To you two crude beings, of what is to me the past, this seems terrible; but to me it is desirable and natural. Turn on the rays again!”
 
@@ -648,15 +788,16 @@ Pollard’s great eyes surveyed us with cold menace. “You will turn on the ray
 
 His narrow mouth seemed to sneer. “Friends? I am millions of years past such irrational emotions as friendship. The only emotion you awaken in me is a contempt for your crudity. Turn on the rays!”
 
-The Brain Monster
+## The Brain Monster
 
+.space
 His eyes blazed as he snapped the last order, and as though propelled by a force outside myself, I closed the switch. The shaft of glowing force again hid him from our view.
 
 Of our thoughts during the following quarter-hour I can say nothing, for both Dutton and I were so rigid with awe and horror as to make our minds chaotic. I shall never forget, though, that first moment after the time had passed and I had again switched off the mechanism.
 
 The change had continued, and Pollard—I could not call him that in my own mind—stood in the cube-chamber as a shape the sight of which stunned our minds.
 
-He had become simply a great head! A huge hairless head fully a yard in diameter, supported on tiny legs, the arms having dwindled to mere hands that projected just below the head! The eyes were enormous, saucerlike, but the ears were mere pin-holes at either side of the head, the nose and mouth being similar holes below the eyes!
+He had become simply a great head! A huge hairless <a id="page29"></a>head fully a yard in diameter, supported on tiny legs, the arms having dwindled to mere hands that projected just below the head! The eyes were enormous, saucerlike, but the ears were mere pin-holes at either side of the head, the nose and mouth being similar holes below the eyes!
 
 He was stepping out of the chamber on his ridiculously little limbs, and as Dutton and I reeled back in unreasoning horror, his voice came to us as an almost inaudible piping. And it held pride!
 
@@ -676,13 +817,13 @@ The great head’s enormous eyes did not change. “I remember that the creature
 
 “Do you two yet realize that I am so far ahead of you in brain power now as you are ahead of the beasts that perish? Look at this . . .”
 
-He had climbed onto a chair beside one of the laboratory tables, was reaching among the retorts and apparatus there. Swiftly he poured several compounds into a lead mortar, added others, poured upon the mixed contents another mixture made as swiftly.
+<a id="page30"></a>He had climbed onto a chair beside one of the laboratory tables, was reaching among the retorts and apparatus there. Swiftly he poured several compounds into a lead mortar, added others, poured upon the mixed contents another mixture made as swiftly.
 
 There was a puff of intense green smoke from the mortar instantly, and then the great head—I can only call him that—turned the mortar upside down. A lump of shining mottled metal fell out and we gasped as we recognized the yellow sheen of pure gold, made in a moment, apparently, by a mixture of common compounds!
 
 “You see?” the grotesque figure was asking. “What is the transformation of elements to a mind like mine? You two cannot even realize the scope of my intelligence!
 
-“I can destroy all life on this earth from this room, if I desire. I can construct a telescope that will allow me to look on the planets of the farthest galaxies! I can send my mind forth to make contact with other minds without the slightest material connection. And you think it terrible that I should rule your race! I will not rule them, I will own them and this planet as you might own a farm and animals!”
+“I can destroy all life on this earth from this room, if I desire. I can construct a telescope that will allow me to look on the planets of the farthest galaxies! I can send my mind forth to make contact with other minds without the slightest material connection. And you think it terrible that I should rule your race! I will not rule them, I will *own* them and this planet as you might own a farm and animals!”
 
 “You couldn’t!” I cried. “Pollard, if there is anything of Pollard left in you, give up that thought! We’ll kill you ourselves before we’ll let you start a monstrous rule of men!”
 
@@ -692,7 +833,7 @@ We had started desperately forward toward the great head but stopped suddenly in
 
 “So you two would try to kill me?” queried the head that had been Pollard. “Why, I could direct you without a word to kill yourselves and you’d do so in an instant! What chance has your puny will and brain against mine? And what chance will all the force of men have against me when a glance from me will make them puppets of my will?”
 
-A desperate inspiration flashed through my brain. “Pollard, wait!” I exclaimed. “You were going on with the process, with the rays! If you stop here you’ll not know what changes lie beyond your present form!”
+<a id="page31"></a>A desperate inspiration flashed through my brain. “Pollard, wait!” I exclaimed. “You were going on with the process, with the rays! If you stop here you’ll not know what changes lie beyond your present form!”
 
 He seemed to consider. “That is true,” he admitted, “and though it seems impossible to me that by going on I can attain to greater intelligence that I now have, I want to find out for certain.”
 
@@ -710,17 +851,15 @@ At first glance the great head inside seemed urn-changed, but then we saw that i
 
 Into our minds came a thought from the gray head-thing before us, a thought as clear as though spoken. “You have guessed it, for even my former head-body is disappearing, all atrophying except the brain. I am become a walking, seeing brain. As I am so all of your race will be in two hundred million years, gradually losing more and more of their atrophied bodies and developing more and more their great brains.”
 
-His eyes seemed to read us. “You need not fear now
+His eyes seemed to read us. “You need not fear now <a id="page32"></a>the things I threatened in my last stage of development. My mind, grown infinitely greater, would no more now want to rule you men and your little planet than you would want to rule an anthill and its inhabitants! My mind, gone fifty million years further ahead in development, can soar out now to vistas of power and knowledge unimagined by me in that last stage, and unimaginable to you.”
 
-the things I threatened in my last stage of development. My mind, grown infinitely greater, would no more now want to rule you men and your little planet than you would want to rule an anthill and its inhabitants! My mind, gone fifty million years further ahead in develop- i ment, can soar out now to vistas of power and knowl- i edge unimagined by me in that last stage, and unimaginable to you.”	I
+“Great God, Pollard!” I cried. “What have you become?”
 
-“Great God, Pollard!” I cried. “What have you be- j come?”	'
-
-“Pollard?” Dutton was laughing hysterically. “You call that thing Pollard? Why, we had dinner with Pol- , lard three hours ago—he was a human'being, and not a ; thing like this!”
+“Pollard?” Dutton was laughing hysterically. “You call that thing Pollard? Why, we had dinner with Pollard three hours ago—he was a human being, and not a thing like this!”
 
 “I have become what all men will become in time,” the thing’s thought answered me. “I have gone this far along the road of man’s future evolution, and am going on to the end of that road, am going to attain the development that the last mutation possible will give me!”
 
-“Turn on the rays,” his thought continued. “I think ' that I must be approaching now the last possible mutation.”
+“Turn on the rays,” his thought continued. “I think that I must be approaching now the last possible mutation.”
 
 I snapped over the switch again and the white shaft of the concentrated rays veiled from us the great gray shape. I felt my own mind giving beneath the strain of horror of the last hour, and Dutton was still half-hysterical.
 
@@ -730,7 +869,7 @@ Dutton began to laugh shrilly, and then abruptly was sobbing. I do not know whet
 
 It was a great brain! A gray limp mass four feet across, it lay in the chamber, its surface ridged and wrinkled by innumerable fine convolutions. It had no features or limbs of any kind in its gray mass. It was simply a huge brain whose only visible sign of life was its slow, twitching movement.
 
-From it thoughts beat strongly into our own horror-weighted brains.
+<a id="page33"></a>From it thoughts beat strongly into our own horror-weighted brains.
 
 “You see me now, a great brain only, just as all men will be far in the future. Yes, you might have known, I might have known, when I was like you, that this would be the course of human evolution, that the brain that alone gives man dominance would develop and the body that hampers that brain would atrophy until he would have developed into pure brain as I now am!
 
@@ -738,15 +877,16 @@ From it thoughts beat strongly into our own horror-weighted brains.
 
 “If you still have fear of the threats I made two stages back against your world and race, banish them! I am pure intelligence now and as such, though I can no more feel the emotions of love or friendship, neither can I feel those of ambition or pride. The only emotion, if such it is, that remains to me still is intellectual curiosity, and this desire for truth that has burned in man since his apehood will thus be the last of all desires to leave him!”
 
-The Last Mutation
+## The Last Mutation
 
+.space
 “A brain—a great brain!” Dutton was saying dazedly. “Here in Pollard’s laboratory—but where’s Pollard? He was here, too . . .”
 
 “Then all men will some day be as you are now?” I cried.
 
 “Yes,” came the answering thought, “in two hundred and fifty million years man as you know him and as you are will be no more, and after passing all the stages through which I have passed through tonight, the human race will have developed into great brains inhabiting not only your solar system, no doubt, but the systems of other stars!”
 
-“And that’s the end of man’s evolutionary road? That is the highest point that he will reach?”
+<a id="page34"></a>“And that’s the end of man’s evolutionary road? That is the highest point that he will reach?”
 
 “No, I think he will change still from those great brains into still a higher form,” the brain answered—the brain that three hours before had been Pollard!—“and I am going to find out now what that higher form will be. For I think this will be the last mutation of all and that with it I will reach the end of man’s evolutionary path, the last and highest form into which he can develop!”
 
@@ -768,9 +908,9 @@ An inability to move seemed gripping me. The hand of my watch was approaching th
 
 Then as the hand reached the appointed minute I broke from my immobility and in a sheer frenzy of sudden strength pulled open the switch, rushed forward with Dutton to the cube’s very edge!
 
-The great gray brain that had been inside it was gone. There lay on the cube’s floor instead of it a quite shapeless mass of clear, jelly-like matter. It was quite motionless save for a slight quivering. My shaking hand went forth to touch it, and then it was that I screamed, such a scream as all the tortures of hell’s crudest fiends could not have wrung from a human throat.
+The great gray brain that had been inside it was gone. There lay on the cube’s floor instead of it a quite shapeless mass of clear, jelly-like matter. It was quite motionless save for a slight quivering. My shaking hand went <a id="page35"></a>forth to touch it, and then it was that I screamed, such a scream as all the tortures of hell’s crudest fiends could not have wrung from a human throat.
 
-The mass inside the cube was a mass of simple protoplasm! This then was the end of man’s evolution-road, the highest form to which time would bring him, the last mutation of all! The road of man’s evolution was a circular one, returning to its beginning!
+The mass inside the cube was a mass of simple *protoplasm!* This then was the end of man’s evolution-road, the highest form to which time would bring him, the last mutation of all! The road of man’s evolution was a circular one, returning to its beginning!
 
 From the earth’s bosom had risen the first crude organisms. Then sea-creature and land-creature and mammal and ape to man; and from man it would rise in the future through all the forms we had seen that night. There would be super-men, bodiless heads, pure brains; only to be changed by the last mutation of all into the protoplasm from which first it had sprung!
 
@@ -778,19 +918,25 @@ I do not know now exactly what followed. I know that I rushed upon that quiverin
 
 For I can remember dragging the insanely laughing Dutton from the room, from the house, into the cool darkness of the night. I remember the chill of dew-wet grass against my hands and face as the flames from Pollard’s house soared higher. And I remember that as I saw Dutton’s crazy laughter by that crimson light, I knew that he would laugh thus until he died.
 
+.space
 So ends my narrative of the end that came to Pollard and Pollard’s house. It is, as I said in beginning, a narrative that I only can tell now, for Dutton has never spoken a sane word since. In the institution where he now is, they think his condition the result of shock from the fire, just as Pollard was believed to have perished in that fire. I have never until now told the truth.
 
-But I am telling it now, hoping that it will in some way lessen the horror it has left with me. For there could be no horror greater than that we saw in Pollard’s house that night. I have brooded upon it. With my mind’s eyes I have followed that tremendous’ cycle of change, that purposeless, eon-long climb of life up from simple protoplasm through myriads of forms and lives of ceaseless pain and struggle, only to end in simple protoplasm again.
+But I am telling it now, hoping that it will in some way lessen the horror it has left with me. For there <a id="page36"></a>could be no horror greater than that we saw in Pollard’s house that night. I have brooded upon it. With my mind’s eyes I have followed that tremendous’ cycle of change, that purposeless, eon-long climb of life up from simple protoplasm through myriads of forms and lives of ceaseless pain and struggle, only to end in simple protoplasm again.
 
 Will that cycle of evolutionary change be repeated over and over again upon this and other worlds, ceaselessly, purposelessly, until there is no more universe for it to go on in? Is this colossal cycle of life’s changes as inevitable and necessary as the cycle that in space makes of the nebulae myriad suns, and of the suns dark-stars, and of the dark-stars colliding with one another nebulae again?
 
 Or is this evolutionary cycle we saw a cycle in appearance only, is there some change that we cannot understand, above and beyond it! I do not know which of these possibilities is truth, but I do know that the first of them haunts me. It would haunt the world if the world believed my story. Perhaps I should be thankful as I write to know that I will not be believed.
 
-A Conquest of Two Worlds
+---
 
-Jimmy Crane, Mart Halkett and Hall Burnham were students together in a New York technical school in the spring when Gillen’s flight changed the world. Crane, Halkett and Burnham had been an inseparable trio since boyhood. They had fought youthful foes together, had wrestled together with their lessons, and now read together, as an amazed world was reading, of Ross Gillen’s stupendous exploit. x
+a_conquest_of_two_worlds
 
-Gillen, the stubby, shy and spectacled Arizona scientist, burst the thing on the world like a bombshell. For sixteen years he had worked on the problem of atomic power. When he finally solved that problem and found himself able to extract almost unlimited power from small amounts of matter, by breaking down its atoms with a simple projector of electrical forces of terrific voltage, Gillen called in a helper, Anson Drake. With Drake he constructed an atom-blast mechanism that would shoot forth as a rocket stream, exploded atoms of immeasurable force, a tremendous means of propulsion.
+# A Conquest of Two Worlds
+
+.fl
+<span class="smallcaps">Jimmy Crane, Mart Halkett</span> and Hall Burnham were students together in a New York technical school in the spring when Gillen’s flight changed the world. Crane, Halkett and Burnham had been an inseparable trio since boyhood. They had fought youthful foes together, had wrestled together with their lessons, and now read together, as an amazed world was reading, of Ross Gillen’s stupendous exploit.
+
+Gillen, the stubby, shy and spectacled Arizona scientist, burst the thing on the world like a bombshell. For <a id="page37"></a>sixteen years he had worked on the problem of atomic power. When he finally solved that problem and found himself able to extract almost unlimited power from small amounts of matter, by breaking down its atoms with a simple projector of electrical forces of terrific voltage, Gillen called in a helper, Anson Drake. With Drake he constructed an atom-blast mechanism that would shoot forth as a rocket stream, exploded atoms of immeasurable force, a tremendous means of propulsion.
 
 For Gillen meant to conquer space. Through that momentous winter when Crane, Halkett and Burnham had not a thought beyond their school problems and school sports, Gillen and Drake were constructing a rocket that would use the atom-blast mechanism for propulsion and could carry one man and the necessary supplies of air, food and water. There was installed in the ship a radio transmitter they had devised, which made use of a carrier-beam to send radio impulses through the earth’s Heaviside Layer from outer space. When all was ready Ross Gillen got calmly into the rocket and roared out into space to eternal glory.
 
@@ -798,35 +944,32 @@ Crane, Halkett and Burnham read as tensely as everyone else on earth the reports
 
 Mars had thin but breathable air, Gillen reported. It was an arid world of red deserts with oases of gray vegetation wherever there were underground springs or water-courses. There were Martians of some intelligence moving in nomadic groups from oasis to oasis. They were man-like beings with stilt-like legs and arms, with huge bulging chests and bulbous heads covered with light fur. Gillen said the Martian groups or tribes fought some among themselves with spears and like weapons, but that they welcomed him as a friend. He reported signs of large mineral and chemical deposits before he left Mars.
 
-Gillen’s radio signals became ever weaker as his rocket moved through space toward Jupiter. He managed a safe landing on that giant planet and found it without oceans, warm and steamy and clad from pole to pole with forests of great fern growths. A strange fauna inhabited these forests and the highest forms of life. The Jovians, as Gillen called them, were erect-walking creatures with big, soft hairless bodies and with thick arms and legs ending in flippers instead of hands or feet. Their heads were small and round, with large dark eyes. • They lived peacefully in large communities in the" fern forests, on fruits and roots. They had few weapons and were of child-like friendliness. Gillen stayed several days with them before leaving Jupiter.
+Gillen’s radio signals became ever weaker as his <a id="page38"></a>rocket moved through space toward Jupiter. He managed a safe landing on that giant planet and found it without oceans, warm and steamy and clad from pole to pole with forests of great fern growths. A strange fauna inhabited these forests and the highest forms of life. The Jovians, as Gillen called them, were erect-walking creatures with big, soft hairless bodies and with thick arms and legs ending in flippers instead of hands or feet. Their heads were small and round, with large dark eyes. • They lived peacefully in large communities in the" fern forests, on fruits and roots. They had few weapons and were of child-like friendliness. Gillen stayed several days with them before leaving Jupiter.
 
 Gillen said only that Jupiter’s greater gravitation and heavy wet atmosphere had made him ill and that he was heading back to earth. Saturn, Uranus, Neptune and Pluto were, of course, hopelessly cold and uninhabitable.
 
-Crane, Halkett and Bumham were part of a world that was mad with excitement as Gillen swung back through space toward earth. And when at last Gillen’s rocket roared in through earth’s atmosphere and landed, it smashed, and they found Gillen inside it crumpled and dead, but with a smile on his lips.
+Crane, Halkett and Burnham were part of a world that was mad with excitement as Gillen swung back through space toward earth. And when at last Gillen’s rocket roared in through earth’s atmosphere and landed, it smashed, and they found Gillen inside it crumpled and dead, but with a smile on his lips.
 
-To Halkett, Crane and Bumham, Gillen was the supreme hero as he was to all earth. Overnight, Gillen’s flight, the fact of interplanetary travel, changed everything. The new planets open to earthmen brought new and tremendous problems. Even as Anson Drake, Gillen’s helper, was supervising construction of ten rockets for a second expedition, the world’s governments were meeting and deciding that a terrific war between nations for the rich territories of Mars and Jupiter could only be avoided by formation of one government for the other planets. The Interplanetary Council thus came into being and one of its first acts was to make Drake’s expedition its official exploring party.
+To Halkett, Crane and Burnham, Gillen was the supreme hero as he was to all earth. Overnight, Gillen’s flight, the fact of interplanetary travel, changed everything. The new planets open to earthmen brought new and tremendous problems. Even as Anson Drake, Gillen’s helper, was supervising construction of ten rockets for a second expedition, the world’s governments were meeting and deciding that a terrific war between nations for the rich territories of Mars and Jupiter could only be avoided by formation of one government for the other planets. The Interplanetary Council thus came into being and one of its first acts was to make Drake’s expedition its official exploring party.
 
-Drake’s expedition became thq goal of all the adventure-minded young men of earth. Jimmy Crane, Mart Halkett and Hall Bumham were among these, but they had what most of the adventurous had not, technical education and skill. The harassed Drake took the three on; and when Drake’s ten rockets sailed out with the commission of the Interplanetary Council to explore Mars’ mineral and other resources, to establish bases for future exploration on Mars and if possible on Jupiter, Crane, Halkett and Burnham were together in Rocket 8.
+Drake’s expedition became the goal of all the adventure-minded young men of earth. Jimmy Crane, Mart Halkett and Hall Burnham were among these, but they had what most of the adventurous had not, technical education and skill. The harassed Drake took the <a id="page39"></a>three on; and when Drake’s ten rockets sailed out with the commission of the Interplanetary Council to explore Mars’ mineral and other resources, to establish bases for future exploration on Mars and if possible on Jupiter, Crane, Halkett and Burnham were together in Rocket 8.
 
+.space
 Drake’s expedition proved a classic in disaster. Two of his ten rockets perished in mid-space in a meteor swarm. Many of the men in the other rockets were struck down by the malign combination of the weightlessness, the unsoftened ultra-violet rays, and the terrific glare and gloom of mid-space. This space-sickness had put about a half of Drake’s men out of usefulness, Halkett and Burnham among them, when his eight rockets swung in to land near the Martian equator.
 
 One of Drake’s rockets smashed completely in landing, and three others suffered minor damages. They had landed near one of the oases of vegetation, and Drake directed the establishment of a camp. The thin cold Martian air helped bring his space-sick men back to normal, but others were being smitten at the same time by what came to be known later as Martian fever. This seized on Hall Burnham among others, though Halkett and Crane never had it. The fever came as the result of the entirely strange conditions in which the earthmen found themselves.
 
 Drake’s men were in a world in which nothing could be measured by terrestrial standards. The reduced gravitation made their slightest movements give grotesquely disproportionate results. But the thin air made even the slightest effort tire them quickly. The sun’s heat was enough by day to give moderate warmth, but the nights in Drake’s camp were freezing. Halkett, Crane and Burnham marveled at the splendor of those bitter nights, the stars superb in frosty brilliance, the two Martian moons casting ever-changing shadows.
 
-Then, too, there were the Martians. The first contact of Drake’s party with them was amicable enough. The big furry man-like beings, strange looking to the earth-men with their huge expanded chests and stilt-like limbs, emerged from the vegetation oases to greet
-
-Drake’s men as friends. News of Gillen’s visit had traveled over part of Mars, at least, for these Martians had heard of it.
+Then, too, there were the Martians. The first contact of Drake’s party with them was amicable enough. The big furry man-like beings, strange looking to the earth-men with their huge expanded chests and stilt-like limbs, emerged from the vegetation oases to greet <a id="page40"></a>Drake’s men as friends. News of Gillen’s visit had traveled over part of Mars, at least, for these Martians had heard of it.
 
 Drake welcomed the Martians and ordered his men to fraternize with them, for he hoped to learn much from them concerning the planet’s resources. He was beginning to see that his expedition was far too small for even the sketchiest exploration of the planet. So Martians and earthmen mixed and mingled in the little camp at the oasis’ edge. Some of the men learned the rudiments of the Martians’ speech—Mart Halkett was one of these—and got from them a little information concerning location of mineral deposits. Although most of it was undependable, still Drake felt he was learning something.
 
 But the whole state of affairs changed when one of Drake’s men foolishly told some Martians that Drake’s expedition was but the forerunner of many others from earth, and that the Interplanetary Council would direct the destinies of all the planets. It must have been a shock to the Martians, primitive as they were, to find that they were considered subjects of this new government. They withdrew at once from the earthmen’s camp. Drake radioed to earth that they were acting queerly and that he feared an attack.
 
-Yet when the attack came three days later the earth-men brought it on themselves. When one of Drake’s guards wantonly slew a Martian, the natives rushed the camp. Drake had hastily made ready atom-blast mechanisms for defense and the attacking Martians were almost annihilated by the invisible but terrific fire of disintegrated atoms. Crouching behind their rude dirt-works, the Earthmen, even those staggering from Martian fever, turned the roaring blasts this way and that to mow down the onrushing mobs of furry, bigchested stilt-limbed Martians. Halkett, Crane and Bum-ham did their part in that one-sided fight.
+Yet when the attack came three days later the earth-men brought it on themselves. When one of Drake’s guards wantonly slew a Martian, the natives rushed the camp. Drake had hastily made ready atom-blast mechanisms for defense and the attacking Martians were almost annihilated by the invisible but terrific fire of disintegrated atoms. Crouching behind their rude dirt-works, the Earthmen, even those staggering from Martian fever, turned the roaring blasts this way and that to mow down the onrushing mobs of furry, bigchested stilt-limbed Martians. Halkett, Crane and Burnham did their part in that one-sided fight.
 
-The Martians had learned their lesson and attacked no more but hemmed in the camp and systematically trailed and killed anyone venturing from it. More of Drake’s men were going down with Martian fever and several died. Exploration was out of the question and
-
-Drake’s position became insupportable. He reported as much and the Interplanetary Council ordered his return to Earth.
+The Martians had learned their lesson and attacked no more but hemmed in the camp and systematically trailed and killed anyone venturing from it. More of Drake’s men were going down with Martian fever and several died. Exploration was out of the question and <a id="page41"></a>Drake’s position became insupportable. He reported as much and the Interplanetary Council ordered his return to Earth.
 
 Drake foolishly sent four of his rockets, with Halkett and his friends in one, back to earth in advance. The other three and their crews, including himself, delayed to repair the damage done in landing. The Martians rushed them in force that night, and Drake and all his men perished in what must have been a terrific battle.
 
@@ -836,7 +979,7 @@ Announcement was made immediately by the Interplanetary Council that another for
 
 Rockets to the number of a hundred were under construction, embodying all the lessons Drake’s disastrous expedition had learned. Instruments, to give warning of meteor swarms by means of magnetic fields projected ahead, were devised. Walls and window ports were constructed to soften the terrific ultra-violet vibrations of free space. Special recoil harnesses were produced to minimize the terrible shocks of starting and landing. These would reduce space-sickness, and Martian fever was to be combatted by special oxygenation treatment to be given periodically to all engaged in this new venture.
 
-Weapons were not forgotten—the atom-blast weap-ons^were improved in power and range, and new atomic bombs that burst with unprecedented violence were being turned out. And while crews were being enlisted and trained for this rocket fleet, the Army of the Interplanetary Council was organized. Most of the survivors of Drake’s disastrous expedition joined one department or another of the new force. Crane, Halkett and Bum-ham had joined at once, and because their Martian experience made them valuable they were commissioned lieutenants in the new army.
+Weapons were not forgotten—the atom-blast weapons were improved in power and range, and new atomic bombs that burst with unprecedented violence were being turned out. And while crews were being enlisted and trained for this rocket fleet, the Army of the <a id="page42"></a>Interplanetary Council was organized. Most of the survivors of Drake’s disastrous expedition joined one department or another of the new force. Crane, Halkett and Burnham had joined at once, and because their Martian experience made them valuable they were commissioned lieutenants in the new army.
 
 Halkett commented on that. “I don’t know why we should be going back there to kill those poor furry devils,” he told Crane and Burnham. “After all, they’re fighting for their world.”
 
@@ -846,7 +989,7 @@ Halkett commented on that. “I don’t know why we should be going back there t
 
 “Halk, if you talk like that people’ll think you’re pro-Martian,” said Crane worriedly. “Don’t you know that the Martians will never use those chemical and metal deposits until the end of time, and that Earth needs them badly?”
 
-“Not to speak of the fact that we’ll give the Martians a better government than they ever had before,” Bum-ham said. “They’ve always been fighting among themselves and the Council will stop that.”
+“Not to speak of the fact that we’ll give the Martians a better government than they ever had before,” Burnham said. “They’ve always been fighting among themselves and the Council will stop that.”
 
 “I suppose that’s so,” Halkett admitted. “But just the same, I’m not keen on slaughtering any more of them with the atom-blasts as we did with Drake.”
 
@@ -854,7 +997,7 @@ Halkett commented on that. “I don’t know why we should be going back there t
 
 Crane proved a poor prophet. For when the expedition commanded by that Richard Weathering who had been Drake’s second in command, reached Mars in its hundred rockets, trouble started. There was never a chance to try peaceful methods—fighting with the Martians began almost immediately.
 
-It was evident that since Drake’s expedition the Martians had anticipated further parties and had made some preparation. They had combined groups into several large forces and had devised some crude chemical weapons not unlike the ancient Greek fire. With these they rushed Weathering’s rockets on the equatorial plateau where they had landed. But Weathering had already brought order out of the confusion of landing and was ready for them.
+It was evident that since Drake’s expedition the Martians had anticipated further parties and had made some preparation. They had combined groups into several <a id="page43"></a>large forces and had devised some crude chemical weapons not unlike the ancient Greek fire. With these they rushed Weathering’s rockets on the equatorial plateau where they had landed. But Weathering had already brought order out of the confusion of landing and was ready for them.
 
 His first act on landing was to have his men bring the rockets together and throw up dirtworks around them. Both of these tasks were enormously simplified by the lesser gravitation of the planet. He had then set up batteries of atom-blasts at strategic locations behind his works, Jimmy Crane commanding one of these and Halkett another. These opened on the Martians as soon as they came into range. The furry masses, unable to use their rather ineffective chemical weapons, were forced to fall back with some thousands dead. They immediately tried to hem in the Earthmen as they had done with the Drake expedition.
 
@@ -862,21 +1005,20 @@ Weathering did not permit this. He knew that the Martians’ source of existence
 
 They carried out orders though the Martians in those cases made fierce resistance, and there were mad combats of brown-clad Earthmen and furry Martians in brilliant sunlight of day or black, freezing night. But Crane’s and the other parties went stubbornly ahead, destroying the vegetation with atom-blasts. And in the end, with the vegetation that yielded their food-supply destroyed, the Martians in that hundred-mile circle had to retire across the red desert to other oases.
 
-Weathering then split his forces into three divisions using his rockets to transport two of these divisions to points equidistant around Mars’ equator. At each point a post like Weathering’s own was established, with dirt-works in a square around it and atom-blast batteries mounted. Jimmy Crane, who had shown aptitude thus far in Martian campaigning, was made commander of one of these posts and a Lieutenant Lanson commander of the other. Halkett and Burnham stayed in Weathering’s own post.
+Weathering then split his forces into three divisions using his rockets to transport two of these divisions to points equidistant around Mars’ equator. At each point a post like Weathering’s own was established, with dirt-works in a square around it and atom-blast batteries mounted. Jimmy Crane, who had shown aptitude thus far in Martian campaigning, was made commander of one of these posts and a Lieutenant Lanson commander <a id="page44"></a>of the other. Halkett and Burnham stayed in Weathering’s own post.
 
 Eighty of the ninety-seven rockets that had landed safely, Weathering now sent back to earth for more men and supplies. Word came from earth that fifty new rockets had been constructed and were on their way with men and materials. Weathering distributed them equally among three posts when they came and sent them also back to earth for more. Crane and Lanson, under his orders, had devastated the oases around their posts to drive the Martians back from them.
 
-Chapter II
+## Chapter II<br />THE CONQUEST OF MARS
 
-THE CONQUEST OF MARS
-
+.space
 Weathering’s men were becoming acclimated to Martian conditions. The oxygenation treatments eliminated most of the Martian fever, and as the earthmen’s muscles attuned themselves gradually to the new gravitation their movements became more sure. It is worthy of note that some of those first venturers who went back from Mars to earth after a year on the red planet were stricken by a sort of Earth-sickness due to Earth’s different conditions.
 
 As reinforcements came in, Weathering continued to distribute them among the three posts of Crane and Lanson and himself. He wanted to establish the three forts firmly before an overwhelming Martian attack swept them out of existence. There were signs that that could be expected from the Martians.
 
 The Martian attacks were growing fiercer. The Martians could see plainly enough the course Weathering was following, and that each week brought more rockets from earth with more men, more supplies and more atom-blasts and atomic bombs. They determined upon a concerted attack to wipe out the earthmen’s three forts before they became too strong.
 
-The attack broke against the three forts, so widely separated, at the same time. It did not catch Weathering and Crane and Lanson by surprise—their atom-blasts were ready. But even so, the Martian attack was almost irresistible in sheer weight. From far across the reddish desert surged the furry Martian masses toward the three little forts, coming on despite the atom-blasts that took toll of them by tens of thousands.
+The attack broke against the three forts, so widely separated, at the same time. It did not catch Weathering and Crane and Lanson by surprise—their atom-blasts were ready. But even so, the Martian attack was almost irresistible in sheer weight. From far across the reddish <a id="page45"></a>desert surged the furry Martian masses toward the three little forts, coming on despite the atom-blasts that took toll of them by tens of thousands.
 
 Weathering’s post and that of Crane withstood the attack by only the utmost endeavor. Halkett had charge of one of the atom-blast batteries at Weathering’s fort, on the side that the Martians attacked most determinedly. It was Halkett’s battery that wrought the deadliest destruction amid the furry hordes.
 
@@ -888,7 +1030,7 @@ There followed a lull in the fighting, with Weathering, Crane and Halkett holdin
 
 But steadily the Earthmen’s strength grew as more rockets came in. Earth was aflame over the situation, cheering Weathering as the upholder of terrestrial honor. The gallant fight of earth’s lonely outposts there amid the Martian hordes had appealed to the popular imagination and there were insistent demands that the Interplanetary Council use all its powers to reinforce them.
 
-It meant to do so. It sent Weathering a message stating as much, advancing him from colonel to general, promoting Jimmy Crane to colonel, and Halkett and Burnham and a number of others to captaincies. The enlistment bureaus of the Council on earth could not handle the flood of recruits.
+It meant to do so. It sent Weathering a message stating as much, advancing him from colonel to general, promoting Jimmy Crane to colonel, and Halkett and Burnham and a number of others to captaincies. The <a id="page46"></a>enlistment bureaus of the Council on earth could not handle the flood of recruits.
 
 Rockets were now pouring from the factories in a steadily increasing stream. Atomic weapons were also being produced in quantity and every few days saw rockets laden with supplies and men taking off for Mars. Many perished still in the dangers of the void but most arrived safely. Weathering continued to distribute the men and supplies they brought among his three posts.
 
@@ -898,9 +1040,7 @@ Within a year Weathering had a network of fifty forts stretched over Mars’ sur
 
 With the next melting of the polar snow-caps, Weathering was ready to begin the final subjugation of Mars. From a circle of six of his forts he sent out string forces to attack and drive together the Martians in that circular territory. This was the plan evolved by Weathering and Crane, to concentrate forces upon one section of the planet at a time, using the forts around that section as bases, mopping up the Martians in that section thoroughly and then proceeding to another.
 
-Crane had charge of the first operation and it worked perfectly. The Interplanetary Council had directed Weathering to offer the Martians peace if they promised to obey the Government’s authority. But Crane’s men
-
-had no chance even to make the offer, so utterly fierce was the Martian resistance.
+Crane had charge of the first operation and it worked perfectly. The Interplanetary Council had directed Weathering to offer the Martians peace if they promised to obey the Government’s authority. But Crane’s men <a id="page47"></a>had no chance even to make the offer, so utterly fierce was the Martian resistance.
 
 The Martians had never expected what happened. The furry, stilt-limbed men had ceased their attacks on the Earthmen’s forts some time before, save for occasional raids, and had retired to take up existence in the vegetation oases remoter from the forts. There they had lived as they had for ages, moving in nomadic fashion through the oases gathering the fruits upon which they subsisted, digging as ages of experience had made them skilful in doing for the underground springs. Now the Earthmen were attacking them! The Martians rose madly to the fight.
 
@@ -908,7 +1048,7 @@ But Crane’s forces were strongly armed and with atom-blasts and atom bombs aga
 
 Within another year Weathering could send word back to the Council that the plan had succeeded and that except for a few remote wastes near the snow-caps, Mars was entirely subjugated. In that year approximately three-fourths of the Martian race had perished, for in almost every case their forces had resisted to ihe last. Those who remained could constitute no danger to the Earthmen’s system of forts. The Council flashed Weathering congratulations and gave Crane command of the expedition then fitting out at Earth for the exploration of Jupiter.
 
-Crane went back to earth to take charge of it, first taking warm leave of Mart Halkett and Hall Burnham at the posts they commanded. Crane spent a half year on earth preparing his expedition of two hundred rockets to meet conditions on Jupiter. For Jupiter presented a greater problem to earth explorers than had Mars, and biologists and chemists had been working to overcome the obstacles.
+Crane went back to earth to take charge of it, first taking warm leave of Mart Halkett and Hall Burnham at the posts they commanded. Crane spent a half year on earth preparing his expedition of two hundred rockets to meet conditions on Jupiter. For Jupiter presented a greater problem to earth explorers than had Mars, <a id="page48"></a>and biologists and chemists had been working to overcome the obstacles.
 
 The greatest difficulty, Crane saw, was Jupiter’s gravitation, almost twice that of Earth despite the swift-spinning planet’s counteracting centrifugal force. Gillen’s visit to Jupiter on his epochal flight had been terminated by sickness brought on by that greater gravitation and the heavy damp atmosphere. Crane’s men must be strengthened to withstand these influences.
 
@@ -918,7 +1058,7 @@ So equipped, Crane’s expedition sailed in its two hundred rockets for Jupiter,
 
 He found himself with troubles enough. For though the metal armor and other protections safeguarded the Earthmen fairly effectively from the greater gravitation, they found it still difficult to make the simplest motions. It took weeks for Crane’s men, against the drag of the Jovian gravity, to clear the fern forest around them and turn up dirtworks of the oozy black Jovian soil.
 
-Sickness was rife among them, for the respirators did not work as well as the safeguards against gravitation. The heavy wet air worked havoc with the Earthmen’s lungs and the so-called Jovian croup became soon as well-known and much more feared than Martian fever. Men toiling in the thin sunlight were stricken by it. Crane’s forces were decimated by it. The fern forests, too, held weird forms of life that proved a problem, some of them disk-shaped things of flesh that enveloped anything living in their bodies and ingested it directly. There were also strange huge worm-like things existing in the oozy soil, and others stranger still. Crane’s men had to work with atom-blasts constantly ready to repel these strange predatory forms of life.
+Sickness was rife among them, for the respirators did not work as well as the safeguards against gravitation. The heavy wet air worked havoc with the Earthmen’s lungs and the so-called Jovian croup became soon as well-known and much more feared than Martian fever. Men toiling in the thin sunlight were stricken by it. Crane’s forces were decimated by it. The fern forests, too, held weird forms of life that proved a problem, some of them disk-shaped things of flesh that enveloped <a id="page49"></a>anything living in their bodies and ingested it directly. There were also strange huge worm-like things existing in the oozy soil, and others stranger still. Crane’s men had to work with atom-blasts constantly ready to repel these strange predatory forms of life.
 
 Out of fern forests, too, came to watch the Earthmen hosts of the big, soft-bodied creatures Gillen had called the Jovians. These had bodies eight feet high and six feet around, like big cylinders of hairless brown flesh supported on thick flipper-like limbs, with similar flipper-like arms. Their small round heads had dark mild eyes and mouths from which came their deep bass speech. Crane found they were perhaps as intelligent as the Martians but were rather more peaceful, their only weapons spears with which they fought off the things in the fern forests that attacked them.
 
@@ -926,11 +1066,11 @@ They were quite friendly toward the Earthmen and watched their operations with c
 
 Mark Halkett, still commanding his equatorial Martian post, saw a new kind of migration now going on from earth to Mars. Hitherto the rockets had carried hardly anything but the reinforcements of the Council and their supplies. But now Halkett saw crowds of civilians pouring into the newly subjugated planet. They were magnates, speculators, engineers, mechanics, for the Council was now granting concessions in the great Martian mineral and chemical deposits.
 
-Halkett saw those forts nearest the deposits, including his own, grow rapidly into raw mine towns packed with Earthmen of all kinds. Martian fever had been completely conquered by Earth’s scientists and some of these crude new towns contained thousands of Earthmen. There could be seen among them occasional stilt-limbed, huge-chested Martians moving about as though bewildered by the activity about them, but most of the remaining Martians were on certain oases set aside for them as reservations. Refining and extracting plants were set up as mining operations grew, and Halkett saw the rocket fleets that arrived with men and machinery going back to Earth laden with metals and chemicals.
+Halkett saw those forts nearest the deposits, including his own, grow rapidly into raw mine towns packed with Earthmen of all kinds. Martian fever had been completely conquered by Earth’s scientists and some of these crude new towns contained thousands of Earthmen. There could be seen among them occasional stilt-limbed, huge-chested Martians moving about as though bewildered by the activity about them, but most of the <a id="page50"></a>remaining Martians were on certain oases set aside for them as reservations. Refining and extracting plants were set up as mining operations grew, and Halkett saw the rocket fleets that arrived with men and machinery going back to Earth laden with metals and chemicals.
 
 Halkett went up to Burnham’s post in northern Mars sick at heart. He told Burnham he had secured a transfer to Jupiter to serve there in Jimmy Crane’s expanding system of forts.
 
-“I can’t stand this any longer, Bum,” he said. “I mean what we’ve done to this world—the Martians, its people, almost wiped out and those left treated the way they are.”
+“I can’t stand this any longer, Burn,” he said. “I mean what we’ve done to this world—the Martians, its people, almost wiped out and those left treated the way they are.”
 
 Burnham looked keenly at him. “You’re taking it too hard, Halkett,” he said. “It’s been a tough time, I admit, but that’s all over now the Martians are conquered.” “Conquered—wiped out, I say again,” Halkett said bitterly. “Burnham, I dream about it sometimes—those waves of furry stilt-men coming on and on toward certain death, and my atom-blasts mowing them down like grass.”
 
@@ -938,13 +1078,13 @@ Burnham looked keenly at him. “You’re taking it too hard, Halkett,” he sai
 
 “Thrown open to a lot of speculators and financiers to extract a profit from,” Halkett amended. “The Martians are killed off and we do the dirty work of killing them and all for what? So this bunch swarming into Mars now can enrich themselves.”
 
-“That’s too narrow a view,” Burnham told him. “It’s inevitable that there’ll be certain evils in the course of an expansion like this.” j
+“That’s too narrow a view,” Burnham told him. “It’s inevitable that there’ll be certain evils in the course of an expansion like this.”
 
-“\Wiy expand, then?” asked Halkett. “Why not stay on our own planet and leave these poor devils of Martians and Jovians keep theirs?”
+“Why expand, then?” asked Halkett. “Why not stay on our own planet and leave these poor devils of Martians and Jovians keep theirs?”
 
 Burnham shook his head. “Expansion is as inevitable as a full tank overflowing into an empty one. Anyway, Halk, the fighting’s over here now so why go on to Jupiter?”
 
-“Because I feel like a murderer haunting the scene of his crime,” Halkett told him. “When I see some of these degraded Martians hanging around our towns, begging for food and getting cuffed and kicked out of the way by Earthmen, I want to get out of here to I don’t care where.”
+“Because I feel like a murderer haunting the scene of his crime,” Halkett told him. “When I see some of these degraded Martians hanging around our towns, begging <a id="page51"></a>for food and getting cuffed and kicked out of the way by Earthmen, I want to get out of here to I don’t care where.”
 
 Halkett went on to Jupiter. He found by then Crane had established a dozen posts over the southern half of the vast planet, following Weathering’s Martian system. Jovian croup was giving Crane more trouble than anything else and the dreaded disease was often fatal, the death list sometimes appalling while the Earth scientists worked frantically to control the disease. They finally succeeded in evolving a serum which was an effective preventive. Halkett was inoculated with this immediately on reaching Jupiter.
 
@@ -958,12 +1098,13 @@ He was enthusiastic about Jupiter’s possibilities. “I tell you, this is the 
 
 “Where will the Jovians be when that day arrives?” Halkett asked him. Crane looked at him.
 
-“Still holding to that viewpoint? Halkett, we have to let some things take care of themselves. Be sure we’ll not harm the Jovians if they don’t try harming us.”
+<a id="page52"></a>“Still holding to that viewpoint? Halkett, we have to let some things take care of themselves. Be sure we’ll not harm the Jovians if they don’t try harming us.”
 
 “Well, we may be able to get along with them,” Halkett said thoughtfully. “They seem rather more peaceful than the Martians.”
 
-Chapter III JUPITER NEXT!
+## Chapter III<br />JUPITER NEXT!
 
+.space
 But trouble came soon after Halkett’s arrival, with, the Jovians. Crane had been engaged in strengthening his dozen posts scattered over the southern half of Jupiter. He had not tried to establish any forts in North Jupiter, realizing the insufficiency of his resources, for even the dozen on the huge planet’s southern half were separated by tremendous distances. Rocket communication between them was fairly quick but Crane preferred to strengthen the twelve forts before establishing more.
 
 Then came the trouble. It began as on Mars—a bad-tempered Earthman at one of the forts beat a flipper-man for some reason and in a brawl that ensued one Earthman and five Jovians were killed. Word must have spread somehow in the fern forests for the Jovians retired from the forts of the earthmen. Jimmy Crane cursed in private but acted, punishing the Earthmen concerned and sending Halkett to the Jovian communities to patch up matters.
@@ -972,9 +1113,7 @@ Halkett had learned the Jovian language and proved a good ambassador for he was 
 
 Halkett went back with this word and Crane realized that trouble was ahead. He flashed word back to the Interplanetary Council and it ordered him to hold all his posts and await reinforcements from Earth and Mars. Weathering would send on most of the Martian divisions of the Council’s Army as rapidly as possible.
 
-Soon after the arrival of the first reinforcements the storm broke. The Jovians had come to see, despite
-
-Halkett’s attempt at reassurance, what Crane’s expanding system of posts would mean in time. They sent to Crane asking from him a promise that no more Earth-men would come to Jupiter. Crane curtly refused to make such a promise. Even so the flipper-men might have remained inactive had not by some inconceivable brutality an atom-blast been turned upon their envoys as they left the fort. Crane’s summary execution of the men responsible for the action could not mend matters.
+Soon after the arrival of the first reinforcements the storm broke. The Jovians had come to see, despite <a id="page53"></a>Halkett’s attempt at reassurance, what Crane’s expanding system of posts would mean in time. They sent to Crane asking from him a promise that no more Earth-men would come to Jupiter. Crane curtly refused to make such a promise. Even so the flipper-men might have remained inactive had not by some inconceivable brutality an atom-blast been turned upon their envoys as they left the fort. Crane’s summary execution of the men responsible for the action could not mend matters.
 
 For the Jovians, aroused at last, rose upon the Earth-men. Over all South Jupiter they poured out of the fern forests in incalculable masses upon the forts of the Earthmen. They had not even the crude chemical weapons the Martians had used, their only arms spears and great maces, but there were tens of thousands of them to every earthman. Crane set himself grimly to hold his dozen posts against the floods of the flipper-men.
 
@@ -984,7 +1123,7 @@ Crane now was fighting to maintain Earth’s hold upon South Jupiter until reinf
 
 One of Crane’s twelve posts they did indeed take. A strange sidelight on the nature of the Jovians is that after losing hundreds of thousands in the long attack on the fort, they contented themselves with razing it to the ground when they had captured it and holding the Earthmen in it prisoners. There was no massacre as had been the case on Mars. Crane, however, managed with the coming of further reinforcements to reestablish the fort.
 
-The tide was turning in the Earthmen’s favor. Every day brought in new rockets of men and supplies to Crane and the flipper-men could not face the atom-blasts and bombs forever, even with their incalculable numbers. Their attacks died away as the twelve forts grew stronger and they retired into the great forests. Any parties venturing from the forts they fell upon. It was the same situation as on Mars three years before, and Crane dealt with it in the same way. Halkett was one of his own aides now, and so too was Hall Burnham who had come on from Mars with the reinforcements.
+<a id="page54"></a>The tide was turning in the Earthmen’s favor. Every day brought in new rockets of men and supplies to Crane and the flipper-men could not face the atom-blasts and bombs forever, even with their incalculable numbers. Their attacks died away as the twelve forts grew stronger and they retired into the great forests. Any parties venturing from the forts they fell upon. It was the same situation as on Mars three years before, and Crane dealt with it in the same way. Halkett was one of his own aides now, and so too was Hall Burnham who had come on from Mars with the reinforcements.
 
 Crane held his hand until he had strengthened his twelve posts beyond danger of attack, then established at gradual intervals no less than ninety more posts in a network around South Jupiter. He was going to proceed on Weathering’s Martian plan, subjugating the planet section by section, except that Crane was operating only in South Jupiter and leaving the northern half of the great planet quite untouched. Patiently he established and strengthened his hundred-odd posts.
 
@@ -992,8 +1131,9 @@ When his network of strong forts around South Jupiter was complete, Crane went a
 
 Yet in section after section the divisions of Crane’s mobile forces, Halkett and Burnham among their commanders, crashed through the steamy fern forests with atom-blasts and drove the Jovians slowly but resistlessly until they were hemmed in and brought to action. There were fights of terrific fury in the green twilight of the huge damp forests, for few of the Jovians surrendered, the great majority fighting with immovable resolution until the atom-blasts and bombs slew them.
 
-Crane’s grip upon South Jupiter tightened with each section subjugated by the superhuman endeavors of his m£n. He flashed word to the Interplanetary Council that his plan was following schedule. He was conquering sections in such a way as to cut off from each other by subjugated territories, the larger Jovian masses. Then in the midst of this tremendous task occurred an astonishing incident, one that made earth first incredulous and then wrathful. Halkett became a traitor.
+Crane’s grip upon South Jupiter tightened with each section subjugated by the superhuman endeavors of his m£n. He flashed word to the Interplanetary Council <a id="page55"></a>that his plan was following schedule. He was conquering sections in such a way as to cut off from each other by subjugated territories, the larger Jovian masses. Then in the midst of this tremendous task occurred an astonishing incident, one that made earth first incredulous and then wrathful. Halkett became a traitor.
 
+.space
 The first reports of Halkett’s treachery that got back to earth were confused and contradictory. Later ones stated that Captain Halkett was under guard in one of the South Jupiter posts. He had been the cause of the hard-fought subjugation campaign in one of the sections failing, and of a large Jovian force escaping. That was all that was known certainly at first.
 
 Then came details. Three forces under Halkett and Burnham and an officer named James had been operating against the Jovians in that section. Halkett commanded a heavy atom-blast battery and Burnham and James had been driving the Jovian forces toward it. For a score of the short Jovian days and nights the men of Burnham and James had pushed the Jovians in the desired direction, toiling against the relentless gravitation’s drag, through the endless fern forests they had to cut through and against the weird beasts they dislodged from those forests. They had without question done their part against the Jovians.
@@ -1006,11 +1146,11 @@ Crane told Halkett that in the guardhouse on South Jupiter, and told him much mo
 
 “Don’t worry about it, Crane,” said Halkett steadily. “I did as I wanted and I’m willing to take my medicine.”
 
-“But why did you do it?” Crane demanded for the hundredth time. “Halkett, if you’ll only plead that you didn’t know the Jovians were coming through—that it was some kind of blunder—”
+<a id="page56"></a>“But why did you do it?” Crane demanded for the hundredth time. “Halkett, if you’ll only plead that you didn’t know the Jovians were coming through—that it was some kind of blunder—”
 
 Hall Burnham seconded him. “A blunder on your part would lose you your commission but you’d escape a sentence,” he told Halkett. “Surely it was partly that, at least.”
 
-Halkett shook his head. “It wasn’t. I can’t explain just what it was, why I did it—but if you’d have seen those Jovians coming through the forest there, weary, terrorized, hunted onward for days yet somehow unre-sentful—I couldn’t turn the atom-blasts loose on them!”
+Halkett shook his head. “It wasn’t. I can’t explain just what it was, why I did it—but if you’d have seen those Jovians coming through the forest there, weary, terrorized, hunted onward for days yet somehow unre-sentful—I *couldn’t* turn the atom-blasts loose on them!”
 
 Crane made a gesture. “Halkett, I understand what you felt but even so you shouldn’t have done it. I’d go back with you to Earth for the trial but I can’t leave here now.”
 
@@ -1022,7 +1162,7 @@ When Halkett reached Earth after that strange voyage from Jupiter, the heads of 
 
 Popular indignation at Halkett ran high, and many cries for his summary execution were being voiced. People contrasted the gallant struggles of Crane and the rest to hold South Jupiter for humanity with this treachery on the part of a trusted officer. Halkett might have been lynched if he had been less well guarded.
 
-Inside the great building Halkett stood up and heard his conduct judged. The officers who heard the case gave him a fair trial. His counsel argued ably concerning Halkett’s previous gallant record, the possibility of temporary aberrations and the like. Halkett might have escaped but for his own testimony a little later.
+Inside the great building Halkett stood up and heard his conduct judged. The officers who heard the case gave him a fair trial. His counsel argued ably <a id="page57"></a>concerning Halkett’s previous gallant record, the possibility of temporary aberrations and the like. Halkett might have escaped but for his own testimony a little later.
 
 “I was quite in command of all my faculties when I ordered the atom-batteries not to fire,” he said quietly.
 
@@ -1042,29 +1182,30 @@ That outburst removed any chance of Halkett’s acquittal. The presiding officer
 
 Halkett took the verdict without any show of emotion and was led back to his cell. Burnham, who had come in from Jupiter in time for the trial’s end, went to see him before he was taken to the military prison. Halkett shook hands with him in silence—the two had nothing to say.
 
-With Halkett in prison the world’s wrath was appeased. His name was stricken off all the records of the Council’s Army. Burnham went back to Jupiter. Halkett spent his days in the shops of the military prison, helping manufacture atom-blasts and bombs, and other, army supplies. He stood imprisonment quietly.
+With Halkett in prison the world’s wrath was appeased. His name was stricken off all the records of the Council’s Army. Burnham went back to Jupiter. Halkett spent his days in the shops of the military prison, <a id="page58"></a>helping manufacture atom-blasts and bombs, and other, army supplies. He stood imprisonment quietly.
 
-Crane had moved heaven and earth to get Halkett acquitted but had found his influence useless. Bumham came back and told him how Halkett had taken the verdict. For a long time these two sat silent, perhaps thinking of three thrilled youngsters in technical school who ' had followed Gillen’s flight and rushed to join Drake.
+Crane had moved heaven and earth to get Halkett acquitted but had found his influence useless. Burnham came back and told him how Halkett had taken the verdict. For a long time these two sat silent, perhaps thinking of three thrilled youngsters in technical school who ' had followed Gillen’s flight and rushed to join Drake.
 
 Crane went grimly on with the business of subduing South Jupiter. In the excited activity of that campaign the world forgot Halkett quickly. Crane’s plan was I working with the precision of a machine, section after section of the great planet being subjugated. Over all South Jupiter those Jovians not yet attacked were moving up into the planet’s northern half as yet unvisited by the Earthmen’s forces.
 
 In four earth years South Jupiter was under Earth control. It was gripped tightly by Crane’s system of forts, most of its forests had been destroyed by atom-blasts, and as towns grew slowly around the forts great grain-planting projects were getting under way. There were some reservations of Jovians, but the greater part of the Jovians not slain during the subjugation were in North Jupiter. There the fem forests still stretched untouched from the equator to the northern pole, the same as when Gillen first had seen them. But now Crane was looking north toward them.
 
-Jimmy Crane was now General James Crane, thirty-one years old and with gray showing at his temples from nine years of strenuous campaigning on Mars and Jupiter. He had been back to Earth twice from Jupiter, once with Bumham who was now a colonel, and both times had tried to see Halkett but had been prevented by strict regulations. Halkett had for four years now worked quietly on in the prison shops making atom-blasts, bombs and rocket parts.
+Jimmy Crane was now General James Crane, thirty-one years old and with gray showing at his temples from nine years of strenuous campaigning on Mars and Jupiter. He had been back to Earth twice from Jupiter, once with Burnham who was now a colonel, and both times had tried to see Halkett but had been prevented by strict regulations. Halkett had for four years now worked quietly on in the prison shops making atom-blasts, bombs and rocket parts.
 
-Crane and the Council laid plans for the subjugation of North Jupiter. It was to be done peacefully if possible—the Jovians were to be offered great fem forest reservations and other inducements. But peacefully or not, the planet had to come under control. Crane, who knew the Jovians, began assembling forces on South Jupiter, even as he sent Burnham into North Jupiter to offer the Jovians the Government’s terms.
+Crane and the Council laid plans for the subjugation of North Jupiter. It was to be done peacefully if possible—the Jovians were to be offered great fem forest reservations and other inducements. But peacefully or not, the planet had to come under control. Crane, who knew the Jovians, began assembling forces on South <a id="page59"></a>Jupiter, even as he sent Burnham into North Jupiter to offer the Jovians the Government’s terms.
 
 Burnham failed absolutely, as Crane and almost everyone else had expected, to win the Jovians to peaceful settlement. The flipper-men had no faith at all in the Earthmen’s promises, and no desire to live on reservations. Crane flashed word of that to the Council, which authorized him to proceed by force. A great preparation began on earth and on South Jupiter.
 
 In the midst of his preparations Crane learned that Halkett had been released, his sentence halved for good behavior. He tried to locate Halkett'through agents but no one knew where Halkett had gone on leaving prison. Crane was doing the work of two men in the great preparations for the North Jupiter campaign, and could not for the time institute any search for his former comrade.
 
-Chapter IV THE RENEGADE
+## Chapter IV<br />THE RENEGADE
 
+.space
 Rocket fleets arrived ceaselessly, pouring men and materials into South Jupiter from Earth and Mars. The recruiting offices on earth were working night and day. Crane took the men they sent and mixed them with his veterans, drilled them, trained them in Jovian fighting, made disciplined armies of them. He concentrated men and materials at the equatorial posts.
 
 For Crane was going to follow a different plan in North Jupiter. Instead of establishing a network of posts as on Mars and South Jupiter, he was going to encircle Jupiter with a thin band of earth forces and then push that band northward toward the pole. His circle, Crane saw,* would grow smaller and stronger the farther north it pushed, and would drive the Jovians in North Jupiter onward until those not slain were hemmed in in the warm north polar region.
 
-It took two years of preparation before Crane deemed his forces sufficient. Neither he nor Burnham had in that time heard anything of Halkett, nor had any one else. Burnham thought that Halkett must be dead. But both had other things enough to think of when Crane began the long-planned campaign. With his forces encircling the equator of the planet, he ordered an advance. The band around the planet began to crawl north.
+It took two years of preparation before Crane deemed his forces sufficient. Neither he nor Burnham had in that time heard anything of Halkett, nor had any one else. Burnham thought that Halkett must be dead. But both had other things enough to think of when Crane began the long-planned campaign. With his <a id="page60"></a>forces encircling the equator of the planet, he ordered an advance. The band around the planet began to crawl north.
 
 Fighting with the flipper-men began in days. The Jo-vians by that time knew better than to charge atom-blasts or expose themselves to the barrage of atomic bombs. They tried a kind of guerrilla fighting which was not ineffective in the dense fern forests. But Crane’s forces simply blasted the forests out of the way as they advanced, and the Jovians had either to flee or be slain.
 
@@ -1074,9 +1215,7 @@ Then came to Earth surprising news of a check to Crane’s advance. His band had
 
 Earth was aflame instantly with apprehensive excitement. Until then it had taken Crane’s final success as certain—the Council had even granted future concessions to the North Jupiter territories. How had the primitive Jovians come to use the atomic weapons? From Crane, who had hastily halted the advance of his circle, came the answer. The Jovians were being led by a renegade Earthman who for the past two years had been training them in the production and use of the atom-blasts and bombs. And this renegade was Mart Halk-ett!
 
-Halkett had been recognized unmistakably by some of Crane’s officers during the attack on the Jovian works, had been seen directing the Jovian defense.
-
-Halkett! The man who seven years before had played the traitor and who now had become renegade, leading the flipper-men against his own race! It was evident that on his release from prison Halkett had got to South Jupiter in some rocket and then had made his way into North Jupiter and used his technical skill and prison factory experience to set the Jovians making atom-blasts and atomic bombs and digging defenses for the coming struggle.
+Halkett had been recognized unmistakably by some of Crane’s officers during the attack on the Jovian works, had been seen directing the Jovian defense. <a id="page61"></a>Halkett! The man who seven years before had played the traitor and who now had become renegade, leading the flipper-men against his own race! It was evident that on his release from prison Halkett had got to South Jupiter in some rocket and then had made his way into North Jupiter and used his technical skill and prison factory experience to set the Jovians making atom-blasts and atomic bombs and digging defenses for the coming struggle.
 
 Halkett became immediately the supreme malefactor to the Earth peoples. On Earth and on Mars and on South Jupiter men flamed with rage at his name. A thousand deaths were advocated for Halkett if ever he were captured. Crane and Burnham and the rest of the Council Army’s men appeared even greater in heroism against the black background of this renegade’s treachery. A fierce desire to crush the Jovians and execute Halkett swept Earthmen everywhere.
 
@@ -1090,7 +1229,7 @@ Crane read the message. He and Burnham had been stunned by the news about Halket
 
 Yet by the time the Council’s message reached him, even Crane was convinced that Halkett was the renegade Jovian leader. He called his officers. “We will begin the advance again tomorrow,” he said grimly. “Radio all headquarters to make ready.”
 
-The advance started again, this time not calmly as before but in deadly earnest. The band of Earth forces crawled forward until it met again the line of Jovian defenses. Crane had flung all his forces forward in that attack against Halkett’s line, and the battle was terrific. But this time the Earthmen were attacking, and the Jovi-ans fighting from cover.
+The advance started again, this time not calmly as before but in deadly earnest. The band of Earth forces crawled forward until it met again the line of Jovian <a id="page62"></a>defenses. Crane had flung all his forces forward in that attack against Halkett’s line, and the battle was terrific. But this time the Earthmen were attacking, and the Jovi-ans fighting from cover.
 
 The Jovian atom-blasts and bombs, though comparatively few in number and inefficiently handled, yet did terrific execution among the advancing Earthmen. Halkett’s line held all around the planet though the Earth-men attacked like mad beings. Crane at last gave the order to withdraw. Earth was appalled by the casualty lists that were sent home. But though Crane was checked he was not stopped.
 
@@ -1100,7 +1239,7 @@ Halkett fought fiercely to hold that line. His communications were poor though i
 
 Soon Halkett was forced to withdraw the Jovians to the next of these hastily prepared defense lines. Crane made no attempt to pursue the Jovians but spread his forces again into a band and advanced northward, destroying forests and mopping up stray groups of Jovians. When his band reached Halkett’s new line Crane did not attack but began again his strategy of punching at the line.
 
-The battle-lines on the Jupiter globes by which Earth’s people followed the struggle crept steadily northward toward the pole in the following year. Ever Halkett’s Jovians were forced to retreat to new defenses and ever after them came Crane and Burnham and the hosts of the Council’s Army, contracting upon them in a steadily diminishing circle. They would ultimately press the Jovians together near the pole and Halkett fought to prevent that.
+The battle-lines on the Jupiter globes by which Earth’s people followed the struggle crept steadily northward toward the pole in the following year. Ever Halkett’s Jovians were forced to retreat to new defenses and ever after them came Crane and Burnham and the hosts <a id="page63"></a>of the Council’s Army, contracting upon them in a steadily diminishing circle. They would ultimately press the Jovians together near the pole and Halkett fought to prevent that.
 
 It was in some ways a strange situation. The three inseparable friends of boyhood and youth become men and fighting the war of races there on North Jupiter, one of them renegade to an alien race and the other two advancing always with their forces on him. No one could accuse Crane of letting his former friendship affect him, in the face of his grim determination. He pushed Halkett’s fine unrelentingly northward.
 
@@ -1108,7 +1247,7 @@ And as Halkett’s line, the defenses of the Jovians, reached the warm polar reg
 
 It was the retreat of a race—the weary hosts of the Jovians ever backing northward through the steamy fern forests that had been theirs for untold time, throwing up new dirtworks and digging new trenches always at Halkett’s command, using every sort of ambush device Halkett could think of to hold back the Earthmen. The fern forests resounded with the roar of atom-blasts and crash of atom bombs, strange things flopping this way and that in the green depths to escape the battle, the Jovians all round the planet fighting bitterly now for existence.
 
-And ever after them Crane’s men, the metal-armored hosts of Earthmen struggling against every obstacle of heat and gravitation and illness. For days they would toil through the giant ferns without meeting resistance and then would come upon the new line Halkett had massed the Jovians upon. And then again the blasts would be roaring in death from Jovians and Earthmen as the Earthmen attacked. And ever despite their desperate resistance the Jovians were pushed back northward, toward the pole.
+And ever after them Crane’s men, the metal-armored hosts of Earthmen struggling against every obstacle of heat and gravitation and illness. For days they would toil through the giant ferns without meeting resistance and then would come upon the new line Halkett had massed the Jovians upon. And then again the blasts would be roaring in death from Jovians and Earthmen as the Earthmen attacked. And ever despite their <a id="page64"></a>desperate resistance the Jovians were pushed back northward, toward the pole.
 
 Reconnoitering rockets brought word to Crane that Halkett had established a refugee camp near the pole that held several millions of the Jovians arid that he was collecting atom-blasts and bombs there and digging works around it. Crane sought to cut this base out of Halkett’s circle but Halkett saw the maneuver and occupied the place with most of his remaining forces. To do so he had to abandon his circular line of defense except for some smaller bases. So at last the circle of Halkett’s line around North Jupiter-was gone, and the Jovians held only those fortified bases.
 
@@ -1118,17 +1257,19 @@ Crane surprised Burnham and his officers by stating he would treat with Halkett 
 
 He sent in a messenger summoning Halkett to surrender and avoid further bloodshed, promising the Jovians would be sent to reservations and pointing out the futility of resistance.
 
-Halkett’s reply was calm. “There will be no surrender unless the Jovians are given their rights as natives and owners of this planet. Nothing the Jovians endure now can be worse than what they’ve already gone through.” Crane read the answer to Burnham, his bronzed lined face set. “Halkett and the Jovians mean it,” he said. “They’ll resist to the last and we’ll have to attack.” Burnham leaned to him. “Crane, tell me,” he said, “are you trying to save the Jovians in there or Halkett?” Crane looked at him, heartsickness on his face.
+Halkett’s reply was calm. “There will be no surrender unless the Jovians are given their rights as natives and owners of this planet. Nothing the Jovians endure now can be worse than what they’ve already gone through.”
 
-“Bum, it’s not Halkett. Better for him if he died in an attack rather than to be taken back to Earth and executed. But those Jovians—I’m tired of killing them.”
+Crane read the answer to Burnham, his bronzed lined face set. “Halkett and the Jovians mean it,” he said. “They’ll resist to the last and we’ll have to attack.”
+
+Burnham leaned to him. “Crane, tell me,” he said, “are you trying to save the Jovians in there or Halkett?”
+
+Crane looked at him, heartsickness on his face. <a id="page65"></a>“Burn, it’s not Halkett. Better for him if he died in an attack rather than to be taken back to Earth and executed. But those Jovians—I’m tired of killing them.”
 
 Burnham nodded thoughtfully. “But what are you going to do? Order the attack tomorrow? The men are impatient to start it.”
 
 Crane thought, then surprised him. “Burn, you and I are going in to see Halkett and try to get him to take these terms. He won’t come out but we can go in safely enough.”
 
-“But the Council	” Burnham began. Crane
-
-waved him impatiently aside. “I’m conducting this campaign and not the Council. I say we’re going in.”
+“But the Council——” Burnham began. Crane waved him impatiently aside. “I’m conducting this campaign and not the Council. I say we’re going in.”
 
 He sent a message through the works to Halkett, and Halkett replied that he would be glad to confer with General Crane and Colonel Burnham regarding terms, but anticipated no change of mind. Crane ordered all hostilities suspended and at sunset he and Burnham went with two Jovians and a white flag toward the Jovian defenses. The misty red sun was sinking behind the horizon, so distant from the huge planet, when they reached the Jovian works.
 
@@ -1136,19 +1277,17 @@ The two flipper-men blindfolded them before taking them through the dirtworks an
 
 As they followed their guides Crane saw for himself the battered Jovian forces he had pushed north for so long, with their crudely made atom-blasts and bombs, many standing guard round the inner works. Here and there in the enclosure were large dumps of atomic bombs, protected by shelters. Near one of these was a small hut toward which the two Jovians led them.
 
-Halkett and three Jovians came out of the hut as
+Halkett and three Jovians came out of the hut as <a id="page66"></a>Crane and Burnham approached. Halkett and his aides waited for them and the two Earthmen went on toward them, with the slow laborious steps against the gravity-drag that were second nature to Earthmen on Jupiter now. It was a strange meeting. The three had not met together since they had parted on South Jupiter eight years before.
 
-Crane and Burnham approached. Halkett and his aides waited for them and the two Earthmen went on toward them, with the slow laborious steps against the gravity-drag that were second nature to Earthmen on Jupiter now. It was a strange meeting. The three had not met together since they had parted on South Jupiter eight years before.
-
-Halkett wore an old suit of the metal bodystrengthening armor and had a bandage round his lower left arm. His face was bronzed, and was lined and worn looking, but his eyes were calm. He was a contrast to Crane and Burnham, trim in their metal body-protection with on it the insignia of the Council Army that Halkett once had worn.
+Halkett wore an old suit of the metal body-strengthening armor and had a bandage round his lower left arm. His face was bronzed, and was lined and worn looking, but his eyes were calm. He was a contrast to Crane and Burnham, trim in their metal body-protection with on it the insignia of the Council Army that Halkett once had worn.
 
 Halkett did not offer to shake hands with them, but waited. Crane’s first words were confused and stiffly formal. He mentioned the terms.
 
-“We can’t accept them,” Halkett told him calmly. “We’ve fought against them from the first and these Jo-vians would rather die than go to your Jovian reservations.”
+“We can’t accept them,” Halkett told him calmly. “We’ve fought against them from the first and these Jovians would rather die than go to your Jovian reservations.”
 
 “But what else can you do?” asked Crane. “You know as well as I do that I’ve enough forces to take this place and that we’ll do it if you don’t give in.”
 
-“I know,” said Halkett, “but the Jovians wouldn’t do it if I told them to, and I’m not going to tell them. Besides, I’ve a way out for these Joyians.”
+“I know,” said Halkett, “but the Jovians wouldn’t do it if I told them to, and I’m not going to tell them. Besides, I’ve a way out for these Jovians.”
 
 “A way out?” Burnham said. “There’s no way out with your works completely surrounded.”
 
@@ -1158,7 +1297,7 @@ One of the Jovians beside Halkett said something to him in his odd bass voice. H
 
 “Do a few more Jovians killed now make any difference?” Halkett asked. “After all those killed on South and North Jupiter?”
 
-He looked beyond them, thoughtful. “I wonder if Gillen foresaw any of this that’s happened on Mars and Jupiter when he made his flight? What would Gillen think, I wonder, if he came back and saw all this that he started?”
+He looked beyond them, thoughtful. “I wonder if Gillen foresaw any of this that’s happened on Mars and Jupiter when he made his flight? What would Gillen <a id="page67"></a>think, I wonder, if he came back and saw all this that he started?”
 
 They were silent for a little while. The short Jovian day was over and with the sunset’s fading, twilight was upon them. Callisto and Io were at the zenith and Ganymede was climbing eastward, the three moons shedding a pale light over the great enclosure. Dimly they disclosed the masses of dark flipper-forms about Crane and Burnham and Halkett.
 
@@ -1176,7 +1315,7 @@ Crane’s restraint broke momentarily. “Halkett, why did you do it? Why did yo
 
 Halkett smiled, grasped Crane’s hand then. “Jimmy!” he said. “You and Burn and I, back with Drake’s expedition, three kids—you remember? But we can’t change things now, and none of us are to blame, perhaps no one at all is really to blame, for what’s happened.”
 
-Jimmy Crane with an effort became General James Crane. “Goodbye, Halkett,” he said. “I’m sorry you can’t accept the terms. Come on, Burnham.”
+<a id="page68"></a>Jimmy Crane with an effort became General James Crane. “Goodbye, Halkett,” he said. “I’m sorry you can’t accept the terms. Come on, Burnham.”
 
 Burnham tried to speak, his face working, but Halkett only smiled and shook his hand. He turned and went with Crane and the two Jovian guides, to the inner edge of the enclosure’s defenses.
 
@@ -1190,7 +1329,7 @@ The Jovians beat back the attack. Crane concentrated forces in an attack on the 
 
 Dawn was breaking after the brief night as Crane ordered the third attack, one from all sides again with the heaviest forces on the western side. This time Halkett could not concentrate his forces to hold the western breach. The ground heaved with the roar of bombs and blasts as the earthmen struggled in with high-pitched yells and with hand blasts spitting.
 
-They poured into the breach despite the mad resistance of the remaining Jovian fighters, while on the eastern side the Earth hosts also were penetrating the Jovian works. Then, as Crane and Burnham watched from the camp outside, they saw with the rising of the sun the sudden end.
+They poured into the breach despite the mad resistance of the remaining Jovian fighters, while on the eastern side the Earth hosts also were penetrating the Jovian works. Then, as Crane and Burnham watched <a id="page69"></a>from the camp outside, they saw with the rising of the sun the sudden end.
 
 The whole interior of the great circular Jovian enclosure went skyward in a terrific series of explosions that wiped out not only all of Halkett’s Jovian followers and massed refugees but most of the Jovians and many of the Earthmen fighting in the surrounding works. There was left only a huge crater.
 
@@ -1198,21 +1337,26 @@ The whole interior of the great circular Jovian enclosure went skyward in a terr
 
 Crane nodded, his face strange. “Yes, a blast and in Halkett’s hand. He set them off to wipe out his Jovians rather than see them sent to the reservations.”
 
-“My God!” Burnham cried. “That was Halkett’s way out for the Jovians, then	old Halkett	”
+“My God!” Burnham cried. “That was Halkett’s way out for the Jovians, then——old Halkett——”
 
 Crane looked stonily at him. “Didn’t you see that that was what he meant all the time to do? Give orders to round up those last Jovians in the works and bring them in.
 
-“Then send this message back to Earth. ‘Last Jovian base taken and renegade Jovian leader Halkett dead. Jupiter under complete control. Accept my resignation from Council Army. Crane.’ ”
+“Then send this message back to Earth. ‘Last Jovian base taken and renegade Jovian leader Halkett dead. Jupiter under complete control. Accept my resignation from Council Army. Crane.’”
 
-The Island of Unreason
+---
 
-The director of city 72, North American Division 16, looked up enquiringly from his desk at his assistant.
+the_island_of_unreason
+
+# The Island of Unreason
+
+.fl
+<span class="smallcaps">The director of</span> city 72, North American Division 16, looked up enquiringly from his desk at his assistant.
 
 “The next case is Allan Mann, Serial Number 2473R6,” said the First Assistant Director. “The charge is breach of reason.”
 
-“The prisoner is ready?” asked the Director, and when his subordinate nodded he ordered, “Send him
+“The prisoner is ready?” asked the Director, and when his subordinate nodded he ordered, “Send him in.”
 
-The First Assistant Director went out and re-entered in a moment, followed by two guards who had the prisoner between them. He was a young man dressed in the regulation sleeveless white shirt and white shorts, with the blue square of the Mechanical Department on his shoulder.
+<a id="page70"></a>The First Assistant Director went out and re-entered in a moment, followed by two guards who had the prisoner between them. He was a young man dressed in the regulation sleeveless white shirt and white shorts, with the blue square of the Mechanical Department on his shoulder.
 
 He looked a little uncertainly around the big office, at the keyboards of the big calculating and predicting machines, at the televisor disks through which could be seen cities half around the world, and at the broad windows that looked out across the huge cubical metal buildings of City 72.
 
@@ -1230,9 +1374,9 @@ The young man flushed. “No, sir, I have not. I wish only to say that I realize
 
 The Director laid down the sheet and bent earnestly forward. “You are right, Allan Mann, it was unreasonable of you. It was a breach of reason and as such, it was a blow at the very foundation of our modem world-civilization!”
 
-He raised a lean finger in emphasis. “What is it, Allan Mann, that has built up the present world-state out of a mass of warring nations? What has eliminated con-fiict, fear, poverty, hardship from the world? What but reason?
+He raised a lean finger in emphasis. “What is it, Allan Mann, that has built up the present world-state out of a mass of warring nations? What has eliminated <a id="page71"></a>conflict, fear, poverty, hardship from the world? What but reason?
 
-“Reason has raised man from the beast-like level he formerly occupied to his present status. Why, in the old days of unreason the very ground on which this city now stands was occupied by a city called New York where men struggled and strove with each other blindly and without cooperation and with infinite waste and toil. •
+“Reason has raised man from the beast-like level he formerly occupied to his present status. Why, in the old days of unreason the very ground on which this city now stands was occupied by a city called New York where men struggled and strove with each other blindly and without cooperation and with infinite waste and toil.
 
 “All that has been changed by reason. The old emotions which twisted and warped men’s minds have been overruled and we listen now only to the calm dictates of reason. Reason has brought us up from the barbarism of the twentieth century and to commit a breach of reason has become a serious crime. For it is a crime that aims directly at the demolition of our world-order.”
 
@@ -1246,13 +1390,11 @@ Beneath the Director’s calm statement, Allan Mann wilted. “I realize that th
 
 The Director considered him. “You are not the first one to commit a breach of reason, Allan Mann. In the past more than one person has let irrational emotions sway him. These atavistic returns to unreason are becoming rarer, but they still occur.
 
-“Long ago we devised a plan for the correction of these unreasonables, as we call them. We do not punish them, of course, for to inflict punishment on anyone for wrong-doing would be itself unreasonable. We try instead to cure them. We send them to what we call the Island of Unreason.
+“Long ago we devised a plan for the correction of these *unreasonables*, as we call them. We do not punish them, of course, for to inflict punishment on anyone for wrong-doing would be itself unreasonable. We try instead to cure them. We send them to what we call the Island of Unreason.
 
-“That is a small island a few hundred miles out at sea from this coast. There are taken all the unreasonables and there they are left. There is no form of government on the island and only unreasonables live there. They are not given any of the comforts of life which human reason has devised but instead must live there as best they may in primitive fashion.
+“That is a small island a few hundred miles out at sea from this coast. There are taken all the unreasonables and there they are left. There is no form of government <a id="page72"></a>on the island and only unreasonables live there. They are not given any of the comforts of life which human reason has devised but instead must live there as best they may in primitive fashion.
 
-“If they fight or attack each other, it is nothing to us.
-
-If they steal from each other, we care not. For living like that, in a place where there is no rule of reason, they soon come to see what society would be like without reason. They see and never forget and most of them when their sentence is finished and they are brought j back are only too glad for the rest of their lives to live ] in reasonable fashion. Though a few incorrigible unrea- I sonables must stay on the island all their lives.	]
+“If they fight or attack each other, it is nothing to us. If they steal from each other, we care not. For living like that, in a place where there is no rule of reason, they soon come to see what society would be like without reason. They see and never forget and most of them when their sentence is finished and they are brought j back are only too glad for the rest of their lives to live ] in reasonable fashion. Though a few incorrigible unrea- I sonables must stay on the island all their lives.	]
 
 “It is to this island that all guilty of breach of reason must be sent. And so as provided by law, I must sentence you to go there.”
 
@@ -1266,9 +1408,10 @@ Allan Mann was silent, then spoke in subdued voice. “No, sir, it is but reason
 
 The Director smiled. “I am glad to see that you are already recovering. When your sentence has expired I hope to see you completely cured.”
 
+.space
 The guard-flier split the air like a slim metal torpedo as it hurtled eastward over the gray ocean. Long minutes before the coastline had faded from sight behind, and now beneath the noonday sun there extended to the horizons only the gray wastes of the empty ocean.
 
-Allan Mann regarded it from the flier’s window with deepening dismay. Reared in the great cities like every other member of civilized humanity, he had an inborn dislike of this solitude. He sought to evade it temporarily by conversing with the two guards who, with a pilot, were the flier’s other occupants. But Allan found that they disliked to talk much to unreasonables.
+Allan Mann regarded it from the flier’s window with deepening dismay. Reared in the great cities like every other member of civilized humanity, he had an inborn dislike of this solitude. He sought to evade it <a id="page73"></a>temporarily by conversing with the two guards who, with a pilot, were the flier’s other occupants. But Allan found that they disliked to talk much to unreasonables.
 
 “It’ll be in sight in a few minutes,” one of them said in answer to his question. “Soon enough for you, I guess.”
 
@@ -1280,7 +1423,7 @@ Allan Mann regarded it from the flier’s window with deepening dismay. Reared i
 
 “No place but what you find for yourself,” said the guard unsympathetically. “Some of the unreasonables do have a kind of village of huts but some of them just run wild.”
 
-“But even those must sleep and eat somewhere,” insisted Allan with all the firm faith of his kind in the omnipresence of bed and food and hygienic amusements provided by a paternal government.
+“But even those must sleep and eat *somewhere*,” insisted Allan with all the firm faith of his kind in the omnipresence of bed and food and hygienic amusements provided by a paternal government.
 
 “They sleep in the best places they can find, I suppose,” said the guard. “They eat fruits and berries and kill small animals and eat them—”
 
@@ -1294,7 +1437,7 @@ To Allan Mann it looked savage, wild, forbidding.
 
 He could see smoke rising in several thin curls from the island’s western end but this evidence of man’s presence repelled rather than reassured him. Those smokes came from crude fires where men were perhaps scorching and eating the flesh of lately-living things—
 
-The guard-flier dipped lower, shot along the beach and came to rest with its vertical air-jets spuming up sand.
+<a id="page74"></a>The guard-flier dipped lower, shot along the beach and came to rest with its vertical air-jets spuming up sand.
 
 “Out with you,” said the chief guard as he opened the door. “Can stay here but a moment.”
 
@@ -1306,15 +1449,13 @@ Allan Mann, stepping down onto the hot sand, clung ] to the flier’s door as a 
 
 “They do, and with pleasure,” said the guard. “Better get off this beach before you’re seen. Remember, you’re not living with reasonable people now!”
 
-With the slam of its door the guard-flier’s jets roared and it shot upward. Allan Mann watched stupefiedly as it rose, circled in the sunshine like a gleaming gull, and then headed back westward. Sickly, he watched it vanish, westward toward the land where people were rea- ] sonable and life went safely and smoothly without the dangers that threatened him here.
+With the slam of its door the guard-flier’s jets roared and it shot upward. Allan Mann watched stupefiedly as it rose, circled in the sunshine like a gleaming gull, and then headed back westward. Sickly, he watched it vanish, westward toward the land where people were reasonable and life went safely and smoothly without the dangers that threatened him here.
 
-With a start Allan Mann realized that he was increas- ; ing his danger by remaining out on the open beach where he might easily be seen by anyone in the woods, j He could not yet conceive why any of the unreasonables might want to kill him but he feared the worst. Allan Mann started on a run up the beach toward the woods.
+With a start Allan Mann realized that he was increasing his danger by remaining out on the open beach where he might easily be seen by anyone in the woods. He could not yet conceive why any of the unreasonables might want to kill him but he feared the worst. Allan Mann started on a run up the beach toward the woods.
 
 His feet slipped in the hot sands and though Allan was physically perfect like all other citizens of the modern world, he found progress difficult. Each moment he expected to see a horde of yelling unreasonables appear along the beach. He quite forgot that he was a condemned unreasonable himself, and saw himself as a lone representative of civilization marooned on this savage island.
 
-He reached the woods and plumped down behind a bush, panting for breath and looking this way and that. The forest was very hot and silent, a place of green
-
-gloom pillared by bars of golden sunlight that struck down through chinks in the leafy canopy above. Allan heard birds chittering around him.
+He reached the woods and plumped down behind a bush, panting for breath and looking this way and that. The forest was very hot and silent, a place of green <a id="page75"></a>gloom pillared by bars of golden sunlight that struck down through chinks in the leafy canopy above. Allan heard birds chittering around him.
 
 He considered his predicament. He must live on this island for an unguessable length of time. It might be a month, a year, even many years. He saw now how true was the fact that the prisoner’s ignorance of his sentence’s length made it all the more felt. Why, he might, as the guard had said, have to spend all his life on the island!
 
@@ -1324,17 +1465,17 @@ Cautiously Allan Mann got to his feet and looked about. The green forest seemed 
 
 Allan Mann had gone but a dozen fearful steps when he stopped short, whirled. Through the brush someone was crashing toward him.
 
-His panic-stricken mind had not the time to think of • flight before the running figure emerged from the brush beside him, then at sight of him recoiled.
+His panic-stricken mind had not the time to think of flight before the running figure emerged from the brush beside him, then at sight of him recoiled.
 
 It was a girl clad in a stained, ragged tunic. Her limbs showed brown below its tattered hem, her black hair was cut very short, and as she threw herself back from him in alarm a short spear in her right hand flashed up ready to dart toward him.
 
-Had he made a move toward her the spear would have been driven at him; but he stood as quivering and startled as she. Gradually as they confronted each other,
-
-the fact that he was harmless became 'apparent to the girl and some of the terror left her eyes.
+Had he made a move toward her the spear would have been driven at him; but he stood as quivering and startled as she. Gradually as they confronted each other, <a id="page76"></a>the fact that he was harmless became apparent to the girl and some of the terror left her eyes.
 
 Yet with her gaze still upon him she backed cautiously away until just behind her were some dense bushes. With a quick escape thus assured her, she surveyed him.
 
-“You’re new?” she said. “I saw the flier come.” “New?” said Allan mystified.
+“You’re new?” she said. “I saw the flier come.”
+
+“New?” said Allan mystified.
 
 “New to the island, I mean,” she said quickly. “They just left you, didn’t they?”
 
@@ -1344,14 +1485,17 @@ Allan nodded. He was still trembling slightly. “Yes, they just left me. It was
 
 At this heretical description of the executives of the reasonable world, Allan Mann stared. “Why shouldn’t they send them?” he demanded. “It’s only fair they should correct unreasonables.”
 
-Her bright black eyes widened. “You don’t talk like an unreasonable,” she accused.
+Her bright black eyes widened. “*You* don’t talk like an unreasonable,” she accused.
 
-“I should hope not,” he returned. “I committed a breach of reason but I realize it and I’m sorry I did it.” “Oh,” she said, and seemed disappointed. “What’s your name? Mine’s Lita.”
+“I should hope not,” he returned. “I committed a breach of reason but I realize it and I’m sorry I did it.”
+
+“Oh,” she said, and seemed disappointed. “What’s your name? Mine’s Lita.”
 
 “Mine is Allan Maim. My serial number—” He stopped.
 
-Chapter II FIRST STRUGGLES
+## Chapter II<br />FIRST STRUGGLES
 
+.space
 A bird had called loudly back in the woods and the sound had seemed to recall something to the girl and bring fear back into her eyes.
 
 “We’d better get out of here,” she said quickly. “Hara will be along here after me—he was chasing me.”
@@ -1360,17 +1504,17 @@ A bird had called loudly back in the woods and the sound had seemed to recall so
 
 “Hara’s boss of the island—he’s a lifer they just brought a few weeks ago but he’s beaten all the strongest men here.”
 
-“You mean that they fight here to see who is to be the leader?” Allan asked incredulously. Lita nodded.
+<a id="page77"></a>“You mean that they *fight* here to see who is to be the leader?” Allan asked incredulously. Lita nodded.
 
-“Of course they do. This isn’t back in civilization where the best mind ranks highest, you know. And I lara’s after me.”
+“Of course they do. This isn’t back in civilization where the best mind ranks highest, you know. And Hara’s after me.”
 
 “He wants to kill you?”
 
-“Of course not! He wants me for his woman and I won’t consent. I never will, either.” The black eyes Hashed.
+“Of course not! He wants me for his woman and I won’t consent. I never will, either.” The black eyes flashed.
 
 Allan Mann felt that he had strayed into some mystifying new world. “His woman?” he said with knitted brows.
 
-Lita nodded impatiently. “When people here mate (here’s no Eugenic Board to assign them to each other so they simply fight for mates.
+Lita nodded impatiently. “When people here mate there’s no Eugenic Board to assign them to each other so they simply fight for mates.
 
 “Hara has been after me and I won’t have him. He got angry today and said he’d make me but I fled the village and when he and some of the others started after me I was—listen!”
 
@@ -1384,7 +1528,7 @@ Branches tore at his shorts and briars pricked his legs savagely as they forced 
 
 His muscles were in the pink of condition but he now found that running from danger through a forest was oddly different from running beneath the sunlamps of one of the great city gymnasiums. There was a tightness across his chest, a cold at his spine, as he heard the hoarse voices behind.
 
-Lita looked back, her face white through its brown, as she and Allan ran. Allan Mann told himself that there was no reason why he should follow this girl into trouble. Before he could formulate the thought further they emerged into a small clearing just as from one side of it there crashed another man.
+Lita looked back, her face white through its brown, as she and Allan ran. Allan Mann told himself that there was no reason why he should follow this girl into trouble. Before he could formulate the thought further <a id="page78"></a>they emerged into a small clearing just as from one side of it there crashed another man.
 
 A bull-like roar of triumph went up and Allan Mann saw that the man was a barrel-bodied, stocky individual with flaming red hair on his head and chest, his hard face alight. He grasped Lita’s arm as the girl swiftly shrank back beside Allan.
 
@@ -1410,11 +1554,9 @@ They rushed in to the brush. Soon they heard the calling voices become suddenly 
 
 “That was brain-work,” said Allan Mann exultantly. “He won’t come to for an hour.”
 
-Lita looked scornfully at him. “That wasn’t fair fighting,” she accused.	—
+Lita looked scornfully at him. “That wasn’t fair fighting,” she accused.
 
-Allan Mann was aghast. “Fair fighting?” he re-
-
-peated. “But surely when you wanted to get away from him—you didn’t expect me to fight him with my fists—”
+Allan Mann was aghast. “Fair fighting?” he <a id="page79"></a>repeated. “But surely when you wanted to get away from him—you didn’t expect me to fight him with my fists—”
 
 “It wasn’t fair,” she repeated. “You hit him when he wasn’t looking and that’s cowardly.”
 
@@ -1446,7 +1588,7 @@ At that thought Allan’s blood ran cold. He could picture the big Hara in bull-
 
 “Which way?” he asked in a whisper.
 
-She nodded toward the island’s center. “The woods in there will be best. We’!! have to avoid the village.”
+<a id="page80"></a>She nodded toward the island’s center. “The woods in there will be best. We’!! have to avoid the village.”
 
 They started through the woods. Lita went first, her spear ready at all times. Allan followed, and after a few minutes he picked up a heavy section of hard wood that would make an effective club at need. He held the weapon awkwardly as they went on.
 
@@ -1460,9 +1602,7 @@ The girl ran and picked it up, turned and held up the furry thing with her face 
 
 When they reached a tiny gully deep in the woods, Lita stopped. The sun was sinking and already darkness was invading the forest. They would spend the night there, Lita told him, and she began construction of two tiny branch-shelters.
 
-Under her orders Allan tore branches from the trees and stacked them. More than once she had to correct
-
-him and he felt ridiculously incompetent. When they had finished, before them stood two fairly tight little huts. Allan, looking at these shelters that had been brought out of nothing, for the first time felt a certain respect for the girl.
+Under her orders Allan tore branches from the trees and stacked them. More than once she had to correct <a id="page81"></a>him and he felt ridiculously incompetent. When they had finished, before them stood two fairly tight little huts. Allan, looking at these shelters that had been brought out of nothing, for the first time felt a certain respect for the girl.
 
 He watched her, as slowly with stone and steel she took from a pouch at her belt, she constructed a fire. He found the business of eliciting and nursing the sparks intensely engrossing. Soon she had a tiny little blaze, too small to show smoke above the darkening woods or to be seen for far.
 
@@ -1484,10 +1624,9 @@ It was too dark for him to look for berries. He sat watching the girl eat. The s
 
 “Go ahead, eat it,” Lita told him, handing him one of the roasted bits. “No matter how bad it is, it’s only reasonable to eat anything that will keep you living, isn’t it?”
 
-Chapter III
+## Chapter III<br />A WORLD OF TURMOIL
 
-A WORLD OF TURMOIL
-
+.space
 Allan’s face cleared and he nodded troubledly. It certainly was only reasonable to eat what was at hand in necessity. “I don’t think I can do it, though,” he said, eyeing the browned bit.
 
 He bit gingerly into it. At the thought that he had in his mouth the flesh of another once-living creature, his stomach almost revolted. But with an effort he swallowed the bit.
@@ -1496,7 +1635,7 @@ It was hot and did not seem unpleasant. There were certain juices—quite unlike
 
 From behind her lashes with a secret smile Lita watched him eat another piece and then another of the rabbit. His jaws ached with the unaccustomed labor of chewing but his stomach sent up messages of gladness. He did not stop until all of the rabbit was gone and then he went back to some of the bones he had already discarded and polished them off more thoroughly.
 
-He looked up at last, greasy of hands, to meet Lita’s enigmatic expression. Allan flushed. ,
+He looked up at last, greasy of hands, to meet Lita’s enigmatic expression. Allan flushed.
 
 “It was only reasonable to eat all of it, since it had to be eaten,” he defended.
 
@@ -1510,9 +1649,7 @@ For a time Allan Mann lay awake in the darkness on the branch-bed she had built.
 
 He could not but contrast it with his neat bed back in the dormitory that was his home in City 72. How long would it be before he was again in it, he wondered. How long—
 
-Allan sat up, rubbing his eyes, to find bright sunlight filtering through the interstices of his leafy shelter. He
-
-had slept on the branches after all, and soundly. Yet he felt stiff and sore as he got to his feet and went out.
+Allan sat up, rubbing his eyes, to find bright sunlight filtering through the interstices of his leafy shelter. He <a id="page83"></a>had slept on the branches after all, and soundly. Yet he felt stiff and sore as he got to his feet and went out.
 
 It was still early morning though the sunlight was bright. The other hut was empty and Lita was not anywhere in sight.
 
@@ -1538,9 +1675,7 @@ They heard no sign of pursuit and relaxed their cautiousness of progress a littl
 
 One of them had flung his club to stun Allan. The other now rushed forward with bludgeon upraised to do what his companion had failed to do. There was no possible chance to flee or to use strategy and with the blind desperate terror of a cornered animal Allan Mann struck wildly out with his own club at the onrushing attacker.
 
-He knocked the club spinning from the other’s hand by his first wild blow. He heard Lita cry out but he was now gone amuck with terror, was showering crazy blows upon his opponent. Then Allan became suddenly
-
-aware that the other was no longer standing before him but lay stunned at his feet. The second man was running to pick up his club.
+He knocked the club spinning from the other’s hand by his first wild blow. He heard Lita cry out but he was now gone amuck with terror, was showering crazy blows upon his opponent. Then Allan became suddenly <a id="page84"></a>aware that the other was no longer standing before him but lay stunned at his feet. The second man was running to pick up his club.
 
 Lita’s spear flashed at the running man and missed. But as the man bent for his weapon Allan swung his club in a mighty blow.
 
@@ -1566,7 +1701,7 @@ He and the girl stumbled down still another wooded slope and emerged suddenly on
 
 “They’ve driven us clear to the eastern end of the island!” Allan cried. “We can’t go any further and we can’t hope to slip back through them!”
 
-Lita halted, seemed to make sudden decision. “Yes, you can get back through them!” she told him. “Til stay out here on the beach and they’ll rush out toward me when they see me. It’ll give you a chance to get back through the woods!”
+Lita halted, seemed to make sudden decision. “Yes, you can get back through them!” she told him. “I’ll <a id="page85"></a>stay out here on the beach and they’ll rush out toward me when they see me. It’ll give you a chance to get back through the woods!”
 
 “But I can’t go like that and leave you here for Hara to capture!” said Allan in dismay.
 
@@ -1586,7 +1721,7 @@ A big form crashed through the brush close beside the hiding Allan and a triumph
 
 The red-haired giant spun about, released the girl and as Allan swung in a mad blow struck out with his own club, shattering Allan’s weapon with stunning force and knocking him back onto the sand.
 
-“So it’s you!” gritted Hara. He dropped his own club, clenched his huge fists. “All right, get up and take what’s coming to you this time!”
+“So it’s you!” gritted Hara. He dropped his own <a id="page86"></a>club, clenched his huge fists. “All right, get up and take what’s coming to you this time!”
 
 Allan felt as though some resistless outside force was bringing him to his feet and hurling him toward Hara.
 
@@ -1608,13 +1743,13 @@ Allan felt his strength fast running away, hunched himself and then drove forwar
 
 Then Allan was conscious of the bright sand of the beach running up to meet his face. There were men yelling and Lita’s voice crying something.
 
-He was aware of Lita’s arms supporting him, her hands wiping something from his face—her hands—
+<a id="page87"></a>He was aware of Lita’s arms supporting him, her hands wiping something from his face—her hands—
 
 Her hands became suddenly big and rough. He opened his eyes and it was not Lita at all but a white-clad guard who stood over him.
 
 Allan stared beyond him and saw not beach and sea but the metal-walled interior of a small flier. He could see the back of a pilot sitting in the nose of the craft and could hear the roar of air outside.
 
-“Conscious at last, eh?” said the guard. “You’ve been out for half an horn:.”
+“Conscious at last, eh?” said the guard. “You’ve been out for half an hour.”
 
 “But where—how—” Allan struggled to say.
 
@@ -1636,7 +1771,7 @@ Allan Mann did not answer nor did he speak again until their destination was rea
 
 The Director looked at his bruised face and smiled. “Well, it seems that even one day on the island has taught you what it is to live without reason,” he said.
 
-“Yes, it’s taught me that,” Allan answered.
+<a id="page88"></a>“Yes, it’s taught me that,” Allan answered.
 
 “I am glad of that,” the Director told him. “You realize now that my only motive in sending you there was to cure you of unreasonable tendencies.”
 
@@ -1672,7 +1807,7 @@ They met and somehow Allan found it natural to be holding her in the curve of hi
 
 “You a lifer?” Rapidly he told her what he had done.
 
-“I didn’t want to stay back there. I like it better here!” he finished.
+<a id="page89"></a>“I didn’t want to stay back there. I like it better here!” he finished.
 
 “So you’re back, are you?” It was Hara’s bull-voice that sounded close beside them and Allan spun with a snarl on his lips.
 
@@ -1682,7 +1817,7 @@ Allan stared dazedly. “But you surely don’t like me because I did that? It�
 
 A chorus of laughs from the men and women gathered around cut him short. “Remember that you’re living on the Island of Unreason, lad!” cried Hara.
 
-“But Lita?” exclaimed Allan. “You can’t have her— you—”
+“But Lita?” exclaimed Allan. “You can’t have her—you—”
 
 “Calm yourself,” advised Hara with a grin. He beckoned and a pert blond girl came out of the others to him. “Look what was left by a flier while you were gone, and with a life-sentence too. I forgot all about Lita when I saw her, didn’t I, darling?”
 
@@ -1698,9 +1833,14 @@ Allan Mann turned to the girl in his arm, a great new idea dawning across his br
 
 “Some day—” Allan murmured.
 
-Thundering Worlds
+---
 
-Standing with Hurg of Venus at the window, I pointed up at a number of dark, long shapes sinking out of the gray sky. “There come our fellow Council-members,” I said.
+thundering_worlds
+
+# <a id="page90"></a>Thundering Worlds
+
+.fl
+<span class="smallcaps">Standing with Hurg</span> of Venus at the window, I pointed up at a number of dark, long shapes sinking out of the gray sky. “There come our fellow Council-members,” I said.
 
 Hurg nodded. “Yes, Lonnat—that first ship looks like that of Tolarg of Pluto, and the next two are those of Murdat of Uranus and Zintnor of Mars.”
 
@@ -1712,9 +1852,7 @@ He lapsed into thoughtful silence and I too was silent with my thoughts as we ga
 
 We were gazing across the city of dome-shaped metal buildings that completely covered the planet Mercury. Many flyers, torpedo-shaped craft propelled by atomic blasts, swarmed over the city, rising from or descending into the heat-locks at the tops of the buildings. In the snow-sheathed streets between the buildings no people at all were to be seen. Long ago Mercury had grown too cold for life in the open.
 
-Mercury cold? Mercury, the innermost of the sun’s nine planets, that had once been heated to furnace-temperatures by the blazing sun? That had been many ages before, though, when the sun was hot and yellow and in the full tide of its middle-life. It was not such a sun that
-
-hung in the gray heavens over Mercury now. No, the sun above us was a huge sullen blood-red disk, a darkening crimson sun which gave forth little heat and light. It was a sun that was dying!
+Mercury cold? Mercury, the innermost of the sun’s nine planets, that had once been heated to furnace-temperatures by the blazing sun? That had been many ages before, though, when the sun was hot and yellow and in the full tide of its middle-life. It was not such a sun that <a id="page91"></a>hung in the gray heavens over Mercury now. No, the sun above us was a huge sullen blood-red disk, a darkening crimson sun which gave forth little heat and light. It was a sun that was dying!
 
 Yes, our sun was dying! It no longer cast out a flood of heat and light on its nine planets, and the others were even icier and colder than this one of Mercury. Long ago in the past, men had journeyed out from the planet of their origin, the world Earth, to the sun’s other worlds. They had colonized all the nine planets from Mercury to Pluto, until each held a great human population. Their interplanetary ships filled the ways between the worlds, and the whole system was ruled by a Council of Nine in which each member represented the planet of which he was the head.
 
@@ -1722,7 +1860,7 @@ This stable civilization of man in the solar system had lasted for ages upon age
 
 The Council of Nine considered this situation. Julud of Saturn, ranking member of the Council and as such its chairman, called on the scientists of the solar system to suggest a way to save humanity. Many plans were proposed, and finally one plan, a stupendous one, was put forward as the one way by which humanity’s continued life could be assured. It was verified in every detail by the scientists. Now we of the Council were going to vote on whether or not the plan should be followed, and I, Lonnat of Mercury, meant to cast my world’s vote in favor of it. So did my friend Hurg of Venus and most of the other members, but one or two of the nine were doubtful.
 
-Hurg was looking up now at the enormous dull-red sun that swung overhead. In the gray sky around it shone the bright points of the nearer stars, now visible by day.
+Hurg was looking up now at the enormous dull-red sun that swung overhead. In the gray sky around it <a id="page92"></a>shone the bright points of the nearer stars, now visible by day.
 
 “We’ve got the one real answer to that dying sun,” I said, “if all the Council’s members will see it!”
 
@@ -1746,13 +1884,13 @@ Zintnor of Mars and Wald of Jupiter had joined us, and the big Wald shook his he
 
 “Why not risk it?” Zintnor asked him curtly. “All of us will be risking our planets too.”
 
-“Yes, but as representative of the largest planet	”
+“Yes, but as representative of the largest planet——”
 
 Wald was saying ponderously, when Hurg nudged me.
 
 “Here comes your friend, Lonnat—Tolarg of Pluto.”
 
-Tolarg strode into our group almost insolently, with Murdat of Uranus and Noll of Neptune by his side. He saw me, and his black eyes and saturnine face became mocking in expression.
+Tolarg strode into our group almost insolently, with Murdat of Uranus and Noll of Neptune by his side. He <a id="page93"></a>saw me, and his black eyes and saturnine face became mocking in expression.
 
 “Well, Lonnat,” he greeted me, “here we all are on your toy planet Mercury once more, though it seems hardly big enough to hold all nine of us.”
 
@@ -1772,7 +1910,7 @@ Julud of Saturn faced us from the dais of the chairman, a sheaf of papers in his
 
 “Our sun is dying. Our nine worlds’ peoples are menaced by awful and increasing cold, and unless something is done soon their inhabitants will perish. We can not hope to revive our dying sun. Its doom is already close at hand. But out in space there lie other suns, other stars, many of them young and hot with life. If our nine worlds revolved around one of those hotter, younger suns, we could look forward to new ages of life for our race.
 
-“It has been proposed, therefore, that we cause our nine worlds to leave our dying sun and voyage across space to one of those other suns! That our nine planets be torn loose from our sun and steered out into space like nine great ships in quest of a new sun among the countless suns of the universe! That we carry out a colossal migration of worlds through the vast interstellar spaces!
+“It has been proposed, therefore, that we cause our nine worlds to leave our dying sun and voyage across <a id="page94"></a>space to one of those other suns! That our nine planets be torn loose from our sun and steered out into space like nine great ships in quest of a new sun among the countless suns of the universe! That we carry out a colossal migration of worlds through the vast interstellar spaces!
 
 “This stupendous plan to voyage out from our sun into space on our nine worlds has a sound scientific basis. Our worlds can be propelled in space under their own power just as our space-ships are. Our ships, as you know, are moved through the void by atom-blasts that fire backward and thus by their reaction hurl the ship forward. It is possible to apply this principle on a vast scale to our planets, to fit our worlds with colossal atom-blasts which will fire backward with unthinkable power and push our worlds forward in space!
 
@@ -1782,7 +1920,7 @@ Julud of Saturn faced us from the dais of the chairman, a sheaf of papers in his
 
 “If Nugat proved satisfactory as a sun for our worlds, they would be guided into orbits around it. If it was not satisfactory they would go on to the next nearest suns, to Antol or Mithak or Walaz or Vira or others. They would voyage on through the starry spaces until they found a sun satisfactory to them, and when they found it they would halt there and become planets of that sun!
 
-“During the voyage through sunless space our worlds would receive no heat or light, of course. But during that time our peoples could live in their dome-cities by means of artificial heat and light. And though in the intense cold of space our worlds’ atmospheres would freeze, preparation to assure an artificial air-supply could be made. There would be hardships during the great voyage, but it should not prove disastrous.
+“During the voyage through sunless space our worlds would receive no heat or light, of course. But during that time our peoples could live in their dome-cities by means of artificial heat and light. And though in the intense cold of space our worlds’ atmospheres <a id="page95"></a>would freeze, preparation to assure an artificial air-supply could be made. There would be hardships during the great voyage, but it should not prove disastrous.
 
 “This is the plan on which we are to vote today. Every detail of it has been checked many times by the scientists of our worlds and pronounced practicable. If we decide in favor of it, work will begin at once on the fitting of our worlds with the propulsion-blasts. If we decide against it another plan will have to be found. Do any of you wish to be enlightened further on any detail of it before we make our decision?”
 
@@ -1802,7 +1940,7 @@ Tolarg of Pluto rose. “Why take this little worldlet of Mercury along with us?
 
 “Lonnat is right!” Hurg of Venus seconded me. “Mercury had cities on it when Pluto was just a ball of ice!”
 
-“That will do,” Julud said peremptorily to us. “To-larg, your suggestion is out of order. Neither Mercury nor any other world will be left behind when and if we start.”
+“That will do,” Julud said peremptorily to us. <a id="page96"></a>“Tolarg, your suggestion is out of order. Neither Mercury nor any other world will be left behind when and if we start.”
 
 “But what about Jupiter?” Wald asked anxiously. “It is all very well for you to move your worlds, but Jupiter is bigger than all of them and will be a different matter. It’ll be more risky.”
 
@@ -1818,91 +1956,47 @@ With the words Julud of Saturn raised his right hand, showing himself voting in 
 
 Murdat of Uranus had his hand up now to record his world for the plan, and there remained only Tolarg of Pluto and Wald of Jupiter. And Tolarg was calmly raising his hand—only Wald was left now!
 
-We waited tensely. One vote would defeat the plan, and from the first Jupiter had been strongest against it. Then a roar ripped from us as at last Wald slowly, gravely, raised his hand. Shouting, we were on our feet.
+We waited tensely. One vote would defeat the plan, <a id="page97"></a>and from the first Jupiter had been strongest against it. Then a roar ripped from us as at last Wald slowly, gravely, raised his hand. Shouting, we were on our feet.
 
 Julud bent forward solemnly. “We have decided,” he said, “and now we have staked man and man’s nine worlds irrevocably on the issue. As soon as we can make ready, then, our planets will start out into space on their mighty voyage in quest of a new sun!”
 
-2
+## 2
 
+.space
 Tolarg of Pluto was visible in one section of my televisor screen, speaking from the control-tower on Pluto. “All ready,” the Plutonian reported. “In five minutes we start.”
 
-Julud’s anxious face appeared on another section of Ihe screen. “You will be certain to start at the calculated moment, Tolarg? It is vital that our worlds move out in the calculated order.”
+Julud’s anxious face appeared on another section of the screen. “You will be certain to start at the calculated moment, Tolarg? It is vital that our worlds move out in the calculated order.”
 
-“Do not fear,” Tolarg answered confidently. Then he must have caught sight of me in a section of his own screen, for he waved mockingly to me. “Farewell, Lon-nat. Don’t forget to bring your baby planet after the rest of us.”
+“Do not fear,” Tolarg answered confidently. Then he must have caught sight of me in a section of his own screen, for he waved mockingly to me. “Farewell, Lonnat. Don’t forget to bring your baby planet after the rest of us.”
 
 He laughed and those around him laughed. I wanted to make a retort into the televisor, but restrained myself.
 
 I stood in the circular, many-windowed, room at the top of the Mercury control-tower. On each planet had been built a tower in which were concentrated the controls of the atom-blasts that would propel that planet through space. And now each one of us nine of the Council, from Tolarg out on Pluto to me here on Mercury, were ready with our scientist-assistants in our control-towers, since the time had come for the start of our planets into space.
 
-Around me in the room were the banks of shining levers that controlled Mercury’s propulsion-blasts. Also in the room were the myriad instruments necessary to guide our world in its flight through space, the great telescopic and spectroscopic instruments and other astronomical equipment. Also there was a great televisor whose screen was divided into eight sections, each one of which gave me vision into the control-tower of one of the other planets.
+Around me in the room were the banks of shining levers that controlled Mercury’s propulsion-blasts. Also in the room were the myriad instruments necessary to guide our world in its flight through space, the great telescopic and spectroscopic instruments and other astronomical equipment. Also there was a great televisor <a id="page98"></a>whose screen was divided into eight sections, each one of which gave me vision into the control-tower of one of the other planets.
 
-In the various sections of it I could see Tolarg in the Pluto control-tower, his assistants standing at the con- ' trols ready to start the planet; Noll and Murdat in the towers of Neptune and Uranus, ready to follow with ] their worlds; Julud anxiously waiting for Tolarg’s start;  <1> Wald of Jupiter waiting with troubled brow for his  <2> mighty world’s take-off; Zintnor of Mars and Runnal of i Earth impatiently watching from their planets’ towers; and Hurg smiling at me from the control-tower on Venus. By this means we could communicate freely with one another during our worlds’ flight, as well as using our ships to go from one world to another in mid-flight.
+In the various sections of it I could see Tolarg in the Pluto control-tower, his assistants standing at the controls ready to start the planet; Noll and Murdat in the towers of Neptune and Uranus, ready to follow with their worlds; Julud anxiously waiting for Tolarg’s start; Wald of Jupiter waiting with troubled brow for his mighty world’s take-off; Zintnor of Mars and Runnal of Earth impatiently watching from their planets’ towers; and Hurg smiling at me from the control-tower on Venus. By this means we could communicate freely with one another during our worlds’ flight, as well as using our ships to go from one world to another in mid-flight.
 
-	<1> looked from the televisor to the time-dial beside it, which almost indicated the prearranged time at which Pluto was to start. In the televisor I could see Hurg and all the others watching intently.
+In the Pluto tower, Tolarg was watching the time-dial. In minutes more Pluto would hurtle out into the void away from the sun, starting the great migration of our nine worlds. A tenseness was upon us all as we watched for the moment, a tenseness born of the suspense of the past months of preparations. For the months that had passed since we of the Council of Nine had voted to follow the great plan, had been ones of feverish preparation.
 
-Then one of the scientists in the Pluto control-tower spoke a single word to Tolarg, at the controls. “Time!”
+Every world had to be fitted with the huge atom-blasts that would propel it in space, and also had to be made ready so that its people could live during the voyage through the sunless void. The greatest labor had been the fitting of the atom-blasts. This was a task so titanic that only by devoting almost all the energies of our planets’ peoples to it were we able to complete it in so short a time.
 
-Tolarg rapidly depressed six levers, and the tower on Pluto quivered violently. “We’re off!” he exclaimed.
-
-I turned quickly to one of the telescopes in my own tower, gazed through it at Pluto. The planet was a little brown ball out there at the solar system’s edge. And now from that little ball tiny jets of fire seemed darting backward in steady succession. They were the great atom-blasts of Pluto, firing regularly backward. And as they fired, the little planet was beginning slowly to leave its accustomed orbit and move away from the sun, out
-
-
-
-	<2> looked from the televisor to the time-dial beside it, which almost indicated the prearranged time at which Pluto was to start. In the televisor I could see Hurg and all the others watching intently.
-
-Then one of the scientists in the Pluto control-tower spoke a single word to Tolarg, at the controls. “Time!”
-
-Tolarg rapidly depressed six levers, and the tower on Pluto quivered violently. “We’re off!” he exclaimed.
-
-I turned quickly to one of the telescopes in my own tower, gazed through it at Pluto. The planet was a little brown ball out there at the solar system’s edge. And now from that little ball tiny jets of fire seemed darting backward in steady succession. They were the great atom-blasts of Pluto, firing regularly backward. And as they fired, the little planet was beginning slowly to leave its accustomed orbit and move away from the sun, out
-
-
-
-In the Pluto tower, Tolarg was watching the time-dial. In minutes more Pluto would hurtle out into the void away from the sun, starting the great migration of our nine worlds. A tenseness was upon us all as we watched for the moment, a tenseness bom of the suspense of the past months of preparations. For the months that had passed since we of the Council of Nine  <3> had voted to follow the great plan, had been ones of | feverish preparation.
-
-	<3> looked from the televisor to the time-dial beside it, which almost indicated the prearranged time at which Pluto was to start. In the televisor I could see Hurg and all the others watching intently.
-
-Then one of the scientists in the Pluto control-tower spoke a single word to Tolarg, at the controls. “Time!”
-
-Tolarg rapidly depressed six levers, and the tower on Pluto quivered violently. “We’re off!” he exclaimed.
-
-I turned quickly to one of the telescopes in my own tower, gazed through it at Pluto. The planet was a little brown ball out there at the solar system’s edge. And now from that little ball tiny jets of fire seemed darting backward in steady succession. They were the great atom-blasts of Pluto, firing regularly backward. And as they fired, the little planet was beginning slowly to leave its accustomed orbit and move away from the sun, out
-
-
-
-Every world had to be fitted with the huge atom-blasts that would propel it in space, and also had to be j made ready so that its people could live during the voy- | age through the sunless void. The greatest labor had been the fitting'of the atom-blasts. This was a task so j titanic that only by devoting almost all the energies of  <4> our planets’ peoples to it were we able to complete it in j so short a time.
-
-	<4> looked from the televisor to the time-dial beside it, which almost indicated the prearranged time at which Pluto was to start. In the televisor I could see Hurg and all the others watching intently.
-
-Then one of the scientists in the Pluto control-tower spoke a single word to Tolarg, at the controls. “Time!”
-
-Tolarg rapidly depressed six levers, and the tower on Pluto quivered violently. “We’re off!” he exclaimed.
-
-I turned quickly to one of the telescopes in my own tower, gazed through it at Pluto. The planet was a little brown ball out there at the solar system’s edge. And now from that little ball tiny jets of fire seemed darting backward in steady succession. They were the great atom-blasts of Pluto, firing regularly backward. And as they fired, the little planet was beginning slowly to leave its accustomed orbit and move away from the sun, out
-
-
-
-Huge pits miles across and many miles deep were j sunk in each planet at three points around its equator. These pits were metal-lined and thus were in fact stupendous tubes sunk in the planet. At the bottom of i them was the apparatus for exploding the matter there, blowing its atoms into streams of electrons and protons that shot out of the huge tubes with inconceivable force. This tremendous force would be enough to propel the planet in the opposite direction. By using the suitable
-
-one of the three huge blasts, the world could be propelled in any desired course.
+Huge pits miles across and many miles deep were sunk in each planet at three points around its equator. These pits were metal-lined and thus were in fact stupendous tubes sunk in the planet. At the bottom of them was the apparatus for exploding the matter there, blowing its atoms into streams of electrons and protons that shot out of the huge tubes with inconceivable force. This tremendous force would be enough to propel the planet in the opposite direction. By using the suitable <a id="page99"></a>one of the three huge blasts, the world could be propelled in any desired course.
 
 It was necessary, of course, that each planet should have its propulsion-blasts controlled from a single spot. So the control-towers had been built, one on each of the nine worlds, and fitted with all necessary aids for the navigation of our worlds on their tremendous voyage. Each one of us was to have charge of his planet’s guidance, with a corps of scientists to assist him and relieve him at the controls and chart the path to be followed through space.
 
 Besides these preparations it was needful to make the nine worlds ready so that their peoples could exist during the voyage. This was a simpler task, for though it would be terribly cold and dark on the worlds once we had launched out from our sun, our peoples were already more or less used to cold and absence of light. In their cities of heated domes they could exist, and arrangements had been made to supply air to the buildings, as it was foreseen that the cold would be so intense that our worlds’ atmospheres would freeze.
 
-So now all these preparations were finished and the great moment had come when Pluto, first of our nine planets, was to start forth on this awful voyage.  <5>
+So now all these preparations were finished and the great moment had come when Pluto, first of our nine planets, was to start forth on this awful voyage.
 
-	<5> looked from the televisor to the time-dial beside it, which almost indicated the prearranged time at which Pluto was to start. In the televisor I could see Hurg and all the others watching intently.
+.space
+I looked from the televisor to the time-dial beside it, which almost indicated the prearranged time at which Pluto was to start. In the televisor I could see Hurg and all the others watching intently.
 
 Then one of the scientists in the Pluto control-tower spoke a single word to Tolarg, at the controls. “Time!”
 
 Tolarg rapidly depressed six levers, and the tower on Pluto quivered violently. “We’re off!” he exclaimed.
 
-I turned quickly to one of the telescopes in my own tower, gazed through it at Pluto. The planet was a little brown ball out there at the solar system’s edge. And now from that little ball tiny jets of fire seemed darting backward in steady succession. They were the great atom-blasts of Pluto, firing regularly backward. And as they fired, the little planet was beginning slowly to leave its accustomed orbit and move away from the sun, out
-
-
-
-into the great void where burned the hosts of distant stars.
+I turned quickly to one of the telescopes in my own tower, gazed through it at Pluto. The planet was a little brown ball out there at the solar system’s edge. And now from that little ball tiny jets of fire seemed darting backward in steady succession. They were the great atom-blasts of Pluto, firing regularly backward. And as they fired, the little planet was beginning slowly to leave its accustomed orbit and move away from the sun, out <a id="page100"></a>into the great void where burned the hosts of distant stars.
 
 I was awed despite myself. There was something so tremendous about this starting out of the planet into space under its own power. Watching in the telescope I could see it moving farther and farther off its orbit, booming out into the infinite with every atom-blast at its rear firing as Tolarg calmly steered it on. And far out there in space shone the yellow star that was to be our first goal, the yellow sun Nugat. Faster and faster Pluto was moving toward it and was already well out from our sun and its other eight worlds.
 
@@ -1918,7 +2012,7 @@ When the moment had come, I saw the little fire-jets shooting back from Neptune�
 
 This was a relief to all of us, especially to those of us whose planets had moons, for there had been a little doubt as to whether the satellites would follow their worlds. But Triton clung to Neptune as it launched outward after Pluto. And now Pluto and Neptune, one behind the other, were moving out toward the distant yellow star of Nugat.
 
-It was Uranus’ turn next. Murdat waited until Pluto and Neptune were even farther out before he started his planet after them. Uranus was a splendid sight as it started, a pale-green planet with a family of four moons that continued to circle it steadily as it moved away. Murdat headed his world directly after Neptune, so that the chain of two worlds had by now become one of three.
+It was Uranus’ turn next. Murdat waited until Pluto and Neptune were even farther out before he started his planet after them. Uranus was a splendid sight as it started, a pale-green planet with a family of four moons that continued to circle it steadily as it moved away. Murdat headed his world directly after Neptune, so that <a id="page101"></a>the chain of two worlds had by now become one of three.
 
 Then it was the turn of Saturn, the planet of our chairman Julud. It had been necessary to fit the huge atom-blasts on Saturn in special positions because of that planet’s vast rings. Now when Julud drove his planet out after the other three, double-blasts of fire shot back from it. Only slowly did this, the second largest of the sun’s worlds, get under way. Saturn was a magnificent sight as with its encircling rings and ten thronging moons it thundered out after Pluto and Neptune and Uranus.
 
@@ -1928,7 +2022,8 @@ We watched tensely as Wald started his giant world. Terrific streams of fire sho
 
 The blasts continued to fire, time after time, until Jupiter was moving out at a speed equal to the other four worlds that had started, and following them in space. We all breathed more easily at that. For the four planets that were left were comparatively small and there should be no trouble in getting them under way now that the huger outer planets had started.
 
-Zintnor’s world, Mars, was next. The fiery Martian chafed impatiently until it was time to start, and then his red world and its two tiny moons shot outward with tremendous speed as he opened his back-blasts with all their power. The little red ball of Mars sped out into space after Jupiter’s mighty white globe, looking like a belated satellite trying tc\ catch up with its parent-planet, a comparison that would have aroused Zintnor’s wrath.
+.space
+Zintnor’s world, Mars, was next. The fiery Martian chafed impatiently until it was time to start, and then his red world and its two tiny moons shot outward with tremendous speed as he opened his back-blasts with all their power. The little red ball of Mars sped out into space after Jupiter’s mighty white globe, looking like a <a id="page102"></a>belated satellite trying to catch up with its parent-planet, a comparison that would have aroused Zintnor’s wrath.
 
 Pluto, Neptune, Uranus, Saturn, Jupiter and Mars under way—and Earth next. Already Runnal of Earth was starting his planet after the others. And now, as his world and its single moon started out after Mars and the others, something tightened in the throats of all of us who watched; something strange that we felt at seeing Earth leaving the Sun.
 
@@ -1946,18 +2041,19 @@ In the telescope then I saw the great back-blasts of fire from Hurg’s cloudy p
 
 And now Mercury alone was left of all the sun’s worlds. Little Mercury, held close to the dying sun as though it were loth to let this, the last of its children, leave it. As I walked to the great bank of control-levers, ready to send my planet out after the others, I felt strangely lonely, oppressed.
 
-I held the levers in my hand as the time-dial’s hands crept onward. About me my assistants were ready at other levers and instruments. The awful responsibility of my position, the power that was mine to guide a whole world through space at will, weighed upon me. With an effort I remained calm. Then as the time-dial indicated the moment, I threw down the levers.
+I held the levers in my hand as the time-dial’s hands crept onward. About me my assistants were ready at <a id="page103"></a>other levers and instruments. The awful responsibility of my position, the power that was mine to guide a whole world through space at will, weighed upon me. With an effort I remained calm. Then as the time-dial indicated the moment, I threw down the levers.
 
 Instantly the control-tower, the whole planet, was shaken by a shuddering convulsion and there came to our ears the tremendous roar of the atom-blasts firing hack from our world. The starry heavens seemed to jerk and quiver as Mercury lurched forward under the impetus of the back-blasts. And as it moved faster I threw down other levers, fired the side-blasts that drove us outward from our orbit. Tensely I watched, firing blast after blast as I guided Mercury out after the chain of other worlds.
 
 Mercury lurched and swayed as I steered the planet outward. Ahead moved the column of the eight other planets, eight mighty worlds thundering through the void toward the distant yellow star, with Pluto leading and the other worlds with their families of moons solemnly following. And as Mercury moved after them with increasing speed, the light faded on its surface and its atmosphere began to freeze and fall in great flakes. I looked back at the sun we were leaving.
 
-There it spun, the crimson sun, old, waning, dying. Planetless now, the nine worlds that long ago had been bom from it leaving it. And as Mercury left it last of all, the significance of it struck home to my heart. We were leaving the sun where mankind and its world had come into existence, the sun that for millions of generations had been the sun, the sun beneath which man had grown great.
+There it spun, the crimson sun, old, waning, dying. Planetless now, the nine worlds that long ago had been bom from it leaving it. And as Mercury left it last of all, the significance of it struck home to my heart. We were leaving the sun where mankind and its world had come into existence, the sun that for millions of generations had been *the* sun, the sun beneath which man had grown great.
 
 I flung back my hand wordlessly toward that diminishing, dying star. I wanted to speak to it as though to a dying, conscious parent whom we were leaving, but I could only make that gesture. And in that gesture, as my world sped out after the other worlds into the great void with its atmosphere freezing and falling, man bade farewell to his sun for ever.
 
-3
+## <a id="page104"></a>3
 
+.space
 Julud of Saturn spoke to me from my televisor-screen. “Tolarg reports that Pluto is within ten billion miles of the sun Nugat, Lonnat!” he told me.
 
 “That’s good!” I exclaimed. “We won’t be much longer reaching it, then.”
@@ -2046,8 +2142,9 @@ But that night, though night and day were the same unchanging dusk as respects l
 
 “They must be creatures of Antol’s worlds!” Julud cried. “Creatures who have come to meet us and are attacking our first four worlds!”
 
-4
+## 4
 
+.space
 “Every ship in the last five worlds come to our aid at once!” Julud commanded. “These creatures must be repelled before they overpower us!”
 
 “Keep Mercury in its course after the other worlds,” I cried to my scientist-assistants. “I’m going ahead with our ships.”
@@ -2066,9 +2163,7 @@ As calmly as I was able, I gave orders to our craft as Mercurian, Venerian and S
 
 The battle went on. Through the windows of the darting spheres I had momentary sight now and then of the creatures attacking us, black, formless things whose bodies seemed liquid! The fight now was raging out from the surface of Saturn. We were close to Saturn’s rings, those mighty belts of whirling meteors that girdled the planet. Around and between the spinning rings and the planet’s ten thronging moons our mad battle with the invaders went on. Ships and spheres blundered into death in the rings or crashed against the moons.
 
-The scene was stupendous: the nine great worlds still thundering on in a column toward the glaring sun of
-
-Antol ahead; the creatures that had come from that sun's worlds attacking us in their spheres with the flame-disks; and we of three worlds struggling with them there amid the whirling rings and moons of Saturn, with death above and death below and the cold stars watching our mad fight.
+The scene was stupendous: the nine great worlds still thundering on in a column toward the glaring sun of Antol ahead; the creatures that had come from that sun's worlds attacking us in their spheres with the flame-disks; and we of three worlds struggling with them there amid the whirling rings and moons of Saturn, with death above and death below and the cold stars watching our mad fight.
 
 The Antolians gave back! Their spheres had been halved in number by our fierce attack and they fled abruptly in the direction of Uranus.
 
@@ -2080,6 +2175,7 @@ Now all our ships, with those of Uranus too, sped on toward Neptune and Pluto. W
 
 “Here’s our chance to show Tolarg how we of the inner planets can fight!” come Hurg’s yell from my televisor as we shot into the battle.
 
+.space
 If the battle at Saturn had been fierce, the one at Pluto was terrific. The Antolians were in far greater numbers and seemed fiercely resolved to capture at least this one planet. They had concentrated their forces there now, and the fight that followed our reaching them was of the maddest kind.
 
 Ships of every one of our nine worlds, Venerians and Mercurians and Earthmen, Jovians and Satumians, ships with the square of Uranus or the oval of Neptune or the black bar of Pluto on them, dashed against the Antolian spheres in that tremendous battle. It seemed impossible that any ship could continue to exist in the hell of flying flame-disks and dancing atom-blasts. Wrecked spheres and ships rained in ruin upon the sin-face of Pluto.
@@ -2132,8 +2228,9 @@ I looked to see the little light-flashes that would mark the destruction of its 
 
 “In the same way we moved our worlds!” I cried. “They’ve imitated us and fitted atom-blasts on their worlds—they’re following us and will dispute possession with our worlds of any sun we reach!”
 
-5
+## 5
 
+.space
 “Mithak a disappointment too, now that we’ve reached it! And the four Antolian worlds still following us! How long are our planets to continue this quest?”
 
 It was Wald of Jupiter speaking in my televisor, and I heard Murdat answer from Uranus. “We can’t go on indefinitely like this,” he said. “Our peoples can’t exist much longer on this terrible journey.”
@@ -2208,7 +2305,7 @@ We stared, our triumph frozen. In the telescopes the four Antolian planets were 
 
 “If there were only some way to stop them before they get here!” Runnal exclaimed.
 
-An idea seared across my brain. “There is a way of stopping them!” I cried. “I can stop them with my world, with Mercury!
+An idea seared across my brain. “There *is* a way of stopping them!” I cried. “I can stop them with my world, with Mercury!
 
 “Don’t you understand?” I said. “All of Mercury’s inhabitants can be transferred to other of our worlds and then I’ll take Mercury out and crash it head-on into those four oncoming worlds!”
 
@@ -2230,9 +2327,9 @@ Toward each other, booming through space with immense speed, thundered Mercury a
 
 Again the column of four planets veered as they rushed closer, seeking desperately to escape the oncoming doom. Again I swung Mercury to meet them. Then the foremost of the oncoming Antolian worlds loomed immense in the heavens before our rushing planet.
 
-“They’re going to crash!" I cried. “Up and away before they meet!”
+*“They’re going to crash!"* I cried. *“Up and away before they meet!”*
 
-“Up and away!" yelled Tolarg and Hurg as we threw ourselves from the control-tower into the ships.
+*“Up and away!"* yelled Tolarg and Hurg as we threw ourselves from the control-tower into the ships.
 
 Our ships darted up like lightning. The rushing globe of Mercury was almost to the oncoming sphere of the first Antolian world. And then as we shot away from them into space, they met!
 
@@ -2250,9 +2347,14 @@ Slowly I smiled as I grasped his hand. “And you wanted to leave it behind when
 
 Hurg shook his head, gestured widely from Vira out toward the universe’s thronging stars. “Ended for a time only. When Vira dies as our old sun died, we can go on in our worlds to another sun. Sun after sun we can hold, and man and man’s power shall not end until the universe itself has ended!”
 
-The Man Who Returned
+---
 
-John Woodford in his first moments of returning consciousness was not aware that he was lying in his coffin. He had only a dull knowledge that he lay in utter darkness and that there was a close, heavy quality in the air he breathed. He felt very weak and had only a dim curiosity as to where he was and how he had come there.
+the_man_who_returned
+
+# The Man Who Returned
+
+.fl
+<span class="smallcaps">John Woodford in</span> his first moments of returning consciousness was not aware that he was lying in his coffin. He had only a dull knowledge that he lay in utter darkness and that there was a close, heavy quality in the air he breathed. He felt very weak and had only a dim curiosity as to where he was and how he had come there.
 
 He knew that he was not lying in his bedroom at home, for the darkness there was never so complete as this. Home? That memory brought others to John Woodford’s dulled brain and he recalled his wife now, and his son. He remembered too that he had been ill at home, very ill. And that was all that he could remember.
 
@@ -2278,7 +2380,7 @@ John Woodford went temporarily mad. He screamed with fear-choked throat, and as 
 
 He yelled until his throat was too swollen to give utterance to further sound. He clawed at the top until he broke his nails against the metal behind the silk padding. He raised his head and beat against the top with it until he fell back half-stunned.
 
-He lay exhausted for moments, unable to make further efforts. In his brain marched a hideous pageant of horrors. The air seemed much closer and hotter now, seemed to bum his lungs with each breath he inhaled. With sudden return of his frenzy he shrieked and shrieked again.
+He lay exhausted for moments, unable to make further efforts. In his brain marched a hideous pageant of horrors. The air seemed much closer and hotter now, seemed to burn his lungs with each breath he inhaled. With sudden return of his frenzy he shrieked and shrieked again.
 
 This would not do. He was in a horrible situation but he must do the best he could not to give way to the horror. He had not many minutes left and he must use them in the most rational way possible to try to escape his terrible prison.
 
@@ -2300,15 +2402,13 @@ There was another grating sound, then a snap of metal fastenings breaking, and a
 
 It was minutes before he had mastered himself and summoned enough strength to stand yp. He stood inside a little vault that held no coffin but his own. Its interior was in darkness save for a dim shaft of starlight that came through a tiny window high up in one wall.
 
-John Woodford stumbled to the vault’s heavy iron
-
-doors and fumbled at their lock. He had an uncontrollable horror of this place that had almost been the scene of his perishing. The coffin there on the shelf with its lid leaning against the stone wall seemed gaping for him with its dark, cavernous mouth.
+John Woodford stumbled to the vault’s heavy iron doors and fumbled at their lock. He had an uncontrollable horror of this place that had almost been the scene of his perishing. The coffin there on the shelf with its lid leaning against the stone wall seemed gaping for him with its dark, cavernous mouth.
 
 He worked frantically at the lock. What if he were not able to escape from the vault? But the heavy lock was easily manipulated on the inside, he found. He managed to turn its tumbler and shoot its bar and then the heavy iron doors swung open. John Woodford stepped eagerly out into the night.
 
 He stopped on the vault’s threshold, closing the doors behind him and then looking forth with inexpressible emotions. The cemetery lay in the starlight before him as a dim, ghostly city of looming monuments and vaults. Little sheets of ice glinted here and there in the dim light, and the air was biting in its cold. Outside the cemetery’s low wall blinked the lights of the surrounding city.
 
-Woodford started eagerly across the cemetery, unheeding of the cold. Somewhere across the lights of the city was his home, his wife, and somewhere his son— thinking him dead, mourning him. How glad they would be when he came back to them, alive! His heart expanded as he pictured their amazement and their joy at his return.
+Woodford started eagerly across the cemetery, unheeding of the cold. Somewhere across the lights of the city was his home, his wife, and somewhere his son—thinking him dead, mourning him. How glad they would be when he came back to them, alive! His heart expanded as he pictured their amazement and their joy at his return.
 
 He came to the low stone wall of the cemetery and clambered quickly over it. It was apparently well after midnight, for the cars and pedestrians in sight in this suburban section were few.
 
@@ -2338,7 +2438,7 @@ Sight of Dawes gave Woodford an idea. He would get Dawes outside in some way and
 
 Then Curtis Dawes spoke, his words dimly audible to Woodford outside the window. “Happy, Helen?” he was asking.
 
-“So happy, dear,” she answered, turning toward him.
+“*So* happy, dear,” she answered, turning toward him.
 
 Out in the darkness Woodford stared in perplexed wonder. How could she be happy when she thought her husband dead and buried?
 
@@ -2360,7 +2460,7 @@ Woodford drew slowly back from the window. He paused in the darkness under the t
 
 So this was his homecoming from the tomb? This was the joy he had anticipated in Helen when he returned?
 
-It couldn’t be the truth! His ears had deceived him— Helen could not be the wife of Curtis Dawes! Yet part of his mind told him remorselessly that it was true.
+It couldn’t be the truth! His ears had deceived him—Helen could not be the wife of Curtis Dawes! Yet part of his mind told him remorselessly that it was true.
 
 He had always sensed that Helen’s feeling for him was not as strong as his for her. But that she had loved Dawes he had never dreamed. Yet now he remembered Dawes’ frequent visits, the odd silences between him and Helen. He remembered a thousand trifles that spoke of the love which these two had cherished for each other.	v
 
@@ -2538,9 +2638,14 @@ No, it was better like this, the darkness and the warmth and the sleep that adva
 
 been away from here at all. Everything would be just as before—just as before. And with that comforting assurance, John Woodford was swept farther and farther down the dark stream of unconsciousness from which this time there would be no returning.
 
-The Accursed Galaxy
+---
 
-A thin, tearing sound like the ripping of thousands of sheets of paper grew with lightning speed to a vibrant roar that brought Garry Adams to his feet in a jump.
+the_accursed_galaxy
+
+# The Accursed Galaxy
+
+.fl
+<span class="smallcaps">A thin, tearing</span> sound like the ripping of thousands of sheets of paper grew with lightning speed to a vibrant roar that brought Garry Adams to his feet in a jump.
 
 He leaped to the door of his cabin and as he flung it open, he saw a sword of white fire cleave the night vertically and heard an abrupt ear-shattering crash from the distant darkness.
 
@@ -2548,11 +2653,11 @@ Then all was dark and still again, but down in the dimly starlit valley he could
 
 “Good heavens, a meteorite!” Garry exclaimed. “And it’s fallen right into my lap.”
 
-His eyes suddenly lighted. “Will this make a story! Reporter Sole Witness of Meteor’s Fall	”
+His eyes suddenly lighted. “Will this make a story! Reporter Sole Witness of Meteor’s Fall——”
 
-He grabbed a flashlight from the shelf by the door and the next minute was hurrying down the rude path that twisted from his hilltop cabin down the wooded ■ slope to the valley.
+He grabbed a flashlight from the shelf by the door and the next minute was hurrying down the rude path that twisted from his hilltop cabin down the wooded slope to the valley.
 
-Garry Adams was for fifty weeks of each year a re- ‘ porter on one of the more sensational New York dailies. But two weeks each summer he spent in this lonely cabin in the northern Adirondacks and washed the taste of slayings, scandals and corruption out of his mind.
+Garry Adams was for fifty weeks of each year a reporter on one of the more sensational New York dailies. But two weeks each summer he spent in this lonely cabin in the northern Adirondacks and washed the taste of slayings, scandals and corruption out of his mind.
 
 “Hope there’s something left of it,” he muttered as he l tripped over a root in the dark. “It would rate a three- j column picture.”	!
 
@@ -2918,7 +3023,7 @@ Garry understood instantly and cried out in horror as he leaped toward the astro
 
 Peters, only partly awakened, looked dazedly down at the thing which his hands were busy finishing.
 
-“Smash it!” Garry yelled. “The thing inside the polyhedron kept us occupied with that vision so it could keep you working unconsciously to set it free. Don’t— oh, Lord!”
+“Smash it!” Garry yelled. “The thing inside the polyhedron kept us occupied with that vision so it could keep you working unconsciously to set it free. Don’t—oh, Lord!”
 
 For as Garry yelled, the dazed scientist’s hands had clicked together the last parts of the copper and ebonite triangle, and from its apex leaped a yellow beam that smote the glowing polyhedron.
 
@@ -2970,9 +3075,14 @@ Dr. Peters nodded. “It was a creature of force, force so terrific that its bur
 
 Garry Adams shook his head weakly. “We won’t tell; no. And I think we’ll try to forget it ourselves. I think we’ll try.”
 
-In the World's Dusk
+---
 
-The city Zor reared its somber towers and minarets of black marble into the ruddy sunset, a great mass of climbing spires circumvallated by a high black wall. Twelve gates of massive brass opened in that wall, and outside it there lay the white salt desert that now covered the whole of earth. A cruel, glaring plain that stretched eye-achingly to the horizons, its monotony was broken by no hill or valley or sea. Long ago the last seas had dried up and disappeared, and long ago the ages of geological gradation had smoothed mountain and hill and valley into a featufeless blank.
+in_the_worlds_dusk
+
+# In the World’s Dusk
+
+.fl
+<span class="smallcaps">The city Zor</span> reared its somber towers and minarets of black marble into the ruddy sunset, a great mass of climbing spires circumvallated by a high black wall. Twelve gates of massive brass opened in that wall, and outside it there lay the white salt desert that now covered the whole of earth. A cruel, glaring plain that stretched eye-achingly to the horizons, its monotony was broken by no hill or valley or sea. Long ago the last seas had dried up and disappeared, and long ago the ages of geological gradation had smoothed mountain and hill and valley into a featufeless blank.
 
 As the sun sank lower, it struck a shaft of red light across the city Zor into a great hall in the topmost spire. The crimson rays cut through the shadowy gloom of the dim, huge room and bathed the sitting figure of Galos Gann.
 
@@ -3050,7 +3160,7 @@ ens walked apart with stiff and uncouth gestures made pantomime of love, and spo
 
 In his high tower, Galos Gann watched as moon after moon was born and waxed and died. Great hope was his as the months passed one by one in the dead-tenanted city.
 
-He said to himself, “These are not wholly living— something there was that my powers could not bring back from death. But even such as they are, they will serve to give mankind a new start in the universe.”
+He said to himself, “These are not wholly living—something there was that my powers could not bring back from death. But even such as they are, they will serve to give mankind a new start in the universe.”
 
 The slow months passed and at last to one of the dead couples living in the city, a child was bom. High flared the hopes of Galos Gann when he heard, and great was his excitement as he hastened through the city to see. But when he saw the child, he felt his heart grow cold. For this infant was like the parents of whom it was bom, it was not wholly living. It moved and saw and uttered sounds, but its movements and cries were stiff and strange, and its eyes had death behind them.
 
@@ -3070,13 +3180,14 @@ The dead answered him not, but turning their backs upon him moved in a silent, t
 
 They passed without any word down the spiral stair to the blue-lit chamber of the crypts, and there each lay down once more in the crypt that was his. And the two women who had given birth lay down with their strange, dead little infants at their breasts. Then each drew over his crypt the stone lid that had covered it, until all were covered once more. And again there was solemn silence in the pictured burial-chamber of Zor.
 
+.space
 Up in his high tower Galos Gann had watched them go, and there for two days and nights he brooded over die again-silent city.
 
 He said to himself, “It seems my hope was vain and that in truth humanity dies with me, since those who were dead cannot be the progenitors of future men. For where in all the world are there any living men and women such as alone will serve my ends?”
 
 This he said, and then of a sudden a thought struck him that was like a dazzling and perilous lightning-flash across the brooding darkness of his mind. His brain well nigh reeled at the audacity of the thing it had suddenly conceived; yet such was the desperation of his purpose that he seized quakingly upon even this unearthly expedient.
 
-He muttered to himself, “There are no living men and women in the world today. But what of the trillions of men and women who have existed on earth in the past? Those trillions are separated from me by the abyss of time. Yet if I could somehow reach across that abyss, I could draw many living people out of the past into dead Zor.”
+He muttered to himself, “There are no living men and women in the world *today*. But what of the trillions of men and women who have existed on earth in the past? Those trillions are separated from me by the abyss of time. Yet if I could somehow reach across that abyss, I could draw many living people out of the past into dead Zor.”
 
 The brain of Galos Gann fired to that staggering thought. And he, the greatest scientist earth had ever possessed, began that night the audacious attempt to draw across the gulf of ages living men and women who would father a new race.
 
@@ -3142,14 +3253,13 @@ Galos Gann said then to himself, “The new cycle of earth’s life is started. 
 
 He calculated the ages that it would take for a new human race to evolve upon the face of earth. Then he took a carefully measured quantity of a subtle drag 1 which he had prepared, one which suspended indefinitely every vital function of the human body and yet permitted it to remain living in a deathless sleep. He lay down upon his couch in the buried chamber inside the earth.
 
-“I will sleep now in suspended animation until the new race of man has evolved,” said Galos Gann. “When I awake, earth will again be crowded with the victorious and undying race of men, and I can go forth and look i
-
-upon them and then die in peace, knowing that man lives.”
+“I will sleep now in suspended animation until the new race of man has evolved,” said Galos Gann. “When I awake, earth will again be crowded with the victorious and undying race of men, and I can go forth and look upon them and then die in peace, knowing that man lives.”
 
 So saying, he folded his arms upon his breast, and the drug took its effect upon him, and he slept.
 
 And it seemed to him that no sooner had his eyes closed and his consciousness darkened, than he was awaking again, for in sleep an eternity and a moment are the same.
 
+.space
 For a little, Galos Gann could not indeed believe that he had slept through the ages for which his drug had been calculated. But his chronometers that measured time by the transmutation of uranium showed him that indeed he had lain sleeping for many million millions of years.
 
 Then he knew that he had come to the moment of his triumph. For in those slow millenniums must have evolved the new race of men that must now people the surface of the earth above him.
@@ -3184,13 +3294,18 @@ With these words, the shrunken, swaying man fell forward, and sighed once, and l
 
 And Galos Gann, the last man, looked across his body at the sinking sun.
 
-Child of the Winds
+---
 
-Brent was drawn by the strong lure of gold to that legended tableland in innermost Turkistan called the Plateau of the Winds. There was an old rumor that lodes of unparalleled richness existed on that unvisited and almost unknown plateau.
+child_of_the_winds
+
+# Child of the Winds
+
+.fl
+<span class="smallcaps">Brent was drawn</span> by the strong lure of gold to that legended tableland in innermost Turkistan called the Plateau of the Winds. There was an old rumor that lodes of unparalleled richness existed on that unvisited and almost unknown plateau.
 
 Brent knew the place was supposed to lie more than a hundred miles west of the little village Yurgan, so he went to Yurgan and tried to hire camels and drivers with which to cross the desert. There he learned that it was not going to be easy to reach the plateau.
 
-One man he found, a young Turki named Dasan An, who had traveled just enough as the servant of other white men to make him contemptuous of his fellow-villagers. He affected white-maif s clothes, spoke execra-able English, and talked to Brent as though they were the only two civilized people in the place.
+One man he found, a young Turki named Dasan An, who had traveled just enough as the servant of other white men to make him contemptuous of his fellow-villagers. He affected white-man’s clothes, spoke execrable English, and talked to Brent as though they were the only two civilized people in the place.
 
 “Very afraid these ignorant people will not go with us as drivers,” he told Brent confidentially. “They too afraid of the Plateau of the Winds.”
 
@@ -3200,9 +3315,7 @@ One man he found, a young Turki named Dasan An, who had traveled just enough as 
 
 “Offer them more money,” Brent told him irritably. “Tell them I’ll give them double pay.”
 
-Dasan An held colloquy for a little with his swart-
-
-skinned fellows and then turned back to Brent. The cocksure contempt on his face deepened.
+Dasan An held colloquy for a little with his swart-skinned fellows and then turned back to Brent. The cocksure contempt on his face deepened.
 
 “They not go, sir. They say double money no use to a man after the winds kill him.”
 
@@ -3220,6 +3333,7 @@ The Turki laughed noisily. “You are pleased make joke. Dasan An is not ignoran
 
 That was in two days. In the already brassy glare of the rising sun they rode out of Yurgan with their stalking, sneering camels and pointed due west into the white wastes of salt desert.
 
+.space
 Four days later the great, horizon-stretching wall of the Plateau of the Winds rose dimly in the distance ahead of them. That night they camped under it, a steep wall of brown rock a thousand feet high, extending north and south for many miles. And that night they heard winds blowing up there on the plateau.
 
 The looked up into the darkness toward the plateau as they heard the distant tumult.
@@ -3248,6 +3362,7 @@ They listened until the uproar of winds had receded northward, died out of heari
 
 Next morning they found a zigzag path up the plateau’s side less than a mile from their camp, and started the climb. As they dragged the camels up from ledge to ledge, Brent saw that his companion looked constantly up toward the nearing rim.
 
+.space
 It was late afternoon by the time they scaled the last ledge and stood panting on the rim. The Plateau of the Winds lay before them, a brown, barren plain. Miles in toward its center rose two tall pinnacles of rock, but all the rest was level, dusty, bare.
 
 There were no winds blowing where they stood. The only visible sign of winds was a few thousand feet
@@ -3352,11 +3467,11 @@ He caught her arm. He forgot all else in his excitement at finding this white gi
 
 To Brent’s rapid, excited questions she answered first only with -a puzzled frown. Suddenly speech spilled hesitantly, jerkily from her in that sweet, high voice.
 
-“Almost—I had forgotten—to talk!” she told him. “Until you came I had forgotten—men—people	”■
+“Almost—I had forgotten—to talk!” she told him. “Until you came I had forgotten—men—people——”
 
 “Forgotten them?” Brent said. “Then how long have you lived here alone?”
 
-“Since—since	” Words seemed lacking to her
+“Since—since——” Words seemed lacking to her
 
 and she held her hand waist-high from the ground. “Since I was so.”
 
@@ -3384,13 +3499,14 @@ Brent’s denial was forceful. “That’s nonsense! Winds are not living—they
 
 Lora pursed her lips suddenly, and silver whistling notes stabbed up into the darkness from her tilted face. Then down from the upper night smote winds, loud, wild, trumpeting their strength. They seemed to circle the girl, blow round her and tug and push her and roar about her. The whisking little winds scattered as these strong gusts smote and whirled. A tumult of noisy winds whirled round the girl where a moment before had been almost a calm. Brent heard Lora laugh into the shouting gusts, heard her whistling stab again, and saw. the strong winds whip away and upward as suddenly as they had come.
 
+.space
 “Now do you believe that the winds are living?” she cried with a silvery laugh.
 
 “Of course I don’t believe it,” Brent told her. “That was just a little wind-flurry such as must be common here all the time. It hardly proves that the winds are anything but winds.”
 
 Lora stamped her foot angrily. “It is not so! I will
 
-call them again and show you	”
+call them again and show you——”
 
 But Brent caught her arm as she raised her face. “No, don’t—I’ll believe they’re living if you want me to. I’m not interested in the winds, but in you. How have you lived up here a dozen years or more on this barren plateau?. How was it possible for you to live as a child, if your father and the others were killed?”
 
@@ -3424,6 +3540,7 @@ Her voice was slow, still struggling for words. “Not much can I remember now o
 
 “But many of the great winds stay here almost all the time, and among them is the mother-wind. Never since I came here has the mother-wind gone, for long. It is the mother-wind that I love best of all the winds, yet all of them I love.”
 
+.space
 Brent had listened, rapt in a fascination beyond reason, but now he was forced to voice his incredulity as Lora stopped.
 
 “But girl, this is fantastic, impossible! Winds are not living—you have lived so long with only the winds for company that you have come to think them so. How could a wind talk or hear? How could a wind speak to you and understand you?”
@@ -3434,7 +3551,7 @@ Brent stared at her. “You mean that you think that wind-storm stopped because 
 
 Lora nodded. “Of course. When I saw you I whistled for them to let you go, and they did so, though they were very unwilling, still wrathful with you. They helped me bring you here to the pinnacles, though they did not want to do that either.”
 
-He shook his head. “I can understand your believing all this,” he said, half to himself. “No doubt there are always winds up on this high plateau, and no doubt it was a freak of currents that saved you when the winds annihilated your father’s party. It’s natural enough you should personify the winds that have been your only companions here, too, and fancy that you could talk to them and they to you. But when it comes to telling me that	”
+He shook his head. “I can understand your believing all this,” he said, half to himself. “No doubt there are always winds up on this high plateau, and no doubt it was a freak of currents that saved you when the winds annihilated your father’s party. It’s natural enough you should personify the winds that have been your only companions here, too, and fancy that you could talk to them and they to you. But when it comes to telling me that——”
 
 Brent broke off suddenly, aware of an abrupt weakness. He swayed a little and Lora darted quickly to her feet.
 
@@ -3450,7 +3567,7 @@ She saw him emerge and cried, “Brent, she has come to me already this morning!
 
 “What?” said Brent incredulously.
 
-“See, it is she!” Lora exclaimed, her face bright with happiness. “I have been telling her about you	”
+“See, it is she!” Lora exclaimed, her face bright with happiness. “I have been telling her about you——”
 
 Brent saw that a wind was in fact blowing around the girl, gendy ruffling her hair, the sound of it a soft, crooning note.
 
@@ -3466,7 +3583,7 @@ That warm, strong wind circled him and Lora for a few moments longer, then with 
 
 Brent told himself that he would have to fall in with the girl’s strange fancy. It would do no harm.
 
-“I’m glad she did,” he said. And he did feel glad, though he told himself it was wholly an unreasoning gladness.
+“I’m glad she did,” he said. And he *did* feel glad, though he told himself it was wholly an unreasoning gladness.
 
 “Always the mother-wind stays near the plateau, near me,” Lora confided as they walked across the rock plain. “Many other winds stay here too, but most come and go from the far places. Even little ones like those.”
 
@@ -3476,6 +3593,7 @@ The girl laughed, threw out her arms as though welcoming the little winds. They 
 
 It was senseless, Brent told himself, to let himself be affected by the girl’s fancies. Yet he found himself against his reason thinking of these little winds as living, playing, even as she did.
 
+.space
 Swiftly as they had come, the little winds whipped away, chasing one another across the plain.
 
 Lora laughed. “They are but very small winds, those, yet I love them almost the most.”
@@ -3488,19 +3606,19 @@ She turned the clear gaze of her gray-green eyes on him. “Why should I want pe
 
 She shook her head as though explaining something obvious. “But I couldn’t leave the winds!”
 
-Her soft, bronzed arms suddenly circled Brent’s neck ;md she looked up into his face like a pleading, affectionate child.
+Her soft, bronzed arms suddenly circled Brent’s neck and she looked up into his face like a pleading, affectionate child.
 
 “I want to stay here, and now that you have come I want you to stay here with me. You will, Brent?”
 
-Brent’s arms tightened involuntarily around her and lie drew a long breath as he answered.
+Brent’s arms tightened involuntarily around her and he drew a long breath as he answered.
 
 “I’ll stay,” he said, “for a little while, at least.”
 
 Brent stayed. He told himself that it was but for a short time, that in a few days he would cure the girl of her fancies about the winds and that she would leave with him. But he could not change Lora’s ideas regarding the winds. And Brent, against his will, against every conscious thought of his reason, found himself insensibly coming to share her viewpoint.
 
-He found himself thinking of the winds as living tilings, and not just moving air. He found himself distinguishing one wind from another, just as he might one person from another. The great, strong winds that lioomed solemn and majestic, the smaller, wilder winds that roared in and away, the little winds that whisked and played on the plateau—he could not keep from thinking of them as one might think of living people.
+He found himself thinking of the winds as living things, and not just moving air. He found himself distinguishing one wind from another, just as he might one person from another. The great, strong winds that boomed solemn and majestic, the smaller, wilder winds that roared in and away, the little winds that whisked and played on the plateau—he could not keep from thinking of them as one might think of living people.
 
-And there was that strong, gentie wind that Lora called the mother-wind. Every morning when he and Lora emerged from the cavern the mother-wind was there to greet and touch them. And every morning they found there fruits and things that Lora said the winds had brought.
+And there was that strong, gentle wind that Lora called the mother-wind. Every morning when he and Lora emerged from the cavern the mother-wind was there to greet and touch them. And every morning they found there fruits and things that Lora said the winds had brought.
 
 Brent’s reason told him that it was not impossible in this high place of strange wind-currents for freak currents constantly to bring objects a long distance and drop them. But reason alone could not combat the strange influence that the girl’s belief had upon Brent.
 
@@ -3514,6 +3632,7 @@ They could be playful, as when the strong gusts darted and jerked around the lau
 
 To Brent the world he had left came to seem unreal, and he had almost forgotten the quest that had brought him to the plateau. All that was real to him now was Lora and the plateau and the companioning winds. All, until one night sudden awakening came to Brent.
 
+.space
 That night when he and Lora entered the cavern something made him take her suddenly into his arms and kiss her. She resisted for a moment, then suddenly returned his kiss. Brent’s face was set with abrupt resolve when they separated.
 
 “Lora, we’re going to leave here!” he exclaimed. “I love you and we’re going back together to the world, our world.”
@@ -3532,9 +3651,7 @@ But a few moments later the trouble came again into her clear face.
 
 Brent laughed. He had shaken off the influence of the plateau completely, now.
 
-“After all, they’re only winds*” he said, and then
-
-added to reassure her, “Why should they stop you when you say they love you?”
+“After all, they’re only winds,” he said, and then added to reassure her, “Why should they stop you when you say they love you?”
 
 She said slowly, “That is why I fear that they will not wish to let me go.”
 
@@ -3564,7 +3681,7 @@ Though Brent and Lora bent their heads and pushed forward with all their strengt
 
 “Brent, it is as I said, they will not let me go!” cried
 
-Lora over the wind-roar. “If we go farther they will kill you for taking me!”	j
+Lora over the wind-roar. “If we go farther they will kill you for taking me!”
 
 “It’s just freak winds—there are always strange ' winds at the edge of a height like this!” he shouted back.
 
@@ -3572,9 +3689,10 @@ Lora over the wind-roar. “If we go farther they will kill you for taking me!�
 
 Brent slowly assented. “All right, we’ll go back for this time.”
 
+.space
 They started back toward the pinnacles. Slowly the winds’ angry tumult subsided around them.
 
-Again they whirled playfully around the girl, but Lora did not heed them. And her face still was white when she and he reached the cavern.	,
+Again they whirled playfully around the girl, but Lora did not heed them. And her face still was white when she and he reached the cavern.
 
 “They would have killed you for trying to take me away, Brent!” she said. “We dare not try again.”
 
@@ -3582,13 +3700,13 @@ Again they whirled playfully around the girl, but Lora did not heed them. And he
 
 But when he saw the girl’s face he added quickly, “We’ll try it when it’s not so windy there by the rim.” Her face became thoughtful. “If we went at night when the winds are playing elsewhere on the plateau, they would not see us go.”	
 
-Brent reflected. “It certainly should be less windy there at night,” he said, to himself. Then he added ' quickly to Lora, “We’ll try it tonight!”	!
+Brent reflected. “It certainly should be less windy there at night,” he said, to himself. Then he added ' quickly to Lora, “We’ll try it tonight!”
 
 That night they waited in the cavern after darkness fell, and did not go out, though they heard the winds moving and shouting all around the rock-pinnacles. At last they heard the great wind-tumult move off across the plateau.
 
 They went out then, and found all still outside. In j trumpeting, frolicking tumult the winds were receding northward, the sound of them coming back dimly. Brent and Lora at once started eastward across the plateau.
 
-They met no wind now as they crossed it. The distant \ wind-uproar they still heard as they started down the i plateau’s side, but when they reached the desert plain below and headed east, it faded.
+They met no wind now as they crossed it. The distant wind-uproar they still heard as they started down the plateau’s side, but when they reached the desert plain below and headed east, it faded.
 
 Morning found them many miles from the plateau, which had dwindled to a thin brown line on the horizon behind them. All around them stretched the white wastes of the salt desert, flat and dead.
 
@@ -3616,7 +3734,7 @@ Soon they could hear the distant roaring of those mighty winds. And then Lora st
 
 “But it’s senseless to hide from winds,” he exclaimed. “They’re not hunting us—it’s only your fancy.”
 
-“I know they hunt us and that they will kill you if they find us,” she said swiftly. “We must—”
+“I know they hunt us and that they will kill you if they find us,” she said swiftly. “We must——”
 
 She stopped suddenly, uttered a little despairing cry and pointeid.
 
@@ -3646,11 +3764,11 @@ He felt himself whirled high, high, into the air as though by colossal hands. In
 
 He was poised high for an instant, then whirled down with awful force toward the hard desert. He closed his eyes before the annihilating shock.
 
-There was no shock! Out of the grasp of the thundering winds that held him he was suddenly snatched and whirled aside by another wind—a strong, warm wind that set Brent down beside Lora, then held man ;md girl as they clung together—a wind that he recognized, the wind that Lora had called the mother-wind!
+There was no shock! Out of the grasp of the thundering winds that held him he was suddenly snatched and whirled aside by another wind—a strong, warm wind that set Brent down beside Lora, then held man and girl as they clung together—a wind that he recognized, the wind that Lora had called the mother-wind!
 
-Came a terrific roaring from the other winds, a heartchecking outburst of wild wind-fury. They charged thunderously forward, sought to tear Brent and Lora from the grasp of the mother-wind.
+Came a terrific roaring from the other winds, a heart-checking outburst of wild wind-fury. They charged thunderously forward, sought to tear Brent and Lora from the grasp of the mother-wind.
 
-It seemed an inferno of raging gusts, a hell of cyclonic attack, but still that strong, soft wind held firmly man and girl. A wild conflict of combating winds. But soon that conflict subsided. The great winds’ raging died, their thunder lessened. They began to move away, blowing towafd the west.
+It seemed an inferno of raging gusts, a hell of cyclonic attack, but still that strong, soft wind held firmly man and girl. A wild conflict of combating winds. But soon that conflict subsided. The great winds’ raging died, their thunder lessened. They began to move away, blowing toward the west.
 
 And as they blew, their strong wind-voices were loud, but not in wrath now. It seemed that they uttered a great chorus of sorrow. A mighty sadness of farewell.
 
@@ -3660,19 +3778,23 @@ Lora pressed against Brent, her arm around his neck. “It was the mother-wind, 
 
 Brent’s dazed mind, with a great effort, caught at the commonplace world of everyday. “It was the craziest and most freakish wind-storm I’ve ever seen,” he said. “Come on, Lora, I think we’ll make it all right now to Yurgan.”
 
+.space
 Brent got with Lora to Yurgan all right, and to the world beyond. And now that he and she are once more part of that world, that time up on the Plateau of the Winds seems to him almost some strange dream. It seems impossible now that even for a moment he should have allowed himself to fancy that the winds could be living things.
 
-Yet even now Brent is not quite certain in his own mind. For Lora still is very sure that the winds live, and not all his rational explanations can shake what she be-
-
-lieves. And Brent himself, remembering some things, must wonder.	j
+Yet even now Brent is not quite certain in his own mind. For Lora still is very sure that the winds live, and not all his rational explanations can shake what she believes. And Brent himself, remembering some things, must wonder.	j
 
 Of one thing he is sure, that wherever he and his wife| go there seem more winds than anywhere else. And hel does not like that. He does not like to see the winds that! seem to gather round her, even though to please him] she no more whistles wildly to them, and even though] he tells himself that it is only fancy.
 
 Neither does Brent like to awake at night and find Lora awake beside him, listening to winds rattling the shutters and sighing in the trees and wailing pleadingly outside the windows, as though entreating her to return, luring her with trumpeted promises of the old tameless freedom. For though Brent tells himself that winds are: only winds, he is still afraid that some night she will answer that call.
 
-The Seeds from Outside
+---
 
-Standifer found the seeds the morning after the meteor fell on the hill above his cottage. On that night he had been sitting in the scented darkness of his little garden when he had glimpsed the vertical flash of light and heard the whiz and crash of that falling visitor from outer space. And all that night he had lain awake, eager for morning and the chance to find and examine the meteor.
+the_seeds_from_outside
+
+# The Seeds from Outside
+
+.fl
+<span class="smallcaps">Standifer found the</span> seeds the morning after the meteor fell on the hill above his cottage. On that night he had been sitting in the scented darkness of his little garden when he had glimpsed the vertical flash of light and heard the whiz and crash of that falling visitor from outer space. And all that night he had lain awake, eager for morning and the chance to find and examine the meteor.
 
 Standifer knew little of meteors, for he was not a scientist. He was a painter whose canvases hung in many impressive halls in great cities, and were appropriately admired and denounced and gabbled about by those who liked such things. Standifer had grown weary of such people and of their cities, and had come to this lonely little cottage in the hills to paint and dream.
 
@@ -3690,6 +3812,7 @@ Standifer was vastly excited. He dug the tiny case out of the meteoric fragment,
 
 But at the cottage, he was amazed to find that neither steel knives nor drills nor chisels could make the slightest impression upon this astounding material. It seemed to the eye to be just stiff tan fiber, yet he knew that it was a far different kind of material, as refractory as diamond and as flexibly tough as steel.
 
+.space
 It was several hours before he thought of pouring water upon the enigmatic little container. When he did so, the fiber-like stuff instantly softened. It was evident that the material had been designed to withstand the tremendous heat and shock of alighting on another world, but to soften up and open when it fell upon a moist, warm world.
 
 Standifer carefully cut open the softened case. Then he stared, puzzled, at its contents, a frown upon his sensitive face. There was nothing inside the case but two withered-looking brown seeds, each of them about an inch long.
@@ -3712,6 +3835,7 @@ For where they had curled back at the tips, they disclosed what looked strangely
 
 One looked very much like the top of a girl’s head, a mass of fluffy, light-green hair only the upper part of which was visible. The other head was of shorter, coarser and darker green hair, as though it was that of a man.
 
+.space
 Standifer went through that day in a stupefied daze. He was almost tempted to unfold the sepals further by force, so intense was his curiosity, but he restrained himself and waited. And the next few days brought him further confirmation of his astounding suspicion.
 
 The sepals of both plants had by then unfolded almost completely. And inside one was a green man-plant—and in the other a girl! Their bodies were strangely human in shape, living, breathing bodies of weird, soft, green plant-flesh, with tendril-like arms and tendril limbs too that were still rooted and hidden down in the calyxes. Their heads and faces were very human indeed, with green-pupiled eyes through which they could see.
@@ -3736,7 +3860,7 @@ It hurt him to part from the plant girl even for those few hours, and he stood f
 
 When he returned, he heard as soon as he entered his garden a sound that chilled the blood in his veins. It was the plant girl’s voice—a mere agonized whisper that spoke dreadful things. He rushed wildly into the garden and stood a moment aghast at what he saw.
 
-The final development had taken place in his absence. Both creatures had come free of their roots—and the man-plant had in his jealousy and hate broken and tom the shining green body of the girl. She lay, her tendrils stirring feebly, while the other looked down at her in satisfied hate.
+The final development had taken place in his absence. Both creatures had come free of their roots—and the man-plant had in his jealousy and hate broken and torn the shining green body of the girl. She lay, her tendrils stirring feebly, while the other looked down at her in satisfied hate.
 
 Standifer madly seized a scythe and ran across the garden. In two terrific strokes, he cut down the man-plant into a dead thing oozing dark green blood. Then he dropped the weapon and wildly stooped over his dying plant girl.
 
@@ -3744,9 +3868,14 @@ She looked up at him through pain-filled, wide eyes as her life oozed away. A gr
 
 That was long ago, and the garden by the little cottage is weed-grown now and holds no memory of those two strange creatures from the great outside who grew and lived and died there. Standifer does not dwell there any more, but lives far away in the burning, barren Arizona desert. For never, since then, can he bear the sight of green growing things.
 
-Fessenden's Worlds
+---
 
-I wish now that I’d never seen Fessenden’s damnable-experiment! I wish my cursed curiosity had never taken i me into his laboratory that night, to witness the thing j that destroyed my peace of mind for ever and made me 1 for the rest of my life a somber and soul-sick man.
+fessendens_worlds
+
+# Fessenden's Worlds
+
+.fl
+<span class="smallcaps">I wish now</span> that I’d never seen Fessenden’s damnable-experiment! I wish my cursed curiosity had never taken i me into his laboratory that night, to witness the thing j that destroyed my peace of mind for ever and made me 1 for the rest of my life a somber and soul-sick man.
 
 Arnold Fessenden was the greatest scientist this planet ever produced—and the evilest. I know! I’d have told about it before, but I knew that I wouldn’t be believed. He assured me of that himself, grinning with sardonic mirth at me, that night he showed me what I’d like to forget.
 
@@ -3796,7 +3925,7 @@ I said impatiently, “That’s a grandiose metaphor, but just what does it mean
 
 I was silent. I was trying to avoid his eyes, to hide my disappointment from him.
 
-Fressenden chuckled. “A minute ago,” he said, “you \tere condemning the rest of the university for thinking
+Fressenden chuckled. “A minute ago,” he said, “you were condemning the rest of the university for thinking
 
 me insane. Now you’re thinking exactly the same thing, aren’t you?—wondering how you can get out of this cra2y Fessenden’s house with good grace?”
 
@@ -3810,7 +3939,7 @@ It consisted of two twelve-foot metal disks with gridlike surfaces, one on the f
 
 Between the two disks, floating unsupported in the air, hung a cloud of tiny sparks of light. It looked like a swarm of minute golden bees, countless in number, and the swarm was lenticular in shape. Mounted near this weird thing were several instruments that looked a little like telescopes, though unfamiliar in design. They seemed to be trained upon that thick little cloud of shining sparks.
 
-Fessenden walked over to the thing arid motioned calmly toward the blue-glowing disks in floor and ceiling. “.These disks, Bradley, neutralize all the ordinary gravitational forces of earth in the space between them.”
+Fessenden walked over to the thing arid motioned calmly toward the blue-glowing disks in floor and ceiling. “These disks, Bradley, neutralize all the ordinary gravitational forces of earth in the space between them.”
 
 “What?” I cried, astonished. I stepped forward, was about to thrust my hand between the two disks to test the assertion. But Fessenden held me back.
 
@@ -3830,6 +3959,7 @@ Some of the tiny sparks were blazing white in color, others smoky red, others go
 
 Those sparks were tiny suns! I knew it, beyond doubt, even while my brain fought against the knowledge and called it impossible. I knew that I was looking at a miniature universe, one on a scale many billions of times smaller than our own universe, yet one that was comparatively as large in extent as our own. A little microcosm, floating here in Fessenden’s laboratory.
 
+.space
 Fessenden’s eyes had been following my stupefied change of expression. He said calmly, “Yes, Bradley, it is true. That is a tiny, self-sustaining universe, with its own suns, nebulae and worlds. Everything in it, down to the atoms which compose it, is infinitely smaller in scale than our own. But it is a real universe, like our own.”
 
 “And you say you created this?” I gasped.
@@ -3840,7 +3970,7 @@ I succeeded in bringing that universe into being only a few weeks ago. I have be
 
 His black eyes flashed a little. “Didn’t I tell you that it was the greatest experiment any scientist had ever conducted? Think of what I am able to do—I can conduct my astrophysical and other experiments on a cosmic scale. I can change or destroy suns and nebulae at will, with the instruments I devised, can observe the minutest details of that tiny universe through my super-magnifying telescopes. I can make observations with a universe itself as my subject.”
 
-I said in amazement, “But how did you make it— start it?”
+I said in amazement, “But how did you make it—start it?”
 
 Fessenden shrugged. “How did our own universe start, Bradley? As a vast cloud of glowing gas that filled all space. The mutual attraction of the cloud’s particles drew them together, so that the cloud condensed into huge nebulae. The nebulae further condensed into suns, which by tidal attraction and occasional collision, threw off matter that formed into circling worlds.
 
@@ -3850,11 +3980,9 @@ Fessenden shrugged. “How did our own universe start, Bradley? As a vast cloud 
 
 “Millions on millions of tiny worlds, here in this little microcosm, Bradley! Worlds that I can change and tamper with and'destroy at will, worlds with every conceivable kind of conditions, worlds whose life I can develop or wither as I wish. That is my experiment, Bradley!”
 
-“ ‘Whose life,’ you say?” I repeated in a whisper. “On the tiny planets of this microcosm—life?”
+“‘Whose *life*,’ you say?” I repeated in a whisper. “On the tiny planets of this microcosm—life?”
 
-“Of course,” said Fessenden. “Life always develops
-
-automatically on worlds where conditions are favorable, and usually in very much the same forms.” He reached toward one of the bulky, unfamiliar telescopic instruments. “Wait, and I shall find such a world for you, Bradley. I shall let you watch its life develop, for yourself.”
+“Of course,” said Fessenden. “Life always develops automatically on worlds where conditions are favorable, and usually in very much the same forms.” He reached toward one of the bulky, unfamiliar telescopic instruments. “Wait, and I shall find such a world for you, Bradley. I shall let you watch its life develop, for yourself.”
 
 He applied his eye to one of the lenses of the bulky telescope-instrument, focusing it upon the shining cloud of sparks; turning knobs, twisting, searching—until at last he straightened.
 
@@ -3874,7 +4002,7 @@ The animal life developed quickly. So rapid were the changes that my gaze could 
 
 I saw rude villages of huts spring up on that world. The villages quickly became cities as that people developed in intelligence, age after microcosmic age. The cities towered higher each moment, great ships sailed upon the seas, ages of progress and development were run through before my eyes in tiny moments.
 
-I was shaking as I recoiled from the telescope. I cried, “This is all impossible—it can’t be real	”
+I was shaking as I recoiled from the telescope. I cried, “This is all impossible—it can’t be real——”
 
 Fessenden smiled. “Your expressions of stupefaction satisfy my egotistic desire for applause, Bradley. But I assure you that that tiny race and their world are quite real.” He chuckled. “No doubt that little folk think that they have reached such a pinnacle of power and knowledge that nothing can threaten them. We shall see now whether or not they are able to face a real danger.”
 
@@ -3916,9 +4044,7 @@ I cried, “That little human people would have lived for generations in peace a
 
 He said impatiently, “Don’t be a fool, Bradley. This is just a scientific experiment—those ephemeral little races and their tiny worlds are merely a subject for study.” And he added, “Why, for days I’ve been observing and changing and tampering with these micro-cosmic worlds, just to see the reactions of their peoples to different stimuli and dangers. I’ve learned things from them that you’d never dream. Watch—I’ll show you others.”
 
-In a stupefied trance I watched as Fessenden went on, taking my vision to world after world, prodding and
-
-changing, observing the fall of empires and the crash of planets with keen, amused detachment. I saw worlds of beauty incredible and worlds of horror unthinkable— planet after planet, race after race, and all of them merely the playthings of the experimenting scientist beside me.
+In a stupefied trance I watched as Fessenden went on, taking my vision to world after world, prodding and changing, observing the fall of empires and the crash of planets with keen, amused detachment. I saw worlds of beauty incredible and worlds of horror unthinkable—planet after planet, race after race, and all of them merely the playthings of the experimenting scientist beside me.
 
 Fessenden showed me a planet in the microcosm that was covered with wild forests in which dwelt little communities of hunting folk who chased the beasts of the forest. Generation after generation flashed by without change in their rude society—they were content to hunt and eat and love and die, without developing any higher civilization.
 
@@ -3928,9 +4054,7 @@ And Fessenden brought into our observation another world, planet of a sun out ne
 
 Fessenden’s filaments of force played upon that world, and the seas began to dwindle, the water molecules to fly off into space. And as the seas rapidly shrank, for generation after generation, more and more of that world became dry land and the seal-people had to desert many of their cities and retreat back with the waters.
 
-Very soon, as we watched, there was but one shallow sea remaining on that little world. And here were crowded the last of the seal-folk, and here they fought blindly with all manner of scientific devices to prevent the evaporation of this last refuge. But the remorseless
-
-process that Fessenden had started went on, and that last sea dried and disappeared also, and there was only a desert planet with the ruined wrecks of the dead seal-folk’s cities standing here and there as memorials of the vanished race.
+Very soon, as we watched, there was but one shallow sea remaining on that little world. And here were crowded the last of the seal-folk, and here they fought blindly with all manner of scientific devices to prevent the evaporation of this last refuge. But the remorseless process that Fessenden had started went on, and that last sea dried and disappeared also, and there was only a desert planet with the ruined wrecks of the dead seal-folk’s cities standing here and there as memorials of the vanished race.
 
 World after world my dazed eyes watched. I saw an icy planet that swung far out from its parent sun, and upon which was strange life adapted to the cold, bloodless little folk who had reared also a mighty civilization. Their weird palaces and cities rose amid the awful chasms of eternal ice, and it was evident that they were far advanced in scientific power.
 
@@ -3958,7 +4082,9 @@ He chuckled as he sighted the needle-like thing. “A mere tiny thread of force�
 
 But I tore him away from the deadly instrument and sent him staggering back across the laboratory with a wild thrust.
 
-“No!” I cried. “These worlds and peoples that you experiment with and endanger and destroy—they’re real! As real as ours, even though infinitely smaller. I’ll not let you calmly vivisect and torment any more of them, out of your damnable scientific curiosity.” Fessenden’s black brows drew together in a cold fury and he rasped, “I see now how foolish it was to show my experiment to an unreasoning sentimentalist like you. But that microcosm is my experiment, my property, and I’ll experiment with and destroy every world in it, if I please. Get away from that instrument.”
+“No!” I cried. “These worlds and peoples that you experiment with and endanger and destroy—they’re real! As real as ours, even though infinitely smaller. I’ll not let you calmly vivisect and torment any more of them, out of your damnable scientific curiosity.”
+
+Fessenden’s black brows drew together in a cold fury and he rasped, “I see now how foolish it was to show my experiment to an unreasoning sentimentalist like you. But that microcosm is *my* experiment, *my* property, and I’ll experiment with and destroy every world in it, if I please. Get away from that instrument.”
 
 “I won’t do it!” I shouted. “You’ve wreaked horror enough on those tiny planets with your inhuman experiments, subjecting those little races to agony and toil and death just to gratify your unholy curiosity. You’re not going to do it now with this little world!”
 
@@ -3972,15 +4098,21 @@ The cable he had tripped over had jerked loose—and there was a flash of fire a
 
 I turned and stumbled crazily out of the laboratory, out of the house into the wet and windy night. I heard a crackling roar behind me and the flickering light of the now flaming house shot past me as I staggered on, but I did not look back. . . .
 
+.space
 So ended Fessenden and his great experiment. No one doubted but that the eccentric scientist had somehow set fire to the house and had perished in the blaze, and I said nothing to change that opinion. And very soon his end was no longer remembered, and Fessenden is now forgotten by everyone. By everyone, except me.
 
 I wish that I could forget too! But I can’t forget Fessenden and his microcosmic worlds, and because I can’t, my soul is sick and I have a shuddering, fearful wonder in me that will endure until I die, a black question to which I’ll never get an answer, and which torments me every time I look up at the night stars.
 
-And the question that quakes in my soul whenever I look up into the starry sky is this—is our own great universe nothing but a tiny microcosm, on some vaster scale? And in that vaster cosmos, is there a superexperimenter who regards our universe as nothing but an interesting experiment, and who smites us with disasters just to study our reactions for his own arfiusement? Is there a Fessenden up there?
+And the question that quakes in my soul whenever I look up into the starry sky is this—is our own great universe nothing but a tiny microcosm, on some vaster scale? And in that vaster cosmos, is there a superexperimenter who regards our universe as nothing but an interesting experiment, and who smites us with disasters just to study our reactions for his own arfiusement? Is there a Fessenden up *there?*
 
-Easy Money
+---
 
-It was a dirty frame-up, that’s what it was! And it was a nutty one, too—this old Doc Murtha who framed me was so nutty he tried to tell me that I’d been clean off the Earth, that I’d been on another world. Can you tie that?
+easy_money
+
+# Easy Money
+
+.fl
+<span class="smallcaps">It was a</span> dirty frame-up, that’s what it was! And it was a nutty one, too—this old Doc Murtha who framed me was so nutty he tried to tell me that I’d been clean off the Earth, that I’d been on another world. Can you tie that?
 
 Me, I’m Slugger Martin—profession, middleweight, age, thirty. Ten years ago I nearly knocked out the champion, only he knocked me out first. Well, ten years Is a lifetime for a leather pusher, and that’s how come on this morning I was holding down a bench in Battery I’ark and wondering mighty gloomy just how I was going to eat.
 
@@ -4072,6 +4204,7 @@ Then I stopped, my jaw hanging. You see, by then I had opened my eyes and was lo
 
 “Holy smoke!” I gasped, looking around me. “The doc’s radio has shot me off to China or some place!”
 
+.space
 I was standing in a kind of little park, beside a tree. It was a queer tree with square red leaves, and there were a lot of other trees like it, and the grass was red and even the sun was red and looked bigger than usual. Around the park were silver streets, and huge metal buildings like pyramids, taller than the Empire State Building. I figured when I saw those pyramids that I must have been shot to Egypt.
 
 People in the street had stopped to gawk at me. These Egyptians, the men and dames both, wore nothing at all but a little skirt and shirt of woven chain metal. They stared and pointed at me and then they burst out laughing. I got mad at that, and I went out in the street and grabbed one of those guys who was laughing at me.
@@ -4338,11 +4471,12 @@ I knew what that meant! The monk was annoyed at the helmet on his head and was t
 
 The crowd caught sight of me running. “Stop that man!” the Controller was yelling.
 
+.space
 I dashed up to the tree, colliding with its trunk. And nothing happened! Nothing at all.
 
 “Doc Murtha, where the devil are you?” I yelled wildly. The crowd was coming at me furiously from all directions.
 
-Bang! Something hit me hard, and I didn’t know anything more. And when I came to I wasn’t there by the tree at all.
+*Bang!* Something hit me hard, and I didn’t know anything more. And when I came to I wasn’t there by the tree at all.
 
 I was on the big copper platform of the machine in Doc Murtha’s home. The doc was reviving me.
 
@@ -4362,17 +4496,20 @@ And I grabbed up a big metal tool and laid into that radio-machine of his. Just 
 
 “Here’s your grand back,” I said, paying no attention to him. I headed for the door. “Me, I’m going back and get a job as sparring-partner for the champ. It’s easier money!”
 
-\
+---
 
-He That Hath Wings
+he_that_hath_wings
 
-Doctor Harriman paused in the corridor of the maternity ward and asked, “What about that woman in 27?”
+# He That Hath Wings
+
+.fl
+<span class="smallcaps">Doctor Harriman paused</span> in the corridor of the maternity ward and asked, “What about that woman in 27?”
 
 There was pity in the eyes of the plump, crisply dressed head nurse as she answered, “She died an hour after the birth of her baby, doctor. Her heart was bad, you know.”
 
 The physician nodded, his spare, clean-shaven face thoughtful. “Yes, I remember now—she and her husband were injured in an electrical explosion in a subway a year ago, and the husband died recently. What about the baby?”
 
-The nurse hesitated. “A fine, healthy little boy, except	”
+The nurse hesitated. “A fine, healthy little boy, except——”
 
 “Except what?”
 
@@ -4400,19 +4537,19 @@ Morris, with a puzzled frown at his superior, gazed through the instrument. His 
 
 “My God!” he exclaimed.
 
-“You see it too?” exclaimed Doctor Harriman. “Then I guess I’m not crazy after all. But this thing— why, it’s without precedent in all human history!”
+“You see it too?” exclaimed Doctor Harriman. “Then I guess I’m not crazy after all. But this thing—why, it’s without precedent in all human history!”
 
-He babbled incoherently, “And the bones, too— hollow—the whole skeletonal structure different. His weight	”
+He babbled incoherently, “And the bones, too—hollow—the whole skeletonal structure different. His weight——”
 
 He set the infant hastily on a scale. The beam jiggled.
 
 “See that!” exclaimed Harriman. “He weighs only a third of what a baby his size should weigh.”
 
-Red-headed young Doctor Morris was staring in fascination at the curving humps on the infant’s back. He said hoarsely, “But this just isn’t possible	”
+Red-headed young Doctor Morris was staring in fascination at the curving humps on the infant’s back. He said hoarsely, “But this just isn’t possible——”
 
-“But it’s real!” Harriman flung out. His eyes were brilliant with excitement. He cried, “A change in gene-patterns—only that could have caused this. Some prenatal influence	”
+“But it’s real!” Harriman flung out. His eyes were brilliant with excitement. He cried, “A change in gene-patterns—only that could have caused this. Some prenatal influence——”
 
-His fist smacked into his hand. “I’ve got it! The electrical explosion that injured this child’s mother a year before his birth. That’s what did it—an explosion of hard radiations that damaged, changed, her genes. You remember Muller’s experiments	”
+His fist smacked into his hand. “I’ve got it! The electrical explosion that injured this child’s mother a year before his birth. That’s what did it—an explosion of hard radiations that damaged, changed, her genes. You remember Muller’s experiments——”
 
 The head nurse’s wonder overcame her respect. She asked, “But what is it, doctor? What’s the matter with the child’s back? Is it so bad as all that?”
 
@@ -4420,7 +4557,7 @@ The head nurse’s wonder overcame her respect. She asked, “But what is it, do
 
 “What’s going to happen to him?” demanded the nurse, dismayed.
 
-“This child is going to have wings!” shouted Harriman. “Those projections growing out on his back— they’re not just ordinary abnormalities—they’re nascent wings, that will very soon break out and grow just as a fledgling bird’s wings break out and grow.”
+“This child is going to have *wings!*” shouted Harriman. “Those projections growing out on his back—they’re not just ordinary abnormalities—they’re nascent wings, that will very soon break out and grow just as a fledgling bird’s wings break out and grow.”
 
 The head nurse stared at them. “You’re joking,” she said finally, in flat unbelief.
 
@@ -4428,7 +4565,7 @@ The head nurse stared at them. “You’re joking,” she said finally, in flat 
 
 “His bones are hollow, like a bird’s bones. His blood seems different and he weighs only a third what a normal human infant weighs. And his shoulder-blades jut out into bone projections to which are attached the great wing-muscles. The X-rays clearly show the rudimentary feathers and bones of the wings themselves.”
 
-“Wings!” repeated young Morris dazedly. He said after a moment, “Harriman, this child will be able to	”
+“Wings!” repeated young Morris dazedly. He said after a moment, “Harriman, this child will be able to——”
 
 “He’ll be able to fly, yes!” declared Harriman. “I’m . certain of it. The wings are going to be very large ones, and his body is so much lighter than normal that they’ll easily bear him aloft.”
 
@@ -4440,7 +4577,7 @@ He looked a little wildly down at the infant. It had stopped crying and now wave
 
 Doctor Harriman said swiftly, “It’s due to a deep change in the parents’ genes. The genes, you know, are the tiny cells which control bodily development in every living things that is bom. Alter the gene-pattern and you alter the bodily development of the offspring, which explains the differences in color, size, and so forth, in children. But those minor differences are due to comparatively minor gene-changes.
 
-“But the gene-pattem of this child’s parents was radically changed a year ago. The electrical explosion in which they were injured must have deeply altered their gene-pattems, by a wave of sudden electrical force. Muller, of the University of Texas, has demonstrated that gene-pattems can be greatly altered by radiation, and that the offspring of parents so treated will differ greatly from their parents in bodily form. That accident produced an entirely new gene-pattem in the parents of
+“But the gene-pattem of this child’s parents was radically changed a year ago. The electrical explosion in which they were injured must have deeply altered their gene-pattems, by a wave of sudden electrical force. Muller, of the University of Texas, has demonstrated that gene-pattems *can* be greatly altered by radiation, and that the offspring of parents so treated will differ greatly from their parents in bodily form. That accident produced an entirely new gene-pattem in the parents of
 
 this child, one which developed their child into a winged human. He’s what biologists technically call a mutant.”
 
@@ -4448,6 +4585,7 @@ Young Morris suddenly said, “Good Lord, what the newspapers are going to do wh
 
 “They mustn’t get hold of it,” Doctor Harriman declared. “The birth of this child is one of the greatest things in the history of biological science, and it mustn’t be made a cheap popular sensation. We must keep it utterly quiet.”
 
+.space
 They kept it quiet for three months, in all. During that time, little David Rand occupied a private room in the hospital and was cared for only by the head nurse and visited only by the two physicians.
 
 During those three months, the correctness of Doctor Harriman’s prediction was fulfilled. For in that time, the humped projections on the child’s back grew with incredible rapidity until at last they broke through the tender skin in a pair of stubby, scrawny-looking things that were unmistakably wings.
@@ -4460,7 +4598,7 @@ Then it happened. The head nurse, unable any longer to contain the tremendous se
 
 The hospital put guards at its doors and refused admittance to the grinning reporters who came to ask for details. All of them were frankly skeptical, and the newspaper stories were written with a tongue in the cheek. The public laughed. A child with wings! What kind of phoney new story would they think up next?
 
-But a few days later, the stories changed in tone. Others of the hospital personnel, made curious by the newspaper yams, pried into the room where David Rand lay crowing and thrashing his arms and legs and wings. They babbled broadcast assertions that the story was true. One of them who was a candid camera enthusiast even managed to slip out a photograph of the infant. Smeary as it was, that photograph did unmistakably show a child with wings of some sort growing from its hack.
+But a few days later, the stories changed in tone. Others of the hospital personnel, made curious by the newspaper yarns, pried into the room where David Rand lay crowing and thrashing his arms and legs and wings. They babbled broadcast assertions that the story was true. One of them who was a candid camera enthusiast even managed to slip out a photograph of the infant. Smeary as it was, that photograph did unmistakably show a child with wings of some sort growing from its back.
 
 The hospital became a fort, a place besieged. Reporters and photographers milled outside its doors and clamored against the special police guard that had been detailed to keep them out. The great press associations offered Doctor Harriman large sums for exclusive stories and photographs of the winged child. The public began to wonder if there was anything in the yarn.
 
@@ -4492,6 +4630,7 @@ Doctor Harriman made decision. “I’m going to retire from practice and devote
 
 Harriman found such a place, an island off the Maine coast, a speck of barren sand and scrubby trees. He leased it, built a bungalow there, and took David Rand and an elderly nurse-housekeeper there. He took also a strong Norwegian watchman who was very efficient at repelling the boats of reporters who tried to land there. After a while the newspapers gave it up. They had to be content to reprint the photographs and articles which Doctor Harriman gave to scientific publications concerning David’s growth.
 
+.space
 David grew rapidly. In five years he was a sturdy little youngster with yellow hair, and his wings were larger and covered with short bronze feathers. He ran and laughed and played, like any youngster, flapping his wings vigorously.
 
 He was ten before he flew. By then he was a little slimmer, and his glittering bronze wings came to his heels. When he walked or sat or slept, he kept the wings closely folded on his back like a bronze sheath. But when he opened them, they extended much farther than his arms could, on either side.
@@ -4504,13 +4643,13 @@ Then one April morning, David found out what his wings were for. He had climbed 
 
 He had climbed nearly to the top of the old oak on this morning, toward the nest he had spied. His wings were tightly folded to keep them out of the way of branches. Then, as he reached up to pull himself the last step upward, his foot pressed on the merest rotten shell of a dead branch. Abnormally light as he was, his weight was enough to snap the branch and he fell cleanly toward the ground.
 
-Instincts exploded in David’s brain in the moment that he plummeted toward the ground. Quite without will, his wings unfolded with a bursting whir. He felt a terrific tug on them that wrenched his shoulders hard. And then suddenly, marvelously, he was no longer falling but was gliding downward on a long slant, with his wings unfolded and rigidly set.
+Instincts exploded in David’s brain in the moment that he plummeted toward the ground. Quite without will, his wings unfolded with a bursting whir. He felt a terrific tug on them that wrenched his shoulders hard. And then suddenly, marvelously, he was no longer falling but was *gliding* downward on a long slant, with his wings unfolded and rigidly set.
 
 There burst from his innermost being a high, ringing shout of exultation. Down—down—gliding like a swooping bird with the clean air buffeting at his face and streaming past his wings and body. A wild, sweet thrill that he had never felt before, a sudden crazy joy in living.
 
 He shouted again, and with instant impulse flapped his great wings, beating the air with them, instinctively bending his head sharply back and keeping his arms flattened against his sides, his legs straight and close together.
 
-He was soaring upward now, the ground swiftly receding beneath him, the sun blazing in his eyes, the wind screaming around him. He opened his mouth to shout again, and the cold, clean air hammered into his throat. In sheer, mad physical ecstasy he rocketed up through the blue with whirring wings.
+He was soaring *upward* now, the ground swiftly receding beneath him, the sun blazing in his eyes, the wind screaming around him. He opened his mouth to shout again, and the cold, clean air hammered into his throat. In sheer, mad physical ecstasy he rocketed up through the blue with whirring wings.
 
 It was thus that Doctor Harriman saw him when he chanced to come out of the bungalow a little later. The doctor heard a shrill, exultant cry from high above and looked up to see that slim winged shape swooping down toward him from the sunlit heavens.
 
@@ -4518,10 +4657,11 @@ The doctor caught his breath at the sheer beauty of the spectacle as David dived
 
 When David Rand finally swooped down and alighted in front of the doctor with quick-closing wings, the boy’s eyes streamed electric joy.
 
-“I can fly!”
+“I can *fly!*”
 
 Doctor Harriman nodded. “You can fly, David. I know I can’t keep you from doing it now, but you must not leave the island and you must be careful.”
 
+.space
 By the time David reached the age of seventeen, there was no longer any need to caution him to be careful. He was as much at home in the air as any bird living.
 
 He was a tall, slim, yellow-haired youth now, his arrow-straight figure still clad only in the shorts that were all the clothing his warm-blooded body required, a wild, restless energy crackling and snapping in his keen face and dancing blue eyes.
@@ -4542,7 +4682,7 @@ Had they looked up, they could have seen David as a circling speck high above th
 
 The pilot in the open rear-cockpit of that airplane nearly had heart failure when someone tapped him on the shoulder from behind. He whirled, startled, and when he saw David Rand crouching precariously on the fuselage just behind him, grinning at him, he lost his head for a moment so that the ship side-slipped and started to fall.
 
-"With a shouting laugh, David Rand leaped off the fuselage and spread his wings to soar up past it. The pilot recovered enough presence of mind to right his ship, and presently David saw it move unsteadily off toward the mainland. Its occupants had enough of the business for one day.
+With a shouting laugh, David Rand leaped off the fuselage and spread his wings to soar up past it. The pilot recovered enough presence of mind to right his ship, and presently David saw it move unsteadily off toward the mainland. Its occupants had enough of the business for one day.
 
 But the increasing number of such curious visitors stimulated in David Rand a reciprocal curiosity concerning the outside world. He wondered more and more what lay beyond the low, dim line of the mainland over there across the blue waters. He could not understand why Doctor John forbade him to fly over there, when well he knew that his wings would bear him up for a hundred times that distance.
 
@@ -4582,9 +4722,7 @@ David’s knees bent, and he sprang upward with whirring wings—up and up, the 
 
 Then as they saw that this strange winged creature who had joined them made no move to harm them, the wild birds reformed their scattered flock. Far off across the dim, heaving plain of the waters glowed the dull red moon and the scattered lights of the mainland, the little lights of earth-bound folk. The birds shrilled loud and David laughed and sang in joyous chorus as his great wings whirred in time with their own, trailing high across the night sky toward adventure and freedom, flying south.
 
-All through that night, and with brief rests through the next day also, David flew southward, for a time over endless waters and then over the green, fertile
-
-land. His hunger he satisfied by dipping toward trees loaded with ripening fruit. When the next night came he slept in a crotch high in a tall forest oak, crouched comfortably with his wings folded about him.
+All through that night, and with brief rests through the next day also, David flew southward, for a time over endless waters and then over the green, fertile land. His hunger he satisfied by dipping toward trees loaded with ripening fruit. When the next night came he slept in a crotch high in a tall forest oak, crouched comfortably with his wings folded about him.
 
 It was not long before the world learned that the freak youth with wings was abroad. People in farms and villages and cities looked up incredulously at that slim figure winging high overhead. Ignorant folk who had never heard of David Rand flung themselves prostrate in panic as he passed across the sky.
 
@@ -4598,6 +4736,7 @@ He came at last to his goal, the island where he had lived most of his life. It 
 
 North and south—south and north—for three years that wild freedom of unchecked migration was his. In those three years he came to know mountain and valley, sea and river, storm and calm, and hunger and thirst, as only they of the wild know them. And in those years the world became accustomed to David, almost forgot him. He was the winged man, just a freak; there would never be another like him.
 
+.space
 Then in the third spring there came the end to David Rand’s winged freedom. He was on his spring flight north, and at dusk felt hunger. He made out in the twilight a suburban mansion amid extensive orchards and gardens, and swooped down toward it with ideas of early berries. He was very near the trees in the twilight when a gun roared from the ground. David felt a blinding stab of pain through his head, and knew nothing more.
 
 When he awoke, it was in a bed in a sunlit room. There were a kind-faced elderly man and a girl in the room, and another man who looked like a doctor. David discovered that there was a bandage around his head. These people, he saw, were all looking at him with intense interest.
@@ -4640,7 +4779,7 @@ David stared. “You don’t look on me as that, Ruth?”
 
 “Monstrous?” he repeated. “Why, it’s nothing like that. It’s just—beautiful, being able to fly. See!”
 
-And he sprang upward with great wings whirring— up and up, climbing into the blue sky, dipping and darting and turning up there like a swallow, then cometing down in a breathless swoop to land lightly on his toes beside the girl.
+And he sprang upward with great wings whirring—up and up, climbing into the blue sky, dipping and darting and turning up there like a swallow, then cometing down in a breathless swoop to land lightly on his toes beside the girl.
 
 “Is there anything monstrous about that?” he demanded joyously. “Why, Ruth, I want you to fly with me, held in my arms, so that you’ll know the beauty of it as I know it.”
 
@@ -4652,6 +4791,7 @@ He grasped her in his strong, tanned arms, his lips seeking her soft mouth.
 
 “Ruth, I can’t live without you now that I’ve met you. I can’t!”
 
+.space
 It was on a night a little later that Ruth, somewhat hesitantly, made her suggestion. The moon flooded the garden with calm silver, gleamed on David Rand’s folded wings as he sat with keen young face bent eagerly toward the girl.
 
 She said, “David, there is a way in which we could marry and be happy, if you love me enough to do it.”
@@ -4682,7 +4822,7 @@ She kissed him, her mouth quivering, and then was gone through the moonlight to 
 
 Give up his wings? Never again to dip and soar and swoop with the winged things of the sky, never again to know the mad exaltation and tameless freedom of rushing flight?
 
-Yet—to give up Ruth—to deny this blind, irresistible yearning for her that beat in every atom of him—to know bitter loneliness and longing for her the rest of his life—how could he do that? He couldn’t do it. He wouldn’t.
+Yet—to give up Ruth—to deny this blind, irresistible yearning for her that beat in every atom of him—to know bitter loneliness and longing for her the rest of his life—how could he do that? He couldn’t do it. He *wouldn’t*.
 
 So David went rapidly toward the house and met the girl waiting for him on the moonlit terrace.
 
@@ -4730,17 +4870,18 @@ Instinctively the great wing-muscles at his back tensed. But only the stumps of 
 
 thought appalled him, was like a treachery against himself. He crept back into bed and lay, determinedly shutting his ears to that distant, joyous whistling that fled southward through the night.
 
+.space
 The next day he plunged determinedly into his work at the office. But all through that day he found his eyes straying to the window’s blue patch of sky. And week by week thereafter, all through the long months of winter and spring, the old wild yearning grew more and more an unreasonable ache inside his heart, stronger than ever when the flying creatures came winging north in spring.
 
 He told himself savagely, “You’re a fool. You love Ruth more than anything else on earth and you have her. You don’t want anything else.”
 
 And again in the sleepless night he would assure himself, “I’m a man, and I’m happy to live a normal man’s life, with Ruth.”
 
-But in his brain old memories whispered slyly, “Do you remember that first time you flew, that mad thrill of soaring upward for the first time, the first giddy whirl and swoop and glide?*’
+But in his brain old memories whispered slyly, “Do you remember that first time you flew, that mad thrill of soaring upward for the first time, the first giddy whirl and swoop and glide?”
 
 And the night wind outside the window called, “Remember how you raced with me, beneath the stars and above the sleeping world, and how you laughed and sang as your wings fought me?”
 
-And David Rand buried his face in his pillow and muttered, “I’m not sorry I did it. I’m not!”
+And David Rand buried his face in his pillow and muttered, “I’m *not* sorry I did it. I’m not!”
 
 Ruth awoke and asked sleepily, “Is anything the matter, David?”
 
@@ -4750,15 +4891,15 @@ But from Ruth, happily occupied with his comfort and their home and their friend
 
 When no one else was by, he would watch with aching heart the swallows darting and diving in the sunset, or the hawk soaring high and remote in the blue, or the kingfisher’s thrilling swoop. And then bitterly he would accuse himself of being a traitor to his own love for Ruth.
 
-Then that spring Ruth shyly told him something. “David, next fall—a child of ours	”
+Then that spring Ruth shyly told him something. “David, next fall—a child of ours——”
 
-He was startled. “Ruth, dear!” Then he asked, “You’re not afraid that it might be	”		
+He was startled. “Ruth, dear!” Then he asked, “You’re not afraid that it might be——”		
 
 She shook her head confidently. “No. Doctor White says there is no chance that it will be bom abnormal as you were. He says that the different gene-characters that caused you to be bom with wings are bound to be a recessive character, not a dominant, and that there is no chance of that abnormality being inherited. Aren’t you glad?”
 
 “Of course,” he said, holding her tenderly. “It’s going to be wonderful.”
 
-Wilson Hall beamed at the news. “A grandchild— that’s fine!” he exclaimed. “David, do you know what I’m going to do after its birth? I’m going to retire and leave you as head of the firm.”
+Wilson Hall beamed at the news. “A grandchild—that’s fine!” he exclaimed. “David, do you know what I’m going to do after its birth? I’m going to retire and leave you as head of the firm.”
 
 “Oh, dad!” cried Ruth, and kissed her father joyfully.
 
@@ -4768,9 +4909,9 @@ He plunged into work with new zest. For a few weeks he did entirely forget that 
 
 Then suddenly his whole being was overturned by an amazing thing. For some time the wing-stumps on David’s shoulders had felt sore and painful. Also it seemed they were much larger than they had been. He took occasion to examine them in a mirror and was astounded to discover that they had grown out in two very large hump-like projections that curved downward on each side along his back.
 
-David Rand stared and stared into the mirror, a strange surmise in his eyes. Could it be possible that	
+David Rand stared and stared into the mirror, a strange surmise in his eyes. Could it be possible that——
 
-He called on Doctor White the next day, on another pretext. But before he left he' asked casually, “Doctor, I was wondering, is there any chance that my wings would ever start to grow out again?”
+He called on Doctor White the next day, on another pretext. But before he left he asked casually, “Doctor, I was wondering, is there any chance that my wings would ever start to grow out again?”
 
 Doctor White said thoughtfully, “Why, I suppose there is a chance of it, at that. A newt can regenerate a lost limb, you know, and numerous animals have similar powers of regeneration. Of course an ordinary man cannot regenerate a lost arm or leg like that, but your body is not an ordinary one and your wings might possess some power of partial regeneration, for one time at least.” He added, “You don’t need to worry about it, though, David. If they start to grow out again, just come in and I’ll remove them again without any trouble.”
 
@@ -4784,6 +4925,7 @@ Yet still he did not say anything to anyone, kept the growing wings concealed an
 
 He told himself, though, that it would be easier to have them removed after they had attained their full size. Besides, he didn’t want to disturb Ruth at this time by telling her that the wings had grown again. So he reassured himself, and so the weeks passed until by early October his second wings had grown to their full size, though they were stunted and pitiful compared to his first splendid pinions.
 
+.space
 On the first week in October, a little son was born to Ruth and David. A fine, strong-limbed little boy, without a trace of anything unusual about him. He was normal of weight, and his back was straight and smooth, and he would never have wings. And a few nights later they were all in the little cottage, admiring him.
 
 “Isn’t he beautiful?” asked Ruth, looking up with eyes shining with pride.
@@ -4800,7 +4942,7 @@ Then after Wilson Hall had left, and Ruth was sleeping and he was alone, David s
 
 He told himself sternly, “All these months you’ve been lying to yourself, making excuses for yourself, letting your wings grow again. In your heart, all that time, you were hoping that you would be able to fly again.”
 
-He laughed. “Well, (fiat’s all over, now. I only told myself before that I didn’t want to fly. It wasn’t true, then, but it is now. I’ll never again long for wings, for flying, now that I have both Ruth and the boy.”
+He laughed. “Well, *that’s* all over, now. I only told myself before that I didn’t want to fly. It wasn’t true, then, but it is now. I’ll never again long for wings, for flying, now that I have both Ruth and the boy.”
 
 No, never again—that was ended. He would drive into town this very night and have Doctor White remove these new-grown second wings. He would never-even let Ruth know about them.
 
@@ -4810,9 +4952,7 @@ moon was lifting above the treetops eastward and by its dull light he started ba
 
 David stopped suddenly. Down through the frosty night had come a faint, far sound that jerked his head erect. A distant, phantom whistling borne on the rushing wind, rising, falling, growing stronger and stronger—the wild birds, southing through the noisy night, shrilling their exultant challenge as the wind bore their wings onward. That wild throb of freedom that he had thought dead clutched hard of a sudden at David’s heart.
 
-He stared up into the darkness with brilliant eyes, hair blowing in the wind. To be up there with them just
-
-once again—to fly with them just one more time	
+He stared up into the darkness with brilliant eyes, hair blowing in the wind. To be up there with them just once again—to fly with them just one more time	
 
 Why not? Why not fly this one last time and so satisfy that aching longing before he lost these last wings? He would not go far, would make but a short flight and then return to have the wings removed, to devote his life to Ruth-and their son. No one would ever know.
 
@@ -4824,21 +4964,26 @@ But the wind was shouting in his ears, “You can do it, you can fly again! See,
 
 And the exultant, whistling voices high above were shrilling, “Upward—up with us! You belong among us, not down there! Upward—fly!”
 
-He sprang! The stunted wings smote the air wildly, and he was soaring! The dark trees, the lighted window of the cottage, the whole hilltop, dropped behind and below him as his wings bore him upward on the bellowing wind.
+*He sprang!* The stunted wings smote the air wildly, and he was soaring! The dark trees, the lighted window of the cottage, the whole hilltop, dropped behind and below him as his wings bore him upward on the bellowing wind.
 
 Up, up—clean, hard battering of the cold air on his face once more, the crazy roaring of the wind around him, the great thrash of his wings bearing him higher and higher.
 
 David Rand’s high, ringing laughter pealed out on the screaming wind as he flew on between the stars and the nighted earth. Higher and higher, right up among the shrilling, southing birds that companioned him on either side. On and on he flew with them.
 
-He knew suddenly that this alone was living, this alone was waking. All that other life that had been his, down there, that had been the dream, and he had awakened from it now. It was not he who worked in an office and had loved a woman and a child down there. It was a dream David Rand who had done that, and the dream was over now.
+He knew suddenly that this alone was living, this alone was waking. All that other life that had been his, down there, that had been the dream, and he had awakened from it now. It was not *he* who worked in an office and had loved a woman and a child down there. It was a dream David Rand who had done that, and the dream was over now.
 
 Southward, southward, he rushed through the night, and the wind screamed, and the moon rose higher, until at last the land passed from beneath and he flew with the flying birds over moonlit plains of ocean. He knew that it was madness to fly on with these poor wings that already were tiring and weakening, but he had no thought in his exultant brain of turning back. To fly on, to fly this one last time, that was enough!
 
 So that when his tired wings began at last to fail, and he began to sink lower and lower toward the silvered waters, there was no fear and no regret in his breast. It was what he had always expected and wanted, at the end, and he was drowsily glad-—glad to be falling as all they with wings must finally fall, after a brief lifetime of wild, sweet flight, dropping contentedly to rest.
 
-Exile
+---
 
-I wish now that we hadn’t got to talking about science fiction that night! If we hadn’t, I wouldn’t be haunted now by that queer, impossible story which can’t ever be proved or disproved.
+exile
+
+# Exile
+
+.space
+<span class="smallcaps">I wish now</span> that we hadn’t got to talking about science fiction that night! If we hadn’t, I wouldn’t be haunted now by that queer, impossible story which can’t ever be proved or disproved.
 
 But the four, of us were all professional writers of fantastic stories, and I suppose shop talk was inevitable. Yet, we’d kept off it through dinner and the drinks afterward. Madison had outlined his hunting trip with gusto, and then Brazell started a discussion of the Dodgers’ chances. And then I had to turn the conversation to fantasy.
 
@@ -4864,25 +5009,26 @@ He told Madison, “That happened to me.”
 
 “What happened to you?” Madison asked.
 
-“What you were suggesting—/ once wrote about an imaginary world and then had to live on it,” Carrick answered.
+“What you were suggesting—*I* once wrote about an imaginary world and then had to live on it,” Carrick answered.
 
-Madison laughed. “I hope it was a more livable place than the lurid planets on which I set my own yams.”
+Madison laughed. “I hope it was a more livable place than the lurid planets on which I set my own yarns.”
 
 But Carrick was unsmiling. He murmured, “I’d have made it a lot different—if I’d known I was ever going to live on it.”
 
 Brazell, with a significant glance at Carrick’s empty glass winked at us and then asked blandly, “Let’s hear about it, Carrick.”
 
+.space
 Carrick kept looking dully down at his empty glass, turning it slowly in his fingers as he talked. He paused every few words.
 
 “It happened just after I’d moved next to the big power station. It sounds like a noisy place, but actually it was very quiet out there On the edge of the city. And I had to have quiet, if I was to produce stories.
 
-“I got right to work on a new series I was starting, the stories of which were all to be laid on the same imaginary world. I began by working out the detailed physical appearance of that world, as well as the universe that was its background. I spent the whole day concentrating on that. And, as I finished, something in my mind went click!
+“I got right to work on a new series I was starting, the stories of which were all to be laid on the same imaginary world. I began by working out the detailed physical appearance of that world, as well as the universe that was its background. I spent the whole day concentrating on that. And, as I finished, something in my mind went *click!*
 
-“That queer, brief mental sensation felt oddly like a sudden crystallization. I stood there, wondering if I were going crazy. For I had a sudden strong conviction that it meant that the universe and world I had been dreaming up all day had suddenly crystallized into physical existence somewhere.
+“That queer, brief mental sensation felt oddly like a sudden *crystallization*. I stood there, wondering if I were going crazy. For I had a sudden strong conviction that it meant that the universe and world I had been dreaming up all day had suddenly crystallized into physical existence somewhere.
 
 “Naturally, I brushed aside the eerie thought and went out and forgot about it. But the next day, the thing happened again. I had spent most of that second day working up the inhabitants of my story world. I’d made them definitely human, but had decided against making them too civilized—for that would exclude the conflict and violence that must form my story.
 
-“So, I’d made my imaginary world a world whose people were still only half-civilized. I figured out all their cruelties and superstitions. I mentally built up their colorful barbaric cities. And just as I was through—that click! echoed sharply in my mind.
+“So, I’d made my imaginary world a world whose people were still only half-civilized. I figured out all their cruelties and superstitions. I mentally built up their colorful barbaric cities. And just as I was through—that *click!* echoed sharply in my mind.
 
 “It startled me badly, this second time. For now I felt more strongly than before that queer conviction that my day’s dreaming had crystallized into solid reality. I knew it was insane to think that, yet it was an incredible certainty in my mind. I couldn’t get rid of it.
 
@@ -4894,7 +5040,7 @@ Carrick kept looking dully down at his empty glass, turning it slowly in his fin
 
 “Did I believe that? No, I didn’t believe it—but I knew it. There is quite a difference between knowledge and belief, as someone said who once pointed out that all men know they will die and none of them believe it. It was like that with me. I realized it was not possible that my imaginary world had come into physical being in a different dimensional cosmos, yet at the same time I was strangely convinced that it had.
 
-“A thought occurred to me that amused and interested me. What if I imagined myself in that other world? Would I, too, become physically real in it? I tried it. I sat at my desk, imagining myself as one of the millions of persons in that imaginary world, dreaming up a whole soberly realistic background and family and history for myself over there. And my mind said clickr
+“A thought occurred to me that amused and interested me. What if I imagined *myself* in that other world? Would I, too, become physically real in it? I tried it. I sat at my desk, imagining myself as one of the millions of persons in that imaginary world, dreaming up a whole soberly realistic background and family and history for myself over there. And my mind said *click!*”
 
 Carrick paused, still looking down at the empty glass that he twirled slowly between his fingers.
 
@@ -4920,7 +5066,7 @@ I had had a vague idea that I could imagine myself back into my own world as I h
 
 “What did you do there? What was your position, I mean?” Brazell asked.
 
-Carrick shrugged. “I don’t know the crafts or skills of that worMT’d brought into being. I had only my own skill—that of story telling.”
+Carrick shrugged. “I don’t know the crafts or skills of that world I’d brought into being. I had only my own skill—that of story telling.”
 
 I began to grin. “You don’t mean to say that you started writing fantastic stories?”
 
@@ -4938,9 +5084,14 @@ Carrick shook his head somberly as he rose to leave.
 
 “No, I never got back home,” he said soberly. “I’m still here.”
 
-Day of Judgment
+---
 
-Hahl froze like a living statue in the moonlit forest as he heard a quick stir in the underbrush just ahead.
+day_of_judgment
+
+# Day of Judgment
+
+.fl
+<span class="smallcaps">Hahl froze like</span> a living statue in the moonlit forest as he heard a quick stir in the underbrush just ahead.
 
 He raised his short, heavy spear ready for instant use, and listened. The sighing wind lazily stirred branches and made the dappled moonlight on the ground wave. Then he heard the stir again, this time a little closer.
 
@@ -4984,7 +5135,7 @@ The cat-man’s green eyes flashed. “Only to the northern ridges, but from the
 
 “Then, as I watched, I saw a terrible thing happen. A star fell from the sky toward the Crying Stones! It fell quite slowly, flaming very bright, until it rested amid the stones. But resting there, it still shone. I hastened to bring the news to all the Clans!”
 
-Hahl’s deep brown eyes were wide with wonder. “A star falling from the sky? What does it mean? Does it mean that the world will bum up again?”
+Hahl’s deep brown eyes were wide with wonder. “A star falling from the sky? What does it mean? Does it mean that the world will burn up again?”
 
 “I do not know,” muttered S’San. “But others may know. Trondor of the Hoofed Clan is wisest of us all. Let us take this news to him.”
 
@@ -5152,7 +5303,7 @@ Then came an evening on which the Strange Ones had learned the language of the C
 
 “But the thunder-fires had somehow changed these survivors. For when they later gave birth to young, the young were new and different races. They were like us, no longer four-footed, no longer dim of mind, but able to stand erect and to learn speech and skills. And we of the forest Clans have remained thus in the generations since then.”
 
-“Good God!” whispered Blaine. “An atomic war— it finally came, and wiped out mankind and its cities!” His face was dead white as he looked at the girl. “Myra, we two are the last humans left alive.”
+“Good God!” whispered Blaine. “An atomic war—it finally came, and wiped out mankind and its cities!” His face was dead white as he looked at the girl. “Myra, we two are the last humans left alive.”
 
 She pressed his hand. “At least our race is not dead yet! You and I—the race will start from us again!”
 
@@ -5236,11 +5387,11 @@ Hahl whirled to the man and girl. “The Clans will gather here quickly! They wi
 
 Blaine shook his head helplessly. “We cannot escape. The power of our ship is exhausted. And there is not enough power left in my weapon to stand off a horde.”
 
-The girl looked at him, white face strained in the gathering darkness. “Then this is the end of us? Of our race?”	j
+The girl looked at him, white face strained in the gathering darkness. “Then this is the end of us? Of our race?”
 
 From far out in the night, S’San’s Clan-call was faintly repeated, carried across the dark forests north and south and west.
 
-Hahl’s mind was in a fever of torment as helplessly they waited. The man and girl who now stood close together, speaking in low whispers—they were his, and he ■ must somehow save them. But how?
+Hahl’s mind was in a fever of torment as helplessly they waited. The man and girl who now stood close together, speaking in low whispers—they were his, and he must somehow save them. But how?
 
 The moon rose, a full orb casting a silver effulgence on the somber dead city. And as the night wind wailed mournfully louder through the Crying Stones, Hahl’s keen ears caught other sounds, his eyes glimpsed dark shapes surging southward through the ruins.
 
@@ -5320,7 +5471,7 @@ that, as they forgot it. It may be that with their powers, we would have been no
 
 “The world has changed now. And it seems that the Strange Ones have changed too, and have learned. If they have, there is room in the world for them and our own new races to live in friendship.”
 
-Blaine spoke huskily. “I can promise, for ourselves. The world has changed, as you say. What powers are devised in future must be handled for the good of all our races. I think the world will not bum again.”
+Blaine spoke huskily. “I can promise, for ourselves. The world has changed, as you say. What powers are devised in future must be handled for the good of all our races. I think the world will not burn again.”
 
 Trondor flung up his massive maned head, and his voice rang loud.
 
@@ -5346,13 +5497,16 @@ Blaine gripped his hairy arm. “No, Hahl—master and servant no longer, but fr
 
 From far out in the darkness echoed the last Clan-call of the separating hosts. And the wailing of the Crying Stones seemed to die into peace, as the wind sank and dawn glimmered slowly across the world.
 
-Alien Earth
+---
 
-Chapter I
+alien_earth
 
-SLOWED-DOWN LIFE
+# Alien Earth
 
-The dead man was standing in a little moonlit clearing in the jungle when Farris found him.
+## Chapter I<br />SLOWED-DOWN LIFE
+
+.fl
+<span class="smallcaps">The dead man</span> was standing in a little moonlit clearing in the jungle when Farris found him.
 
 He was a small swart man in white cotton, a typical Laos tribesman of this Indo-China hinterland. He stood without support, eyes open, staring unwinkingly ahead, one foot slightly raised. And he was not breathing.
 
@@ -5362,13 +5516,13 @@ He was interrupted by Piang, his guide. That cocksure little Annamese had been l
 
 Ever since the two of them had stumbled into this grove of silk-cotton trees and almost run into the dead man, Piang had been goggling in a scared way at the still unmoving figure. Now he burst out volubly:
 
-“The man is hunatif Don’t touch him! We must leave here—we have strayed into a bad part of the jungle!”
+“The man is *hunati!* Don’t touch him! We must leave here—we have strayed into a bad part of the jungle!”
 
 Farris didn’t budge. He had been a teak-hunter for too many years to be entirely skeptical of the superstitions of Southeast Asia. But, on the other hand, he felt a certain responsibility.
 
 “If this man isn’t really dead, then he’s in bad shape somehow and needs help,” he declared.
 
-“No, no!” Piang insisted. “He is hunati! Let us leave here quickly!”
+“No, no!” Piang insisted. “He is *hunati!* Let us leave here quickly!”
 
 Pale with fright, he looked around the moonlit grove.
 
@@ -5390,7 +5544,7 @@ There was no reaction to the light, not at first. Then; slowly, the eyelids crep
 
 Then he noticed something that gave him a little chill.
 
-The tribesman’s eyeball seemed to be turning with infinite slowness toward him. And the man’s raised foot was a little higher now. As though he were walking— but walking at a pace a hundred times slower than normal.
+The tribesman’s eyeball seemed to be turning with infinite slowness toward him. And the man’s raised foot was a little higher now. As though he were walking—but walking at a pace a hundred times slower than normal.
 
 The thing was eery. There came something more eery. A sound—the sound of a small stick cracking.
 
@@ -5410,13 +5564,13 @@ Piang led hastily down the slope of the forested plateau. He went through the br
 
 “This is it—the path of the Government station,” he said, in great relief. “We must have lost it back at the ravine. I have not been this far back in Laos, many times.”
 
-Farris asked, “Piang, what is hunati? This Change that you were talking about?”
+Farris asked, “Piang, what is *hunati?* This Change that you were talking about?”
 
 The guide became instantly less voluble. “It is a rite of worship.” He added, with some return of his cocksureness, “These tribesmen are very ignorant. They have not been to mission school, as I have.”
 
 “Worship of what?” Farris asked. “The great ones, you said. Who are they?”
 
-Piang shrugged and lied readily. “I do not know. In all the great forest, there are men who can become hunati, it is said. How, I do not know.”
+Piang shrugged and lied readily. “I do not know. In all the great forest, there are men who can become *hunati*, it is said. How, I do not know.”
 
 Farris pondered, as he tramped onward. There had been something uncanny about those tribesmen. It had been almost a suspension of animation—but not quite. Only an incredible slowing down.
 
@@ -5496,10 +5650,9 @@ He thanked her. “I could sleep on a log. I’m so tired. My muscles are as sti
 
 Berreau’s glass dropped with a sudden crash.
 
-Chapter II
+## Chapter II<br />SORCERY OF SCIENCE
 
-SORCERY OF SCIENCE
-
+.space
 Ignoring the shattered glass, the young Frenchman strode quickly toward Farris.
 
 “What do you know of hunati?” he asked harshly.
@@ -5556,7 +5709,7 @@ Why, he asked, didn’t she leave? The girl shrugged.
 
 She explained. “He has been here five years too long. When he didn’t return to France, I came out to bring him. But he won’t go. He has ties here now.”
 
-Again, she became abruptly silent. Farris discreetly refrained from asking her what ties she meant. There might be an Annamese woman in the background—■ though Berreau didn’t look that type.
+Again, she became abruptly silent. Farris discreetly refrained from asking her what ties she meant. There might be an Annamese woman in the background—though Berreau didn’t look that type.
 
 The day settled down to the job of being stickily tropical, and the hot still hours of the morning wore on. Farris, sprawling in a chair and getting a welcome rest, waited for Berreau to return.
 
@@ -5608,7 +5761,7 @@ A little way ahead loomed up those huge, monster banyans he had glimpsed before 
 
 Farris suddenly saw a Laos tribesman, a small brown figure, in the brush ten yards ahead of him. There were two others, farther in the distance. And they were all standing quite still, facing away from him.
 
-They were hunati, he knew. In that queer state of slowed-down life, that incredible retardation of the vital processes.
+They were *hunati*, he knew. In that queer state of slowed-down life, that incredible retardation of the vital processes.
 
 Farris felt a chill. He muttered over his shoulder, “You had better go back down and wait.”
 
@@ -5618,7 +5771,7 @@ He turned, startled. Then he too saw Berreau.
 
 His blond head bare, his face set and white and masklike, standing frozenly beneath a big wild-fig a hundred feet to the right.
 
-Hunati!
+*Hunati!*
 
 Farris had expected it, but that didn’t make it less shocking. It wasn’t that the tribesmen mattered less as human beings. It was just that he had talked with a normal Berreau only a few hours before. And now, to see him like this!
 
@@ -5632,7 +5785,7 @@ Farris touched his arm. “Berreau, you have to snap out of this.”
 
 No, he couldn’t hear. He was living at a tempo so slow that no ordinary sound could make sense to his ears. His face was a rigid mask, lips slightly parted to breathe, eyes fixed ahead. Slowly, slowly, the lids crept down and veiled those staring eyes and then crept open again in the infinitely slow wink. Slowly, slowly, his slightly raised left foot moved down toward the ground.
 
-Movement, pulse, breathing—all a hundred times slower than normal. Living, but not in a human way— not in a human way at all.
+Movement, pulse, breathing—all a hundred times slower than normal. Living, but not in a human way—not in a human way at all.
 
 Lys was not so stunned as Farris was. He realized later that she must have seen her brother like this, before.
 
@@ -5670,7 +5823,7 @@ Then the dejection of the girl’s small figure got him. He patted her shoulder.
 
 She lit a gasoline lamp, and went out. He heard her calling the servants.
 
-He looked down at Berreau. He felt a little sick, again. The Frenchman lay, eyes staring toward the ceiling. He was living, breathing—and yet his retarded life-tempo cut him off from Farris as effectually as death would.	«.
+He looked down at Berreau. He felt a little sick, again. The Frenchman lay, eyes staring toward the ceiling. He was living, breathing—and yet his retarded life-tempo cut him off from Farris as effectually as death would.
 
 No, not quite. Slowly, so slowly that he could hardly detect the movement, Berreau’s eyes turned toward Farris’ figure.
 
@@ -5702,8 +5855,9 @@ Farris gently lifted Berreau back to the bed. He felt a cold dampness on his for
 
 What was there up there that drew worshippers in a strange trance of slowed-down life?
 
-Chapter III UNHOLY LURE
+## Chapter III<br />UNHOLY LURE
 
+.space
 He turned to the girl and asked, “How long will he stay in this condition?”
 
 “A long time,” she answered heavily. “It may take weeks for the hunati to wear off.”
@@ -5842,7 +5996,7 @@ But Berreau didn’t try to go out, though Farris had been expecting that and ha
 
 He was almost gay, at the meal—a febrile good humor that Farris didn’t quite like. By common consent, none of the three spoke of what was uppermost in their minds.
 
-Berreau retired, and Farris told Lys, “Go to bed— you’ve lost so much sleep lately you’re half asleep now. I’ll keep watch.”
+Berreau retired, and Farris told Lys, “Go to bed—you’ve lost so much sleep lately you’re half asleep now. I’ll keep watch.”
 
 In his own room, Farris found drowsiness assailing him too. He sank back in a chair, fighting the heaviness that weighed down his eyelids.
 
@@ -5852,12 +6006,13 @@ Then, suddenly, he understood. “Drugged!” he exclaimed, and found his voice 
 
 Berreau had come in. He loomed gigantic to Farris’ blurred eyes. He came closer, and Farris saw in his hand a needle that dripped sticky green.
 
-“I’m sorry, Farris.” He was rolling up Farris’ sleeve, and Farris could not resist. “I’m sorry to do this to you and Lys. But you would interfere. And this is the only way I can keep you from bringing me back.”
+“I’m sorry, Farris.” He was rolling up Farris’ sleeve, and Farris could not resist. “I’m sorry to do this to you and Lys. But you *would* interfere. And this is the only way I can keep you from bringing me back.”
 
 Farris felt the sting of the needle. He felt nothing more, before drugged unconsciousness claimed him.
 
-Chapter IV INCREDIBLE WORLD
+## Chapter IV<br />INCREDIBLE WORLD
 
+.space
 Farris awoke, and for a dazed moment wondered what it was that so bewildered him. Then he realized.
 
 It was the daylight. It came and went, every few minutes. There was the darkness of night in the bedroom, and then a sudden burst of dawn, a little period of brilliant sunlight, and then night again.
@@ -5866,9 +6021,9 @@ It came and went, as he watched numbly, like the slow, steady beating of a great
 
 Days shortened to minutes? But how could that be? And then, as he awakened fully, he remembered.
 
-Hunati! He injected the chlorophyll drug into my blood-stream!
+*Hunati!* He injected the chlorophyll drug into my blood-stream!
 
-Yes. He was hunati, now. Living at a tempo a hundred times slower than normal.
+Yes. He was *hunati*, now. Living at a tempo a hundred times slower than normal.
 
 And that was why day and night seemed a hundred times faster than normal, to him. He-had, already, lived through several days!
 
@@ -5890,11 +6045,11 @@ She still wore her jacket and slacks, having obviously been too worried about he
 
 “What’s happened?” she cried. “The light—”
 
-He took her by the shoulders. “Lys, don’t lose your nerve. What’s happened is that we’re hunati now. Your brother did it—drugged us at dinner, then injected the chlorophyll compound into us.”
+He took her by the shoulders. “Lys, don’t lose your nerve. What’s happened is that we’re *hunati* now. Your brother did it—drugged us at dinner, then injected the chlorophyll compound into us.”
 
 “But why?” she cried.
 
-“Don’t you see? He was going hunati himself again, going back up to the forest. And we could easily overtake and bring him back, if we remained normal. So he changed us too, to prevent that.”
+“Don’t you see? He was going *hunati* himself again, going back up to the forest. And we could easily overtake and bring him back, if we remained normal. So he changed us too, to prevent that.”
 
 Farris went into Berreau’s room. It was as he had-expected. The Frenchman was gone.
 
@@ -6066,7 +6221,7 @@ Then Farris saw what had happened. The little vial, the vial of the blight, had 
 
 And that little splash of gray-green mould was rushing through the forest faster than flame! The blight, the gray-green killer from far away, propagating itself with
 
-appalling rapidity! “Dieu!” screamed Berreau. “Non— non—”
+appalling rapidity! “Dieu!” screamed Berreau. “Non—non—”
 
 Even normally, a blight seems to spread swiftly. And to Farris and the other two, slowed down as they were, this blight was a raging cold fire of death.
 
@@ -6118,7 +6273,7 @@ Sunset saw them out of the blighted area of the forest, well on their way toward
 
 “Will it kill all the forest?” whispered the girl.
 
-“No. The forest will fight back, come back, conquer the blight, in time. A long time, by our reckoning— years, decades. But to them, that fierce struggle is raging on even now.”
+“No. The forest will fight back, come back, conquer the blight, in time. A long time, by our reckoning—years, decades. But to them, that fierce struggle is raging on even now.”
 
 And as they walked on, it seemed to Farris that still in his mind there pulsed faintly from far behind that alien, throbbing cry.
 
@@ -6126,9 +6281,14 @@ And as they walked on, it seemed to Farris that still in his mind there pulsed f
 
 He did not look back. But he knew that he would not come back to this or any other forest, and that his profession was ended, and that he would never kill a tree again.
 
-What's It Like Out There?
+---
 
-I hadn’t wanted to wear my uniform when I left the hospital, but I didn’t have any other clothes there and I was too glad to get out to argue about it. But as soon as I got on the local plane I was taking to Los Angeles, I was sorry I had it on.
+whats_it_like_out_there
+
+# What's It Like Out There?
+
+.fl
+<span class="smallcaps">I hadn’t wanted</span> to wear my uniform when I left the hospital, but I didn’t have any other clothes there and I was too glad to get out to argue about it. But as soon as I got on the local plane I was taking to Los Angeles, I was sorry I had it on.
 
 People gawked at me and began to whisper. The stewardess gave me a special big smile. She must have spoken to the pilot, for he came back and shook hands, and said, “Well, I guess a trip like this is sort of a comedown for you”
 
@@ -6168,7 +6328,7 @@ I went out and found a cabby and asked him to drive me out to San Gabriel. He wa
 
 “Hop right in, buddy,” he said. “Say, you’re one of those Mars guys, aren’t you?”
 
-I s^id, “That’s right.”
+I said, “That’s right.”
 
 “Well, well,” he said. “Tell me, how was it out there?”
 
@@ -6242,15 +6402,18 @@ He shook my hand. “Thank you, Sergeant Haddon. Thank you very much.”
 
 “Sure,” I said.
 
-. I got into the cab. I took out my letters and tore that one into bits. I wished to God I’d never got it. I wished I didn’t have any of the other letters I still had.
+I got into the cab. I took out my letters and tore that one into bits. I wished to God I’d never got it. I wished I didn’t have any of the other letters I still had.
 
+## II
+
+.space
 I took the early plane for Omaha. Before we got there I fell asleep in my seat, and then I began to dream, and that wasn’t good.
 
 A voice said, “We’re coming down.”
 
-And we were coming down, Rocket Four was coming down, and there we were in our squad-cell, all of us strapped into our hammocks, waiting and scared, wishing there was a window so we could see out, hoping our rocket wouldn’t be the one to crack up, hoping none of the rockets cracked up, but if one does, don’t let it be ours. . . .
+And we were coming down, Rocket Four was coming down, and there we were in our squad-cell, all of us strapped into our hammocks, waiting and scared, wishing there was a window so we could see out, hoping our rocket wouldn’t be the one to crack up, hoping none of the rockets cracked up, but if one does, don’t let it be *ours*. . . .
 
-“We’re coming down . .
+“We’re coming down . . .”
 
 Coming down, with the blasts starting to boom again underneath us, hitting us hard, not steady like at takeoff, but blast-blast-blast, and then again, blast-blast.
 
@@ -6286,9 +6449,9 @@ Only not a dream, but a nightmare, when we got up to the canted metal bulk and s
 
 Only it hadn’t happened, it hadn’t happened yet at all, for we were still back in Rocket Four coming in, we hadn’t landed yet at all but we were going to any minute—
 
-“We’re coming down. . .
+“We’re coming down. . . .”
 
-I couldn’t go through it all again. I yelled and fought my hammock-straps and woke up, and I was in my plane-seat and a scared hostess was a foot away from me, saying, “This is Omaha, Sergeant! We’re coming down.” •
+I couldn’t go through it all again. I yelled and fought my hammock-straps and woke up, and I was in my plane-seat and a scared hostess was a foot away from me, saying, “This is Omaha, Sergeant! We’re coming down.”
 
 They were all looking at me, all the other passengers, and I guessed I’d been talking in the dream—I still had the sweat down my back like all those nights hi the hospital when I’d keep waking up.
 
@@ -6414,6 +6577,9 @@ She insisted on driving me back to Omaha, and out to the airport. She seemed sor
 
 I wondered if she’d get over it in time, and I guessed she would. People do get over things. I supposed she’d marry some other nice guy, and I wondered what they’d do with Jim’s things—with all those old magazines nobody was ever coming back to read.
 
+## III
+
+.space
 I would never have stopped at Chicago at all if I could have got out of it, for the last person I wanted to talk to anybody about was Walter Millis. It would be too easy for me to make a slip, and let out stuff nobody was supposed to know.
 
 But Walter’s father had called me at the hospital, a couple of times. The last time he called, he said he was having Breck’s parents come down from Wisconsin so they could see me too, so what could I do then but say, Yes, I’d stop. But I didn’t like it at all, and I knew I’d have to be careful.
@@ -6480,13 +6646,13 @@ There’d been a little hitch back on Earth, Colonel Nichols explained. (He was 
 
 Holding on—that’s what we were doing. Nights we’d sit in the Quonset, and listen to Lassen coughing in his bunk, and it seemed like wind-giants, cold-giants, were bawling and laughing around our little huddle of shelters.
 
-“Damn it, if they’re not coming, why don’t we go home?” Walter said. “We’ve still got the four rockets— they could take us all back.”
+“Damn it, if they’re not coming, why don’t we go home?” Walter said. “We’ve still got the four rockets—they could take us all back.”
 
 Breck’s serious face got graver. “Look, Walter, there’s too much of that stuff being talked around. Lay off.”
 
 “Can you blame the men for talking it? We’re not story-book heroes. If they’ve forgotten about us back on Earth, why do we just sit and take it?”
 
-“We have'to,” Breck said. “Three will come.”
+“We have to,” Breck said. “Three will come.”
 
 I’ve always thought that it wouldn’t have happened, what did happen, if we hadn’t had that false alarm. The one that set the whole camp wild that night, with guys shouting, “Three’s here! The rockets landed over west of Rock Ridge!”
 
@@ -6542,7 +6708,7 @@ I asked them if they’d had any details about the accident, and Mr. Millis said
 
 Well, that made it easier. I sat there, with all four of them watching my face, and dreamed it up.
 
-I said, “It was one of those one-in-a-million things. You see, more little meteorites hit the ground on Mars than here, because the air’s so much thinner it doesn’t bum them up so fast. And one hit the edge of the fuel-dump and a bunch of little tanks started to blow. I was down with the sickness, so I didn’t see it, but I heard all about it.”
+I said, “It was one of those one-in-a-million things. You see, more little meteorites hit the ground on Mars than here, because the air’s so much thinner it doesn’t burn them up so fast. And one hit the edge of the fuel-dump and a bunch of little tanks started to blow. I was down with the sickness, so I didn’t see it, but I heard all about it.”
 
 You could hear everybody breathing, it was so quiet as I went on with my yarn.
 
@@ -6574,8 +6740,9 @@ I’d had enough. I wasn’t going to face them again in the morning. I wrote a 
 
 It was late, but' a truck coming along picked me up, and the driver said he was going near the airport. He asked me what it was like on Mars and I told him it was lonesome. I slept in a chair at the airport, and I felt better, for next day I’d be, home, and it would be over. That’s what I thought.
 
-IV
+## IV
 
+.space
 It was getting toward evening when we reached the village, for my father and mother hadn’t known I was coming on an earlier plane, and I’d had to wait for them up at Cleveland airport. When we drove into Market Street, I saw there was a big painted banner stretching across:
 
 “HARMONVILLE WELCOMES HOME ITS SPACEMAN!”
@@ -6680,9 +6847,14 @@ I quit it. It was crazy, talking to guys who were dead and forty million miles a
 
 But I felt as though something was over for me, too. It was being young. I didn’t feel old. But I didn’t feel young, either, and I didn’t think I ever would, not ever again.
 
-Requiem
+---
 
-Kellon thought sourly that he wasn’t commanding a star-ship, he was running a travelling circus. He had aboard telaudio men with tons of equipment, pontifical commentators who knew the answer to anything, beautiful females who were experts on the woman’s angle, pompous bureaucrats after publicity, and entertainment stars who had come along for the same reason.
+requiem
+
+# Requiem
+
+.fl
+<span class="smallcaps">Kellon thought sourly</span> that he wasn’t commanding a star-ship, he was running a travelling circus. He had aboard telaudio men with tons of equipment, pontifical commentators who knew the answer to anything, beautiful females who were experts on the woman’s angle, pompous bureaucrats after publicity, and entertainment stars who had come along for the same reason.
 
 He had had a good ship and crew, one of the best in the Survey. Had had. They weren’t any more. They had been taken off their proper job of pushing astrographi-cal knowledge ever further into the remote regions of the galaxy, and had been sent off with this cargo of costly people on a totally unnecessary mission.
 
@@ -6728,7 +6900,7 @@ Kellon nodded. “Of course. Mr. Viresson is up there and will assist them in an
 
 He was interrupted by Lorri Lee, whose glitteringly handsome face and figure and sophisticated drawl made her the idol of all female telaudio reporters.
 
-“My broadcast is to be right after landing— remember? I’d like to do it alone, with just the emptiness of that world as background. Can you keep the others from spoiling the effect? Please?”
+“My broadcast is to be right after landing—remember? I’d like to do it alone, with just the emptiness of that world as background. Can you keep the others from spoiling the effect? Please?”
 
 “We’ll do what we can,” Kellon mumbled. And as the rest of the pack converged on him he added hastily, “I’ll talk to you later. Mr. Borrodale’s broadcast—”
 
@@ -6742,7 +6914,7 @@ It showed a dun-colored globe spinning in space, growing visibly larger as they 
 
 Silence again, and the spinning brownish ball was bigger now, with white clouds ragged upon it. And then Borrodale spoke again.
 
-“You who watch from many worlds in the galaxy— tliis is the homeland of our race. Speak its name to yourselves. The Earth.”
+“You who watch from many worlds in the galaxy—tliis is the homeland of our race. Speak its name to yourselves. The Earth.”
 
 Kellon felt a deepening distaste. This was all true, but still it was phony. What was Earth now to him, or to Borrodale, or his billions of listeners? But it was a story, a sentimental occasion, so they had to pump it up into something big.
 
@@ -6760,13 +6932,11 @@ hope—that you’ll find interest in recalling a past that is almost legend.”
 
 And Kellon thought, “The bastard has no more interest in this old planet than I have, but he surely is j smooth.”
 
-A	.1
-
 As soon as the broadcast ended, Kellon found himself besieged once more by the clamoring crowd in the main cabin. He held up his hand in protest.
 
 “Please, now now—we have a landing to make first. Will you come with me, Doctor Damow?”
 
-Damow was from Historical Bureau, and was the titular head of the whole expedition, although no one paid him much attention. He was a sparrowy, elderly man who babbled excitedly as he went with Kellon to the bridge.	■ ;
+Damow was from Historical Bureau, and was the titular head of the whole expedition, although no one paid him much attention. He was a sparrowy, elderly man who babbled excitedly as he went with Kellon to the bridge.	
 
 He at least, was sincere in his interest, Kellon thought. For that matter, so were all the dozen-odd scientists who were aboard. But they were far outnumbered by the fat cats and big brass out for publicity, the professional enthusers and sentimentalists. A real hell of a job the Survey had given him!
 
@@ -6774,7 +6944,7 @@ In the bridge, he glanced through the window at the dun-colored planet and its s
 
 The historiographer bobbed his head, and began unfolding a big, old-fashioned chart.
 
-“See this continent here? Along its eastern coast were a lot of the biggest cities, like New York.”	I
+“See this continent here? Along its eastern coast were a lot of the biggest cities, like New York.”
 
 Kellon remembered that name, he’d learned it in school history, a long time ago.
 
@@ -6864,7 +7034,7 @@ He sat for a long time in the slanting sunshine, feeling his bristling nerves re
 
 No other movement, no other life. A pity, he thought, that there were no birds for this last spring of the old planet—not even a butterfly. Well, it made no difference, all this wouldn’t last long.
 
-As Kellon tramped back through the deepening dusk, he suddenly became aware of a shining bubble in the darkening sky. He stopped and stared up at it and then remembered. Of course, it was the old planet’s moon— during the cloudy nights he had forgotten all about it. He went on, with its vague light about him.
+As Kellon tramped back through the deepening dusk, he suddenly became aware of a shining bubble in the darkening sky. He stopped and stared up at it and then remembered. Of course, it was the old planet’s moon—during the cloudy nights he had forgotten all about it. He went on, with its vague light about him.
 
 When he stepped back into the lighted main cabin of the ship, he was abruptly jarred out of his relaxed mood. A first-class squabble was going on, and everybody was either contributing to it or commenting on it. Lorri Lee, looking like a pretty child complaining of a hurt, was maintaining that she should have broadcast time next day for her special woman’s-interest feature, and somebody else disputed her claim, and young Vallely, Damow’s assistant, looked harried and upset. Kellon got by them without being noticed, locked the door of his cabin and poured himself a long drink, and damned Survey all over again for this assignment.
 
@@ -6930,14 +7100,13 @@ Kellon wondered what they had been like, the Ross and Jennie who had once sat he
 
 There had been a poem about flowers at the end of the old book on flowers Haller had lent him, and he remembered some of it.
 
-“A ll are at one now, roses and lovers,
+.space.thin
+*“All are at one now, roses and lovers,*
+*Not known of the winds and the fields and the sea,*
+*Not a breath of the time that has been hovers*
+*In the air now soft with a summer to be.”*
 
-Not known of the winds and the fields and the sea,
-
-Not a breath of the time that has been hovers
-
-In the air now soft with a summer to be.”
-
+.space
 Well, yes, Kellon thought, they were all at one now, the Rosses and the Jennies and the things they had done and the things they had thought, all at one now in the dust of this old planet whose fiery final summer would be soon, very soon. Physically, everything tha't had been done, everyone who had lived, on Earth was still here in its atoms, excepting the tiny fraction of its matter that had sped to other worlds.
 
 He thought of the names that were so famous still through all the galactic worlds, names of men and women and places. Shakespeare, Plato, Beethoven, Blake, and the splendor of Babylon and the bones of Angkor and the humble houses of his own ancestors, all here, all still here.
@@ -6956,6 +7125,7 @@ house, perhaps with their children if they had any, and in the afternoons did sh
 
 No, Kellon thought. Ross and Jennie were shadows now but they had not been then. To them, and to all the other people he could visualize going and coming busily about the Earth in those days, it was he, the future, the man yet to come, who was the shadow. Alone here, sitting and trying to imagine the long ago, Kellon had an eery feeling sometimes that his vivid imaginings of people and crowded cities and movement and laughter were the reality and that he himself was only a watching wraith.
 
+.space
 Summer days came swiftly, hot and hotter. Now the white sun was larger in the heavens and pouring down such light and heat as Earth had not received for millennia. And all the green life across it seemed to respond with an exultant surge of final growth, an act of joyous affirmation that Kellon found infinitely touching. Now even the nights were warm, and the winds blew thrilling soft, and on the distant beaches the ocean leaped up in a laughter of spray and thunder, running in great solar tides.
 
 With a shock as though awakened from dreaming, Kellon suddenly realized that only a few days were left. The spiral was closing in fast now and very quickly the heat would mount beyond all tolerance.
@@ -7010,6 +7180,7 @@ Well, Kellon thought, he couldn’t quite understand it himself, so how could he
 
 Borrodale did not speak as they went back out of the moonlit valley. He looked back once, but Kellon did not look back.
 
+.space
 They took the ship off twelve hours later, in a morning made dull and ominous by racing clouds. Kellon felt a sharp relief when they cleared atmosphere and were out in the depthless, starry blackness. He knew where he was, in space. It was the place where a spaceman belonged. He’d get a stiff reprimand for this later, but he was not sorry.
 
 They put the ship into a calculated orbit, and waited. Days, many of them, must pass before the end came to Earth. It seemed quite near the white sun now, and its moon had slid away from it on a new distorted orbit, but even so it would be a while before they could broadcast to a watching galaxy the end of its ancestral world.
@@ -7052,9 +7223,14 @@ Borrodale shook his head. “Silence can be the best requiem of all. There’ll 
 
 “Yes,” said Borrodale. “I’m glad that Earth had one true mourner, at the last.”
 
-After a Judgment Day
+---
 
-Martinsen lowered his head so that he would not see the window and the Earth. He looked instead at the complex bank of telltales across the room from him. He looked at them for a long time before he really saw them, and noticed that one had changed. A tiny red star had appeared in that section.
+after_a_judgment_day
+
+# After a Judgment Day
+
+.fl
+<span class="smallcaps">Martinsen lowered his</span> head so that he would not see the window and the Earth. He looked instead at the complex bank of telltales across the room from him. He looked at them for a long time before he really saw them, and noticed that one had changed. A tiny red star had appeared in that section.
 
 He reached and punched a button on the desk, and then leaned and said into an intercom,
 
@@ -7264,9 +7440,14 @@ The last probe was gone. Martinsen looked up at the globe of Earth, and then he 
 
 “Come on, Howard. Let’s go home.”
 
-The Pro
+---
 
-The rocket stood tall and splendid, held for now in the nurse-arms of its gantry, but waiting, looking up and waiting . . .
+the_pro
+
+# The Pro
+
+.fl
+<span class="smallcaps">The rocket stood</span> tall and splendid, held for now in the nurse-arms of its gantry, but waiting, looking up and waiting . . .
 
 And why the hell, thought Burnett, do I have to think fiction phrases even when I’m looking at the real thing?
 
@@ -7548,9 +7729,14 @@ He put them back neatly into their places. His shoulders sagged a little, and th
 
 “Damn you,” he whispered. “Damn you, damn you . . .”
 
-Castaway
+---
 
-It seemed to him that Broadway had never looked so depressing as in this early winter twilight, with the gas lamps yet unlit and the remnants of old poplars stirring sluggishly in a cold wind. Hoofs and wheels slapped over the cracked paving, and a tentative flake of snow drifted down.
+castaway
+
+# <a id="page370"></a>Castaway
+
+.fl
+<span class="smallcaps">It seemed to</span> him that Broadway had never looked so depressing as in this early winter twilight, with the gas lamps yet unlit and the remnants of old poplars stirring sluggishly in a cold wind. Hoofs and wheels slapped over the cracked paving, and a tentative flake of snow drifted down.
 
 He thought that any place would be better than this, Richmond, Charleston, even Philadelphia. But they had really been no better, he had wearied of them all. He always wearied of places, even of most people. Perhaps it was just today’s disappointment, after all the other disappointments, that made him feel this way.
 
@@ -7572,7 +7758,7 @@ But when he went into the inner office, he was all the courteous Virginian as he
 
 She did not raise her eyes as she murmured, “Ellen Donsel.”
 
-She was expensively dressed, from her fur-lined cloak to her blue rohan bonnet. Her face was plump, pink, and stupid-looking. Then she looked up at him, and Poe felt surprise. The eyes in that round face were blazing, vibrant with life and intelligence.
+<a id="page371"></a>She was expensively dressed, from her fur-lined cloak to her blue rohan bonnet. Her face was plump, pink, and stupid-looking. Then she looked up at him, and Poe felt surprise. The eyes in that round face were blazing, vibrant with life and intelligence.
 
 “I suppose,” he said, “that you wish me to read my poems at some gathering, a thing which I have not the time to do. Or perhaps it’s a copy of ‘The Raven’ in my own handwriting—”
 
@@ -7586,7 +7772,9 @@ The word seemed to hang in the air, echoing like a distant bell, and for a momen
 
 “Aarn,” he repeated, finally. “Now, that is a fine, sonorous name. Whose is it?”
 
-“It’s not a person,” said Miss Donsel. “It’s a place.” “Ah,” said Poe. “And where may this place be?”
+“It’s not a person,” said Miss Donsel. “It’s a place.”
+
+“Ah,” said Poe. “And where may this place be?”
 
 Her gaze stabbed him. “Don’t you remember?”
 
@@ -7594,25 +7782,27 @@ He began to feel a little uneasy. Because he had written stories of the fantasti
 
 “I’m sorry,” he said. “I have not heard the name before.”
 
-“Have you heard the name Lalu?” she said. “It’s my name. Or the name Yann? It’s your name. And we came from Aarn, though you came long before I did.” Poe smiled guardedly. “This fancy of yours is a rare one, madam. Tell me . . . what is it like, this place we came from?”
+“Have you heard the name Lalu?” she said. “It’s my name. Or the name Yann? It’s *your* name. And we came from Aarn, though you came long before I did.”
+
+Poe smiled guardedly. “This fancy of yours is a rare one, madam. Tell me . . . what is it like, this place we came from?”
 
 “It lies in the great bay of the purple mountains.” Her eyes never left his. “And the river Zair flows down through the mountains, and the towers of Aarn loom above it in the sunset . . .”
 
 He suddenly interrupted her with a bursting laugh. Then he declaimed, “. . . glittering in the red sunlight with a hundred oriels, minarets, and pinnacles; and seeming the phantom handiwork, conjointly, of the sylphs, of the fairies, of the genii, and of the gnomes.”
 
-He laughed again, shaking his head. “That is the conclusion of my tale of ‘The Domain of Amheim.’ Of course . . . Aam . . . Amheim. And you got the name Lalu from my Ulalume, and Yann from my Yaa-nek . . . why, madam, I must congratulate you on your cleverness.”
+<a id="page372"></a>He laughed again, shaking his head. “That is the conclusion of my tale of ‘The Domain of Arnheim.’ Of course . . . Aarn . . . Arnheim. And you got the name Lalu from my Ulalume, and Yann from my Yaa-nek . . . why, madam, I must congratulate you on your cleverness.”
 
-“No,” she said. And again, “No. It was quite the other way around, Mr. Poe. You got your names from those I have just spoken.”
+“No,” she said. And again, “No. It was quite the other way around, Mr. Poe. You got *your* names from those I have just spoken.”
 
 He regarded the girl with interest. He had not had an experience quite like this one before, and was intrigued.
 
 “So I came from Aam, did I? Then why don’t I remember it?”
 
-“You do, a little,” she murmured. “You remember the place—almost. You remembered the names— almost. You put them into your stories and poems.”
+“You do, a little,” she murmured. “You remember the place—almost. You remembered the names—almost. You put them into your stories and poems.”
 
 His interest heightened. This girl might look like a fool—except for those intense eyes—but she obviously had an unusual imagination.
 
-“Where, then, is Aam? On the other side of the world? In the garden of the Hesperides?”
+“Where, then, is Aarn? On the other side of the world? In the garden of the Hesperides?”
 
 “Quite near here, Mr. Poe. In space, that is. But not in time. It is a long way in the future.”
 
@@ -7624,11 +7814,11 @@ Her level gaze did not change. “You did write it. In the tale of the Ragged Mo
 
 “Was it? Was it only chance that made you write of traveling in time, a thing no one had ever seriously written of before? Or was it a suppressed memory?”
 
-“I wish it were so,” he said. “I assure you that I am not in love with this nineteenth century. But, unfortunately, I can remember my whole life quite clearly, and I have no memories of Aam.”
+“I wish it were so,” he said. “I assure you that I am not in love with this nineteenth century. But, unfortunately, I can remember my whole life quite clearly, and I have no memories of Aarn.”
 
 “That is Mr. Poe speaking,” the girl said. “He remembers only his own life. But you are not only Mr. Poe, you are also Yann.”
 
-He smiled. “Two people in one body? Tell me, Miss Donsel, have you read my ‘William Wilson’? It tells of a man with two personalities, an alter ego—”
+<a id="page373"></a>He smiled. “Two people in one body? Tell me, Miss Donsel, have you read my ‘William Wilson’? It tells of a man with two personalities, an alter ego—”
 
 “I’ve read it,” she said. “And I know that you wrote it because you have two personalities, though one of them you cannot remember.”
 
@@ -7642,7 +7832,7 @@ Her face remained dead serious. “The body cannot move in time. No physical, ma
 
 “But to what purpose?”
 
-“To the purpose of dominating that brain and body and investigating the historical past through the eyes of a man living in that past. It is not easy to do and there is danger in it—the danger of selecting a host whose mind is so powerful that it dominates its visitant. And that is what happened to Yann, Mr. Poe—he is in your brain but dominated, numbed, affecting only your subconscious and giving it half-memories that you think are dreams and fancies.”
+“To the purpose of dominating that brain and body and investigating the historical past through the eyes of a man living in that past. It is not easy to do and there is *danger* in it—the danger of selecting a host whose mind is so powerful that it dominates its visitant. And that is what happened to Yann, Mr. Poe—he is in your brain but dominated, numbed, affecting only your subconscious and giving it half-memories that you think are dreams and fancies.”
 
 She added, “You must have a powerful mind indeed, Mr. Poe, so to dominate Yann.”
 
@@ -7650,9 +7840,7 @@ She added, “You must have a powerful mind indeed, Mr. Poe, so to dominate Yann
 
 “It has happened before,” she murmured. “One of us was trapped in the brain of a Roman poet named Lucretius. . . .”
 
-“Titus Lucretius Carsus? Why, madam, I’ve read his
-
-De Rerum Natura, and its strange theories of an atomic science.”
+“Titus Lucretius Carsus? Why, madam, I’ve read his <a id="page374"></a>*De Rerum Natura*, and its strange theories of an atomic science.”
 
 “Not theories,” she insisted. “Half-memories. They so tormented him that he killed himself. And there were others, in other levels of time.”
 
@@ -7662,19 +7850,19 @@ She interrupted. “I am speaking to you, Mr. Poe, but I am trying to speak to Y
 
 She went on, rapidly, almost fiercely, and all the time her eyes held his. And he listened in fascination as the names and places and things of his tales came into her speech, sometimes altered, sometimes unchanged, all woven into a fabric by this girl’s impassioned imagination.
 
-“There was—or I should say, here and now, that there will be, an Age of Violence beyond anything the world has known. And the climax of it will be a setting loose of fiery forces that will wreak unprecedented destruction.”
+“There was—or I should say, here and now, that there *will* be, an Age of Violence beyond anything the world has known. And the climax of it will be a setting loose of fiery forces that will wreak unprecedented destruction.”
 
 Poe thought of his own tale in which mankind had perished in a worldwide explosion of flame, and the girl seemed to catch the thought from the half-smile on his face.
 
-“Oh, not all of humanity were—or will be— destroyed. But many, many, and when the Age of Violence passed, there were thousands where there had been millions. So our world, of centuries from now, the world in which Aam lives, is not the crowded, bustling place that this one is.
+“Oh, not all of humanity were—or will be—destroyed. But many, many, and when the Age of Violence passed, there were thousands where there had been millions. So our world, of centuries from now, the world in which Aam lives, is not the crowded, bustling place that this one is.
 
-“Yann, remember! Remember our beautiful, clean, uncrowded world! Remember the day that we drifted down the Zair in your boat, all the way from the mountains. Down the yellow waters with the great water lilies about us, and the forest dark and somber beyond them, all the way until above Aam we came to the Valley of Many-Colored Grass, and walked there amid the silver trees and looked down on the fliers skimming in the sunlight above the towers of Aam.
+“Yann, *remember!* Remember our beautiful, clean, uncrowded world! Remember the day that we drifted down the Zair in your boat, all the way from the mountains. Down the yellow waters with the great water lilies about us, and the forest dark and somber beyond them, all the way until above Aam we came to the Valley of Many-Colored Grass, and walked there amid the silver trees and looked down on the fliers skimming in the sunlight above the towers of Aarn.
 
-“Don’t you remember? That was when you first told me that you had been to the Temporal Laboratory at Tsalal, and had volunteered for the going-back. You would go back to a time not long before the Age of Violence, and would see the world as it was before the great wars shattered it, would see through the eyes of another man all the things that had been lost to history in the devastation.
+“Don’t you remember? That was when you first told <a id="page375"></a>me that you had been to the Temporal Laboratory at Tsalal, and had volunteered for the going-back. You would go back to a time not long before the Age of Violence, and would see the world as it was before the great wars shattered it, would see through the eyes of another man all the things that had been lost to history in the devastation.
 
 “Do you remember my tears? How I begged you not to go, how I reminded you of those who had never come back, how I clung to you? But your historical researches had so obsessed you that you would not listen. And so you went. And it was as I had feared, and you did not come back.
 
-“Yann, this is Lalu speaking! Do you know what a torture it can be to wait? Until finally I could bear it no longer and won permission from the Temporal Laboratory to come back to this time and search for you. And the weeks I’ve been here, in another person’s body, seeking in vain, until at last I found the clue, found the names that we knew in Aam in tales that had become famous, and knew that only the writer of them could be your host. Yann!’’
+“Yann, this is Lalu speaking! Do you know what a torture it can be to wait? Until finally I could bear it no longer and won permission from the Temporal Laboratory to come back to this time and search for you. And the weeks I’ve been here, in another person’s body, seeking in vain, until at last I found the clue, found the names that we knew in Aam in tales that had become famous, and knew that only the writer of them could be your host. *Yann!*’’
 
 Poe had listened, half-dreaming, as the names from his own fancied worlds had floated on the air. But that final shrill cry of agonized appeal brought him to his feet.
 
@@ -7688,9 +7876,9 @@ The room, the angry face, everything, seemed to waver, as though under water. He
 
 “Yann?”
 
-Was the girl smiling? Of course, the minx was succeeding in hoodwinking the famous Mr. Poe with moonbeams and nonsense, and would happily tell all her little friends about it! The pride and arrogance that were deep in his nature made him stiffen, and the strangeness ebbed.
+Was the girl smiling? Of course, the minx was succeeding in hoodwinking the famous Mr. Poe with <a id="page376"></a>moonbeams and nonsense, and would happily tell all her little friends about it! The pride and arrogance that were deep in his nature made him stiffen, and the strangeness ebbed.
 
-“I regret,” he said, “that I cannot devote more time now to your ingenious jeu d’esprit, Miss Donsel. I can only thank you for the assiduousness with which you have studied my little tales.”
+“I regret,” he said, “that I cannot devote more time now to your ingenious *jeu d’esprit*, Miss Donsel. I can only thank you for the assiduousness with which you have studied my little tales.”
 
 He opened the door, and bowed to her. She stood up, and her face was not smiling now, but stricken.
 
@@ -7716,7 +7904,7 @@ He said, smiling acidly, “I congratulate you, not only on your imagination but
 
 She paid no heed to him at all. She ran past him and tore open the door. It was late, and his assistant had gone home, and by the time Poe followed her into the other office, Miss Donsel had run out into the street.
 
-He hurried after her. The gas street lamps were on, but in the passing traffic he could not at first see her. Then he heard her shrill call, and saw her climbing into a public cab that had pulled up. He started after her, and saw her face, eyes round with terror, looking back at him the moment before she disappeared into the cab. The driver spoke to his horses and the cab went on.
+He hurried after her. The gas street lamps were on, but in the passing traffic he could not at first see her. Then he heard her shrill call, and saw her climbing into a public cab that had pulled up. He started after her, and saw her face, eyes round with terror, looking back <a id="page377"></a>at him the moment before she disappeared into the cab. The driver spoke to his horses and the cab went on.
 
 Poe, always short of temper, felt an angry impatience. He had let himself be made a fool of, even to listen to that chit and her clever beguilings. Probably by now she was mirthfully triumphant.
 
@@ -7728,25 +7916,30 @@ He walked back to the office. Thin flakes of snow were drifting down in the sick
 
 He went back into his office and sat down at the desk. As his anger cooled a little, he wondered again if there was not a tale in all that artful nonsense? But it so echoed all his other stories that they would say he was repeating himself. Yet still, the idea was intriguing—the man lost out of his time . . .
 
-“1 have reached these lands but newly, from an ultimate dim Thule, from a wild, weird clime that lieth sublime, out of Space, out of Time. . . .
+*“I have reached these lands but newly, from an ultimate dim Thule, from a wild, weird clime that lieth sublime, out of Space, out of Time. . . .*
 
-“Did I write those lines? Or . . . . did Yarn?”
+*“Did I write those lines? Or . . . . did Yarn?”*
 
-For a moment Poe’s face yearned, haggard and haunted. If it were true, if beyond tomorrow was a finer world, Thule, Aam, Tsalal? If the phantom, lovely shape he could never quite see, Ulalume, Lenore, Morelia, Ligeia, was a memory . . .
+For a moment Poe’s face yearned, haggard and haunted. If it were true, if beyond tomorrow was a finer world, Thule, Aarn, Tsalal? If the phantom, lovely shape he could never quite see, Ulalume, Lenore, Morelia, Ligeia, was a memory . . .
 
 He wanted to believe, but he could not, he must not He was a man of reason and a thing like this if believed could shatter reason, could kill a man.
 
 It would not kill him.
 
-It would not.
+It would *not*.
 
 With a hand that trembled only slightly, he opened the desk and reached in for the bottle.
 
-Afterword
+---
 
+afterword
+
+# <a id="page378"></a>Afterword
+
+.fl
 WHEN LEIGH was asked to choose and edit a selection of my past stories, I simply opened up my files and told her, “There they are, over three hundred of them. You can take your pick.”
 
-I then added, “Don’t look so dismayed! Half or more of those stories are novels or novelettes too long for a collection, so you don’t have to read them all!”
+I then added, “Don’t look so dismayed! Half or more of those stories are novels or novelettes too long for a collection, so you don’t have to read them *all!*”
 
 So here are her choices. And, reading over these stories of many years, I have been surprised to find that in the case of many of them, the story itself is not as clear in my memory as the time and place of its writing. Some quirk of association brings the when and where and how of the tales vividly to mind.
 
@@ -7754,64 +7947,26 @@ The old Interstellar Patrol and other star-war series I wrote in the period 1927
 
 Very clear in my mind is the walk home on the dark, long, ice-sheathed streets, with the great belt of Orion and the Pleiades burning in frosty splendor above the roofs. Dreaming of them as huge and awesome suns, I visualized a far-future civilization that would web the star-worlds. It would require a long-reaching arm of law and order to deal with cosmic menace—and there began the Patrol.
 
-I could not get this, to me, staggering vision down on paper fast enough. I well remember that, working on a big old flat-top desk on a small portable typewriter, my feverish banging on the keyboard when I came to the
-
-great space-battles made the little machine “walk” all over the desk—and how I would get up from my chair and follow the typewriter, still banging away in my excitement.
+I could not get this, to me, staggering vision down on paper fast enough. I well remember that, working on a big old flat-top desk on a small portable typewriter, my feverish banging on the keyboard when I came to the <a id="page379"></a>great space-battles made the little machine “walk” all over the desk—and how I would get up from my chair and follow the typewriter, still banging away in my excitement.
 
 In the same way, I recall with perfect clarity the circumstances of writing the first version of “What’s It Like Out There?” That was in 1933, when Jack Williamson and I had rented for the winter a five-room bungalow right on South Beach, in Key West, Florida. (The rent was eight dollars a month—eat your hearts out, you vacationers of today!) At night, writing this story beside a window open to that kindly climate, I would hear a familiar rustling and turn to watch a large white milk-snake writhe his graceful way right up the screen, on his way to our roof and whatever small game he found there. I never see this story without remembering the dry, leathery rattle of the coconut-palm fronds, the sound of Jack’s typewriter in another room, and the elegantly smooth gliding upward of that inoffensive and beautiful creature.
 
 The little story “Exile” was based on the informal club of science fiction writers which, around the early 40s, used to meet weekly in Steuben’s Restaurant, in midtown Manhattan. Living out of town, I was only an occasional visitor, but have never forgotten the terrific discussions we had—Manly Wade Wellman, Henry Kuttner, Otto Binder, and many others were regulars. It was there I first met Henry Kuttner in 1940. He mentioned Catherine Moore and I cried, “C. L. Moore is one of my idols! What is she like?” Henry looked at me in his quiet fashion and murmured, “She is very nice.” And a week later, Julie Schwartz- wrote me that those two had just been married. Henry was the “Carrick” character of this story.
 
-Leigh has referred to the story, “In the World’s Dusk,” as a science-fantasy. The fact is that it began as one, and ended as the other. I was a great admirer of the fantasies of Clark Ashton Smith, and as a change from my usual fiction, started to write a fantasy of that type. But as it progressed, it became more and more science fictional. I remember that when I told this to
+Leigh has referred to the story, “In the World’s Dusk,” as a science-fantasy. The fact is that it began as one, and ended as the other. I was a great admirer of the fantasies of Clark Ashton Smith, and as a change from my usual fiction, started to write a fantasy of that type. But as it progressed, it became more and more science fictional. I remember that when I told this to <a id="page380"></a>Smith, he laughed and said that that was the way the story had impressed him.
 
-Smith, he laughed and said that that was the way the story had impressed him.
-
-A writer’s first story is always dear to his heart, and so is “The Monster-God of Mamurth” to mine. It was directly inspired by my great admiration for A. Merritt’s classic short, “The People of the Pit.” I too wanted to write a story of a man who found an alien, horror-haunted place in the wilderness. Ironically, this story was published in the same issue as the only story Merritt ever had in Weird Tales—the great novelette of fantasy called “The Woman of the Wood.” Against such competition I was lost, but didn’t mind because I did place second, in the readers’ poll, to a story by one who, to me, was The Master.
+A writer’s first story is always dear to his heart, and so is “The Monster-God of Mamurth” to mine. It was directly inspired by my great admiration for A. Merritt’s classic short, “The People of the Pit.” I too wanted to write a story of a man who found an alien, horror-haunted place in the wilderness. Ironically, this story was published in the same issue as the only story Merritt ever had in *Weird Tales*—the great novelette of fantasy called “The Woman of the Wood.” Against such competition I was lost, but didn’t mind because I did place second, in the readers’ poll, to a story by one who, to me, was The Master.
 
 Let’s face it, nearly every young writer begins by a process of imitation. I can think of exceptions, among them, Ray Bradbury, whose very first efforts at fiction struck right out on his own line. But most of us do at first “play the sedulous ape,” as Robert Louis Stevenson put it. It was not A. Merritt, much as I admired his work, who most influenced my own early efforts. It was an early-day writer for the Munsey magazines, Homer Eon Flint. His stories in 1918-1919, though sometimes wooden in style and heavy in conception, set my young imagination ablaze with their vaulting visions of what vast possibilities future time and space might contain. I have, through the years, often testified my debt to this now somewhat forgotten writer, and I am glad to do so again.
 
-Sometimes the scientific extrapolation of a very old story will become a bit outdated, as in my “Conquest of Two Worlds,” yet the theme may remain authentic. The space-travel and atomic-bomb anticipations in that are now obsolete. But I wonder if the central idea is. I remember that in 1932 when I dreamed it up, I had been reading a lot of stories presenting the Earthmen as always the rightful conquering heroes, and I wondered if something might not be said for an opposite view. In those days, and for many years, I did a five-mile walk every morning to get some exercise and fresh air, and I still recall how, smitten with that idea as I tramped along in the Pennsylvania hills and woods, I hurried home at such high speed that I was practically breathless when I reached my typewriter.
+Sometimes the scientific extrapolation of a very old story will become a bit outdated, as in my “Conquest of Two Worlds,” yet the theme may remain authentic. The space-travel and atomic-bomb anticipations in that are now obsolete. But I wonder if the central idea is. I remember that in 1932 when I dreamed it up, I had been reading a lot of stories presenting the Earthmen as always the rightful conquering heroes, and I wondered if something might not be said for an opposite view. In those days, and for many years, I did a five-mile walk every morning to get some exercise and fresh air, and I still recall how, smitten with that idea as I tramped along in the Pennsylvania hills and woods, I hurried <a id="page381"></a>home at such high speed that I was practically breathless when I reached my typewriter.
 
-It seems to me that I always worked in a tearing hurry, in those days. The short story “Easy Money” (my own title for it was “The World of Psycho-Control,” but that was too heavy a title for this light yam) was written in four days which I literally stole from another job. I had agreed in 1938 to write a forty-thousand-word novel for a new magazine, Startling Stories. I had a bit over three weeks to do the novel, and then the idea for this short tale occurred to me and I did it first. That left me exactly twenty-one days for the novel job. And right then I joined three pals for a weekend trip from Pennsylvania to North Carolina, to see a football game. Returning weary from fun, I had eighteen days left for the novel and had to work into the small hours each night to get it done. In fact, I made it nearer fifty than forty thousand words, having so much interesting material that I felt I could not leave out. I could not work that way, these days.
+It seems to me that I always worked in a tearing hurry, in those days. The short story “Easy Money” (my own title for it was “The World of Psycho-Control,” but that was too heavy a title for this light yarn) was written in four days which I literally stole from another job. I had agreed in 1938 to write a forty-thousand-word novel for a new magazine, *Startling Stories*. I had a bit over three weeks to do the novel, and then the idea for this short tale occurred to me and I did it first. That left me exactly twenty-one days for the novel job. And right then I joined three pals for a weekend trip from Pennsylvania to North Carolina, to see a football game. Returning weary from fun, I had eighteen days left for the novel and had to work into the small hours each night to get it done. In fact, I made it nearer fifty than forty thousand words, having so much interesting material that I felt I could not leave out. I could not work that way, these days.
 
-And indeed, looking back upon the older of these stories, I feel that they were written by a different person. The thin, dark, wiry young Hamilton of those days seems a bit of a stranger to me, now. He could pound all day on the typewriter, eagerly setting down the feverish visions that filled his head—visions of wonders to come, of great dooms sweeping upon the hapless Earth, of strange and usually ominous forms of life undreamed of now, of the vast grandeur of things to come when the starry universe would be webbed by the fleets of man. I believe that that enthusiasm was what sparked me into all that work, for certainly the monetary rewards from the magazines of those days was not much incentive.
+And indeed, looking back upon the older of these stories, I feel that they were written by a different person. The thin, dark, wiry young Hamilton of those days seems a bit of a stranger to me, now. *He* could pound all day on the typewriter, eagerly setting down the feverish visions that filled his head—visions of wonders to come, of great dooms sweeping upon the hapless Earth, of strange and usually ominous forms of life undreamed of now, of the vast grandeur of things to come when the starry universe would be webbed by the fleets of man. I believe that that enthusiasm was what sparked me into all that work, for certainly the monetary rewards from the magazines of those days was not much incentive.
 
 I think it was George Gissing who, recalling his youthful days of writing, said that, “On the whole, I approve of that eager, intense young man.” And, in my own case, on the whole, I do too.
 
+.right
 Edmond Hamilton
-
 1976
-
-THE GRANDEUR OF
-
-RB STORIES DISPLAY T COSMIC SCOPE OF A WRITER WHOSE EPICS OF GALACTIC ADVENTURE ON THE HEROIC SCAL HAVE ENTHRALLED GENERATIONS OF SCIENC TION READERS WITH THEIR C E BEING
-
-pip
-
-E
-
-THUNDERING WORLDS
-
-Fleeing a dying sun, mankind set out across space—not in starship', but in an incredibly armada made up of the very planets of the Solar System!
-
-THE MAN WHO EVOLVED
-
-He harnessed the energy of the Universe to reach Man’s next, god like stage—and then took the step after that.
-
-
-
-IN THE WORLD’S DUSK
-
-The last survivor of the human race brought back the dead to peoplr Earth—and, when that failed, tried an even more desperate way of making his planet live again.
-
-EXILE
-
-He created a barbaric, nightmarish world—and then he had to llvn in it!
-
-DAY OF JUDGMENT
-
-The last man and the last woman returned to Earth—to face a Jury with a million-year grievance to avenge!
-
-Plus the unforgettable REQUIEM, and fifteen
-
-other unique tales alive with a surging sense of wonder.
