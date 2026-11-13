@@ -58,27 +58,33 @@ CAPS WITH THE DEVIL!
 
 blurb
 
-What the Critics Have Said about Fritz Leiber
+.heading
+**What the Critics Have Said about Fritz Leiber**
 
 “Fritz Leiber stands very firmly in the front rank of modem science-fiction writers.”
 
+.right
 —Anthony Boucher
 
 “Fast-moving, ironic, and delightful.”
 
-—The New York Times
+.right
+—*The New York Times*
 
 “For thirty years, Fritz Leiber has been entertaining, inspiring, irritating, enlightening, and delighting a growing audience for fantasy and speculative fiction.”
 
-—The Magazine of Fantasy and Science Fiction
+.right
+—*The Magazine of Fantasy and Science Fiction*
 
-AND. . .
-
-What Fritz Leiber Says about Fritz Leiber
+.heading
+**AND. . .**
+**What Fritz Leiber Says**
+**about Fritz Leiber**
 
 “All I ever try to write is a good story with a good measure of strangeness in it. The supreme goddess of the universe is Mystery, and being well-entertained is the highest joy.”
 
-(From the Author’s Afterword to this volume)
+.right
+(From the Author’s *Afterword* to this volume)
 
 ---
 
@@ -126,7 +132,7 @@ Coming From Ballantine Books
 
 titlepage
 
-# THE BEST OF<br />Fritz Leiber
+# THE BEST OF<br />*Fritz Leiber*
 
 .editor
 by Fritz Leiber
@@ -333,7 +339,7 @@ Heinlein offers a natural starting point for a few words about *Gather, Darkness
 
 Heinlein stopped with those two books, but Leiber saw that the theme was still full of potential. Suppose such a church came to power, then never stepped down again and never was overthrown for centuries. In *Gather, Darkness!* it has built a neo-medieval world of ignorant commoners dominated by a hierarchy that really can invoke “supernatural” sanctions in the name of its God. A liberation movement finally does start. But in this environment it calls itself “witchcraft” and claims to serve the Devil! There are many magnificently funny details (e.g., since the priesthood rides around in aircraft built to look like angels, the aircraft of the opposition are bat-winged and homed) but the story isn’t simply a romp. Its account of brainwashing by chemical and electronic means is fast becoming a foul reality.
 
-*Gather, Darkness!* was followed by a swarm of dull imitations. But surely, in due course, it partly inspired Philip Jose Farmer’s seminal work *The Lovers*. That’s what I mean by a landmark work.
+*Gather, Darkness!* was followed by a swarm of dull imitations. But surely, in due course, it partly inspired Philip José Farmer’s seminal work *The Lovers*. That’s what I mean by a landmark work.
 
 I wonder how Women’s Lib would react to a reissue of the fantasy novel from this period, *Conjure Wife*, with its assumption that all women are witches but they don’t tell their men. Probably there’d be general pleasure. It was popular enough to get two filmed versions; and I know several ladies in the movement who still love the original story. As often elsewhere, Leiber doubled his strength by combining dazzling imagination with unsparing realism. The principal setting is a small college community, and I have since observed for myself how vicious the infighting can get in such a place. By the way, the hero, Norman Saylor, reappears in this collection. Leiber likes to interconnect tales whenever possible.
 
@@ -409,7 +415,7 @@ To be thus aware of mortality, and of the ancient deeps within us while we live,
 
 Let us hope for much more from this man, in whatever vein he may next select. Meanwhile, the volume in your hands gives a good overview. If you are already familiar with Fritz Leiber, you know you have a treat in store. If it will be your first encounter with him, I envy you.
 
-.right.sc
+.right.smallcaps
 —Poul Anderson
 
 [^1]: In The Magazine of Fantasy and Science Fiction for July 1969, a special issue honoring Fritz Leiber. Previously, in November 1959, Fantastic had run an all-Leiber issue. These, and the awards voted him, indicate the esteem in which his work is held by those who know the field.
@@ -439,7 +445,7 @@ Hunching his shoulders, Joe stepped out, not up the pike, but down the dirt road
 
 The breezes were gentle, but unusually restless and variable tonight, like leprechaun squalls. Beyond the drunken, whitewashed cemetery fence dim in the starlight, they rustled the scraggly trees of Cypress Hollow and made it seem they were stroking their beards of Spanish moss. Joe sensed that the ghosts were just as restless as the breezes, uncertain where and whom to haunt, or whether to take the night off, drifting together in sorrowfully lecherous companionship. While among the trees the red-green vampire lights pulsed faintly and irregularly, like sick fireflies or a plague-stricken space fleet. The feeling of deep misery stuck with Joe and deepened and he was tempted to turn aside and curl up in any convenient tomb or around some half-toppled head board and cheat his Wife and the other two behind him out of a shared doom. He thought: Gonna roll the bones, gonna roll ’em up and go to sleep. But while he was deciding, he got past the sagged-open gate and the rest of the delirious fence and Shantyville too.
 
-At first Night Town seemed dead as the rest of <a id="page4"></a>Ironmine, but then he noticed a faint glow, sick as the vampire lights but more feverish, and with it a jumping music, tiny at first as a jazz for jitterbugging ants. He stepped along the springy sidewalk, wistfully remembering the days when the spring was all in his own legs and he’d bound into a fight like a bobcat or a Martian sand-spider. God, it had been years now since he had fought a real fight, or felt the power. Gradually the midget music got raucous as a bunny-hug for grizzly bears and loud as a polka for elephants, while the glow became a riot of gas flares and flambeaux and corpse-blue mercury tubes and jiggling pink neon ones that all jeered at the stars where the spaceships roved. Next thing, he was facing a three-storey false front flaring everywhere like a devil’s elbow, with a pale blue topping of St. Elmo’s fire. There were wide swinging doors in the center of it, spilling light above and below. Above the doorway, golden calcium light scrawled over and over again, with wild curlicues and flourishes, “The Boneyard,” while a fiendish red kept printing out, “Gambling.”
+At first Night Town seemed dead as the rest of <a id="page4"></a>Ironmine, but then he noticed a faint glow, sick as the vampire lights but more feverish, and with it a jumping music, tiny at first as a jazz for jitterbugging ants. He stepped along the springy sidewalk, wistfully remembering the days when the spring was all in his own legs and he’d bound into a fight like a bobcat or a Martian sand-spider. God, it had been years now since he had fought a real fight, or felt *the power*. Gradually the midget music got raucous as a bunny-hug for grizzly bears and loud as a polka for elephants, while the glow became a riot of gas flares and flambeaux and corpse-blue mercury tubes and jiggling pink neon ones that all jeered at the stars where the spaceships roved. Next thing, he was facing a three-storey false front flaring everywhere like a devil’s elbow, with a pale blue topping of St. Elmo’s fire. There were wide swinging doors in the center of it, spilling light above and below. Above the doorway, golden calcium light scrawled over and over again, with wild curlicues and flourishes, “The Boneyard,” while a fiendish red kept printing out, “Gambling.”
 
 So the new place they’d all been talking about for so long had opened at last! For the first time that night, Joe Slattermill felt a stirring of real life in him and the faintest caress of excitement.
 
@@ -467,7 +473,7 @@ Joe still couldn’t see much of the face except for smooth lower forehead with 
 
 Behind the man in black was a knot of just about the flashiest and nastiest customers, male or female, Joe had ever seen. He knew from one look that each bediamonded, pomaded bully had a belly gun beneath the flap of his flowered vest and a blackjack in his hip pocket, and each snake-eyed sporting girl a stiletto in her garter and a pearl-handled silver-plated derringer under the sequinned silk in the hollow between her jutting breasts.
 
-Yet at the same time Joe knew they were just trimmings. It was the man in black, their master, who was the deadly one, the kind of man you knew at a glance you couldn’t touch and live. If without asking you merely laid a finger on his sleeve, no matter how lightly and respectfully, an ivory hand would move faster than thought and you’d be stabbed or shot. Or maybe just the touch would kill you, as if every black article of his clothing were charged from his ivory skin outwards with a high-voltage, high-amperage ivory electricity. Joe looked at the shadowed face again and decided he wouldn’t care to try it.
+Yet at the same time Joe knew they were just trimmings. It was the man in black, their master, who was the deadly one, the kind of man you knew at a glance you couldn’t touch and live. If without asking you merely laid a finger on his sleeve, no matter how lightly and respectfully, an <a id="page7"></a>ivory hand would move faster than thought and you’d be stabbed or shot. Or maybe just the touch would kill you, as if every black article of his clothing were charged from his ivory skin outwards with a high-voltage, high-amperage ivory electricity. Joe looked at the shadowed face again and decided he wouldn’t care to try it.
 
 For it was the eyes that were the most impressive feature. All great gamblers have dark-shadowed deep-set eyes. But this one’s eyes were sunk so deep you couldn’t even be sure you were getting a gleam of them. They were inscrutability incarnate. They were unfathomable. They were like black holes.
 
@@ -477,9 +483,9 @@ This must be one of those really big gamblers who hit Ironmine only once a decad
 
 For that matter, maybe some of those really big gamblers actually came from other planets where the nighttime pace was hotter and the sporting life a delirium of risk and delight.
 
-Yes, this was the kind of man Joe had always yearned to pit his skill against. He felt the power begin to tingle in his rock-still fingers, just a little.
+Yes, this was the kind of man Joe had always yearned to pit his skill against. He felt *the power* begin to tingle in his rock-still fingers, just a little.
 
-Joe lowered his gaze to the crap table. It was almost as wide as a man is tall, at least twice as long, unusually deep, and lined with black, not green, felt, so that it looked like a giant’s coffin. There was something familiar about its shape which he couldn’t place. Its bottom, though not its sides or ends, had a twinkling iridescence, as if it had been lightly sprinkled with very tiny diamonds. As Joe lowered his gaze all the way and looked directly down, his eyes barely over the table, he got the crazy notion that it went down all the way through the world, so that the diamonds were the stars on the other side, visible despite the sunlight there, just as Joe was always able to see the stars by day up the shaft of the mine he worked in, and so that if a cleaned-out gambler, dizzy with defeat, toppled forward into it, he’d fall forever, towards the bottom-most bottom, be it Hell or some black galaxy. Joe’s thoughts swirled and he felt the cold, hard-fingered clutch of fear at his crotch. Someone was crooning beside him, “Come on, Big Dick.”
+Joe lowered his gaze to the crap table. It was almost as wide as a man is tall, at least twice as long, unusually deep, and lined with black, not green, felt, so that it looked like a giant’s coffin. There was something familiar about its shape which he couldn’t place. Its bottom, though not its sides or ends, had a twinkling iridescence, as if it had been lightly sprinkled with very tiny diamonds. As Joe lowered his gaze all the way and looked directly down, his eyes barely over the table, he got the crazy notion that it went down all the <a id="page8"></a>way through the world, so that the diamonds were the stars on the other side, visible despite the sunlight there, just as Joe was always able to see the stars by day up the shaft of the mine he worked in, and so that if a cleaned-out gambler, dizzy with defeat, toppled forward into it, he’d fall forever, towards the bottom-most bottom, be it Hell or some black galaxy. Joe’s thoughts swirled and he felt the cold, hard-fingered clutch of fear at his crotch. Someone was crooning beside him, “Come on, Big Dick.”
 
 Then the dice, which had meanwhile passed to the Big Mushroom immediately on his right, came to rest near the table’s center, contradicting and wiping out Joe’s vision. But instantly there was another oddity to absorb him. The Ivory dice were large and unusually round-cornered with dark red spots that gleamed like real rubies, but the spots were arranged in such a way that each face looked like a miniature skull. For instance, the seven thrown just now, by which the Big Mushroom to his right had lost his point, which had been ten, consisted of a two with the spots evenly spaced towards one side, like eyes, instead of towards opposite corners, and of a five with the same red eyespots but a central red nose and two spots close together below that to make teeth.
 
@@ -487,7 +493,7 @@ The long, skinny, white-gloved arm of the dice-girl snaked out like an albino co
 
 Joe looked casually yet swiftly at the faces around the table, not missing the Big Gambler across from him, and said quietly, “Roll a penny,” meaning of course one pale chip, or a dollar.
 
-There was a hiss of indignation from all the Big Mushrooms and the moonface of big-bellied Mr. Bones grew purple as he started forward to summon his bouncers.
+<a id="page9"></a>There was a hiss of indignation from all the Big Mushrooms and the moonface of big-bellied Mr. Bones grew purple as he started forward to summon his bouncers.
 
 The Big Gambler raised a black-satined forearm and sculptured hand, palm down. Instantly Mr. Bones froze and the hissing stopped faster than that of a meteor prick in self-sealing space steel. Then in a whispery, cultured voice, without the faintest hint of derision, the man in black said, “Get on him, gamblers.”
 
@@ -503,7 +509,7 @@ Now the only real difference between precision-tossing rocks or alphabet blocks 
 
 Rattling the dice now, he felt the power in his fingers and palm as never before.
 
-He made a swift low roll, so that the bones ended up exactly in front of the white-gloved dice-girl. His natural seven was made up, as he’d intended, of a four and a three. In red-spot features they were like the five, except that both had only one tooth and the three no nose. Sort of baby-faced skulls. He had won a penny—that is, a dollar.
+He made a swift low roll, so that the bones ended up exactly in front of the white-gloved dice-girl. His natural seven was made up, as he’d intended, of a four and a three. In red-spot features they were like the five, except that <a id="page10"></a>both had only one tooth and the three no nose. Sort of baby-faced skulls. He had won a penny—that is, a dollar.
 
 “Roll two cents,” said Joe Slattermill.
 
@@ -521,7 +527,7 @@ Right away the thought of a crap-table-size hole through the earth came back to 
 
 Joe decided he had to know which was true. Unless absolutely unavoidable, he didn’t want to take the chance of being troubled by vertigo at some crucial stage of the game.
 
-He made a few more meaningless throws, from time to time crooning for realism, “Come on, Little Joe.” Finally he settled on his plan. When he did at last make his point—the hard way, with two twos—he caromed the dice off the far comer so that they landed exactly in front of him. Then, after a minimum pause for his throw to be seen by the table, he shot his left hand down under the cubes, just a flicker ahead of the dice-girl’s strike, and snatched them up.
+He made a few more meaningless throws, from time to time crooning for realism, “Come on, Little Joe.” Finally he settled on his plan. When he did at last make his point—the hard way, with two twos—he caromed the dice off the far corner so that they landed exactly in front of him. <a id="page11"></a>Then, after a minimum pause for his throw to be seen by the table, he shot his left hand down under the cubes, just a flicker ahead of the dice-girl’s strike, and snatched them up.
 
 Wow! Joe had never had a harder time in his life making his face and manner conceal what his body felt, not even when the wasp had stung him on the neck just as he had been for the first time putting his hand under the skirt of his prudish, fickle, demanding Wife-to-be. His fingers and the back of his hand were in as much agony as if he’d stuck them into a blast furnace. No wonder the dice-girl wore white gloves. They must be asbestos. And a good thing he hadn’t used his shooting hand, he thought as he ruefully watched the blisters rise.
 
@@ -535,7 +541,7 @@ The latter roared towards Joe, “No gambler may pick up the dice he or any othe
 
 Joe snapped Mr. Bones the barest nod. He said coolly, “Rolling a dime less two,” and when that still peewee bet was covered, he shot Phoebe for his point and then fooled around for quite a while, throwing anything but a five or a seven, until the throbbing in his left hand should fade and all his nerves feel rock-solid again. There had never been the slightest alteration in the power in his right hand; he felt that strong as ever, or stronger.
 
-Midway of this interlude, the Big Gambler bowed slightly but respectfully towards Joe, hooding those unfathomable eye sockets, before turning around to take a long black cigarette from his prettiest and evilest-looking sporting girl. Courtesy in the smallest matters, Joe thought, another mark of the master devotee of games of chance. The Big Gambler sure had himself a flash crew, all right, though in idly looking them over again as he rolled, Joe noted one bummer towards the back who didn’t fit in—a raggedly-elegant chap with the elflocked hair and staring eyes and TB-spotted cheeks of a poet.
+Midway of this interlude, the Big Gambler bowed slightly but respectfully towards Joe, hooding those unfathomable eye sockets, before turning around to take a long black <a id="page12"></a>cigarette from his prettiest and evilest-looking sporting girl. Courtesy in the smallest matters, Joe thought, another mark of the master devotee of games of chance. The Big Gambler sure had himself a flash crew, all right, though in idly looking them over again as he rolled, Joe noted one bummer towards the back who didn’t fit in—a raggedly-elegant chap with the elflocked hair and staring eyes and TB-spotted cheeks of a poet.
 
 As he watched the smoke trickling up from under the black slouch hat, he decided that either the lights across the table had dimmed or else the Big Gambler’s complexion was yet a shade darker than he’d thought at first. Or it might even be—wild fantasy—that the Big Gambler’s skin was slowly darkening tonight, like a meerschaum pipe being smoked a mile a second. That was almost funny to think of—there was enough heat in this place, all right, to darken meerschaum, as Joe knew from sad experience, but so far as he was aware it was all under the table.
 
@@ -543,7 +549,7 @@ None of Joe’s thoughts, either familiar or admiring, about the Big Gambler dec
 
 The Big Gambler had just taken into his arms his prettiest-evilest sporting girl and was running an aristocratic hand across her haunch with perfect gentility, when the poet chap, green-eyed from jealousy and lovesickness, came leaping forward like a wildcat and aimed a long gleaming dagger at the black satin back.
 
-Joe couldn’t see how the blow could miss, but without taking his genteel right hand off the sporting girl’s plush rear end, the Big Gambler shot out his left arm like a steel spring straightening. Joe couldn’t tell whether he stabbed the poet chap in the throat, or judo-chopped him there, or gave him the Martian double-finger, or just touched him, but anyhow the fellow stopped as dead as if he’d been shot by a silent elephant gun or an invisible ray pistol and he slammed down on the floor. A couple of darkies came running up to drag off the body and nobody paid the least attention, such episodes apparently being taken for granted at The Boneyard.
+Joe couldn’t see how the blow could miss, but without taking his genteel right hand off the sporting girl’s plush rear end, the Big Gambler shot out his left arm like a steel spring straightening. Joe couldn’t tell whether he stabbed the poet chap in the throat, or judo-chopped him there, or gave him the Martian double-finger, or just touched him, but anyhow the fellow stopped as dead as if he’d been shot by a silent elephant gun or an invisible ray pistol and he slammed down on the floor. A couple of darkies came running up to drag off the body and nobody paid the least <a id="page13"></a>attention, such episodes apparently being taken for granted at The Boneyard.
 
 It gave Joe quite a turn and he almost shot Phoebe before he intended to.
 
@@ -551,7 +557,7 @@ But by now the waves of pain had stopped running up his left arm and his nerves 
 
 He rolled nine successive naturals, seven sevens and two elevens, pyramiding his first wager of a single chip to a stake of over four thousand dollars. None of the Big Mushrooms had dropped out yet, but some of them were beginning to look worried and a couple were sweating. The Big Gambler still hadn’t covered any part of Joe’s bets, but he seemed to be following the play with interest from the cavernous depths of his eye sockets.
 
-Then Joe got a devilish thought. Nobody could beat him tonight, he knew, but if he held on to the dice until the table was cleaned out, he’d never get a chance to see the Big Gambler exercise his skill, and he was truly curious about that. Besides, he thought, he ought to return courtesy for courtesy and have a crack at being a gentleman himself.
+Then Joe got a devilish thought. Nobody could beat him tonight, he knew, but if he held on to the dice until the table was cleaned out, he’d never get a chance to see the Big Gambler exercise *his* skill, and he was truly curious about that. Besides, he thought, he ought to return courtesy for courtesy and have a crack at being a gentleman himself.
 
 “Pulling out forty-one dollars less a nickel,” he announced. “Rolling a penny.”
 
@@ -571,7 +577,7 @@ Joe was distinctly disappointed. On one of his own throws he was used to calcula
 
 By comparison, the technique of the Big Gambler had been ridiculously, abysmally, horrifyingly simple. Joe could have duplicated it with the greatest ease, of course. It was no more than an elementary form of his old pastime of throwing fallen rocks back into their holes. But Joe had never once thought of pulling such a babyish trick at the crap table. It would make the whole thing too easy and destroy the beauty of the game.
 
-Another reason Joe had never used the trick was that he’d never dreamed he’d be able to get away with it. By all the rules he’d ever heard of, it was a most questionable throw. There was the possibility that one or the other die hadn’t completely reached the end of the table, or lay a wee bit cocked against the end. Besides, he reminded himself, weren’t both dice supposed to rebound off the end, if only for a fraction of an inch?
+Another reason Joe had never used the trick was that he’d never dreamed he’d be able to get away with it. By all the rules he’d ever heard of, it was a most questionable throw. There was the possibility that one or the other die hadn’t completely reached the end of the table, or lay a wee bit cocked against the end. Besides, he reminded <a id="page15"></a>himself, weren’t both dice supposed to rebound off the end, if only for a fraction of an inch?
 
 However, as far as Joe’s very sharp eyes could see, both dice lay perfectly flat and sprang up against the end wall. Moreover, everyone else at the table seemed to accept the throw, the dice-girl had scooped up the cubes, and the Big Mushrooms who had faded the man in black were paying off. As far as the rebound business went, well, The Boneyard appeared to put a slightly different interpretation on that rule, and Joe believed in never questioning House Rules except in dire extremity—both his Mother and Wife had long since taught him it was the least troublesome way.
 
@@ -589,7 +595,7 @@ And again.
 
 And again.
 
-Joe was getting mighty concerned and pretty indignant too. It seemed unjust that the Big Gambler should be winning such huge bets with such machinelike, utterly unromantic rolls. Why, you couldn’t even call them rolls, the dice never turned over an iota, in the air or after. It was the sort of thing you’d expect from a robot, and a very dully programmed robot at that. Joe hadn’t risked any of his own chips fading the Big Gambler, of course, but if things went on like this he’d have to. Two of the Big Mushrooms had already retired sweatingly from the table, confessing defeat, and no one had taken their places. Pretty soon there’d be a bet the remaining Big Mushrooms couldn’t entirely cover between them, and then he’d have to risk some of his own chips or else pull out of the game himself—and he couldn’t do that, not with the power surging in his right hand like chained lightning.
+Joe was getting mighty concerned and pretty indignant too. It seemed unjust that the Big Gambler should be winning such huge bets with such machinelike, utterly unromantic rolls. Why, you couldn’t even call them rolls, the dice <a id="page16"></a>never turned over an iota, in the air or after. It was the sort of thing you’d expect from a robot, and a very dully programmed robot at that. Joe hadn’t risked any of his own chips fading the Big Gambler, of course, but if things went on like this he’d have to. Two of the Big Mushrooms had already retired sweatingly from the table, confessing defeat, and no one had taken their places. Pretty soon there’d be a bet the remaining Big Mushrooms couldn’t entirely cover between them, and then he’d have to risk some of his own chips or else pull out of the game himself—and he couldn’t do that, not with the power surging in his right hand like chained lightning.
 
 Joe waited and waited for someone else to question one of the Big Gambler’s shots, but no one did. He realized that, despite his efforts to look imperturbable, his face was slowly reddening.
 
@@ -597,7 +603,7 @@ With a little lift of his left hand, the Big Gambler stopped the dice-girl as sh
 
 With the utmost civility and amiability, the Big Gambler whispered, “I believe that the fine shooter across from me has doubts about the validity of my last throw, though he is too much of a gentleman to voice them. Lottie, the card test.”
 
-The wraith-tall, ivory dice-girl plucked a playing card from below the table and with a venomous flash of her little white teeth spun it low across the table through the air at Joe. He caught the whirling pasteboard and examined it briefly. It was the thinnest, stiffest, flattest, shiniest playing card Joe had ever handled. It was also the Joker, if that meant anything. He spun it back lazily into her hand and she slid it very gently, letting it descend by its own weight, down the end wall against which the two dice lay. It came to rest in the tiny hollow their rounded edges made against the black felt. She deftly moved it about without force, demonstrating that there was no space between either of the cubes and the table’s end at any point.
+The wraith-tall, ivory dice-girl plucked a playing card from below the table and with a venomous flash of her little white teeth spun it low across the table through the air at Joe. He caught the whirling pasteboard and examined it briefly. It was the thinnest, stiffest, flattest, shiniest playing card Joe had ever handled. It was also the Joker, if that meant anything. He spun it back lazily into her hand and she slid it very gently, letting it descend by its own weight, down the end wall against which the two dice lay. It came to rest in the tiny hollow their rounded edges made against the black felt. She deftly moved it about without force, <a id="page17"></a>demonstrating that there was no space between either of the cubes and the table’s end at any point.
 
 “Satisfied?” the Big Gambler asked. Rather against his will Joe nodded. The Big Gambler bowed to him. The dice-girl smirked her short, thin lips and drew herself up, flaunting her white-china-doorknob breasts at Joe.
 
@@ -631,7 +637,7 @@ Joe felt well up in him the shameful impulse to confess himself licked and run h
 
 But he just couldn’t bear to think of the crowd’s laughter, or the thought of living with himself knowing that he’d had a final chance, however slim, to challenge the Big Gambler and passed it up.
 
-He nodded.
+<a id="page19"></a>He nodded.
 
 The Big Gambler shot. Joe leaned out over and down the table, forgetting his vertigo, as he followed the throw with eagle or space-telescope eyes.
 
@@ -653,7 +659,7 @@ Sneering poisoned daggers at him, Lottie let it glide down the end wall . . . an
 
 A bow and then the whisper: “You have sharp eyes, sir. Undoubtedly that die failed to reach the wall. My sincerest apologies and . . . your dice, sir.”
 
-Seeing the cubes sitting on the black rim in front of him almost gave Joe apoplexy. All the feelings racking him, including his curiosity, rose to an almost unbelievable pitch of intensity, and when he’d said, “Rolling my pile,” and the Big Gambler had replied, “You’re faded,” he yielded to an uncontrollable impulse and cast the two dice straight at the Big Gambler’s ungleaming, midnight eyes.
+Seeing the cubes sitting on the black rim in front of him almost gave Joe apoplexy. All the feelings racking him, including his curiosity, rose to an almost unbelievable pitch of intensity, and when he’d said, “Rolling my pile,” and the Big Gambler had replied, “You’re faded,” he yielded <a id="page20"></a>to an uncontrollable impulse and cast the two dice straight at the Big Gambler’s ungleaming, midnight eyes.
 
 They went right through into the Big Gambler’s skull and bounced around inside there, rattling like big seeds in a big gourd not quite yet dry.
 
@@ -663,7 +669,7 @@ Throwing out a hand, palm back, to either side, to indicate that none of his boy
 
 Joe shook the dice reflectively, getting over the shock. After a little bit he decided that though he could now guess the Big Gambler’s real name, he’d still give him a run for his money.
 
-A little comer of Joe’s mind wondered how a live skeleton hung together. Did the bones still have gristle and thews, were they wired, was it done with force-fields, or was each bone a calcium magnet clinging to the next?—this tying in somehow with the generation of the deadly ivory electricity.
+A little corner of Joe’s mind wondered how a live skeleton hung together. Did the bones still have gristle and thews, were they wired, was it done with force-fields, or was each bone a calcium magnet clinging to the next?—this tying in somehow with the generation of the deadly ivory electricity.
 
 In the great hush of The Boneyard, someone cleared his throat, a Scarlet Woman tittered hysterically, a coin fell from the nakedest change-girl’s tray with a golden clink and rolled musically across the floor.
 
@@ -671,7 +677,7 @@ In the great hush of The Boneyard, someone cleared his throat, a Scarlet Woman t
 
 Joe gave him a courtly bow back, it felt funny, and then decided to start his run with a natural seven made up of an ace and a six. He rolled and this time the Big Gambler, judging from the movements of his skull, closely followed the course of the cubes with his eyes that weren’t there.
 
-The dice landed, rolled over, and lay still. Incredulously, Joe realized that for the first time in his crap-shooting life he’d made a mistake. Or else there was a power in the Big Gambler’s gaze greater than that in his own right hand. The six cube had come down okay, but the ace had taken an extra half roll and come down six too.
+The dice landed, rolled over, and lay still. Incredulously, <a id="page21"></a>Joe realized that for the first time in his crap-shooting life he’d made a mistake. Or else there was a power in the Big Gambler’s gaze greater than that in his own right hand. The six cube had come down okay, but the ace had taken an extra half roll and come down six too.
 
 “End of the game,” Mr. Bones boomed sepulchrally.
 
@@ -691,7 +697,7 @@ Joe Slattermill quailed, but then the drama of the situation took hold of him. H
 
 Joe concentrated his mind as never before, the power tingled triumphantly in his hand, and he made his throw.
 
-The dice never hit the felt. They went swooping down, then up, in a crazy curve far out over the end of the table, and then came streaking back like tiny red-glinting meteors towards the face of the Big Gambler, where they suddenly nested and hung in his black eye sockets, each with the single red gleam of an ace showing.
+The dice never hit the felt. They went swooping down, then up, in a crazy curve far out over the end of the table, <a id="page22"></a>and then came streaking back like tiny red-glinting meteors towards the face of the Big Gambler, where they suddenly nested and hung in his black eye sockets, each with the single red gleam of an ace showing.
 
 Snake eyes.
 
@@ -709,7 +715,7 @@ He put his right foot on his empty chip table, his left on the black rim, fell f
 
 As he flashed across the exact center of the table he got an instant photograph of what really lay below, but his brain had no time to develop that snapshot, for the next instant he was ploughing into the Big Gambler.
 
-Stiffened brown palm edge caught him in the temple with a lightning-like judo chop . . . and the brown fingers or bones flew all apart like puff paste. Joe’s left hand went through the Big Gambler’s chest as if there were nothing there but black satin coat, while his right hand, straight-armedly clawing at the slouch-hatted skull, crunched it to pieces. Next instant Joe was sprawled on the floor with some black clothes and brown fragments.
+Stiffened brown palm edge caught him in the temple with a lightning-like judo chop . . . and the brown fingers or bones flew all apart like puff paste. Joe’s left hand went through the Big Gambler’s chest as if there were nothing there but black satin coat, while his right hand, <a id="page23"></a>straight-armedly clawing at the slouch-hatted skull, crunched it to pieces. Next instant Joe was sprawled on the floor with some black clothes and brown fragments.
 
 He was on his feet in a flash and snatching at the Big Gambler’s tall stacks. He had time for one left-handed grab. He couldn’t see any gold or silver or any black chips, so he stuffed his left pants pocket with a handful of the pale chips and ran.
 
@@ -719,7 +725,7 @@ But somehow none of the blows or grabs had much real force. It was like fighting
 
 He took a deep breath and felt himself over and worked his bones. He didn’t seem to have suffered any serious damage. He stood up and looked around. The Boneyard was dark and silent as the grave, or the planet Pluto, or all the rest of Ironmine. As his eyes got accustomed to the starlight and occasional roving spaceship-gleam, he saw a padlocked sheet-iron door where the swinging ones had been.
 
-He found he was chewing on something crusty that he’d somehow carried in his right hand all the way through the final fracas. Mighty tasty, like the bread his Wife baked for best customers. At that instant his brain developed the photograph it had taken when he had glanced down as he flashed across the center of the crap table. It was a thin wall of flames moving sideways across the table and just beyond the flames the faces of his Wife, Mother, and Mr. Guts, all looking very surprised. He realized that what he was chewing was a fragment of the Big Gambler’s skull, and he remembered the shape of the three loaves his Wife had started to bake when he left the House. And he understood the magic she’d made to let him get a little ways away and feel half a man, and then come diving home with his fingers burned.
+He found he was chewing on something crusty that he’d <a id="page24"></a>somehow carried in his right hand all the way through the final fracas. Mighty tasty, like the bread his Wife baked for best customers. At that instant his brain developed the photograph it had taken when he had glanced down as he flashed across the center of the crap table. It was a thin wall of flames moving sideways across the table and just beyond the flames the faces of his Wife, Mother, and Mr. Guts, all looking very surprised. He realized that what he was chewing was a fragment of the Big Gambler’s skull, and he remembered the shape of the three loaves his Wife had started to bake when he left the House. And he understood the magic she’d made to let him get a little ways away and feel half a man, and then come diving home with his fingers burned.
 
 He spat out what was in his mouth and pegged the rest of the bit of giant-popover skull across the street.
 

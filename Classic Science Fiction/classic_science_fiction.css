@@ -31,7 +31,7 @@ body { font-family: Serif; font-size: 1em; }
 .blurb .heading { font-size: 1.2rem; text-align: center; text-indent: 0; }
 .other_books { font-family: sans-serif; }
 
-p { border: 0px; padding: 0px; margin: 0 0 0 0; text-indent: 1em; text-align: justify;}
+p { border: 0px; padding: 0px; margin: 0 0 0 0; text-indent: 2em; text-align: justify;}
 h4 { border: 0px; padding: 0px; margin: 0 0 0 0; font-weight: normal; text-align: center; }
 h3 { text-align: center; font-size: 1em; margin: .75em; font-weight: normal; }
 .h2 { text-align: center; text-indent: 0; font-weight: normal; font-size: 1.2em; padding: 1rem 0; }

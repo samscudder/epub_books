@@ -340,7 +340,7 @@ Dawns were bright and warm, in the summer of 1939.
 
 So it is not only as a writer that I remember Cyril Kombluth. He was part of my growing up. As a person he was what he was as a writer: bright, sardonic, and immensely rewarding. Cyril had a great deal to say, and he said it ail tersely, wittily, and with grace. I do not think we shall soon see his like again.
 
-.right
+.space.right
 —Frederik Pohl
 1976
 
@@ -348,7 +348,7 @@ So it is not only as a writer that I remember Cyril Kombluth. He was part of my 
 
 the_rocket_of_1955
 
-# The Rocket of 1955
+# <a id="page1"></a>The Rocket of 1955
 
 .intro_block
 It is always a mistake to put a date on a science-fiction story, and now that 1955 is embalmed in history we know that the first attempt at space travel didn’t go this way at all. But when it was written—when Cyril was in his teens. World War II was just settling into the routine of grinding human beings into garbage, and space travel was still only a crazy science-fiction idea—it might have.
@@ -358,17 +358,13 @@ It is always a mistake to put a date on a science-fiction story, and now that 19
 
 It was necessary that I spend some months in Europe, conducting research work incidental to the scheme. I returned with recorded statements, old newspapers, and photostatic copies of certain documents. There was a brief, quiet interview with that old, bushy-haired Viennese worshipped incontinently by the mob; he was convinced by the evidence I had compiled that it would be wise to assist us.
 
-You all know what happened next—it was the professor’s historic radio broadcast. Fein had drafted the thing, I had rewritten it, and told the astronomer to assume a German accent while reading. Some of the phrases were beautiful: “American dominion over the
-
-l
-
-very planets! . . . veil at last ripped aside . . . man defies gravity . . . travel through limidess space . . . plant the red-white-and-blue banner in the soil of Mars!”
+You all know what happened next—it was the professor’s historic radio broadcast. Fein had drafted the thing, I had rewritten it, and told the astronomer to assume a German accent while reading. Some of the phrases were beautiful: “American dominion over the <a id="page2"></a>very planets! . . . veil at last ripped aside . . . man defies gravity . . . travel through limidess space . . . plant the red-white-and-blue banner in the soil of Mars!”
 
 The requested contributions poured in. Newspapers and magazines ostentatiously donated yard-long checks of a few thousand dollars; die government gave a welcome half-million; heavy sugar came from the “Rocket Contribution Week” held in the nation’s public schools; but independent contributions were the largest. We cleared seven million dollars, and then started to build the spaceship.
 
 The virginium that took up most of the money was tin plate; the monoatomic fluorine that gave us our terrific speed was hydrogen. The take-off was a party for the newsreels: the big, gleaming bullet extravagant with vanes and projections; speeches by the professor; Farley, who was to fly it to Mars, grinning into the cameras. He climbed an outside ladder to the nose of the thing, then dropped into the steering compartment. I screwed down the sound-proof door, smiling as he hammered to be let out. To his surprise, there was no duplicate of the elaborate dummy controls he had been practicing on for the past few weeks.
 
-I cautioned the pressmen to stand back under the shelter, and gave the professor the knife switch that would send the rocket on its way. He hesitated too long—Fein hissed into his ear: “Anna Pareloff of Cracow, Herr Professor . .
+I cautioned the pressmen to stand back under the shelter, and gave the professor the knife switch that would send the rocket on its way. He hesitated too long—Fein hissed into his ear: “Anna Pareloff of Cracow, Herr Professor . . .”
 
 The triple blade clicked into the sockets. The vaned projectile roared a hundred yards into the air with a wobbling curve—then exploded.
 
@@ -382,25 +378,25 @@ Here they come, with an insulting thick rope.
 
 the_words_of_guru
 
-# The Words of Guru
+# <a id="page3"></a>The Words of Guru
 
 .intro_block
-The second Futurian to get his own professional science-fiction magazines to edit was Donald A. Wollheim (now editor and publisher of his own line of paperbacks, DAW Books). Over the lifetimes of his two magazines, *Stirring* and *Cosmic*, Cyril wrote (under one penname Or another, with or without collaborators) probably half the total contents. This is the one I like best.
+The second Futurian to get his own professional science-fiction magazines to edit was Donald A. Wollheim (now editor and publisher of his own line of paperbacks, DAW Books). Over the lifetimes of his two magazines, *Stirring* and *Cosmic*, Cyril wrote (under one penname or another, with or without collaborators) probably half the total contents. This is the one I like best.
 
 .fl
 <span class="smallcaps">Yesterday, when I</span> was going to meet Guru in the woods a man stopped me and said: “Child, what are you doing out at one in the morning? Does your mother know where you are? How old are you, walking around this late?”
 
-I looked at him, and saw that he was white-haired, so I laughed. Old men never see; in fact men hardly see at all. Sometimes young women see part, but men rarely ever see at all. ‘Tm twelve on my next birthday,” I said. And then, because I would not let him live to tell people, I said, “and I’m out this late to see Guru.”
+I looked at him, and saw that he was white-haired, so I laughed. Old men never see; in fact men hardly see at all. Sometimes young women see part, but men rarely ever see at all. “I’m twelve on my next birthday,” I said. And then, because I would not let him live to tell people, I said, “and I’m out this late to see Guru.”
 
 “Guru?” he asked. “Who is Guru? Some foreigner, I suppose? Bad business mixing with foreigners, young fellow. Who is Guru?”
 
-So I told him who Guru was, and just as he began talking about cheap mazagines and fairy tales I said one of the words that Guru taught me and he stopped talking. Because he was an old man and his joints were stiff he didn’t crumple up but fell in one piece, hitting his head on the stone. Then I went on.
+So I told him who Guru was, and just as he began talking about cheap magazines and fairy tales I said one of the words that Guru taught me and he stopped talking. Because he was an old man and his joints were stiff <a id="page4"></a>he didn’t crumple up but fell in one piece, hitting his head on the stone. Then I went on.
 
-Even though I’m going to be only twelve on my next birthday I know many things that old people don’t. And I remember things that other boys can’t. I remember being bom out of darkness, and I remember the noises that people made about me. Then when I was two months old I began to understand that the noises meant things like the things that were going on inside my head. I found out that I could make the noises too, and everybody was very much surprised. “Talking!” they said, again and again. “And so very young! Clara, what do you make of it?” Clara was my mother.
+Even though I’m going to be only twelve on my next birthday I know many things that old people don’t. And I remember things that other boys can’t. I remember being born out of darkness, and I remember the noises that people made about me. Then when I was two months old I began to understand that the noises meant things like the things that were going on inside my head. I found out that I could make the noises too, and everybody was very much surprised. “Talking!” they said, again and again. “And so very young! Clara, what do you make of it?” Clara was my mother.
 
 And Clara would say: “I’m sure I don’t know. There never was any genius in my family, and I’m sure there was none in Joe’s.” Joe was my father.
 
-Once Clara showed me a man I bad never seen before, and told me that he was a reporter—that he wrote things in newspapers. The reporter tried to talk to me as if I were an ordinary baby; I didn’t even answer him, but just kept looking at him until his eyes fell and he went away. Later Clara scolded me and read me a little piece in the reporter’s newspaper that was supposed to be funny—about the reporter asking me very complicated questions and me answering with baby noises. It was not true, of course. I didn’t say a word to the reporter, and he didn’t ask me even one of the questions.
+Once Clara showed me a man I had never seen before, and told me that he was a reporter—that he wrote things in newspapers. The reporter tried to talk to me as if I were an ordinary baby; I didn’t even answer him, but just kept looking at him until his eyes fell and he went away. Later Clara scolded me and read me a little piece in the reporter’s newspaper that was supposed to be funny—about the reporter asking me very complicated questions and me answering with baby noises. It was not true, of course. I didn’t say a word to the reporter, and he didn’t ask me even one of the questions.
 
 I heard her read the little piece, but while I listened I was watching the slug crawling on the wall. When Clara was finished I asked her: “What is that grey thing?”
 
@@ -408,7 +404,7 @@ She looked where I pointed, but couldn’t see it. “What grey thing, Peter?”
 
 “It’s as big as your hand, Clara, but soft. I don’t think it has any bones at all. It’s crawling up, but I don’t see any face on the topwards side. And there aren’t any legs.”
 
-I think she was worried, but she tried to baby me by putting her hand on the wall and trying to find out where it was. I called out whether she was right or left of the thing. Finally she put her hand right through the slug. And then I realized that she really couldn’t see it, and didn’t believe it was there. I stopped talking about it then and only asked her a few days later: “Clara, what do you call a thing which one person can see and another person can’t?”
+I think she was worried, but she tried to baby me by putting her hand on the wall and trying to find out where it was. I called out whether she was right or left of the thing. Finally she put her hand right through the <a id="page5"></a>slug. And then I realized that she really couldn’t see it, and didn’t believe it was there. I stopped talking about it then and only asked her a few days later: “Clara, what do you call a thing which one person can see and another person can’t?”
 
 “An illusion, Peter,” she said. “If that’s what you mean.” I said nothing, but let her put me to bed as usual, but when she turned out the light and went away I waited a little while and then called out softly. “Illusion! Illusion!”
 
@@ -431,7 +427,7 @@ That was how I learned his name. And that night he taught me a word which would 
 From that day to the time I saw him last night he has not changed at all, though now I am as tall as he is. His skin is still as dry and shiny as ever it was, and his face is still bony, crowned by a head of very coarse, black hair.
 
 .space
-When I was ten years old I went to bed one night only long enough to make Joe and Clara suppose I was fast asleep. I left in my place something which appears when you say one of the words of Guru and went down the drainpipe outside my window. It always was easy to climb down and up, ever since I was eight years old.
+When I was ten years old I went to bed one night only long enough to make Joe and Clara suppose I was fast asleep. I left in my place something which appears when you say one of the words of Guru and went down <a id="page6"></a>the drainpipe outside my window. It always was easy to climb down and up, ever since I was eight years old.
 
 I met Guru in Inwood Hill Park. “You’re late,” he said.
 
@@ -455,13 +451,13 @@ He cast a hasty, sidewise glance at me and then said: “This is Peter of whom I
 
 She looked at me then and smiled, stretching out her oily arms. “Ah,” she said, softly, like the cats when they talk at night to me. “Ah, this is Peter. Will you come to me when I call you, Peter? And sometimes call for me—in the dark—when you are alone?”
 
-“Don’t do that!” said Guru, angrily pushing past her. “He’s very young—you might spoil him for his work.” She screeched at our backs: “Guru and his pupil—fine pair! Boy, he’s no more real than I am—you’re the only real thing here!”
+“Don’t do that!” said Guru, angrily pushing past her. “He’s very young—you might spoil him for his work.”
+
+She screeched at our backs: “Guru and his pupil—fine pair! Boy, he’s no more real than I am—you’re the only real thing here!”
 
 “Don’t listen to her,” said Guru. “She’s wild and raving. They’re always tight-strung when this time comes around.”
 
-We came near the fires then, and sat down on rocks.
-
-They were killing animals and birds and doing things with their bodies. The blood was being collected in a basin of stone, which passed through the crowd. The one to my left handed it to me. “Drink,” she said, grinning to show me her fine, white teeth. I swallowed twice from it and passed it to Guru.
+We came near the fires then, and sat down on rocks. <a id="page7"></a>They were killing animals and birds and doing things with their bodies. The blood was being collected in a basin of stone, which passed through the crowd. The one to my left handed it to me. “Drink,” she said, grinning to show me her fine, white teeth. I swallowed twice from it and passed it to Guru.
 
 When the bowl had passed all around we took off our clothes. Some, like Guru, did not wear them, but many did. The one to my left sat closer to me, breathing heavily at my face. I moved away. “Tell her to stop, Guru,” I said. “This isn’t part of it, I know.”
 
@@ -473,7 +469,7 @@ But still we could see what was going on, for these things were, of course, not 
 
 As the last of the fires died Guru excitedly whispered: “The Presence!” He was very deeply moved.
 
-From the pool of blood from the third dancer’s body there issued the Presence. It was the tallest one there, and when it spoke its voice was deeper, and when it commanded its commands were obeyed.
+From the pool of blood from the third dancer’s body <a id="page8"></a>there issued the Presence. It was the tallest one there, and when it spoke its voice was deeper, and when it commanded its commands were obeyed.
 
 “Let blood!” it commanded, and we gashed ourselves with flints. It smiled and showed teeth bigger and sharper and whiter than any of the others.
 
@@ -505,7 +501,7 @@ Then I was alarmed. I had heard of them, but I was not certain whether they were
 
 “How did you find out?” I asked him.
 
-“But Peter! You look positively frightened, lad! I don’t know a thing about them myself, but Father Frederick does. He has whole books about them, though I sometimes doubt whether he believes them himself.”
+“But Peter! You look positively frightened, lad! I don’t know a thing about them myself, but Father <a id="page9"></a>Frederick does. He has whole books about them, though I sometimes doubt whether he believes them himself.”
 
 “They aren’t good books, brother,” I said. “They ought to be burned.”
 
@@ -517,7 +513,7 @@ There was a heavy step outside and I made myself invisible. Stout Father Frederi
 
 I went down the corridor to the book-lined office of the stout priest and, working quickly, piled all his books in the center of the room and lit them with my breath. Then I went down to the schoolyard and made myself visible again when there was nobody looking. It was very easy. I killed a man I passed on the street the next day.
 
-There was a girl named Mary who lived near us. She was fourteen then, and I desired her as those in. the Cavern out of Time and Space had desired me.
+There was a girl named Mary who lived near us. She was fourteen then, and I desired her as those in the Cavern out of Time and Space had desired me.
 
 So when I saw Guru and he had bowed, I told him of it, and he looked at me in great surprise. “You are growing older, Peter,” he said.
 
@@ -527,7 +523,7 @@ He laughed. “Come, Peter,” he said. “Follow me if you wish. There is somet
 
 “I shall come,” I said. “Teach me the word.” So he taught me the word and we said it together.
 
-The place we were in next was not like any of the other places I had been to before with Guru. It was Noplace. Always before there had been the seeming passage of time and matter, but here there was not even that. Here Guru and the others cast off their forms and were what they were, and No-place was the only place where they could do this.
+The place we were in next was not like any of the other places I had been to before with Guru. It was No-place. Always before there had been the seeming <a id="page10"></a>passage of time and matter, but here there was not even that. Here Guru and the others cast off their forms and were what they were, and No-place was the only place where they could do this.
 
 It was not like the Cavern, for the Cavern had been out of Time and Space, and this place was not enough of a place even for that. It was No-place.
 
@@ -558,11 +554,11 @@ Last night I saw Guru again and for the last time. He bowed as I approached him.
 
 “Teach me the word.”
 
-“You can withdraw—with what you master you can master also this world. Gold without reckoning; sardonyx and gems, Peter! Rich crushed velvet—stiff, scraping, embroidered tapestries!”
+“You can withdraw—with what you master you can master also this world. Gold without reckoning; sard-onyx and gems, Peter! Rich crushed velvet—stiff, scraping, embroidered tapestries!”
 
 “Teach me the word.”
 
-“Think, Peter, of the house you could build. It could be of white marble, and every slab centered by a winking ruby. Its gate could be of beaten gold within and without and it could be built about one slender tower of carven ivory, rising mile after mile into the turquoise sky. You could see the clouds float underneath your eyes.”
+“Think, Peter, of the house you could build. It could be of white marble, and every slab centered by a winking ruby. Its gate could be of beaten gold within and without and it could be built about one slender tower of carven ivory, rising mile after mile into the turquoise <a id="page11"></a>sky. You could see the clouds float underneath your eyes.”
 
 “Teach me the word.”
 
@@ -584,7 +580,7 @@ It is a word that will explode this planet like a stick of dynamite in a rotten 
 
 the_only_thing_we_learn
 
-# The Only Thing We Learn
+# <a id="page12"></a>The Only Thing We Learn
 
 .intro_block
 Another member of the Futurians was a tall, good-looking young man named Dirk Wylie. Like Cyril Kornbluth, Dirk was in the Battle of the Bulge; like him, he received there the injuries that ultimately killed him. (And like Cyril, it was not a wound. What Cyril got was a strained heart. What Dirk got was a back disability that developed by slow and painful stages into tuberculosis of the spine—apparently from getting hurt jumping off a truck.) Dirk, with some help from me, started a literary agency in the last two years of his life, and one of his first clients was Cyril Kornbluth, off in Chicago writing stories when his news-wire jab permitted. The first sale far Cyril the agency made was a long mystery novelette called *The Yogi Says Yes* to the Trojan magazine group in July 1948; three months later it sold his first post-war if story, “The Only Thing We Learn.”
@@ -821,8 +817,9 @@ Petulantly, he swept from the lectern and through the door.
 
 the_adventurer
 
-# The Adventurer
+# <a id="page23"></a>The Adventurer
 
+.intro-block
 At the time “The Adventurer” was written, R∗ch∗rd M. N∗x∗n wot not quite yet even Vice President. So it isn’t about him. It it?
 
 .fl
@@ -1123,7 +1120,7 @@ Grayson went to the door and beckoned; two captains came in. Steiner broke off h
 
 the_little_black_bag
 
-# The Little Black Bag
+# <a id="page38"></a>The Little Black Bag
 
 .intro_block
 In 1971 I was speaking at the First General Assembly of the World Future Society at the Washington Hilton. One evening I went up to my room to make a phone call and, waiting for the person at the other end to get off the phone, flipped on the television. What turned up on the screen was “The Little Black Bag.” I hadn’t expected it. It was Rod Serling’s adaptation, faithful to the text and very good. So I forgot to make my phone call, and was late joining friends downstairs . . . but it was worth it.
@@ -1493,7 +1490,7 @@ In the few minutes it took the police, summoned by the shrieking Mrs. Coleman, t
 
 the_luckiest_man_in_denv
 
-# The Luckiest Man in Denv
+# <a id="page70"></a>The Luckiest Man in Denv
 
 .intro_block
 One of the words that seems most applicable to Kornbluth's work Is “economical.” For some audiences this is not a virtue; Kornbluth grew up in science fiction and made full use of its short-hand vocabulary; he expected his audience to understand it without explanation, and so is sometimes too telegraphic and too compact for readers who expect to be told everything in full detail, and twice. *The Luckiest Man in Denv* contains six major characters, almost as many plot turns, a working model of a whole new social structure, and the germ of a textbook’s worth of warning about the waste of scarce resources . . . all in five thousand words!
@@ -1783,7 +1780,7 @@ They put their heads together, the two saviors of civilization as they knew it, 
 
 the_silly_season
 
-# The Silly Season
+# <a id="page84"></a>The Silly Season
 
 .intro_block
 When World War II was over, Cyril Kornbluth went to the University at Chicago on the G.I. Bill, in an accelerated program aiming at a master's degree. What kept him from making it was that our mutual friend Richard Wilson was also in Chicago, working as Bureau Manager for a news-wire service called Trans-Radio Press. He offered Cyril a chance to make a few bucks now and then as a stringer and then got him full-time on the staff; when Dick Wilson moved on to bigger things Cyril inherited the job as Chicago bureau chief. Many sf writers have used reporters as viewpoint characters in their stories, Cyril *was* a reporter. It makes a difference.
@@ -2011,7 +2008,7 @@ The wolves who then were burning their way through the Ozarks, utterly without o
 
 the_remorseful
 
-# The Remorseful
+# <a id="page100"></a>The Remorseful
 
 .intro_block
 One of the things that most attracts me to science fiction Is Its capacity to give what Harlaw Shapley calls “the view from a distant star,” the perspective on our humanity through the eyes of nonhumans. *The Remorseful* strikes me as a fine example of this, but If I said I remembered it primarily for this quality I would be lying to you. The memory has to do with censorship. When he wrote the story, Cyril had a line In the first paragraph that said “he masturbated incessantly.” The editor who published it, after great soul-searching, deferred to the prudery of the time and changed "masturbated" to "brooded." Well, times have changed. If Cyril were alive today and an editor so peremptorily altered his meaning, I think he would punch the clod in the head. I know I would, and so I am pleased here, for the first time in print, to restore Cyril's original language to the story. On the other hand, I know just how the original editor felt when he made the change, because he was me.
@@ -2097,7 +2094,7 @@ But they had never left a solar system so gratefully or so fast.
 
 gomez
 
-# Gomez
+# <a id="page107"></a>Gomez
 
 .intro_block
 New York was not always a nightmare city, and Cyril (as did I) loved to ramble around the neighborhoods. We rambled a lot of them together, but where my particular turf was Brooklyn his was uptown Manhattan, including the Spanish-speaking neighborhoods. He had an observant eye, and also a listening ear, which he sharpened up in neighborhood bars. I don't know who Julio was—barman? delivery boy? numbers runner?—but I know where Cyril found him: sitting an a stool, with an elbow an the mahogany, talking about baseball or why the Mayor of New York was clearly insane.
@@ -2667,7 +2664,7 @@ We didn’t discuss it then or ever. Julio just said; “Don’t tell, Beel.” 
 
 the_advent_on_channel_12
 
-# The Advent on Channel Twelve
+# <a id="page135"></a>The Advent on Channel Twelve
 
 .intro_block
 In the mid-50s Cyril’s two sons were both very small, but not to small that they hadn't discovered television. The Mickey Mouse Club was a visitor in the Kornbluth home every night, and the two little kids, and Cyril himself, never missed it. I don't know what the boys thought of this national mania (everywhere you went kids were singing the Mouseketeer sang and wearing mouse-ear hats), but I can tell what Cyril thought of it—and so can you, from reading *The Advent an Channel Twelve.*
@@ -2723,7 +2720,7 @@ J. Whipple, P.P.P.
 
 the_marching_morons
 
-# The Marching Morons
+# <a id="page138"></a>The Marching Morons
 
 .intro_block
 I described in this book's Introduction my special Interest In this story and “The Little Black Bag.” So, a year or two after both had been published, when Cyril and I were working out a plot for a new novel (it was published as *Search the Sky*), we returned to the "marching morons" for the finale to the novel. We often borrowed from each other's heads, both for collaborations and once in a while for our own individual work, but I think this was the only time we borrowed from already published work.
@@ -3457,7 +3454,7 @@ The last thing he learned was that death is the end of pain.
 
 the_last_man_left_in_the_bar
 
-# The Last Man Left in the Bar
+# <a id="page172"></a>The Last Man Left in the Bar
 
 .intro_block
 Around 1956, bars were full of new-fangled television sets, and television was full of tanktown prizefighters and musical programs. I remember discussing *The Hit Parade* with Cyril, and confessing to him that I loved Giselle Mackenzie with a pure and permanent passion. I suspect that, in one of the fragments of bar talk, with a slight change of name, I am quoted.
@@ -3787,7 +3784,7 @@ The nod together, sad and glitter-eyed, and The Century of Flame begins.
 
 the_mindworm
 
-# The Mindworm
+# <a id="page185"></a>The Mindworm
 
 .intro_block
 What's the difference between science fiction and fantasy? Easy, you say: fantasy is about fairies and vampires and werewolves, while science fiction is about Man and the year 8000 A.D. But it's not a very satisfactory answer, because there have been first-rate stories about werewolves, say (for instance, James Blish's “There Shall Be No Darkness”] that are clearly science fiction. The difference is that in a science fiction story you are willing to believe, for the duration of the story at least, that it might under certain circumstances be true—somewhere else, or at some future time—while in fantasy you don't think for a moment it's true, but are just enjoying the gooseflesh or the romp. And then you come across something like *The Mindworm* . . .
@@ -4121,7 +4118,7 @@ The sharpened stake was through his heart and the scythe blade through his throa
 
 with_these_hands
 
-# With These Hands
+# <a id="page200"></a>With These Hands
 
 When Cyril Kornbluth married, it was to a young femmefan from Ohio named Mary G. Byers. Mary was (and is) a sculptor and ceramicist, and the furnishings of their home included a potter’s wheel and a kiln, bath regularly in use. From Mary Cyril gat an understanding af the jays and difficulties at urging shapeless matter to become art. For years I had one af his awn ceramics (ta be catalogued, he said, as “the Pohl bawl”), until same far-gotten guest decided it was an ashtray, and decided ta put it an the floor next to his chair and got up in too much of a hurry ta notice where he was putting hit feet. And from Mary Cyril alto got the raw material far With These Hands.
 
@@ -4523,7 +4520,7 @@ Halvorsen, walking uncertainly toward the fountain, felt something break inside 
 
 shark_ship
 
-# Shark Ship
+# <a id="page220"></a>Shark Ship
 
 Dawn near Union Square in New York City there used la be a itare that specialized in whip & chain items, mostly photographs of girls in high-heeled boots and black-leather bras tying up other girls in white. There was never a hint of overt sex. Nothing was visible an any af the girls that was not visible on any bathing beach. This kept the proprietors out of jail on pornography charges (this was a long time ago). The place fascinated Cyril. He never came to H. L. (Galaxy) Gold’s place an East Fourteenth Street without stopping in for their latest catalogue an the way.
 
@@ -5061,7 +5058,7 @@ A flicker of consciousness was passing through the wounded chaplain; he heard th
 
 friend_to_man
 
-# Friend to Man
+# <a id="page257"></a>Friend to Man
 
 Karnbluth’l writing concerned moitly the faihlw of human beingi, and to he seldom gave us an alien being as a character. But there are exceptions, and “Friend to Man” is one.
 
@@ -5209,19 +5206,20 @@ He followed the map with his finger. The tracing appendage of the creature guide
 
 He was going to get Amy to a cure, give her money, bear her abuse—she could not understand all at once that he was another man—turned his undoubted talent to an honest—
 
-Farewell! Farewell!
+.space.thin
+*Farewell! Farewell!*
+*Farewell, little ones. Farewell.*
 
-Farewell, little ones. Farewell.
-
+.space
 The map blurred a bit before Smith’s eyes. Then the map toppled and slid and became the red-lit ceiling of the burrow. Then Smith tried to move and could not. The itching in his back was a torment.
 
-The screy mother did not look at the prostrate host as she turned and crawled up from the incubator to the surface. Something like fond humor wrinkled the surface of her thoughts as she remembered the little ones and their impatience. Heigh-ho! She had given them the best she could, letting many a smaller host go by until this fine, big host came her way. It had taken feeding and humoring, but it would last many and many a month while the little wrigglers grew and ate and grew within it. Heigh-ho! Life went on, she thought; one did the best one could . . .
+*The screy mother did not look at the prostrate host as she turned and crawled up from the incubator to the surface. Something like fond humor wrinkled the surface of her thoughts as she remembered the little ones and their impatience. Heigh-ho! She had given them the best she could, letting many a smaller host go by until this fine, big host came her way. It had taken feeding and humoring, but it would last many and many a month while the little wrigglers grew and ate and grew within it. Heigh-ho! Life went on, she thought; one did the best one could . . .*
 
 ---
 
 the_altar_at_midnight
 
-# The Altar at Midnight
+# <a id="page266"></a>The Altar at Midnight
 
 The thing about Kornbluth’i ebaracteri, James Blish once laid ta me, is that so many of them are working stiffs, and they sound like working stiffs; and how could a middle-class college-going intellectually oriented youngster like Cyril know sa much about how an ex-railway switchman felt about the world? I knew the answer. He found out about it from ex-railway switchmen, and all the rest of the world’s invisible men who hang around a neighborhood bar until they succeed in taking aboard enough anesthesia to get through another night. Cyril was endlessly fascinated by barfly companions. He drank with them, listened to them, compared notes an the world with them—and stored them away, until they emerged again in the pages of a story like this one.
 
@@ -5389,7 +5387,7 @@ The hell with them all.
 
 dominoes
 
-# Dominoes
+# <a id="page274"></a>Dominoes
 
 Twenty yean ago 1 was writing a full-scale history of the Great Depression (one af these days I may finish it). When I completed the chapter an the causes of the 1929 stack market crash I showed it ta Cyril. He shook his head. “Too complicated,” he said. “1 bet there was □ simpler explanation.” And he went home and wrote “Dominoes.”
 
@@ -5583,7 +5581,7 @@ Dominoes, W. J. Bom thought vaguely through the pain, and managed to hit a butto
 
 two_dooms
 
-# Two Dooms
+# <a id="page284"></a>Two Dooms
 
 Just before hli death, Cyril finished two major pieces of work. One was the final revision of our last navel in collaboration, WoJfbane. The other was this. Cyril’s name far the story was “The Dcomimcn,” and it was accepted under that title by The Magazine of Fantasy and Science Fiction. But he died before It was published. Under the circumstances, the editor thought that title ghoulish, and so he changed it. There have been any number of if stories since about what would have happened if the Germans and the Japanese had won World War II, but this was one of the first—and one of the best.
 
@@ -6321,10 +6319,12 @@ And Royland would have to try to avoid answering him very sharply: “Yes. This 
 
 about_the_author
 
-# About the Author
+# <a id="page337"></a>About the Author
 
-Once, when one of C.M. Karnblutli’s short story collection! was published, he wos asked ta write a short autobiographical sketch to indude in it. This is it.
+.intro_block
+Once, when one of C.M. Kornbluth’s short story collections was published, he was asked to write a short autobiographical sketch to indude in it. This is it.
 
-I was born in New York City in 1923, and was educated in the city schools as tar as freshman year at C.C.N.Y., when I was dropped for the usual reasons. I had already begun to contribute to the science-fiction magazines and became a full-time writer after leaving college, though most people regarded me as an unemployed bum. I weakened once to the extent of getting a job as a hand-screw-machine operator, but quit after a few months to enlist in the army. In three years of service I acquired a wife, a combat infantry badge, two ETO campaign stars, a PFC stripe, and a constant ringing in the ears.* After my discharge I settled in Chicago, where I combined writing blood-and-guts detective stories with acquiring an education according to the precepts of the University of Chicago. A friend managing the local bureau of a moribund news agency got me a job on its desk, and it was goodbye, Chancellor Hutchins. I rose to bureau chief eventually, paralleling the news job with contributions to the science-fiction magazines and such fantastic chores as writing a syndicated review of phonograph records for children. In 1951, at the urging of my wife, my agent, and my doctor, I resigned my job to come east as a full-time free-lance writer again. Since then I’ve sired two children and eleven books, including this one. I live now in a Tioga
+.fl
+<span class="smallcaps">I was born</span> in New York City in 1923, and was educated in the city schools as tar as freshman year at C.C.N.Y., when I was dropped for the usual reasons. I had already begun to contribute to the science-fiction magazines and became a full-time writer after leaving college, though most people regarded me as an unemployed bum. I weakened once to the extent of getting a job as a hand-screw-machine operator, but quit after a few months to enlist in the army. In three years of service I acquired a wife, a combat infantry badge, two ETO campaign stars, a PFC stripe, and a constant ringing in the ears.[^1] After my discharge I settled in Chicago, where I combined writing blood-and-guts detective stories with acquiring an education according to the precepts of the University of Chicago. A friend managing the local bureau of a moribund news agency got me a job on its desk, and it was goodbye, Chancellor Hutchins. I rose to bureau chief eventually, paralleling the news job with contributions to the science-fiction magazines and such fantastic chores as writing a syndicated review of phonograph records for children. In 1951, at the urging of my wife, my agent, and my doctor, I resigned my job to come east as a full-time free-lance writer again. Since then I’ve sired two children and eleven books, including this one. I live now in a Tioga <a id="page338"></a>County, New York, farmhouse, and visit New York City infrequently. I drive a senile Ford timidly and not well; I like to cook, specializing in Italian and Chinese dishes. I have been accused of being a compulsive reader. My writing habits have changed over the years from white-hot all-night sessions to a-little-every-day and plenty of polishing. 1 have no formal hobbies, but am interested in practically every human activity except sports. I have no settled opinions about writing; currently I’m concerned most over the invasion of science fiction by exponents of the so-called “mandarin style.”
 
-County, New York, farmhouse, and visit New York City infrequently. I drive a senile Ford timidly and not well; I like to cook, specializing in Italian and Chinese dishes. I have been accused of being a compulsive reader. My writing habits have changed over the years from white-hot all-night sessions to a-little-every-day and plenty of polishing. 1 have no formal hobbies, but am interested in practically every human activity except sports. I have no settled opinions about writing; currently I’m concerned most over the invasion of science fiction by exponents of the so-called “mandarin style.” •The “conslant ringing in the ears” turned out la be essential malignant hypertension, and a lew years later it caused his death.
+[^1]: The “constant ringing in the ears” turned out la be essential malignant hypertension, and a few years later it caused his death.

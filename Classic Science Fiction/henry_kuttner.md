@@ -1,92 +1,147 @@
 ---
-identifier: 
+identifier: the_best_of_henry_kuttner_b000
 
-title: 
+title: The Best of Henry Kuttner
 
-creator: 
+creator: Henry Kuttner
 
-cover: 
+cover: henry_kuttner.jpg
 
-css: 
+css: classic_science_fiction.css
 
 language: en-US
 
-publisher: 
+publisher: Ballantine Books
 
-subject: 
+subject: Science Fiction / Anthology
 
-description: 
+description: A sampling of kuttner from fantasy to science fiction and all stages in between . . . first-degree entertainment!
 ---
 
 rearcover
 
-KUTTNER’S BEST
+.center
+THE BEST OF HENRY KUTTNER
 
-“If you have arrived at this book and look to Kuttner for religious instruction, secular improvement, or moral renovation, save with certain exceptions, you had best retreat to forms of literate navel-lint plucking with which the sophomores of the world bug each other. Kuttner will not kick, bite, beat—much less hug, kiss, or improve you. And thank God for that!”
+“A SAMPLING OF KUTTNER FROM FANTASY TO SCIENCE FICTION AND ALL STAGES IN BETWEEN . . . FIRST-DEGREE ENTERTAINMENT!”
 
-—From the Introduction by Ray Bradbury
+.right
+—Saturday Review of Literature
 
-“The author’s best qualify is his irrev-erence, which delights and scandalizes . . . r
+.fl
+**HERE IN ONE SUPERLATIVE VOLUME 17 SCIENCE-FICTION TALES BY A MASTER STORYTELLER**
 
-■—Chicago Tribune
+.subtitle
+• MIMSY WERE THE BOROGOVES
+
+.smaller
+Scott and Emma seemed to be ordinary children—until they found a strange box of toys!
+
+.subtitle
+• THE PROUD ROBOT
+
+.smaller
+Never was there an inventor quite like Gallagher; he did his best work when drunk, but could never remember—what he invented when he sobered up!
+
+.subtitle
+• THE MISGUIDED HALO
+
+.smaller
+A young and inexperienced angel accidentally bestowed a halo on the wrong man—and then the trouble began!
+
+.subtitle
+• OR ELSE
+
+.smaller
+An extraterrestrial visitor tried to make peace between two Mexican peasants feuding over a waterhole—with disastrous results!
+
+.subtitle
+• EXIT THE PROFESSOR
+
+.smaller
+What a family—those Hogbens! Survivors of the fabled Atlantis, these hillbillies used telekinesis, teleportation and telepathy to make their way in the 20th Century!
+
+.subtitle
+—PLUS 12 MORE . . .
+
+---
+
+blurb
+
+.heading
+**KUTTNER’S BEST**
+
+.space.thin
+**“If you have arrived at this book and look to Kuttner for religious instruction, secular improvement, or moral renovation, save with certain exceptions, you had best retreat to forms of literate navel-lint plucking with which the sophomores of the world bug each other. Kuttner will not kick, bite, beat—much less hug, kiss, or improve you. And thank God for that!”**
+
+.thin.right
+**—From the Introduction**
+**by Ray Bradbury**
+
+.space.thin
+***“The author’s best quality is his irreverence, which delights and scandalizes . . . !”***
+
+.thin.right
+***—Chicago Tribune***
+
+---
+
+other_books
 
 Watch for all the volumes in Ballantine’s Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book in the series is introduced by a well-known science fiction writer or by a distinguished critic.
 
-Now Available in a Ballantine Edition:
+.space.center
+**Now Available in a Ballantine Edition:**
 
-The Best of Stanley G. Weinbaum
+.fl
+**The Best of Stanley G. Weinbaum**
+*Introduction by Isaac Asimov*
+**The Best of Fritz Leiber**
+*Introduction by Poul Anderson*
 
-Introduction by Isaac Asimov
+.space.center
+**Volumes in Preparation:**
 
-The Best of Fritz Leiber
+.space.center
+**The Best of Frederik Pohl**
+*Introduction by Lester del Rey*
+**The Best of Cordwainer Smith**
+*Introduction by J. J. Pierce*
+**The Best of C. L. Moore**
+*Introduction by Lester del Rey*
+**The Best of John W. Campbell/Don A. Stuart**
+*Introduction by Lester del Rey*
+**The Best of L. Sprague De Camp**
+*Introduction by Poul Anderson*
+**The Best of Raymond Z. Gallun**
+*Introduction by Frederik Pohl*
+**The Best of Eric Frank Russell**
+*Introduction by Alan Dean Foster*
 
-Introduction by Poul Anderson
+.space.center
+*Coming from Ballantine Books*
 
-Volumes in Preparation:
+---
 
-The Best of Frederik Fohl
+titlepage
 
-Introduction by Lester del Rey
-
-The Best of Cordwainer Smith
-
-Introduction by J. J. Pierce
-
-The Best of C. L. Moore
-
-Introduction by Lester del Rey
-
-The Best of John W. Campbell/Don A. Stuart
-
-Introduction by Lester del Rey
-
-The Best of L. Sprague De Camp
-
-Introduction by Poul Anderson
-
-The Best of Raymond Z. Gallun
-
-Introduction by Frederik Pohl
-
-The Best of Eric Frank Russel!
-
-Introduction by Alan Dean Foster
-
-Coming from Ballantine Books
-
-THE BEST OF
+# THE BEST OF<br />*Henry Kuttner*
 
 
 
+.editor
 Introduction by
-
 RAY BRADBURY
 
-NEW YORK
+.big_space.center
+BALLANTINE BOOKS • NEW YORK
 
-BALLANTINE BOOKS
+---
 
-Copyright © 1975 by Catherine Moore Kuttner, Executrix for the Estate of Henry Kuttner.
+copyright
+
+Copyright © 1975 by Catherine Moore Kuttner,
+Executrix for the Estate of Henry Kuttner.
 
 Introduction Copyright © 1975 by Ray Bradbury
 
@@ -100,94 +155,120 @@ First Printing: April, 1975
 
 Printed in the United States of America
 
-BALLANTINE BOOKS A Division of Random House, Inc.
-
+BALLANTINE BOOKS
+A Division of Random House, Inc.
 201 East 50th Street, New York, N.Y. 10022
-
 Simultaneously published by
-
 Ballantine Books, Ltd., Toronto, Canada
 
+---
+
+acknowledgments
+
+.center
 ACKNOWLEDGMENTS
 
-“Mimsy Were the Borogoves,” copyright © 1943 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“Mimsy Were the Borogoves,” copyright © 1943 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
-‘Two-Handed Engine,” copyright © 1955 by Fantasy House, Inc., for The Magazine of Fantasy and Science Fiction.
+.space.revindent
+“Two-Handed Engine,” copyright © 1955 by Fantasy House, Inc., for *The Magazine of Fantasy and Science Fiction*.
 
-“The Proud Robot,” copyright © 1943 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“The Proud Robot,” copyright © 1943 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
-“The Misguided Halo,” copyright © 1939 by Street and Smith Publications, Inc., for Unknown.
+.space.revindent
+“The Misguided Halo,” copyright © 1939 by Street and Smith Publications, Inc., for *Unknown*.
 
-“The Voice of The Lobster,” copyright © 1950 by Standard Magazines, Inc., for Thrilling Wonder Stories.
+.space.revindent
+“The Voice of The Lobster,” copyright © 1950 by Standard Magazines, Inc., for *Thrilling Wonder Stories*.
 
-“Exit The Professor,” copyright © 1947 by Standard Magazines, Inc., for Thrilling Wonder Stories.
+.space.revindent
+“Exit The Professor,” copyright © 1947 by Standard Magazines, Inc., for *Thrilling Wonder Stories*.
 
-“The Twonky,” copyright © 1942 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“The Twonky,” copyright © 1942 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
-“A Gnome There Was,” copyright © 1941 by Street and Smith Publications, Inc., for Unknown Worlds.
+.space.revindent
+“A Gnome There Was,” copyright © 1941 by Street and Smith Publications, Inc., for *Unknown Worlds*.
 
-“The Big Night,” copyright © 1947 by Standard Magazines, Inc., for Thrilling Wonder Stories.
+.space.revindent
+“The Big Night,” copyright © 1947 by Standard Magazines, Inc., for *Thrilling Wonder Stories*.
 
-“Nothing But Gingerbread Left,” copyright © 1943 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“Nothing But Gingerbread Left,” copyright © 1943 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
-“The Iron Standard,” copyright © 1943 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“The Iron Standard,” copyright © 1943 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
-“Cold War,” copyright © 1949 by Standard Magazines, Inc., for Thrilling Wonder Stories.
+.space.revindent
+“Cold War,” copyright © 1949 by Standard Magazines, Inc., for *Thrilling Wonder Stories*.
 
-“Or Else,” copyright © 1953 by Ziff-Davis Publishing Company for Amazing Stories.
+.space.revindent
+“Or Else,” copyright © 1953 by Ziff-Davis Publishing Company for *Amazing Stories*.
 
-“Endowment Policy,” copyright © 1943 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“Endowment Policy,” copyright © 1943 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
-“Housing Problem,” copyright © 1944 by Street and Smith Publications, Inc., for Charm.
+.space.revindent
+“Housing Problem,” copyright © 1944 by Street and Smith Publications, Inc., for *Charm*.
 
-“What You Need,” copyright © 1945 by Street and Smith Publications, Inc., for Astounding Science Fiction.
+.space.revindent
+“What You Need,” copyright © 1945 by Street and Smith Publications, Inc., for *Astounding Science Fiction*.
 
+.space.revindent
 “Absalom,” copyright © 1946 by Better Publications, Inc., for Startling Stories.
 
-CONTENTS
+---
 
-Ray Bradbury	ix
+contents
 
-Mimsy Were The Borogoves	1
+# CONTENTS
 
-Two-Handed Engine	36
+[*Introduction:* Henry Kuttner—A Neglected Master](introduction)
+*Ray Bradbury*
 
-The Proud Robot	62
+[Mimsy Were The Borogoves](mimsy_were_the_borogroves)
 
-The Misguided Halo	99
+[Two-Handed Engine](two-handed_engine)
 
-The Voice of The Lobster	117
+[The Proud Robot](the_proud_robot)
 
-Exit The Professor	152
+[The Misguided Halo](the_misguided_halo)
 
-The Twonky	167
+[The Voice of The Lobster](the_voice_of_the_lobster)
 
-A Gnome There Was	190
+[Exit The Professor](exit_the_professor)
 
-The Big Night	217
+[The Twonky](the_twonky)
 
-Nothing But Gingerbread Left	249
+[A Gnome There Was](a_gnome_there_was)
 
-The Iron Standard	268
+[The Big Night](the_big_night)
 
-Cold War	298
+[Nothing But Gingerbread Left](nothing_but_gingerbread_left)
 
-Or Else	325
+[The Iron Standard](the_iron_standard)
 
-Endowment Policy	335
+[Cold War](cold_war)
 
-Housing Problem	351
+[Or Else](or_else)
 
-What You Need	367
+[Endowment Policy](endowment_policy)
 
-Absalom	383
+[Housing Problem](housing_problem)
 
-Introduction: Henry Kuttner—A Neglected Master
+[What You Need](what_you_need)
 
+[Absalom](absalom)
 
+---
 
-Henry Kuttner: A Neglected Master
+introduction
 
+# Henry Kuttner: A Neglected Master
+
+.space
 Move around in high schools and colleges, in various semi-intellectual circles high and low, and listen to the names spoken there when books come into the conversation. A great deal of the time you’ll hear:
 
 Tolkien. Lovecraft. Heinlein. Sturgeon. Wells. Verne. Orwell. Vonnegut. And, you should excuse the expression, Bradbury.
@@ -226,7 +307,7 @@ In any case, this book will remedy the need for a collection that can be handed 
 
 But before we consider all the reasons for Kuttner’s temporary obscurity, I must lapse into the personal and linger there awhile.
 
-This introduction to Henry Kuttner must be very personal or it will be meaningless. I will not burden you with endless intellectual weighings and assayings of his stories. That is for you to do as you move along through this fascinating book, realizing that you have come upon the work of a man who helped shape science fiction and fantasy in its most important years—years which included the decline of Weird Tales\ the growth of Astounding Science Fiction, and the amazing birth of Unknown, and The Magazine of Fantasy and Science Fiction. I speak roughly of the time between 1938 and 1950, when most of the truly important writers in the field erupted on the scene, many of them encouraged by John W. Campbell, Astounding’s editor.
+This introduction to Henry Kuttner *must* be very personal or it will be meaningless. I will not burden you with endless intellectual weighings and assayings of his stories. That is for you to do as you move along through this fascinating book, realizing that you have come upon the work of a man who helped shape science fiction and fantasy in its most important years—years which included the decline of *Weird Tales*, the growth of *Astounding Science Fiction*, and the amazing birth of *Unknown*, and *The Magazine of Fantasy and Science Fiction*. I speak roughly of the time between 1938 and 1950, when most of the truly important writers in the field erupted on the scene, many of them encouraged by John W. Campbell, *Astounding*’s editor.
 
 Kuttner was one of those writers.
 
@@ -234,15 +315,13 @@ If you will allow the blasphemy, I will not soon forgive God for taking Kuttner 
 
 We would like to pretend that the populations of our world are full of undiscovered geniuses. From what I have seen, that simply is not true. The genetically intuitive talents are rare. Creative people are few and far between.
 
-It is the rustiest of cliches to say, upon the death of most people, that they were irreplaceable. Save on a personal and loving level, this is just not so. Hundreds of writers, one not distinguishable from the next, might be replaced tomorrow without changing our universal culture in any way.
+It is the rustiest of clichés to say, upon the death of most people, that they were irreplaceable. Save on a personal and loving level, this is just not so. Hundreds of writers, one not distinguishable from the next, might be replaced tomorrow without changing our universal culture in any way.
 
-Because we are surrounded by oceans of the noncrea-tive, and open fields of unprocreative mulch, I much admire the intuitive Henry Kuttner. He was indeed special, peculiar, and, in his own mild way, manically creative.
+Because we are surrounded by oceans of the noncreative, and open fields of unprocreative mulch, I much admire the intuitive Henry Kuttner. He was indeed special, peculiar, and, in his own mild way, manically creative.
 
 I would like to be able to recall all sorts of wondrous things about Henry Kuttner. The facts are otherwise, however. He was a shy man who gazed at you and thought his private thoughts.
 
-I am sure that he found me ridiculous and amusing a good deal of the time. At our first meeting I was seventeen,
-
-i which means—in my case, anyway—I was so unsure of my-I seif that I did a lot of running around, shouting, and speechifying to hide my confusions and private despairs. Kutt-ner put up with this for an inordinate number of years and then gave me the best piece of creative advice I ever got.
+I am sure that he found me ridiculous and amusing a good deal of the time. At our first meeting I was seventeen, which means—in my case, anyway—I was so unsure of myself that I did a lot of running around, shouting, and speechifying to hide my confusions and private despairs. Kuttner put up with this for an inordinate number of years and then gave me the best piece of creative advice I ever got.
 
 “Ray,” he said one day, “do me a favor?”
 
@@ -258,31 +337,30 @@ And shut up I did.
 
 Instead of giving my stories away free, by mouth, I began to write a story a week. Since that time I have never spoken about my ideas until, in their final form, they were on their way East via airmail.
 
-Off shut was Bradbury, then shut indeed was Kuttner.
+If shut was Bradbury, then shut indeed was Kuttner.
 
-Frank Lloyd Wright once described himself as an old man mad about architecture. Kuttner, in his twenties and thirties, was a young man mad about writing. Other people’s, first; his own, finally. His was not an ebullient and loud madness, as mine has been. Henry played a muffled dram to his own tune and marched quietly and steadily after his Muse.
+Frank Lloyd Wright once described himself as an old man mad about architecture. Kuttner, in his twenties and thirties, was a young man mad about writing. Other people’s, first; his own, finally. His was not an ebullient and loud madness, as mine has been. Henry played a muffled drum to his own tune and marched quietly and steadily after his Muse.
 
-Along the way, he helped edit, write, and publish his own fantasy fan magazine Sweetness and Light, about the same time that I was editing and publishing my own fairly dreadful mimeographed Futuria Fantasia, with occasional articles by Kuttner and Heinlein.
+Along the way, he helped edit, write, and publish his own fantasy fan magazine *Sweetness and Light*, about the same time that I was editing and publishing my own fairly dreadful mimeographed *Futuria Fantasia*, with occasional articles by Kuttner and Heinlein.
 
 Along the way, he also sneaked me the names of people who might influence my life. Try Katherine Anne Porter, he said, she’s great. Have you read Eudora Welty? he suggested, and if not, why not? Have you re-read Thome Smith? Get to it. How about the short stories of Faulkner, or—here’s one you never heard of—John Collier.
 
 He lent me copies of various mystery writers and advised me, as did Leigh Brackett, whom he was helping, too, to try James Cain, Dashiell Hammett, and Raymond Chandler. I obeyed.
 
-It always seemed, to Brackett and me, that every time
+It always seemed, to Brackett and me, that every time we looked up there was Kuttner half a block ahead on the road, going in or coming out of libraries. The last time I saw him was on a bus headed for UCLA and the vast library there, where he swam in the stacks with a beatific and quiet smile.
 
-we looked up there was Kuttner half a block ahead on the road, going in or coming out of libraries. The last time I saw him was on a bus headed for UCLA and the vast library there, where he swam in the stacks with a beatific and quiet smile.
+He wrote steadily, but I wish he had yelled on occasion—as I have yelled—to call attention to himself. It is time now for us to pay attention, to draw near, to look at the quiet patterns in the wallpaper and find Kuttner out.
 
-He wrote steadily, but I wish he had yelled on occasion —as I have yelled—to call attention to himself. It is time now for us to pay attention, to draw near, to look at the quiet patterns in the wallpaper and find Kuttner out.
-
+.space
 Leafing through the contents of this present volume, I find, to my dismay, that there are no convenient handles by which to pick Kuttner up. He wrote serious stories and light stories. He was not a science-fiction writer or a fantasist or a humorist, and yet he was all of these. If he had lived much longer he might have been troublesome to critics and librarians who like to slap precise labels on authors and file them neatly on shelves.
 
-Kuttner was also troublesome to himself. His first published story, “The Graveyard Rats,” became an instant classic when it appeared in Weird Tales when he was still a teen-ager. This swift fame for what is in essence a grisly, but finally brilliant, story caused Henry to fall into uneasy silences in later years when the story was mentioned. He did not really want to become a minor-league Lovecraft.
+Kuttner was also troublesome to himself. His first published story, “The Graveyard Rats,” became an instant classic when it appeared in *Weird Tales* when he was still a teen-ager. This swift fame for what is in essence a grisly, but finally brilliant, story caused Henry to fall into uneasy silences in later years when the story was mentioned. He did not really want to become a minor-league Lovecraft.
 
-He went through a long period of trying and testing himself. During this time he wrote dozens of undistinguished tales for the various science-fiction pulps, until Thome Smith out of John Collier out of Robert E. Howard became the at-last-remarkable Henry Kuttner.
+He went through a long period of trying and testing himself. During this time he wrote dozens of undistinguished tales for the various science-fiction pulps, until Thorne Smith out of John Collier out of Robert E. Howard became the at-last-remarkable Henry Kuttner.
 
-Where was the turning point? When did the pulp writer become the writer of quality? I imagine we could point to a half dozen stories that appeared in Campbell’s incredible magazine Unknown, but I prefer to select two which popped our eyes and dropped our mouths agape in Astounding. I feel a deep personal response to them because, in the weeks during which he was finishing “The Twonky” and “Mimsy Were the Borogoves” Kuttner gave me copies of the stories to take home, read, and study. I knew then what everyone else knows now; I was reading two stories that would become very special in their field.
+Where was the turning point? When did the pulp writer become the writer of quality? I imagine we could point to a half dozen stories that appeared in Campbell’s incredible magazine *Unknown*, but I prefer to select two which popped our eyes and dropped our mouths agape in *Astounding*. I feel a deep personal response to them because, in the weeks during which he was finishing “The Twonky” and “Mimsy Were the Borogoves” Kuttner gave me copies of the stories to take home, read, and study. I knew then what everyone else knows now; I was reading two stories that would become very special in their field.
 
-It would be hard to guess the impact of these two stories 1 on other writers in the genre. But in all probability ! hundreds of imitations were written by struggling as well as ; by published authors. I count myself among them. I very I much doubt that my “Zero Hour,” or for that matter “The Veldt,” would ever have leaped out of my typewriter if Kuttner’s imagination had not led the way.
+It would be hard to guess the impact of these two stories on other writers in the genre. But in all probability hundreds of imitations were written by struggling as well as by published authors. I count myself among them. I very much doubt that my “Zero Hour,” or for that matter “The Veldt,” would ever have leaped out of my typewriter if Kuttner’s imagination had not led the way.
 
 All of this makes it dreadfully sad to consider Henry Kuttner’s early death. He had what we all admire and respond to: a love of ideas and a love of literature. He was not one of those easy cynics who move into magazines or television for the fast buck. When he did write for money, he was not happy. He was truly happy moving about through libraries, discovering new writers, finding new angles on human activity put forward by psychologists or scientists in any field. He was beginning to experiment with stories, some of which you will find in this collection, having to do with robot personalities, computerized intellects, and men lost among those machines.
 
@@ -290,33 +368,31 @@ I wish he could have lived into the Kennedy-Johnson-Nixon years, the years when 
 
 This brings us back to the problem of why Kuttner’s name remains semiobscure in our genre.
 
-Apolitics is certainly part of the answer. When you mention Vonnegut, you polarize on the instant. Orwell, similarly. And Heinlein and Wells, and even Verne. Verne, after all, invented mad Nemo, the mirror-image reversal of mad Ahab. Nemo prowled the world teaching moral lessons to even madder militarists. Beyond this, Verne was a superpropagandist for the humanities who said: you have a head, use it to guide your heart; you have a heart, use it to guide your head; you have hands with which to change the world. Head, heart, hands—sum up all three, and remake Eden.
+Apolitics is certainly part of the answer. When you mention Vonnegut, you polarize on the instant. Orwell, similarly. And Heinlein and Wells, and even Verne. Verne, after all, invented mad Nemo, the mirror-image reversal of mad Ahab. Nemo prowled the world teaching moral lessons to even madder militarists. Beyond this, Verne was a super-propagandist for the humanities who said: you have a head, use it to guide your heart; you have a heart, use it to guide your head; you have hands with which to change the world. Head, heart, hands—sum up all three, and remake Eden.
 
-I cannot recall any particularly violent ideas Kuttner put
+I cannot recall any particularly violent ideas Kuttner put forth on politics or politicians. He seemed never to have gone through one of those nineteenth or twentieth summers when we all go a bit amok on Technocracy or Socialism or Scientology. When the fever passes and the smoke clears we wonder what happened to us and are puzzled when our friends don’t speak to us for a time, until they discover that the hair has fallen off us and we have given up being a political gorilla and are back being human again. If Kuttner had such a year, or month, I never knew it. And it doesn’t show in his work.
 
-forth on politics or politicians. He seemed never to have gone through one of those nineteenth or twentieth summers when we all go a bit amok on Technocracy or Socialism or Scientology. When the fever passes and the smoke clears we wonder what happened to us and are puzzled when our friends don’t speak to us for a time, until they discover that the hair has fallen off us and we have given up being a political gorilla and are back being human again. If Kuttner had such a year, or month, I never knew it. And it doesn’t show in his work.
+So because much of what he wrote is not, in modern terminology, Relevant with a capital R, he is probably graded by some as ten degrees down from Orwell, and twenty below Vonnegut—which is, needless to say, a damned and awful shame. What we need is not more political cant and polarized bias, but more traffic engineers, with no particular traffic in mind save survival, to stand on the highroads leading toward the future, waving us on creatively but not necessarily banging our ears when we, children that we are, misbehave.
 
-So because much of what he wrote is not, in modem terminology, Relevant with a capital R, he is probably graded by some as ten degrees down from Orwell, and twenty below Vonnegut—which is, needless to say, a damned and awful shame. What we need is not more political cant and polarized bias, but more traffic engineers, with no particular traffic in mind save survival, to stand on the highroads leading toward the future, waving us on creatively but not necessarily banging our ears when we, children that we are, misbehave.
+Kuttner, then, was no moral revolutionary or political reformer. He was an entertaining writer. His stories are seeded with ideas and moralities, yes, but these do not cry out, shout, shriek, or necessarily ask for change. This is the way we are, Kuttner says, what do you think of us?
 
-Kuttner, then, was no moral revolutionary or political reformer. He was an entertaining writer. IBs stories are seeded with ideas and moralities, yes, but these do not cry out, shout, shriek, or necessarily ask for change. This is the way we are, Kuttner says, what do you think of us?
-
-Most science-fiction writers are moral revolutionaries on some level or another, instructing us for our own good. When Bernard Shaw and Bertrand Russell ventured into the field it could have been predicted (and I did so predict with Lord Russell) that they would pop up as moral revolutionists teaching lessons and pontificating therefrom. Shaw was better at it, of course. Russell came late to the short story, but it was science fiction, and was odorous with morality.
+Most science-fiction writers are moral revolutionaries on some level or another, instructing us for our own good. When Bernard Shaw and Bertrand Russell ventured into the field it could have been predicted (and I did so predict with Lord Russell) that they would pop up as moral revolutionists teaching lessons and pontificating therefrom. Shaw was better at it, of course. Russell came late to the short story, but it *was* science fiction, and was odorous with morality.
 
 Here, I think, we may find Kuttner’s flaw—if flaw it is, and I for one do not consider it so. One cannot be polarized all the time, one cannot think politically from noon to night. That way is the way of the True Believer—that is to say, finally, the Mad Man.
 
-Kuttner is not mad, nor especially kicking up his heels with foie de vivre. He is wryly calm. If he celebrates anything, it is within his head.
+Kuttner is not mad, nor especially kicking up his heels with *joie de vivre*. He is wryly calm. If he celebrates anything, it is within his head.
 
-And so, the more I think of it, the more I feel Kuttner has been cursed by the great curse of our time. People have too often asked: Well, how do we use Kuttner? What’s he good for? What kind of tool is he? Where does he fit? What is the appropriate label? Will people look up to me if I carry “Mimsy Were the Borogoves” around campus rather than The Gulag Archipelago?
+And so, the more I think of it, the more I feel Kuttner has been cursed by the great curse of our time. People have too often asked: Well, how do we use Kuttner? What’s he good for? What kind of tool is he? Where does he fit? What is the appropriate label? Will people look up to me if I carry “Mimsy Were the Borogoves” around campus rather than *The Gulag Archipelago?*
 
 If this is not the complete explanation, it leans toward it, in any event. In what tends to be a practical Kleenex culture, if you can’t clean out your ears with an author, you tend, because others bully you about it, to leave him alone.
 
-So if you have arrived at this book and look to Kuttner for religious instruction, secular improvement, or moral renovation, save with certain exceptions you had best retreat to Siddhartha and other forms of literate navel-lint plucking with which the sophomores of the world bug each other. Kuttner will not kick, bite, beat, much less kiss, hug, stroke, or improve you. And thank-God for that. I have had enough improvement, just as I have had too much cotton candy at too many circuses.
+So if you have arrived at this book and look to Kuttner for religious instruction, secular improvement, or moral renovation, save with certain exceptions you had best retreat to *Siddhartha* and other forms of literate navel-lint plucking with which the sophomores of the world bug each other. Kuttner will not kick, bite, beat, much less kiss, hug, stroke, or improve you. And thank God for that. I have had enough improvement, just as I have had too much cotton candy at too many circuses.
 
 If you will allow a final, very small, very personal note, here it is:
 
-Back in 1942 you will find my first horror story, published in the November issue of Weird Tales. It’s title is “The Candle,” and the last three hundred words were written by Henry Kuttner. I had trouble with the story, sent it to Hank, and he responded with a complete ending. It was good. I couldn’t top it. I asked permission to use it. Hank said yes. That ending, today, is the only good part of that long-lost and deservedly well-buried story. It’s nice to be able to say Henry Kuttner once collaborated with me.
+Back in 1942 you will find my first horror story, published in the November issue of *Weird Tales*. It’s title is “The Candle,” and the last three hundred words were written by Henry Kuttner. I had trouble with the story, sent it to Hank, and he responded with a complete ending. It was good. I couldn’t top it. I asked permission to use it. Hank said yes. That ending, today, is the only good part of that long-lost and deservedly well-buried story. It’s nice to be able to say Henry Kuttner once collaborated with me.
 
-Well, here’s the collection. It represents only a small part of the hundreds of stories he wrote. Kuttner had no family, but . . ,
+Well, here’s the collection. It represents only a small part of the hundreds of stories he wrote. Kuttner had no family, but . . .
 
 His children live here in this book.
 
@@ -324,105 +400,48 @@ They are lovely and special and fine.
 
 I want you to meet them.
 
-Ray Bradbury
+.right
+<span class="smallcaps">Ray Bradbury</span>
+Los Angeles, California
+July 11, 1974
 
-Los Angeles, California July 11, 1974
+---
 
+mimsy_were_the_borogroves
 
+# <a id="page1"></a>Mimsy Were The Borogoves
 
+.fl
+<span class="smallcaps">There’s no use</span> trying to describe either Unthahorsten or his surroundings, because, for one thing, a good many million years had passed and, for another, Unthahorsten wasn’t on Earth, technically speaking. He was doing the equivalent of standing in the equivalent of a laboratory. He was preparing to test his time machine.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-V
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mimsy Were The Borogoves
-
-There’s no use trying to describe either Unthahorsten or his surroundings, because, for one thing, a good many million years had passed and, for another, Unthahorsten wasn’t on Earth, technically speaking. He was doing the equivalent of standing in the equivalent of a laboratory. He was preparing to test his time machine.
-
-Having turned on the power, Unthahorsten suddenly realized that the Box was empty. Which wouldn’t do at all. The device needed a control, a three-dimensional solid which would react to the conditions of another age. Otherwise Unthahorsten couldn’t tell, on the machine’s return, where and when it had been. Whereas a solid in the Box would automatically be subject to the entropy and cosmic-ray bombardment of the other era, and Unthahorsten could measure the changes, both qualitative and quantitative, when the machine returned. The Calculators could then get to work and, presently, tell Unthahorsten that the Box had briefly visited a.d. 1,000,000, a.d. 1,000 or a.d. 1, as the case might be.
+Having turned on the power, Unthahorsten suddenly realized that the Box was empty. Which wouldn’t do at all. The device needed a control, a three-dimensional solid which would react to the conditions of another age. Otherwise Unthahorsten couldn’t tell, on the machine’s return, where and when it had been. Whereas a solid in the Box would automatically be subject to the entropy and cosmic-ray bombardment of the other era, and Unthahorsten could measure the changes, both qualitative and quantitative, when the machine returned. The Calculators could then get to work and, presently, tell Unthahorsten that the Box had briefly visited <span class="smallcaps">a.d.</span> 1,000,000, <span class="smallcaps">a.d.</span> 1,000 or <span class="smallcaps">a.d.</span> 1, as the case might be.
 
 Not that it mattered, except to Unthahorsten. But he was childish in many respects.
 
-There was little time to waste. The Box was beginning to glow and shiver. Unthahorsten stared around wildly, fled into the next glossatch and groped in a storage bin there. He came up with an armful of peculiar-looking stuff. Uh-huh. Some of the discarded toys of his son Snowen, which the boy had brought with him when he had passed over from Earth, after mastering the necessary technique. Well, Snowen needed this junk no longer. He was conditioned,
+There was little time to waste. The Box was beginning to glow and shiver. Unthahorsten stared around wildly, fled into the next glossatch and groped in a storage bin there. He came up with an armful of peculiar-looking stuff. Uh-huh. Some of the discarded toys of his son Snowen, which the boy had brought with him when he had passed over from Earth, after mastering the necessary technique. Well, Snowen needed this junk no longer. He was conditioned, <a id="page2"></a>and had put away childish things. Besides, though Unthahorsten’s wife kept the toys for sentimental reasons, the experiment was more important.
 
-l
-
-and had put away childish things. Besides, though Untha— horsten’s wife kept the toys for sentimental reasons, the ex-' periment was more important.
-
-Unthahorsten left the glossatch and dumped the assortment into the Box, slamming the cover shut before the; warning signal flashed. The Box went away. The manner of l its departure hint Unthahorsten’s eyes.
+Unthahorsten left the glossatch and dumped the assortment into the Box, slamming the cover shut before the warning signal flashed. The Box went away. The manner of its departure hurt Unthahorsten’s eyes.
 
 He waited.
 
 And he waited.
 
-Eventually he gave up and built another time machine,, with identical results. Snowen hadn’t been annoyed by the: loss of his old toys, nor had Snowen’s mother, so Unthahorsten cleaned out the bin and dumped the remainder ofi his son’s childhood relics in the second time machine’s: Box.
+Eventually he gave up and built another time machine, with identical results. Snowen hadn’t been annoyed by the loss of his old toys, nor had Snowen’s mother, so Unthahorsten cleaned out the bin and dumped the remainder ofi his son’s childhood relics in the second time machine’s Box.
 
-According to his calculations, this one should have appeared on Earth in the latter part of the nineteenth century, a.d. If that actually occurred, the device remainedl there.
+According to his calculations, this one should have appeared on Earth in the latter part of the nineteenth century, <span class="smallcaps">a.d.</span> If that actually occurred, the device remained there.
 
-Disgusted, Unthahorsten decided to make no more time: machines. But the mischief had been done. There were two: of them, and the first . . .
+Disgusted, Unthahorsten decided to make no more time machines. But the mischief had been done. There were two of them, and the first . . .
 
-Scott Paradine found it while he was playing hooky from: the Glendale Grammar School. There was a geography test! that day, and Scott saw no sense in memorizing place-names—which, in the nineteen-forties, was a fairly sensible? theory. Besides, it was the sort of warm spring day, with a: touch of coolness in the breeze, which invited a boy to lie: down in a field and stare at the occasional clouds till he fell asleep. Nuts to geography! Scott dozed.
+.space
+Scott Paradine found it while he was playing hooky from the Glendale Grammar School. There was a geography test that day, and Scott saw no sense in memorizing place names—which, in the nineteen-forties, was a fairly sensible theory. Besides, it was the sort of warm spring day, with a touch of coolness in the breeze, which invited a boy to lie down in a field and stare at the occasional clouds till he fell asleep. Nuts to geography! Scott dozed.
 
-About noon he got hungry, so his stocky legs carried him to a nearby store. There he invested his small hoard with penurious care and a sublime disregard for his gastric: juices. He went down by the creek to feed.
+About noon he got hungry, so his stocky legs carried him to a nearby store. There he invested his small hoard with penurious care and a sublime disregard for his gastric juices. He went down by the creek to feed.
 
-Having finished his supply of cheese, chocolate and cookies, and having drained the soda-pop bottle to its: dregs, Scott caught tadpoles and studied them with a certain amount of scientific curiosity. He did not persevere. Something tumbled down the bank and thudded into the muddy ground near the water, so Scott, with a wary glance: around, hurried to investigate.
+Having finished his supply of cheese, chocolate and cookies, and having drained the soda-pop bottle to its dregs, Scott caught tadpoles and studied them with a certain amount of scientific curiosity. He did not persevere. Something tumbled down the bank and thudded into the muddy ground near the water, so Scott, with a wary glance around, hurried to investigate.
 
-It was a box. It was, in fact, the Box. The gadgetry hitched to it meant little to Scott, though he wondered why it was so fused and burned. He pondered. With his jackknife he pried and probed, his tongue sticking out from a comer of his mouth—Hm-m-m. Nobody was around. Where had the box come from? Somebody must have left it here, and sliding soil had dislodged it from its precarious perch.
+<a id="page3"></a>It was a box. It was, in fact, the Box. The gadgetry hitched to it meant little to Scott, though he wondered why it was so fused and burned. He pondered. With his jackknife he pried and probed, his tongue sticking out from a corner of his mouth—Hm-m-m. Nobody was around. Where had the box come from? Somebody must have left it here, and sliding soil had dislodged it from its precarious perch.
 
-“That’s a helix,” Scott decided, quite erroneously. It was i helical, but it wasn’t a helix, because of the dimensional warp involved. Had the thing been a model airplane, no matter how complicated, it would have held few mysteries to Scott. As it was, a problem was posed. Something told Scott that the device was a lot more complicated than the spring motor he had deftly dismantled last Friday.
+“That’s a helix,” Scott decided, quite erroneously. It was helical, but it wasn’t a helix, because of the dimensional warp involved. Had the thing been a model airplane, no matter how complicated, it would have held few mysteries to Scott. As it was, a problem was posed. Something told Scott that the device was a lot more complicated than the spring motor he had deftly dismantled last Friday.
 
 But no boy has ever left a box unopened, unless forcibly dragged away. Scott probed deeper. The angles on this thing were funny. Short circuit, probably. That was why—uh! The knife slipped. Scott sucked his thumb and gave vent to experienced blasphemy.
 
@@ -432,23 +451,22 @@ Scott shouldn’t have felt depressed. The gadgetry would have given Einstein a 
 
 He hammered it, in fact, from its contact point with the fourth dimension, releasing the space-time torsion it had been maintaining. There was a brittle snap. The box jarred slightly, and lay motionless, no longer only partially in existence. Scott opened it easily now.
 
-The soft, woven helmet was the first thing that caught his eye, but he discarded that without much interest. It was just a cap. Next, he lifted a square, transparent crystal block, small enough to cup in his palm—much too small to contain' the maze of apparatus within it. In a moment Scott had solved that problem. The crystal was a sort of magnifying glass, vastly enlarging the things inside the block.
+.space
+The soft, woven helmet was the first thing that caught his eye, but he discarded that without much interest. It was just a cap. Next, he lifted a square, transparent crystal block, small enough to cup in his palm—much too small to contain the maze of apparatus within it. In a moment Scott had solved that problem. The crystal was a sort of magnifying glass, vastly enlarging the things inside the block. <a id="page4"></a>Strange things they were, too. Miniature people, for example.
 
-Strange things they were, too. Miniature people, for example.
+They moved. Like clockwork automatons, though much more smoothly. It was rather like watching a play. Scott was interested in their costumes, but fascinated by their actions. The tiny people were deftly building a house. Scott wished it would catch fire, so he could see the people put it out.
 
-They moved. Like clockwork automatons, though much i more smoothly. It was rather like watching a play. Scott! was interested in their costumes, but fascinated by their ac- ■ tions. The tiny people were deftly building a house. Scott i wished it would catch fire, so he could see the people put it !l out.
+Flames licked up from the half-completed structure. The automations, with a great deal of odd apparatus, extinguished the blaze.
 
-Flames licked up from the half-completed structure. The: automations, with a great deal of odd apparatus, extinguish-' ed the blaze.
+It didn’t take Scott long to catch on. But he was a little worried. The manikins would obey his thoughts. By the time he discovered that, he was frightened and threw the cube from him.
 
-It didn’t take Scott long to catch on. But he was a little: worried. The manikins would obey his thoughts. By the: time he discovered that, he was frightened and threw the; cube from him.
+Halfway up the bank, he reconsidered and returned. The crystal lay partly in the water, shining in the sun. It was a toy; Scott sensed that, with the unerring instinct of a child. But he didn’t pick it up immediately. Instead, he returned to the box and investigated its remaining contents.
 
-Halfway up the bank, he reconsidered and returned. The: crystal lay partly in the water, shining in the sun. It was at toy; Scott sensed that, with the unerring instinct of a child.. But he didn’t pick it up immediately. Instead, he returned! to the box and investigated its remaining contents.
+He found some really remarkable gadgets. The afternoon passed all too quickly. Scott finally put the toys back in the box and lugged it home, grunting and puffing. He was quite red-faced by the time he arrived at the kitchen door.
 
-He found some really remarkable gadgets. The afternoon passed all too quickly. Scott finally put the toys back: in the box and lugged it home, grunting and puffing. He was quite red-faced by the time he arrived at the kitchens door.
+His find he hid at the back of a closet in his room upstairs. The crystal cube he slipped into his pocket, which  already bulged with string, a coil of wire, two pennies, a wad of tinfoil, a grimy defense stamp and a chunk of feldspar. Emma, Scott’s two-year-old sister, waddled unsteadily in from the hall and said hello.
 
-His find he hid at the back of a closet in his room upstairs. The crystal cube he slipped into his pocket, which > already bulged with string, a coil of wire, two pennies, a wad of tinfoil, a grimy defense stamp and a chunk of feldspar. Emma, Scott’s two-year-old sister, waddled unsteadily in from the hall and said hello.
-
-“Hello, Slug,” Scott nodded, from his altitude of seven: years and some months. He patronized Emma shockingly, but she didn’t know the difference. Small, plump and! wide-eyed, she flopped down on the carpet and stared dolefully at her shoes.
+“Hello, Slug,” Scott nodded, from his altitude of seven years and some months. He patronized Emma shockingly, but she didn’t know the difference. Small, plump and wide-eyed, she flopped down on the carpet and stared dolefully at her shoes.
 
 “Tie ’em, Scotty, please?”
 
@@ -456,8 +474,9 @@ His find he hid at the back of a closet in his room upstairs. The crystal cube h
 
 Emma nodded.
 
-“Let’s see your hands.” For a wonder they were reasonably clean, though probably not aseptic. Scott regarded his own paws thoughtfully and, grimacing, went to the bath-jroom, where he made a sketchy toilet. The tadpoles had ! left traces.
+“Let’s see your hands.” For a wonder they were reasonably clean, though probably not aseptic. Scott regarded his <a id="page5"></a>own paws thoughtfully and, grimacing, went to the bathroom, where he made a sketchy toilet. The tadpoles had left traces.
 
+.space
 Dennis Paradine and his wife Jane were having a cocktail before dinner, downstairs in the living room. He was a youngish, middle-aged man with soft grey hair and a thin, prim-mouthed face; he taught philosophy at the University. Jane was small, neat, dark and very pretty. She sipped her Martini and said:
 
 “New shoes. Like ’em?”
@@ -468,7 +487,7 @@ Dennis Paradine and his wife Jane were having a cocktail before dinner, downstai
 
 “Exams?”
 
-“Yeah. Flaming youth aspiring towards manhood. I hope they die. In considerable agony. Irish’ Allah!”
+“Yeah. Flaming youth aspiring towards manhood. I hope they die. In considerable agony. *Insh’ Allah!*”
 
 “I want the olive,” Jane requested.
 
@@ -480,9 +499,11 @@ Paradine regarded his wife balefully and crossed his long legs. “You sound lik
 
 “Like that hussy Betty Dawson, perhaps?” Jane unsheathed her nails. “Does she still leer at you in that offensive way?”
 
-“She does. The child is a neat psychological problem. Luckily she isn’t mine. If she were—” Paradine nodded significantly. “Sex consciousness and too many movies. I suppose she still thinks she can get a passing grade by showing me her knees. Which are, by the way, rather bony.” Jane adjusted her skirt with an air of complacent pride. Paradine uncoiled himself and poured fresh Martinis. “Candidly, I don’t see the point of teaching those apes philosophy. They’re all at the wrong age. Their habit patterns, their methods of thinking, are already laid down. They’re horribly conservative, not that they’d admit it. The only people who can understand philosophy are mature adults or kids like Emma and Scotty.”
+“She does. The child is a neat psychological problem. Luckily she isn’t mine. If she were—” Paradine nodded significantly. “Sex consciousness and too many movies. I suppose she still thinks she can get a passing grade by showing me her knees. Which are, by the way, rather bony.”
 
-“Well, don’t enroll Scotty in your course,” Jane requested. “He isn’t ready to be a Philosophiae Doctor. I hold no: brief for a child genius, especially when it’s my son.”
+Jane adjusted her skirt with an air of complacent pride. Paradine uncoiled himself and poured fresh Martinis. “Candidly, I don’t see the point of teaching those apes philosophy. They’re all at the wrong age. Their habit patterns, their methods of thinking, are already laid down. They’re horribly conservative, not that they’d admit it. The only people who can understand philosophy are mature adults or kids like Emma and Scotty.”
+
+“Well, don’t enroll Scotty in your course,” Jane <a id="page6"></a>requested. “He isn’t ready to be a *Philosophiae Doctor*. I hold no brief for a child genius, especially when it’s my son.”
 
 “Scotty would probably be better at it than Betty Dawson,” Paradine grunted.
 
@@ -492,33 +513,33 @@ Paradine regarded his wife balefully and crossed his long legs. “You sound lik
 
 “Thank you. Here’s Rosalie. Dinner?”
 
-“It’s all ready, Miz Pa’dine,” said Rosalie, hovering. “I’ll 1 call Miss Emma ’n’ Mista’ Scotty.”
+“It’s all ready, Miz Pa’dine,” said Rosalie, hovering. “I’ll call Miss Emma ’n’ Mista’ Scotty.”
 
-“I’ll get ’em.” Paradine put his head into the next room i and roared, “Kids! Come and get it!”
+“I’ll get ’em.” Paradine put his head into the next room and roared, “Kids! Come and get it!”
 
-Small feet scuttered down the stairs. Scott dashed into view, scrubbed and shining, a rebellious cowlick aimed at: the zenith. Emma pursued, levering herself carefully down i the steps. Halfway, she gave up the attempt to descend up- • right and reversed, finishing the task monkey-fashion, her -small behind giving an impression of marvellous diligence: upon the work in hand. Paradine watched, fascinated by the spectacle, till he was hurled back by the impact of his: son’s body.
+Small feet scuttered down the stairs. Scott dashed into view, scrubbed and shining, a rebellious cowlick aimed at the zenith. Emma pursued, levering herself carefully down the steps. Halfway, she gave up the attempt to descend upright and reversed, finishing the task monkey-fashion, her small behind giving an impression of marvellous diligence upon the work in hand. Paradine watched, fascinated by the spectacle, till he was hurled back by the impact of his son’s body.
 
 “Hi, Dad!” Scott shrieked.
 
-Paradine recovered himself and regarded Scott with: dignity. “Hi, yourself. Help me into dinner. You’ve dislocated at least one of my hip joints.”
+Paradine recovered himself and regarded Scott with dignity. “Hi, yourself. Help me into dinner. You’ve dislocated at least one of my hip joints.”
 
-But Scott was already tearing into the next room, where: he stepped on Jane’s new shoes in an ecstasy of affection,, burbled an apology and rushed off to find his place at the: dinner table. Paradine cocked up an eyebrow as he followed, Emma’s pudgy hand desperately gripping his forefinger.
+But Scott was already tearing into the next room, where he stepped on Jane’s new shoes in an ecstasy of affection, burbled an apology and rushed off to find his place at the dinner table. Paradine cocked up an eyebrow as he followed, Emma’s pudgy hand desperately gripping his forefinger.
 
 “Wonder what the young devil’s been up to.”
 
 “No good, probably,” Jane sighed. “Hello, darling. Let’s see your ears.”
 
-“They’re clean. Mickey licked ’em.”
+“They’re *clean*. Mickey licked ’em.”
 
-“Well, that Airedale’s tongue is far cleaner than your: ears,” Jane pondered, making a brief examination. “Still,, as long as you can hear, the dirt’s only superficial.”
+“Well, that Airedale’s tongue is far cleaner than your ears,” Jane pondered, making a brief examination. “Still, as long as you can hear, the dirt’s only superficial.”
 
 “Fisshul?”
 
-“Just a little, that means.” Jane dragged her daughter to: the table and inserted her legs into a high chair. Only lately had Emma graduated to the dignity of dining with the rest: of the family, and she was, as Paradine remarked, all eaten j up with pride by the prospect. Only babies spilled food, Emma had been told. As a result, she took such painstaking care in conveying her spoon to her mouth that Paradine got the jitters whenever he watched.
+“Just a little, that means.” Jane dragged her daughter to the table and inserted her legs into a high chair. Only lately had Emma graduated to the dignity of dining with the rest <a id="page7"></a>of the family, and she was, as Paradine remarked, all eaten up with pride by the prospect. Only babies spilled food, Emma had been told. As a result, she took such painstaking care in conveying her spoon to her mouth that Paradine got the jitters whenever he watched.
 
 “A conveyor belt would be the thing for Emma,” he suggested, pulling out a chair for Jane. “Small buckets of spinach arriving at her face at stated intervals.”
 
-. Dinner proceeded uneventfully until Paradine happened to glance at Scott’s plate. “Hello, there. Sick? Been stuffing yourself at lunch?”
+Dinner proceeded uneventfully until Paradine happened to glance at Scott’s plate. “Hello, there. Sick? Been stuffing yourself at lunch?”
 
 Scott thoughtfully examined the food still left before him. “I’ve had all I need, Dad,” he explained.
 
@@ -526,7 +547,7 @@ Scott thoughtfully examined the food still left before him. “I’ve had all I 
 
 “Uh-huh. Honest, I’ve had all I need.”
 
-“All you want?”
+“All you *want?*”
 
 “Sure. I eat different.”
 
@@ -546,13 +567,13 @@ Scott shook his head solemnly.
 
 But Paradine was interested. “You mean you’re getting everything possible out of your food—no wastage—and eating less?”
 
-Scott thought that over. “I guess so. It’s not just the sp— saliva. I sort of measure how much to put in my mouth at once, and what stuff to mix up. I dunno. I just do it.”
+Scott thought that over. “I guess so. It’s not just the sp—saliva. I sort of measure how much to put in my mouth at once, and what stuff to mix up. I dunno. I just do it.”
 
-“Hm-m-m,” said Paradine, making a note to check up later. “Rather a revolutionary idea.” Kids often get screwy notions, but this one might not be so far off the beam. He pursed his lips. “Eventually I suppose people will eat quite differently—I mean the way they eat, as well as what. What they eat, I mean. Jane, our son shows signs of becoming a genius.”
+“Hm-m-m,” said Paradine, making a note to check up later. “Rather a revolutionary idea.” Kids often get screwy notions, but this one might not be so far off the beam. He pursed his lips. “Eventually I suppose people will eat quite differently—I mean the *way* they eat, as well as what. What they eat, I mean. Jane, our son shows signs of becoming a genius.”
 
-“Oh?”
+<a id="page8"></a>“Oh?”
 
-“It’s a rather good point in dietetics he just made. Did 1 you figure it out yourself, Scott?”
+“It’s a rather good point in dietetics he just made. Did you figure it out yourself, Scott?”
 
 “Sure,” the boy said, and really believed it.
 
@@ -562,17 +583,18 @@ Scott thought that over. “I guess so. It’s not just the sp— saliva. I sort
 
 Paradine was unreasonably disappointed. “But surely—”
 
-“S-s-s-spit!” Emma shrieked, overcome by a sudden fit of badness. “Spit!” She attempted to demonstrate, but sue- • ceeded only in dribbling into her bib.
+“S-s-s-spit!” Emma shrieked, overcome by a sudden fit of badness. *“Spit!”* She attempted to demonstrate, but succeeded only in dribbling into her bib.
 
-With a resigned air Jane rescued and reproved her' daughter, while Paradine eyed Scott with rather puzzled interest. But it was not till after dinner, in the living-room,, that anything further happened.
+With a resigned air Jane rescued and reproved her daughter, while Paradine eyed Scott with rather puzzled interest. But it was not till after dinner, in the living-room, that anything further happened.
 
+.space
 “Any homework?”
 
-“N-no,” Scott said, flushing guiltily. To cover his embar-' rassment he took from his pocket a gadget he had found in i the box, and began to unfold it. The result resembled a tes-seract, strung with beads. Paradine didn’t see it at first, but; Emma did. She wanted to play with it.
+“N-no,” Scott said, flushing guiltily. To cover his embarrassment he took from his pocket a gadget he had found in the box, and began to unfold it. The result resembled a tesseract, strung with beads. Paradine didn’t see it at first, but Emma did. She wanted to play with it.
 
-“No. Lay off, Slug,” Scott ordered. “You can watch 1 me.” He fumbled with the beads, making soft, interested l noises. Emma extended a fat forefinger and yelped.
+“No. Lay off, Slug,” Scott ordered. “You can watch me.” He fumbled with the beads, making soft, interested noises. Emma extended a fat forefinger and yelped.
 
-“Scotty,” Paradine said wamingly.
+“Scotty,” Paradine said warningly.
 
 “I didn’t hurt her.”
 
@@ -582,9 +604,9 @@ Paradine looked up. He frowned, staring. What in—
 
 “Is that an abacus?” he asked. “Let’s see it, please.”
 
-Somewhat unwillingly, Scott brought the gadget across? to his father’s chair. Paradine blinked. The “abacus,” unfolded, was more than a foot square, composed of thin, rigid wires that interlocked here and there. On the wires the colored beads were strung. They could be slid back and forth, and from one support to another, even at the points of jointure. But—a pierced bead couldn’t cross interlocking ■ wires.
+Somewhat unwillingly, Scott brought the gadget across to his father’s chair. Paradine blinked. The “abacus,” unfolded, was more than a foot square, composed of thin, rigid wires that interlocked here and there. On the wires the colored beads were strung. They could be slid back and forth, and from one support to another, even at the points of jointure. But—a pierced bead couldn’t cross *interlocking* wires.
 
-So, apparently, they weren’t pierced. Paradine looked closer. Each small sphere had a deep groove running? around it, so that it could be revolved and slid along the: wire at the same time. Paradine tried to pull one free. It: clung as though magnetically. Iron? It looked more like plastic.
+So, apparently, they weren’t pierced. Paradine looked closer. Each small sphere had a deep groove running around it, so that it could be revolved and slid along the wire at the same time. Paradine tried to pull one free. It <a id="page9"></a>clung as though magnetically. Iron? It looked more like plastic.
 
 The framework itself—Paradine wasn’t a mathematician. But the angles formed by the wires were vaguely shocking, in their ridiculous lack of Euclidean logic. They were a maze. Perhaps that’s what the gadget was—a puzzle.
 
@@ -592,7 +614,8 @@ The framework itself—Paradine wasn’t a mathematician. But the angles formed 
 
 “Uncle Harry gave it to me,” Scott said, on the spur of the moment. “Last Sunday, when he came over.” Uncle Harry was out of town, a circumstance Scott well knew. At the age of seven, a boy soon learns that the vagaries of adults follow a certain definite pattern, and that they are fussy about the donors of gifts. Moreover, Uncle Harry would not return for several weeks; the expiration of that period was unimaginable to Scott, or, at least, the fact that his lie would ultimately be discovered meant less to him than the advantages of being allowed to keep the toy.
 
-Paradine found himself growing slightly confused as he attempted to manipulate the beads. The angles were vaguely illogical. It was like a puzzle. This red bead, if slid along this wire to that junction, should reach there—but it didn’t. A maze, odd, but no doubt instructive. Paradine had a well-founded feeling that he’d have no patience with the thing himself.
+.space
+Paradine found himself growing slightly confused as he attempted to manipulate the beads. The angles were vaguely illogical. It was like a puzzle. This red bead, if slid along *this* wire to *that* junction, should reach *there*—but it didn’t. A maze, odd, but no doubt instructive. Paradine had a well-founded feeling that he’d have no patience with the thing himself.
 
 Scott did, however, retiring to a corner and sliding beads around with much fumbling and grunting. The beads did sting, when Scott chose the wrong ones or tried to slide them in the wrong direction. At last he crowed exultantly.
 
@@ -608,27 +631,28 @@ Scott did, however, retiring to a corner and sliding beads around with much fumb
 
 Paradine didn’t believe that, so he merely snorted. Scott puzzled over the framework again. He experimented. This time there were no shocks, even slight. The abacus had showed him the correct method. Now it was up to him to do it on his own. The bizarre angles of the wires seemed a little less confusing now, somehow.
 
-It was a most instructive toy—
+<a id="page10"></a>It was a most instructive toy—
 
-It worked, Scott thought, rather like the crystal cube., Reminded of that gadget, he took it from his pocket and relinquished the abacus to Emma, who was struck dumb: with joy. She fell to work sliding the beads, this time without protesting against the shocks—which, indeed, were very minor—and, being imitative, she managed to make a bead disappear almost as quickly as had Scott. The blue bead reappeared—but Scott didn’t notice. He had fore-thoughtfully retired into an angle of the chesterfield and an overstuffed chair and amused himself with the cube.
+It worked, Scott thought, rather like the crystal cube. Reminded of that gadget, he took it from his pocket and relinquished the abacus to Emma, who was struck dumb with joy. She fell to work sliding the beads, this time without protesting against the shocks—which, indeed, were very minor—and, being imitative, she managed to make a bead disappear almost as quickly as had Scott. The blue bead reappeared—but Scott didn’t notice. He had fore-thoughtfully retired into an angle of the chesterfield and an overstuffed chair and amused himself with the cube.
 
-There were the little people inside the thing, tiny manikins much enlarged by the magnifying properties of thee crystal. They moved, all right. They built a house. It caught fire, with realistic-seeming flames, and the little people stood by waiting. Scott puffed urgently. “Put it out!’
+There were the little people inside the thing, tiny manikins much enlarged by the magnifying properties of the crystal. They moved, all right. They built a house. It caught fire, with realistic-seeming flames, and the little people stood by waiting. Scott puffed urgently. “Put it out!’
 
-But nothing happened. Where was that queer fire engine with revolving arms, that had appeared before? Here it was. It came sailing into the picture and stopped. Scotti urged it on.
+But nothing happened. Where was that queer fire engine, with revolving arms, that had appeared before? Here it was. It came sailing into the picture and stopped. Scott urged it on.
 
-This was fun. The little people really did what Scott told] them, inside of his head. If he made a mistake, they waited] till he’d found the right way. They even posed new problems for him.
+This was fun. The little people really did what Scott told them, inside of his head. If he made a mistake, they waited till he’d found the right way. They even posed new problems for him.
 
-The cube, too, was a most instructive toy. It was teaching Scott, with alarming rapidity—and teaching him very? entertainingly. But it gave him no really new knowledge as? yet. He wasn’t ready. Later . . . later . . .
+The cube, too, was a most instructive toy. It was teaching Scott, with alarming rapidity—and teaching him very entertainingly. But it gave him no really new knowledge as yet. He wasn’t ready. Later . . . later . . .
 
-Emma grew tired of the abacus and went in search off Scott. She couldn’t find him, even in his room, but once: there the contents of the closet intrigued her. She discovered the box. It contained treasure-trove—a doll, which Scott had already noticed but discarded with a sneer. Squealing, Emma brought the doll downstairs, squatted in: the middle of the floor and began to take it apart.
+.space
+Emma grew tired of the abacus and went in search of Scott. She couldn’t find him, even in his room, but once there the contents of the closet intrigued her. She discovered the box. It contained treasure-trove—a doll, which Scott had already noticed but discarded with a sneer. Squealing, Emma brought the doll downstairs, squatted in the middle of the floor and began to take it apart.
 
 “Darling! What’s that?”
 
 “Mr. Bear!”
 
-Obviously it wasn’t Mr. Bear, who was blind, earless, but comforting in his soft fatness. But all dolls were named] Mr. Bear to Emma.
+Obviously it wasn’t Mr. Bear, who was blind, earless, but comforting in his soft fatness. But all dolls were named Mr. Bear to Emma.
 
-Jane Paradine hesitated. “Did you take that from some other little girl?”
+<a id="page11"></a>Jane Paradine hesitated. “Did you take that from some other little girl?”
 
 “I didn’t. She’s mine.”
 
@@ -642,7 +666,7 @@ Scott came out from his hiding place, thrusting the cube into his pocket. “Uh�
 
 Emma brought the doll to her mother. “She comes apart. See?”
 
-“Oh? It—ugh!” Jane sucked in her breath. Paradine looked up quickly.
+“Oh? It—*ugh!*” Jane sucked in her breath. Paradine looked up quickly.
 
 “What’s up?”
 
@@ -668,7 +692,9 @@ The thing came apart in sections—skin, muscles, organs —miniature but quite 
 
 “But what are those? Nerves?”
 
-“No, these are the nerves. Arteries here; veins here. Funny sort of aorta.” Paradine looked baffled. “That— what’s Latin for network, anyway, huh? Rita? Rata?” “Rales,” Jane suggested at random.
+<a id="page12"></a>“No, these are the nerves. Arteries here; veins here. Funny sort of aorta.” Paradine looked baffled. “That— what’s Latin for network, anyway, huh? *Rita? Rata?*”
+
+*“Rales,”* Jane suggested at random.
 
 “That’s a sort of breathing,” Paradine said crushingly. “I can’t figure out what this luminous network of stuff is. It goes all through the body, like nerves.”
 
@@ -682,19 +708,20 @@ Meanwhile, in the adjoining room, Emma was sliding the beads to and fro in the a
 
 Scott panted, staring into the crystal cube and mentally directing, with many false starts, the building of a structure somewhat more complicated than the one which had been destroyed by fire. He, too, was learning—being conditioned . . .
 
+.space
 Paradine’s mistake, from a completely anthropomorphic standpoint, was that he didn’t get rid of the toys instantly. He did not realize their significance, and, by the time he did, the progression of circumstances had got well under way. Uncle Harry remained out of town, so Paradine couldn’t check with him. Too, the midterm exams were on, which meant arduous mental effort and complete exhaustion at night; and Jane was slightly ill for a week or so. Emma and Scott had free rein with the toys.
 
 “What,” Scott asked his father one evening, “is a wabe, Dad?”
 
 “Wave?”
 
-He hesitated. “I—don’t think so. Isn’t ‘wabe’ right?” “ ‘Wabe’ is Scot for ‘web.’ That it?”
+He hesitated. “I—don’t *think* so. Isn’t ‘wabe’ right?”
 
-“I don’t see how,” Scott muttered, and wandered off,
+“ ‘Wabe’ is Scot for ‘web.’ That it?”
 
-] scowling, to amuse himself with the abacus. He was able to | handle it quite deftly now. But, with the instinct of children i for avoiding interruption, he and Emma usually played f with the toys in private. Not obviously, of course—but the ; more intricate experiments were never performed under ! the eye of an adult.
+“I don’t see how,” Scott muttered, and wandered off, <a id="page13"></a>scowling, to amuse himself with the abacus. He was able to handle it quite deftly now. But, with the instinct of children for avoiding interruption, he and Emma usually played with the toys in private. Not obviously, of course—but the more intricate experiments were never performed under the eye of an adult.
 
-Scott was learning fast. What he now saw in the crystal cube had little relationship to the original simple problems. But they were fascinatingly technical. Had Scott realized that his education was being guided and supervised— though merely mechanically—he would probably have lost I interest. As it was, his initiative was never quashed.
+Scott was learning fast. What he now saw in the crystal cube had little relationship to the original simple problems. But they were fascinatingly technical. Had Scott realized that his education was being guided and supervised—though merely mechanically—he would probably have lost interest. As it was, his initiative was never quashed.
 
 Abacus, cube, doll and other toys the children found in the box . . .
 
@@ -704,15 +731,11 @@ Under the eyes of an adult he changes. Like an actor on stage, when he remembers
 
 It is difficult to admit that children lack subtlety. Children are different from mature animals because they think in another way. We can more or less easily pierce the pretences they set up, but they can do the same to us. Ruthlessly a child can destroy the pretences of an adult. Iconoclasm is a child’s prerogative.
 
-Foppishness, for example. The amenities of social inter-
+Foppishness, for example. The amenities of social <a id="page14"></a>intercourse, exaggerated not quite to absurdity. The gigolo . . .
 
-course, exaggerated	not quite to absurdity.	The
+“Such *savoir-faire!* Such punctilious courtesy!” The dowager and the blonde young thing are often impressed. Men have less pleasant comments to make. But the child goes to the root of the matter.
 
-gigolo . . .
-
-“Such savoir-faire! Such punctilious courtesy!” The dowager and the blonde young thing are often impressed. Men have less pleasant comments to make. But the child goes to the root of the matter.
-
-“You’re silly!”
+“You’re *silly!*”
 
 How can an immature human being understand the complicated system of social relationships? He can’t. To him, an exaggeration of natural courtesy is silly. In his functional structure of life patterns, it is rococo. He is an egotistic little animal who cannot visualize himself in the position of another—certainly not an adult. A self-contained, almost perfect natural unit, his wants supplied by others, the child is much like a unicellular creature floating in the bloodstream, nutriment carried to him, waste products carried away.
 
@@ -724,9 +747,8 @@ That, perhaps, was why Emma learned more from the toys than did Scott. He could 
 
 Give a young child pencil and paper, and he will draw something which looks different to him than to an adult. The absurd scribbles have little resemblance to a fire engine, but it is a fire engine, to a baby. Perhaps it is even three-dimensional. Babies think differently and see differently.
 
-Paradine brooded over that, reading his paper one evening and watching Emma and Scott communicate. Scott was questioning his sister. Sometimes he did it in English. More often he had resource to gibberish and sign language.
-
-Emma tried to reply, but the handicap was too great.
+.space
+Paradine brooded over that, reading his paper one evening and watching Emma and Scott communicate. Scott was questioning his sister. Sometimes he did it in English. More often he had resource to gibberish and sign language. <a id="page15"></a>Emma tried to reply, but the handicap was too great.
 
 Finally Scott got pencil and paper. Emma liked that. Tongue in cheek, she laboriously wrote a message. Scott took the paper, examined it and scowled.
 
@@ -750,7 +772,8 @@ Scott returned, looking pleased. He met Emma’s gaze and nodded. Paradine felt 
 
 The two men laughed and went off to their classes. But later Paradine was to remember the incident. Especially after he met Holloway. Before that, however, months were to pass, and the situation to develop even further towards its climax.
 
-Perhaps Paradine and Jane had evinced too much interest in the toys. Emma and Scott took to keeping them hidden, playing with them only in private. They never did it overtly, but with a certain unobtrusive caution. Nevertheless, Jane especially was somewhat troubled.
+.space
+Perhaps Paradine and Jane had evinced too much interest in the toys. Emma and Scott took to keeping them hidden, playing with them only in private. They never did it <a id="page16"></a>overtly, but with a certain unobtrusive caution. Nevertheless, Jane especially was somewhat troubled.
 
 She spoke to Paradine about it one evening. “That doll Harry gave Emma.”
 
@@ -760,11 +783,13 @@ She spoke to Paradine about it one evening. “That doll Harry gave Emma.”
 
 “Maybe Harry bought it in New York.”
 
-Jane was unconvinced. “I asked them about the other things, too. They showed me their stock—Johnson’s a big store, you know. But there’s nothing like Emma’s abacus.” “Hm-m-m.” Paradine wasn’t much interested. They had tickets for a show that night, and it was getting late. So the subject was dropped for the nonce.
+Jane was unconvinced. “I asked them about the other things, too. They showed me their stock—Johnson’s a big store, you know. But there’s nothing like Emma’s abacus.”
+
+“Hm-m-m.” Paradine wasn’t much interested. They had tickets for a show that night, and it was getting late. So the subject was dropped for the nonce.
 
 Later it cropped up again, when a neighbor telephoned Jane.
 
-“Scotty’s never been like that, Denny. Mrs. Bums said he frightened the devil out of her Francis.”
+“Scotty’s never been like that, Denny. Mrs. Burns said he frightened the devil out of her Francis.”
 
 “Francis? A little fat bully of a punk, isn’t he? Like his father. I broke Burns’s nose for him once, when we were sophomores.”
 
@@ -772,11 +797,13 @@ Later it cropped up again, when a neighbor telephoned Jane.
 
 “I suppose so.” Paradine listened. Noises in the next room told him the whereabouts of his son. “Scotty!”
 
-“Bang,” Scott said, and appeared smiling. “I killed ’em iall. Space pirates. You want me, dad?”
+“Bang,” Scott said, and appeared smiling. “I killed ’em all. Space pirates. You want me, dad?”
 
-“Yes. If you don’t mind leaving the space pirates unburied for a few minutes. What did you do to Francis Bums?”
+“Yes. If you don’t mind leaving the space pirates unburied for a few minutes. What did you do to Francis Burns?”
 
-Scott’s blue eyes reflected incredible candor. “Huh?” “Try hard. You can remember, I’m sure.”
+Scott’s blue eyes reflected incredible candor. “Huh?”
+
+“Try hard. You can remember, I’m sure.”
 
 “Uh. Oh, that. I didn’t do nothing.”
 
@@ -786,17 +813,13 @@ Scott’s blue eyes reflected incredible candor. “Huh?” “Try hard. You can
 
 “Television set?”
 
-Scott produced the crystal cube. “It isn’t really that.
+Scott produced the crystal cube. “It isn’t really that. See?”
 
-See?”
-
-Paradine examined the gadget, startled by the magnifica-
-
-tion. All he could see, though, was a maze of meaningless colored designs.
+Paradine examined the gadget, startled by the <a id="page17"></a>magnification. All he could see, though, was a maze of meaningless colored designs.
 
 “Uncle Harry—”
 
-Paradine reached for the telephone. Scott gulped. “Is— is Uncle Harry back in town?”
+Paradine reached for the telephone. Scott gulped. “Is—is Uncle Harry back in town?”
 
 “Yeah.”
 
@@ -806,7 +829,7 @@ Harry was home, but disclaimed all knowledge of the peculiar toys. Rather grimly
 
 “Get the box these things came in,” Paradine ordered. “Then head for bed.”
 
-“Are you—hup—gonna punish me, Daddy?”
+“Are you—*hup*—gonna punish me, Daddy?”
 
 “For playing hooky and lying, yes. You know the rules. No more shows for two weeks. No sodas for the same period.”
 
@@ -816,11 +839,14 @@ Scott gulped. “You gonna keep my things?”
 
 “Well—g’night, Daddy. G’night, Mom.”
 
+.space
 After the small figure had gone upstairs, Paradine dragged a chair to the table and carefully scrutinized the box. He poked thoughtfully at the focused gadgetry. Jane watched.
 
 “What is it, Denny?”
 
-“Dunno. Who’d leave a box of toys down by the creek?” “It might have fallen out of a car.”
+“Dunno. Who’d leave a box of toys down by the creek?”
+
+“It might have fallen out of a car.”
 
 “Not at that point. The road doesn’t hit the creek north of the railroad trestle. Empty lots—nothing else.” Paradine lit a cigarette. “Drink, honey?”
 
@@ -830,15 +856,15 @@ After the small figure had gone upstairs, Paradine dragged a chair to the table 
 
 “Johnson’s didn’t know, and they get their stock from New York.”
 
-“I’ve been checking up, too,” Paradine admitted. “That doll,”—he poked it—“rather worried me. Custom jobs, maybe, but I wish I knew who’d made ’em.”
+<a id="page18"></a>“I’ve been checking up, too,” Paradine admitted. “That doll,”—he poked it—“rather worried me. Custom jobs, maybe, but I wish I knew who’d made ’em.”
 
-“A psychologist? That abacus—don’t they give people: tests with such things?”
+“A psychologist? That abacus—don’t they give people tests with such things?”
 
-Paradine snapped his fingers. “Right! And say, there’s a guy going to speak at the university next week, fellow named Holloway, who’s a child psychologist. He’s a big; shot, with quite a reputation. He might know something; about it.”
+Paradine snapped his fingers. “Right! And say, there’s a guy going to speak at the university next week, fellow named Holloway, who’s a child psychologist. He’s a big shot, with quite a reputation. He might know something about it.”
 
 “Holloway? I don’t—”
 
-“Rex Holloway. He’s—hm-m-m! He doesn’t live far' from here. Do you suppose he might have had these things made himself?”
+“Rex Holloway. He’s—hm-m-m! He doesn’t live far from here. Do you suppose he might have had these things made himself?”
 
 Jane was examining the abacus. She grimaced and drew back. “If he did, I don’t like him. But see if you can find out, Denny.”
 
@@ -846,9 +872,10 @@ Paradine nodded. “I shall.”
 
 He drank his highball, frowning. He was vaguely worried. But he wasn’t scared—yet.
 
-Rex Holloway was a fat, shiny man, with a bald head! and thick spectacles, above which his thick, black browss lay like bushy caterpillars. Paradine brought him home to) dinner one night a week later. Holloway did not appear to a watch the children, but nothing they did or said was lost onij him. His grey eyes, shrewd and bright, missed little.
+.space
+Rex Holloway was a fat, shiny man, with a bald head and thick spectacles, above which his thick, black brows lay like bushy caterpillars. Paradine brought him home to dinner one night a week later. Holloway did not appear to a watch the children, but nothing they did or said was lost on him. His grey eyes, shrewd and bright, missed little.
 
-The toys fascinated him. In the living-room the three;, adults gathered around the table, where the playthings had! been placed. Holloway studied them carefully as he listened to what Jane and Paradine had to say. At last he broke his silence.
+The toys fascinated him. In the living-room the three adults gathered around the table, where the playthings had been placed. Holloway studied them carefully as he listened to what Jane and Paradine had to say. At last he broke his silence.
 
 “I’m glad I came here tonight. But not completely. This; is very disturbing, you know.”
 
@@ -856,21 +883,21 @@ The toys fascinated him. In the living-room the three;, adults gathered around t
 
 “We are dealing with madness.”
 
-He smiled at the shocked looks they gave him. “All children are mad, from an adult viewpoint. Ever read Hughes’ High Wind in Jamaica?”
+He smiled at the shocked looks they gave him. “All children are mad, from an adult viewpoint. Ever read Hughes’ *High Wind in Jamaica?*”
 
-“I’ve got it.” Paradine secured the little book from its;
+“I’ve got it.” Paradine secured the little book from its <a id="page19"></a>shelf. Holloway extended a hand, took the book and flipped the pages till he had found the place he wanted. He read aloud:
 
-shelf. Holloway extended a hand, took the book and flipped the pages till he had found the place he wanted. He read aloud:
-
+.space.thin
 Babies, of course, are hot human—they are animals, and have a very ancient and ramified culture, as cats have, and fishes, and even snakes; the same in kind as these, but much more complicated and vivid, since babies are, after all, one of the most developed species of the lower vertebrates. In short, babies have minds which work in terms and categories of their own, which cannot be translated into the terms and categories of the human mind.
 
+.space
 Jane tried to take that calmly, but couldn’t. “You don’t mean that Emma—”
 
 “Could you think like your daughter?” Holloway asked. “Listen: ‘One can no more think like a baby than one can think like a bee.’ ”
 
 Paradine mixed drinks. Over his shoulder he said, “You’re theorizing quite a bit, aren’t you? As I get it, you’re implying that babies have a culture of their own, even a high standard of intelligence.”
 
-“Not necessarily. There’s no yardstick, you see. All I say is that babies think in other ways than we do. Not necessarily better—that’s a question of relative values. But with a different matter of extension.” He sought for words, grimacing.
+“Not necessarily. There’s no yardstick, you see. All I say is that babies think in other ways than we do. Not necessarily *better*—that’s a question of relative values. But with a different matter of extension.” He sought for words, grimacing.
 
 “Fantasy,” Paradine said, rather rudely but annoyed because of Emma. “Babies don’t have different senses from ours.”
 
@@ -878,7 +905,7 @@ Paradine mixed drinks. Over his shoulder he said, “You’re theorizing quite a
 
 “I’m trying to understand,” Jane said slowly. “All I can think of is my Mixmaster. It can whip up batter and potatoes, but it can squeeze oranges, too.”
 
-“Something like that. The brain’s a colloid, a very complicated machine. We don’t know much about its potentialities. We don’t even know how much it can grasp. But it is known that the mind becomes conditioned as the human animal matures. It follows certain familiar theorems, and all thought thereafter is pretty well based on patterns taken for granted. Look at this.” Holloway touched the abacus. “Have you experimented with it?”
+“Something like that. The brain’s a colloid, a very complicated machine. We don’t know much about its potentialities. We don’t even know how much it can grasp. But it *is* known that the mind becomes conditioned as the human <a id="page20"></a>animal matures. It follows certain familiar theorems, and all thought thereafter is pretty well based on patterns taken for granted. Look at this.” Holloway touched the abacus. “Have you experimented with it?”
 
 “A little,” Paradine said.
 
@@ -896,23 +923,24 @@ Paradine mixed drinks. Over his shoulder he said, “You’re theorizing quite a
 
 “Not visually, anyway,” Holloway denied. “All I can say is that our minds, conditioned to Euclid, can see nothing in this but an illogical tangle of wires. But a child—especially a baby—might see more. Not at first. It’d be a puzzle, of course. Only a child wouldn’t be handicapped by too many preconceived ideas.”
 
-“Hardening of the thought arteries,” Jane interjected. Paradine was not convinced. “Then a baby could work calculus better than Einstein? No, I don’t mean that. I can see your point, more or less clearly. Only—”
+“Hardening of the thought arteries,” Jane interjected.
 
-“Well, look. Let’s suppose there are two kinds of geometry; we’ll limit it, for the sake of the example. Our kind, Euclidean, and another, we’ll call x. X hasn’t much relationship to Euclid. It’s based on different theorems. Two and two needn’t equal four in it; they could equal y2, or they might not even equal. A baby’s mind is not yet conditioned, except by certain questionable factors of heredity and environment. Start the infant on Euclid—”
+Paradine was not convinced. “Then a baby could work calculus better than Einstein? No, I don’t mean that. I can see your point, more or less clearly. Only—”
 
+“Well, look. Let’s suppose there are two kinds of geometry; we’ll limit it, for the sake of the example. Our kind, Euclidean, and another, we’ll call *x*. *X* hasn’t much relationship to Euclid. It’s based on different theorems. Two and two needn’t equal four in it; they could equal *y*², or they might not even *equal*. A baby’s mind is not yet conditioned, except by certain questionable factors of heredity and environment. Start the infant on Euclid—”
+
+.space
 “Poor kid,” Jane said.
 
-Holloway shot her a quick glance. “The basis of Euclid. Alphabet blocks. Math, geometry, algebra—they come much later. We’re familiar with that development. On the
-
-) other hand, start the baby with the basic principles of our jc logic.”
+Holloway shot her a quick glance. “The basis of Euclid. Alphabet blocks. Math, geometry, algebra—they come much later. We’re familiar with that development. On the <a id="page21"></a>other hand, start the baby with the basic principles of our *x* logic.”
 
 “Blocks? What kind?”
 
-Holloway looked at the abacus. “It wouldn’t make much j sense to us. But we’ve been conditioned to Euclid.”
+Holloway looked at the abacus. “It wouldn’t make much sense to us. But we’ve been conditioned to Euclid.”
 
 Paradine poured himself a stiff shot of whisky. “That’s pretty awful. You’re not limiting to math.”
 
-“Right! I’m not limiting it at all. How can I? I’m not conditioned to x logic.”
+“Right! I’m not limiting it at all. How can I? I’m not conditioned to *x* logic.”
 
 “There’s the answer,” Jane said, with a sigh of relief. “Who is? It’d take such a person to make the sort of toys you apparently think these are.”
 
@@ -936,7 +964,7 @@ Paradine tapped the fused gadgetry on the box. “What about this? It implies—
 
 “One thinks of that first. If so, the box might have come from anywhere.”
 
-“Where—things are—different?” Paradine asked slowly.
+“Where—things are—*different?*” Paradine asked slowly.
 
 “Exactly. In space, or even time. I don’t know; I’m a psychologist. Unfortunately I’m conditioned to Euclid, too.”
 
@@ -946,23 +974,25 @@ Paradine tapped the fused gadgetry on the box. “What about this? It implies—
 
 Holloway picked up the crystal cube. “Did you question the children much?”
 
-Paradine said, “Yeah. Scott said there were people in
+Paradine said, “Yeah. Scott said there were people <a id="page22"></a>in that cube when he first looked. I asked him what was in it now.”
 
-that cube when he first looked. I asked him what was in it now.”
+“What did he say?” The psychologist’s eyes widened.
 
-“What did he say?” The psychologist’s eyes widened. “He said they were building a place. His exact words. I asked him who—people? But he couldn’t explain.”
+“He said they were building a place. His exact words. I asked him who—people? But he couldn’t explain.”
 
-“No, I suppose not,” Holloway muttered. “It must be progressive. How long have the children had these toys?” “About three months, I guess.”
+“No, I suppose not,” Holloway muttered. “It must be progressive. How long have the children had these toys?”
+
+“About three months, I guess.”
 
 “Time enough. The perfect toy, you see, is both instructive and mechanical. It should do things, to interest a child, and it should teach, preferably unobtrusively. Simple problems at first. Later—”
 
-“X logic,” Jane said, white-faced.
+“*X* logic,” Jane said, white-faced.
 
 Paradine cursed under his breath. “Emma and Scott are perfectly normal!”
 
 “Do you know how their minds work—now?”
 
-Holloway didn’t pursue the thought. He fingered the doll. “It would be interesting to know the conditions of the place where these things came from. Induction doesn’t help a great deal, though. Too many factors are missing. We can’t visualize a world based on the x factor—environment adjusted to minds thinking in x patterns. This luminous network inside the doll. It could be anything. It could exist inside us, though we haven’t discovered it yet. When we find the right stain—” He shrugged. “What do you make of this?”
+Holloway didn’t pursue the thought. He fingered the doll. “It would be interesting to know the conditions of the place where these things came from. Induction doesn’t help a great deal, though. Too many factors are missing. We can’t visualize a world based on the *x* factor—environment adjusted to minds thinking in *x* patterns. This luminous network inside the doll. It could be anything. It could exist inside us, though we haven’t discovered it yet. When we find the right stain—” He shrugged. “What do you make of this?”
 
 It was a crimson globe, two inches in diameter, with a protruding knob upon its surface.
 
@@ -980,19 +1010,19 @@ It was a crimson globe, two inches in diameter, with a protruding knob upon its 
 
 “That’s horrible,” Jane said.
 
-“Not to them. Emma is probably quicker at understand-i ing x than is Scott, for her mind isn’t yet conditioned to this 'i environment.”
+“Not to them. Emma is probably quicker at <a id="page23"></a>understanding *x* than is Scott, for her mind isn’t yet conditioned to this environment.”
 
-Paradine said, “But I can remember plenty of things I i did as a child. Even as a baby.”
+Paradine said, “But I can remember plenty of things I did as a child. Even as a baby.”
 
 “Well?”
 
-I “Was I—mad then?”
+“Was I—mad then?”
 
-“The things you don’t remember are the criterion of ! your madness,” Holloway retorted. “But I use the word ; ‘madness’ purely as a convenient symbol for the variation from the known human norm. The arbitrary standard of sanity.”
+“The things you don’t remember are the criterion of your madness,” Holloway retorted. “But I use the word ‘madness’ purely as a convenient symbol for the variation from the known human norm. The arbitrary standard of sanity.”
 
 Jane put down her glass. “You’ve said that induction was difficult, Mr. Holloway. But it seems to me you’re making a great deal of it from very little. After all, these toys—”
 
-“I am a psychologist, and Fve specialized in children. I’m not a layman. These toys mean a great deal to me, chiefly because they mean so little.”
+“I *am* a psychologist, and I’ve specialized in children. I’m not a layman. These toys mean a great deal to me, chiefly because they mean so little.”
 
 “You might be wrong.”
 
@@ -1006,13 +1036,11 @@ The psychologist patted the air with a plump hand. “My dear girl! I’m not a 
 
 Paradine put down his cigarette and slowly watched blue smoke spiral up, wavering in an unfelt draught “Can you give a prognosis?”
 
-“I’ll try. That’s all I can say. If the undeveloped minds have been turned into the x channel, it’s necessary to divert them back. I’m not saying that’s the wisest thing to do, but it probably is from our standards. After all, Emma and Scott will have to live in this world.”
+“I’ll try. That’s all I can say. If the undeveloped minds have been turned into the *x* channel, it’s necessary to divert them back. I’m not saying that’s the wisest thing to do, but it probably is from our standards. After all, Emma and Scott will have to live in this world.”
 
 “Yeah. Yeah. I can’t believe there’s much wrong. They seem about average, thoroughly normal.”
 
-“Superficially they may seem so. They’ve no reason for
-
-acting abnormally, have they? And how can you tell if they —think differently?”
+“Superficially they may seem so. They’ve no reason for <a id="page24"></a>acting abnormally, have they? And how can you tell if they—think differently?”
 
 “I’ll call ’em,” Paradine said.
 
@@ -1030,7 +1058,7 @@ Holloway tried. Scott watched, wrinkling his nose.
 
 “That’s right?”
 
-“Uh-huh. It’s gotta go there”
+“Uh-huh. It’s gotta go *there.*”
 
 “Here? Why?”
 
@@ -1048,19 +1076,20 @@ In the end nothing was solved. Holloway, as he said good night, seemed ill at ea
 
 “May I come again?”
 
-“I wish you would,” Jane told him. “Any time. You still | think—”
+<a id="page25"></a>“I wish you would,” Jane told him. “Any time. You still think—”
 
-He nodded. “The children’s minds are not reacting nor-j mally. They’re not dull at all, but I’ve the most extraordinary impression that they arrive at conclusions in a way we ' don’t understand. As though they used algebra while we j used geometry. The same conclusion, but a different meth-I od of reaching it.”
+He nodded. “The children’s minds are not reacting normally. They’re not dull at all, but I’ve the most extraordinary impression that they arrive at conclusions in a way we don’t understand. As though they used algebra while we used geometry. The same conclusion, but a different method of reaching it.”
 
 “What about the toys?” Paradine asked suddenly.
 
 “Keep them out of the way. I’d like to borrow them, if I may.”
 
-That night Paradine slept badly. Holloway’s parallel had been ill chosen. It led to disturbing theories. The x factor . . . The children were using the equivalent of algebraic reasoning, while adults used geometry.
+.space
+That night Paradine slept badly. Holloway’s parallel had been ill chosen. It led to disturbing theories. The *x* factor . . . The children were using the equivalent of algebraic reasoning, while adults used geometry.
 
 Fair enough. Only . . .
 
-Algebra can give you answers that geometry cannot, since there are certain terms and symbols which cannot be expressed geometrically. Suppose x logic showed conclusions inconceivable to an adult mind.
+Algebra can give you answers that geometry cannot, since there are certain terms and symbols which cannot be expressed geometrically. Suppose *x* logic showed conclusions inconceivable to an adult mind.
 
 “Damn!” Paradine whispered. Jane stirred beside him.
 
@@ -1082,17 +1111,18 @@ But, Paradine thought, with a sudden sickness in his middle, it was exactly as t
 
 Had their minds changed so that even—sleep was different to them?
 
-He thrust the thought away. “You’ll catch cold. Let’s get back to bed. Want a drink?”
+<a id="page26"></a>He thrust the thought away. “You’ll catch cold. Let’s get back to bed. Want a drink?”
 
 “I think I do,” Jane said, watching Emma. Her hand reached out blindly toward the child; she drew it back. “Come on. We’ll wake the kids.”
 
 They drank a little brandy together, but said nothing. Jane cried in her sleep, later.
 
+.space
 Scott was not awake, but his mind worked in slow, careful building. Thus—
 
-“They’ll take the toys away. The fat man—listava dangerous, maybe. But the Ghoric direction won’t show— evankrus dun hasn’t them. Intransdection—bright and shiny. Emma. She’s more khopranik-high now than—I still don’t see how to—thavarar lixery dist . . .”
+“They’ll take the toys away. The fat man—listava dangerous, maybe. But the Ghoric direction won’t show—evankrus dun hasn’t them. Intransdection—bright and shiny. Emma. She’s more khopranik-high now than—I still don’t see how to—thavarar lixery dist . . .”
 
-A little of Scott’s thoughts could still be understood. But Emma had become conditioned to x much faster
+A little of Scott’s thoughts could still be understood. But Emma had become conditioned to *x* much faster
 
 She was thinking, too.
 
@@ -1100,17 +1130,15 @@ Not like an adult or a child. Not even like a human being. Except, perhaps, a hu
 
 Sometimes, Scott himself had difficulty in following her thoughts.
 
-If it had not been for Holloway, life might have settled back into an almost normal routine. The toys were no longer active reminders. Emma still enjoyed her dolls and sand-pile, with a thoroughly explicable delight. Scott was satisfied with baseball and his chemical set. They did everything other children did, and evinced few, if any, flashes of abnormality. But Holloway seemed to be an alarmist.
+If it had not been for Holloway, life might have settled back into an almost normal routine. The toys were no longer active reminders. Emma still enjoyed her dolls and sand pile, with a thoroughly explicable delight. Scott was satisfied with baseball and his chemical set. They did everything other children did, and evinced few, if any, flashes of abnormality. But Holloway seemed to be an alarmist.
 
 He was having the toys tested, with rather idiotic results. He drew endless charts and diagrams, corresponded with mathematicians, engineers and other psychologists, and went quietly crazy trying to find rhyme or reason in the construction of the gadgets. The box itself, with its cryptic machinery, told nothing. Fusing had melted too much of the stuff into slag. But the toys . . .
 
-It was the random element that baffled investigation. Even that was a matter of semantics. For Holloway was convinced that it wasn’t really random. There just weren’t enough known factors. No adult could work the abacus, for
+It was the random element that baffled investigation. Even that was a matter of semantics. For Holloway was convinced that it wasn’t really random. There just weren’t enough known factors. No adult could work the abacus, for <a id="page27"></a>example. And Holloway thoughtfully refrained from letting a child play with the thing.
 
-I example. And Holloway thoughtfully refrained from letting | a child play with the thing.
+The crystal cube was similarly cryptic. It showed a mad pattern of colors, which sometimes moved. In this it resembled a kaleidoscope. But the shifting of balance and gravity didn’t affect it. Again the random factor.
 
-The crystal cube was similarly cryptic. It showed a mad | pattern of colors, which sometimes moved. In this it resem-I bled a kaleidoscope. But the shifting of balance and gravity f didn’t affect it. Again the random factor.
-
-Or, rather, the unknown. The x pattern. Eventually, I Paradine and Jane slipped back into something like com-; placence, with a feeling that the children had been cured of ; their mental quirk, now that the contributing cause had been i removed. Certain of the actions of Emma and Scott gave ) them every reason to quit worrying.
+Or, rather, the unknown. The *x* pattern. Eventually, Paradine and Jane slipped back into something like complacence, with a feeling that the children had been cured of their mental quirk, now that the contributing cause had been removed. Certain of the actions of Emma and Scott gave them every reason to quit worrying.
 
 For the kids enjoyed swimming, hiking, movies, games, the normal functional toys of this particular time-sector. It was true that they failed to master certain rather puzzling mechanical devices which involved some calculation. A three-dimensional jigsaw globe Paradine had picked up, for example. But he found that difficult himself.
 
@@ -1128,11 +1156,10 @@ Scott examined the scene gravely. “It’s all wrong,” he said.
 
 “Gee.” Scott lapsed into puzzled silence. “I dunno.”
 
+.space
 The children had missed their toys, but not for long. Emma recovered first, though Scott still moped. He held unintelligible conversations with his sister, and studied meaningless scrawls she drew on paper he supplied. It was almost as though he was consulting her, anent difficult problems beyond his grasp.
 
-If Emma understood more, Scott had more real intelligence, and manipulatory skill as well. He built a gadget with his Meccano set, but was dissatisfied. The apparent cause of his dissatisfaction was exactly why Paradine was relieved when he viewed the structure. It was the sort of
-
-thing a normal boy would make, vaguely reminiscent of a cubistic ship.
+If Emma understood more, Scott had more real intelligence, and manipulatory skill as well. He built a gadget with his Meccano set, but was dissatisfied. The apparent cause of his dissatisfaction was exactly why Paradine was relieved when he viewed the structure. It was the sort of <a id="page28"></a>thing a normal boy would make, vaguely reminiscent of a cubistic ship.
 
 It was a bit too normal to please Scott. He asked Emma more questions, though in private. She thought for a time, and then made more scrawls, with an awkwardly clutched pencil.
 
@@ -1142,11 +1169,15 @@ It was a bit too normal to please Scott. He asked Emma more questions, though in
 
 “Is it writing?”
 
-“N-no. It doesn’t mean what it looks like.” “Symbolism,” Paradine suggested over his coffee.
+“N-no. It doesn’t mean what it *looks* like.”
+
+“Symbolism,” Paradine suggested over his coffee.
 
 Jane looked at him, her eyes widening. “Denny—”
 
-He winked and shook his head. Later, when they were alone, he said, “Don’t let Holloway upset you. I’m not implying that the kids are corresponding in an unknown tongue. If Emma draws a squiggle and says it’s a flower, that’s an arbitrary rule—Scott remembers that. Next time she draws the same sort of squiggle, or tries to—well!” “Sure,” Jane said doubtfully. “Have you noticed Scott’s been doing a lot of reading lately?”
+He winked and shook his head. Later, when they were alone, he said, “Don’t let Holloway upset you. I’m not implying that the kids are corresponding in an unknown tongue. If Emma draws a squiggle and says it’s a flower, that’s an arbitrary rule—Scott remembers that. Next time she draws the same sort of squiggle, or tries to—well!”
+
+“Sure,” Jane said doubtfully. “Have you noticed Scott’s been doing a lot of reading lately?”
 
 “I noticed. Nothing unusual, though. No Kant or Spinoza.”
 
@@ -1156,7 +1187,7 @@ He winked and shook his head. Later, when they were alone, he said, “Don’t l
 
 “Was I right about symbolism, Rex?”
 
-The psychologist nodded. “Quite right. Our own language is nothing but arbitrary symbolism now. At least in its application. Look here.” On his napkin he drew a very narrow^eUipse. “What’s that?”
+The psychologist nodded. “Quite right. Our own language is nothing but arbitrary symbolism now. At least in its application. Look here.” On his napkin he drew a very narrow ellipse. “What’s that?”
 
 “You mean what does it represent?”
 
@@ -1164,17 +1195,25 @@ The psychologist nodded. “Quite right. Our own language is nothing but arbitra
 
 “Plenty of things,” Paradine said. “Rim of a glass. A fried egg. A loaf of French bread. A cigar.”
 
-Holloway added a little triangle to his drawing, apex joined to one end of the ellipse. He looked up at Paradine. “A fish,” the latter said instantly.
+Holloway added a little triangle to his drawing, apex joined to one end of the ellipse. He looked up at Paradine.
 
-“Our familiar symbol for a fish. Even without fins, eyes | or mouth, it’s recognizable, because we’ve been condi-j tioned to identify this particular shape with our mental pic-i ture of a fish. The basis of a rebus. A symbol, to us, means i a lot more than what we actually see on paper. What’s in j your mind when you look at this sketch?”
+“A fish,” the latter said instantly.
 
-)	“Why—a fish.”
+<a id="page29"></a>“Our familiar symbol for a fish. Even without fins, eyes or mouth, it’s recognizable, because we’ve been conditioned to identify this particular shape with our mental picture of a fish. The basis of a rebus. A symbol, to us, means a lot more than what we actually see on paper. What’s in your mind when you look at this sketch?”
 
-“Keep going. What do you visualize? Everything!” “Scales,” Paradine said slowly, looking into space. “Wa-! ter. Foam. A fish’s eye. The fins. The colors.”
+“Why—a fish.”
 
-“So the symbol represents a lot more than just that ab-| stract idea fish. Note the connotation’s that of a noun, not a verb. It’s harder to express actions by symbolism, you know. Anyway—reverse the process. Suppose you want to make a symbol for some concrete noun, say bird. Draw it.” Paradine drew two connected arcs, concavities down. “The lowest common denominator,” Holloway nodded. “The natural tendency is to simplify. Especially when a child is seeing something for the first time and has few standards of comparison. He tries to identify the new thing with what’s already familiar to him. Ever notice how a child draws the ocean?” He didn’t wait for an answer; he went on.
+“Keep going. What do you visualize? Everything!”
 
-“A series of jagged points. Like the oscillating line on a seismograph. When I first saw the Pacific, I was about three. I remember it pretty clearly. It looked—tilted. A fiat plain, slanted at an angle. The waves were regular triangles, apex upward. Now, I didn’t see them stylized that way, but later, remembering, I had to find some familiar standard of comparison. Which is the only way of getting any conception of an entirely new thing. The average child tries to draw these regular triangles, but his co-ordination’s poor. He gets a seismograph pattern.”
+“Scales,” Paradine said slowly, looking into space. “Water. Foam. A fish’s eye. The fins. The colors.”
+
+“So the symbol represents a lot more than just that abstract idea *fish*. Note the connotation’s that of a noun, not a verb. It’s harder to express actions by symbolism, you know. Anyway—reverse the process. Suppose you want to make a symbol for some concrete noun, say *bird*. Draw it.”
+
+Paradine drew two connected arcs, concavities down.
+
+“The lowest common denominator,” Holloway nodded. “The natural tendency is to simplify. Especially when a child is seeing something for the first time and has few standards of comparison. He tries to identify the new thing with what’s already familiar to him. Ever notice how a child draws the ocean?” He didn’t wait for an answer; he went on.
+
+“A series of jagged points. Like the oscillating line on a seismograph. When I first saw the Pacific, I was about three. I remember it pretty clearly. It looked—tilted. A flat plain, slanted at an angle. The waves were regular triangles, apex upward. Now, I didn’t *see* them stylized that way, but later, remembering, I had to find some familiar standard of comparison. Which is the only way of getting any conception of an entirely new thing. The average child tries to draw these regular triangles, but his co-ordination’s poor. He gets a seismograph pattern.”
 
 “All of which means what?”
 
@@ -1182,15 +1221,16 @@ Holloway added a little triangle to his drawing, apex joined to one end of the e
 
 “You still believe—”
 
-“Yes, I do. Her mind has been conditioned unusually. It may be that she breaks down what she sees into simple, obvious patterns—and realizes a significance to those patterns that we can’t understand. Like die abacus. She saw a pattern in that, though to us it was completely random.”
+<a id="page30"></a>“Yes, I do. Her mind has been conditioned unusually. It may be that she breaks down what she sees into simple, obvious patterns—and realizes a significance to those patterns that we can’t understand. Like the abacus. She saw a pattern in that, though to us it was completely random.”
 
-Paradine abrupdy decided to taper off these luncheon engagements with Holloway. The man was an alarmist. His theories were growing more fantastic than ever, and he dragged in anything, applicable or not, that would support them.
+.space
+Paradine abruptly decided to taper off these luncheon engagements with Holloway. The man was an alarmist. His theories were growing more fantastic than ever, and he dragged in anything, applicable or not, that would support them.
 
 Rather sardonically he said, “Do you mean Emma’s communicating with Scott in an unknown language?”
 
-“In symbols for which she hasn’t any words. I’m sure Scott understands a great deal of those—scrawls. To him, an isosceles triangle may represent any factor, though probably a concrete noun. Would a man who knew nothing of chemistry understand what H20 meant? Would he realize that the symbol could evoke a picture of the ocean?”
+“In symbols for which she hasn’t any words. I’m sure Scott understands a great deal of those—scrawls. To him, an isosceles triangle may represent any factor, though probably a concrete noun. Would a man who knew nothing of chemistry understand what H₂0 meant? Would he realize that the symbol could evoke a picture of the ocean?”
 
-Paradine didn’t answer. Instead, he mentioned to Hollo- j way Scott’s curious remark that the landscape, from the hill, had looked all wrong. A moment later, he was inclined to regret his impulse, for the psychologist was off again.
+Paradine didn’t answer. Instead, he mentioned to Holloway Scott’s curious remark that the landscape, from the hill, had looked all wrong. A moment later, he was inclined to regret his impulse, for the psychologist was off again.
 
 “Scott’s thought patterns are building up to a sum that doesn’t equal this world. Perhaps he’s subconsciously expecting to see the world where those toys came from.”
 
@@ -1206,26 +1246,31 @@ There was nothing apparently harmful in natural history. Paradine explained abou
 
 “Salmon do the same thing, more or less. They go up rivers to spawn.” Paradine went into detail. Scott was fascinated.
 
-“But that’s right, Dad. They’re bom in the river, and when they learn how to swim, they go down to the sea. And they come back to lay their eggs, huh?”
+<a id="page31"></a>“But that’s right, Dad. They’re born in the river, and when they learn how to swim, they go down to the sea. And they come back to lay their eggs, huh?”
 
 “Right.”
 
-“Only they wouldn’t come back,” Scott pondered. “They’d just send their eggs—”
+“Only they wouldn’t *come* back,” Scott pondered. “They’d just send their eggs—”
 
 “It’d take a very long ovipositor,” Paradine said, and vouchsafed some well-chosen remarks upon oviparity.
 
 His son wasn’t entirely satisfied. Flowers, he contended, sent their seeds long distances.
 
-“They don’t guide them. Not many find fertile soil.” “Flowers haven’t got brains, though. Dad, why do people live here?”
+“They don’t guide them. Not many find fertile soil.”
+
+“Flowers haven’t got brains, though. Dad, why do people live *here*?”
 
 “Glendale?”
 
-“No—here. This whole place. It isn’t all there is, I bet.” “Do you mean the other planets?”
+“No—*here*. This whole place. It isn’t all there is, I bet.”
+
+“Do you mean the other planets?”
 
 Scott was hesitant. “This is only—part of the big place. It’s like the river where the salmon go. Why don’t people go on down to the ocean when they grow up?”
 
 Paradine realized that Scott was speaking figuratively. He felt a brief chill. The—ocean?
 
+.space
 The young of the species are not conditioned to live in the more complete world of their parents. Having developed sufficiently, they enter that world. Later they breed. The fertilized eggs are buried in the sand, far up the river, where later they hatch.
 
 And they learn. Instinct alone is fatally slow. Especially in the case of a specialized genus, unable to cope even with this world, unable to feed or drink or survive, unless someone has foresightedly provided for those needs.
@@ -1236,7 +1281,7 @@ So they must be taught. They must be trained and conditioned in many ways.
 
 Painlessly, subtly, unobtrusively. Children love toys that do things, and if those toys teach at the same time . . .
 
-In the latter half of the nineteenth century an Englishman sat on a grassy bank near a stream. A very small girl lay near him, staring up at the sky. She had discarded a curious toy with which she had been playing, and now was murmuring a wordless little song, to which the man listened with half an ear.
+In the latter half of the nineteenth century an Englishman sat on a grassy bank near a stream. A very small girl lay near him, staring up at the sky. She had discarded a <a id="page32"></a>curious toy with which she had been playing, and now was murmuring a wordless little song, to which the man listened with half an ear.
 
 “What was that, my dear?” he asked at last.
 
@@ -1272,25 +1317,24 @@ Her little song—Uncle Charles thought it didn’t mean anything. (He wasn’t 
 
 But she was already too old. She never found the way.
 
+.space
 Paradine had dropped Holloway. Jane had taken a dislike to him, naturally enough, since what she wanted most of all was to have her fears calmed. Since Scott and Emma acted normally now, Jane felt satisfied. It was partly wishful thinking, to which Paradine could not entirely subscribe.
 
-Scott kept bringing gadgets to Emma for her approval. Usually she’d shake her head. Sometimes she would look doubtful. Very occasionally she would signify agreement. Then there would be an hour of laborious, crazy scribbling
+Scott kept bringing gadgets to Emma for her approval. Usually she’d shake her head. Sometimes she would look doubtful. Very occasionally she would signify agreement. Then there would be an hour of laborious, crazy scribbling <a id="page33"></a>on scraps of note paper, and Scott, after studying the notations, would arrange and rearrange his rocks, bits of machinery, candle ends and assorted junk. Each day the maid I cleaned them away, and each day Scott began again.
 
-i	on scraps of note paper, and Scott, after studying the nota-> tions, would arrange and rearrange his rocks, bits of ma-1 chinery, candle ends and assorted junk. Each day the maid I cleaned them away, and each day Scott began again, j He condescended to explain a little to his puzzled father,
-
-' who could see no rhyme or reason in the game.
+He condescended to explain a little to his puzzled father, who could see no rhyme or reason in the game.
 
 “But why this pebble right here?”
 
-“It’s hard and round, Dad. It belongs there.”
+“It’s hard and round, Dad. It *belongs* there.”
 
 “So is this one hard and round.”
 
-“Well, that’s got vaseline on it. When you get that far, i you can’t see just a hard, round thing.”
+“Well, that’s got vaseline on it. When you get that far, you can’t *see* just a hard, round thing.”
 
 “What comes next? This candle?”
 
-Scott looked disgusted. “That’s toward the end. The iron i ring’s next.”
+Scott looked disgusted. “That’s toward the end. The iron ring’s next.”
 
 It was, Paradine thought, like a scout trail through the woods, markers in a labyrinth. But here again was the random factor. Logic halted—familiar logic—at Scott’s motives in arranging the junk as he did.
 
@@ -1312,65 +1356,74 @@ Paradine, his mouth working, his nerves ridiculously tense, forgot the phone and
 
 The children were vanishing.
 
-They went in fragments, like thick smoke in a wind, or like movement in a'distorting mirror. Hand in hand they went, in a direction Paradine could not understand, and as he blinked there on the threshold, they were gone.
+They went in fragments, like thick smoke in a wind, or <a id="page34"></a>like movement in a distorting mirror. Hand in hand they went, in a direction Paradine could not understand, and as he blinked there on the threshold, they were gone.
 
-“Emma!” he said, dry-throated. “Scotty!”
+“Emma!” he said, dry-throated. *“Scotty!”*
 
-On the carpet lay a pattern of markers, pebbles, an iron ring—junk. A random pattern. A crumpled sheet of paper r blew towards Paradine.
+On the carpet lay a pattern of markers, pebbles, an iron ring—junk. A random pattern. A crumpled sheet of paper blew towards Paradine.
 
 He picked it up automatically.
 
-“Kids. Where are you? Don’t hide—Emma! SCOTTY!” '
+“Kids. Where are you? Don’t hide—*Emma! SCOTTY!*”
 
-Downstairs the telephone stopped its shrill, monotonous ; ringing. Paradine looked at the paper he held.
+Downstairs the telephone stopped its shrill, monotonous ringing. Paradine looked at the paper he held.
 
-It was a leaf torn from a book. There were interlineations and marginal notes, in Emma’s meaningless scrawl. A. stanza of verse had been so underlined and scribbled over-that it was almost illegible, but Paradine was thoroughly fa- • miliar with Through the Looking Glass. His memory gave; him the words—
+It was a leaf torn from a book. There were interlineations and marginal notes, in Emma’s meaningless scrawl. A stanza of verse had been so underlined and scribbled over-that it was almost illegible, but Paradine was thoroughly familiar with *Through the Looking Glass*. His memory gave him the words—
 
-’Twas brillig, and the slithy toves Did gyre ad gimble in the wabe:
+.space.thin.revindent
+*’Twas brillig, and the slithy toves*
+*Did gyre ad gimble in the wabe:*
 
-All mimsy were the borogoves,
+.thin.revindent
+*All mimsy were the borogoves,*
+*And the mome raths outgrabe.*
 
-And the mome raths outgrabe.
+.space
+Idiotically he thought: Humpty Dumpty explained it. A wabe is the plot of grass around a sundial. A sundial. Time. It has something to do with time. A long time ago Scotty asked me what a wabe was. Symbolism.
 
-Idiotically he thought: Humpty Dumpty explained it. Ai wabe is the plot of grass around a sundial. A sundial..; Time. It has something to do with time. A long time ago; Scotty asked me what a wabe was. Symbolism.
+*’Twas brillig. . .*
 
-’Twas brillig. . .
+A perfect mathematical formula, giving all the conditions, in symbolism the children had finally understood. The junk on the floor. The toves had to be made slithy—vaseline?—and they had to be placed in a certain relationship, so that they’d gyre and gimble.
 
-A perfect mathematical formula, giving all the conditions, in symbolism the children had finally understood.. The junk on the floor. The toves had to be made slithy— vaseline?—and they had to be placed in a certain relationship, so that they’d gyre and gimble.
+*Lunacy!*
 
-Lunacy!
+But it had not been lunacy to Emma and Scott. They thought differently. They used *x* logic. Those notes Emma had made on the page—she’d translated Carroll’s words into symbols both she and Scott could understand.
 
-But it had not been lunacy to Emma and Scott. They thought differently. They used x logic. Those notes Emma had made on the page—she’d translated Carroll’s words! into symbols both she and Scott could understand.
+The random factor had made sense to the children. They had fulfilled the conditions of the time-span equation. *And the mome raths outgrabe . . .*
 
-The random factor had made sense to the children. They had fulfilled the conditions of the time-span equation. And the mome raths outgrabe . . .
+Paradine made a rather ghastly little sound, deep in his <a id="page35"></a>throat. He looked at the crazy pattern on the carpet. If he could follow it, as the kids had done—But he couldn’t. The pattern was senseless. The random factor defeated him. He was conditioned to Euclid.
 
-Paradine made a rather ghastly little sound, deep in his
+Even if he went insane, he still couldn’t do it. It would be the wrong kind of lunacy.
 
-I throat. He looked at the crazy pattern on the carpet. If he ( could follow it, as the kids had done—But he couldn’t. The | pattern was senseless. The random factor defeated him. He ; was conditioned to Euclid.
+His mind had stopped working now. But in a moment the stasis of incredulous horror would pass—Paradine crumpled the page in his fingers. “Emma! Scotty!” he called in a dead voice, as though he could expect no response.
 
-Even if he went insane, he still couldn’t do it. It would : be the wrong kind of lunacy.
+Sunlight slanted through the open windows, brightening the golden pelt of Mr. Bear. Downstairs the ringing of the telephone began again.
 
-His mind had stopped working now. But in a moment l the stasis of incredulous horror would pass—Paradine ! crumpled the page in his fingers. “Emma! Scotty!” he [called in a dead voice, as though he could expect no re-I sponse.
+---
 
-t Sunlight slanted through the open windows, brightening !' the golden pelt of Mr. Bear. Downstairs the ringing of the 5 telephone began again.
+two-handed_engine
 
-Two-Handed Engine
+# <a id="page36"></a>Two-Handed Engine
 
-Ever since the days of Orestes there have been men with Furies following them. It wasn’t until the Twenty-Second Century that mankind made itself a set of real Furies, out of steel. Mankind had reached a crisis by then. They had a good reason for building man-shaped Furies that would dog the footsteps of all men who kill men. Nobody else. There was by then no other crime of any importance.
+.fl.quote
+<span class="smallcaps">Ever since the</span> days of Orestes there have been men with Furies following them. It wasn’t until the Twenty-Second Century that mankind made itself a set of real Furies, out of steel. Mankind had reached a crisis by then. They had a good reason for building man-shaped Furies that would dog the footsteps of all men who kill men. Nobody else. There was by then no other crime of any importance.
 
-It worked very simply. Without warning, a man who> thought himself safe would suddenly hear the steady footfalls behind him. He would turn and see the two-handed engine walking towards him, shaped like a mam of steel, and more incorruptible than any man not made of steel could be. Only then would the murderer know he had been tried and condemned by the omniscient electronic minds that knew society as no human mind; could ever know it.
+.quote
+It worked very simply. Without warning, a man who thought himself safe would suddenly hear the steady footfalls behind him. He would turn and see the two-handed engine walking towards him, shaped like a mam of steel, and more incorruptible than any man not made of steel could be. Only then would the murderer know he had been tried and condemned by the omniscient electronic minds that knew society as no human mind; could ever know it.
 
-For the rest of his days, the man would hear those; footsteps behind him. A moving jail with invisible bars ; that shut him off from the world. Never in life would he; be alone again. And one day—he never knew when—• the jailer would turn executioner.
+.quote
+For the rest of his days, the man would hear those footsteps behind him. A moving jail with invisible bars that shut him off from the world. Never in life would he be alone again. And one day—he never knew when—the jailer would turn executioner.
 
-Danner leaned back comfortably in his contoured restaurant chair and rolled expensive wine across his tongue, closing his eyes to enjoy the taste of it better. He felt perfectly safe. Oh, perfectly protected. For nearly an hour nowi he had been sitting here, ordering the most expensive food, enjoying the music breathing softly through the air, the mur-
+.space
+Danner leaned back comfortably in his contoured restaurant chair and rolled expensive wine across his tongue, closing his eyes to enjoy the taste of it better. He felt perfectly safe. Oh, perfectly protected. For nearly an hour nowi he had been sitting here, ordering the most expensive food, enjoying the music breathing softly through the air, the murmurous, well-bred hush of his fellow diners. It was a good place to be. It was very good, having so much money—now.
 
-j murous, well-bred hush of his fellow diners. It was a good place to be. It was very good, having so much money—now. j True, he had had to kill to get the money. But no guilt ! troubled him. There was no guilt if you aren’t found out, ; and Danner had protection. Protection straight from the I source, which was something new in the world. Danner j knew the consequences of killing. If Hartz hadn’t satisfied I him that he was perfectly safe, Danner would never have j pulled the trigger . . .
+True, he had had to kill to get the money. But no guilt troubled him. There was no guilt if you aren’t found out, and Danner had protection. Protection straight from the source, which was something new in the world. Danner knew the consequences of killing. If Hartz hadn’t satisfied him that he was perfectly safe, Danner would never have pulled the trigger . . .
 
-The memory of an archaic word flickered through his | mind briefly. Sin. It evoked nothing. Once it had something i to do with guilt, in an incomprehensible way. Not any i more. Mankind had been through too much. Sin was i meaningless now.
+The memory of an archaic word flickered through his mind briefly. *Sin.* It evoked nothing. Once it had something to do with guilt, in an incomprehensible way. Not any more. Mankind had been through too much. Sin was meaningless now.
 
-He dismissed the thought and tried the heart-of-palms salad. He found he didn’t like it. Oh well, you had to ex-' pect things like that. Nothing was perfect. He sipped the wine again, liking the way the glass seemed to vibrate like something faintly alive in his hand. It was good wine. He thought of ordering more, but then he thought no, save it, next time. There was so much before him, waiting to be enjoyed. Any risk was worth it. And of course, in this there had been no risk.
+He dismissed the thought and tried the heart-of-palms salad. He found he didn’t like it. Oh well, you had to expect things like that. Nothing was perfect. He sipped the wine again, liking the way the glass seemed to vibrate like something faintly alive in his hand. It was good wine. He thought of ordering more, but then he thought no, save it, next time. There was so much before him, waiting to be enjoyed. Any risk was worth it. And of course, in this there had been no risk.
 
-Danner was a man bom at the wrong time. He was old enough to remember the last days of utopia, young enough to be trapped in the new scarcity economy the machines had clamped down on their makers. In his early youth he’d had access to free luxuries, like everybody else. He could remember the old days when he was an adolescent and the last of the Escape Machines were still operating, the glamorous, bright, impossible, vicarious visions that didn’t really exist and never could have. But then the scarcity economy swallowed up pleasure. Now you got necessities but no more, Now you had to work. Danner hated every minute of it.
+Danner was a man born at the wrong time. He was old enough to remember the last days of utopia, young enough to be trapped in the new scarcity economy the machines had clamped down on their makers. In his early youth he’d had access to free luxuries, like everybody else. He could remember the old days when he was an adolescent and the last of the Escape Machines were still operating, the glamorous, bright, impossible, vicarious visions that didn’t really exist and never could have. But then the scarcity economy swallowed up pleasure. Now you got necessities but no more, Now you had to work. Danner hated every minute of it.
 
 When the swift change came, he’d been too young and unskilled to compete in the scramble. The rich men today were the men who had built fortunes on cornering the few luxuries the machines still produced. All Danner had left were bright memories and a dull, resentful feeling of having been cheated. All he wanted were the bright days back, and he didn’t care how he got them.
 
@@ -1790,8 +1843,13 @@ It was as if sin had come anew into the world, and the first man felt again the 
 
 Hartz went slowly down the steps and out into the street, still hearing as he would always hear the relentless, incorruptible footsteps behind him that no longer rang like metal.
 
-The Proud Robot
+---
 
+the_proud_robot
+
+# <a id="page"></a>The Proud Robot
+
+.fl
 Things often happened to GaUegher, who played at science by ear. He was, as he often remarked, a casual genius. Sometimes he’d start with a twist of wire, a few batteries, and a button hook, and before he finished, he might contrive a new type of refrigerating unit.
 
 At the moment he was nursing a hangover. A disjointed, lanky, vaguely boneless man with a lock of dark hair falling untidily over his forehead, he lay on the couch in the lab and manipulated his mechanical liquor bar. A very dry Martini drizzled slowly from the spigot into his receptive mouth.
@@ -2812,9 +2870,14 @@ He took another drink and felt better. Presently, he thought, it would be time t
 
 Ten minutes later Gallegher was singing a duet with his can opener.
 
-(The Misguided Halo
+---
 
-t: The youngest angel could scarcely be blamed for the er-Iror. They had given him a brand-new, shining halo and 1 pointed down to the particular planet they meant. He had c followed directions implicitly, feeling quite proud of the re-t sponsibility. This was the first time the youngest angel had si ever been commissioned to bestow sainthood on a human.
+the_misguided_halo
+
+# <a id="page99"></a>The Misguided Halo
+
+.fl
+The youngest angel could scarcely be blamed for the er-Iror. They had given him a brand-new, shining halo and 1 pointed down to the particular planet they meant. He had c followed directions implicitly, feeling quite proud of the responsibility. This was the first time the youngest angel had si ever been commissioned to bestow sainthood on a human.
 
 So he swooped down to the earth, located Asia, and I came to rest at the mouth of a cavern that gaped halfway { up a Himalayan peak. He entered the cave, his heart beat-f ing wildly with excitement, preparing to materialize and 1 give the holy lama his richly earned reward. For ten years I the ascetic Tibetan Kai Yung had sat motionless, thinking | holy thoughts. For ten more years he had dwelt on top of a 3 pillar, acquiring additional merit. And for the last decade he had lived in this cave, a hermit, forsaking fleshly things.
 
@@ -3266,8 +3329,13 @@ Simultaneous with awakening came realization of three things: the pains of the m
 
 He groaned a heartfelt triple groan. The headache would pass, but the halo, he knew, would not. Only by sinning could one become unworthy of it, and—shining protector! —it made him unlike other men. His deeds must all be good, his works a help to men. He could not sin!
 
-The Voice of The Lobster
+---
 
+the_voice_of_the_lobster
+
+# <a id="page117"></a>The Voice of The Lobster
+
+.fl
 Tilting his cigar at a safe angle Terence Laot’se Macduff applied a wary eye to the peephole in the curtain and searched the audience for trouble.
 
 “A setup,” he muttered under his breath. “Or is it? I have the inexplicable sensation of wet mice creeping slowly up and down my spine. What a pity I wasn’t able to get that Lesser Vegan girl to front for me. Ah, well. Here I
@@ -4030,7 +4098,11 @@ For Macduff, as should be evident by now to the meanest intellect, <3> was not a
 
 “Dom!”
 
-Exit The Professor
+---
+
+exit_the_professor
+
+# <a id="page152"></a>Exit The Professor
 
 We Hogbens are right exclusive. That Perfesser feller from the city might have known that, but he come busting in without an invite, and I don’t figger he had call to complain afterward. In Kaintuck the polite thing is to stick to your own hill of beans and not come nosing around where you’re not wanted.
 
@@ -4486,7 +4558,11 @@ That was a few years ago. The Perfesser’s thriving. He ain’t studying us, th
 
 Dang small bottle, too!
 
-i The Twonky
+---
+
+the_twonky
+
+# <a id="page167"></a>The Twonky
 
 The turnover at Mideastem Radio was so great that Mickey Lloyd couldn’t keep track of his men. Employees kept quitting and going elsewhere, at a higher salary. So when the big-headed little man in overalls wandered vaguely out of a storeroom, Lloyd took one look at the brown dungaree suit—company provided—and said mildly, “The whistle blew half an hour ago. Hop to work.”
 
@@ -5202,7 +5278,11 @@ For a moment there was silence. Then—
 
 Click!
 
-A Gnome There Was
+---
+
+a_gnome_there_was
+
+# <a id="page190"></a>A Gnome There Was
 
 Tim Crockett should never have sneaked into the mine on Domsef Mountain. What is winked at in California may have disastrous results in the coal mines of Pennslyvania. Especially when gnomes are involved.
 
@@ -5874,7 +5954,11 @@ Then he screamed too. But the sound was not one that: could ever have emerged fr
 
 Still, that was natural enough—under the circumstances.
 
-The Big Night
+---
+
+the_big_night
+
+# <a id="page217"></a>The Big Night
 
 Chapter 7. Last of the Hyper Ships
 
@@ -6702,8 +6786,13 @@ Saxon blinked at him. “What do you mean?”
 
 He shrugged, looking out beyond the crater’s rim with his inhuman, faceted eyes, at the glittering points of light which, for a little while, seemed to keep the Big Night at bay.
 
-Nothing But Gingerbread Left
+---
 
+nothing_but_gingerbread_left
+
+# <a id="page249"></a>Nothing But Gingerbread Left
+
+.fl
 The only way to make people believe this story is to write it in German. And there’s no point in doing that, for the German-speaking world is already starting to worry about gingerbread left.
 
 I speak figuratively. It’s safer. Very likely Rutherford, whose interests are equally divided between semantics and Basin Street, could create an English equivalent of gingerbread left, God forbid. As it is, the song, with its reductio ad absurdum of rhythm and sense, is meaningless in translation. Try translating Jabberwocky into German. So what?
@@ -7220,8 +7309,13 @@ LEFT a wife and SEVenteen children in
 
 STARVing condition with NOTHing but gingerbread LEFT—
 
-The Iron Standard
+---
 
+the_iron_standard
+
+# <a id="page268"></a>The Iron Standard
+
+.fl
 Alien races didn’t have to be either friendly or unfriendly; they could be stubbornly indifferent—with serious effect.
 
 “So the ghost won’t walk for a year—Venusian time,” Thirkell said, spooning up cold beans with a disgusted air.
@@ -8042,7 +8136,11 @@ Jorust winked gravely at Munn and departed, looking as innocent as a cat, and as
 
 “Maybe,” Bronson said. “I don’t give a damn. I’m hungry and I want a beefsteak-mushroom. Where can we cash a check for fifty grand?”
 
-Cold War
+---
+
+cold_war
+
+# <a id="page298"></a>Cold War
 
 Chapter 7. Last of the Pughs
 
@@ -8650,9 +8748,13 @@ It took a long time—since the year one, that is—but Gene Chromosome fixed it
 
 But I got to admit he’s an awful cold in the haid.
 
-Or Else
+---
 
-j Miguel and Fernandez were shooting inaccurately at i each other across the valley when the flying saucer land-\ ed. They wasted a few bullets on the strange airship. The ] pilot appeared and began to walk across the valley and up 1 the slope toward Miguel, who lay in the uncertain shade of I a cholla, swearing and working the bolt of his rifle as rapid-I ly as he could. His arm, never good, grew worse as the : stranger approached. Finally, at the last minute, Miguel l dropped his rifle, seized the machete beside him, and I sprang to his feet.
+or_else
+
+# <a id="page325"></a>Or Else
+
+j Miguel and Fernandez were shooting inaccurately at each other across the valley when the flying saucer landed. They wasted a few bullets on the strange airship. The pilot appeared and began to walk across the valley and up the slope toward Miguel, who lay in the uncertain shade of a cholla, swearing and working the bolt of his rifle as rapidly as he could. His arm, never good, grew worse as the stranger approached. Finally, at the last minute, Miguel dropped his rifle, seized the machete beside him, and sprang to his feet.
 
 “Die then,” he said, and swung the blade. The steel blazed in the hot Mexican sun. The machete rebounded elastically from the stranger’s neck and flew high in the air, while Miguel’s arm tingled as though from an electric shock. A bullet came from across the valley, making the kind of sound a wasp’s sting might make if you heard it instead of feeling it. Miguel dropped and rolled into the shelter of a large rock. Another bullet shrieked thinly, and a brief blue flash sparkled on the stranger’s left shoulder.
 
@@ -8928,9 +9030,14 @@ The road runner paused. The tail of the lizard disappeared completely.
 
 He turned and aimed the rifle across the valley again.
 
-Endowment Policy
+---
 
-\ When Denny Holt checked in at the telephone box, | there was a call for him. Denny wasn’t enthusiastic. On a i rainy night like this it was easy to pick up fares, and now s he’d have to edge his cab uptown to Columbus Circle.
+endowment_policy
+
+# <a id="page335"></a>Endowment Policy
+
+.fl
+When Denny Holt checked in at the telephone box, | there was a call for him. Denny wasn’t enthusiastic. On a i rainy night like this it was easy to pick up fares, and now s he’d have to edge his cab uptown to Columbus Circle.
 
 “Nuts,” he said into the mouthpiece. “Why me? Send a one of the other boys; the guy won’t know the difference. 5' I’m way down in the Village.”
 
@@ -9390,8 +9497,13 @@ Banknotes rustled crisply in his pocket. Denny grinned. A thousand smackeroos! H
 
 “You bet!” Dennis Holt said emphatically. “I’m not going to hold down the same dull job all my life. Not with a thousand bucks—not me!”
 
-Housing Problem
+---
 
+housing_problem
+
+# <a id="page351"></a>Housing Problem
+
+.fl
 Jacqueline said it was a canary, but I contended that there were a couple of lovebirds in the covered cage. One canary could never make that much fuss. Besides, I liked to think of crusty old Mr. Henchard keeping lovebirds; it was so completely inappropriate. But whatever our roomer kept in that cage by his window, he shielded it—or them —jealously from prying eyes. All we had to go by were the noises.
 
 And they weren’t too simple to figure out. From under the cretonne cloth came shufflings, rustlings, occasional faint and inexplicable pops, and once or twice a tiny thump that made the whole hidden cage shake on its redwood pedestal-stand. Mr. Henchard must have known that we were curious. But all he said when Jackie remarked that birds were nice to have around, was “Claptrap! Leave that cage alone, d’ya hear?”
@@ -9830,7 +9942,11 @@ The barman shook his head. “Fall in the ditch, Eddie? And you too? Bad luck!�
 
 “Well,” I said. “Here’s luck.”
 
-What You Need
+---
+
+what_you_need
+
+# <a id="page367"></a>What You Need
 
 Q33M U0YTAHW3VAH 3W
 
@@ -10248,8 +10364,13 @@ Remembering that, he leaned back in his chair and reached for an old and well-wo
 
 “And 1 say also unto thee, that thou art Peter. . . . And 1 will give unto thee the keys of the Kingdom of Heaven. . . "
 
-Absalom
+---
 
+absalom
+
+# <a id="page383"></a>Absalom
+
+.fl
 At dusk Joel Locke came home from the university where he held the chair of psychonamics. He came quietly into the house, by a side door, and stood listening, a tall, tight-lipped man of forty with a faintly sardonic mouth and cool gray eyes. He could hear the precipitron humming. That meant that Abigail Schuler, the housekeeper, was busy with her duties. Locke smiled slightly and turned toward a panel in the wall that opened at his approach.
 
 The small elevator took him noiselessly upstairs.
@@ -10689,33 +10810,3 @@ He walked otherwise through a shadow world, existing in flesh and blood, in real
 Sitting there in the twilight of unreality, his scrapbooks spread before him, the televisor set never used except when Absalom called, but standing ready before his chair, Joel Locke nursed his hatred and a quiet, secret satisfaction that had come to him.
 
 Some day Absalom would have a son. Some day. Some day.
-
-HciNRY nkJTTNER
-
-“A SAMPLING OF KUTTNER FROM FANTASY TO SCIENCE FICTION AND ALL STAGES IN BETWEEN.. .FIRST-DEGREE ENTERTAINMENT!
-
-—Saturday Review of Literature
-
-HERE IN ONE SUPERLATIVE VOLUME 17 SCIENCE-FICTION TALES BY A MASTER STORYTELLER
-
-•MIMSY WERE THE BOROGOVES
-
-Scott and Emma seemed to be ordinary children-until they found a strange box of toys!
-
-•	THE PROUD ROBOT
-
-Never was there an inventor quite like Gallagher; he did his best work when drunk, but could never remember - what he invented when he sobered up!
-
-•THE MISGUIDED HALO
-
-A young and inexperienced angel accidentally bestowed a halo on the wrong man—and then the trouble began!
-
-•OR ELSE
-
-An extraterrestrial visitor tried to make peace between two Mexican peasants feuding over awaterhole—with disastrous results!
-
-•	EXIT THE PROFESSOR
-
-What a family—those Hogbens! Survivors of the fabled Atlantis, these hillbillies used telekinesis, teleportation and telepathy to make their way in the 20th Century!
-
--PLUS 12 MORE. . .

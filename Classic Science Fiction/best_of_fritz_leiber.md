@@ -58,6 +58,7 @@ CAPS WITH THE DEVIL!
 
 blurb
 
+.heading
 What the Critics Have Said about Fritz Leiber
 
 “Fritz Leiber stands very firmly in the front rank of modem science-fiction writers.”

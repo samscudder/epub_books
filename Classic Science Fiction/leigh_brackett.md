@@ -20,6 +20,12 @@ description:
 
 rearcover
 
+
+
+---
+
+blurb
+
 UNGODLY REWARD
 
 The stranger spoke. "It is said that you found the Moonfire. It is said that you are David Heath the Earthman, captain of the Ethne."

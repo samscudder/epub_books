@@ -85,8 +85,8 @@ blurb
 
 other_books
 
-.h1
-The Best of Stanley G. Weinbaum
+.center
+**The Best of Stanley G. Weinbaum**
 
 .fl
 launches Ballantine’s landmark series of definitive collections by the masters of science fiction. Each book will be introduced by a distinguished science-fiction writer or critic.
@@ -95,19 +95,19 @@ launches Ballantine’s landmark series of definitive collections by the masters
 Volumes now in preparation:
 
 .space.center
-The Best of Fritz Leiber
+**The Best of Fritz Leiber**
 *Introduction by Poul Anderson*
 
 .space.center
-The Best of Henry Kuttner
+**The Best of Henry Kuttner**
 *Introduction by Ray Bradbury*
 
 .space.center
-The Best of Frederik Pohl
+**The Best of Frederik Pohl**
 *Introduction by Lester del Rey*
 
 .space.center
-The Best of Cordwainer Smith
+**The Best of Cordwainer Smith**
 *Introduction by J. J. Pierce*
 
 .space.center
@@ -117,7 +117,7 @@ The Best of Cordwainer Smith
 
 titlepage
 
-# **THE BEST OF<br/>Stanley G. Weinbaum**
+# **THE BEST OF<br/>*Stanley G. Weinbaum***
 
 .editor
 Introduction by Isaac Asimov
@@ -164,30 +164,41 @@ ACKNOWLEDGEMENTS
 .space.revindent
 “A Martian Odyssey”, copyright 1934, by Continental Publications, Inc., for *Wonder Stories*, July, 1934. Copyright 1936, by Margaret Weinbaum.
 
+.revindent
 “Valley of Dreams”, copyright 1934, by Continental Publications, Inc., for *Wonder Stories*, November, 1934.
 
+.revindent
 “The Adaptive Ultimate”, copyright 1935, by Street & Smith Publications, Inc., for *Astounding Stories*, November, 1935. Copyright 1936, by Margaret Weinbaum.
 
+.revindent
 “Parasite Planet”, copyright 1935, by Street & Smith Publications, Inc., for *Astounding Stories*, February, 1935.
 
+.revindent
 “Pygmalion’s Spectacles”, copyright, 1935, by Continental Publications, Inc., for *Wonder Stories*, June, 1935.
 
+.revindent
 “Shifting Seas”, copyright 1937, by Teck Publications, Inc., for *Amazing Stories*, April, 1937.
 
+.revindent
 “The Worlds of If”, copyright 1935, by Continental Publications, Inc., for *Wonder Stories*, August, 1935. Copyright 1936, by Margaret Weinbaum.
 
+.revindent
 “The Mad Moon”, copyright 1935, by Street & Smith Publications, Inc., for *Astounding Stories*, December, 1935. Copyright 1936, by Margaret Weinbaum.
 
+.revindent
 “Redemption Cairn”, copyright 1936, by Street & Smith Publications, Inc,, for *Astounding Stories*, March, 1936.
 
+.revindent
 “The Ideal”, copyright 1935, by Continental Publications, Inc., for *Wonder Stories*, September, 1935.
 
+.revindent
 “The Lotus Eaters”, copyright 1935, by Street & Smith Publications, Inc., for *Astounding Stories*, April, 1935. Copyright 1936, by Margaret Weinbaum.
 
+.revindent
 “Proteus Island”, copyright 1936, by Street & Smith Publications, Inc., for *Astounding Stories*, August, 1936.
 
 .fl
-All stories in this volume included ny arrangement with Forrest J. Ackerman, agent for the heir, 2495 Glendower Avenue, Hollywood, California 90327
+All stories in this volume included by arrangement with Forrest J. Ackerman, agent for the heir, 2495 Glendower Avenue, Hollywood, California 90327
 
 ---
 
@@ -236,15 +247,15 @@ Let me tell you about the first and third novas, then, so that you can see the s
 
 In the August 1928 issue of *Amazing Stories*, at a time when magazine science fiction was only a little over two years old, there appeared the first installment of “The Skylark of Space,” by Edward Elmer Smith and Lee Hawkins. It was E. E Smith’s first published science-fiction story.
 
-For the first time in a science-fiction magazine, man was whirled off into the depths of interstellar space, with all the . Universe open before him. For the first time, the reader had the chance to visualize man as a creature of infinite capacity—man as God, almost.
+For the first time in a science-fiction magazine, man was whirled off into the depths of interstellar space, with all the Universe open before him. For the first time, the reader had the chance to visualize man as a creature of infinite capacity—man as God, almost.
 
-The readers loved it. “The Skylark of Space” became a classic at once, and other writers did their best to mutate it. The field was never the same again, and E. E. Smith was a demigod of science fiction for the remainder of bis life.
+The readers loved it. “The Skylark of Space” became a classic at once, and other writers did their best to imitate it. The field was never the same again, and E. E. Smith was a demigod of science fiction for the remainder of his life.
 
 E. E. Smith was the first nova.
 
 In the August 1939 issue of *Astounding Science Fiction*, there appeared the short story “Life-Line,” by a new author, Robert A Heinlein. It attracted attention at once for its low-keyed, naturalistic style, for the utter absence of histrionics or the cardboard attitudes common in most science fiction.
 
-The story did not, perhaps, instaritly grab the readers and shake the field into a new form, for it was a little obscured by the nearly simultaneous appearance of the more spectacular and longer “Black Destroyer,” by A. E. van Vogt, another new writer, in the July 1939 *Astounding*. But Heinlein continued to write stories rapidly and *Astounding* continued to publish them. Within the year it became quite obvious that Robert A. Heinlein was the best living science-fiction writer.
+The story did not, perhaps, instantly grab the readers and shake the field into a new form, for it was a little obscured by the nearly simultaneous appearance of the more spectacular and longer “Black Destroyer,” by A. E. van Vogt, another new writer, in the July 1939 *Astounding*. But Heinlein continued to write stories rapidly and *Astounding* continued to publish them. Within the year it became quite obvious that Robert A. Heinlein was the best living science-fiction writer.
 
 Again readers demanded more, and again almost every writer in the field (including myself) began, more or less consciously and more or less thoroughly, to imitate Heinlein.
 
@@ -265,7 +276,7 @@ As for Heinlein, he is writing and publishing today, thirty-five years after the
 .space
 The second nova appeared in 1934, just six years after Smith and just five years before Heinlein. In the July 1934 issue of *Wonder Stories*, a short story entitled “A Martian Odyssey” appeared by a never-before-published writer, Stanley G. Weinbaum.
 
-Observe the differences. At the time the story appeared, *Wonder* was *not* the foremost science-fiction magazine. It was, in my opinion, third in a field of three. Its publisher was indeed Hugo Gernsback, but Gernsback was no longer in the forefront of creative thinking in the field. The editor was Charles D. Homig, who, in the history of science-fiction editing, is utterly undistinguished and whose sole claim to fame, indeed, may be the recognition of the worth of this particular story.
+Observe the differences. At the time the story appeared, *Wonder* was *not* the foremost science-fiction magazine. It was, in my opinion, third in a field of three. Its publisher was indeed Hugo Gernsback, but Gernsback was no longer in the forefront of creative thinking in the field. The editor was Charles D. Hornig, who, in the history of science-fiction editing, is utterly undistinguished and whose sole claim to fame, indeed, may be the recognition of the worth of this particular story.
 
 Yet, hidden in this obscure magazine, “A Martian Odyssey” had the effect on the field of an exploding grenade. With this single story, Weinbaum was instantly recognized as the world’s best living science-fiction writer, and at once almost every writer in the field tried to imitate him.
 
@@ -292,7 +303,7 @@ There were, to be sure, extra-terrestrial creatures in science fiction long befo
 
 The pre-Weinbaum extra-terrestrial, whether humanoid or monstrous, served only to impinge upon the hero, to serve as a menace or as a means of rescue, to be evil or good in strictly human terms—*never* to be something in itself, independent of mankind.
 
-Weinbaum was the first, as far as I know, to create extraterrestrials that had their *4* reasons for existing.
+Weinbaum was the first, as far as I know, to create extraterrestrials that had their *own* reasons for existing.
 
 He did more than that, too; he created whole sense-making ecologies.
 
@@ -317,7 +328,7 @@ But Weinbaum was a Campbell author before Campbell. “A Martian Odyssey” appe
 
 And in Weinbaum’s giant shadow, all the Campbell authors would have found themselves less remarkable niches. Weinbaum, who would be in his early seventies now had he lived, would surely be in first place in the list of all-time favorite science-fiction writers.
 
-.space.right.sc
+.space.right.smallcaps
 Isaac Asimov
 
 ---
@@ -331,17 +342,17 @@ a_martian_odyssey
 
 “Air you can breathe!” he exulted. “It feels as thick as soup after the thin stuff out there!” He nodded at the Martian landscape stretching flat and desolate in the light of the nearer moon, beyond the glass of the port.
 
-The other three stared at him sympathetically—Putz, the engineer, Leroy, the biologist, and Harrison, the astronomer and captain of the expedition. Dick Jarvis was chemist of the famous crew, the *Ares* expedition, first human beings to set foot on the mysterious neighbor of the earth, the planet Mars. This, of course, was in the old days, less than twenty years after the mad American Doheny perfected the atomic blast at the cost of his life, and only a decade after the equally mad Cardoza rode on it to the moon. They were true pioneers, these four of the *Ares*. Except for a half-dozen moon expeditions and the ill-fated de Lancey flight aimed at the seductive orb of Venus, they were the first men to feel other gravity than earth’s, and certainly the first successful crew to leave the earth-moon system. And they deserved that success when one considers the difficulties and discomforts—the months spent in acclimatization chambers back on earth, learning to breathe the air as tenuous as that of Mars, the challenging of the void in the tiny rocket driven by the cranky reaction motors of the twenty-first century, and mostly the facing of an absolutely unknown world.
+The other three stared at him sympathetically—Putz, the engineer, Leroy, the biologist, and Harrison the astronomer and captain of the expedition. Dick Jarvis, of course, was chemist of the famous crew, the *Ares* expedition, first human beings to set foot on the mysterious neighbor of the earth, the planet Mars. This, of course, was in the old days, less than twenty years after the mad American Doheny perfected the atomic blast at the cost of his life, and only a decade after the equally mad Cardoza rode on it to the moon. They were true pioneers, these four of the *Ares*. Except for a half-dozen moon expeditions and the ill-fated de Lancey flight aimed at the seductive orb of Venus, they were the first men to feel other gravity than earth’s, and certainly the first successful crew to leave the earth-moon system. And they deserved that success when one considers the difficulties and discomforts—the months spent in acclimatization chambers back on earth, learning to breathe air as tenuous as that of Mars, the challenging of the void in the tiny rocket driven by the cranky reaction motors of the twenty-first century, and mostly the facing of an absolutely unknown world.
 
-Jarvis stretched and fingered the raw and peeling tip of his frost-bitten nose. He sighed again contentedly.
+Jarvis stretched again and fingered the raw and peeling tip of his frost-bitten nose. He sighed again contentedly.
 
-“Well,” exploded Harrison abruptly, “are we going to hear what happened? You set out all shipshape in an auxiliary rocket, we don’t get a peep for ten days, and finally Putz here picks you out of a lunatic ant-heap with a freak ostrich as your pal! Spill it, man!”
+“Well,” exploded Harrison abruptly, "are we going to hear what happened? You set out all shipshape in an auxiliary rocket, we don’t get a peep for ten days, and finally Putz here picks you out of a lunatic ant-heap with a freak ostrich as your pal! Spill it, man!”
 
 “Speel?” queried Leroy perplexedly. “Speel what?”
 
 <a id="page2"></a>“He means *‘spiel’*,” explained Putz soberly. “It iss to tell.”
 
-Jarvis met Harrison’s amused glance without the shadow of a smile. “That’s right, Karl,” he said in grave agreement with Putz. “*Ich spiel es!*” He grunted comfortably and began.
+Jarvis met Harrison’s amused glance without the shadow of a smile. “That’s right, Karl,” he said in grave agreement with Putz. *“Ich spiel es!”* He grunted comfortably and began.
 
 “According to orders,” he said, “I watched Karl here take off toward the North, and then I got into my flying sweat-box and headed South. You’ll remember, Cap—we had orders not to land, but just scout about for points of interest. I set the two cameras clicking and buzzed along, riding pretty high—about two thousand feet—for a couple of reasons. First, it gave the cameras a greater field, and second, the under-jets travel so far in this half-vacuum they call air here that they stir up dust if you move low.”
 
@@ -349,13 +360,13 @@ Jarvis met Harrison’s amused glance without the shadow of a smile. “That’s
 
 “The films are safe,” retorted Jarvis. “Well,” he resumed, “as I said, I buzzed along at a pretty good clip; just as we figured, the wings haven’t much lift in this air at less than a hundred miles per hour, and even then I had to use the under-jets.
 
-“So, with the speed and the altitude and the blurring caused by the under-jets, the seeing wasn’t any too good. I could see enough, though, to distinguish that what I sailed over was just more of this grey plain that we’d been examining the whole week since our landing—same blobby growths and the same eternal carpet of crawling little plant-animals, or biopods, as Leroy calls them. So I sailed along, calling back my position every hour as instructed, and not knowing whether you heard me.”
+“So, with the speed and the altitude and the blurring caused by the under-jets, the seeing wasn’t any too good. I could see enough, though, to distinguish that what I sailed over was just more of this grey plain that we’d been examining the whole week since our landing—same blobby growths and same eternal carpet of crawling little plant-animals, or biopods, as Leroy calls them. So I sailed along, calling back my position every hour as instructed, and not knowing whether you heard me.”
 
 “I did!” snapped Harrison.
 
-“A hundred and fifty miles south,” continued Jarvis imperturbably, “the surface changed to a sort of low plateau, nothing but desert and orange-tinted sand. I figured that we were right in our guess, then, and this grey plain we dropped on was really the Mare Cimmerium which would make my - orange desert the region called Xanthus. If I were right, I ought to hit another grey plain, the Mare Chronium in another couple of hundred miles, and then another orange desert, Thyle I or II. And so I did.”
+“A hundred and fifty miles south,” continued Jarvis imperturbably, “the surface changed to a sort of low plateau, nothing but desert and orange-tinted sand. I figured that we were right in our guess, then, and this grey plain we dropped on was really the Mare Cimmerium which would make my orange desert the region called Xanthus. If I were right, I ought to hit another grey plain, the Mare Chronium in another couple of hundred miles, and then another orange desert, Thyle I or II. And so I did.”
 
-“Putz verified our position a week and a half ago!” grumbled the captain. “Let’s get to the point.”
+“Putz verified our position a week and a half ago!” grumbled the captain. “Let's get to the point.”
 
 <a id="page3"></a>“Coming!” remarked Jarvis. “Twenty miles into Thyle—believe it or not—I crossed a canal!”
 
@@ -365,19 +376,19 @@ Jarvis met Harrison’s amused glance without the shadow of a smile. “That’s
 
 “Twenty of ’em, if you call those heaps of mud cities!”
 
-“Well,” observed Jarvis, “from here on I’ll be telling a few things Putz didn’t see.” He rubbed his tingling nose, and continued. “I knew that I had sixteen hours of daylight at this season, so eight hours—eight hundred miles—from here, I decided to turn back. I was still over Thyle, whether I or II I’m not sure, not more than twenty-five miles into it. And right there, Putz’s pet motor quit!”
+“Well,” observed Jarvis, “from here on I’ll be telling a few things Putz didn’t see!” He rubbed his tingling nose, and continued. “I knew that I had sixteen hours of daylight at this season, so eight hours—eight hundred miles—from here, I decided to turn back. I was still over Thyle, whether I or II I’m not sure, not more than twenty-five miles into it. And right there, Putz’s pet motor quit!”
 
-“Quit! How?” Putz was solicitous.
+“Quit? How?” Putz was solicitous.
 
 “The atomic blast got weak. I started losing altitude right away, and suddenly there I was with a thump right in the middle of Thyle! Smashed my nose on the window, too!” He rubbed the injured member ruefully.
 
-“Did you maybe try vashipg der combustion chamber mit acid sulphuric?” inquired Putz. “Sometimes der lead giffs a secondary radiation—”
+“Did you maybe try vashing der combustion chamber mit acid sulphuric?” inquired Putz. “Sometimes der lead giffs a secondary radiation—”
 
-“Naw!” said Jarvis disgustedly. “I wouldn’t try that, of course—not more than ten times! Besides, the bump flattened the landing gear and busted off the under-jets. Suppose I got the thing working—what then? Ten miles with the blast coming right out of the bottom and I’d have melted the floor under me!” He rubbed his nose again. “Lucky for me a pound only weighs seven ounces here, or I’d have been mashed flat!”
+“Naw!” said Jarvis disgustedly. “I wouldn’t try that, of course—not more than ten times! Besides, the bump flattened the landing gear and busted off the under-jets. Suppose I got the thing working—what then? Ten miles with the blast coming right out of the bottom and I’d have melted the floor from under me!” He rubbed his nose again. “Lucky for me a pound only weighs seven ounces here, or I’d have been mashed flat!”
 
 “I could have fixed!” ejaculated the engineer. “I bet it vas not serious.”
 
-“Probably not,” agreed Jarvis sarcastically. “Only it wouldn’t fly. Nothing serious, but I had my choice of waiting to be picked up or trying to walk back—eight hundred miles, and perhaps twenty days before we had to leave! Forty miles a day! Well,” he concluded, “I chose to walk. Just as much chance of being, picked up, and it kept me busy.”
+“Probably not,” agreed Jarvis sarcastically. “Only it wouldn’t fly. Nothing serious, but I had my choice of waiting to be picked up or trying to walk back—eight hundred miles, and perhaps twenty days before we had to leave! Forty miles a day! Well,” he concluded, “I chose to walk. Just as much chance of being picked up, and it kept me busy.”
 
 “We’d have found you,” said Harrison.
 
@@ -385,7 +396,7 @@ Jarvis met Harrison’s amused glance without the shadow of a smile. “That’s
 
 “Water tank!” exclaimed the little biologist, Leroy. “She weigh one-quarter ton!”
 
-“Wasn’t full. Weighed about two hundred and fifty pounds <a id="page4"></a>earth-weight, which is eighty-five here. Then, besides, my own personal two hundred and ten pounds is only seventy on Mars, so, tank and all, I grossed a hundred and fifty-five, or fifty-five pounds less than my everyday earth-weight. I figured on that when I undertook the forty-mile daily stroll. Oh—of course I took a thermo-skin sleeping bag for these wintry Martian nights.
+“Wasn't full. Weighed about two hundred and fifty pounds <a id="page4"></a>earth-weight, which is eighty-five here. Then, besides, my own personal two hundred and ten pounds is only seventy on Mars, so, tank and all, I grossed a hundred and fifty-five, or fifty-five pounds less than my everyday earth-weight. I figured on that when I undertook the forty-mile daily stroll. Oh—of course I took a thermo-skin sleeping bag for these wintry Martian nights.
 
 “Off I went, bouncing along pretty quickly. Eight hours of daylight meant twenty miles or more. It got tiresome, of course—plugging along over a soft sand desert with nothing to see, not even Leroy’s crawling biopods. But an hour or so brought me to the canal—just a dry ditch about four hundred feet wide, and straight as a railroad on its own company map.
 
@@ -393,87 +404,87 @@ Jarvis met Harrison’s amused glance without the shadow of a smile. “That’s
 
 “Eh?” said Leroy.
 
-“Yeah, it was a relative of your biopods. I caught one—a little grass-like blade about as long as my finger, with two thin, stemmy legs.”
+“Yeah; it was a relative of your biopods. I caught one—a little grass-like blade about as long as my finger, with two thin, stemmy legs.”
 
 “He is where?” Leroy was eager.
 
 “He is let go! I had to move, so I plowed along with the walking grass opening in front and closing behind. And then I was out on the orange desert of Thyle again.
 
-“I plugged steadily along, cussing the Sana that made going so tiresome, and, incidentally, cussing that cranky motor of yours, Karl. It was just before twilight that I reached the edge of Ihyle, and looked down over the grey Mare Chronium. And I knew there was seventy-five miles of *that* to be walked over, and then a couple of hundred miles of that Xanthus desert, and about as much more Mare Cimmerium. Was I pleased? I started cussing you fellows for not picking me up!”
+“I plugged doggedly along, cussing the sand that made going so tiresome, and, incidentally, cussing that cranky motor of yours, Karl. It was just before twilight that I reached the edge of Thyle, and looked down over the gray Mare Chronium. And I knew there was seventy-five miles of *that* to be walked over, and then a couple of hundred miles of that Xanthus desert, and about as much more Mare Cimmerium. Was I pleased? I started cussing you fellows for not picking me up!”
 
 “We were trying, you sap!” said Harrison.
 
-“That didn’t help. Well, I figured I might as well use ’ivhat was left of daylight in getting down the cliff that bounded Thyle. I found an easy place, and down I went. Mare Chronium was just the same sort of place as this—crazy leafless plants and a bunch of crawlers; I gave it a glance and hauled out my sleeping bag. Up to that time, you know, I hadn’t seen anything worth worrying about on this half-dead world—nothing dangerous, that is.”
+“That didn’t help. Well, I figured I might as well use what was left of daylight in getting down the cliff that bounded Thyle. I found an easy place, and down I went. Mare Chronium was just the same sort of place as this—crazy leafless plants and a bunch of crawlers; I gave it a glance and hauled out my sleeping bag. Up to that time, you know, I hadn't seen anything worth worrying about on this half-dead world—nothing dangerous, that is.”
 
 “Did you?” queried Harrison.
 
-<a id="page5"></a>“*Did I!* You’ll hear aoout it when I come to it. Well I was just about to turn in when suddenly I heard the wildest sort of shenanigans!”
+<a id="page5"></a>“*Did I!* You’ll hear about it when I come to it. Well, I was just about to turn in when suddenly I heard the wildest sort of shenanigans!”
 
 “Vot iss shenanigans?” inquired Putz.
 
-“He says, ‘*Je ne sais quoi,*’” explained Leroy. “It is to say, ‘I don’t know what.’”
+“He say, *‘Je ne sais quoi,’*” explained Leroy. “It is to say, ‘I don’t know what’.”
 
 “That’s right,” agreed Jarvis. “I didn’t know what, so I sneaked over to find out. There was a racket like a flock of crows eating a bunch of canaries—whistles, cackles, caws, trills, and what have you. I rounded a clump of stumps, and there was Tweel!”
 
 “Tweel?” said Harrison, and “Tveel?” said Leroy and Putz.
 
-“That freak ostrich,” explained the narrator. “At least, Tweel is as near as I can pronounce it without sputtering. He called it something like ‘Trrrweerrlll.’ ”
+“That freak ostrich,” explained the narrator. “At least, Tweel is as near as I can pronounce it without sputtering. He called it something like ‘Trrrweerrlll’.”
 
 “What was he doing?” asked the Captain.
 
-“He was being eaten! And squealing, of course, as any one would.”
+“He was being eaten! And squealing, of course, as any one would.’’
 
 “Eaten! By what?”
 
-“I found out later. All I could see then was a bunch of black ropy arms tangled around what looked like, as Putz described it to you, an ostrich. I wasn’t going to interfere, naturally; if both creatures were dangerous, I’d have one less to worry about.
+“I found out later. All I could see then was a bunch of black ropy arms tangled around what looked like, as Putz described it to you, an ostrich. I wasn't going to interfere, naturally; if both creatures were dangerous. I’d have one less to worry about.
 
 “But the bird-like thing was putting up a good battle, dealing vicious blows with an eighteen-inch beak, between screeches. And besides, I caught a glimpse or two of what was on the end of those arms!” Jarvis shuddered. “But the clincher was when I noticed a little black bag or case hung about the neck of the bird-thing! It was intelligent! That or tame, I assumed. Anyway, it clinched my decision. I pulled out my automatic and fired into what I could see of its antagonist.
 
 “There was a flurry of tentacles and a spurt of black corruption, and then the thing, with a disgusting sucking noise, pulled itself and its arms into a hole in the ground. The other let out a series of clacks, staggered around on legs about as thick as golf sticks, and turned suddenly to face me. I held my weapon ready, and the two of us stared at each other.
 
-“The Martian wasn’t a bird, really. It wasn’t even bird-like, except just at first glance. It had a beak all right, and a few feathery appendages, but the beak wasn’t really a beak. It was somewhat flexible; I could see the tip bend slowly from side to <a id="page6"></a>side; it was almost like a cross between a beak and a trunk. It had four-toed feet, and four-fingered things—hands, you d have to call them, and a little roundish body, and a long neck ending in a tiny head—and that beak. It stood an inch or so taller than I, and—well, Putz saw it!”
+“The Martian wasn’t a bird, really. It wasn’t even bird-like, except just at first glance. It had a beak all right, and a few feathery appendages, but the beak wasn’t really a beak. It was somewhat flexible; I could see the tip bend slowly from side to <a id="page6"></a>side; it was almost like a cross between a beak and a trunk. It had four-toed feet, and four fingered things—hands, you’d have to call them, and a little roundish body, and a long neck ending in a tiny head—and that beak. It stood an inch or so taller than I, and—well, Putz saw it!”
 
 The engineer nodded. “*Ja!* I saw!”
 
-Jarvis continued. “So—we stared at each other. Finally the creature went, into a series of clackings and twitterings and held out its hands toward me, empty. I took that as a gesture of friendship.”
+Jarvis continued. “So—we stared at each other. Finally the creature went into a series of clackings and twitterings and held out its hands toward me, empty. I took that as a gesture of friendship.”
 
 “Perhaps,” suggested Harrison, “it looked at that nose of yours and thought you were its brother!”
 
-“Huh! You can be funny without talking! Anyway, I put up my gun and said ‘Aw, don’t mention it,’ or something of the sort, and the thing came over and we were pals.
+“Huh! You can be funny without talking! Anyway, I put up my gun and said, ‘Aw, don’t mention it,’ or something of the sort, and the thing came over and we were pals.
 
-“By that time, the sun was pretty low and I knew that I’d better build a fire or get into my thermo-skin. I decided on the fire. I picked a spot at the base of the Thyle cliff, where the rock could reflect a little heat on my back. I started breaking off chunks of this desiccated Martian vegetation, and my companion caught the idea and brought in an armful. I reached for a match, but the Martian fished into his pouch and brought out something that looked like a glowing coal; one touch of it, and the fire was blazing—and you all know what a job we have starting a fire in this atmosphere!
+“By that time, the sun was pretty low and I knew that I’d better build a fire or get into my thermo-skin. I decided on the fire. I picked a spot at the base of the Thyle cliff, where the rock could reflect a little heat on my back. I started breaking off chunks of this desiccated Martian vegetation, and my companion caught the idea and brought in an armful. I reached for a match, but the Martian fished into his pouch and brought out something that looked like a glowing coal; one touch of it, and the fire was blazing —and you all know what a job we have starting a fire in this atmosphere!
 
-“And that bag of his!” continued the narrator. “That was a manufactured article, my friends; press an end and she popped open—press the middle and she sealed so perfectly you couldn’t see the line. Better than zippers.
+“And that bag of his!” continued the narrator. “That was a manufactured article, my friends; press an end and she popped open—press the middle, and she sealed so perfectly you couldn’t see the line. Better than zippers.
 
 “Well, we stared at the fire a while and I decided to attempt some sort of communication with the Martian. I pointed at myself and said ‘Dick’; he caught the drift immediately, stretched a bony claw at me and repeated ‘Tick.’ Then I pointed at him, and he gave that whistle I called Tweel; I can’t imitate his accent. Things were going smoothly; to emphasize the names, I repeated ‘Dick,’ and then, pointing at him, ‘Tweel.’
 
 “There we stuck! He gave some clacks that sounded negative, and said something like ‘P-p-p-proot.’ And that was just the beginning; I was always ‘Tick,’ but as for him—part of the time he was ‘Tweel,’ and part of the time he was ‘P-p-p-proot,’ and part of the time he was sixteen other noises!
 
-<a id="page7"></a>“We just couldn’t connect. I tried ‘rock,’ and I tried ‘star,’ and ‘tree,’ and ‘fire,’ and Lord knows what else, and try as I would, I couldn’t get a single word! Nothing was the same for two successive minutes, and if that’s a language, I’m an alchemist! Finally I gave it up and called him Tweel, and that seemed to do.
+<a id="page7"></a>“We just couldn't connect! I tried ‘rock,’ and I tried ‘star,’ and ‘tree,’ and ‘fire,’ and Lord knows what else, and try as I would, I couldn't get a single word! Nothing was the same for two successive minutes, and if that's a language, I’m an alchemist! Finally I gave it up and called him Tweel, and that seemed to do.
 
-“But Tweel hung on to some of my words. He remembered a couple of them, which I suppose is a great achievement if you’re used to a language you have to make up as you go along. But I couldn’t get the hang of his talk; either I missed some subtle point or we just didn’t *think* alike—and I rather believe the latter view.
+“But Tweel hung on to some of my words. He remembered a couple of them, which I suppose is a great achievement if you're used to a language you have to make up as you go along. But I couldn't get the hang of his talk; either I missed some subtle point or we just didn't *think* alike—and I rather believe the latter view.
 
 “I’ve other reasons for believing that. After a while I gave up the language business, and tried mathematics. I scratched two plus two equals four on the ground, and demonstrated it with pebbles. Again Tweel caught the idea, and informed me that three plus three equals six. Once more we seemed to be getting somewhere.
 
-“So, knowing that Tweel had at least a grammar school education, I drew a circle for the sun, pointing first at it, and then at the last glow of the sun. Then I sketched in Mercury, and Venus, and Mother Earth, and Mars, and finally, pointing to Mars, I swept my hand around in a sort of inclusive gesture to indicate that Mars was our current environment. I was working up to putting over the idea that my home was on the earth
+“So, knowing that Tweel had at least a grammar school education, I drew a circle for the sun, pointing first at it. and then at the last glow of the sun. Then I sketched in Mercury, and Venus, and Mother Earth, and Mars, and finally, pointing to Mars, I swept my hand around in a sort of inclusive gesture to indicate that Mars was our current environment. I was working up to putting over the idea that my home was on the earth.
 
-“Tweel understood my diagram all right. He poked his beak at it, and with a great deal of trilling and clucking, he added Deimos and Phobos to Mars, and then sketched in the earth’s moon!
+“Tweel understood my diagram all right. He poked his beak at it, and with a great deal of trilling and clucking, he added Deimos and Phobos to Mars, and then sketched in the earth's moon!
 
-“Do you see what that-proves? It proves that Tweel’s race uses telescopes—that they’re civilized!”
+“Do you see what that proves? It proves that Tweel’s race uses telescopes—that they're civilized!”
 
 “Does not!” snapped Harrison. “The moon is visible from here as a fifth magnitude star. They could see its revolution with the naked eye.”
 
-“The moon, yes!” said Jarvis. “You’ve missed my point. Mercury isn’t visible! And Tweel knew of Mercury because he placed the Moon at the third planet, not the second. If he didn’t know Mercury, he’d put the earth second, and Mars third, instead of fourth! See?”
+“The moon, yes!” said Jarvis. “You’ve missed my point. Mercury isn’t visible! And Tweel knew of Mercury because he placed the Moon at the *third* planet, not the second. If he didn’t know Mercury, he’d put the ehrth second, and Mars third, instead of fourth! See?”
 
-“Humph!” said Harrisbn.
+“Humph!" said Harrison.
 
 “Anyway,” proceeded Jarvis, “I went on with my lesson. <a id="page8"></a>Things were going smoothly, and it looked as if I could put the idea over. I pointed at the earth on my diagram, and then at myself, and then, to clinch it, I pointed to myself and then to the earth itself shining bright green almost at the zenith.
 
-“Tweel set up such an excited clacking that I was certain he understood. He jumped up and down, and suddenly he pointed at himself and then at the sky, and then at himself and at the sky again. He pointed at his middle and then at Arc-turus, at his head and then at Spica, at his feet and then at half a dozen stars, while I just gaped at him. Then, all of a sudden, he gave a tremendous leap. Man, what a hop! He shot straight up into the starlight, seventy-five feet if an inch! I saw him silhouetted against the sky, saw him turn and come down at me head first, and land smack on his beak like a javelin! There he stuck square in the center of my sun-circle in the sand—a bull’s eye!”
+“Tweel set up such an excited clacking that I was certain he understood. He jumped up and down, and suddenly he pointed at himself and then at the sky, and then at himself and at the sky again. He pointed at his middle and then at Arcturus, at his head and then at Spica, at his feet and then at half a dozen stars, while I just gaped at him. Then, all of a sudden, he gave a tremendous leap. Man, what a hop! He shot straight up into the starlight, seventy-five feet if an inch! I saw him silhouetted against the sky, saw him turn and come down at me head first, and land smack on his beak like a javelin! There he stuck square in the center of my sun-circle in the sand—a bull's-eye!”
 
-“Nuts!” observed the captain. “Plain nuts!”
+“Nuts!" observed the captain. “Plain nuts!”
 
-“That’s what I thought, too! I just stared at him openmouthed while he pulled his head out of the sand and stood up. Then I figured he’d missed my point, and I went through the whole blamed rigamarole again, and it ended the same way, with Tweel on his nose in the middle of my picture!”
+“That’s what I thought, too! I just stared at him open-mouthed while he pulled his head out of the sand and stood up. Then I figured he'd missed my point, and I went through the whole blamed rigmarole again, and it ended the same way, with Tweel on his nose in the middle of my picture!”
 
 “Maybe it’s a religious rite,” suggested Harrison.
 
@@ -481,11 +492,11 @@ Jarvis continued. “So—we stared at each other. Finally the creature went, in
 
 “Nuts!” repeated the captain. “Just daffy!”
 
-“Yeah? Wait and see. A couple of times I’ve thought that perhaps we—” He paused, and then resumed his narrative. “Anyway, I finally gave it up, and got into my thermo-skin to sleep. The fire hadn’t kept me any too warm, but that damned sleeping bag did. Got stuffy five minutes after I closed myself in. I opened it a little and bingo! Some eighty-below-zero air hit my nose, and that’s when I got this pleasant little frostbite to add to the bump I acquired during the crash of my rocket.
+“Yeah ? Wait and see. A couple of times I’ve thought that perhaps we—” He paused, and then resumed his narrative. “Anyway, I finally gave it up, and got into my thermo-skin to sleep. The fire hadn’t kept me any too warm, but that damn sleeping bag did. Got stuffy five minutes after I closed myself in. I opened it a little and bingo! Some eighty-below-zero air hit my nose, and that’s when I got this pleasant little frostbite to add to the bump I acquired during the crash of my rocket.
 
-“I don’t know what Tweel made of my sleeping. He sat around, but when I woke up, he was gone. I’d just crawled <a id="page9"></a>out of my bag, though, when I heard some twittering, and there he came, sailing down from that three-story Thyle cliif to alight on his beak beside me. I pointed to myself and toward the north, and he pointed at himself and toward the south, but when I loaded up and started away, he came along.
+“I don’t know what Tweel made of my sleeping. He sat around, but when I woke up, he was gone. I’d just crawled <a id="page9"></a>out of my bag, though, when I heard some twittering, and there he came, sailing down from that three-story Thyle cliff to alight on his beak beside me. I pointed to myself and toward the north, and he pointed at himself and toward the south, but when I loaded up and started away, he came along.
 
-“Man, how he traveled! A hundred and fifty feet at a jump, sailing through the air stretched out like a spear, and landing on his beak. He seemed surprised at my plodding, but after a few moments he fell in beside me, only every few minutes he’d gc into one of his leaps, and stick his nose into the sand a block ahead of me. Then he’d come shooting back at me; it made me nervous at first to see that beak of his coming at me like a spear, but he always ended in the sand at my side.
+“Man, how he traveled!—a hundred and fifty feet at a jump, sailing through the air stretched out like a spear, and landing on his beak. He seemed surprised at my plodding, but after a few moments he fell in beside me, only every few minutes he’d go into one of his leaps, and stick his nose into the sand a block ahead of me. Then he’d come shooting back at me; it kept me nervous at first to see that beak of his coming at me like a spear, but he always ended in the sand at my side.
 
 “So the two of us plugged along across the Mare Chronium. Same sort of place as this—same crazy plants and same little green biopods growing in the sand, or crawling out of your way. We talked—not that we understood each other, you know, but just for company. I sang songs, and I suspect Tweel did too; at least, some of his trillings and twitterings had a subtle sort of rhythm.
 
@@ -493,27 +504,27 @@ Jarvis continued. “So—we stared at each other. Finally the creature went, in
 
 “Looney, that’s all,” remarked Harrison. “That’s why you two were so fond of each other.”
 
-“Well, I like *you*!” countered Jarvis wickedly. “Anyway,” he resumed, “don’t get the idea that there was anything screwy about Tweel. In fact, I’m not so sure but that he <a id="page10"></a>couldn’t teach our highly praised human intelligence a trick or two. Oh, he wasn’t an intellectual superman, I guess; but don’t overlook the point that he managed to understand a little of my mental workings, and I never even got a glimmering of hi
+“Well, I like *you!*” countered Jarvis wickedly. “Anyway,” he resumed, “don’t get the idea that there was anything screwy about Tweel. In fact, I’m not so sure but that he <a id="page10"></a>couldn’t teach our highly praised human intelligence a trick or two. Oh, he wasn’t an intellectual superman, I guess; but don’t overlook the point that he managed to understand a little of my mental workings, and I never even got a glimmering of his.”
 
-“Because he didn’t have any!” suggested the captain, while Futz and Leroy blinked attentively.
+“Because he didn’t have any!” suggested the captain, while Putz and Leroy blinked attentively.
 
-“You can judge of that when I’m through,” said Jarvis. “Well, we plugged along across the Mare Chronium all that day, and all the next. Mare Chronium—Sea of Time! Say, I was willing to agree with Schiaparelli’s name by the end of that march! Just that grey, endless plain of weird plants, and never a sign of any other life. It was so monotonous that I was even glad to see the desert of Xanthus toward the evening of the second day.
+“You can judge of that when I'm through," said Jarvis. “Well, we plugged along across the Mare Chronium all that day, and all the next. Mare Chronium—Sea of Time! Say, I was willing to agree with Schiaparelli's name by the end of that march! Just that grey, endless plain of weird plants, and never a sign of any other life. It was so monotonous that I was even glad to see the desert of Xan-thus toward the evening of the second day.
 
 “I was fair worn out, but Tweel seemed as fresh as ever, for all I never saw him drink or eat. I think he could have crossed the Mare Chronium in a couple of hours with those block-long nose dives of his, but he stuck along with me. I offered him some water once or twice; he took the cup from me and sucked the liquid into his beak, and then carefully squirted it all back into the cup and gravely returned it.
 
-“Just as we sighted Xanthus, or the cliffs that bounded it, one of those nasty sand clouds blew along, not as bad as the one we had here, but mean to travel against. I pulled the transparent flap of my thermo-skin bag across my face and managed pretty well, and I noticed that Tweel used some feathery appendages growing like a mustache at the base of bis beak to cover his nostrils, and some similar fuzz to shield his eyes.”
+“Just as we sighted Xanthus, or the cliffs that bounded it, one of those nasty sand clouds blew along, not as bad as the one we had here, but mean to travel against. I pulled the transparent flap of my thermo-skin bag across my face and managed pretty well, and I noticed that Tweel used some feathery appendages growing like a mustache at the base of his beak to cover his nostrils, and some similar fuzz to shield his eyes.”
 
-“He is a desert creature!” ejaculated the little biologist, Leroy.
+“He is desert creature!" ejaculated the little biologist, Leroy.
 
-“Huh? Why?”
+“Huh ? Why ?”
 
 “He drink no water—he is adapt’ for sand storm—”
 
-“Proves nothing! There’s not enough water to waste anywhere on this desiccated pill called Mars. We’d call all of it desert on earth, you know.” He paused. “Anyway, after the sand storm blew over, a little wind kept blowing in our faces, not strong enough to stir the sand. But suddenly things came drifting along from the Xanthus cliffs—small, transparent spheres, for all the world like glass tennis balls! But light—they were almost light enough to float even in this thin air—<a id="page11"></a>empty, too; at least, I cracked open a couple and nothing came out but a bad smell. I asked Tweel about them, but all he said was ‘No, no, no,’ which I took to mean that he knew nothing about them. So they went bouncing by like tumbleweeds, or like soap bubbles, and we plugged on toward Xanthus. Tweel pointed at one of the crystal balls once and said ‘rock,’ but I was too tired to argue with him. Later I discovered what he meant.
+“Proves nothing! There's not enough water to waste anywhere on this desiccated pill called Mars. We’d call all of it desert on earth, you know." He paused. “Anyway, after the sand storm blew over, a little wind kept blowing in our faces, not strong enough to stir the sand. But suddenly things came drifting along from the Xanthus cliffs—small, transparent spheres, for all the world like glass tennis balls! But light—they were almost light enough to float even in this thin air—<a id="page11"></a>empty, too; at least, I cracked open a couple and nothing came out but a bad smell. I asked Tweel about them, but all he said was ‘No, no, no,’ which I took to mean that he knew nothing about them. So they went bouncing by like tumbleweeds, or like soap bubbles, and we plugged on toward Xanthus. Tweel pointed at one of the crystal balls once and said ‘rock,’ but I was too tired to argue with him. Later I discovered what he meant.
 
-“We came to the bottom of the Xanthus cliffs finally, when there wasn’t much daylight left. I decided to sleep on the plateau if possible; anything dangerous, I reasoned, would be more likely to prowl through the vegetation of the Mare Chronium than the sand of Xanthus. Not that I’d seen a single sign of menace, except the rope-armed black thing that had trapped Tweel, and apparently that didn’t prowl at all, but lured its victims within reach. It couldn’t lure me while I slept, especially as Tweel didn’t seem to sleep at all, but simply sat patiently around all night. I wondered how the creature had managed to trap Tweel, but there wasn’t any way of asking him. I found that out too, later; it’s devilish!
+“We came to the bottom of the Xanthus cliffs finally, when there wasn't much daylight left. I decided to sleep on the plateau if possible; anything dangerous, I reasoned, would be more likely to prowl through the vegetation of the Mare Chronium than the sand of Xanthus. Not that I’d seen a single sign of menace, except the rope-armed black thing that had trapped Tweel, and apparently that didn't prowl at all, but lured its victims within reach. It couldn’t lure me while I slept, especially as Tweel didn’t seem to sleep at all, but simply sat patiently around all night. I wondered how the creature had managed to trap Tweel, but there wasn't any way of asking him. I found that out too, later; it's devilish!
 
-“However, we were ambling around the base of the Xanthus barrier looking for an easy spot to climb. At least, I was. Tweel could have leaped it easily, for the cliffs were lower than Thyle—perhaps sixty feet I found a place and started up, swearing at the water tank strapped to my back—it didn’t bother me except when climbing—and suddenly I heard a sound that I thought I recognized!
+“However, we were ambling around the base of the Xanthus barrier looking for an easy spot to climb. At least, I was. Tweel could have leaped it easily, for the cliffs were lower than Thyle—perhaps sixty feet. I found a place and started up, swearing at the water tank strapped to my back—it didn’t bother me except when climbing—and suddenly I heard a sound that I thought I recognized!
 
 “You know how deceptive sounds are in this thin air. A shot sounds like the pop of a cork. But this sound was the drone of a rocket, and sure enough, there went our second auxiliary about ten miles to westward, between me and the sunset!”
 
@@ -521,15 +532,15 @@ Jarvis continued. “So—we stared at each other. Finally the creature went, in
 
 “Yeah; I knew that, but what good did it do me? I hung on to the cliff and yelled and waved with one hand. Tweel saw it too, and set up a trilling and twittering, leaping to the top of the barrier and then high into the air. And while I watched, the machine droned on into the shadows to the south.
 
-“I scrambled to the top of the cliff. Tweel was still pointing and trilling excitedly, shooting up toward the sky and coming down head-on to stick upside down on his beak in the sand. I pointed toward the south and at myself, and he said, ‘Yes—<a id="page12"></a>Yes—Yes’; but somehow I gathered that he thought the flying thing was a relative of mine, probably a parent. Perhaps I did hir intellect an injustice; I think now that I did.
+“I scrambled to the top of the cliff. Tweel was still pointing and trilling excitedly, shooting up toward the sky and coming down head-on to stick upside down on his beak in the sand. I pointed toward the south and at myself, and he said, ‘Yes—<a id="page12"></a>Yes—Yes’; but somehow I gathered that he thought the flying thing was a relative of mine, probably a parent. Perhaps I did his intellect an injustice; I think now that I did.
 
-“I was bitterly disappointed by the failure to attract attention, I pulled out my thermo-skin baa and crawled into it, as the night chill was already apparent. Tweel stuck his beak into the sand and drew up his legs and arms and looked for all the world like one of those leafless shrubs out there. I think he stayed that way all night.”
+“I was bitterly disappointed by the failure to attract attention. I pulled out my thermo-skin bag and crawled into it, as the night chill was already apparent. Tweel stuck his beak into the sand and drew up his legs and arms and looked for all the world like one of those leafless shrubs out there. I think he stayed that way all night.”
 
 “Protective mimicry!” ejaculated Leroy. “See? He is desert creature!”
 
-“In the morning,” resumed Jarvis, “we started off again. We hadn’t gone a hundred yards into X-mthus when I saw something queer! This is one thing Putz didn’t photograph, I’ll wager!
+“In the morning,” resumed Jarvis, “we started off again. We hadn’t gone a hundred yards into Xanthus when I saw something queer! This is one thing Putz didn't photograph, I’ll wager!
 
-“There was a line of little pyramids—tinv ones, not more than six inches high, stretching across Xanthus as far as I could see! Little buildings made of pygmy bricks, they were, hollow inside and truncated, or at least broken at the top and empty. I pointed at them and said ‘What?’ to Tweel, but he gave some negative twitters to indicate, I suppose, that he didn’t know. So off we went, following the row of pyramids because they ran north, and I was going north.
+“There was a line of little pyramids—tiny ones, not more than six inches high, stretching across Xanthus as far as I could see! Little buildings made of pygmy bricks, they were, hollow inside and truncated, or at least broken at the top and empty. I pointed at them and said ‘What?’ to Tweel, but he gave some negative twitters to indicate, I suppose, that he didn’t know. So off we went, following the row of pyramids because they ran north, and I was going north.
 
 “Man, we trailed that line for hours! After a while, I noticed another queer thing: they were getting larger. Same number of bricks in each one, but the bricks were larger.
 
@@ -539,11 +550,11 @@ Jarvis continued. “So—we stared at each other. Finally the creature went, in
 
 “They were weathered—edges rounded. Silica doesn’t weather easily even on earth, and in this climate—!”
 
-“How old you think?”
+“How old you think ?”
 
-“Fifty thousand—a hundred thousand years. How can I tell? The little ones we saw in the morning were older—perhaps ten times as old. Crumbling. How old would that make *them?* Half a million years? Who knows?” Jarvis paused a moment. “Well,” he resumed, “we followed the line. Tweel pointed at them and said ‘rock’ once or twice, but he’d done that many times before. Besides, he was more or less right about these.
+“Fifty thousand—a hundred thousand years. How can I tell ? The little ones we saw in the morning were older—perhaps ten times as old. Crumbling. How old would that make *them?* Half a million years? Who knows?” Jarvis paused a moment. “Well,” he resumed, “we followed the line. Tweel pointed at them and said ‘rock’ once or twice,“‘but he’d done that many times before. Besides, he was more or less right about these.
 
-<a id="page13"></a>“I tried questioning him. I pointed at a pyramid and asked ‘People? and indicated the two of us. He set up a negative sort of clucking and said, ‘No, no, no. No one-one-two. No two-two-four,’ meanwhile rubbing his stomach. I just stared at him and he went through the business again. ‘No one-one-two. No two-two-four.’ I just gaped at him.”
+<a id="page13"></a>“I tried questioning him. I pointed at a pyramid and asked ‘People?’ and indicated the two of us. He set up a negative sort of clucking and said, ‘No, no, no. No one-one-two. No two-two-four,’ meanwhile rubbing his stomach. I just stared at him and he went through the business again. ‘No one-one-two. No two-two-four.’ I just gaped at him.”
 
 “That proves it!” exclaimed Harrison. “Nuts!”
 
@@ -555,7 +566,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went, in
 
 “Why—of astronomy. Or—or logic!”
 
-“That’s it! ‘No one-one-two!’ Tweel was telling me that the builders of the pyramids weren’t people—or that they weren’t intelligent, that they weren’t reasoning creatures! Get it?”
+“That’s it! ‘No one-one-two!’ Tweel was telling me that the builders of the pyramids weren’t people!—or that they weren’t intelligent, that they weren’t reasoning creatures! Get it?”
 
 “Huh! I’ll be damned!”
 
@@ -563,55 +574,55 @@ Jarvis continued. “So—we stared at each other. Finally the creature went, in
 
 “Why,” put in Leroy, “he rub his belly?”
 
-“Why? Because, my dear biologist, that’s where his brains are! Not in his tiny head—in his middle!”
+“Why? Because, my dear biologist, that's where his brains were! Not in his tiny head—in his middle!"
 
-“*C’est impossible!*”
+*“C’cst impossible!"*
 
-“Not on Mars, it isn’t! This flora and fauna aren’t earthly; your biopods prove that!” Jarvis grinned and took up his narrative. “Anyway, we plugged along across Xanthus and in about the middle of the afternoon, something else queer happened. The pyramids ended.”
+“Not on Mars, it isn’t! This flora and fauna aren’t earthly; your biopods prove that!’’ Jarvis grinned and took up his narrative. “Anyway, we plugged along across Xanthus and in about the middle of the afternoon, something else queer happened. The pyramids ended.’’
 
-“Ended!”
+“Ended!’’
 
-“Yeah; the queer part was that the last one—and now they were ten-footers—was capped! See? Whatever built it was still inside; we’d trailed ’em from their half-million-year-old origin to the present
+“Yeah; the queer part was that the last one—and now they were ten-footers—was capped! See? Whatever built it was still inside; we’d trailed ’em from their half-million-year-old origin to the present.
 
-“Tweel and I noticed it about the same time. I yanked out my automatic (I had a clip of Boland explosive bullets in it) and Tweel, quick as a sleight-of-hand trick, snapped a queer little glass revolver out of his bag. It was much like our weapons, except that the grip was larger to accommodate his four-taloned hand. And we held our weapons ready while we sneaked up along the lines of empty pyramids.
+“Tweel and I both noticed it about the same time. I yanked out my automatic (I had a clip of Boland explosive bullets in it) and Tweel, quick as a sleight-of-hand trick, snapped a queer little glass revolver out of his bag. It was much like our weapons, except that the grip was larger to accommodate his four-taloned hand. And we held our weapons ready while we sneaked up along the lines of empty pyramids.
 
-Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>heaving, shaking, and suddenly slid down the sides with a thin crash. And then—something—something was coming out!
+“Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>heaving, shaking, and suddenly slid down the sides with a thin crash. And then—something—something was coming out!
 
-“A long, silvery-grey arm appeared, dragging after it an armored body. Armored, I mean, with scales, silver-grey and dull-shining. The arm heaved the body out of the hole; the beast crashed to the sand.
+“A long, silver-grey arm appeared, dragging after it an armored body. Armored, I mean, with scales, silver-grey and dull-shining. The arm heaved the body out of the hole; the beast crashed to the sand.
 
 “It was a nondescript creature—body like a big grey cask, arm and a sort of mouth-hole at one end; stiff, pointed tail at the other—and that’s all. No other limbs, no eyes, ears, nose—nothing! The thing dragged itself a few yards, inserted its pointed tail in the sand, pushed itself upright, and just sat.
 
 “Tweel and I watched it for ten minutes before it moved. Then, with a creaking and rustling like—oh, like crumpling stiff paper—its arm moved to the mouth-hole and out came a brick! The arm placed the brick carefully on the ground, and the thing was still again.
 
-“Another ten minutes—another brick. Just one of Nature’s bricklayers. I was about to slip away and move on when Tweel pointed at the thing and said ‘rock’! I went ‘hun?’ and he said it again. Then, to the accompaniment of some of his trilling, he said, ‘No—no—,’ and gave two or three whistling breaths.
+“Another ten minutes—another brick. Just one of Nature’s bricklayers. I was about ready to slip away and move on when Tweel pointed at the thing and said ‘rock’! I went ‘huh?' and he said it again. Then, to the accompaniment of some of his trilling, he said, ‘No—no—,’ and gave two or three whistling breaths.
 
-“Well, I got his meaning, for a wonder! I said, ‘No breath?’ and demonstrated the word. Tweel was ecstatic; he said, ‘Yes, yes, yes! No, no, no breet!’ Then he gave a leap and sailed out to land on his nose about one pace from the monster!
+“Well, I got his meaning, for a wonder ! I said, ‘No breath?’ and demonstrated the word. Tweel was ecstatic; he said, ‘Yes, yes, yes! No, no, no breet!’ Then he gave a leap and sailed out to land on his nose about one pace from the monster!
 
-“I was startled, you, can imagine! The arm was going up for a brick, and I expected to see Tweel caught and mangled, but—nothing happened! Tweel pounded on the creature, and the arm took the brick and placed it neatly beside the first. Tweel rapped on its body again, and said ‘rock,’ and I got up nerve enough to take a look myself.
+“I was startled, you can imagine! The arm was going up for a brick, and I expected to see Tweel caught and mangled, but—nothing happened! Tweel pounded on the creature, and the arm took the brick and placed it neatly beside the first. Tweel rapped on its body again, and said ‘rock,’ and I got up nerve enough to take a look myself.
 
 “Tweel was right again. The creature was rock, and it didn’t breathe!”
 
-“How you know?” snapped Leroy, his black eyes blazing interest.
+"How you know?” snapped Leroy, his black eyes blazing interest.
 
 “Because I’m a chemist. The beast was made of silica! There must have been pure silicon in the sand, and it lived on that. Get it? We, and Tweel, and those plants out there, and even the biopods are *carbon* life; this thing lived by a different set of chemical reactions. It was silicon life!”
 
-<a id="page15"></a>“*La vie silicieuse!*” shouted Leroy. “I have suspect, and now it is proof! I must go see! *Il faut que je—*”
+<a id="page15"></a>*“La vie silicieuse!”* shouted Leroy. “I have suspect, and now it is proof! I must go see! *Il faut que je—*”
 
-“All right! All right!” said Jarvis. “You can go see. Anyhow, there the thing was, alive and yet not alive, moving every ten minutes, and then only to remove a brick. Those bricks were its waste matter. See, Frenchy? We’re carbon, and our waste is carbon dioxide, and this thing is silicon, and *its* waste is silicon dioxide—silica. But silica is a solid, hence the bricks. And it builds itself in, and when it is covered, it moves over to a fresh place to start over. No wonder it creaked! A living creature half a million years old!”
+“All right! All right!” said Jarvis. “You can go see. Anyhow, there the thing was, alive and yet not alive, moving every ten minutes, and then only to remove a brick. Those bricks were its waste matter. See, Frenchy? We’re carbon, and our waste is carbon dioxide, and this thing is silicon, and *its* waste is silicon dioxide—silica. But silica is a solid, hence the bricks. And it built itself in, and when it was covered, it moved over to a fresh place to start over. No wonder it creaked! A living creature half a million years old!’’
 
-“How you know how old?” Leroy was frantic.
+“How you know how old ?” Leroy was frantic.
 
-“We trailed its pyramids from the beginning, didn’t we? If this weren’t the original pyramid builder, the series would have ended somewhere before we found him, wouldn’t it?—ended and started over with the small ones. That’s simple enough, isn’t it?
+“We trailed its pyramids from the beginning, didn't we? If this weren't the original pyramid builder, the series would have ended somewhere before we found him, wouldn't it?—ended and started over with the small ones. That’s simple enough, isn’t it?
 
-“But he reproduces, or tries to. Before the third brick came out, there was a little rustle and out popped a whole stream of those little crystal balls. They’re his spores, or eggs, or seeds—call ’em what you want. They went bouncing by across Xan-thus just as they’d bounced by us back in the Mare Chronium. I’ve a hunch how they work, too—this is for your information, Leroy. I think the crystal shell of silica is no more than a protective covering, like an eggshell, and that the active principle is the smell inside. It’s some sort of gas that attacks silicon, and if the shell is broken near a supply of that element, some reaction starts that ultimately develops into a beast like that one.”
+“But he reproduces, or tries to. Before the third brick came out, there was a little rustle and out popped a whole stream of those little crystal balls. They’re his spores, or eggs, or seeds—call ’em what you want. They went bouncing by across Xanthus just as they’d bounced by us back in the Mare Chronium. I’ve a hunch how they work, too—this is for your information, Leroy. I think the crystal shell of silica is no more than a protective covering, like an eggshell, and that the active principle is the smell inside. It’s some sort of gas that attacks silicon, and if the shell is broken near a supply of that element, some reaction starts that ultimately develops into a beast like that one.”
 
-“You should try!” exclaimed the little Frenchman. “We must break one to see!”
+“You should try!” exclaimed the little Frenchman. “We must break one to see!’’
 
-“Yeah? Well, I did. I smashed a couple against the sand. Would you like to come back in about ten thousand years to see if I planted some pyramid monsters? You’d most likely be able to tell by that time!” Jarvis paused and drew a deep breath. “Lord! That queer creature! Do you picture it? Blind, deaf, nerveless, brainless—just a mechanism, and yet—immortal! Bound to go on making bricks, building pyramids, as long as silicon and oxygen exist, and even afterwards it’ll just stop. It won’t be dead. If the accidents of a million years bring it its food again, there it’ll be, ready to run again, while brains <a id="page16"></a>and civilizations are part of the past. A queer beast—yet I met a stranger one!”
+“Yeah? Well, I did. I smashed a couple against the sand. Would you like to come back in about ten thousand years to see if I planted some pyramid monsters? You’d most likely be able to tell by that time!’’ Jarvis paused and drew a deep breath. “Lord! That queer creature! Do you picture it? Blind, deaf, nerveless, brainless—just a mechanism, and yet—immortal! Bound to go on making bricks, building pyramids, as long as silicon and oxygen exist, and even afterwards it’ll just stop. It won’t be dead. If the accidents of a million years bring it its food again, there it’ll be, ready to run again, while brains <a id="page16"></a>and civilizations are part of the past. A queer beast—yet I met a stranger one!”
 
 “If you did, it must have been in your dreams!” growled Harrison.
 
-“You’re right!” said Jarvis soberly. “In a way, you’re right. The dream-beast! That’s the best name for it—and it’s the most fiendish, terrifying creation one could imagine! More dangerous than a lion, more insidious than a snake!”
+“You’re right!” said Jarvis soberly. “In a way, you’re right. The dream-beast! That's the best name for it—and it’s the most fiendish, terrifying creation one could imagine! More dangerous than a lion, more insidious than a snake!”
 
 “Tell me!” begged Leroy. “I must go see!”
 
@@ -619,15 +630,15 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “Toward mid-afternoon we came in sight of a low dark line on the horizon. I knew what it was. It was a canal; I’d crossed it in the rocket and it meant that we were just one-third of the way across Xanthus. Pleasant thought, wasn’t it? And still, I was keeping up to schedule.
 
-“We approached the canal slowly; I remembered that this one was bordered by a wide fringe of vegetation and that Mud-heap City was on it.
+“We approached the canal slowly; I remembered that this one was bordered by a wide fringe of vegetation and that Mud-heap City was on it.”
 
 “I was tired, as I said. I kept thinking of a good hot meal, and then from that I jumped to reflections of how nice and home-like even Borneo would seem after this crazy planet, and from that, to thoughts of little old New York, and then to thinking about a girl I know there—Fancy Long. Know her?”
 
-“Vision entertainer,” said Harrison. “I’ve tuned her in. Nice blonde—dances and sings on the *Yerba Mate* hour.”
+“Vision entertainer,” said Harrison. “I’ve tuned her in. Nice blonde—dances and sings on the *Yerba Mate* hour.” 
 
 “That’s her,” said Jarvis ungrammatically. “I know her pretty well—just friends, get me?—though she came down to see us off in the *Ares*. Well, I was thinking about her, feeling pretty lonesome, and all the time we were approaching that line of rubbery plants.
 
-“And then—I said, ‘What ’n Hell!’ and stared. And there she was—Fancy Long, standing plain as day under one of those crack-brained trees, and smiling and waving just the way I remembered her when we left!”
+“And then—I said, ‘What ’n hell!’ and stared. And there she was—Fancy Long, standing plain as day under one of those crack-brained trees, and smiling and waving just the way I remembered her when we left!”
 
 “Now you’re nuts, too!” observed the captain.
 
@@ -637,19 +648,19 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “Vot?” said the engineer.
 
-“She smiled and waved, and waved and smiled, and I stood there dumb as Leroy, while Tweel squeaked and chattered. I *knew* it couldn’t be real, yet—there she was!
+“She smiled and waved, and waved and smiled, and 1 stood there dumb as Leroy, while Tweel squeaked and chattered. I *knew* it couldn’t be real, yet—there she was!
 
 “Finally I said, ‘Fancy! Fancy Long!’ She just kept on smiling and waving, but looking as real as if I hadn’t left her thirty-seven million miles away.
 
-“Tweel had his glass pistol out, pointing it at her. I grabbed his arm, but he tried to push me away. He pointed at her and said, ‘No breet! No breet!’ and I understood that he meant that the Fancy Long thing wasn’t alive. Man, my head was whirling!
+“Tweel had his glass pistol out, pointing it at her. I grabbed his arm, but he tried to push me away. He pointed at her and said, ‘No breet! No breet!,’ and I understood that he meant that the Fancy Long thing wasn’t alive. Man, my head was whirling!
 
-“Still, it gave me the jitters to see him pointing his weapon at her. I don’t know why I stood there watching him take careful aim, but I did. Then he squeezed the handle of his weapon; there was a little puff of steam, and Fancy Long was gone! And in her place was one of those writhing, black, ropearmed horrors like the one I’d saved Tweel from!
+“Still, it gave me the jitters to see him pointing his weapon at her. I don’t know why I stood there watching him take careful aim, but I did. Then he squeezed the handle of his weapon; there was a little puff of steam, and Fancy Long was gone! And in her place was one of those writhing, black, rope-armed horrors like the one I’d saved Tweel from!
 
-“The dream-beast! I stood there dizzy, watching it die while Tweel trilled and whistled. Finally he touched my arm, pointed at the twisting thing, and said, ‘You one-one-two, he one-one-two.’ After he’d repeated it eight or ten times, I got it. Do any of you?” .
+“The dream-beast! I stood there dizzy, watching it die while Tweel trilled and whistled. Finally he touched my arm, pointed at the twisting thing, and said, ‘You one-one-two, he one-one-two.’ After he’d repeated it eight or ten times, I got it. Do any of you?”
 
-“*Oui!*” shrilled Leroy. “*Moi—je le comprends!* He mean you think of something, the beast he know, and you see it! *Un chien*—a hungry dog, he would see the big bone with meat! Or smell it—not?”
+*“Oui!”* shrilled Leroy. “*Moi—je le comprends!* He mean you think of something, the beast he know, and you see it! *Un chien*—a hungry dog, he would see the big bone with meat! Or smell it—not ?”
 
-“Right!” said Jarvis. “The dream-beast uses its victim’s longings and desires to trap its prey. The bird at nesting season <a id="page18"></a>would see its mate, the fox, prowling for its own prey, would see a helpless rabbit!”
+“Right!” said Jarvis. “The dream-beast uses its victim's longings and desires to trap its prey. The bird at nesting season <a id="page18"></a>would see its mate, the fox, prowling for its own prey, would see a helpless rabbit !”
 
 “How he do?” queried Leroy.
 
@@ -657,11 +668,11 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “How’d your friend know?” asked the captain abruptly.
 
-“Tweel? I wonder! Perhaps he was thinking of something that couldn’t possibly have interested me, and when I started to run, he realized that I saw something different and was warned. Or perhaps the dream-beast can Only project a single vision, and Tweel saw what I saw—or nothing. I couldn’t ask him. But it’s just another proof that his intelligence is equal to ours or greater.”
+“Tweel? I wonder! Perhaps he was thinking of something that couldn’t possibly have interested me, and when I started to run, he realized that I saw something different and was warned. Or perhaps the dream-beast can only project a single vision, and Tweel saw what I saw—or nothing. I couldn’t ask him. But it's just another proof that his intelligence is equal to ours or greater.”
 
 “He’s daffy, I tell you!” said Harrison. “What makes you think his intellect ranks with the human?”
 
-“Plenty of things! First, the pyramid-beast. He hadn’t seen one before; he said as much. Yet he recognized it as a dead-alive automaton of silicon.”
+“Plenty of things! First, the pyramid-beast. He hadn't seen one before; he said as much. Yet he recognized it as a dead-alive automaton of silicon.”
 
 “He could have heard of it,” objected Harrison. “He lives around here, you know.”
 
@@ -673,7 +684,7 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “Eh? What was that?”
 
-“Later. The point I’m making is that Tweel and his race are worthy of our friendship. Somewhere on Mars—and <a id="page19"></a>you’ll find I’m right—-is a civilization and culture equal to ours, and maybe more than equal. And communication is possible between them and us; Tweel proves that. It may take years of patient trial, for their minds are alien, but less alien than the next minds we encountered—if they *are* minds.”
+“Later. The point I’m making is that Tweel and his race are worthy of our friendship. Somewhere on Mars — and <a id="page19"></a>you’ll find I’m right—is a civilization and culture equal to ours, and maybe more than equal. And communication is possible between them and us; Tweel proves that. It may take years of patient trial, for their minds are alien, but less alien than the next minds we encountered—if they *are* minds.”
 
 “The next ones? What next ones?”
 
@@ -681,23 +692,23 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “Well,” he continued, “we left the dream-beast dying, dragging itself back into its hole, and we moved toward the canal. There was a carpet of that queer walking-grass scampering out of our way, and when we reached the bank, there was a yellow trickle of water flowing. The mound city I’d noticed from the rocket was a mile or so to the right and I was curious enough to want to take a look at it.
 
-“It had seemed deserted from my previous glimpse of it, and if any creatures were lurking in it—well, Tweel and I were both armed. And by the way, that crystal weapon of Tweel’s was an interesting device; I took a look at it after the dream-beast episode. It fired a little glass splinter, poisoned, I suppose, and I guess it held at least a hundred of ’em to a load. The propellent was steam—just plain steam!”
+“It had seemed deserted from my previous glimpse of it, and if any creatures were lurking in it—well, Tweel and I were both armed. And by the way, that crystal weapon of Tweel’s was an interesting device; I took a look at it after the dream-beast episode. It fired a little glass splinter, poisoned, I suppose, and I guess it held at least a hundred of 'em to a load. The propellent was steam — just plain steam!”
 
-“Shteam!” echoed Putz. “From vot come, shteam?”
+“Shteam!” echoed Putz. “From vot come shteam?”
 
-“From water, of course! You could see the water through the transparent handle and about a gill of another liquid, thick and yellowish. When Tweel squeezed the handle—there was no trigger—a drop of water and a drop of the yellow stuff squirted into the firing chamber, and the water vaporized—pop!—like that. It’s not so difficult; I think we could develop the same principle. Concentiated sulphuric acid will heat water almost to boiling, and so will quicklime, and there’s potassium and sodium—
+“From water, of course! You could see the water through the transparent handle, and about a gill of another liquid, thick and yellowish. When Tweel squeezed the handle—there was no trigger—a drop of water and a drop of the yellow stuff squirted into the firing chamber, and the water vaporized—pop!—like that. It's not so difficult; I think we could develop the same principle. Concentrated sulphuric acid will heat water almost to boiling, and so will quicklime, and there’s potassium and sodium—
 
-“Of course, his weapon hadn’t the range of mine, but it wasn’t so bad in this thin air, and it *did* hold as many shots as a cowboy’s gun in a Western movie. It was effective, too, at least against Martian life; I tried it out, aiming at one of <a id="page20"></a>the crazy plants, and darned if the plant didn’t wither up and fall apart! That’s why I think the glass splinters were poisoned.
+“Of course, his weapon hadn’t the range of mine, but it wasn’t so had in this thin air, and it *did* hold as many shots as a cowboy’s gun in a Western movie. It was effective, too, at least against Martian life; I tried it out, aiming at one of <a id="page20"></a>the crazy plants, and darned if the plant didn’t wither up and fall apart! That’s why I think the glass splinters were poisoned.
 
-“Anyway, we trudged along toward the mud-heap city and I began to wonder whether the city builders dug the canals. I pointed to the city and then at the canal, and Tweel said ‘No—no—no!’ and gestured toward the south. I took it to mean that some other race had created the canal system, perhaps Tweel’s people. I don’t know; maybe there’s still another intelligent race on the planet, or a dozen others. Mars is a queer little world.
+“Anyway, we trudged along toward the mud-heap city and I began to wonder whether the city builders dug the canals. I pointed to the city and then at the canal, and Tweed said ‘No—no—no!” and gestured toward the south. I took it to mean that some other race had created the canal system, perhaps Tweel’s people. I don't know; maybe there’s still another intelligent race on the planet, or a dozen others. Mars is a queer little world.”
 
 “A hundred yards from the city we crossed a sort of road—just a hard-packed mud trail, and then, all of a sudden, along came one of the mound builders!
 
-“Man, talk about fantastic beings! It looked rather like a barrel trotting along on four legs with four other arms or tentacles. It had no head, just body and members and a. row of eyes completely around it. The top end of the barrel-body was a diaphragm stretched as tight as a drum head, and that was all. It was pushing a little coppery cart and tore right past us like the proverbial bat out of Hell. It didn’t even notice us, although I thought the eyes on my side shifted a little as it passed.
+“Man, talk about fantastic beings! It looked rather like a barrel trotting along on four legs with four other arms or tentacles. It had no head, just body and members and a row of eyes completely around it. The top end of the barrel-body was a diaphragm stretched as tight as a drum head, and that was all. It was pushing a little coppery cart and tore right past us like the proverbial bat out of Hell. It didn’t even notice us, although I thought the eyes on my side shifted a little as it passed.
 
 “A moment later another came along, pushing another empty cart. Same thing—it just scooted past us. Well, I wasn’t going to be ignored by a bunch of barrels playing train, so when the third one approached, I planted myself in the way—ready to jump, of course, if the thing didn’t stop.
 
-“But it did. It stopped and set up a sort of drumming from the diaphragm on top. And I held out both hands and said, ‘We are friends!’ And what do you suppose the thing did?”
+“But it did. It stopped and set up a sort of drumming from the diaphragm on top. And I held out both hands and said mildly, ‘We are friends!’ And what do you suppose the thing did?”
 
 “Said, ‘Pleased to meet you,’ I’ll bet!” suggested Harrison.
 
@@ -705,19 +716,19 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “A minute later another one came hurrying along. This one didn’t pause, but simply drummed out, ‘We are v-r-r-riends!’ and scurried by. How did it learn the phrase? Were all of the creatures in some sort of communication with each other? Were they all parts of some central organism? I don’t know, though I think Tweel does.
 
-“Anyway, the creatures went sailing past us, every one <a id="page21"></a>greeting us with the same statement. It got to be funny, I never thought to find so many friends on this God-forsaken ball! Finally I made a puzzled gesture to Tweel; I guess he understood, for he said, ‘One-one-two—yes!—two-two-four—no I’ Get it?”
+“Anyway, the creatures went sailing past us, every one <a id="page21"></a>greeting us with the same statement. It got to be funny; I never thought to find so many friends on this God-forsaken ball! Finally I made a puzzled gesture to Tweel; I guess he understood, for he said, ‘One-one-two—yes!—two-two-four—no!’ Get it?”
 
 “Sure,—” said Harrison. “It’s a Martian nursery rhyme.”
 
-“Yeah! Well, I was getting used to Tweel’s symbolism, and I figured it out this way. ‘One-one-two—yes!’ The creatures were intelligent. ‘Two-two-four—no’! Their intelligence was not of our order, but something different and beyond the logic of two and two is four. Maybe I missed his meaning. Perhaps he meant that their minds were of low degree, able to figure out the simple things—‘One-one-two yes!’—but not more difficult things—‘Two-two-four—no!’ But I think from what we saw later that he meant the other.
+“Yeah! Well, 1 was getting used to Tweel’s symbolism, and I figured it out this way. ‘One-one-two—yes!’ The creatures were intelligent. ‘Two-two-four— no!’ Their intelligence was not of our order, but something different and beyond the logic of two and two is four. Maybe I missed his meaning. Perhaps he meant that their minds were of low degree, able to figure out the simple things—‘One-one-two—yes!’—but not more difficult things—‘Two-two-four—no!’ But I think from what we saw later that he meant the other.
 
-“After a few moments, the creatures came rushing back—first one, then another. Their pushcarts were full of stones, sand, chunks of rubbery plants, and such rubbish as that. They droned out their friendly greeting, which didn’t really sound so friendly, and dashed on. The third one I assumed to be my first acquaintance and I decided to have another chat with him. I stepped into his path again and waited.
+“After a few moments, the creatures came rushing back—first one, then another. Their pushcarts were full of stones, sand, chunks of rubbery plants, and such rubbish as that. They droned out their friendly greeting,, which didn’t really sound so friendly, and dashed on. The third one I assumed to be my first acquaintance and I decided to have another chat with him. I stepped into his path again and waited.
 
 “Up he came, booming out his ‘We are v-r-r-riends’ and stopped. I looked at him; four or five of his eyes looked at me. He tried his password again and gave a shove on his cart, but I stood firm. And then the—the dashed creature reached out one of his arms, and two finger-like nippers tweaked my nose!”
 
 “Haw!” roared Harrison. “Maybe the things have a sense of beauty!”
 
-“Laugn!” grumbled Jarvis. “I’d already had a nasty bump and a mean frostbite on that nose. Anyway, I yelled ‘Ouch!’ and jumped aside and the creature dashed away; but from then on, their greeting was ‘We are v-r-r-riends! Ouch!’ Queer beasts!
+“Laugh!” grumbled Jarvis. “I’d already had a nasty bump and a mean frostbite on that nose. Anyway, I yelled ‘Ouch!’ and jumped aside and the creature dashed away; but from then on, their greeting was ‘We are v-r-r-riends! Ouch!’ Queer beasts!
 
 “Tweel and I followed the road squarely up to the nearest mound. The creatures were coming and going, paying us not the slightest attention, fetching their loads of rubbish. The road simply dived into an opening, and slanted down like an old mine, and in and out darted the barrel-people, greeting us with their eternal phrase.
 
@@ -727,41 +738,42 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “Then I saw another light shining on something that glittered and I went on to look at that, but it was only a heap of shiny sand. I turned toward the entrance to leave, and the Devil take me if it wasn’t gone!
 
-“I suppose the corridor had curved, or I’d stepped into a side passage. Anyway, I walked back in that direction I thought we’d come, and all I saw was more dimlit corridor. The place was a labyrinth! There was nothing but twisting passages running every way, lit by occasional lights, and now and then a creature running by, sometimes with a pushcart, sometimes without.
+“I suppose the corridor had curved, or I’d stepped into a side passage. Anyway, I walked back in the direction I thought we’d come, and all I saw was more dimlit corridor. The place was a labyrinth! There was nothing but twisting passages running every way, lit by occasional lights, and now and then a creature running by, sometimes with a pushcart, sometimes without.
 
-“Well, I wasn’t much worried at first. Tweel and I had only come a few steps from the entrance. But every move we made after that seemed to get us in deeper. Finally I tried following one of the creatures with an empty cart, thinking that he’d be going out for his rubbish, hut he ran around aimlessly, into one passage and out another. When he started dashing around a pillar like one of these Japanese Waltzing mice, I gave up, dumped my water tank on the floor, and sat down.
+“Well, I wasn't much worried at first. Tweel and I had only come a few steps from the entrance. But every move we made after that seemed to get us in deeper. Finally I tried following one of the creatures with an empty cart, thinking that he’d be going out for his rubbish, but he ran around aimlessly, into one passage and out another. When he started dashing around a pillar like one of these Japanese waltzing mice, I gave up, dumped my water tank on the floor, and sat down.
 
-“Tweel was as lost as I. I pointed up and he said ‘No—no—no!’ in a sort of helpless trill. And we couldn’t get any help from the natives. They paid no attention at all, except to assure us they were friends—ouch!
+“Tweel was as lost as I. I pointed up and he said ‘No—no—no!’ in a sort of helpless trill. And we couldn’t get any help from the natives; they paid us no attention at all, except to assure us they were friends—ouch!
 
-“Lord! I don’t know how many hours or days we wandered around there! I slept twice from sheer exhaustion; Tweel never seemed to need sleep. We tried following only the upward corridors, but they’d run uphill a ways and then curve downwards. The temperature in that damned ant hill was constant; you couldn’t tell night from day and after my first sleep I didn’t know whether I’d slept one hour or thirteen, so I couldn’t tell from my watch whether it was midnight or noon.
+“Lord! I don’t know how many hours or days we wandered around there! I slept twice from sheer exhaustion;
+Tweel never seemed to need sleep. We tried following only the upward corridors, but they’d run uphill a ways and then curve downwards. The temperature in that damned ant hill was constant; you couldn’t tell night from day and after my first sleep I didn’t know whether I'd slept one hour or thirteen, so I couldn't tell from my watch whether it was midnight or noon.
 
 <a id="page23"></a>“We saw plenty of strange things. There were machines running in some of the corridors, but they didn’t seem to be doing anything—just wheels turning. And several times I saw two barrel-beasts with a little one growing between them, joined to both.”
 
-“Parthenogenesis!” exulted Leroy. “Parthenogenesis by budding like *les tulipes!*”
+“Parthenogenesis!” exulted Leroy. “Parthenogenesis by budding—like *les tulipes!*”
 
 “If you say so, Frenchy,” agreed Jarvis. “The things never noticed us at all, except, as I say, to greet us with ‘We are v-r-r-riends! Ouch!’ They seemed to have no home-life of any sort, but just scurried around with their pushcarts, bringing in rubbish. And finally I discovered what they did with it.
 
 “We’d had a little luck with a corridor, one that slanted upwards for a great distance. I was feeling that we ought to be close to the surface when suddenly the passage debouched into a domed chamber, the only one we’d seen. And man!—I felt like dancing when I saw what looked like daylight through a crevice in the roof.
 
-“There was a—a sort of machine in the chamber, just an enormous wheel that turned slowly, and one of the creatures was in the act of dumping his rubbish below it. The wheel ground it with a crunch—sand, stones, plants, all into powder that sifted away somewhere. While we watched, others filed in, repeating the process, and that seemed to be all. No rhyme nor reason to the whole thing—but that’s characteristic of this crazy planet. And there was another fact that’s almost too bizarre to believe.
+“There was a—a sort of machine in the chamber, just an enormous wheel that turned slowly, and one of the creatures was in the act of dumping his rubbish below it. The wheel ground it with a crunch —sand, stones, plants, all into powder that sifted away somewhere. While we watched, others filed in, repeating the process, and that seemed to be all. No rhyme nor reason to the whole thing— but that’s characteristic of this crazy planet. And there was another fact that's almost too bizarre to believe.
 
-“One of the creatures, having dumped his load, pushed his cart aside with a crash and calmly shoved himself under the wheel! I watched him being crushed, too stupefied to make a sound, and a moment later, another followed him! They were perfectly methodical about it, too; one of the cartless creatures took the abandoned pushcart.
+“One of the creatures, having dumped his load, pushed his cart aside with a crash and calmly shoved himself under the wheel! I watched him crushed, too stupefied to make a sound, and a moment later, another followed him! They were perfectly methodical about it, too; one of the cartless creatures took the abandoned pushcart.
 
 “Tweel didn’t seem surprised; I pointed out the next suicide to him, and he just gave the most human-like shrug imaginable, as much as to say, ‘What can I do about it?’ He must have known more or less about these creatures.
 
-“Then I saw something else. There was something beyond the wheel, something shining on a sort of low pedestal. I walked over; there was a little crystal about the size of an egg, fluorescing to beat Tophet. The light from it stung my hands and face, almost like a static discharge, and then I <a id="page24"></a>noticed another funny thing. Rember that wart I had on my left thumb? Look!” Jarvis extended his hand. “It dried up and fell off—just like that! And my abused nose—say, the pain went out of it like magic! The thing had the property of hard x-rays or gamma radiations, only more so; it destroyed diseased tissue and left healthy tissue unharmed!
+“Then I saw something else. There was something beyond the wheel, something shining on a sort of low pedestal. I walked over; there was a little crystal about the size of an egg, fluorescing to beat Tophet. The light from it stung my hands and face, almost like a static discharge, and then I <a id="page24"></a>noticed another funny thing. Remember that wart I had on my left thumb ? Look!” Jarvis extended his hand. “It dried up and fell off—just like that! And my abused nose—say, the pain went out of it like magic! The thing had the property of hard X-rays Or gamma radiations, only more so; it destroyed diseased tissue and left healthy tissue unharmed!
 
 “I was thinking what a present *that’d* be to take back to Mother Earth when a lot of racket interrupted. We dashed back to the other side of the wheel in time to see one of the pushcarts ground up. Some suicide had been careless, it seems.
 
-“Then suddenly the creatures were booming and drumming all around us and their noise was decidedly menacing. A crowd of them advanced toward us; we backed out of what I thought was the passage we’d entered by, and they came rumbling after us, some pushing carts and some not. Crazy brutes! There was a whole chorus of ‘We are v-r-r-riends! Ouch!’ I didn’t like the ‘ouch’; it was rather. suggestive.
+“Then suddenly the creatures were booming and drumming all around us and their noise was decidedly menacing. A crowd of them advanced toward us; we backed out of what I thought was the passage we’d entered by, and they came rumbling after us, some pushing carts and some not. Crazy brutes! There was a whole chorus of ‘We are v-r-r-riends! Ouch!’ I didn’t like the ‘ouch’; it was rather suggestive.
 
 “Tweel had his glass gun out and I dumped my water tank for greater freedom and got mine. We backed up the corridor with the barrel-beasts following—about twenty of them. Queer thing—the ones coming in with loaded carts moved past us inches away without a sign.
 
-“Tweel must have noticed that. Suddenly, he snatched out that glowing coal cigar-lighter of his and touched a cart-load of plant limbs. Puff! The whole load was burning—and the crazy beast pushing it went right along without a change of pace! It created some disturbance among our ‘V-r-n-riends,’ however—and then I noticed the smoke eddying and swirling past us, and sure enough, there was the entrance!
+“Tweel must have noticed that. Suddenly, he snatched out that glowing coal cigar-lighter of his and touched a cart-load of plant limbs. Puff! The whole load was burning—and the crazy beast pushing it went right along without a change of pace! It created some disturbance among our ‘V-r-r-riends,’ however—and then I noticed the smoke eddying and swirling past us, and sure enough, there was the entrance!
 
 “I grabbed Tweel and out we dashed and after us our twenty pursuers. The daylight felt like Heaven, though I saw at first glance that the sun was all but set, and that was bad, since I couldn’t live outside my thermo-skin bag in a Martian night—at least, without a fire.
 
-“And things got worse in a hurry. They cornered us in an angle between two mounds, and there we stood. I hadn’t fired nor had Tweel; there wasn’t any use in irritating the brutes. They stopped a little distance away and began their booming about friendship and ouches.
+“And things got worse in a hurry. They cornered us in an angle between two mounds, and there we stood. 1 hadn’t fired nor had Tweel; there wasn’t any use in irritating the brutes. They stopped a little distance away and began their booming about friendship and ouches.
 
 “Then things got still worse! A barrel-brute came out with a pushcart and they all grabbed into it and came out with <a id="page25"></a>handfuls of foot-long copper darts—sharp-looking ones—and all of a sudden one sailed past my ear—zing! And it was shoot or die then.
 
@@ -769,24 +781,25 @@ Tweel saw the movement first. The top tiers of bricks were <a id="page14"></a>he
 
 “Man! We were through and I knew it! Then I realized that Tweel wasn’t. He could have leaped the mound behind us as easily as not. He was staying for me!
 
-“Say, I could have cried if there’d been time! I’d liked Tweel from the first, but whether I’d have had gratitude to do what he was doing—suppose I had saved him from the first dream-beast—he’d done as much for me, hadn’t he? I grabbed his arm, and said ‘Tweel,’ and pointed up, and he understood. He said, ‘No—no—no, Tick!’ and popped away w>th his glass pistol.
+“Say, I could have cried if there’d been time! I’d liked Tweel from the first, but whether I’d have had gratitude to do what he was doing—suppose I *had* saved him from the first dream-beast—he’d done as much for me, hadn’t he? I grabbed his arm, and said ‘Tweel,’ and pointed up, and he understood. He said, ‘No—no—no, Tick!’ and popped away with his glass pistol.
 
-“What could I do? I’d be a goner anyway when the sun set, but I couldn’t explain that to him. I said, ‘Thanks, Tweel. You’re a man!’ and felt that I wasn’t paying him any compliment at all. A man! There are mighty few men who’d do that.
+“What could I do? I'd be a goner anyway when the sun set, but I couldn’t explain that to him. I said, ‘Thanks, Tweel. You’re a man!’ and felt that I wasn’t paying him any compliment at all. A man! There are mighty few men who’d do that.
 
 “So I went ‘bang’ with my gun and Tweel went ‘puff’ with his, and the barrels were throwing darts and getting ready to rush us, and booming about being friends. I had given up hope. Then suddenly an angel dropped right down from Heaven in the shape of Putz, with his under-jets blasting the barrels into very small pieces!
 
 “Wow! I let out a yell and dashed for the rocket; Putz opened the door and in I went, laughing and crying and shouting! It was a moment or so before I remembered Tweel; I looked around in time to see him rising in one of his nosedives over the mound and away.
 
-“I had a devil of a job arguing Putz into following! By the time we got the rocket aloft, darkness was down; you know how it comes here—like turning off a light. We sailed out over the desert and put down once or twice. I yelled ‘Tweel!’ and yelled it a hundred times, I guess. We couldn’t find him; he could travel like the wind and all I got—or else I imagined it—was a faint trilling and twittering drifting out of the south. He’d gone, and damn it! I wish—I wish he hadn’t!”
+“I had a devil of a job arguing Putz into following! By the time we got the rocket aloft, darkness was down; you know how it comes here—like turning off a light. We sailed out over the desert and put down once or twice. I yelled ‘Tweel!’ and yelled it a hundred times, I guess. We couldn’t find him; he could travel like the wind and all I got—or else I imagined it—was a faint trilling twittering drifting out of the south. He’d gone, and damn it! I wish—I wish he hadn’t!”
 
-.space
 <a id="page26"></a>The four men of the *Ares* were silent—even the sardonic Harrison. At last little Leroy broke the stillness.
 
 “I should like to see,” he murmured.
 
 “Yeah,” said Harrison. “And the wart-cure. Too bad you missed that; it might be the cancer cure they’ve been hunting for a century and a half.”
 
-“Oh, that!” muttered Jarvis gloomily. “That’s what started the fight!” He drew a glistening object from his pocket. “Here it is.”
+“Oh, that!” muttered Jarvis gloomily. “That’s what started the fight!” He drew a glistening object from his pocket.
+
+“Here it is.”
 
 ---
 
@@ -795,33 +808,36 @@ valley_of_dreams
 # <a id="page27"></a>VALLEY OF DREAMS
 
 .fl
-<span class="smallcaps">Captain Harrison of</span> the *Ares* expedition turned away from the little telescope in the bow of the rocket. “Two weeks more, at the most,” he remarked. “Mars only retogrades for seventy days in all, relative to the earth, and we’ve got to be homeward bound during that period, or wait a year and a half for old Mother Earth to go around the sun and catch up with us again. How’d you like to spend a winter here?” Dick Jarvis, chemist of the party, shivered as he looked up from his notebook. “I’d just as soon spend it in a liquid air tank!” he averred. ‘These eighty-below-zero summer nights are plenty for me.”
+<span class="smallcaps">Captain Harrison of</span> the *Ares* expedition turned away from the little telescope in the bow of the rocket. “Two weeks more, at the most,” he remarked. “Mars only retogrades for seventy days in all, relative to the earth, and we’ve got to be homeward bound during that period, or wait a year and a half for old Mother Earth to go around the sun and catch up with us again. How’d you like to spend a winter here?”
 
-“Well,” mused the captain, “the first successful Martian expedition ought to be home long before then.”
+Dick Jarvis, chemist of the party, shivered as he looked up from his notebook. “I'd just as soon spend it in a liquid air tank!” he averred. “These eighty-be-low-zero summer nights are plenty for me.”
 
-“Successful if we get home,” corrected Jarvis. “I don’t trust these cranky rockets—not since the auxiliary dumped me in the middle of Thyle last week. Walking back from a rocket ride is a new sensation to me.”
+“Well,” mused the captain, “the first successful Mars expedition ought to be home long before then.”
 
-“Which reminds me,” returned Harrison, “that we’ve got to recover your films. They’re important if we’re to pull this trip out of the red. Remember how the public mobbed the first moon picutres? Our shots ought to pack ’em to the doors. And the broadcast rights, too; we might show a profit for the Academy.”
+“Successful if we get home,” corrected Jarvis. “I don't trust these cranky rockets—not since the auxiliary dumped me in the middle of Thyle last week. Walking back from a rocket ride is a new sensation to me.”
 
-“What interests me,” countered Jarvis, “is a personal profit. A book, for instance; exploration books are always popular. *Martian Deserts*—how’s that for a title?”
+“Which reminds me,” returned Harrison, “that we've got to recover your films. They're important if we’re to pull this trip out of the red. Remember how the public mobbed the first moon pictures? Our shots ought to pack ’em to the doors. And the broadcast rights, too; we might Show a profit for the Academy.”
 
-“Lousy!” grunted the captain. “Sounds like a cook-book for desserts. You’d have to call it ‘Love Life of a Martian,’ or something like that.”
+“What interests me,” countered Jarvis, “is personal profit. A book, for instance; exploration books are always popular. *Martian Deserts*—how’s that for a title?”
 
-Jarvis chuckled. “Anyway,” he said, “if we once get back home, I’m going to grab what profit there is, and never, never, get any farther from the earth than a good stratosphere plane’ll take me. I’ve learned to appreciate the planet after plowing over this dried-up pill we’re on now.”
+“Lousy!” grunted the captain. “Sounds like a cook-book for desserts. You'd 
+have to call it ‘Love Life of a Martian,’ or something like that.”
+
+Jarvis chuckled. “Anyway,” he said, “if we once get back home, I'm going to grab what profit there is, and never, never, get any farther from the earth than a good stratosphere plane'll take me. I’ve learned to appreciate the planet after plowing over this dried-up pill we're on now.”
 
 <a id="page28"></a>“I’ll lay you odds you’ll be back here year after next,” grinned the Captain. “You’ll want to visit your pal—that trick ostrich.”
 
-“Tweel?” The other’s tone sobered. “I wish I hadn’t lost him, at that. He was a good scout. I’d never have survived the dream-beast but for him. And that battle with the pushcart things—I never even had a chance to thank him.”
+“Tweel?” The other’s tone sobered. “I wish I hadn’t lost him, at that. He was a good scout. I’d never have survived the dream-beast but for him. And that battle with the push-cart things—I never even had a chance to thank him.”
 
 “A pair of lunatics, you two,” observed Harrison. He squinted through the port at the gray gloom of the Mare Cimmerium. “There comes the sun.” He paused. “Listen, Dick—you and Leroy take the other auxiliary rocket and go out and salvage those films.”
 
 Jarvis stared. “Me and Leroy?” he echoed ungrammatically. “Why not me and Putz? An engineer would have some chance of getting us there and back if the rocket goes bad on us.”
 
-The captain nodded toward the stem, whence issued at that moment a medley of blows and guttural expletives. “Putz is going over the insides of the *Ares*,” he announced. “He’ll have his hands full until we leave, because I want every bolt inspected. It’s too late for repairs once we cast off.”
+The captain nodded toward the stern, whence issued at that moment a medley of blows and guttural expletives. “Putz is going over the insides of the *Ares,*” he announced. “He’ll have his hands full until we leave, because I want every bolt inspected. It’s too late for repairs once we cast off.”
 
 “And if Leroy and I crack up? That’s our last auxiliary.”
 
-“Pick up another ostrich and walk back,” suggested Harrison gruffly. Then he smiled. “If you have trouble, we’ll hunt you out in the *Ares*,” he finished. “Those films are important.” He turned. “Leroy!”
+“Pick up another ostrich and walk back,” suggested Harrison gruffly. Then he smiled. “If you have trouble, we’ll hunt you out in the *Ares,*” he finished. “Those films are important.” He turned. “Leroy!”
 
 The dapper little biologist appeared, his face questioning.
 
@@ -831,21 +847,21 @@ Leroy’s eyes glistened. “Perhaps we land for specimens—no?” he queried.
 
 “Land if you want to. This golf ball seems safe enough.”
 
-“Except for the dream-beast,” muttered Jarvis with a faint shudder. He frowned suddenly. “Say, as long as we’re going that way, suppose I have a look for Tweel’s home! He must live off there somewhere, and he’s the most important thing we’ve seen on Mars.”
+“Except for the dream-beast,’’ muttered Jarvis with a faint shudder. He frowned suddenly. “Say, as long as we’re going that way; suppose I have a look for Tweel’s home! He must live off there somewhere, and he’s the most important thing we’ve seen on Mars.”
 
-Harrison hesitated. “If I thought you could keep out of trouble.” he muttered. “All right,” he decided. “Have a look. There’s food and water aboard the auxiliary; you can take a couple of days. But keep in touch with me, you saps!”
+Harrison hesitated. “If I thought you could keep out of trouble,” he muttered. “All right,” he decided! “Have a look. There’s food and water aboard the auxiliary; you can take a couple of days. But keep in touch, with me, you saps!”
 
-<a id="page29"></a>Jarvis and Leroy went through the airlock out to the grey plain. The thin air, still scarcely warmed by the rising sun, bit flesh and lung like needles, and they gasped with a sense of suffocation. They dropped to a sitting posture, waiting for their bodies, trained by months in acclimatization chambers back on earth, to accommodate themselves to the tenuous air. Leroy’s face, as always, turned a smothered blue, and Jarvis heard his own breath rasping and rattling in his throat. But in five minutes, the discomfort passed; they rose and entered the little auxiliary rocket that rested beside the black hull of the *Ares*.
+<a id="page29"></a>Jarvis and Leroy went through the airlock out to the grey plain. The thin air, still scarcely warmed by the rising sun, bit flesh and lungs like needles, and they gasped with a sense of suffocation. They dropped to a sitting posture, waiting for their bodies, trained by months in acclimatization chambers back on earth, to accommodate themselves to the tenuous air. Leroy’s face, as always, turned a smothered blue, and Jarvis heard his own breath rasping and rattling in his throat. But in five minutes, the discomfort passed; they rose and entered the little auxiliary rocket that rested beside the black hull of the *Ares*.
 
 The under-jets roared out their fiery atomic blast; dirt and bits of shattered biopods spun away in a cloud as the rocket rose. Harrison watched the projectile trail its flaming way into the south, then turned back to his work.
 
-It was four days before be saw the rocket again. Just at evening, as the sun dropped behind the horizon with the suddenness of a candle falling into the sea, the auxiliary flashed out of the southern heavens, easing gently down on the flaming wings of the under-jets. Jarvis and Leroy emerged, passed through the swiftly gathering dusk, and faced him in the light of the *Ares*. He surveyed the two; Jarvis was tattered and scratched, but apparently in better condition than Leroy, whose dappemess was completely lost. The little biologist was pale as the nearer moon that glowed outside; one arm was bandaged in thermo-skin and his clothes hung in veritable rags. But it was his eyes that struck Harrison most strangely; to one who lived these many weary days with the diminutive Frenchman, there was something queer about them. They were frightened, plainly enough, and that was odd, since Leroy was no coward or he’d never have been one of the four chosen by the Academy for the first Martian expedition. But the fear in his eyes was more understandable than that other expression, that queer fixity of gaze like one in a trance, or like a person in an ecstasy. “Like a chap who’s seen Heaven and Hell together,” Harrison expressed it to himself. He was yet to discover how right he was.
+It was four days before he saw the rocket again. Just at evening, as the sun dropped behind the horizon with the suddenness of a candle falling into the sea, the auxiliary flashed out of the southern heavens, easing gently down on the flaming wings of the under-jets. Jarvis and Leroy emerged, passed through the swiftly gathering dusk, and faced him in the light of the *Ares*. He surveyed the two; Jarvis was tattered and scratched, but apparently in better condition than Leroy, whose dapperness was completely lost. The little biologist was pale as the nearer moon that glowed outside; one arm was bandaged in thermo-skin arrd his clothes hung in veritable rags. But it was his eyes that struck Harrison most strangely; to one who had lived these many weary days with the diminutive Frenchman, there was something queer about them. They were frightened, plainly enough, and that was odd, since Leroy was no coward or he’d never have been one of the four chosen by the Academy for the first Martian expedition. But the fear in his eyes was more understandable than that other expression, that queer fixity of gaze like one in a trance, or like a person in an ecstasy. “Like a chap who’s seen Heaven and Hell together,” Harrison expressed it to himself. He was yet to discover how right he was.
 
-He assumed a gruffness as the weary pair sat down. “You’re a fine looking couple!” he growled. “I should’ve known better than to let you wander off alone.” He paused. “Is your arm all. right, Leroy? Need any treatment?”
+He assumed a gruffness as the weary pair sat down. “You’re a fine looking couple!” he growled. “I should’ve known better than to let you wander off alone.” He paused. “Is your arm all right, Leroy? Need any treatment?”
 
-<a id="page30"></a>Jarvis answered. “It’s all right—just gashed. No danger of infection here, I guess; Leroy says there aren’t any mi-robes on Mars.”
+<a id="page30"></a>Jarvis answered. “It’s all right—just gashed. No danger of infection here, I guess; Leroy says there aren’t any microbes on Mars.”
 
-“Well,” exploded the Captain, “Let’s hear it, then! Your radio reports sounded screwy. ‘Escaped from Paradisel’ Huh!”
+“Well,” exploded the Captain, “let’s hear it, then! Your radio reports sounded screwy. ‘Escaped from Paradise!’ Huh!”
 
 “I didn’t want to give details on the radio,” said Jarvis soberly. “You’d have thought we’d gone loony.”
 
@@ -853,31 +869,33 @@ He assumed a gruffness as the weary pair sat down. “You’re a fine looking co
 
 *“Moi aussi!”* muttered Leroy. “I too!”
 
-“Shall I begin at the beginning?” queried the chemist. “Our early reports were pretty nearly complete.” He stared at Putz, who had come in silently, his face and hands blackened with carbon, and seated himself beside Harrison. “At the beginning,” the Captain decided.
+“Shall I begin at the beginning?” queried the chemist. “Our early reports were pretty near complete.” He stared at Putz, who had come in silently, his face and hands blackened with carbon, and seated himself beside Harrison.
+
+“At the beginning,” the Captain decided.
 
 “Well,” began Jarvis, “we got started all right, and flew due south along the meridian of the *Ares*, same course I’d followed last week. I was getting used to this narrow horizon, so I didn’t feel so much like being cooped under a big bowl, but one does keep overestimating distances. Something four miles away looks eight when you’re used to terrestrial curvature, and that makes you guess its size just four times too large. A little hill looks like a mountain until you’re almost over it.”
 
 “I know that,” grunted Harrison.
 
-“Yes, .but Leroy didn’t, and I spent our first couple of hours trying to explain it to him. By the time he understood (if he does yet) we were past Cimmerium and over that Xanthus desert, and then we crossed the canal with the mud city and the barrel-shaped citizens and the place where Tweel had shot the dream-beast. And nothing would do for Pierre here but that we put down so he could practice his biology on the remains. So we did.
+“Yes, but Leroy didn’t, and I spent our first couple of hours trying to explain it to him. By the time he understood (if he does yet) we were past Cimmerium and over that Xanthus desert, and then we crossed the canal with the mud city and the barrel-shaped citizens and the place where Tweel had shot the dream-beast. And nothing would do for Pierre here but that we put down so he could practice his biology on the remains. So we did.
 
 “The thing was still there. No sign of decay; couldn’t be, of course, without bacterial forms of life, and Leroy says that Mars is as sterile as an operating table.”
 
 *“Comme le coeur d’une fileuse,”* corrected the little biologist, who was beginning to regain a trace of his usual energy. “Like an old maid’s heart!”
 
-“However,” resumed Jarvis, “about a hundred of the little grey-green biopods had fastened onto the thing and were growing and branching. Leroy found a stick and knocked <a id="page31"></a>’em off, and each branch broke away and became a biopod crawling around with the others. So he poked around at the creature, while I looked away from it; even dead, that ropearmed devil gave me the creeps. And then came the surprise; the thing was part plant!”
+“However,” resumed Jarvis, “about a hundred of the little grey-green biopods had fastened onto the thing and were growing and branching. Leroy found a stick and knocked <a id="page31"></a>’em off, and each branch broke away and became a biopod crawling around with the others. So he poked around at the creature, while I looked away from it; even dead, that rope-armed devil gave me the creeps. And then came the surprise; the thing was part plant!”
 
-*”C’est vrai!”* confirmed the biologist. “It’s true!”
+*“C’est vrai!”* confirmed the biologist. “It’s true!”
 
-“It was a big cousin of the biopods,” continued Jarvis. “Leroy was quite excited; he figures that all Martian life is of that sort—neither plant nor animal. Life here never differentiated, he says; everything has both natures in it, even the barrel-creatures—even Tweel! I think he’s right, especially when I recall how Tweel rested, sticking his beak in the ground and staying that way all night. I never saw him eat or drink, either; perhaps his beak was more in the nature of a root, and he got his nourishment that way.”
+“It was a big cousin of the biopods,” continued Jarvis. “Leroy was quite excited ; he figures that all Martian life is of that sort—neither plant nor animal. Life here never differentiated, he says; everything has both natures in it, even the barrel-creatures—even Tweel! I think he’s right, especially when I recall how Tweel rested, sticking his beak in the ground and staying that way all night. I never saw him eat or drink, either; perhaps his beak was more in the nature of a root, and he got his nourishment that way.”
 
 “Sounds nutty to me,” observed Harrison.
 
 “Well,” continued Jarvis, “we broke up a few of the other growths and they acted the same way—the pieces crawled around, only much slower than the biopods, and then stuck themselves in the ground. Then Leroy had to catch a sample of the walking grass, and we were ready to leave when a parade of the barrel creatures rushed by with their pushcarts. They hadn’t forgotten me, either; they all drummed out, ‘We are v-r-r-iends—ouch!’ just as they had before. Leroy wanted to shoot one and cut it up, but I remembered the battle Tweel and I had had with them, and vetoed the idea. But he did hit on a possible explanation as to what they did with all the rubbish they gathered.”
 
-“Made mud-pies, I guess,” grunted the eaptain.
+“Made mud-pies, I guess,” grunted the captain.
 
-“More or less,” agreed Jarvis. “They use it for food, Leroy thinks. If they’re part vegetable, you see, that’s what they’d want—scil with organic remains in it to make it fertile. That’s why they ground up sand and biopods and other growths all together. See?”
+“More or less,” agreed Jarvis. “They use it for food, Leroy thinks. If they’re part vegetable, you see, that’s what they’d want—soil with organic remains in it to make it fertile. That’s why they ground up sand and biopods and other growths all together. See?”
 
 “Dimly,” countered Harrison. “How about the suicides?”
 
@@ -889,25 +907,25 @@ He assumed a gruffness as the weary pair sat down. “You’re a fine looking co
 
 “So are men,” observed the captain, “if it comes to that.”
 
-“Yes, but men aren’t exactly eager. It takes some emotion like patriotism to work ’em to the point of dying for their country; these things do it all in the day’s work.” He paused.
+“Yes, but men aren’t exactly eager. It takes some emotion like patriotism to work ’em up to the point of dying for their country; these things do it all in the day’s work.” He paused.
 
-“Well, we took some pictures of the dream-beast and the barrel-creatures, and then we started along. We sailed over Xanthus, keeping as close to the meridian of the *Ares* as we could, and pretty soon we crossed the trail of the pyramid-builder. So we circled back to let Leroy take a look at it, and when we found it, we landed. The thing had completed just two rows of bricks since Tweel and I left it, and there it was breathing in silicon and breathing out bricks as if it had eternity to do it in—which it has. Leroy wanted to dissect it with a Boland explosive bullet, but I thought that anything tha had lived for ten million years was entitled to the respect due to old age, so I talked him out of it. He peeped into the hole on top of it and nearly got beaned by the arm coming up with a brick, and then he chipped off a few pieces of it which didn’t disturb the creature a bit. He found the place I’d chipped, tried to see if there was any sign of healing, and decided he could tell better in two or three thousand years. So we took a few shots of it and sailed on.
+“Well, we took some pictures of the dream-beast and the barrel-creatures, and then we started along. We sailed over Xanthus. keeping as close to the meridian of the *Ares* as we could, and pretty soon we crossed the trail of the pyramid-builder. So we circled back to let Leroy take a look at it, and when we found it, we landed. The thing had completed just two rows of bricks since Tweel and I left it, and there it was, breathing in silicon and breathing out bricks as if it had eternity to do it in—which it has. Leroy wanted to dissect it with a Boland explosive bullet, but I thought that anything that had lived for ten millions years was entitled to the respect due old age, so I talked him out of it. He peeped into the hole on top of it and nearly got beaned by the arm coming up for a brick, and then he chipped off a few pieces of it, which didn’t disturb the creature a bit. He found the place I’d chipped, tried to see if there was any sign of healing, and decided he could tell better in two or three thousand years. So we took a few shots of it and sailed on.
 
-“Mid-afternoon we located the wreck of my rocket. Not a thing disturbed; we picked up my films and tried to decide what next. I wanted to find Tweel if possible; I figured from the fact of his pointing south that he lived somewhere near Thyle. We plotted our route and judged that the desert we were in now was Thyle II; Thyle I should be east of us. So on a hunch, we decided to have a look at Thyle I, and away we buzzed.”
+“Mid afternoon we located the wreck of my rocket. Not a thing disturbed; we picked up my films and tried to decide what next. I wanted to find Tweel if possible; I figured from the fact of his pointing south that he lived somewhere near Thyle. We plotted our route and judged that the desert we were in now was Thyle II; Thyle I should be east of us. So, on a hunch, we decided to have a look at Thyle I, and away we buzzed.”
 
 “*Der* motors?” queried Putz, breaking his long silence.
 
-“For a wonder, we had no trouble, Karl. Your blast worked perfectly. So we hummed along, pretty high to get a wider view, I’d say about fifty thousand feet. Thyle II spread out like an orange carpet, and after a while we came to the grey branch of the Mare Chronium that bounded it. That was narrow; we crossed it in half an hour, and there was Thyle I—same orange-hued desert as its mate. We veered south, <a id="page33"></a>toward the Mare Australe, and followed the edge of the desert. And toward sunset we spotted it.”
+“For a wonder, we had no trouble, Karl. Your blast worked perfectly. So we hummed along, pretty high up to get a wider view, I’d say about fifty thousand feet. Thyle II spread out like an orange carpet, and after a while we came to the grey branch of the Mare Chronium that bounded it. That was narrow; we crossed it in half an hour, and there was Thyle I—same orange-hued desert as its mate. We veered south, <a id="page33"></a>toward the Mare Australe, and followed the edge of the desert. And toward sunset we spotted it.”
 
 “Shpotted?” echoed Putz. “Vot vas shpotted?”
 
 “The desert was spotted—with buildings! Not one of the mud cities of the canals, although a canal went through it. From the map we figured the canal was a continuation of the one Schiaparelli called Ascanius.
 
-“We were probably too high to be visible to any inhabitants of the city, but also too high for a good look at it, even with the glasses. However, it was nearly sunset, anyway, so we didn’t plan on dropping in. We circled the place; the canal went out into the Mare Australe, and there, glittering in the south, was the melting polar ice-cap! The canal drained it; we could distinguish the sparkle of water in it. Off to the southeast, just at the edge of the Mare Australe, was a valley—the first irregularity I’d seen on Mars except the cliffs that bounded Xanthus and Thyle II. We flew over the valley—” Jarvis paused suddenly and shuddered; Leroy, whose color had begun to return, seemed to pale. The chemist resumed, “Well, the valley looked all right—then! Just a gray waste, probably full of crawlers like the others.
+“We were probably too high to be visible to any inhabitants of the city, but also too high for a good look at it, even with the glasses. However, it was nearly sunset, anyway, so we didn’t plan on dropping in. We circled the place; the canal went out into the Mare Australe, and there, glittering in the south, was the melting polar ice-cap! The canal drained it; we could distinguish the sparkle of water in it. Off to the southeast, just at the edge of the Mare Australe, was a valley—the first irregularity I’d seen on Mars except the cliffs that bounded Xanthus and Thyle II. We flew over that valley—” Jarvis paused suddenly, and shuddered; Leroy, whose color had begun to return, seemed to pale. The chemist resumed, “Well, the valley looked all right—then! Just a gray waste, probably full of crawlers like the others.
 
 “We circled back over the city; say, I want to tell you that place was—well, gigantic! It was colossal; at first I thought the size was due to that illusion I spoke of—you know, the nearness of the horizon—but it wasn’t that. We sailed right over it, and you’ve never seen anything like it!
 
-“But the sun dropped out of sight right then. I knew we were pretty far south—latitude 60—but I didn’t know just how much night we’d have.”
+“But the sun dropped out of sight right then. I knew we were pretty far south— latitude 60—but I didn’t know just how much night we’d have.”
 
 Harrison glanced at a Schiaparelli chart. “About 60—eh?” he said. “Close to what corresponds to the Antarctic circle. You’d have about four hours of night at this season. Three months from now you’d have none at all.”
 
@@ -917,115 +935,103 @@ Harrison glanced at a Schiaparelli chart. “About 60—eh?” he said. “Close
 
 <a id="page34"></a>“We sailed toward it from the east and it loomed up ahead of us like a range of mountains. Lord, what a city! Not that New York mightn’t have higher buildings, or Chicago cover more ground, but for sheer mass, those structures were in a class by themselves. Gargantuan!
 
-“There was a queer look about the place, though. You know how a terrestrial city sprawls out, a nimbus of suburbs a ring of residential sections, factory districts, parks, highways. There was none of that here; the city rose out of the desert as abruptly as a cliff. Only a few little sand mound marked the division, and then the walls of those gigantic structures.
+“There was a queer look about the place, though. You know how a terrestrial city sprawls out, a nimbus of suburbs, a ring of residential sections, factory districts, parks, highways. There was none of that here; the city rose out of the desert as abruptly as a cliff. Only a few little sand mounds marked the division, and then the walls of those gigantic structures.
 
-“The architecture was strange, too. There were lots of devices that are impossible back home, such as set-backs in reverse, so that a building with a small base could spread out as it rose. That would be a valuable trick in New York, when land is almost priceless, but to do it, you’d have to transfer Martian gravitation there!
+“The architecture was strange, too. There were lots of devices that are impossible back home, such as set-backs in reverse, so that a building with a small base could spread out as it rose. That would be a valuable trick in New York, where land is almost priceless, but to do it, you’d have to transfer Martian gravitation there!
 
-“Well, since you can’t very well land a rocket in a city street, we put down right next to the canal side of the city took our small cameras and revolvers, and started for a gap in the wall of masonry. We weren’t ten feet from the rocket when we both saw the explanation for a lot of the queerness.
+“Well, since you can’t very well land a rocket in a city street, we put down right next to the canal side of the city, took our small cameras and revolvers, and started for a gap in the wall of masonry. We weren’t ten feet from the rocket when we both saw the explanation for a lot of the queerness.
 
-“The city was in ruin! Abandoned, deserted, dead as Babylon! Or at least, so it looked to us then, with its empty streets which, if they *had* been paved, were now deep under sand.”
+“The city was in ruin !—abandoned, deserted, dead as Babylon! Or at least, so it looked to us then, with its empty streets which, if they *had* been paved, were now deep under sand.”
 
-“A ruin, eh?” commented Harrison. “How old?”
+“A ruin, eh?” commented Harrison. “How old ?”
 
 “How could we tell?” countered Jarvis. “The next expedition to this golf ball ought to carry an archeologist—and a philologist, too, as we found out later. But it’s a devil of a job to estimate the age of anything here; things weather so slowly that most of the buildings might have been put up yesterday. No rainfall, no earthquakes, no vegetation is here to spread cracks with its roots—nothing. The only aging factors here are the erosion of the wind—and that’s negligible in this atmosphere—and the cracks caused by changing temperature. And one other agent—meteorites. They must crash down occasionally on the city, judging from the thinness of the air, and the fact that we’ve seen four strike ground right here near the *Ares*.”
 
-“Seven,” corrected the captain. “Three dropped while you were gone.”
+<a id="page35"></a>“Seven,” corrected the captain. “Three dropped while you were gone.”
 
 “Well, damage by meteorites must be slow, anyway. Big ones would be as rare here as on earth, because big ones get through in spite of the atmosphere, and those buildings could sustain a lot of little ones. My guess at the city’s age—and it may be wrong by a big percentage—would be fifteen thousand years. Even that’s thousands of years older than any human civilization; fifteen thousand years ago was the Late Stone Age in the history of mankind.
 
 “So Leroy and I crept up to those tremendous buildings feeling like pygmies, sort of awe-struck, and talking in whispers. I tell you, it was ghostly walking down that dead and deserted street, and every time we passed through a shadow, we shivered, and not just because shadows are cold on Mars. We felt like intruders, as if the great race that had built the place might resent our presence even across a hundred and fifty centuries. The place was as quiet as a grave, but we kept imagining things and peeping down the dark lanes between buildings and looking over our shoulders. Most of the structures were windowless, but when we did see an opening in those vast walls, we couldn’t look away, expecting to see some horror peering out of it.
 
-“Then we passed an edifice with an open arch; the doors were there, but blocked open by sand. I got up nerve enough to take a look inside, and then, of course, we discovered we’d forgotten to take our flashes. But we eased a few feet into the darkness and the passage debouched into a colossal hall. Far above us a little crack let in a pallid ray of daylight, not nearly enough to light the place; I couldn’t even see if the hall rose clear to the distant roof. But I know the place was enormous; I said something to Leroy and a million thin echoes came clipping back to us out of the darkness. And after that, we began to hear other sounds—slithering rustling noises, and whispers, and sounds like suppressed breathing—and something black and silent passed between us and that far-away crevice of light.
+“Then we passed an edifice with an open arch; the doors were there, but blocked open by sand. I got up nerve enough to take a look inside, and then, of course, we discovered we’d forgotten to take our flashes. But we eased a few feet into the darkness and the passage debouched into a colossal hall. Far above us a little crack let in a pallid ray of daylight, not nearly enough to light the place; I couldn’t even see if the hall rose clear to the distant roof. But I know the place was enormous; I said something to Leroy and a million thin echoes came slipping back to us out of the darkness. And after that, we began to hear other sounds—slithering rustling noises, and whispers, and sounds like suppressed breathing—and something black and silent passed between us and that far-away crevice of light.
 
-“Then we saw three little greenish spots of luminosity in the dusk to our left. We stood staring at them, and suddenly they all shifted at once. Leroy yelled ‘Ce sont des yeux!’ and they were! They were eyes!
+“Then we saw three little greenish spots of luminosity in the dusk to our left. We stood staring at them, and suddenly they all shifted at once. Leroy yelled, *‘Ce sont des yeux!’* and they were! They were eyes!
 
-Well, we stood frozen for a moment, while Leroy’s yell
+“Well, we stood frozen for a moment, while Leroy’s yell <a id="page36"></a>reverberated back and forth between the distant walls, and the echoes repeated the words in queer, thin voices. There were mumblings and mutterings and whisperings and sounds like strange soft laughter, and then the three-eyed thing moved again. Then we broke for the door!
 
-reverberated back and forth between the distant walls, and the echoes repeated the words in queer, thin voices. There were mumblings and mutterings and whisperings and sounds like strange soft laughter, and then the three-eyed thing moved again. Then we broke for the door!
-
-“We felt better out in the sunlight; we looked at each other sheepishly, but neither of us suggested another look at the buildings inside—though we did see the place later, and that was queer, too—but you’ll hear about it when I come to it. We just loosened our revolvers and crept on along that ghostly street.
+“We felt better out in the sunlight; we looked at each other sheepishly, but neither of us suggested another look at the building’s inside—though we *did* see the place later, and that was queer, too—but you’ll hear about it when I come to it. We just loosened our revolvers and crept on along that ghostly street.
 
 “The street curved and twisted and subdivided. I kept careful note of our directions, since we couldn’t risk getting lost in that gigantic maze. Without our thermo-skin bags, night would finish us, even if what lurked in the ruins didn’t. By and by, I noticed that we were veering back toward the canal, the buildings ended and there were only a few dozen ragged stone huts which looked as though they might have been built of debris from the city. I was just beginning to feel a bit disappointed at finding no trace of Tweel’s people here when we rounded a corner and there he was!
 
-“I yelled ‘Tweel!’ but he just stared, and then I realized that he wasn’t Tweel, but another Martian of his sort. Tweel’s feathery appendages were more orange hued and he stood several inches taller than this one. Leroy was sputtering in excitement, and the Martian kept his vicious beak directed at us, so I stepped forward as peace-maker. “I said ‘Tweel?’ very questioningly, but there was no result. I tried it a dozen times, and we finally had to give it up; we couldn’t connect.
+“I yelled ‘Tweel!’ but he just stared, and then I realized that he wasn’t Tweel, but another Martian of his sort. Tweel’s feathery appendages were more orange-hued and he stood several inches taller than this one. Leroy was sputtering in excitement, and the Martian kept his vicious beak directed at us, so I stepped forward as peace-maker. I said ‘Tweel?’ very questioningly, but there was no result. I tried it a dozen times, and we finally had to give it up; we couldn’t connect.
 
-“Leroy and I walked toward the huts, and the Martian followed us. Twice he was joined by others, and each time I tried yelling ‘Tweel’ at them but they just stared at us. So we ambled on with the three trailing us, and then it suddenly occurred to me that my Martian accent might be at fault. I faced the group and tried trilling it out the way Tweel himself did: ‘T-r-r-rweee-r-rl! Like that.
+“Leroy and I walked toward the huts, and the Martian followed us. Twice he was joined by others, and each time I tried yelling ‘Tweel’ at them, but they just stared at us. So we ambled on with the three trailing us, and then it suddenly occurred to me that my Martian accent might be at fault. I faced the group and tried trilling it out the way Tweel himself did: ‘T-r-r-rweee-r-rl!’ Like that.
 
 “And that worked! One of them spun his head around a full ninety degrees, and screeched ‘T-r-r-rweee-r-rl!’ and a moment later, like an arrow from a bow, Tweel came sailing over the nearer huts to land on his beak in front of me!
 
-“Man, we were glad to see each other! Tweel set up a twittering and chirping like a farm in summer and went sailing
+“Man, we were glad to see each other! Tweel set up a twittering and chirping like a farm in summer and went sailing <a id="page37"></a>up and coming down on his beak, and I would have grabbed his hands, only he wouldn’t keep still long enough.
 
-up and coming down on his beak, and I would have grabbed his hands, only he wouldn’t keep still long enough.
-
-“The other Martians and Leroy just stared, and after a while, Tweel stopped bouncing, and there we were. We couldn’t talk to each other any more than we could before, so after I’d said ‘Tweel’ a couple of times and he’d said ‘Tick,’ we were more or less helpless. However, it was only midmorning, and it seemed important to learn all we could about Tv/eel and the city, so I suggested that he guide us around the place if he weren’t busy. I put over the idea by pointing back at the buildings and then at him and us.
+“The other Martians and Leroy just stared, and after a while, Tweel stopped bouncing, and there we were. We couldn’t talk to each other any more than we could before, so after I’d said ‘Tweel’ a couple of times and he’d said ‘Tick,’ we were more or less helpless. However, it was only mid-morning, and it seemed important to learn all we could about Tweel and the city, so I suggested that he guide us around the place if he weren’t busy. I put over the idea by pointing back at the buildings and then at him and us.
 
 “Well, apparently he wasn’t too busy, for he set off with us, leading the way with one of his hundred and fifty-foot nosedives that set Leroy gasping. When we caught up, he said something like ‘one, one, two—two, two, four—no, no—yes, yes—rock—no breet!’ That didn’t seem to mean anything; perhaps he was just letting Leroy know that he could speak English, or perhaps he was merely running over his vocabulary to refresh his memory.
 
-“Anyway, he showed us around. He had a light of sorts in his black pouch, good enough for small rooms, but simply lost in some of the colossal caverns we went through. Nine out of ten buildings meant absolutely nothing to us—just vast empty chambers, full of shadows and rustlings and echoes. I couldn’t imagine their use; they didn’t seem suitable for living quarters, or even for commercial purposes—trade and so forth; they might have been all right as power-houses, but what could have been the purpose of a whole city full? And where were the remains of the machinery?
+“Anyway, he showed us around. He had a light of sorts in his black pouch, good enough for small rooms, but simply lost in some of the colossal caverns we went through. Nine out of ten buildings meant absolutely nothing to us—just vast empty chambers, full of shadows and rustlings and echoes. I couldn’t imagine their use; they didn’t seem suitable for living quarters, or even for commercial purposes—trade and so forth; they might have been all right as power-houses, but what could have been the purpose of a whole city-full? And where were the remains of the machinery?
 
 “The place was a mystery. Sometimes Tweel would show us through a hall that would have housed an ocean-liner, and he’d seem to swell with pride—and we couldn’t make a damn thing of it! As a display of architectural power, the city was colossal; as anything else it was just nutty!
 
-“But we did see one thing that registered. We came to that same building Leroy and I had entered earlier—the one with the three eyes in it. Well, we were a little shaky about going in there, but Tweel twittered and trilled and kept saying, ‘Yes, yes, yes!’ so we followed him, staring nervously about for the thing that had watched us. However, that hall was just like the others, full of murmurs and slithering noises and shadowy things slipping away into comers. If the three-eyed
+“But we did see one thing that registered. We came to that same building Leroy and I had entered earlier—the one with the three eyes in it. Well, we were a little shaky about going in there, but Tweel twittered and trilled and kept saying, ‘Yes, yes, yes!’ so we followed him, staring nervously about for the thing that had watched us. However, that hall was just like the others, full of murmurs and slithering noises and shadowy things slipping away into corners. If the three-eyed <a id="page38"></a>creature were still there, it must have slunk away with the others.
 
-creature were still there, it must have slunk away with the others.
+“Tweel led us along the wall; his light showed a series of little alcoves, and in the first of these we ran into a puzzling thing—a very weird thing. As the light flashed into the alcove, I saw first just an empty space, and then, squatting on the floor, I saw—it! A little creature about as big as a large rat, it was, gray and huddled and evidently startled by our appearance. It had the queerest, most devilish little face!—pointed ears or horns and satanic eyes that seemed to sparkle with a sort of fiendish intelligence.
 
-“Tweel led us along the wall; his light showed a series of little alcoves, and in the first of these we ran into a puzzling thing—a very weird thing. As the light flashed into the alcove, I saw first just an empty space, and then, squatting on the floor, I saw—it! A little creature about as big as a large rat, it was, grey and huddled and evidently startled by our appearance. It had the queerest, most devilish little facej—pointed ears or horns and satanic eyes that seemed to sparkle with a sort of fiendish intelligence.
-
-“Tweel saw it, too, and let out a screech of anger, and the creature rose on two pencil-thin legs and scuttled off with a half-terrified, half-defiant squeak. Tt darted past us into the darkness too quickly even for Tweel, and as it ran, something waved on its body like the fluttering of a cape. Tweel screeched angrily at it and set up a shrill hullabaloo that sounded like genuine rage.
+“Tweel saw it, too, and let out a screech of anger, and the creature rose on two pencil-thin legs and scuttled off with a half-terrified, half-defiant squeak. It darted past us into the darkness too quickly even for Tweel, and as it ran, something waved on its body like the fluttering of a cape. Tweel screeched angrily at it and set up a shrill hullabaloo that sounded like genuine rage.
 
 “But the thing was gone, and then I noticed the weirdest of imaginable details. Where it had squatted on the floor was—a book! It had been hunched over a book!
 
-“I took a step forward; sure enough, there was some sort of inscription on the pages—wavy white lines like a seismograph record on black sheets like the material of Tweel’s pouch. Tweel fumed and whistled in wrath, picked up the volume and slammed it into place on a shelf full of others. Leroy and I stared dumbfounded at each other.
+“I took a step forward; sure enough, there was some sort of inscription on the pages—wavy white lines like a seismograph record on black sheets like the material of Tweel’s pouch. Tweel fumed and whistled in wrath, picked up the volume and slammed it into place on a shelf full of others. Leroy and I stared dumfounded at each other.
 
 “Had the little thing with the fiendish face been reading? Or was it simply eating the pages, getting physical nourishment rather than mental? Or had the whole thing been accidental?
 
-“If the creature were some rat-like pest that destroyed books, Tweel’s rage was understandable, but why should he try to prevent an intelligent being, even though of an alien race, from reading—if it was reading. I don’t know; I did notice that the book was entirely undamaged, nor did I see a damaged book among any that we handled. But I have an odd hunch that if we knew the secret of the little cape-clothed imp, we’d know the mystery of the vast abandoned city and of the decay of Martian culture.
+“If the creature were some rat-like pest that destroyed books, Tweel’s rage was understandable, but why should he try to prevent an intelligent being, even though of an alien race, from *reading*—if it was reading? I don’t know; I did notice that the book was entirely undamaged, nor did I see a damaged book among any that we handled. But I have an odd hunch that if we knew the secret of the little cape-clothed imp, we’d know the mystery of the vast abandoned city and of the decay of Martian culture.
 
-“Well, Tweel quieted down after a while and led us completely around that tremendous hall. It had been a library, I
-
-think; at least, there were thousands upon thousands of those queer black-paged volumes printed in wavy lines of white. There were pictures, too, in some; and some of these showed Tweel’s people. That’s a point, of course; it indicated that his race built the city and printed the books. I don’t think the greatest philologist on earth will ever translate one line of those records; they were made by minds too different from ours.
+“Well, Tweel quieted down after a while and led us completely around that tremendous hall. It had been a library, I <a id="page39"></a>think; at least, there were thousands upon thousands of those queer black-paged volumes printed in wavy lines of white. There were pictures, too, in some; and some of these showed Tweel’s people. That’s a point, of course; it indicates that his race built the city and printed the books. I don’t think the greatest philologist on earth will ever translate one line of those records; they were made by minds too different from ours.
 
 “Tweel could read them, naturally. He twittered off a few lines, and then I took a few of the books, with his permission; he said ‘no, no!’ to some and ‘yes, yes!’ to others. Perhaps he kept back the ones his people needed, or perhaps he let me take the ones he thought we’d understand most easily. I don’t know; the books are outside there in the rocket.
 
-“Then he held that dim torch of his toward the walls, and they were pictured. Lord, what pictures! They stretched up and up into the blackness of the roof, mysterious and gigantic. J couldn’t make much of the first wall; it seemed to be a portrayal of a great assembly of Tweel’s people. Perhaps it was meant to symbolize Society or Government. But the next wall was more obvious; it showed creatures at work on a colossal machine of some sort, and that would be Industry or Science. The back wall had corroded away in part, from what we could see, I suspected the scene was meant to portray Art, but it was on the fourth wall that we got a shock that nearly dazed us.
+“Then he held that dim torch of his toward the walls, and they were pictured. Lord, what pictures! They stretched up and up into the blackness of the roof, mysterious and gigantic. I couldn’t make much of the first wall; it seemed to be a portrayal of a great assembly of Tweel’s people. Perhaps it was meant to symbolize Society or Government. But the next wall was more obvious; it showed creatures at work on a colossal machine of some sort, and that would be Industry or Science. The back wall had corroded away in part; from what we could see, I suspected the scene was meant to portray Art, but it was on the fourth wall that we got a shock that nearly dazed us.
 
 “I think the symbol was Exploration or Discovery. This wall was a little plainer, because the moving beam of daylight from that crack lit up the higher surface and Tweel’s torch illuminated the lower. We made out a giant seated figure, one of the beaked Martians like Tweel, but with every limb suggesting heaviness, weariness. The arms dropped inertly on the chair, the thin neck bent and the beak rested on the body, as if the creature could scarcely bear its own weight. And before it was a queer kneeling figure, and at sight of it, Leroy and I almost reeled against each other. It was, apparently, a man!”
 
-“A man!” bellowed Harrison. “A man you say?”
+“A man!” bellowed Harrison. “A man, you say?”
 
-“I said apparently,” retorted Jarvis. “The artist had exaggerated the nose almost to the length of Tweel’s beak, but the figure had black shoulder-length hair, and instead of the Martian four, there were five fingers on its outstretched hand! It was kneeling as if in worship of the Martian, and on the
-
-ground was what looked like a pottery bowl full of some food as an offering. Well! Leroy and I thought we’d gone screwy!”
+“I said apparently,” retorted Jarvis. “The artist had exaggerated the nose almost to the length of Tweel’s beak, but the figure had black shoulder-length hair, and instead of the Martian four, there were *five* fingers on its outstretched hand! It was kneeling as if in worship of the Martian, and on the <a id="page40"></a>ground was what looked like a pottery bowl full of some food as an offering. Well! Leroy and I thought we’d gone screwy!”
 
 “And Putz and I think so, too!” roared the captain.
 
-“Maybe we all have,” replied Jarvis, with a faint grin at the pale face of the little Frenchman, who returned it in silence. “Anyway,” he continued, “Tweel was squeaking and pointing at the figure, and saying ‘Tick! Tick!’ so he recognized the resemblance—and never mind any cracks about my nose!” he warned the captain. “It was Leroy who made the important comment; he looked at the Martian and said ‘Thoth! The god Thoth!’ ”
+“Maybe we all have,” replied Jarvis, with a faint grin at the pale face of the little Frenchman, who returned it in silence. “Anyway,” he continued, “Tweel was squeaking and pointing at the figure, and saying ‘Tick! Tick !’ so he recognized the resemblance—and never mind any cracks about my nose!” he warned the captain. “It was Leroy who made the important comment; he looked at the Martian and said ‘Thoth! The god Thoth!’”
 
-“Oui!” confirmed the biologist. “Comme VEgypte!”
+*“Oui!”* confirmed the biologist. *“Comme l’Egypte!”*
 
 “Yeah,” said Jarvis. “Like the Egyptian ibis-headed god—the one with the beak. Well, no sooner did Tweel hear the name Thoth than he set up a clamor of twittering and squeaking. He pointed at himself and said ‘Thoth! Thoth!’ and then waved his arm all around and repeated it. Of course he often did queer things, but we both thought we understood what he meant. He was trying to tell us that his race called themselves Thoth. Do you see what I’m getting at?”
 
 “I see, all right,” said Harrison. “You think the Martians paid a visit to the earth, and the Egyptians remembered it in their mythology. Well, you’re off, then; there wasn’t any Egyptian civilization fifteen thousand years ago.”
 
-“Wrong!” grinned Jarvis. “It’s too bad we haven’t an archeologist with us, but Leroy tells me that there was a stone-age culture in Egypt then, the pre-dynastic civilization.”
+“Wrong!” grinned Jarvis. “It’s too bad we *haven’t* an archeologist with us, but Leroy tells me that there was a stone-age culture in Egypt then, the pre-dynastic civilization.”
 
 “Well, even so, what of it?”
 
-“Plenty! Everything in that picture proves my point. The attitude of the Martian, heavy and weary—that’s the unnatural strain of terrestrial gravitation. The name Thoth; Leroy tells me Thoth was the Egyptian god of philosophy and the inventor of writing! Get that? They must have picked up the idea from watching the Martian take notes. It’s too much for coincidence that Thoth should be beaked and ibis-headed, and that the beaked Martians call themselves Thoth.”
+“Plenty! Everything in that picture proves my point. The attitude of the Martian, heavy and weary—that’s the unnatural strain of terrestrial gravitation. The name Thoth; Leroy tells me Thoth was the Egyptian god of philosophy and the *inventor of writing!* Get that? They must have picked up the idea from watching the Martian take notes. It’s too much for coincidence that Thoth should be beaked and ibis-headed, and that the beaked Martians call themselves Thoth.”
 
 “Well, I’ll be hanged! But what about the nose on the Egyptian? Do you mean to tell me that stone-age Egyptians had longer noses than ordinary men?”
 
-“Of course not! It’s just that the Martians very naturally cast their paintings in Martianized form. Don’t human beings
+“Of course not! It’s just that the Martians very naturally cast their paintings in Martianized form. Don’t human beings <a id="page41"></a>tend to relate everything to themselves? That’s why dugongs and manatees started the mermaid myths—sailors thought they saw human features on the beasts. So the Martian artist, drawing either from descriptions or imperfect photographs, naturally exaggerated the size of the human nose to a degree that looked normal to him. Or anyway, that’s my theory.”
 
-tend to relate everything to themselves? That’s why dugongs and manatees started the mermaid myths—sailors thought they saw human features on the beasts. So the Martian artist, drawing either from descriptions or imperfect photographs, naturally exaggerated the size of the human nose to a degree that looked normal to him. Or anyway, that’s my theory.”
-
-“Well, it’ll do as a theory,” grunted Harrison. “What I want to hear is why you two got back here looking like a couple of year-before-last bird’s fiests.”
+“Well, it’ll do as a theory.” grunted Harrison. “What I want to hear is why you two got back here looking like a couple of year-before-last bird’s nests.”
 
 Jarvis shuddered again, and cast another glance at Leroy. The little biologist was recovering some of his accustomed poise, but he returned the glance with an echo of the chemist’s shudder.
 
 “We’ll get to that,” resumed the latter. “Meanwhile I’ll stick to Tweel and his people. We spent the better part of three days with them, as you know. I can’t give every detail, but I’ll summarize the important facts and give our conclusions, which may not be worth an inflated franc. It’s hard to judge this dried-up world by earthly standards.
 
-“We took pictures of everything possible; I even tried to photograph that gigantic mural in the library, but unless Tweel’s lamp was unusually rich in actinic rays, I don’t suppose it’ll show. And that’s a pity, since it’s undoubtedly the most interesting object we’ve found on Mars, at least from a human viewpoint.
+“We took pictures of everything passible; I even tried to photograph that gigantic mural in the library, but unless Tweel’s lamp was unusually rich in actinic rays, I don’t suppose it’ll show. And that’s a pity, since it’s undoubtedly the most interesting object we’ve found on Mars, at least from a human viewpoint.
 
 “Tweel was a very courteous host. He took us to all the points of interest—even the new water-works.”
 
@@ -1037,55 +1043,55 @@ Putz’s eyes brightened at the word. “Vater-vorks?” he echoed. “For vot?�
 
 “Well,” resumed Jarvis, “this city was one of the relay stations to boost the flow. Their power plant was the only one of the giant buildings that seemed to serve any useful purpose, and that was worth seeing. I wish you’d seen it, Karl; you’ll have to make what you can from our pictures. It’s a sun-power plant!”
 
-Harrison and Putz stared. “Sun-power!” grunted the captain. “That’s primitive!” And the engineer added an emphatic “Ja!” of agreement.
+Harrison and Putz stared. “Sun-power!” grunted the captain. “That’s primitive!” And the engineer added an emphatic *“Ja!”* of agreement.
 
 “Not as primitive as all that,” corrected Jarvis. “The sunlight focused on a queer cylinder in the center of a big concave mirror, and they drew an electric current from it. The juice worked the pumps.”
 
 “A t’ermocouple!” ejaculated Putz.
 
-“That sounds reasonable; you can judge by the pictures. But the power plant had some queer things about it. The queerest was that the machinery was tended, not by Tweel’s people, but by some of the barrel-shaped creatures like the ones in Xanthus!” He gazed around at the faces of his auditors; there was no comment. -
+“That sounds reasonable; you can judge by the pictures. But the power-plant had some queer things about it. The queerest was that the machinery was tended, not by Tweel’s people, but by some of the barrel-shaped creatures like the ones in Xanthus!” He gazed around at the faces of his auditors; there was no comment.
 
 “Get it?” he resumed. At their silence, he proceeded, “I see you don’t. Leroy figured it out, but whether rightly or wrongly, I don’t know. He thinks that the barrels and Tweel’s race have a reciprocal arrangement like—well, like bees and flowers on earth. The flowers give honey for the bees; the bees carry the pollen for the flowers. See? The barrels tend the works and Tweel’s people build the canal system. The Xanthus city must have been a boosting station; that explains the mysterious machines I saw. And Leroy believes further that it isn’t an intelligent arrangement—not on the part of the barrels, at least—but that it’s been done for so many thousands of generations that it’s become instinctive—a tropism—just like the actions of ants and bees. The creatures have been bred to it!”
 
-“Nuts!” observed Harrison. “Let’s hear you explaih the reason for that big empty city, then.”
+“Nuts!” observed Harrison. “Let’s hear you explain the reason for that big empty city, then.”
 
 “Sure. Tweel’s civilization is decadent, that’s the reason. It’s a dying race, and out of all the millions that must once have lived there, Tweel’s couple of hundred companions are the remnant. They’re an outpost, left to tend the source of the water at the polar cap; probably there are still a few respectable cities left somewhere on the canal system, most likely near the tropics. It’s the last gasp of a race—and a race that reached a higher peak of culture than Man!”
 
-“Huh?” said Harrison. “Then why are they dying? Lack of water?”
+“Huh?” said Harrison. “Then why are they dying ? Lack of water ?”
 
-“I don’t think so,” responded the chemist. “If my guess at the city’s age is right, fifteen thousand years wouldn’t make
+“I don’t think so,” responded the chemist. “If my guess at the city’s age is right, fifteen thousand years wouldn’t make <a id="page43"></a>enough difference in the water supply— nor a hundred thousand, for that matter. It’s something else, though the water’s doubtless a factor.”
 
-enough difference in the water supply—nor a hundred thousand for that matter. It’s something else, though the water’s doubtless a factor.”
-
-“Das wasser,” cut in Putz. “Vere goes dot?”
+*“Das wasser,”* cut in Putz. “Vere goes dot ?”
 
 “Even a chemist knows that!” scoffed Jarvis. “At least on earth. Here I’m not so sure, but on earth, every time there’s a lightning flash, it electrolyzes some water vapor into hydrogen and oxygen, and then the hydrogen escapes into space, because terrestrial gravitation won’t hold it permanently. And every time there’s an earthquake, some water is lost to the interior. Slow—but damned certain.” He turned to Harrison. “Right, Cap?”
 
-“Right,” conceded the captain. “But here, of course—no earthquakes, no thunderstorms—the loss must be very slow. Then why is the race dying?”
+“Right,” conceded the captain. “But here, of course—no earthquakes, no thunderstorms—the loss must be very slow. Then why *is* the race dying ?”
 
 “The sun-power plant answers that,” countered Jarvis. “Lack of fuel! Lack of power! No oil left, no coal left—if Mars ever had a Carboniferous Age—and no water-power—just the driblets of energy they can get from the sun. That’s why they’re dying.”
 
-“With the limitless energy of the atom?” exploded Harrison. “They don’t know about atomic energy. Probably never did. Must have used some other principle in their space-ship.”
+“With the limitless energy of the atom?” exploded Harrison.
 
-“Then,” snapped the captain, “what makes you rate their intelligence above the human? *We’ve* finally cracked open the atom!”
+“They don’t know about atomic energy. Probably never did. Must have used some other principle in their space-ship.”
 
-“Sure we have. We had a clue, didn’t we? Radium and uranium. Do you think we’d ever have learned how without those elements? We’d never even have suspected that atomic energy existed!”
+“Then,” snapped the captain, “what makes you rate their intelligence above the human ? *We’ve* finally cracked open the atom!”
 
-“Well? Haven’t they—”
+“Sure we have. We had a clue, didn’t we ? Radium and uranium. Do you think we’d ever have learned how without those elements? We’d never even have suspected that atomic energy existed!”
 
-“No, they haven’t. You’ve told me yourself that Mars has only 73 percent of the earth’s density. Even a chemist can see that that means a lack of heavy metals—no osmium, no uranium, no radium. They didn’t have the clue.”
+“Well? Haven’t they—?”
 
-“Even so, that doesn’t prove they’re more advanced than we are. If they were *more* advanced, they’d have discovered it anyway.”
+“No, they haven’t. You’ve told me yourself that Mars has only 73 per cent of the earth’s density. Even a chemist can see that that means a lack of heavy metals—no osmium, no uranium, no radium. They didn’t have the clue.”
+
+“Even so, that doesn’t prove they’re more advanced than we are. If they were move advanced, they’d have discovered it anyway.”
 
 “Maybe,” conceded Jarvis. “I’m not claiming that we don’t surpass them in some ways. But in others, they’re far ahead of us.”
 
 “In what, for instance?”
 
-“Well—socially, for one thing.”
+<a id="page44"></a>“Well—socially, for one thing.”
 
 “Huh? How do you mean?”
 
-Jarvis glanced in turn at each of the three that faced him. He hesitated. “I wonder how you chaps will take this,” he muttered. “Naturally, everybody likes his own system best.” He frowned. “Look here—on the earth we have three types of society, haven’t we? And there’s a member of each type right here. Putz lives under a dictatorship—an autocracy. Leroy’s a citizen of the Sixth Commune in France. Harrison and I are Americans, members of a democracy. There you are—autocracy, democracy, communism—the three types of terrestrial societies. Tweel’s people have a different system from any of us.”
+Jarvis glanced in turn at each of the three that faced him. He hesitated. “I wonder how you chaps will take this,” he muttered. “Naturally, everybody likes his own system best.” He frowned. “Look here—on the earth we have three types of society, haven’t we? And there’s a member of each type right here. Putz lives under a dictatorship—an autocracy. Leroy’s a citizen of the Sixth Commune in France.. Harrison and I are Americans, members of a democracy. There you are—autocracy, democracy, communism—the three types of terrestrial societies. Tweel’s people have a different system from any of us.”
 
 “Different? What is it?”
 
@@ -1095,63 +1101,63 @@ Jarvis glanced in turn at each of the three that faced him. He hesitated. “I w
 
 “That’s right.”
 
-“But—” Harrison was sputtering. “What do you mean—they’re ahead of us? Anarchy! Bah!”
+“But—” Harrison was sputtering. “What do you mean—they’re ahead of us ? Anarchy ! Bah!”
 
 “All right—bah!” retorted Jarvis. “I’m not saying it would work for us, or for any race of men. But it works for them.”
 
 “But—anarchy!” The captain was indignant.
 
-“Well, when you come right down to it,” argued Jarvis defensively, “anarchy is the ideal form of government, if it works. Emerson said that the best government was that which governs least, and so did Wendell Phillips, and I think George Washington. And you can’t have any form of government which governs less than anarchy, which is no government at all!”
+“Well, when you: come right down to it,” argued Jarvis defensively, “anarchy is the ideal form of government, if it works. Emerson said that the best government was that which governs least, and so did Wendell Phillips, and I think George Washington. And you can’t have any form of government which governs less than anarchy, which is no government at all!”
 
 The captain was sputtering. “But—it’s unnatural! Even savage tribes have their chiefs! Even a pack of wolves has its leader!”
 
-“Well,” retorted Jarvis defiantly, “that only proves that government is a primitive device, doesn’t it? With a perfect race you wouldn’t need it at all; government is a confession of weakness, isn’t it? It’s a confession that part of the people won’t cooperate with the rest and that you need laws to restrain those individuals which a psychologist calls anti-social. If there were no anti-social persons—criminals and such—■ you wouldn’t need laws or police, would you?”
+“Well,” retorted Jarvis defiantly, “that only proves that government is a primitive device, doesn’t it? With a perfect race you wouldn’t need it at all; government is a confession of weakness, isn’t it? It’s a confession that part of the people won’t cooperate with the rest and that you need laws to restrain those individuals which a psychologist calls anti-social. If there were no anti-social persons—criminals and such—you wouldn’t need laws or police, would you?”
 
-“But government! You’d need government! How about public works—wars—taxes?”
+“But government! You’d need government! How about public works—wars— taxes?”
 
-“No wars on Mars, in spite of being named after the War God. No point in wars here; the population is too thin and too scattered, and besides, it takes the help of every single community to keep the canal system functioning. No taxes because apparently, all individuals cooperate in building public works. No competition to cause trouble, because anybody can help himself to anything. As I said, with a perfect race government is entirely unnecessary.”
+<a id="page45"></a>“No wars on Mars, in spite of being named after the War God. No point in wars here; the population is too thin and too scattered, and besides, it takes the help of every single community to keep the canal system functioning. No taxes because, apparently, all individuals cooperate in building public works. No competition to cause trouble, because anybody can help himself to anything. As I said, with a perfect race, government is entirely unnecessary.”
 
-“And do you consider the Martians a perfect race?” asked the captain grimly.
+“And do you consider the Martians a perfect race ?” asked the captain grimly.
 
-“Not at all! But they’ve existed so much longer than man that they’re evolved, socially at least, to the point where they don’t need government. They work together, that’s all.” Jarvis paused. “Queer, isn’t it—as if Mother Nature were carrying on two experiments, one at home and one on Mars. On earth it’s the trial of an emotional, highly competitive race in a world of plenty; here it’s the trial of a quiet, friendly race on a desert, unproductive, and inhospitable world. Everything here makes for cooperation. Why, there isn’t even the factor that causes so much trouble at home—sex!”
+“Not at all! But they’ve existed so much longer than man that they’ve evolved, socially at least, to the point where they don’t need government. They work together, that’s all.” Jarvis paused. “Queer, isn’t it?—as if Mother Nature were carrying on two experiments, one at home and one on Mars. On earth it’s the trial of an emotional, highly competitive race in a world of plenty; here it’s the trial of a quiet, friendly race on a desert, unproductive, and inhospitable world. Everything here makes for cooperation. Why, there isn’t even the factor that causes so much trouble at home—sex!”
 
-“Huh?”
+“Huh ?”
 
-“Yeah: Tweel’s people reproduce just like the barrels in the mud cities; two individuals grow a third one between them. Another proof of Leroy’s theory that Martian life is neither animal nor vegetable. Besides, Tweel was a good enough host to let him poke down his beak and twiddle his feathers, and the examination convinced Leroy.”
+“Yeah; Tweel’s people reproduce just like the barrels in the mud cities; two individuals grow a third one between them. Another proof of Leroy’s theory that Martian life is neither animal nor vegetable. Besides, Tweel was a good enough host to let him poke down his beak and twiddle his feathers, and the examination convinced Leroy.”
 
-“Ouiconfirmed the biologist. “It is true.”
+*“Oui,”* confirmed the biologist. “It is true.”
 
 “But anarchy!” grumbled Harrison disgustedly. “It would show up on a dizzy, half-dead pill like Mars!”
 
 “It’ll be a good many centuries before you’ll have to worry about it on earth,” grinned Jarvis. He resumed his narrative.
 
-“Well, we wandered through that sepulchral city, taking pictures of everything. And then—” Jarvis paused and shuddered—“then I took a notion to have a look at that valley we’d spotted from the rocket. I don’t know why. But when we tned to steer Tweel in that direction, he set up such a squawking and screeching that I thought he’d gone batty.”
+“Well, we wandered through that sepulchral city, taking pictures of everything. And then—” Jarvis paused and shuddered— “then I took a notion to have a look at that valley we’d spotted from the rocket. I don’t know why. But when we tried to steer Tweel in that direction, he set up such a squawking and screeching that I thought he’d gone batty.”
 
 “If possible!” jeered Harrison.
 
-“So we started over there without him; he kept wailing and screaming, ‘No—no—no! Tick!’ but that made us the more curious. He sailed over our heads and stuck on his beak, and
+“So we started over there without him; he kept wailing and screaming, ‘No —no—no! Tick!’ but that made us the more curious. He sailed over our heads and stuck on his beak, and <a id="page46"></a>went through a dozen other antics, but we ploughed on, and finally he gave up and trudged disconsolately along with us.
 
-went through a dozen other antics, but we ploughed on, and finally he gave up and trudged disconsolately along with us.
-
-“The valley wasn’t more than a mile southeast of the city Tweel could have covered the distance in twenty jumps, but he lagged and loitered and kept pointing back at the city and wailing ‘No—no—no!’ Then he’d sail up into the air and zip down on his beak directly in front of us, and we’d have tc walk around him. I’d seen him do lots of crazy things before, of course; I was used to them, but it was as plain as prinl that he didn’t want us to see that valley.”
+“The valley wasn’t more than a mile southeast of the city. Tweel could have covered the distance in twenty jumps, but he lagged and loitered and kept pointing back at the city and wailing ‘No—no—no!’ Then he’d sail up into the air and zip down on his beak directly in front of us, and we’d have to walk around him. I’d seen him do lots of crazy things before, of course; I was used to them, but it was as plain as print that he didn’t want us to see that valley.”
 
 “Why?” queried Harrison.
 
-“You asked why we came back like tramps,” said Jarvis with a faint shudder. “You’ll learn. We plugged along up a low rocky hill that bounded it, and as we neared the top, Tweel said, ‘No breet’, Tick! No breet’!’ Well, those were the words he used to describe the silicon monster; they were also the words he had used to tell me that the image of Fancj Long, the one that had almost lured me to the dream-beast, wasn’t real. I remembered that, but it meant nothing to me—then!
+“You asked why we came back like tramps,” said Jarvis with a faint shudder. “You’ll learn. We plugged along up a low rocky hill that bounded it, and as we neared the top, Tweel said, ‘No breet’, Tick! No breet’!’ Well, those were the words he had used to describe the silicon monster; they were also the words he had used to tell me that the image of Fancy Long, the one that had almost lured me to the dream-beast, wasn’t real. I remembered that, but it meant nothing to me— then!
 
-“Right after that, Tweel said, “You one-one-two, he one-one-two,’ and then I began to see. That was the phrase he had used to explain the dream-beast to tell me that what I thought, the creature thought—to tell me how the thing lured its victims by their own desires. So I warned Leroy; it seemed to me that even the dream-beast couldn’t be dangerous if we were warned and expecting it. Well, I was wrong!
+“Right after that, Tweel said, ‘You one-one-two, he one-one-two,’ and then I began to see. That was the phrase he had used to explain the dream-beast, to tell me that what I thought, the creature thought—to tell me how the thing lured its victims by their own desires. So I warned Leroy; it seemed to me that even the dream-beast couldn’t be dangerous if we were warned and expecting it. Well, I was wrong!
 
-“As we reached the crest, Tweel spun his head completely around, so his feet were forward but his eyes looked backward, as if he feared to gaze into the valley. Leroy and 1 stared out over it, just a gray waste like this around us, with the gleam of the south polar cap far beyond its southern rim. That’s what it was one second; the next it was—Paradise!”
+“As we reached the crest, Tweel spun his head completely around, so his feet were forward but his eyes looked backward, as if he feared to gaze into the valley. Leroy and I stared out over it, just a gray waste like this around us, with the gleam of the south polar cap far beyond its southern rim. That’s what it was one second; the next it was—Paradise!”
 
-“What?” exclaimed the captain.
+“What ?” exclaimed the captain.
 
-Jarvis turned to Leroy. “Can you describe it?” he asked. The biologist waved helpless hands, “C’est impossible!” he whispered. “II me rend muet!”
+Jarvis turned to Leroy. “Can you describe it ?” he asked.
+
+The biologist waved helpless hands, *“C’est impossible!”* he whispered. *“Il me rend muet!”*
 
 “It strikes me dumb, too,” muttered Jarvis. “I don’t know how to tell it; I’m a chemist, not a poet. Paradise is as good a word as I can think of, and that’s not at all right. It was Paradise and Hell in one!”
 
 “Will you talk sense?” growled Harrison.
 
-“As much of it as makes sense. I tell you, one moment we were looking at a grey valley covered with blobby plants, and the next—Lord! You can’t imagine that next moment! How would you like to see all your dreams made real? Every desire you’d ever had gratified? Everything you’d ever wanted there for the taking?”
+<a id="page47"></a>“As much of it as makes sense. I tell you, one moment we were looking at a grey valley covered with blobby plants, and the next—Lord! You can’t imagine that next moment! How would you like to see all your dreams made real? Every desire you’d ever had gratified? Everything you’d ever wanted there for the taking?”
 
 “I’d like it fine!” said the captain.
 
@@ -1159,25 +1165,23 @@ Jarvis turned to Leroy. “Can you describe it?” he asked. The biologist waved
 
 “The dream-beasts?”
 
-“Yes. It was a valley of them. Hundreds, I suppose, maybe thousands. Enough, at any rate, to spread out a complete picture of your desires, even all the forgotten ones that must have been out of the subconscious. A Paradise—of sorts. I saw a dozen Fancy Longs, in every costume I’d ever admired on her, and some I must have imagined. I saw every beautiful woman I’ve ever known, and all of them pleading for my attention. I saw every lovely place I’d ever wanted to be, all packed queerly into that little valley. And I saw—other things.” He shook his head soberly. “It wasn’t all exactly pretty. Lord! How much of the beast is left in us! I suppose if every man alive could have one look at that weird valley, and could see just once what nastiness is hidden in him—well, the world might gain by it I thanked heaven afterwards that Leroy—and even Tweel—saw their own pictures and not mine’”
+“Yes. It was a valley of them. Hundreds, I suppose, maybe thousands. Enough, at any rate, to spread out a complete picture of your desires, even all the forgotten ones that must have, been drawn out of the subconscious. A Paradise—of sorts! I saw a dozen Fancy Longs, in every costume I’d ever admired on her, and some I must have imagined. I saw every beautiful woman I’ve ever known, and all of them pleading for my attention. I saw every lovely place I’d ever wanted to be, all packed queerly into that little valley. And I saw — other things.” He shook his head soberly. “It wasn’t all exactly pretty. Lord! How much of the beast is left in us! I suppose if every man alive could have one look at that weird valley, and could see just once what nastiness is hidden in him—well, the world might gain by it. I thanked heaven afterwards that Leroy—and even Tweel—saw their own pictures and not mine!”
 
-Jarvis paused again, then resumed, T turned dizzy with a sort of ecstasy. I closed my eyes—and with eyes closed, I still saw the whole thing! That beautiful, evil, devilish panorama was in my mind, not my eyes. That’s how those fiends work—through the mind. I knew it was the dream-beasts; I didn’t need Tweel’s wail of ‘No breet’! No breet’!’ But—I couldn’t keep awayl I knew it was death beckoning, but it was worth it for one moment with the vision.”
+Jarvis paused again, then resumed, “I turned dizzy with a sort of ecstasy. I closed my eyes—and with eyes closed, I still saw the whole thing! That beautiful, evil, devilish panorama was in my mind, not my eyes. That’s how those fiends work—through the mind. I knew it was the dream-beasts; I didn’t need Tweel’s wail of ‘No breet’! No breet!’ But—*I couldn’t keep away!* I knew it was death beckoning, but it was worth it for one moment with the vision.”
 
 “Which particular vision?” asked Harrison dryly.
 
-Jarvis flushed. “No matter,” he said. “But beside me I heard Leroy’s cry of ‘Yvonne! Yvonne!’ and I knew he was trapped like myself. I fought for sanity; I kept telling myself
+Jarvis flushed. “No matter,” he said. “But beside me I heard Leroy’s cry of ‘Yvonne! Yvonne!’ and I knew he was trapped like myself. I fought for sanity; I kept telling myself <a id="page48"></a>to stop, and all the time I was rushing headlong into the snare!
 
-to stop, and all the time I was rushing headlong into thi snare!
+“Then something tripped me. Tweel! He had come leaping from behind; as I crashed down I saw him flash over me straight toward—toward what I’d been running to, with his vicious beak pointed right at her heart!”
 
-“Then something tripped me. Tweel! He had come leapin] from behind; as I crashed down I saw him flash over mi straight toward—toward what I’d been running to, with hi vicious beak pointed right at her heart!”
+“Oh!” nodded the captain. *“Her heart!”*
 
-“Oh!” nodded the captain. “Her heartl”
+“Never mind that. When I scrambled up, that particular image was gone, and Tweel was in a twist of black ropey arms, just as when I first saw him. He’d missed a vital point in the beast’s anatomy, but was jabbing away desperately with his beak.
 
-“Never mind that. When I scrambled up, that particula: image was gone, and Tweel was in a twist of black rope; arms, just as when I first saw him. He’d missed a vita point in the beast’s anatomy, but was jabbing away desperatel] with his beak.
+“Somehow, the spell had lifted, or partially lifted. I wasn’t five feet from Tweel, and it took a terrific struggle, but I managed to raise my revolver and put a Boland shell into the beast. Out came a spurt of horrible black corruption, drenching Tweel and me—and I guess the sickening smell of it helped to destroy the illusion of that valley of beauty. Anyway, we managed to get Leroy away from the devil that had him, and the three of us staggered to the ridge and over. I had presence of mind enough to raise my camera over the crest and take a shot of the valley, but I’ll bet it shows nothing but gray waste and writhing horrors. What we saw was with our minds, not our eyes.”
 
-“Somehow, the spell had lifted, or partially lifted. I wasn’ five feet from Tweel, and it took a terrific struggle, but ] managed to raise my revolver and put a Boland shell intc the beast. Out came a spurt of horrible black corruption drenching Tweel and me—and I guess the sickening smell o! it helped to destroy the illusion of that valley of beauty Anyway, we managed to get Leroy away from the devil thai had him, and the three of us staggered to the ridge and over I had presence of mind enough to raise my camera over the crest and take a shot of the valley, but I’ll bet it shows nothing but gray waste and writhing horrors. What we saw was with our minds, not our eyes.”
-
-Jarvis paused and shuddered. “The brute half poisoned Leroy,” he continued. “We dragged ourselves back to the auxiliary, called you, and did what we could to treat ourselves, Leroy took a long dose of the cognac that we had with us; we didn’t dare try anything of Tweel’s because his metabolism is so different from ours that what cured him might kill us, But the cognac seemed to work, and so, after I’d done one other thing I wanted to do, we came back here—and that’s all.”
+Jarvis paused and shuddered. “The brute half poisoned Leroy,” he continued. “We dragged ourselves back to the auxiliary, called you, and did what we could to treat ourselves. Leroy took a long dose of the cognac that we had with us; we didn’t dare try anything of Tweel’s because his metabolism is so different from ours that what cured him might kill us. But the cognac seemed to work, and so, after I’d done one other thing I wanted to do, we came back here—and that’s all.”
 
 “All, is it?” queried Harrison. “So you’ve solved all the mysteries of Mars, eh?”
 
@@ -1185,31 +1189,27 @@ Jarvis paused and shuddered. “The brute half poisoned Leroy,” he continued. 
 
 *“Ja!”* snapped Putz. “Der evaporation—dot iss shtopped how?”
 
-“In the canals? I wondered about that, too; in those thousands of miles, and against this low air pressure, you’d
+“In the canals? I wondered about that, too; in those thousands of miles, and against this low air-pressure, you’d <a id="page49"></a>think they’d lose a lot. But the answer’s simple; they float a skin of oil on the water.”
 
-think they’d lose a lot. But the answer’s simple; they float a skin of oil on the water.”
+Putz nodded, but Harrison cut in. “Here’s a puzzler. With only coal and oil—just combustion or electric power—where’d they get the energy to build a planet-wide canal system, thousands and thousands of miles of ’em? Think of the job we had cutting the Panama Canal to sea level, and then answer that!”
 
-Putz nodded, but Harrison cut in. “Here’s a puzzler. With only coal and oil—just combustion or electric power—where’d they get the energy to build a planet-wide canal system, thousands and thousands of miles of ‘em? Think of the job we had cutting the Panama Canal to sea level, and then answer that!”
+“Easy!” grinned Jarvis. “Martian gravity and Martian air—that’s the answer. Figure it out: First, the dirt they dug only weighed a third its earth-weight. Second, a steam engine here expands against ten pounds per square inch less air pressure than on earth. Third, they could build the engine three times as large here with no greater internal weight. And fourth, the whole planet’s nearly level. Right, Putz?” The engineer nodded. “*Ja!* Der shteam—engine—it *iss sieben-und-zwanzig*—twenty-seven times so effective here.”
 
-“Easy!” grinned Jarvis. “Martian gravity and Martian air—that’s the answer. Figure it out: First, the dirt they dug only weighed a third its earth-weight. Second, a steam engine here expands against ten pounds per square inch less air pressure than on earth. Third, they could build the engine three times as large here with no greater internal weight. And fourth, the whole planet’s nearly level. Right, Putz?” The engineer nodded. “Ja! Der shteam-engine—it iss sieben-und-zwanzig—twenty-seven times so effective here.”
+“Well, there does go the last mystery, then,” mused Harrison.
 
-“Well, there does go the last mystery then,” mused Harrison.
-
-“Yeah?” queried Jarvis sardonically. “You answer these, then. What was the nature of that vast empty city? Why do the Martians need canals, since we never saw them eat or drink? Did they really visit the earth before the dawn of history, and, if not atomic energy, what powered their ship? Since Tweel’s race seems to need little or no water, are they merely operating the canals for some higher creature that does? Are there other intelligences on Mars? If not, what was the demon-faced imp we saw with the book? There are a few mysteries for you!”
+“Yeah?” queried Jarvis sardonically. “You answer these, then. What was the nature of that vast empty city? Why do the Martians *need* canals, since we never saw them eat or drink? Did they really visit the earth before the dawn of history, and, if not atomic energy, what powered their ship? Since Tweel’s race seems to need little or no water, are they merely operating the canals for some higher creature that does? Are there other intelligences on Mars? If not, what was the demon-faced imp we saw with the book? There are a few mysteries for you!”
 
 “I know one or two more!” growled Harrison, glaring suddenly at little Leroy. “You and your visions! ‘Yvonne!’ eh? Your wife’s name is Marie, isn’t it?”
 
-The little biologist turned crimson. “Oui,” he admitted unhappily. He turned pleading eyes on the captain. “Please,” he said. “In Paris tout le monde—everybody he think differently of those things—no?” He twisted uncomf ortably. “Please you will not tell Marie, n’est-ce pas?”
+The little biologist turned crimson. “Oui,” he admitted unhappily. He turned pleading eyes on the captain. “Please,” he said. “In Paris *tout le monde*—everybody, he think differently of those things—no?” He twisted uncomfortably. “Please, you will not tell Marie, *n’est-ce pas?*”
 
 Harrison chuckled. “None of my business,” he said. “One more question, Jarvis. What was the one other thing you did before returning here?”
 
-Jarvis looked diffident. “Oh—that.” He hesitated. “Well I sort of felt we owed Tweel a lot, so after some trouble, we
+Jarvis looked diffident. “Oh—that.” He hesitated. “Well. I sort of felt we owed Tweel a lot, so after some trouble, we <a id="page50"></a>coaxed him into the rocket and sailed him out to the wreck of the first one, over on Thyle II. Then,” he finished apologetically, “I showed him the atomic blast, got it working—and gave it to him!”
 
-coaxed him into the rocket and sailed him out to the wreck of the first one, over on Thyle II. Then,” he finished apologetically, “I showed him the atomic blast, got it working—and gave it to him!”
+“You *what?*” roared the Captain. “You turned something as powerful as that over to an alien race—maybe some day an enemy race?”
 
-“You what?” roared the Captain. “You turned something as powerful as that over to an alien race—maybe some day an enemy race?”
-
-“Yes, I did,” said Jarvis. “Look here,” he argued defensively. “This lousy, dried-up pill of a desert called Mars’ll never support much human population. The Sahara desert is just as good a field for imperialism, and a lot closer to home. So we’ll never find Tweel’s race enemies. The only value we’ll find here is commercial trade with the Martians. Then why shouldn’t I give Tweel a chance for survival? With atomic energy, they can run their canal system a hundred per cent instead of only one out of five, as Putz’s observations showed. They can repopulate those ghostly cities; they can resume their arts and industries; they can trade with the nations of the earth—and I’ll bet they can teach us a few things,” he paused, “if they can figure out the atomic blast, and I’ll lay odds they can. They’re no fools, Tweel and his ostrich-faced Martians!”
+“Yes, I did,” said Jarvis. “Look here,” he argued defensively. “This lousy, dried-up pill of a desert called Mars’ll never support much human population. The Sahara desert is just as good a field for imperialism, and a lot closer to home. So we’ll never find Tweel’s race enemies; the only value we’ll find here is commercial trade with the Martians. Then why shouldn’t I give Tweel a chance for survival? With atomic energy, they can run their canal system a hundred per cent instead of only one out of five, as Putz’s observations showed. They can repopulate those ghostly cities; they can resume their arts and industries; they can trade with the nations of the earth—and I’ll bet they can teach us a few things,” he paused, “if they can figure out the atomic blast, and I’ll lay odds they can. They’re no fools, Tweel and his ostrich-faced Martians!”
 
 ---
 
@@ -1220,7 +1220,7 @@ the_adaptive_ultimate
 .fl
 <span class="smallcaps">Dr. Daniel Scott</span>, his dark and brilliant eyes alight with the fire of enthusiasm, paused at last and stared out over the city, or that portion of it visible from the office windows of Herman Bach——the Dr. Herman Bach of Grand Mercy Hospital. There was a moment of silence; the old man smiled a little indulgently, a little wistfully, at the face of the youthful biochemist.
 
-“Go on, Dan,” he said. “So it occurred to you that getting well of a disease or injury is merely a form of adaptation—the what?”
+“Go on, Dan,” he said. “So it occurred to you that getting well of a disease or injury is merely a form of adaptation—then what?”
 
 “Then,” flashed the other, “I began to look for the most adaptive of living organisms. And what are they? Insects! Insects, of course. Cut off a wing, and it grows back. Cut off a head, stick it to the headless body of another of the same species, and that grows back on. And what’s the secret of their great adaptability?”
 
@@ -1234,11 +1234,9 @@ Scott was suddenly gloomy. “I’m not sure,” he muttered. “It’s glandula
 
 “I know,” interrupted Dr. Bach.
 
-Scott caught his breath. “So I used fruit flies,” he
+Scott caught his breath. “So I used fruit flies,” he <a id="page52"></a>resumed. “I putrefied their bodies, injected a cow, and go a serum at last, after weeks of clarifying with albumen—evaporating, *in vacuo*, rectifying with—But you’re not interested in the technique. I got a serum. I tried it on tubercular guinea pigs, and”—he paused dramatically—“it cured! They adapted themselves to the tubercle bacillus. I tried it on a rabid dog. He adapted. I tried it on a cat with e broken spine. That knit. And now, I’m asking you for the chance to try it on a human being!”
 
-resumed. “I putrefied their bodies, injected a cow, and go a serum at last, after weeks of clarifying with albumen—evaporating, in vacuo, rectifying with—But you’re noi interested in the technique. I got a serum. I tried it or tubercular guinea pigs, and”—he paused dramatically—“ii cured! They adapted themselves to the tubercle bacillus. 1 tried it on a rabid dog. He adapted. I tried it on a cat with e broken spine. That knit. And now, I’m asking you for th« chance to try it on a human being!”
-
-Dr. Bach frowned. “You’re not ready,” he grunted “You’re not ready by two years. Try it on an anthropoid Then try it on yourself. I can’t risk a human life in ari experiment that’s as raw as this.”
+Dr. Bach frowned. “You’re not ready,” he grunted “You’re not ready by two years. Try it on an anthropoid. Then try it on yourself. I can’t risk a human life in an experiment that’s as raw as this.”
 
 “Yes, but I haven’t got anything that needs curing; and as for an anthropoid, you get the board to allow funds to buy an ape—if you can. I’ve tried.”
 
@@ -1246,9 +1244,11 @@ Dr. Bach frowned. “You’re not ready,” he grunted “You’re not ready by 
 
 “And have Grand Mercy lose the credit? Listen, Dr. Bach, I’m asking for just one chance—a charity case—anything.”
 
-“Charity cases are human beings.” The old man scowled down at his hands. “See here, Dan. I shouldn’t even offer this much, because it’s against all medical ethics, but if I find a hopeless case—utterly hopeless, you understand—where the patient himself consents, I’ll do it. And that’s the final word.” Scott groaned. “And try to find a case like that. If the patient’s conscious, you think there’s hope, and if he isn’t how can he consent? That settles it!”
+“Charity cases are human beings.” The old man scowled down at his hands. “See here, Dan. I shouldn’t even offer this much, because it’s against all medical ethics, but if I find a hopeless case—utterly hopeless, you understand—where the patient himself consents, I’ll do it. And that’s the final word.”
 
-But it didn’t. Less than a week later Scott looked suddenly up at the annunciator in the comer of his tiny laboratory. “Dr. Scott,” it rasped. “Dr. Scott. Dr. Scott. To Dr. Bach’s office.”
+Scott groaned. “And try to find a case like that. If the patient’s conscious, you think there’s hope, and if he isn’t how can he consent? That settles it!”
+
+But it didn’t. Less than a week later Scott looked suddenly up at the annunciator in the corner of his tiny laboratory. “Dr. Scott,” it rasped. “Dr. Scott. Dr. Scott. To Dr. Bach’s office.”
 
 He finished his titration, noted the figures, and hurried out. The old man was pacing the floor nervously as Scott entered.
 
@@ -1256,11 +1256,9 @@ He finished his titration, noted the figures, and hurried out. The old man was p
 
 They hurried. In the tiny cubical room Scott stared appalled. “A girl!” he muttered.
 
-She could never have been other than drab and plain, but lying there with the pallor of death already on her cheeks,
+She could never have been other than drab and plain, but lying there with the pallor of death already on her cheeks, <a id="page53"></a>she had an appearance of somber sweetness. Yet that was all the charm she could ever have possessed; her dark, cropped, oily hair was unkempt and stringy, her features flat and unattractive. She breathed with an almost inaudible rasp, and her eyes were closed.
 
-she had an appearance of somber sweetness. Yet that was all the charm she could ever have possessed; her dark, cropped, oily hair was unkempt and stringy, her features flat and unattractive. She breathed with an almost inaudible rasp, and her eyes were closed.
-
-“Do you,” asked Scott, “consider this a test? She’s all but de^d now.”
+“Do you,” asked Scott, “consider this a test? She’s all but dead now.”
 
 Dr. Bach nodded. “Tuberculosis,” he said, “final stage. Her lungs are hemorrhaging—a matter of hours.”
 
@@ -1274,137 +1272,139 @@ She spoke in faint, gurgling tones. “Sure, I’m through anyway. What’s the 
 
 He thrust the needle into the girl’s arm. Dan noted that she did not even wince at the bite of the steel point, but lay stoical and passive as thirty c. c. of liquid flowed into her veins. She coughed again, then closed her eyes.
 
-“Come out of here,” ordered Bach gruffly, as they moved into the hall. “I’m damned if I like this. I feel like a dirty dog:”
+“Come out of here,” ordered Bach gruffly, as they moved into the hall. “I’m damned if I like this. I feel like a dirty dog.”
 
+.space
 He seemed to feel less canine, however, the following day. “That Zelas case is still alive,” he reported to Scott. “If I dared trust my eyes, I’d say she’s improved a little. A very little. I’d still call it hopeless.”
 
-But the following day Scott found him seated in his office with a puzzled expression in his old gray eyes. “Zelas is better,” he muttered. “No question of it. But you keep your head, Dan. Such miracles have happened before, and without serums. You wait until we’ve had her under long observation.” By the end of the week it became evident that the observation was not to be long. Kyra Zelas flourished under their gaze like some swift-blooming tropical weed. Queerly, she lost .
+But the following day Scott found him seated in his office with a puzzled expression in his old gray eyes. “Zelas is better,” he muttered. “No question of it. But you keep your head, Dan. Such miracles have happened before, and without serums. You wait until we’ve had her under long observation.”
 
-terms cf her rallor. rut flesh softened the angular features, and a trace cf light grew in her e>es.
+By the end of the week it became evident that the observation was not to be long. Kyra Zelas flourished under their gaze like some swift-blooming tropical weed. Queerly, she lost <a id="page54"></a>none of her pallor, but flesh softened the angular features, and a trace of light grew in her eyes.
 
-‘The spots on her hmgi are going,” muttered Bach. “She’s steeped ccughirg. and there’s no sign of bugs in her culture But the ciw-erest uflag. D;t—and I can’t figure it out. either—is the r ay she reacts to abrasions and skin punctures. Yesterday I took a bleed specimen for a Washerman, and—t’ i semis, utterly mad—the puncture closed almost before ] had a c. c.! Closed and healed!”
+“The spots on her lungs are going,” muttered Bach. “She’s stopped coughing. and there’s no sign of bugs in her culture. But the queerest thing. Dan—and I can’t figure it out, either—is the way she reacts to abrasions and skin punctures. Yesterday I took a blood specimen for a Washerman, and—this sounds utterly mad—the puncture closed almost before Ihad a c.c.! Closed and healed!”
 
-Arrd in another week. “Dan. I can’t see any reason fm keeping Kyra here. She’s well. Yet I want her where we can keep her under observation. There’s a queer mystery about this serum of ycurs. .And besides. I hate to turn her out to the sort cf life that brought her here.”
+And in another week. “Dan. I can’t see any reason for keeping Kyra here. She’s well. Yet I want her where we can keep her under observation. There’s a queer mystery about this serum of yours. And besides, I hate to turn her out to the sort of life that brought her here.”
 
-“What did she doT
+“What did she do?”
 
-“Sewed. Piece-work in some sweatshop, when she could work at all. Drab. ugly, uneducated girl, but there’s something appealing about her. She adapts quickly.”
+“Sewed. Piece-work in some sweatshop, when she could work at all. Drab, ugly, uneducated girl, but there’s something appealing about her. She adapts quickly.”
 
-Stem gave him a strange lock. “Yes,” he said, “she adapts quickly.”
+Scott gave him a strange look. “Yes,” he said, “she adapts quickly.”
 
-‘So,’! resumed Bach, “it occurred to me that she could bay at &y place. We could keep her under observation, you see. and she could help the housekeeper. I’m interested—damn interested, I think II offer her the chance.”
+“So,” resumed Bach, “it occurred to me that she could stay at my place. We could keep her under observation, you see. and she could help the housekeeper. I’m interested—damn interested, I think I’ll offer her the chance.”
 
-Scott was present when Dr. Bach made his suggestion. Tne girl K’.oa seabed. “Sure,” she said. Her pallid, plain face Lighted cp. “thanks”
+Scott was present when Dr. Bach made his suggestion. Tne girl Kyra smiled. “Sure,” she said. Her pallid, plain face lighted up. “Thanks.”
 
 Bach gave her the address. “Mrs. Getz will let you in. Don’t do anything this afternoon. In fact, it might not hurt you to simply walk in the park for a few hours.”
 
-Scott watched the girl as she walked down the hall toward the elevator. She bad filled out, but she was still spare to the point of emaciation, and her worn black suit hung on her as if it were on a frame of sticks. As she disappeared, he moved thoughtfully about hk» duties, and a quarter-hour later descended to hit laboratory.
+Scott watched the girl as she walked down the hall toward the elevator. She had filled out, but she was still spare to the point of emaciation, and her worn black suit hung on her as if it were on a frame of sticks. As she disappeared, he moved thoughtfully about his duties, and a quarter-hour later descended to his laboratory.
 
-On the first hour, turmoil met him. Two officer, were carrying in the body of a nondescript old rnan whose head was a blo-ody ruin. There was a babble of excited voices, and he saw a crowd on the steps outside.
+On the first floor, turmoil met him. Two officers were carrying in the body of a nondescript old man whose head was a bloody ruin. There was a babble of excited voices, and he saw a crowd on the steps outside.
 
-“V,’ha.t’s up?” he called. “Accident?”
+“What’s up?” he called. “Accident?”
 
-“Ac^dent!” snapped an officer. “Murder, you mean.
-
-‘omar step” up to this old guy, picks a hefty stone from the irk border, slugs him, and takes his wallet. Just like that!” Scott peered out of the window. The Black Maria was back-g toward a crowd on the park side of the street. A pair of liking policemen flanked a thin figure in black, thrusting it ward the doors of the vehicle.
+“Accident!” snapped an officer. “Murder, you mean. <a id="page55"></a>Woman steps up to this old guy, picks a hefty stone from the park border, slugs him, and takes his wallet. Just like that!” Scott peered out of the window. The Black Maria was backing toward a crowd on the park side of the street. A pair of hulking policemen flanked a thin figure in black, thrusting it ward the doors of the vehicle.
 
 Scott gasped. It was Kyra Zelas!
 
-A week later Dr. Bach stared into the dark fireplace of his ying room. “It’s not our business,” he repeated.
+.space
+A week later Dr. Bach stared into the dark fireplace of his living room. “It’s not our business,” he repeated.
 
-“My God!” blazed Scott. “Not our business! How do we now we’re not responsible? How do we know that our in-ction didn’t unsettle her mind? Glands can do that; look at Icngoloid idiots and cretins. Our stuff was glandular. Maybe 3 drove her crazy!”
+“My God!” blazed Scott. “Not our business! How do we now we’re not responsible? How do we know that our injection didn’t unsettle her mind? Glands can do that; look at Mongoloid idiots and cretins. Our stuff was glandular. Maybe we drove her crazy!”
 
-“All right,” said Bach. “Listen. We’ll attend the trial to-lorrow, and if it looks bad for her, we’ll get hold of her wyer and let him put us on the stand. We’ll testify that she’s ist been released after a long and dangerous illness, and may ot be fully responsible. That’s entirely true.”
+“All right,” said Bach. “Listen. We’ll attend the trial to-morrow, and if it looks bad for her, we’ll get hold of her lawyer and let him put us on the stand. We’ll testify that she’s just been released after a long and dangerous illness, and may not be fully responsible. That’s entirely true.”
 
-Mid-morning of the next day found them hunched tensely n benches in the crowded courtroom. The prosecution was pening; three witnesses testified to the event.
+Mid-morning of the next day found them hunched tensely on benches in the crowded courtroom. The prosecution was opening; three witnesses testified to the event.
 
-“This old guy buys peanuts for the pigeons. Yeah, I sell ’em ) him every day—or did. So this time he hasn’t any change, od he pulls out his wallet, and I see it’s stuffed with bills, md one minute later I see the dame pick up the rock and ank him. Then she grabs the dough—”
+“This old guy buys peanuts for the pigeons. Yeah, I sell ’em to him every day—or did. So this time he hasn’t any change, and he pulls out his wallet, and I see it’s stuffed with bills. And one minute later I see the dame pick up the rock and conk him. Then she grabs the dough—”
 
 “Describe her, please.”
 
-“She’s skinny, and dressed in black. She ain’t no beauty, either. Brownish hair, dark eyes, I don’t know whether dark lue or brown.”
+“She’s skinny, and dressed in black. She ain’t no beauty, either. Brownish hair, dark eyes, I don’t know whether dark blue or brown.”
 
 “Your witness!” snapped the prosecutor.
 
-A young and nervous individual—appointed by the court, le paper said—rose. “You say,” he squeaked, “that the as-lilant had brown hair and dark eyes?”
+A young and nervous individual—appointed by the court, the paper said—rose. “You say,” he squeaked, “that the assalilant had brown hair and dark eyes?”
 
 “Yeah.”
 
 “Will the defendant please rise?”
 
-Her back was toward Scott and Bach as Kyra Zelas arose, ut Scott stiffened. Something strangely different about her ppearance; surely her worn black suit no longer hung so
+Her back was toward Scott and Bach as Kyra Zelas arose, but Scott stiffened. Something strangely different about her appearance; surely her worn black suit no longer hung so <a id="page56"></a>loosely about her. What he could see of her figure seemed—well, magnificent.
 
-loosely about her. What he could see of her figure seemed-wpII, magnificent.
+“Take off your hat, Miss Zelas,” squeaked the attorney. Scott gasped. Radiant as aluminum glowed the mass of hair she revealed!
 
-“Take off your hat, Miss Zelas,” squeaked the attorney. Scott gasped. Radiant as aluminum glowed the mass of ha shr revealed!
+“I submit, your honor, that this defendant does not possess dark hair, nor, if you will observe, dark eyes. It is, I suppose conceivable that she could somehow have bleached her hair while in custody, and I therefore”—he brandished a pair of scissors—“submit a lock to be tested by any chemist the court appoints. The pigmentation is entirely natural. And as for her eyes—does my esteemed opponent suggest that they, too are bleached?”
 
-“I submit, your honor, that this defendant does not posse; dark hair, nor, if you will observe, dark eyes. It is, I supposi conceivable that she could somehow have bleached her ha: while in custody, and I therefore”—he brandished a pair c scissors—“submit a lock to be tested by any chemist th court appoints. The pigmentation is entirely natural. And £ for her eyes—does my esteemed opponent suggest that the tc ~) are bleached?”
-
-He swung on the gaping witness. “Is this lady the one yo claim to have seen committing the crime?”
+He swung on the gaping witness. “Is this lady the one you claim to have seen committing the crime?”
 
 The man goggled. “Uh—I can’t—say.”
 
-‘is she?” rN-no!”
+”is she?”
 
-The speaker smiled. “That’s all. Will you take the stanc M: ss Zelas?”
+“N-no!”
 
-The girl moved lithe as a panther. Slowly she turned, facin the court. Scott’s brain whirled, and his fingers dug into Bach’ arm. Silver-eyed, aluminum-haired, alabaster-pale, the gis on the stand was beyond doubt the most beautiful woman h had ever seen!
+The speaker smiled. “That’s all. Will you take the stand Miss Zelas?”
+
+The girl moved lithe as a panther. Slowly she turned, facing the court. Scott’s brain whirled, and his fingers dug into Bach’s arm. Silver-eyed, aluminum-haired, alabaster-pale, the girl on the stand was beyond doubt the most beautiful woman he had ever seen!
 
 The attorney was speaking again. “Tell the court in you own words what happened, Miss Zelas.”
 
-Quite casually the girl crossed her trim ankles and began t speak. Her voice was low, resonant, and thrilling; Scott had t fight to keep his attention on the sense of her words rathe than the sound.
+Quite casually the girl crossed her trim ankles and began to speak. Her voice was low, resonant, and thrilling; Scott had t0 fight to keep his attention on the sense of her words rather than the sound.
 
-“I had just left Grand Mercy Hospital,” she said, “where had been ill for some months. I had crossed the park whei suddenly a woman in black rushed at me, thrust an empt; wallet into my hands, and vanished. A moment later I wa surrounded by a screaming crowd, and—well, that’s all.”
+“I had just left Grand Mercy Hospital,” she said, “where had been ill for some months. I had crossed the park when suddenly a woman in black rushed at me, thrust an empty wallet into my hands, and vanished. A moment later I was surrounded by a screaming crowd, and—well, that’s all.”
 
-“An empty wallet, you say?” asked the defense lawyer “What of the money found in your own bag, which m; eminent colleague believes stolen?”
+“An empty wallet, you say?” asked the defense lawyer “What of the money found in your own bag, which my eminent colleague believes stolen?”
 
-“It was mine,” said the girl, “about seven hundred dollars.’ Bach hissed, “That’s a lie! She had two dollars and thirty three cents on her when we took her in.”
+“It was mine,” said the girl, “about seven hundred dollars.”
 
-“Do you mean you think she’s the same Kyra ZeUs we ad at the hospital?” gasped Scott.
+Bach hissed, “That’s a lie! She had two dollars and thirty three cents on her when we took her in.”
 
-“I don’t know. I don’t know anything, but if I ever touch tat damned serum of yours—Look! Look, Dan!” This last las a tense whisper.
+<a id="page57"></a>“Do you mean you think she’s the same Kyra Zelas we had at the hospital?” gasped Scott.
+
+“I don’t know. I don’t know anything, but if I ever touch that damned serum of yours—Look! Look, Dan!” This last last was a tense whisper.
 
 “What?”
 
 “Her hair! When the sun strikes it!”
 
-Scott peered more closely. A vagrant ray of noon sunlight Jtered through a high window, and now and again the sway-lg of a shade permitted it to touch the metallic radiance of ie girl’s hair. Scott stared and saw; slightly but unmistakably, whenever the light touched that glowing aureole, her hair arkened from bright aluminum to golden blond!
+Scott peered more closely. A vagrant ray of noon sunlight filtered through a high window, and now and again the swaying of a shade permitted it to touch the metallic radiance of the girl’s hair. Scott stared and saw; slightly but unmistakably, whenever the light touched that glowing aureole, her hair darkened from bright aluminum to golden blond!
 
-Something clicked in his brain. There was a clue somewhere -if he could but find it. The pieces of the puzzle were there, ut they were woefully hard to fit together. The girl in the ospital and her reaction to incisions; this girl and her reaction 3 light.
+Something clicked in his brain. There was a clue somewhere—if he could but find it. The pieces of the puzzle were there, but they were woefully hard to fit together. The girl in the hospital and her reaction to incisions; this girl and her reaction to light.
 
-“I’ve got to see her,” he whispered. “There’s something I ave to find—Listen!”
+“I’ve got to see her,” he whispered. “There’s something I have to find—Listen!”
 
-The speaker was orating. “And we ask the dismissal of the ihole case, your honor, on the grounds that the prosecution las utterly failed even to identify the defendant.”
+The speaker was orating. “And we ask the dismissal of the whole case, your honor, on the grounds that the prosecution has utterly failed even to identify the defendant.”
 
-The judge’s gavel crashed. For a moment his aging eyes ested on the girl with the silver eyes and incredible hair, hen: “Case dismissed!” he snapped. “Jury discharged!”
+The judge’s gavel crashed. For a moment his aging eyes rested on the girl with the silver eyes and incredible hair, then: “Case dismissed!” he snapped. “Jury discharged!”
 
-There was a tumult of voices. Flashlights shot instantan-ous sheets of lightning. The girl on the witness stand rose vith perfect poise, smiled with lovely, innocent lips, and noved away. Scott waited until she passed close at hand.
+There was a tumult of voices. Flashlights shot instantaneous sheets of lightning. The girl on the witness stand rose with perfect poise, smiled with lovely, innocent lips, and moved away. Scott waited until she passed close at hand.
 
 “Miss Zelas!” he called.
 
-She paused. Her strange silver eyes lighted with unmis-akable recognition. “Dr. Scott!” said the voice of tinkling netal. “And Dr. Bach!”
+She paused. Her strange silver eyes lighted with unmistakable recognition. “Dr. Scott!” said the voice of tinkling metal. “And Dr. Bach!”
 
-She was, then. She was the same girl. This was the drab loven of the isolation ward, this weirdly beautiful creature of xotic coloring. Staring, Scott could trace now the very dentity of her features, but changed as by a miracle.
+She was, then. She was the same girl. This was the drab sloven of the isolation ward, this weirdly beautiful creature of exotic coloring. Staring, Scott could trace now the very identity of her features, but changed as by a miracle.
 
-He pushed through the mob of photographers, press men, ind curiosity seekers. “Have you a place to stay?” he asked. ‘Dr. Bach’s offer still stands.”
+He pushed through the mob of photographers, press men, and curiosity seekers. “Have you a place to stay?” he asked. ‘Dr. Bach’s offer still stands.”
 
-She smiled. “I am very grateful,” she murmured, and then,
+She smiled. “I am very grateful,” she murmured, and then, <a id="page58"></a>to the crowd of reporters: “The doctor is an old friend of mine.” She was completely at ease, unruffled, poised.
 
-to the crowd of reporters: ‘The doctor is an old friend o mine.” She was completely at ease, unruffled, poised.
+Something caught Scott’s eye, and he purchased a paper glancing quickly at the photograph, the one taken at the moment the girl had removed her hat. He started; her hair showed raven black! There was a comment below the picture too, to the effect that “her striking hair photographs much darker than it appears to the eye.”
 
-Something caught Scott’s eye, and he purchased a papei glancing quickly at the photograph, the one taken at the me ment the girl had removed her hat. He started; her hai showed raven black! There was a comment below the picture too, to the effect that “her striking hair photographs mud darker than it appears to the eye.”
+He frowned. “This way,” he said to the girl, then goggled in surprise again. For in the broad light of noon her complexion was no longer the white of alabaster; it was creamy tan, the skin of one exposed to long hours of sunlight; the eyes were deep violet, and her hair—that tiny wisp unconcealed by her hat—was as black as the basalt columns of hell!
 
-He frowned. “This way,” he said to he girl, then goggle in surprise again. For in the broad light of noon her core plexion was no longer the white of alabaster; it was cream tan, the skin of one exposed to long hours of sunlight; he eyes were deep violet, and her hair—that tiny wisp uncon cealed by her hat—was as black as the basalt columns of helJ
+Kyra had insisted on stopping to purchase a substitute for the worn black suit, and had ended by acquiring an entire outfit. She sat now curled in the deep davenport before the fireplace in Dr. Bach’s library, sheathed in silken black from her white throat to the tiny black pumps on her feet. She was almost unearthly in her weird beauty, with her aluminum hair, silver eyes, and marble-pale skin against the jet silk covering.
 
-Kyra had insisted on stopping to purchase a substitute fo the worn black suit, and had ended by acquiring an entir outfit. She sat now curled in the deep davenport before th fireplace in Dr. Bach’s library, sheathed in silken black fron her white throat to the tiny black pumps on her feet. She wa almost unearthly in her weird beauty, with her aluminum hail silver eyes, and marble-pale skin against the jet silk covering.
-
-She gazed innocently at Scott. “But why shouldn’t I?” sb asked. “The court returned my money; I can buy what please with it.”
+She gazed innocently at Scott. “But why shouldn’t I?” she asked. “The court returned my money; I can buy what please with it.”
 
 “Your money?” he muttered. “You had less than thre dollars when you left the hospital.”
 
 “But this is mine now.”
 
-“Kyra,” he said abruptly, “where did you get that money?’ Her face was saintlike in its purity. “From the old man.”
+“Kyra,” he said abruptly, “where did you get that money?”
+
+Her face was saintlike in its purity. “From the old man.”
 
 “You—you did murder him!”
 
@@ -1412,417 +1412,15 @@ She gazed innocently at Scott. “But why shouldn’t I?” sb asked. “The cou
 
 He choked. “My Lord!” he gasped. “Don’t you realiz we’ll have to tell?”
 
-She shook her head, smiling gently from one to the othe of them. “No, Dan. You won’t tell, for it wouldn’t do an; good. I can’t be tried twice for the same crime. Not ii America.”
+She shook her head, smiling gently from one to the othe of them. “No, Dan. You won’t tell, for it wouldn’t do any good. I can’t be tried twice for the same crime. Not in America.”
 
 “But why, Kyra? Why did you—”
 
-“Would you have me resume the life that sent me into you hands? I needed money; money was there; I took it.”
+“Would you have me resume the life that sent me into your hands? I needed money; money was there; I took it.”
 
-“But murderl”
+“But murder!”
 
-“It v^s the most direct way.”
-
-“Not if you happened to be punished for it,” he returned grimly.
-
-“But I wasn’t,” she reminded him gently.
-
-He groaned. “Kyra,” he said, shifting the subject suddenly, “why do your eyes and skin and hair darken in sunlight or when exposed to flashlight?”
-
-She smiled. “Do they?” she asked. “I hadn’t noticed.” She yawned, stretched her arms above her head and her slim legs before her. “I think I shall sleep now,” she announced. She swept her magnificent eyes over them, rose, and disappeared into the room Dr. Bach had given her—his own.
-
-Scott faced the older man, his features working in emotion. “Do you see?” he hissed. “Good Lord, do you see?”
-
-“Do you, Dan?”
-
-“Part of it. Part of it, anyway.”
-
-“And I see part as well.”
-
-“Well,” said Scott, “here it is as I see it. That serum—that accursed serum of mine—has somehow accentuated this girl’s adaptability to an impossible degree. What is it that differentiates life from non-living matter? Two things, irritation and adaptation. Life adapts itself to its environment, and the greater the adaptability, the more successful the organism.
-
-“Now,” he proceeded, “all human beings show a very considerable adaptivity. When we expose ourselves to sunlight, our skin shows pigmentation—we tan. That’s adaptation to an environment containing sunlight. When a man loses his right hand, he learns to use his left. That’s another adaptation. When a person’s skin is punctured, it heals and rebuilds, and that’s another angle of the same thing. Sunny regions produce dark-skinned, dark-haired people; northern lands produce blonds—and that’s adaptation again.
-
-“So what’s happened to Kyra Zelas, by some mad twist I don’t understand, is that her adaptive powers have been increased to an extreme. She adapts instantly to her environment; when sun strikes her, she tans at once, and in shade she fades immediately. In sunlight her hair and eyes are those of a tropical race; in shadow, those of a Northerner. And—good Lord, I see it now—when she was faced with danger there in the courtroom, faced by a jury and judge who were men, she adapted to that! She met that danger, not only by
-
-changed appearance, but by a beauty so great that she couldn’t have been convicted!” He paused. “But how? How?”
-
-“Perhaps medicine can tell how,” said Bach. “Undoubtedly man is the creature of his glands. The differences between races—white, red, black, yellow—is doubtless glandular. And perhaps the most effective agent of adaptation is the human brain and neural system, which in itself is controlled partly by a little greasy mass on the floor of the brain’s third ventricle, before the cerebellum, and supposed by the ancients to be the seat of the soul.
-
-“I mean, of course, the pineal gland. I suspect that what your serum contains is the long-sought hormone pinealin, and that it has caused hypertrophy of Kyra’s pineal gland. And Dan, do you realize that if her adaptability is’perfect, she’s not only invincible, but invulnerable?”
-
-“That’s true!” gulped Scott. “Why, she couldn’t be electrocuted, because she’d adapt instantly to an environment containing an electric current, and she couldn’t be killed by a shot, because she’d adapt to that as quickly as to your needle pricks. And poison—but there must be a limit somewhere!”
-
-“There doubtless is,” observed Bach. “I hardly believe she could adapt herself to an environment containing a fifty-ton locomotive passing over her body. And yet there’s an important point we haven’t considered. Adaptation itself is of two kinds.”
-
-“Two kinds?”
-
-“Yes. One kind is biological; the other, human. Naturally a biochemist like you would deal only with the first, and equally naturally a brain surgeon like me has to consider the second as well. Biological adaptation is what all life—plant, animal, and human—possess, and it is merely conforming to one’s environment. A chameleon, for instance, shows much the same ability as Kyra herself, and so, in lesser degree, does the arctic fox, white in winter, brown in summer; or the snowshoe rabbit, for that matter, or the weasel. All life conforms to its environment to a great extent, because if it doesn’t, it dies. But human life does more.”
-
-“More?”
-
-“Much more. Human adaptation is not only conformity to environment, but also the actual changing of environment to fit human needs! The first cave man who left his cave to build
-
-a grass hut changed his environment, and so, in exactly the same sense, did Steinmetz, Edison, and as far as that goes, Julius Caesar and Napoleon. In fact, Dan, all human invention, genius, and military leadership boils down to that one fact—changing the environment instead of conforming to it.”
-
-He paused, then continued, “Now we know that Kyra possesses the biological adaptivity. Her hair and eyes prove that. But what if she possesses the other to the same degree? If she does, God knows what the result will be. We can only watch to see what direction she takes—watch and hope.”
-
-“But I don’t see,” muttered Scott, “how that could be glandular.”
-
-“Anything can be glandular. In a mutant—and Kyra’s as much a mutant as your white-eyed fruit flies—anything is possible.” He frowned reflectively. “If I dared phrase a philosophical interpretation, I’d say that Kyra—perhaps—represents a stage in human evolution. A mutation. If one ventured to believe that, then de Vries and Weissman are justified.”
-
-“The mutation theory of evolution, you mean?”
-
-“Exactly. You see, Dan, while it is very obvious from fossil remains that evolution occurred, yet it is very easy to prove it couldn’t possibly have occurred!”
-
-“How?”
-
-“Well, it couldn’t have occurred slowly, as Darwin believed, for many reasons. Take the eye, for instance. He thought that very gradually, over thousands of generations, some sea creature developed a spot on its skin that was sensitive to light, and that this gave it an advantage over its blind fellows. Therefore its kind survived and others perished. But see here. If this eye developed slowly, why did the very first ones, the ones that couldn’t yet see, have any better chance than the others? And take a wing. What good is a wing until you can fly with it? Just because a jumping lizard had a tiny fold of skin between foreleg and breast wouldn’t mean that that lizard could survive where others died. What kept the wing developing to a point where it could actually have value?”
-
-“What .did?”
-
-‘ De Vries and Weissman say nothing did. They answer that evolution must have progressed in jumps, so that when the eye appeared, it was already efficient enough to have survival value, and likewise the wing. Those jumps they named mutations. And in that sense, Dan, Kyra’s a mutation,
-
-a jump from the human to—something else. Perhaps the superhuman.”
-
-Scott shook his head in perplexity. He was thoroughly puzzled, completely baffled, and more than a little unnerved. In a few moments more he bade Bach good night, wandered home, and lay for hours in sleepless thought.
-
-The next day Bach managed a leave of absence for both of them from Grand Mercy, and Scott moved in. This was in part simply out of his fascinated interest in the case of Kyra Zelas, but in part it was altruistic. She had confessedly murdered one man; it occurred to Scott that she might with no more compunction murder Dr. Bach, and he meant to be at hand to prevent it.
-
-He had been in her company no more than a few hours before Bach’s words on evolution and mutations took on new meaning. It was not only Kyra’s chameleonlike coloring, nor her strangely pure and saintlike features, nor even her incredible beauty. There was something more; he could not at once identify it, but decidedly the girl Kyra was not quite human.
-
-The event that impressed this on him occurred in the late afternoon. Bach was away somewhere on personal business, and Scott had been questioning the girl about her own impressions of her experience.
-
-“But don’t you know you’ve changed?” he asked. “Can’t you see thq difference in yourself?”
-
-“Not I. It is the world that has changed.”
-
-“But your hair was black. Now it’s light as ashes.”
-
-“Was it?” she asked. “Is it?”
-
-He groaned in exasperation. “Kyra,” he said, “you must know something about yourself.”
-
-Her exquisite eyes turned their silver on him. “I do,” she said. “I know that what I want is mine, and”—her pure lips smiled—“I think I want you, Dan.”
-
-It seemed to him that she changed at that moment. Her beauty was not quite as it had been, but somehow more wildly intoxicating than before. He realized what it meant; her environment now contained a man she loved, or thought she loved, and she was adapting to that, too. She was becoming—he shivered slightly—irresistible!
-
-Bach must have realized the situation, but he said nothing. As for Scott, it was sheer torture, for he realized only too
-
-well that the girl he loved was a freak, a biological sport, and worse than that, a cold murderess and a creature not exactly human. Yet for the next several days things went smoothly. Kyra slipped easily into the routine; she was ever a willing subject for their inquiries and investigations.
-
-Then Scott had an idea. He produced one of the guinea pigs that he had injected, and they found that the creature evinced the same reaction as Kyra to cuts. They killed the thing by literally cutting it in half with an ax, and Bach examined its brain.
-
-“Right!” he said at last. “It’s hypertrophy of the pineal.” He stared intently at Scott. “Suppose,” he said, “that we could reach Kyra’s pineal and correct the hypertrophy. Do you suppose that might return her to normal?”
-
-Scott suppressed a pang of fear. “But why? She can’t do any harm as long as we guard her here. Why do we have to gamble with her life like that?”
-
-Bach laughed shortly. “For the first time in my life I’m glad I’m an old man,” he said. “Don’t you see we have to do something? She’s a menace. She’s dangerous. Heaven only knows how dangerous. We’ll have to try.”
-
-Scott groaned and assented. An hour later, under the pretext of experiment, he watched the old man inject five grains of morphia into the girl’s arm, watched her frown and blink—and adjust. The drug was powerless.
-
-It was at night that Bach got his next idea. “Ethyl chloride!” he whispered. “The instantaneous anaesthetic. Perhaps she can’t adjust to lack of oxygen. We’ll try.”
-
-Kyra was asleep. Silently, carefully, the two crept in, and Scott stared down in utter fascination at the weird beauty of her features, paler than ever in the faint light of midnight. Carefully, so carefully, Bach held the cone above her sleeping face, drop by drop he poured the volatile, sweet-scented liquid into it. Minutes passed.
-
-“That should anaesthetize an elephant,” he whispered at last, and jammed the cone full upon her face.
-
-She awoke. Fingers like slim steel rods closed on his wrist, forcing his hand away. Scott seized the cone, and her hand clutched his wrist as well, and he felt the strength of her grasp.
-
-“Stupid,” she said quietly, sitting erect. “This is quite useless—look!”
-
-She snatched a paper knife from the table beside the bed. She bared her pale throat to the moonlight, and then, suddenly, drove the knife to its hilt into her bosom!
-
-Scott gulped in horror as she withdrew it. A single spot of blood showed on her flesh, she wiped it away, and displayed her skin, pale, unscarred, beautiful.
-
-“Go away,” she said softly, and they departed.
-
-The next day she made no reference to the incident. Scott and Bach spent a worried morning in the laboratory, doing no work, but simply talking. It was a mistake, for when -they returned to the library, she was gone, having, according to Mrs. Getz, simply strolled out of the door and away. A hectic and hasty search of the adjacent blocks brought no sign of her.
-
-At dusk she was back, pausing hatless in the doorway to permit Scott, who was there alone, to watch the miraculous change as she passed from sunset to chamber, and her hair faded from mahogany to aluminum.
-
-“Hello,” she said smiling. “I killed a child.”
-
-“What? My Lord, Kyra!”
-
-“It was an accident. Surely you don’t feel that I should be punished for an accident, Dan, do you?”
-
-He was staring in utter horror. “How—”
-
-“Oh, I decided to walk a bit. After a block or two, it occurred to me that I should like to ride. There was a car parked there with the keys in it, and the driver was talking on the sidewalk, so I slipped in, started it, and drove away. Naturally I drove rather fast, since he was shouting, and at the second corner I hit a little boy.”
-
-“And—you didn’t stop?”
-
-“Of course not. I drove around the comer, turned another corner or two, and then parked the car and walked back. The boy was gone, but the crowd was still there. Not one of them noticed me.” She smiled her saintlike smile. “We’re quite safe. They can’t possibly trace me.”
-
-Scott dropped his head on his hands and groaned. “I don’t know what to do!” he muttered. “Kyra, you’re going to have to report this to the police.”
-
-“But it was an accident,” she said gently, her luminous silver eyes pityingly on Scott.
-
-“No matter. You’ll have to.”-
-
-She placed her white hand on his head. “Perhaps tomor-
-
-row,” she said. “Dan, I have learned something. What one needs in this world is power. As long as there are people in the world with more power than I, I run afoul of them. They keep trying to punish me with their laws—and why? Their laws are not for me. They cannot punish me.”
-
-He did not answer.
-
-“Therefore,” she said softly, “tomorrow I go out of here to
-
-seek power. I will be more powerful than any laws.”
-
-That shocked him to action. “Kyra!” he cried. “You’re not to try to leave here again.” He gripped her shoulders. “Promise me! Swear that you’ll not step beyond that door without me!”
-
-“Why, if you wish,” she said quietly.
-
-“But swear it! Swear it by everything sacred!”
-
-Her silver eyes looked steadily into his from a face like that of a marble angel. “I swear it,” she murmured. “By anything you name, I swear it, Dan.”
-
-And in the morning she was gone, taking what cash and bills had been in Scott’s wallet, and in Bach’s as well. And, they discovered later, in Mrs. Getz’s also.
-
-“But if you could have seen her!” muttered Scott. “She looked straight into my eyes and promised, and her face was pure as a madonna’s. I can’t believe she was lying.”
-
-“The lie as an adaptive mechanism,” said Bach, “deserves more attention than it has received. Probably the original liars are those plants and animals that use protective mimicry—harmless snakes imitating poisonous ones, stingless flies that look like bees. Those are living lies.”
-
-“But she couldn’t—”
-
-“She has, however. What you’ve told me about her desire for power is proof enough. She’s entered the second adaptive phase—that of adapting her environment to herself instead of herself to her environment. How far will her madness—or her genius—carry her? There is very little difference between the two, Dan. And what is left now for us to do but watch?”
-
-“Watch? How? Where is she?”
-
-“Unless I’m badly mistaken, watching her will be easy once she begins to achieve. Wherever she is, I think we—and the rest of the world—will know of it soon enough.”
-
-But weeks dropped away without sign of Kyra Zelas. Scott and Bach returned to their duties at Grand Mercy, and down
-
-ir> his laboratory the biochemist disposed grimly of the remains of three guinea pigs, a cat, and a dog, whose killing had been an exhausting and sickening task. In the crematory as well went a tube of water-clear serum.
-
-Then one day the annunciator summoned him to Bach’s office, where he found the old man hunched over a copy of the Post Record.
-
-“Look here!” he said, indicating a political gossip column called “Whirls of Washington.”
-
-Scott read, “And the surprise of the evening was the soi-disant confirmed bachelor of the cabinet, upright John Call an, who fluttered none other than the gorgeous Kyra Zelas, the lady who affects a dark wig by day and a white by night. Some of us remember her as the acquittee of a murder trial.”
-
-Scott looked up. “Callan, eh? Secretary of the Treasury, no less! When she said power she meant power, apparently.”
-
-“But will she stop there?” mused Bach gloomily. “I have a premonition that she’s just beginning.”
-
-“Well, actually, how far can a woman go?”
-
-The old man looked at him. “A woman? This is Kyra Zelas, Dan. Don’t set your limits yet. There will be more of her.”
-
-Bach was right. Her name began to appear with increasing frequency, first in social connections, then with veiled references to secret intrigues and influences.
-
-Thus: “Whom do the press boys mean by the tenth cabi-neteer?” Or later: “Why not a secretary of personal relations? She has the powers; give her the name.” And still later: “One has to go back to Egypt for another instance of a country whose exchequer was run by a woman. And Cleopatra busted that one.”
-
-Scott grinned a little ruefully to himself as he realized that the thrusts were becoming more indirect, as if the press itself were beginning to grow cautious. It was a sign of increasing power, for nowhere are people as sensitive to such trends as among the Washington correspondents. Kyra’s appearance in the public prints began to be more largely restrained to purely social affairs, and usually in connection with John Callan, the forty-five-year-old bachelor Secretary of the Treasury.
-
-Waking or sleeping, Scott never for a moment quite forgot her, for there was something mystical about her, whether she
-
-were mad or a woman of genius, whether freak or superwoman. The only thing he did forget was a thin girl with drab features and greasy black hair who had lain on a pallet in the isolation ward and coughed up flecks of blood.
-
-It was no surprise to either Scott or Dr. Bach to return one evening to Bach’s residence for a few hours’ conversation, and find there, seated as comfortably as if she had never left it, Kyra Zelas. Outwardly she had changed but little; Scott gazed once more in fascination on her incredible hair and wide, innocent silver eyes. She was smoking a cigarette, and she exhaled a long, blue plume of smoke and smiled up at him.
-
-He hardened himself. “Nice of you to honor us,” he said coldly. “What’s the reason for this visit? Did you run out of money?”
-
-“Money? Of course not. How could I run out of money?”
-
-“You couldn’t, not as long as you replenished your funds the way you did when you left.”
-
-“Oh that!” she said contemptuously. She opened her handbag, indicating a green mass of bills. “I’ll give that back, Dan. How much was it?”
-
-“To hell with the money!” he blazed. “What hurts me is the way you lied. Staring into my eyes as innocent as a baby, and lying all the time!”
-
-“Was I?” she asked. “I won’t lie to you again, Dan. I promise.”
-
-“I don’t believe you,” he said bitterly. “Tell us what you’re doing here, then.”
-
-“I wanted to see you. I haven’t forgotten what I said to you, Dan.” With the words she seemed to grow more beautiful than ever, and this time poignantly wistful as well.
-
-“And have you,” asked Bach suddenly, “abandoned your idea of power?”
-
-“Why should I want power?” she rejoined innocently, flashing her magnificent eyes to him.
-
-“But you said,” began Scott impatiently, “that you—”
-
-“Did I?” There was a ghost of a smile on her perfect lips. “I won’t lie to you, Dan,” she went on, laughing a little. “If I want power, it is mine for the taking—more power than you dream.”
-
-“Through John Callan?” he rasped.
-
-“He offers a simple way,” she said impassively. “Suppose,
-
-for instance, that in a day or so he were to issue a statemenl—a supremely insulting statement—about the war debts. The administration couldn’t afford to reprimand him openly, because most of the voters feel that a supremely insulting statement is called for. And if it were insulting enough—and I assure you it would be—you would see the animosity of Europe directed westward.
-
-“Now, if the statement were one that no national government could ignore and yet keep its dignity in the eyes of its people, it would provoke counter-insults. And there are three nations—you know their names as well as I—who await only such a diversion of interest. Don’t you see?” She frowned.
-
-“How stupid you both are!” she murmured, and then, stretching her glorious figure and yawning, “I wonder whal sort of empress I would make. A good one, doubtless.”
-
-But Scott was aghast. “Kyra, do you mean you’d urge Callan into such a colossal blunder as that?”
-
-“Urge him!” she echoed contemptuously. “I’d force him.’! “Do you mean you’d do it?”
-
-“I haven’t said so,” she smiled. She yawned again, and snapped her cigarette into the dark fireplace. “I’ll stay here a day or two,” she added pleasantly, rising. “Good night.” Scott faced Dr. Bach as she vanished into the old man’s chamber. “Damn her!” he grated, his lips white. “If I believed she meant all of that.”
-
-“You’d better believe it,” said Bach.
-
-“Empress, eh! Empress of what?”
-
-“Of the world, perhaps. You can’t set limits to madness or genius.”
-
-“We’ve got to stop her!”
-
-“How? We can’t keep her locked up here. In the first place, she’d doubtless develop strength enough in her wrists to break the locks on the doors, and if she didn’t, all she’d need to do is shout for help, from a window.’
-
-“We can have her adjudged insane!” flared Scott. “We can have her locked up where she can’t break out or call foi help.”
-
-“Yes, we could. We could if we could get her committed by the Sanity Commission. And if we got her before them, what chance do you think we’d have?”
-
-“All right, then,” said Scott grimly, “we’re going to have to find her weakness. Her adaptability can’t be infinite. She’s
-
-immune to drugs and immune to wounds, but she can’t bo above the fundamental laws of biology. What we have to do is find the law we need.”
-
-“You find it then,” said Bach gloomily.
-
-“But we’ve got to do something. At least we can warn people—” He broke off, realizing the utter absurdity of the idea.
-
-“Warn people!” scoffed Bach. “Against what? We’d be the ones to go before the Sanity Commission then. Callan would ignore us with dignity, and Kyra would laugh her pretty little laugh of contempt, and that would be that.”
-
-Scott shrugged helplessly. “I’m staying here tonight,” he said. “At least we can talk to her again tomorrow.”
-
-“If she’s still here,” remarked Bach ironically.
-
-But she was. She came out as Scott was reading the morning papers alone in the library, and sat silently opposite him, garbed in black silk lounging pajamas against which her alabaster skin and incredible hair glowed in startling contrast. He watched skin and hair turn faintly golden as the morning sun lightened the chamber. Somehow it angered him that she should be so beautiful and at the same time deadly with an inhuman deadliness.
-
-He spoke first. “You haven’t committed any murders since our last meeting, I hope.” He said it spitefully, viciously.
-
-She was quite indifferent. “Why should I? It has not been necessary.”
-
-“You know, Kyra,” he said evenly, “that you ought to be killed.”
-
-“But not by you, Dan. You love me.”
-
-He said nothing. The fact was too obvious to deny. “Dan,” she said softly, “if you only had my courage, there is no height we might not reach together. No height—if you had the courage to try. That is why I came back here, but—” She shrugged. ‘I go back to Washington tomorrow.” Later in the day Scott got Bach alone. “She’s going tomorrow!” he said tensely. “Whatever we can do has to be done tonight.”
-
-The old man gestured helplessly. “What can we do? Can you think of any law that limits adaptability?”
-
-“No, but—” He paused suddenly. “By Heaven!” he cried. “I can! I’ve got it!” ‘
-
-“What?”
-
-“The law! A fundamental biological law that must 1 Kyra’s weakness!”
-
-“But what?”
-
-“This! No organism can live in its own waste products! It own waste is poison to any living thing!”
-
-“But—”
-
-“Listen. Carbon dioxide is a human waste product. Kyr can’t adapt to an atmosphere of carbon dioxide!”
-
-Bach stared. “By Heaven!” he cried. “But even if you’i right, how—”
-
-“Wait a minute. You can get a couple of cylinders c carbonic acid gas from Grand Mercy. Can you think of an way of getting the gas into her room?”
-
-“Why—this is an old house. There’s a hole from he room to the one I’m using, where the radiator connectio goes through. It’s not tight; we could get a rubber tub past the pipe.”
-
-“Good!”
-
-“But the windows! She’ll have the windows open.”
-
-“Never mind that,” said Scott. “See that they’re soapei so they’ll close easily, that’s all.”
-
-“But even if it works, what good—Dan! You don’t mea: to kill her?”
-
-He shook his head. “I—couldn’t,” he whispered. “But one she’s helpless, once she’s overcome—if she is—you’ll operate That operation on the pineal you suggested before. And ma; Heaven forgive me!”
-
-Scott suffered the tortures of the damned that evening Kyra was, if possible, lovelier than ever, and for the firs time she seemed to exert herself to be charming. He conversation was literally brilliant; she sparkled, and over an< over Scott found himself so fascinated that the thought o the treachery he planned was an excruciating pain. I seemed almost a blasphemy to attempt violence against om whose outward appearance was so pure, so innocent, sc saintlike.
-
-“But she isn’t quite—human!” he told himself. “She’s no an angel but a female demon, a—what were they called ‘—an incubus!”
-
-Despite himself, when at last Kyra yawned luxuriousl]
-
-nd dropped her dainty feet to the floor to depart, be pleaded or a few moments more.
-
-“But it’s early,” he said, “and tomorrow you leave.”
-
-“I will return, Dan. This is not the end for us.”
-
-“I hope not,” he muttered miserably, watching the door f her room as it clicked shut.
-
-He gazed at Bach. The older man, after a moment’s ilence, whispered, “It is likely that she sleeps almost at nee. That’s also a matter of adaptability.”
-
-In tense silence they watched the thin line of light below he closed door. Scott started violently when, after a brief nterval, her shadow crossed it and it disappeared with a aint click.
-
-“Now, then,” he said grimly. “Let’s get it over.”
-
-He followed Bach into the adjacent room. There, cold nd metallic, stood the gray cylinders of compressed gas. le watched as the old man attached a length of tubing, ran t to the opening around the steam pipe, and began to pack he remaining space with wet cotton.
-
-Scott turned to his own task. He moved quietly into the :brary. With utmost stealth he tried the door of Kyra’s oom; it was unlocked as he had known it would be, for the jrl was supremely confident of her own invulnerability.
-
-For a long moment he gazed across at the mass of radiant ilver hair on her pillow, then, very cautiously, he placed a iny candle on the chair by the window, so that it should be t about the level of the bed, lighted it with a snap of his igarette lighter, withdrew the door key, and departed.
-
-He locked the door on the outside, and set about tuffing the crack below it with cotton. It was far from ir-tight, but that mattered little, he mused, since one had o allow for the escape of the replaced atmosphere.
-
-He returned to Bach’s room. “Give me a minute,” he whis-iered. “Then turn it on.”
-
-He stepped to a window. Outside was a two-foot ledge of tone, and he crept to this precarious perch. He was visible rom the street below, but not markedly noticeable, for he ras directly above an areaway between Bach’s house and its leighbor. He prayed fervently that he might escape attention.
-
-He crept along the ledge. The two windows of Kyra’s :hamber were wide, but Bach had done his work. They slid
-
-downward without a creak, and he pressed close against the glass to peer in.
-
-Across the room glowed the faint and steady flame of hi: little taper. Close beside him, within a short arm’s length hac no pane intervened, lay Kyra, quite visible in the dusk. She la) on her back, with one arm thrown above her unbelievable hair, and she had drawn only a single sheet over her. He coulc watch her breathing, quiet, calm, peaceful.
-
-It seemed as if a long time passed. He fancied at last thai he could hear the gentle hiss of gas from Bach’s window, bu he knew that that must be fancy. In the chamber he watchec there was no sign of anything unusual; the glorious Kyra slep as she did everything else—easily, quietly, and confidently.
-
-Then there was a sign. The little candle flame, burning steadily in the draughtless air, flickered suddenly. He watchec it, certain now that its color was changing. Again it flickered flared for a moment, then died. A red spark glowed on the wick for a bare instant, then that was gone.
-
-The candle flame was smothered. That meant a concentration of eight or ten per cent of carbon dioxide in the room’s temperature—far too high to support ordinary life. Yet Kyra was living. Except that her quiet breathing seemed to have deepened, she gave not even a sign of inconvenience. She had adapted to the decreased oxygen supply.
-
-But there must be limits to her powers. He blinked into the darkness. Surely—surely her breathing was quickening. He was positive now; her breast rose and fell in convulsive gasps, and somewhere in his turbulent mind the scientist in him recorded the fact.
-
-“Cheyne-Stokes breathing,” he muttered. In a moment the violence of it would waken her.
-
-It did. Suddenly the silver eyes started open. She brushed her hand across her mouth, then clutched at her throat. Aware instantly of danger, she thrust herself erect, and her bare legs flashed as she pushed herself from the bed. But she must have been dazed, for she turned first to the door.
-
-He saw the unsteadiness in her movements. She twisted the doorknob, tugged frantically, then whirled toward the window. He could see her swaying as she staggered through the vitiated air, but she reached it. Her face was close to his, but he doubted if she saw him, for her eyes were wide and frightened, and her mouth and throat were straining violently for
-
-breath. She raised her hand to smash the pane; the blow landed, but weakly, and the window shook but did not shatter.
-
-Again her arm rose, but that blow was never delivered. For a moment she stood poised, swaying slowly, then her magnificent eyes misted and closed, she dropped to her knees, and at last collapsed limply on the floor.
-
-Scott waited a long, torturing moment, then thrust up the window. The rush of lifeless air sent him whirling dizzily on his dangerous perch, and he clutched the casement. Then a slow breeze moved between the buildings, and his head cleared.
-
-He stepped gingerly into the chamber. It was stifling, but near the open window he could breathe. He kicked thrice against Bach’s wall.
-
-The hiss of gas ceased. He gathered Kyra’s form in his arms, waited until he heard the key turn, then dashed across the room and into the library.
-
-Bach stared as if fascinated at the pure features of the girl. “A goddess overcome,” he said. “There is something sinful about our part in this.”
-
-“Be quick!” snapped Scott. “She’s unconscious, not anaesthetized. God knows how quickly she’ll readjust.”
-
-But she had not yet recovered when Scott laid her on the operating table in Bach’s office, and drew the straps about her arms and body and slim bare legs. He looked down on her still, white face and bright hair, and he felt his heart contract with pain to see them darken ever so faintly and beautifully under the brilliant operating light, rich in actinic rays.
-
-“You were right,” he whispered to the unhearing girl. “Had I your courage there is nothing we might not have attained together.”
-
-Bach spoke brusquely. “Nasal?” he asked. “Or shall I trephine her?”
-
-“Nasal.”
-
-“But I should like a chance to observe the pineal gland. This case is unique, and—”
-
-“Nasal!” blazed Scott. “I won’t have her scarred!”
-
-Bach sighed and began. Scott, despite his long hospital experience, found himself quite unable to watch this operation; he passed the old man his instruments as needed, but kept his eyes averted from the girl’s passive and lovely face.
-
-“So!” said Bach at last. “It is done.” For the first time he himself had a moment’s leisure to survey Kyra’s features.
-
-Bach started violently. Gone was the exquisite aluminum hair, replaced by the stringy, dark, and oily locks of the girl in the hospital! He pried open her eye, silver no longer, but pallid blue. Of all her loveliness, there remained—what? A trace, perhaps; a trace in the saintlike purity of her pale face, and in the molding of her features. But a flame had died; she was a goddess no longer, but a mortal—a human being. The superwoman had become no more than a suffering girl.
-
-An ejaculation had almost burst from his lips when Scott’s voice stopped him. .
-
-“How beautiful she is!” he whispered.
-
-E ach stared. He realized suddenly that Scott was not seeing her as she was, but as she once had been. To his eyes, colored by love, she was still Kyra the magnificent.
+<a id="page59"></a>
 
 ---
 

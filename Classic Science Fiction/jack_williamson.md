@@ -177,6 +177,7 @@ Cover art by Ralph McQuarrie
 
 acknowledgments
 
+.center
 ACKNOWLEDGMENTS
 
 .space.revindent

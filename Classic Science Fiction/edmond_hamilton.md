@@ -197,7 +197,7 @@ ACKNOWLEDGMENTS
 “The Monster-God of Mamurth,” copyright © 1926 by Popular Fiction Publishing Co. for *Weird Tales*, August 1926.
 
 .revindent
-“The Man Who Evolved,” copyright © 1931 by Gernsback Pub” lications, Inc. for *Wonder Stories*, April 1931.
+“The Man Who Evolved,” copyright © 1931 by Gernsback Publications, Inc. for *Wonder Stories*, April 1931.
 
 .revindent
 “A Conquest of Two Worlds,” copyright © 1932 by Gernsback Publications, Inc. for *Wonder Stories*, February 1932.
