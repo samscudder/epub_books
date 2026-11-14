@@ -308,7 +308,7 @@ Red Bank, New Jersey
 
 the_metal_man
 
-# <a id="page1" />The Metal Man
+# <a id="page1"></a>The Metal Man
 
 .fl
 <span class="smallcaps">The Metal Man</span> stands in a dusty basement corner of the Tyburn College museum. Though the first excitement has subsided, his placement there is still an uneasy academic compromise, which so far has saved him from the scientists who want to cut him up for biochemical analysis and the old friends who think he should be buried.
@@ -321,7 +321,7 @@ For four or five years, Kelvin had spent his vacations along the Pacific slope o
 
 We heard later that he had sold his uranium claims to a Swiss syndicate, that he was lecturing in Europe on the chemical and biological effects of atomic radiation, that he himself was under treatment at a clinic near Paris.
 
-He came back to Tyburn on a gloomy Saturday afternoon, out of an early winter fog that was drifting off <a id="page2" />the Gulf Stream. I was at home, raking leaves on the seaward slope of my place below the campus, when I saw the boat coming in toward my rocky little scrap of Atlantic beach. The boat was a stranger—long and low and fast, of the sort once favored by runners of illicit rum or guns. I dropped my rake to watch.
+He came back to Tyburn on a gloomy Saturday afternoon, out of an early winter fog that was drifting off <a id="page2"></a>the Gulf Stream. I was at home, raking leaves on the seaward slope of my place below the campus, when I saw the boat coming in toward my rocky little scrap of Atlantic beach. The boat was a stranger—long and low and fast, of the sort once favored by runners of illicit rum or guns. I dropped my rake to watch.
 
 Piloted with daring and skill, the boat threaded the offshore rocks toward the only yard of sand in half a mile. Four men sprang out, to rush it through the surf. A gaunt fifth man rose in the stern, calling quiet orders. The four ripped ropes and canvas from a coffin-sized box, which they carried up into my yard. The gaunt man limped stiffly to where I stood.
 
@@ -355,7 +355,7 @@ He nodded to his men, who hurried toward the boat.
 
 “My friend?”
 
-<a id="page3" />“Kelvin. Look in the box.”
+<a id="page3"></a>“Kelvin. Look in the box.”
 
 He started back toward the boat.
 
@@ -376,7 +376,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “Because you are my sanest friend, I have arranged to have my body and thus manuscript delivered to you. Perhaps I am laying an unfair burden on you, but at this point I no longer trust myself. I am still uncertain what I really found in Mexico. I cannot decide whether these fragmentary facts should be published or suppressed. Nor can I cope any longer with those ruthless men who want to rob me of what they think I found. Though my death will not be easy, I’m afraid I die in greater peace than I leave behind me.
 
-“As you know, my goal last summer was the headwaters of El Rio de la Sangre. This is a small stream that flows into the Pacific. The year before I had found a strong radioactivity in its red-stained waters, and I <a id="page4" />hoped to strike uranium ores somewhere upriver.
+“As you know, my goal last summer was the headwaters of El Rio de la Sangre. This is a small stream that flows into the Pacific. The year before I had found a strong radioactivity in its red-stained waters, and I <a id="page4"></a>hoped to strike uranium ores somewhere upriver.
 
 “Twenty-five miles above the mouth, the river emerges from the Cordilleras. There are a few miles of rapids, and then the first waterfall. Nobody has ever been beyond the falls. I had reached their foot with an Indian guide, but failed to climb the cliffs beyond.
 
@@ -392,7 +392,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “Night was near. I knew I should be turning back. Yet I stayed, wheeling over the crater, because I couldn’t understand that pool of gas. As the sun sank lower, I saw stranger things. A thin greenish mist gathered over the peaks. It flowed down every slope into the pit, as if it fed that gas lake. Then something stirred the lake itself. The center of it bulged upward into a glowing dome.
 
-“When the sluggish gas flowed back, I saw a huge red sphere rising out of the pit. Its surface was smooth, metallic, and thickly studded with great spikes of yellow <a id="page5" />fire. It spun very slowly on a vertical axis. Weird as it seemed, I sensed purpose in its motion.
+“When the sluggish gas flowed back, I saw a huge red sphere rising out of the pit. Its surface was smooth, metallic, and thickly studded with great spikes of yellow <a id="page5"></a>fire. It spun very slowly on a vertical axis. Weird as it seemed, I sensed purpose in its motion.
 
 “It climbed above my own level and paused there, still spinning. Now I saw a circular spot of dull black over each pole of the sphere. I saw misty streamers from the peaks and the pool drawn into those spots, as if the sphere somehow inhaled them.
 
@@ -410,7 +410,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “A dark surface loomed under me. I pulled out of the dive and managed to land on a smooth plain of coarse red sand. Like the green gas, the sand was dully luminous.
 
-<a id="page6" />“For a time I was confined to the cockpit by my own weight, but slowly that blue glow faded, along with its effect. I climbed out of the plane with my canteen and my automatic pistol, which were themselves still immensely heavy.
+<a id="page6"></a>“For a time I was confined to the cockpit by my own weight, but slowly that blue glow faded, along with its effect. I climbed out of the plane with my canteen and my automatic pistol, which were themselves still immensely heavy.
 
 “Unable to stand erect, I crawled away across the sand. I felt sure that I had been brought down by something intelligent. I was deathly afraid, yet soon I had to stop and rest.
 
@@ -426,7 +426,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “At first I took it for a cast model of a real bird, but then I found each feather separate and flexible—as if a living eagle had been turned to metal. I remembered that fissioning uranium transmutes itself to lead, and wondered if intense radiation could transmute the tissues of a bird.
 
-<a id="page7" />“Fear seized me, for my own body. Anxiously I began to look for other transformed creatures. I found them in abundance scattered over the sand or half buried in it. Birds, large and small. Flying insects, most of them strange to me. Even a pterosaur—a flying reptile that must have reached the pit long ages past.
+<a id="page7"></a>“Fear seized me, for my own body. Anxiously I began to look for other transformed creatures. I found them in abundance scattered over the sand or half buried in it. Birds, large and small. Flying insects, most of them strange to me. Even a pterosaur—a flying reptile that must have reached the pit long ages past.
 
 “Scrabbling to dig it out of the glowing sand, I saw a green glint from my own hands. The tips of my fingernails and the fine hairs on the back of my hands were already changed to light green metal!
 
@@ -442,7 +442,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “Wildly I groped for a way to escape. I had to scale the crater walls or else recover the plane, yet I felt too weak to move. Though I felt no actual hunger, I thought food might give me strength.
 
-“Recklessly, I picked a few of those purple berries. <a id="page8" />They had a salty, metallic taste. I spat them out, afraid they would make me ill. But, in pulling them, I had got the juice on my fingers. When I wiped it off, I found, to my amazement and my inexpressible joy, that the metal rim was gone from the nails it had touched.
+“Recklessly, I picked a few of those purple berries. <a id="page8"></a>They had a salty, metallic taste. I spat them out, afraid they would make me ill. But, in pulling them, I had got the juice on my fingers. When I wiped it off, I found, to my amazement and my inexpressible joy, that the metal rim was gone from the nails it had touched.
 
 “I had found hope. The evolution of the plants, I thought, must have produced something that resisted transmutation. I stuffed myself with berries till I began to feel sick, then poured the water from my canteen and squeezed juice to fill it.
 
@@ -458,7 +458,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “I plodded on until it must have been noon, though my watch had stopped; Sometimes I stumbled over more things that must have been alive when they fell from above. Uprooted trees. Birds of every sort. A huge green bear, its breed long extinct.
 
-“At last I found a break in that vertical wall—a wide flat shelf with an inviting slope above it. But that ledge was a good sixty feet above me. I tried to reach it and <a id="page9" />slid back, again and again, until my hands were bleeding. I gave up and went on.
+“At last I found a break in that vertical wall—a wide flat shelf with an inviting slope above it. But that ledge was a good sixty feet above me. I tried to reach it and <a id="page9"></a>slid back, again and again, until my hands were bleeding. I gave up and went on.
 
 “Somewhere beyond, groggy with exhaustion and despair, I staggered into a city of the flying lights—that’s what it must have been. Slim black towers stood scattered across the red sand. Each one was topped with a great mushroom of orange flame.
 
@@ -474,7 +474,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “Down and down it came, until I saw its form. It was a crystal thing. I watched it with a sick fascination. A dozen feet long, it had an intricate structure like a crystal of snow. The heart of it was a blue, six-pointed star. An upright prism pierced the star. Blue fire pulsed through it, flowing inward from the points of the star, and threads of bright scarlet trailed outward from the faces of the prism. Neither animal nor plant nor even machine, it was alive—alive with light!
 
-<a id="page10" />“It fell straight toward me.
+<a id="page10"></a>“It fell straight toward me.
 
 “In a reflexive act of panic, I pulled my automatic and fired three shots. The bullets glanced off those glittering planes and whined away into the fog.
 
@@ -492,7 +492,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “But my side still hurt. The orange cloud was still around me. My crystal captor was drifting in it with me, not a dozen yards away. In my cool unconcern, I knew that I was trapped in the mushroom cloud above one of those towering cylinders, a prisoner in that alien city of flame.
 
-<a id="page11" />“For a time I simply floated there, weightless as a man in space, watching my own predicament from that mood of aloof abstraction. Indifferently, I observed that the vital fire had ceased to pulse inside the crystal creature. It was sleeping, I supposed, till night came again.
+<a id="page11"></a>“For a time I simply floated there, weightless as a man in space, watching my own predicament from that mood of aloof abstraction. Indifferently, I observed that the vital fire had ceased to pulse inside the crystal creature. It was sleeping, I supposed, till night came again.
 
 “That chain of thought lit a faint spark of hope in me. Once more I kicked and clawed at the cloud around me. With nothing to push against, I failed to move an inch.
 
@@ -511,7 +511,7 @@ At this point, there’s a break in the manuscript. The remaining lines are on a
 “End of my [rope?] Guess I diluted the [canteen?] too many times. My body and effects I will to science. Captain Gander will supply the [conclusion?] of my story. The frightening [truth?]—”
 
 .space
-<a id="page12" />That was all.
+<a id="page12"></a>That was all.
 
 I called my physician. He’s a sour-featured Scotch Presbyterian who doesn’t care for the twentieth century. He read the manuscript with an air of indignant unbelief, scowled over the transmuted body, and dourly advised me to keep the story quiet.
 
@@ -525,7 +525,7 @@ Flying over that spring and peaks beyond, we found no crater filled with glowing
 
 One was a limping, bearded *gringo*, who had asked mad questions and cursed those who could not answer to please him. One was an elegant Swiss banker, who had wandered about the pueblo carrying a Geiger counter and staring at everybody with a monocle like an evil eye. The third was another *gringo*, who had come three summers from the north and driven on into the high Cordillera, hauling tarp-covered crates in an old military truck.
 
-Among such confusing clues, we lost Kelvin’s trail in Mexico. There were other mysterious strangers, however, who followed us back to Tyburn. Some of them were federal investigators, who questioned all of us, <a id="page13" />searched Kelvin’s premises, photocopied his documents, and finally carried his transmuted body away for study by the AEC.
+Among such confusing clues, we lost Kelvin’s trail in Mexico. There were other mysterious strangers, however, who followed us back to Tyburn. Some of them were federal investigators, who questioned all of us, <a id="page13"></a>searched Kelvin’s premises, photocopied his documents, and finally carried his transmuted body away for study by the AEC.
 
 When they finally returned the body to Tyburn, they were remarkably tight-lipped and silent, even for federal men. No official report has ever mentioned the Metal Man, and the rumors that still circulate, sometimes, around him are wildly contradictory.
 
@@ -539,7 +539,7 @@ However that may be, Kelvin’s metal body, standing nude and scarred and dusty 
 
 dead_star_station
 
-# <a id="page14" />Dead Star Station
+# <a id="page14"></a>Dead Star Station
 
 .fl
 <span class="smallcaps">The difference between</span> a fool and a genius can be stated in one word—success. And success had not found Gideon Clew. We all tolerated the old man; most of us pitied him; some of us genuinely liked him. A neat, trim old fellow, white-haired, marvelously erect for his age, with cheeks like wrinkled red apples, and bright, sober blue eyes.
@@ -550,7 +550,7 @@ Fourteen of us were waiting on Dead Star Station, in the wild, lonely Orion Pass
 
 The old man, of course, had no official right to be upon the station. But mild old Captain Manners was softhearted, and the rest of us sympathetic. Gideon Clew had been aboard since before most of us were bom—fifty years, he said. Fifty years is a long time for a man to be shut up in a little metal world, away from life. He had lost his place outside; he had no one to go to. It would have been cruelty to send him away.
 
-He had been a generator-man until, ten years before, the service had automatically retired him, sent out another man to take his place. We let him stay aboard, wrapped up in the Great Idea that—had success chosen <a id="page15" />to crown it—would have made him famous. We even dug into our own pockets to make up his quarterly pay check, to provide funds to carry on the experiment that was the old man’s life.
+He had been a generator-man until, ten years before, the service had automatically retired him, sent out another man to take his place. We let him stay aboard, wrapped up in the Great Idea that—had success chosen <a id="page15"></a>to crown it—would have made him famous. We even dug into our own pockets to make up his quarterly pay check, to provide funds to carry on the experiment that was the old man’s life.
 
 And the girl was Tonia Andros.
 
@@ -566,7 +566,7 @@ The experience must have been painful; her tortured mind may have sought relief 
 
 Tonia was a friend to each of us. But she and old Gideon Clew felt a particular affinity. The little girl haunted his cabin, and he seemed not to fear her hands upon the precious apparatus he had gathered there.
 
-The child must have brought something of the warm glow of life back into a nature that had been shut olf from life too long. Gideon turned aside from his <a id="page16" />invention to make toys for her, with his skilled old hands. Yet he worked even harder, and he told us that he was going to adopt her, give her home and education, when his discovery was perfected.
+The child must have brought something of the warm glow of life back into a nature that had been shut olf from life too long. Gideon turned aside from his <a id="page16"></a>invention to make toys for her, with his skilled old hands. Yet he worked even harder, and he told us that he was going to adopt her, give her home and education, when his discovery was perfected.
 
 “When his discovery was perfected”—that phrase had been in his talk for forty years and more.
 
@@ -580,7 +580,7 @@ But beyond the station’s vitrolar ports is space in abundance. The view must b
 
 Unthinkably vast, those tentacles seem to grasp the Dead Star. That cyclopean cold sun is a little black disk limned against livid flame. Its dark face is patched with marks of sullen crimson—illimitable seas of yet molten lava, for the Dead Star is not utterly dead.
 
-The hurtling meteor streams and the seas of incandescent gas that make up the Great Nebula of Orion form <a id="page17" />the most stupendous barrier to transstellar navigation in the entire galaxy. Light itself, at one hundred and eighty-six thousand miles per second, takes three years and more to cross it.
+The hurtling meteor streams and the seas of incandescent gas that make up the Great Nebula of Orion form <a id="page17"></a>the most stupendous barrier to transstellar navigation in the entire galaxy. Light itself, at one hundred and eighty-six thousand miles per second, takes three years and more to cross it.
 
 But there is a way through. The Orion Passage. A lane kept cleared of darting meteors and burning gas by the colossal gravitation of the Dead Star,- a titanic dark sun that lurks like a black spider in the bright web of the nebula, reaching out with resistless, invisible force for what it may draw to destruction.
 
@@ -592,7 +592,7 @@ Time passed slowly upon the tiny metal world of the station, that was but a mote
 
 The *Bellatrix* was a new vessel, of three times the station’s tonnage, regularly plying the passage. Those of us who could went aboard the liner during the little time the valves were coupled, to enjoy briefly the spaciousness of the vessel, her cosmopolitan atmosphere, the gossip of her curious passengers.
 
-Vance, our photophone operator, returned with one interesting bit. He talked to one of her passengers, a man in an invalid chair, with a bandaged head. This man told him that the *Bellatrix* carried an immensely valuable cargo of uranium ingots, and that her officers <a id="page18" />had been warned to beware of Skal Doon, the interstellar buccaneer.
+Vance, our photophone operator, returned with one interesting bit. He talked to one of her passengers, a man in an invalid chair, with a bandaged head. This man told him that the *Bellatrix* carried an immensely valuable cargo of uranium ingots, and that her officers <a id="page18"></a>had been warned to beware of Skal Doon, the interstellar buccaneer.
 
 Even so, there was no great novelty in a warning against Skal Doon. He was one of the last freebooters of space, the most notorious and daring. For three decades he had been a terror of the void, escaping capture partly by a flair for originality, partly by ruthless cruelty in the elimination of opponents, and largely by an intimate knowledge of the mazes and fiery ways of the Great Nebula, which he knew as no other man. It is curious that men spoke of him with a certain admiration and respect, which he deserved as little as a human being could.
 
@@ -604,7 +604,7 @@ A little time of bustling, mad confusion. Stores coming aboard, cylinders of oxy
 
 We upon the station were left—or so we supposed—to wait through other weary weeks, until another vessel picked its way between the flaming walls of the passage. None of us had a premonition we were to see the liner again, so soon and under such distressing circumstances.
 
-<a id="page19" />Hume, the station’s mate, was in the bridge room with the new captain when Gideon Clew limped hesitantly in with a hopeful smile upon his red, wrinkled face.
+<a id="page19"></a>Hume, the station’s mate, was in the bridge room with the new captain when Gideon Clew limped hesitantly in with a hopeful smile upon his red, wrinkled face.
 
 “Captain, thir?” he lisped, a little timidly.
 
@@ -636,7 +636,7 @@ Gideon’s wide blue eyes stared at him in bewilderment, and Hume spoke to expla
 
 “You know, it’s against regulations for you to be here at all,” Kempton said. “You must prepare to leave, Clew, when the *Bellatrix* returns. I don’t understand how it happened.”
 
-<a id="page20" />“But, thir, the power—”
+<a id="page20"></a>“But, thir, the power—”
 
 “I must refuse your extraordinary request. Of *course!* I want you to realize this is not a playhouse. And not an old man’s home. I don’t understand it!”
 
@@ -666,7 +666,7 @@ Kempton was suddenly brusque. Angry with himself because he had laughed.
 
 “Anyhow, you’ll have to give it up. We’ve no fuel to waste on fool experiments.”
 
-<a id="page21" />He bent over the charts again. Gideon Clew turned dazedly toward the door, moisture glittering unheeded on his bright, wrinkled cheeks. It is not easy for a man to give up what he has worked for all his life—not when he has labored and planned and dreamed as had Gideon Clew.
+<a id="page21"></a>He bent over the charts again. Gideon Clew turned dazedly toward the door, moisture glittering unheeded on his bright, wrinkled cheeks. It is not easy for a man to give up what he has worked for all his life—not when he has labored and planned and dreamed as had Gideon Clew.
 
 He turned and lisped again: “Captain, thir?”
 
@@ -716,7 +716,7 @@ The bright, sober eyes were blinking very fast. Trembling hands fumbled blindly 
 
 The *Bellatrix*, flashing onward along the flaming corridor of the passage, was still in photophone communication with us. A private call came for Gideon Clew, and Vance, our operator, sent the steward to find the old man.
 
-“A call for *me*, thir?” he lisped in excited <a id="page23" />astonishment as he shuffled into the photophone room. It must have been the first in fifty years.
+“A call for *me*, thir?” he lisped in excited <a id="page23"></a>astonishment as he shuffled into the photophone room. It must have been the first in fifty years.
 
 Vance made him sit down in front of the projection screen, and turned his set and synchronized the scanning tube. The bright-hued geometric figures of the registration pattern vanished suddenly, and on the screen was Tonia Andros.
 
@@ -767,7 +767,7 @@ Skal Boon! The space pirate! The “terror of the nebula”!
 
 His hand tightened on the ionic needle, and it spat blue sparks. The operator threw up his arms and spun around, screaming. The ray had burned away his face, but sickening minutes passed before he collapsed and was dead.
 
-<a id="page25" />Skal Doon watched him until he was a shuddering heap on the floor. Then he looked into the screen, at Vance. And Vance never forgot his amazing eyes. Large, they were, limpidly brown, soft and gentle as a woman’s.
+<a id="page25"></a>Skal Doon watched him until he was a shuddering heap on the floor. Then he looked into the screen, at Vance. And Vance never forgot his amazing eyes. Large, they were, limpidly brown, soft and gentle as a woman’s.
 
 “So our friend did call you, eh?” his thin voice shrilled. And he kicked the trembling thing at his feet. “And maybe you have seen enough so you can guess what happens to eagles that swoop at Skal Doon!”
 
@@ -785,7 +785,7 @@ Though the station’s fighting equipment was obsolete, consisting only of four 
 
 Even with the station’s powerful electronblast motors, installed for her ceaseless battle with the gravitation of the dead Star, we did not come up quickly with the fleeing liner. It was ten hours before the battle began. After the long tension of suspense, it was a swift and confusing thing.
 
-<a id="page20" />Gideon Clew came running up hopefully to Kempton, soon after the *Bellatrix* was sighted—a silvery speck, fleeing between the white curtains of the Great Nebula, the violet, fluorescent trail of her electronic motors streaming out behind her.
+<a id="page20"></a>Gideon Clew came running up hopefully to Kempton, soon after the *Bellatrix* was sighted—a silvery speck, fleeing between the white curtains of the Great Nebula, the violet, fluorescent trail of her electronic motors streaming out behind her.
 
 “Captain, thir! In the battle—what do you want me to do?”
 
@@ -805,7 +805,7 @@ But the fourth slipped past the searching finger of the arc, a hurtling mote, a 
 
 Colin, the chief engineer, was killed outright by a splinter of the hull. Hale, the second, darted at once with his two helpers to repair the hole, snatching down the metal patches and the thermite welding units that always hung ready on the wall.
 
-The task was not easy. One of the helpers was carried bodily through the opening by the outrushing air to hideous death. Then patches were flung over the ragged orifice, and the major leak soon stopped. But the shock had strained all the seams of the old hull. Though Hale <a id="page27" />and the remaining assistant found and mended many breaks, the vital air continued to hiss out alarmingly.
+The task was not easy. One of the helpers was carried bodily through the opening by the outrushing air to hideous death. Then patches were flung over the ragged orifice, and the major leak soon stopped. But the shock had strained all the seams of the old hull. Though Hale <a id="page27"></a>and the remaining assistant found and mended many breaks, the vital air continued to hiss out alarmingly.
 
 Thus, for a time, the generators were deserted by their regular crew, and just at the moment when power was most necessary. The station was swiftly overhauling the *Bellatrix*. On the bridge, Kempton was screaming a fervid appeal into the speaking tube.
 
@@ -831,7 +831,7 @@ With silent attention, Kempton was studying the motion of the argent ellipsoid t
 
 “Of course. We’ll run them down, fasten the station alongside with the magnetic anchors. The *Bellatrix* has no weapon. If Skal won’t surrender, we’ll storm a valve, or cut through the hull.”
 
-<a id="page28" />He looked at the barometers, and his face fell with alarm.
+<a id="page28"></a>He looked at the barometers, and his face fell with alarm.
 
 “That last shot finished us, anyhow. We’re gone unless we can get aboard the *Bellatrix*. The pressure is down two pounds already. Our air won’t last three hours, at this rate.”
 
@@ -853,7 +853,7 @@ Kempton called us all to the upper deck, ordered us to don space suits. He serve
 
 “Colin,” he called into the speaking tube, “bring your men on deck. We’re going to abandon ship.”
 
-<a id="page29" />“This ith not Colin,” lisped a voice from the tube.
+<a id="page29"></a>“This ith not Colin,” lisped a voice from the tube.
 
 “Who? *Clew?* What the—”
 
@@ -877,7 +877,7 @@ When we opened the inner seal, Skal Doon, alone and apparently unarmed, met us o
 
 “Skal Doon,” Kempton barked at him, “you’ll answer for the ruthless murder of those innocent passengers!”
 
-“But, my dear sir,” the buccaneer protested, in his <a id="page30" />queerly thin voice, “those were my own men! Surely you cannot object!”
+“But, my dear sir,” the buccaneer protested, in his <a id="page30"></a>queerly thin voice, “those were my own men! Surely you cannot object!”
 
 “Eh? The passengers—”
 
@@ -908,7 +908,7 @@ He saluted ironically, and fell heavily upon his face.
 .space
 In a few mad minutes we verified all he had told us. The passengers were safely locked below. The machinery was wrecked beyond the possibility of repair. Hume and Kempton went to the liner’s bridge.
 
-The *Bellatrix*, they found, was plunging toward the Dead Star, upon a path that would end in flaming catastrophe. Doon, realizing his defeat, had turned the liner <a id="page31" />from the parabolic orbit toward that titanic black sun. Truly, his deeds lived after him.
+The *Bellatrix*, they found, was plunging toward the Dead Star, upon a path that would end in flaming catastrophe. Doon, realizing his defeat, had turned the liner <a id="page31"></a>from the parabolic orbit toward that titanic black sun. Truly, his deeds lived after him.
 
 One glance at the graviscope, or gravitational field detector, told Hume that doom was inevitable. Already the needle was pulled to the end of its scale. Even with the full power of her now useless motors, the ship could not have fought free of that relentless drag.
 
@@ -934,7 +934,7 @@ The station’s atmosphere was very thin when Gideon Clew returned—and cold. I
 
 He left his space suit in the air lock. Its tube of compressed air would have lasted perhaps an hour longer, but his hands, in its clumsy gloves, could not do the delicate work he had set for them.
 
-<a id="page32" />Less than an hour, without it, was left him. Already he was breathing hard, as he made his way into the forecastle, gasping painfully from the slight exertion of walking. And there was much to be done—fifty years’ labor to be brought to completion.
+<a id="page32"></a>Less than an hour, without it, was left him. Already he was breathing hard, as he made his way into the forecastle, gasping painfully from the slight exertion of walking. And there was much to be done—fifty years’ labor to be brought to completion.
 
 Synthetic air was still hissing noisily from the cylinders, perhaps as fast as it was leaking from the hull. But the cylinders, in a few more minutes, would be empty. And the cold due to swift expansion of escaping aif filled all the ship; the chill of it seared Gideon’s gasping lungs.
 
@@ -948,7 +948,7 @@ Even as he stood still, he had to gasp for breath. His head throbbed. The utter,
 
 At length he saw the defect. The filament should have been longer, the grid set back a little, and turned *so*. A simple change.
 
-He found a coil of tiny wire and delicate tools, and <a id="page33" />began to make the repair. That was not difficult. The hard part would be to evacuate the tube again. It was useless with air inside, and he had no pump, or time to use it.
+He found a coil of tiny wire and delicate tools, and <a id="page33"></a>began to make the repair. That was not difficult. The hard part would be to evacuate the tube again. It was useless with air inside, and he had no pump, or time to use it.
 
 The new parts fitted, he screwed the base back into the tube and then attacked the problem of exhausting it. He knew a way, difficult, perilous—but quick.
 
@@ -966,7 +966,7 @@ The hissing in the corridors had ceased. The air cylinders were empty. Again the
 
 Gideon’s old heart labored so that he held a numb hand against it. He was suffocating; the thin, cold air seemed to be sucked out of his pumping lungs. His head roared and throbbed; his pulse drummed in his ears. Blood was still oozing from his nostrils, cold and sticky on his face.
 
-And his body was wooden. Every movement was a battle against leaden inertia. Every effort burned vital <a id="page35" />oxygen, increased the strain on heart and lungs. But he *must* go on—start the generators.
+And his body was wooden. Every movement was a battle against leaden inertia. Every effort burned vital <a id="page35"></a>oxygen, increased the strain on heart and lungs. But he *must* go on—start the generators.
 
 Now on hands and knees, he crawled along the corridor. His hands were stiff, lifeless things. No sensation came from them as they fell upon the metal floor.
 
@@ -989,7 +989,7 @@ But our minds were soon feverishly back upon more immediate things.
 
 “After all, it’s rather a splendid way to die,” Vance told Hume. But his voice was unsteady.
 
-<a id="page35" />They had gone back together to the bridge, and from its vitrolar panels stood watching the incandescent wonder of the nebula, the Dead Star grasped in its fiery tentacles, a growing black disk, splotched with red.
+<a id="page35"></a>They had gone back together to the bridge, and from its vitrolar panels stood watching the incandescent wonder of the nebula, the Dead Star grasped in its fiery tentacles, a growing black disk, splotched with red.
 
 The battered, oxide-reddened hull of the station was drifting alongside at the end of her cable, her dark ellipsoid outlined against the green-tinged, flaming vortexes of the nebula. Hume looked at it.
 
@@ -1009,7 +1009,7 @@ Vance said nothing, and they watched the menacing, red-spotted blackness of the 
 
 A long silence, and Vance spoke again.
 
-“Old Clew’s gravity screen! No wonder he went daft <a id="page36" />on it, looking down in the Dead Star for fifty years. And no doubt dreaming of something like this.”
+“Old Clew’s gravity screen! No wonder he went daft <a id="page36"></a>on it, looking down in the Dead Star for fifty years. And no doubt dreaming of something like this.”
 
 He laughed, loudly, mirthlessly.
 
@@ -1037,7 +1037,7 @@ Hume shook his head. “It’s no use, Tonia. The air was leaking out. He won’
 
 The mate averted his eyes, and the little girl still stared bewilderedly into the vitrolar panels.
 
-<a id="page37" />“Look!” she cried out. “The green light! What is it? Do you see it? There! There!”
+<a id="page37"></a>“Look!” she cried out. “The green light! What is it? Do you see it? There! There!”
 
 Then Hume saw a pale, virescent glow spreading swiftly over the battered red hull, like a film of oil upon water. Green luminescence streamed down the cable to the *Bellatrix*, in an instant it was shining upon the metal frames of the vision panels.
 
@@ -1061,7 +1061,7 @@ She snatched Kempton’s hand, tugged toward the door.
 
 nonstop_to_mars
 
-# <a id="page38" />Nonstop to Mars
+# <a id="page38"></a>Nonstop to Mars
 
 .fl
 <span class="smallcaps">Something was queerly</span> wrong—with either the ship or the air. And Carter Leigh knew that it couldn’t be the ship. The creaking old *Phoenix* might be obsolescent in a world that the new cathion rockets had conquered, but he knew every bolt and strut of her. Knew her well enough to take her apart and put her up again, in the dark. And loved her, for her loyalty through six years and half a million miles of solo flight.
@@ -1074,7 +1074,7 @@ It baffled him. Through all the endless, weary night, deaf with the long thunder
 
 Nonstop flights were nothing new to Carter Leigh. Men, looking at the long record of his feats, had nicknamed him “Lucky.” But he had something more than luck. In his lean body there was the tremendous endurance that it took to fly on, hour after straining hour, when most men would have dropped over the stick.
 
-<a id="page39" />And this flight—nonstop from Capetown to Honolulu, across the bottom of the world—had promised to be no harder than the rest. Not until he saw that last sunset.
+<a id="page39"></a>And this flight—nonstop from Capetown to Honolulu, across the bottom of the world—had promised to be no harder than the rest. Not until he saw that last sunset.
 
 Behind him, beyond the cragged granite fangs of Enderby Land, as he climbed above the ramparts of the polar plateau, the sunset had been frighteningly strange. An incredible wheel of crimson, rolling along the rim of the world, it had been winged and tufted with eldritch green.
 
@@ -1088,7 +1088,7 @@ Savage winds battled in the cloud, and it was riven with lightning. Rain hammere
 
 The aurora was fading from a sky grown brilliantly clear. Studded with white points of icebergs, the gray South Pacific was sliding back at three hundred and fifty miles an hour—still a good pace, he thought stubbornly, even if the rockets were three times as fast.
 
-Leigh was peeling an orange, beginning to hope that all the terror of the night had been the child of fancy and fatigue, when he saw the thing in the northeast. <a id="page40" />Against the red and green of a suddenly disturbing dawn, it fell like a silver thread.
+Leigh was peeling an orange, beginning to hope that all the terror of the night had been the child of fancy and fatigue, when he saw the thing in the northeast. <a id="page40"></a>Against the red and green of a suddenly disturbing dawn, it fell like a silver thread.
 
 A white, spiral vortex—the funnel of a great tornado. He saw a blob of gray mist about the foot of it, marching over the sea. The upper end of it, oddly, was lost above the bright wings of dawn.
 
@@ -1104,7 +1104,7 @@ Whistling the tune of “Barbara Allen,” which always seemed to cheer him, Lei
 
 One more failure. Two, he reflected bitterly, in a row. For the last flight, two months ago, had failed also, from a cause as strange as that tornado.
 
-A “bipolar” flight, Tick Tinker had called the last one. Tick was the tireless little publicity man, one-legged and one-eyed, who was Leigh’s partner in his singular business of wrestling a living from the air. “Bipolar,” because the route from Croydon back to Croydon along the prime meridian included both the poles. Leigh had safely rounded the planet, with but three <a id="page41" />scheduled stops. But the flight had failed just the same, because of the Stellar Shell.
+A “bipolar” flight, Tick Tinker had called the last one. Tick was the tireless little publicity man, one-legged and one-eyed, who was Leigh’s partner in his singular business of wrestling a living from the air. “Bipolar,” because the route from Croydon back to Croydon along the prime meridian included both the poles. Leigh had safely rounded the planet, with but three <a id="page41"></a>scheduled stops. But the flight had failed just the same, because of the Stellar Shell.
 
 “We’re an out-of-doors advertising firm, Lucky,” Tick used to say. “You fly for attention value. And I sell it to the makers of oil and piston rings and what-have-you. And it’s a legitimate business, so long as you can keep in the headlines.”
 
@@ -1130,7 +1130,7 @@ There had been no more news of the Stellar Shell, nothing more than the speculat
 congrats on bipolar flight. but stellar shell hogged the headlines. flight total loss financially. your name getting rapidly unknown. testimonials begging at cut rates. urgent release details new publicity flight. suggest something nonstop polar. use zerolube brand oils for testimonial.
 
 .space
-<a id="page42" />And so Tick’s message had brought him here, dead with fatigue and heading toward a speck of rock that probably had no inhabitants.
+<a id="page42"></a>And so Tick’s message had brought him here, dead with fatigue and heading toward a speck of rock that probably had no inhabitants.
 
 The motor covered the windshield with a thin spray of oil, and Leigh stopped his whistling briefly to curse all Zerolube products. He plugged in his helmet phones and switched on the little battery transmitter. It was good for just ten minutes of continuous sending—the *Phoenix* had no room for heavier equipment, not even emergency rations.
 
@@ -1148,7 +1148,7 @@ He crossed the beach. A broad rock bench above it was tufted with tropical green
 
 The landing was hazardous. The crippled wing caught the crest of a wave and covered the plane with spray. She staggered, but came up bravely. He taxied in and rolled up on the blinding coral sand.
 
-Following the signals of the flag, he brought the *Phoenix* to a safe dry stop where a rocket must have <a id="page43" />been moored, for there were deep wheel marks in the sand, and the hibiscus bushes beyond were scorched black as if from rocket jets.
+Following the signals of the flag, he brought the *Phoenix* to a safe dry stop where a rocket must have <a id="page43"></a>been moored, for there were deep wheel marks in the sand, and the hibiscus bushes beyond were scorched black as if from rocket jets.
 
 Heavily, his legs as stiff as if they never had been straightened before, he climbed out of the cockpit. The person with the flag came to meet him. A slim young figure, in boots and breeches, khaki shirt open at the throat, yellow head bare. A crisp voice, brisk, impersonal, greeted him:
 
@@ -1180,7 +1180,7 @@ On a rough pine table in the white tent, she slapped down two tin plates, split 
 
 “Proceed,” she said.
 
-<a id="page44" />Leigh’s dull eyes were watching her.
+<a id="page44"></a>Leigh’s dull eyes were watching her.
 
 “You’re the whole crew here?”
 
@@ -1218,7 +1218,7 @@ Her yellow head shook.
 
 She looked quickly at her wrist watch, dumped the debris from her plate into a pail beside the table, wiped plate and spoon clean with a paper napkin. She rose.
 
-“Excuse me. But the duties of both my assistants <a id="page45" />have fallen upon me. My time is budgeted. I have forty-eight minutes a day for meals. Now I have instruments to read.”
+“Excuse me. But the duties of both my assistants <a id="page45"></a>have fallen upon me. My time is budgeted. I have forty-eight minutes a day for meals. Now I have instruments to read.”
 
 “So that’s how a lady astronomer lives.” Leigh grinned. “If I can help you—”
 
@@ -1240,7 +1240,7 @@ Her smooth face was flushed a little. He listened to her, grinning.
 
 “Now,” she went on swiftly, “if you were trying to fly nonstop to Mars, even if you never got there, that would be a different proposition. Because you would be expanding the horizons of science. You would be doing something different and important.
 
-“But your old gasoline wreck is as far behind the times as you are, Leigh. It is a rocket that will make the first flight to Mars. I know a man who may pilot the <a id="page46" />first rocket there. He is Laird Cragin—you never heard of him, because he isn’t a publicity flier. But he is test pilot for the experimental space rockets that the Foundation has been working on, in association with some Army engineers. You ought to meet him. Because whether he ever gets to Mars or not, he’s trying to do something real.”
+“But your old gasoline wreck is as far behind the times as you are, Leigh. It is a rocket that will make the first flight to Mars. I know a man who may pilot the <a id="page46"></a>first rocket there. He is Laird Cragin—you never heard of him, because he isn’t a publicity flier. But he is test pilot for the experimental space rockets that the Foundation has been working on, in association with some Army engineers. You ought to meet him. Because whether he ever gets to Mars or not, he’s trying to do something real.”
 
 Carter Leigh gulped.
 
@@ -1260,7 +1260,7 @@ His brief anger at her frank criticism was all turned back upon himself. After a
 
 No, he deserved her scorn.
 
-<a id="page47" />But what had frightened her? What *was* happening to the atmosphere? Leigh’s mind grappled for a vain moment with the problem, but he could not concentrate now. All he wanted was a chance to sleep.
+<a id="page47"></a>But what had frightened her? What *was* happening to the atmosphere? Leigh’s mind grappled for a vain moment with the problem, but he could not concentrate now. All he wanted was a chance to sleep.
 
 He stood up, his body stiff and wooden, and reeled to the cot beyond the canvas partition.
 
@@ -1284,7 +1284,7 @@ Leigh caught his breath and started running toward the plane that was standing u
 
 But this white funnel of destruction came with the same unthinkable velocity that he had witnessed before. Before he had moved a dozen steps, the white tent sailed over his head. The abrupt, freakish blast of air hurled him flat. His eyes and ears and nostrils were filled with coral sand.
 
-<a id="page48" />For no more than twenty seconds the tempest shrieked against the black peak above. Abruptly, then, the air was almost still again. There was only a fluttering, queerly chill breeze from the east, following in the storm’s wake.
+<a id="page48"></a>For no more than twenty seconds the tempest shrieked against the black peak above. Abruptly, then, the air was almost still again. There was only a fluttering, queerly chill breeze from the east, following in the storm’s wake.
 
 Spitting sand and gasping for breath, Leigh staggered to his feet. The funnel of the storm, like the guide-rope, he thought, dangling from some unseen balloon, was bounding away into the gray west. Its sorrowful howling swiftly diminished.
 
@@ -1302,7 +1302,7 @@ A sudden unreasonable alarm tightened Leigh’s throat. He was too well seasoned
 
 “Dr. Gayle, if you please.”
 
-Her crisp voice came from the interior of the long observatory shed. Half the metal roof had been ripped off. Most of the equipment inside seemed to have been demolished by a huge boulder the wind had hurled from the dark cliffs above. But the slim calm girl, save for the <a id="page49" />disorder of her short yellow hair and a smudge of grease on her brown cheek, looked untouched. She was ruefully fingering a tangle of twisted levers and crumpled recording drums.
+Her crisp voice came from the interior of the long observatory shed. Half the metal roof had been ripped off. Most of the equipment inside seemed to have been demolished by a huge boulder the wind had hurled from the dark cliffs above. But the slim calm girl, save for the <a id="page49"></a>disorder of her short yellow hair and a smudge of grease on her brown cheek, looked untouched. She was ruefully fingering a tangle of twisted levers and crumpled recording drums.
 
 “No more barocyclonometer,” she said. “But my visual observations make it imperative that we get in touch with outside world at once. I believe my worst fears are justified.”
 
@@ -1318,7 +1318,7 @@ Leigh spent all morning stacking the tumbled crates and drums so that they made 
 
 At noon, when he carried a plate of food and a steaming tin of fresh coffee to the girl in the observatory building, he found her covered with grime, laboring in tight-lipped silence with the starting crank of a little motor-generator. She waved him aside.
 
-“I’ve no time to eat,” she told him. “I’ve data of the utmost importance to send. It’s urgent that I get in touch with Washington and our rocket laboratory at <a id="page50" />Alamogordo. And there’s something wrong with this planet.”
+“I’ve no time to eat,” she told him. “I’ve data of the utmost importance to send. It’s urgent that I get in touch with Washington and our rocket laboratory at <a id="page50"></a>Alamogordo. And there’s something wrong with this planet.”
 
 Leigh glanced at the balky mechanism. He set the plate on an empty packing box beside her and rolled up his sleeves.
 
@@ -1344,7 +1344,7 @@ He caught anxiously at her slim brown arm.
 
 Her blue eyes stared,at him. They were dark with sleep—and, he thought, terror. Quick and anxious, her low voice demanded:
 
-<a id="page51" />“Just what did you get?”
+<a id="page51"></a>“Just what did you get?”
 
 “Storms,” he said briefly. “Phenomenal storms. Unseasonable bitter cold. Ice storms even in the tropics. Tidal waves. One against the Atlantic seaboard has probably killed a hundred thousand already. Communications broken everywhere, of course. Panic increasing.”
 
@@ -1374,7 +1374,7 @@ The air was unwontedly cool on the beach when he woke, and another sunset of unc
 
 “You have ability, Leigh,” she told him. “Ability that has been wasted.” Her dark eyes studied him. “Now, I’m afraid, you’ve very little opportunity left to make use of it.”
 
-Sitting silent for a moment in the dancing firelight, <a id="page52" />she began pouring the cool coral sand through her fingers into little white pyramids.
+Sitting silent for a moment in the dancing firelight, <a id="page52"></a>she began pouring the cool coral sand through her fingers into little white pyramids.
 
 “If my deductions check out tonight,” she said, “I’m afraid the creative functions of our present civilization are just about at an end. The planet will doubtless remain habitable for certain forms of life. Men may even survive in such places as Death Valley. But it will be a little strange if the human race ever recovers its supremacy.”
 
@@ -1400,7 +1400,7 @@ There was weary loneliness in his voice now.
 
 He looked at the girl across the fire.
 
-“But always the most important thing about it was the woman who would live in it with me. I have had one in mind and then another. But none of them, Dr. Gayle, <a id="page53" />has fitted as well as you do—except, I must hasten to add, in certain regards,
+“But always the most important thing about it was the woman who would live in it with me. I have had one in mind and then another. But none of them, Dr. Gayle, <a id="page53"></a>has fitted as well as you do—except, I must hasten to add, in certain regards,
 
 “You must realize that I am telling you this just to make a point—since, what with crackups and your Stellar Shell, Tick Tinker and I have never had more than fifty thousand in a joint account.”
 
@@ -1420,7 +1420,7 @@ The squat mass of the twelve-inch reflector looked through a slit in the end of 
 
 Visible in the dim light of a shaded bulb, the girl twisted the turret and swiftly set the circles. Before she had done, Leigh knew that her object was the red point of Mars in the east.
 
-For a long time, sitting with her eye to the lens, she was silent. Leigh could see the trembling of her small hand, touching the control wheels again and again. At <a id="page54" />last she rose and stood staring eastward through the slit, rubbing at her red eyes. Her face was bloodless.
+For a long time, sitting with her eye to the lens, she was silent. Leigh could see the trembling of her small hand, touching the control wheels again and again. At <a id="page54"></a>last she rose and stood staring eastward through the slit, rubbing at her red eyes. Her face was bloodless.
 
 “Well?” said Leigh.
 
@@ -1442,7 +1442,7 @@ It took a moment for the full meaning to strike him. Then swiftly he felt the sh
 
 “But,” he muttered at last, “I thought there were no Martians!”
 
-“It has been pretty well agreed that there are no intelligent inhabitants,” she said. “My father gave up the <a id="page55" />last great attempt to signal Mars ten years ago. But since that time something has happened to Mars.”
+“It has been pretty well agreed that there are no intelligent inhabitants,” she said. “My father gave up the <a id="page55"></a>last great attempt to signal Mars ten years ago. But since that time something has happened to Mars.”
 
 “What?”
 
@@ -1472,7 +1472,7 @@ Leigh’s brain was spurning.
 
 “That queer tornado?”
 
-<a id="page56" />“Exactly.” The girl nodded. “Our atmosphere is being drawn up it. It seems to race around the Earth every day, because the Earth is turning under it. The violent air currents it causes, and the very loss of air, generate the storms. The unusual sunsets and auroras are doubtless due to the incidental forces that form and direct the tube.”
+<a id="page56"></a>“Exactly.” The girl nodded. “Our atmosphere is being drawn up it. It seems to race around the Earth every day, because the Earth is turning under it. The violent air currents it causes, and the very loss of air, generate the storms. The unusual sunsets and auroras are doubtless due to the incidental forces that form and direct the tube.”
 
 Beside the girl, Leigh peered up through the narrow slit. In the bar of purple sky, Mars was a-baleful orange red point. His staggered mind groped for understanding of its menace.
 
@@ -1496,7 +1496,7 @@ Elene Gayle’s yellow head shook in the dimness, wearily.
 
 Her face was gray and hopeless.
 
-“People will react in the ways predictable from their known characteristics,” she said. “Most of the world’s population has already been driven into a helpless <a id="page57" />panic. The governments that stand will try to mobilize their armies—against an enemy they will never even see before they die. Only a few scientists will try to make a calm analysis of the problem, try to discover what, if anything, can be done. I doubt that anything can be done.”
+“People will react in the ways predictable from their known characteristics,” she said. “Most of the world’s population has already been driven into a helpless <a id="page57"></a>panic. The governments that stand will try to mobilize their armies—against an enemy they will never even see before they die. Only a few scientists will try to make a calm analysis of the problem, try to discover what, if anything, can be done. I doubt that anything can be done.”
 
 .space
 The rocket arrived before midnight. Elene Gayle had been at the radio all evening, guiding it in with her signals, listening to the reports of planet-wide confusion and terror; and trying in vain to get some message through to her Foundation’s rocket research laboratory on the New Mexico desert.
@@ -1517,7 +1517,7 @@ The thin grave voice of the older man cut in, anxiously:
 
 “Fewer than any man I know,” he granted. “What action do you suggest?”
 
-“Return at once,” Elene Gayle said instantly. “Get full support from the President and the War <a id="page58" />Department. Rush our experimental rocket to completion in New Mexico. Arm it. Send it to Mars to stop the loss of atmosphere.”
+“Return at once,” Elene Gayle said instantly. “Get full support from the President and the War <a id="page58"></a>Department. Rush our experimental rocket to completion in New Mexico. Arm it. Send it to Mars to stop the loss of atmosphere.”
 
 Duval’s gray head shook, doubtfully.
 
@@ -1541,7 +1541,7 @@ Carter Leigh watched her run back into the dark, toward the observatory. Listeni
 
 “Sorry, old man,” Cragin was saying. “But I guess the job will fall to me. I’ve been test-hopping the experimental models. If Gay sends her rocket to Mars, I’ll go with it.”
 
-Leigh caught his breath. Laird Cragin was no doubt a brave and skillful man, even now promising to face certain death for the world’s sake. But suddenly Leigh hated him with a blind savage hatred. He trembled, and <a id="page59" />his fists balled up. Tears swelled in his eyes, until the girl, running back out of the dark with a thick briefcase, was only a misty shadow.
+Leigh caught his breath. Laird Cragin was no doubt a brave and skillful man, even now promising to face certain death for the world’s sake. But suddenly Leigh hated him with a blind savage hatred. He trembled, and <a id="page59"></a>his fists balled up. Tears swelled in his eyes, until the girl, running back out of the dark with a thick briefcase, was only a misty shadow.
 
 “We’d like to give you a lift, old man,” Cragin’s voice was smoothly regretful. “But this is only a three-place job. And we’ve no time—”
 
@@ -1563,7 +1563,7 @@ Southward, beyond the dark loom of the peak, the strange aurora rose again. Spra
 
 “Well, old girl,” he muttered. “Cracked up or not, it looks like we’ve got to make one more flight—unless we want to be picked up by that wind between the worlds.”
 
-He stopped abruptly on the coral sand. His eyes lifted swiftly from the battered old crate on the beach, up to the red and baleful eye of Mars, now well past the <a id="page60" />meridian. His mind pictured that silver cord from world to world. And his lips pursed for a soundless whistle.
+He stopped abruptly on the coral sand. His eyes lifted swiftly from the battered old crate on the beach, up to the red and baleful eye of Mars, now well past the <a id="page60"></a>meridian. His mind pictured that silver cord from world to world. And his lips pursed for a soundless whistle.
 
 “Well, why not?”
 
@@ -1587,7 +1587,7 @@ He knew it wouldn’t be easy to get the plane righted and repaired and in the a
 
 Lucky he had the supplies and equipment at the abandoned station. He walked back for ropes and tackle. In an hour the old ship was on her retractable wheels again, with no more than incidental injury.
 
-He started the motor, taxied the ship up beside the building where he could have electric light, and went to work on the twisted aileron. When that was crudely mended, he found half a dozen other necessary repairs—and still, for all he knew, there might be some <a id="page61" />hidden harm that he could not discover till the ship was in the air.
+He started the motor, taxied the ship up beside the building where he could have electric light, and went to work on the twisted aileron. When that was crudely mended, he found half a dozen other necessary repairs—and still, for all he knew, there might be some <a id="page61"></a>hidden harm that he could not discover till the ship was in the air.
 
 Four precious hours gone before the plane was ready to load. Two things he had to have—gasoline and oxygen. The air was already growing thin on Earth, but it would be thinner still in that tube of force.
 
@@ -1605,7 +1605,7 @@ While the starter motor wound up, he adjusted his helmet, tested oxygen tubes an
 
 Fine drops of oil on the windshield reminded him that it was in need of an overhaul. If there had been time and tools. . . .
 
-<a id="page62" />“Crazy,” muttered Leigh. “Off to Mars!” Against the roar, he began to whistle “Barbara Allen.”
+<a id="page62"></a>“Crazy,” muttered Leigh. “Off to Mars!” Against the roar, he began to whistle “Barbara Allen.”
 
 While the motor warmed, he pushed in the knob that flattened the pitch of the prop, and planned the takeoff. The beach was now a ghostly strip of gray beneath that strange sunrise—too short for all the load the *Phoenix* carried.
 
@@ -1623,7 +1623,7 @@ He slid back the cockpit cover, hurled the volume into the shrieking wind. He wa
 
 The *Phoenix* was lifting twelve hundred feet a minute. The cockpit grew cold. He plugged in the heater units in his suit. His ears ached. His lungs began to labor in the thinning air. He adjusted the faceplate of his helmet, twisted the oxygen valve.
 
-Then he saw the funnel. It came toward him like a swinging silver rope. Automatically, he banked the ship, <a id="page63" />flew straight toward it. He saw the dancing tip of it touch Manumotu, nearly six miles beneath. All the green vanished magically from its black cliffs, and a mountain of sea rose over them.
+Then he saw the funnel. It came toward him like a swinging silver rope. Automatically, he banked the ship, <a id="page63"></a>flew straight toward it. He saw the dancing tip of it touch Manumotu, nearly six miles beneath. All the green vanished magically from its black cliffs, and a mountain of sea rose over them.
 
 The first blast of wind overtook him so violently that the ship stalled in it. The dead stick was loose in his hands. He shoved it forward, gunned the motor till the ship lived again, pulled it back.
 
@@ -1639,7 +1639,7 @@ It was the strangest moment Leigh had known. The curve of the silver tube seemed
 
 Though he knew the tube could be nothing material, nothing more than a vortex of etheric force, the walls of it looked curiously real. Almost glasslike.
 
-Whatever they were, he soon knew that he had better not touch them. For a whirling stick in the air ahead had grown into a great black log—the stripped trunk of some mighty tree, snatched, he supposed, from <a id="page64" />Manumotu. He saw it spin into that glassy wall. Saw it instantly rebound in a thin dissolving puff of dust and splinters.
+Whatever they were, he soon knew that he had better not touch them. For a whirling stick in the air ahead had grown into a great black log—the stripped trunk of some mighty tree, snatched, he supposed, from <a id="page64"></a>Manumotu. He saw it spin into that glassy wall. Saw it instantly rebound in a thin dissolving puff of dust and splinters.
 
 He twisted in the cockpit and saw the Earth behind him. Beyond the shimmering walls of the tube it was a mighty hemisphere, suspended in darkness. Gray and misty, patched with great circular areas of white cloud. The Americas were crowding near the rim of it—vast stretches white with unseasonable snow. Asia was invisible in darkness.
 
@@ -1655,7 +1655,7 @@ But, incredible or not, it was happening.
 
 After the tension and excitement of the last few hours, Leigh felt the pressure of a maddening monotony. He was already weary from loading the plane. And he found this flight the most exhausting he had made.
 
-The air was too thin—so thin the motor coughed and stuttered, even under both superchargers. Even with the oxygen hissing steadily, he felt faint and oppressed. And <a id="page65" />the cold was a savage thing. Even the heated suit failed to protect him.
+The air was too thin—so thin the motor coughed and stuttered, even under both superchargers. Even with the oxygen hissing steadily, he felt faint and oppressed. And <a id="page65"></a>the cold was a savage thing. Even the heated suit failed to protect him.
 
 Nothing changed. There was the ship and the silver tube. The Earth was soon a dimming point behind, beside the dimmer Moon, and Mars remained only a reddish point ahead. He ate a little, when the clock told him, from his scanty supplies.
 
@@ -1675,7 +1675,7 @@ Presently his fatigue-drugged mind recoiled from the problem, baffled.
 
 Every dragging revolution of the minute hand seemed an eternity. But Mars at last began to grow beside the endless argent coils of the tube. It became a swelling hypnotic eye.
 
-He shook himself in the grasp of monotony and sleep. But Mars stared at him. It was the ocher-red eye of that sinister intelligence that was stripping the Earth <a id="page66" />of air. He tried not to look at it. For its red gaze was deadly.
+He shook himself in the grasp of monotony and sleep. But Mars stared at him. It was the ocher-red eye of that sinister intelligence that was stripping the Earth <a id="page66"></a>of air. He tried not to look at it. For its red gaze was deadly.
 
 He woke with a start. The old *Phoenix* creaked and shuddered. The right wingtip had touched the silver wall, and it was shattered. Twisted metal caught the air, dragged. He set the rudder to compensate.
 
@@ -1693,7 +1693,7 @@ Plunging down through the widening funnel that cushioned the air-jet from the Ea
 
 A reckless determination rose in him. A wild elation filled him—the first man to cross space. He was the representative of all mankind, and he felt the strength of all men in him. He was invincible. If he must, he thought, he would make a bullet of the *Phoenix* and dive into whatever seemed the heart of the enemy’s strength.
 
-In his feverish excitement he wanted to push back the <a id="page67" />cockpit cover and yell. His lungs were burning. Then a glance at the barometric altimeter showed that it was registering. Air pressure was mounting again. He was suffering from oxygen intoxication. He partially closed the valve.
+In his feverish excitement he wanted to push back the <a id="page67"></a>cockpit cover and yell. His lungs were burning. Then a glance at the barometric altimeter showed that it was registering. Air pressure was mounting again. He was suffering from oxygen intoxication. He partially closed the valve.
 
 For a time a passing cloud hid the purple spot. With battered binoculars, he studied the surface of the planet beyond it. New lakes upon the reddish desert were black or mirror-like. The olive-green bands around them must be vegetation.
 
@@ -1709,7 +1709,7 @@ Or so he had resolved. But the gesture was denied him.
 
 That long green finger moved abruptly in the purple jungle. It swung down from the Earth, to point to the diving plane. The *Phoenix* was struck a staggering blow. If the power of that needle was the focused gravity of Mars, then a good deal of it, reversed, reacted on the ship. The impact battered Leigh into oblivion.
 
-When Carter Leigh came back to consciousness, the plane was spinning down in a power dive. Her ancient frame quivered; scraps of metal were vanishing from <a id="page68" />her injured wing. The damaged aileron was jammed again.
+When Carter Leigh came back to consciousness, the plane was spinning down in a power dive. Her ancient frame quivered; scraps of metal were vanishing from <a id="page68"></a>her injured wing. The damaged aileron was jammed again.
 
 He yanked at the stick, fought to bring her out of the dive. He stopped her spinning, and her nose came slowly up. Then he looked below for a landing place. Shallow lakes of yellow rain water patched the red desert. He found a level ridge that looked firm and dry enough, extended the landing gear.
 
@@ -1721,7 +1721,7 @@ Leigh clambered painfully out of the wreckage. He felt his bruised limbs. Despit
 
 Pale yellow-green shoots, pulpy and fragile, were pushing up through the wet red soil at his feet. He had come to rest at the margin of a wide shallow lake that mirrored the drizzling sky. Far beyond, above the gentle red hills patched with fresh olive green, he could see a long low line of purple darkness. And his ears, after they had become accustomed to the silence, heard a continual distant roaring in the sky.
 
-That roar was the wind of stolen air from Earth. That line was the purple jungle. Beyond it was the great machine of the stellar invaders, that had to be <a id="page69" />destroyed. Leigh, as wearily confident as if nothing were now impossible, set about that distant project.
+That roar was the wind of stolen air from Earth. That line was the purple jungle. Beyond it was the great machine of the stellar invaders, that had to be <a id="page69"></a>destroyed. Leigh, as wearily confident as if nothing were now impossible, set about that distant project.
 
 He snapped the action of the old automatic, slipped it in his pocket. Two five-gallon tins of gasoline and the remaining cylinders of oxygen he made into a bale, padded with his thick flying suit.
 
@@ -1739,7 +1739,7 @@ It was in that direction that he thought he had seen the green slash. An exhaust
 
 This road came straight out of the north. It cut into the jungle, the walls of purple thorns arching over it. After brief hesitation—lest he meet its masters unawares—Leigh trudged in upon it.
 
-The purple shadow of the jungle fell upon him. The roaring continued in the sky; cold rain and sleet fell <a id="page70" />endlessly. Leigh plodded endlessly on, ignoring fatigue and cold and hunger. Once he stopped to drink from a puddle on the road. A lancing pain stabbed through his chest.
+The purple shadow of the jungle fell upon him. The roaring continued in the sky; cold rain and sleet fell <a id="page70"></a>endlessly. Leigh plodded endlessly on, ignoring fatigue and cold and hunger. Once he stopped to drink from a puddle on the road. A lancing pain stabbed through his chest.
 
 A humming clatter startled him. He stepped off the road, thrust himself into the purple spines. A huge three-wheeled conveyance came swiftly along the pavement. The bed of it was piled with something pale green and crystalline—something mined, perhaps, in the equatorial regions.
 
@@ -1753,7 +1753,7 @@ He perceived no source of light. But the surrounding wall of thorns and the fant
 
 Beyond it, swung between three massive piers, was the latticed tube, now horizontal, pointing across the pole toward the unseen Earth. Leigh caught his breath. Nerved with a last spurt of unsuspected strength, he staggered forward in the green shadow of the Stellar Shell.
 
-<a id="page71" />Nothing stopped him. He swayed across a little open space beyond, dropped with his burden in the darkness between the three piers. His hands began shaping a basin in the half frozen mud.
+<a id="page71"></a>Nothing stopped him. He swayed across a little open space beyond, dropped with his burden in the darkness between the three piers. His hands began shaping a basin in the half frozen mud.
 
 A hoarse coughing hoot, from some half seen structure beyond, spurred him to desperate haste. He ripped open his bale, began pouring his ten gallons of gasoline into the basin. An unaccountable rasping rattle lifted the hair at the back of his neck. He heard a metallic clatter, nearer.
 
@@ -1771,7 +1771,7 @@ Leigh staggered back to the end of the Stellar Shell and began shooting into his
 
 The massive green wall of the cosmic projectile shielded him from the blast. And it sheltered him somewhat from the tempest that followed.
 
-<a id="page72" />He came to, lying in the freezing mud, nostrils bleeding, head ringing. Dragging himself up behind the shielding barrier, he saw that all the great structures of the invaders had been leveled. The green glow had gone from them.
+<a id="page72"></a>He came to, lying in the freezing mud, nostrils bleeding, head ringing. Dragging himself up behind the shielding barrier, he saw that all the great structures of the invaders had been leveled. The green glow had gone from them.
 
 He started at some motion in the gray twilight; it was a gelatinous arm, waving slowly above a pool of mud. He emptied the automatic at it—and it sank.
 
@@ -1785,7 +1785,7 @@ Some swift decay had attacked the fallen purple thorns, but the native life of M
 
 For several reasons, this last hopeless message was important. He wanted to end the fears of the Earth; wanted to help Tick Tinker; and he wanted Dr. Elene Kathrine Gayle to know that he had flown nonstop to Mars, usefully, with gasoline.
 
-“Mars, calling Earth,” he repeated. “Carter Leigh, on Mars, calling C Q, Earth. Landed here yesterday. Destroyed invaders last night with gasoline bomb. Anticipate no danger further loss of air. Inform Tick Tinker, New York, nonstop flight to Mars made with <a id="page73" />Zerolube oil. Now marooned on Mars. Good-bye, Earth.”
+“Mars, calling Earth,” he repeated. “Carter Leigh, on Mars, calling C Q, Earth. Landed here yesterday. Destroyed invaders last night with gasoline bomb. Anticipate no danger further loss of air. Inform Tick Tinker, New York, nonstop flight to Mars made with <a id="page73"></a>Zerolube oil. Now marooned on Mars. Good-bye, Earth.”
 
 He repeated that message, between intervals of sleep, until the little battery was exhausted. Then he set himself, wearily and without hope, to begin the life of the first Robinson Crusoe of space.
 
@@ -1801,7 +1801,7 @@ But his body was gaunt with privation. He had a recurrent painful cough. Sometim
 
 Then the night, the incredible night, when he woke in his chill bed beside a smoldering fire, to hear the familiar rhythmic drum of cathion rockets. He saw a blue star following down the roadway from the south. Breathless and quivering, he sprang up to feed his fire.
 
-<a id="page74" />Mantled in the blue flame of its forward jets, the rocket came down upon the road. His firelight showed the legend on its side: Gayle Foundation. It would be Laird Cragin, he supposed, another exile—
+<a id="page74"></a>Mantled in the blue flame of its forward jets, the rocket came down upon the road. His firelight showed the legend on its side: Gayle Foundation. It would be Laird Cragin, he supposed, another exile—
 
 But the bare grimy yellow head that appeared, when its thick doors swung open, was the head of Elene Gayle.
 
@@ -1824,7 +1824,7 @@ the_crucible_of_power
 # The Crucible of Power
 
 .fl
-<span class="smallcaps">This, my father’s</span> story, must begin with the great pandemic that was the background of his life, as it had been, since the twentieth century, the deadly background of human history. The Falling Sickness first <a id="page75" />attacked workers in a Greenland radium mine, in 1998. Baffled doctors talked of spores swept to Earth by the light-pressure of the Great Supernova of 1991. More probably, however, the new virus was a radiation-bom mutation from some malignant proteide already known—quite possibly, even, from one of those responsible for the “common cold.”
+<span class="smallcaps">This, my father’s</span> story, must begin with the great pandemic that was the background of his life, as it had been, since the twentieth century, the deadly background of human history. The Falling Sickness first <a id="page75"></a>attacked workers in a Greenland radium mine, in 1998. Baffled doctors talked of spores swept to Earth by the light-pressure of the Great Supernova of 1991. More probably, however, the new virus was a radiation-bom mutation from some malignant proteide already known—quite possibly, even, from one of those responsible for the “common cold.”
 
 The disease attacked all nerve tissue. Commonly the ganglions and plexuses of the ear were first affected. The victims were deafened, deprived of sense of balance, usually terrified with a sensation of endless headlong falling—hence the malady’s popular name.
 
@@ -1836,7 +1836,7 @@ The clock of civilization was stopped. The brilliant scientific advance of the t
 
 By 2100, however, mankind seemed on the way to slow recovery. The plague still claimed ten million lives a year, but immunity, by inexorable natural selection, was increasing. Courage began to return. Government, industry, science, and civilization struggled to resume their interrupted march.
 
-My father, Garth Hammond, was born in the last year of the Black Century. His life might be accounted <a id="page76" />for in terms of the dark age that produced him. But I beg the visivox listener to try to see him as something more than the end product of a nigged heredity fighting to survive in a grimly hostile environment. For he was more than that. He was more, even, than the daring explorer of space, the stalwart captain of industry, the dashing Don Juan, the heartless capitalist, the greatest philanthropist, the dictator of the solar system, and the conqueror of the Sun. Men have called him the most black-hearted, villainous hero the System ever knew. He was all those things, I know. But, also, he was a human being.
+My father, Garth Hammond, was born in the last year of the Black Century. His life might be accounted <a id="page76"></a>for in terms of the dark age that produced him. But I beg the visivox listener to try to see him as something more than the end product of a nigged heredity fighting to survive in a grimly hostile environment. For he was more than that. He was more, even, than the daring explorer of space, the stalwart captain of industry, the dashing Don Juan, the heartless capitalist, the greatest philanthropist, the dictator of the solar system, and the conqueror of the Sun. Men have called him the most black-hearted, villainous hero the System ever knew. He was all those things, I know. But, also, he was a human being.
 
 He was a tall and powerful man. His quick gray eyes had a keenness often disconcerting. Yet always he kept the ready geniality that came from the days when he was an impecunious and nimble-witted stock promoter. Even after the years had whitened the abundant shock of hair above his ruggedly handsome, black-browed face, he retained a vast attraction for women. My mother was not the first whose heart he broke, nor the last.
 
@@ -1844,7 +1844,7 @@ Garth Hammond has become the demigod of the whole creed of Success. Billions hav
 
 It is true enough that once, for a few months, he attended the boots of passengers on a transatlantic strato-plane. But his rise was due to something more than mere industry. He cultivated a pathetic limp, and told sympathetic travelers a pathetic story of his mother crippled for life by the Falling Sickness—actually she had died from falling down a tenement air shaft when he was two years old. Discharged for such methods of business, he began selling knickknacks and visivox spools about the stations. The eye of a young competitor was blacked by a mysterious assailant, and his missing stock in trade discovered to have been mysteriously shipped—collect—to the Mayor of Zamboanga.
 
-<a id="page77" />That is the beginning, crooked enough perhaps, yet with its hint of the imaginative resource that accompanied my father’s ruthless ambition. His commercial career was not really launched, however, until after Cornwall’s spectacular voyage to the Moon, in 2119.
+<a id="page77"></a>That is the beginning, crooked enough perhaps, yet with its hint of the imaginative resource that accompanied my father’s ruthless ambition. His commercial career was not really launched, however, until after Cornwall’s spectacular voyage to the Moon, in 2119.
 
 Captain Thomas Cornwall was a young ordnance engineer, on leave from the army. His rocket was the first to attain the velocity of escape—11.3 km/sec. His triumphant return, after two weeks on the Moon, won him the world’s frantic acclaim. The feat seemed symbolic of the reawakening of man, after the long night of the Black Century. And it showed my father the way to make his first millions.
 
@@ -1856,7 +1856,7 @@ One Dr. Ared Trent, a lean, brilliant, intense young astrophysicist, had just re
 
 The “Hammond’s Oil Expedition” remained one hundred days on the Moon, and safely brought back specimens and observations of great scientific value. The adventure was well publicized—and sales of the elixir boomed again.
 
-In order to meet the enormous demand, however, the compound was varied with cheaper chemicals and an increasing amount of water. This, together with Trent’s <a id="page78" />delay about publishing any description of the supposed plant life found on the Moon, brought more legal trouble. There were charges that mistaken dependence on the elixir had resulted in thousands of deaths. My father finally closed the plant.
+In order to meet the enormous demand, however, the compound was varied with cheaper chemicals and an increasing amount of water. This, together with Trent’s <a id="page78"></a>delay about publishing any description of the supposed plant life found on the Moon, brought more legal trouble. There were charges that mistaken dependence on the elixir had resulted in thousands of deaths. My father finally closed the plant.
 
 But Garth Hammond had already harvested millions, and he was ready, now, for a greater enterprise. He was not long in finding it. His first attempt led to disaster—for all but himself. Then Trent’s photographic studies of Mars, made from the Moon, precipitated the most momentous events of modem times.
 
@@ -1870,7 +1870,7 @@ Garth Hammond saw, in this bitter need, a great opportunity. His first, disastro
 
 The Volcano Steam and Metals Corporation proved to have been a singularly apt name for the enterprise. For, after a billion dollars had been spent to sink the great pit forty thousand feet, the bottom of it suddenly split. Men and refrigerating machines were drowned in flaming lava. A rain of boiling mud drowned the new city of Hammondspit, Virginia, taking twenty thousand fives.
 
-Molyneaux was killed in the eruption. Full <a id="page79" />responsibility for the disaster was somehow placed upon him. All the records of the corporation had been destroyed, and its tangled affairs were never entirely straightened. A fact, however, which used to rouse the ire of luckless investors, was that my father seemed to have lost nothing by the failure of the project.
+Molyneaux was killed in the eruption. Full <a id="page79"></a>responsibility for the disaster was somehow placed upon him. All the records of the corporation had been destroyed, and its tangled affairs were never entirely straightened. A fact, however, which used to rouse the ire of luckless investors, was that my father seemed to have lost nothing by the failure of the project.
 
 He remained prosperous enough, indeed, to purchase an entire island in the Aegean. There he built a marble replica of an ancient Roman villa, complete with all modem conveniences. There he took my mother as a bride—his second wife, she was Sabina Calhoun, frail, lovely daughter of an old aristocracy. And it was there, in 2130, the year after the disaster, that I was bom.
 
@@ -1886,7 +1886,7 @@ He flourished photographs and drawings.
 
 He shuffled the photographs, excitedly.
 
-“And here’s something else, Hammond—I don’t know what.” An odd note of awe slowed his eager voice. “A thing shaped like . . . well, like a barrel. It’s dark. It’s half a mile thick. It stands alone on the desert plain, a few hundred miles northwest of *Syrtis Major*. It <a id="page80" />can’t be natural. Some construction—I can’t guess what. But—tremendous!”
+“And here’s something else, Hammond—I don’t know what.” An odd note of awe slowed his eager voice. “A thing shaped like . . . well, like a barrel. It’s dark. It’s half a mile thick. It stands alone on the desert plain, a few hundred miles northwest of *Syrtis Major*. It <a id="page80"></a>can’t be natural. Some construction—I can’t guess what. But—tremendous!”
 
 I can hear my father’s calm question: “Well, Trent. But what of it?”
 
@@ -1904,7 +1904,7 @@ My frightened mother pleaded in vain against the project. My father returned to 
 
 The Martian ship was two years building. Finished in 2132, it was a four-step rocket, each step containing thousands of cellules, each of which was a complete rocket motor with its own load of alumilloid fuel, to be fired once and then detached.
 
-<a id="page81" />The rocket stood on the summit of a mountain: a smaller mountain of glittering metal, tapering toward the top. A spidery ladder led up to a high, tiny opening. Bright sun shimmered on the metal and on the snow, but the December wind was bitterly cold. My mother lifted me off the snow, and so I found that she was sobbing.
+<a id="page81"></a>The rocket stood on the summit of a mountain: a smaller mountain of glittering metal, tapering toward the top. A spidery ladder led up to a high, tiny opening. Bright sun shimmered on the metal and on the snow, but the December wind was bitterly cold. My mother lifted me off the snow, and so I found that she was sobbing.
 
 Trent and two others climbed up the ladder. Garth Hammond waited, his smile flashing, talking to a crowd of newsmen. Someone pushed through and thrust a legal paper at him. The investors in the power pit were still bringing suits and getting out injunctions.
 
@@ -1924,7 +1924,7 @@ White-faced and silent, my mother took me down to the little village. From the w
 
 “Your father, Chan,” she whispered. “Off to Mars!” She sat a long time, holding me tight in her arms. I was afraid to move. “That Nada Vale,” she breathed at last. “I . . . I’m sorry for her.”
 
-<a id="page82" />We went back to the island, and waited. The whole world waited for the next opposition, when they should return. Astronomers watched the Red Planet, radio hams trained loops on it. But there was no sign or signal. My fifth birthday came and passed. Hurtling Earth overtook Mars in its orbit, and left it swiftly behind.
+<a id="page82"></a>We went back to the island, and waited. The whole world waited for the next opposition, when they should return. Astronomers watched the Red Planet, radio hams trained loops on it. But there was no sign or signal. My fifth birthday came and passed. Hurtling Earth overtook Mars in its orbit, and left it swiftly behind.
 
 And still my father did not return.
 
@@ -1940,7 +1940,7 @@ The other two men had been carefully selected. Burgess was a famous power engine
 
 Every day the Red Planet grew. Engineering works and cultivated strips became unmistakably clear. And gray rectangular patches hinted of—cities?
 
-“Cities they are!” at last Trent cried. “And I’ve seen motion—some moving vehicle! Yes, Mars is alive, Hammond. Alive—but dying. Most of the fields are dead and brown. Most of the machines are stopped. <a id="page83" />Most of the cities are already drifted with the yellow sand.
+“Cities they are!” at last Trent cried. “And I’ve seen motion—some moving vehicle! Yes, Mars is alive, Hammond. Alive—but dying. Most of the fields are dead and brown. Most of the machines are stopped. <a id="page83"></a>Most of the cities are already drifted with the yellow sand.
 
 “And that . . . that thing, alone in the desert—”
 
@@ -1958,7 +1958,7 @@ Realizing that only a few seconds were left, Trent opened the valve, in desperat
 
 Behind them, the thousands of cellules were thundering and vomiting out a mountain of smoke and fire. They had staggered only a short distance when there was a terrific final explosion. Metal fragments shrieked about them. The German’s head, beside my father’s, was blown completely off. Burgess received a wound in the chest from which he died after Trent had removed a scrap of ragged steel.
 
-Both injured, Trent and my father survived. But their plight seemed grave enough. Food, water, and oxygen masks were lost. They found the air of Mars, on <a id="page84" />account of its relatively high oxygen content, breathable, but it did not allow violent or sustained exertion. Their stock in trade was lost, also the collection of models, pictures, books, radio and motion picture equipment, with which they had hoped to establish communication. The weapons were gone, and their fighting man. Final and most crushing blow, return to Earth seemed forever cut off.
+Both injured, Trent and my father survived. But their plight seemed grave enough. Food, water, and oxygen masks were lost. They found the air of Mars, on <a id="page84"></a>account of its relatively high oxygen content, breathable, but it did not allow violent or sustained exertion. Their stock in trade was lost, also the collection of models, pictures, books, radio and motion picture equipment, with which they had hoped to establish communication. The weapons were gone, and their fighting man. Final and most crushing blow, return to Earth seemed forever cut off.
 
 Blackened and bleeding, Trent stood looking back at the wreckage, wringing his lacerated hands.
 
@@ -1976,7 +1976,7 @@ My father nodded suddenly. “We can try. Let’s go.”
 
 “First,” Trent said, “the others.”
 
-Very hastily, panting with the effort, they covered Burgess and the German in shallow sand graves. A brief search of the vast shell hole where the rocket had fallen revealed no useful article intact. Empty-handed, clad in torn, scorched rags, they plodded southward across the dunes. My father was wearing a pair of inadequate soft slippers. They soon fell apart, and he went on barefoot. “Hammond Power,” my father whispered, and <a id="page85" />coughed again. “Two queer beings on Earth would probably wind up in some zoo—unless some panicky citizen shot them first! Their chance to learn, say, the science of subelectronics—” He shook his head. “Do you suppose they saw us?”
+Very hastily, panting with the effort, they covered Burgess and the German in shallow sand graves. A brief search of the vast shell hole where the rocket had fallen revealed no useful article intact. Empty-handed, clad in torn, scorched rags, they plodded southward across the dunes. My father was wearing a pair of inadequate soft slippers. They soon fell apart, and he went on barefoot. “Hammond Power,” my father whispered, and <a id="page85"></a>coughed again. “Two queer beings on Earth would probably wind up in some zoo—unless some panicky citizen shot them first! Their chance to learn, say, the science of subelectronics—” He shook his head. “Do you suppose they saw us?”
 
 “Possible,” said Trent. And, within an hour, they knew that their arrival was known. For a small bright-red aircraft, which had a double streamlined shape, like two thick cigars fastened side by side, came silently over the dunes from the south.
 
@@ -1992,7 +1992,7 @@ The Martians came following the two sets of plodding prints in the sand. They ro
 
 Like men. That unexpected pursuit filled Trent and my father with a sudden blind fear. They fled uselessly across the dunes. But still, so strong is man’s anthropomorphism, they thought of those wild riders in essentially human terms.
 
-Actually, perhaps, the dominant beings of Mars <a id="page86" />proved more manlike than the explorers had any right to expect. They were bipeds, walking upright. They had two-eyed faces of a sort. They communicated with a guttural, rasping speech.
+Actually, perhaps, the dominant beings of Mars <a id="page86"></a>proved more manlike than the explorers had any right to expect. They were bipeds, walking upright. They had two-eyed faces of a sort. They communicated with a guttural, rasping speech.
 
 For all that, however, the Martians have more in common with the arthropoda. Horny exoskeletons and fine-meshed scales instead of skin, with muscles and vital organs shielded in tubular armor. But in the chemistry of vital fluids and metabolic processes, in the subtler psychological reactions, they are like nothing on Earth.
 
@@ -2004,7 +2004,7 @@ Trent stumbled, suddenly, and couldn’t rise. My father stopped beside him, bre
 
 The men were hastily bound to a sort of packsaddle on one of the beasts, and the band turned northward again. The red double ship appeared again before sunset, following from the south. The riders scattered and began to fire at it with the long red tubes. It circled high above them, dropped a bomb that lifted an ineffectual pillar of dense dust, and returned once more toward its unseen base.
 
-Events confirmed my father’s surmise that their cap-tors were nomad enemies of the “canal” dwellers. That night, long after dark, the fugitive band took refuge in a labyrinth of burrows that must have been dug by <a id="page87" />the powerful claws of the hopping creatures. The captives were fed and allowed to sleep. Before dawn, the march was resumed. The respiratory trouble of the prisoners became more serious. Both sank into a fevered delirium. By the time they began to recover, the band had taken refuge in a hidden ravine where a tiny spring supplied water and grew a little forage for the beasts.
+Events confirmed my father’s surmise that their cap-tors were nomad enemies of the “canal” dwellers. That night, long after dark, the fugitive band took refuge in a labyrinth of burrows that must have been dug by <a id="page87"></a>the powerful claws of the hopping creatures. The captives were fed and allowed to sleep. Before dawn, the march was resumed. The respiratory trouble of the prisoners became more serious. Both sank into a fevered delirium. By the time they began to recover, the band had taken refuge in a hidden ravine where a tiny spring supplied water and grew a little forage for the beasts.
 
 There they were held for several months, gradually learning a little of their captors’ language and a few facts about them. Leader of the band was a gnarled, haggard, long-limbed savage, of a rusty-red color, named Zynlid. He and his outlaw clan maintained themselves by raiding the fields and cities of the canal dwellers, keeping up an ancient and bitter feud with the rulers of civilized Mars.
 
@@ -2016,7 +2016,7 @@ The gaunt chieftain’s notions of astronomy, it developed, were rather vague. F
 
 And his regard for beings of the Sun was considerable. He ordered their bonds removed, offered them choice food, drinks, and female companions, gave them liberty of the camp, and allowed my father to ride with him on future raids. Trent and my father made no attempt to disabuse him of the misunderstanding.
 
-Their questions were now eagerly answered, but it was some time before they were able to make any intelligible query about power. Meantime, Trent was allowed to examine the few machines in the possession of <a id="page88" />the nomads. These included the long guns and the equipment that gave light and heat in the dwelling-burrows.
+Their questions were now eagerly answered, but it was some time before they were able to make any intelligible query about power. Meantime, Trent was allowed to examine the few machines in the possession of <a id="page88"></a>the nomads. These included the long guns and the equipment that gave light and heat in the dwelling-burrows.
 
 The savages, it seemed, had no comprehension of the operation of these machines. There was a taboo, moreover, associated with them, so that Zynlid was horrified when Trent first began to take a little heater-lamp apart, and permitted him to go ahead only on reflection that he was a solar being.
 
@@ -2030,7 +2030,7 @@ Pressed by my father and excited by his own scientific enthusiasm, Trent continu
 
 “It’s got me, Hammond,” he admitted hopelessly. “Atomic energy? I don’t know. There’s no key—unless we can get it from the civilized tribes.”
 
-The accident lowered their prestige as beings of the Sun. Muttering of “the wrath of the Sun” and “the revenge of the holy stone,” Zynlid forbade Trent, on his <a id="page89" />recovery, to continue the experiments. And it might have gone much harder with the two men had not my father already become a trusted companion of Zynlid.
+The accident lowered their prestige as beings of the Sun. Muttering of “the wrath of the Sun” and “the revenge of the holy stone,” Zynlid forbade Trent, on his <a id="page89"></a>recovery, to continue the experiments. And it might have gone much harder with the two men had not my father already become a trusted companion of Zynlid.
 
 That lawless, marauding life seems to have appealed immensely to Garth Hammond. He flung himself into it with his old shrewd daring and all the strength of Earth muscles. There was a duel with one of Zynlid’s chief lieutenants, who was jealous of the warrior of the Sun. My father killed the savage, and thereafter found himself in possession of the dead Martian’s weapons and mount.
 
@@ -2044,7 +2044,7 @@ As soon as Trent had recovered sufficiently from the explosion, my father arrang
 
 A vast excitement fevered them as their yellow-armored leaping dragons brought them in view of the dark mass looming above the flat and limitless red dunes. Was this the key to exhaustless power and the road back to Earth?
 
-For many miles they rode forward across the desert, and the red-black enigma loomed vaster and vaster <a id="page90" />before them. At last, riding through the cold black shadow of it, they came to its base.
+For many miles they rode forward across the desert, and the red-black enigma loomed vaster and vaster <a id="page90"></a>before them. At last, riding through the cold black shadow of it, they came to its base.
 
 Its stupendous mass was metal, they discovered, pitted with the acid of untold centuries, crusted with dark red oxides. The dunes were drifted against it; westward the winds had cut out a vast curved hollow. Stunned with awe, they let the beasts carry them around its vast hexagon, and then withdrew to stare upward at it.
 
@@ -2060,7 +2060,7 @@ And he began to discuss with the somewhat horrified Zynlid plans for abducting A
 
 Still seeking to convince the old nomad, he called on Trent for scientific miracles. All Trent’s equipment had been lost in the wreck. An effort to demonstrate gunpowder now failed for want of free sulphur. But at last the astronomer, if he still failed to grasp the mysterious principle of the blue dust of power, was able to repair and operate certain mechanisms that the outlaws had captured.
 
-One that had lain a mystic but useless relic, gathering dust in a secret treasure-cavern for a full Martian century, now proved to be a weapon. A score of the enigmatic little tubes fed a Niagara of power to transformers and field coils. Its polar plates projected a tight beam of <a id="page91" />magnetic energy, whose terrific hysteresis effect could fuse metal at twenty miles’ distance.
+One that had lain a mystic but useless relic, gathering dust in a secret treasure-cavern for a full Martian century, now proved to be a weapon. A score of the enigmatic little tubes fed a Niagara of power to transformers and field coils. Its polar plates projected a tight beam of <a id="page91"></a>magnetic energy, whose terrific hysteresis effect could fuse metal at twenty miles’ distance.
 
 The triumphant demonstration of this rusted war engine restored all Trent’s shaken prestige, and secured full support of the nomads for my father’s daring plan—although most of them must have been secretly trembling with dread of Anak and his solar powers.
 
@@ -2076,7 +2076,7 @@ Three priests and a priestess aboard were slaughtered. The only survivor was a y
 
 Another red ship, sent no doubt to investigate the fate of the first, was also brought down. From the wreckage of the two, aided by two Martians captured in the second, Trent set out to put together one complete vessel. He worked day and night. The outlaws helped, and cheerfully tortured the two prisoners whenever they became reluctant.
 
-Before the ambitious task was done, however, a land force appeared, marching from the direction of Ob. <a id="page92" />There were two great machines like tanks, and a hundred lancers on foot. In the desperate battle that followed, Trent never left the ship and his reluctantly persuaded instructors. He was just learning the principle of the ship’s propulsion, by a system of gravity-shielding “spatial fields.”
+Before the ambitious task was done, however, a land force appeared, marching from the direction of Ob. <a id="page92"></a>There were two great machines like tanks, and a hundred lancers on foot. In the desperate battle that followed, Trent never left the ship and his reluctantly persuaded instructors. He was just learning the principle of the ship’s propulsion, by a system of gravity-shielding “spatial fields.”
 
 For a time the situation looked very bad. My father was able to cripple both war machines with the magnetic ray. But then a similar ray from one of the tanks discovered and fused his own weapon. The bright-scaled lancers charged, howling triumphantly.
 
@@ -2090,7 +2090,7 @@ My father sent Trent, aboard the ship with a crew of nomads and the little Marti
 
 After three lonely, grim days, parched and sunburned and chapped with alkali dust, he guided his beast into the “canal”—a belt of fertile dark soil, irrigated from underground conduits and covered with low-lying, thick-leaved plants. He parleyed with the warriors who came to meet him, and they conducted him, half a prisoner, into the city.
 
-<a id="page93" />Dark buildings sprawled flat and massive behind the walls and hedges that held back the seas of yellow sand. Although the city had several thousand inhabitants, and the central part about the towering conical Sun temple was now thronged with the lancers gathered to avenge the outrage against the sacred ship, by far the greater part of Ob was mere crumbling ruin. Its gaunt, bright-scaled people seemed to my father like lonely ghosts, trying to haunt a far-spreading necropolis. Mars was far gone in death.
+<a id="page93"></a>Dark buildings sprawled flat and massive behind the walls and hedges that held back the seas of yellow sand. Although the city had several thousand inhabitants, and the central part about the towering conical Sun temple was now thronged with the lancers gathered to avenge the outrage against the sacred ship, by far the greater part of Ob was mere crumbling ruin. Its gaunt, bright-scaled people seemed to my father like lonely ghosts, trying to haunt a far-spreading necropolis. Mars was far gone in death.
 
 Stating that he was an ambassador from the Sun, my father demanded audience with Anak. Suspiciously, yet with respect bom of the unprecedented disaster to the sacred ship, the lancers took my father to the ancient, many-terraced pile of crumbling black masonry that was the temple. There Anak met him.
 
@@ -2100,7 +2100,7 @@ When my father advanced his old claim to being a dweller in the Sun, Anak shot h
 
 What information?—Anak wanted to know. When my father began to hint that it dealt with the mysterious power tubes and the enigmatic mass of the *Korduv*, the priest-king burst into a savage rage. He snatched at a weapon, rasped and croaked and hissed like something reptilian.
 
-Finally, menacing my father with a level lance, he champed out the gutturals: “Base and lying stranger, whencesoever you come, I, the true Lance of the Sun, know you never dwelt in his sacred fires. The foul dogs of the desert may believe your imposture, but not I. The <a id="page94" />holy flame of Life would consume you in an instant.”
+Finally, menacing my father with a level lance, he champed out the gutturals: “Base and lying stranger, whencesoever you come, I, the true Lance of the Sun, know you never dwelt in his sacred fires. The foul dogs of the desert may believe your imposture, but not I. The <a id="page94"></a>holy flame of Life would consume you in an instant.”
 
 The red shaft thrust viciously.
 
@@ -2116,7 +2116,7 @@ The ship launched upward with bullets ringing against her hull. Triumphantly, my
 
 It was Zynlid, after Trent had patched up his wounds, who solved the difficulty.
 
-<a id="page95" />“He will never talk willingly,” rasped the old bandit. “Give him this. It is a key to locked lips.”
+<a id="page95"></a>“He will never talk willingly,” rasped the old bandit. “Give him this. It is a key to locked lips.”
 
 And he handed Trent a tiny hypodermic, loaded with a few drops of some colorless liquid. The drug seemed to resemble scopolamine in being a sort of “truth serum.” It ended Anak’s stubborn silence, and Trent at last began to learn the secret of the blue power-dust.
 
@@ -2132,7 +2132,7 @@ Trent came at last to my father, in the beleaguered valve, trembling with the im
 
 “Sunstone?” echoed my father. “The power-dust?”
 
-“Pure power!” cried the scientist. “Frozen, portable power—power storage, perfected to the last degree. It is <a id="page96" />condensed radiant energy—a complex, not of atoms and electrons, but of pure photons.
+“Pure power!” cried the scientist. “Frozen, portable power—power storage, perfected to the last degree. It is <a id="page96"></a>condensed radiant energy—a complex, not of atoms and electrons, but of pure photons.
 
 “Light particles, fixed! The mathematics of it is revolutionary. A radical extension of quantum physics! It also accounts for the gravity-reflecting space warp that lifts the ship, and the same field of strain can be modified to reflect radiant energy, for protection against any excess of the solar radiations.
 
@@ -2144,7 +2144,7 @@ Trent shook his shaggy, emaciated head. “The *Korduv* won’t move again,” h
 
 “Wrecked, eh?” My father stared into the strange maze of Cyclopean engines that loomed within the faintly blue-lit gloom beyond the valve, and demanded, “Why didn’t they build another?”
 
-“Racial senescence, I guess,” said Trent. “They <a id="page97" />stopped growing, and went to seed. Take old Anak. He knows scientific facts that we wouldn’t have discovered on Earth for a thousand years. But they’re frozen, dead. His knowledge is all in the form of elaborate, memorized rituals, mingled with superstitious dogma. He is ruled by the past. Half his knowledge is too sacred to use outside the temple. Any new fact would be rank heresy to the Sun. There is sunstone left to keep the pumps running for two or three thousand years. After that, Mars is doomed. ‘By the will of the Sun.’ ”
+“Racial senescence, I guess,” said Trent. “They <a id="page97"></a>stopped growing, and went to seed. Take old Anak. He knows scientific facts that we wouldn’t have discovered on Earth for a thousand years. But they’re frozen, dead. His knowledge is all in the form of elaborate, memorized rituals, mingled with superstitious dogma. He is ruled by the past. Half his knowledge is too sacred to use outside the temple. Any new fact would be rank heresy to the Sun. There is sunstone left to keep the pumps running for two or three thousand years. After that, Mars is doomed. ‘By the will of the Sun.’ ”
 
 “Well!” My father shrugged impatiently. “If this is wrecked, can you draw plans for another?”
 
@@ -2158,7 +2158,7 @@ Then a tiny sunstone bomb opened a new port in the crown of the *Korduv*’s hul
 
 Old Anak, with his infant daughter, was released at dawn on the desert a few miles from Ob. He learned now that the mother of Asthore had been killed, and he retained memory of all that he had revealed beneath the drug. Rage and horror overwhelmed him. His drawn, dark-scaled face twisted hideously, and his black eyes flamed. He made a desperate, empty-handed attack on my father, screaming prayers and curses.
 
-“Beware!” he was shrieking, as the vessel rose. <a id="page98" />“Desecrators of the holy fire, beware the judgment of the Sun!”
+“Beware!” he was shrieking, as the vessel rose. <a id="page98"></a>“Desecrators of the holy fire, beware the judgment of the Sun!”
 
 Zynlid had accepted my father’s invitation to visit Earth, along with a slave and his two favorite wives. A final raid supplied the vessel with food for the voyage, and Trent guided it out past Deimos into the gulf of space.
 
@@ -2180,7 +2180,7 @@ The little screen flickered and lighted. I saw the golden tangle of the broken s
 
 They were queer-looking men, haggard and shaggy and darkly tanned. My father wore the strange leather garments of the nomads, brilliant with the dried, shelllike ear appendages he had taken. He flourished a long red lance, and his voice croaked a guttural greeting in an unfamiliar tongue.
 
-But his old smile flashed, infectious as ever, behind the great tangle of his black beard. His strong teeth shone. His gray eyes had squinted a little, against the <a id="page99" />desert glare, but still they were clear and shrewd and quick.
+But his old smile flashed, infectious as ever, behind the great tangle of his black beard. His strong teeth shone. His gray eyes had squinted a little, against the <a id="page99"></a>desert glare, but still they were clear and shrewd and quick.
 
 “He’s just the same, Chan,” sobbed my mother. “Your father . . . *oh, Garth!*”
 
@@ -2196,7 +2196,7 @@ Then, suddenly, my mother stopped the machine. A moment she stood beside the cab
 
 The conqueror of Mars became the hero of the Earth. That wild tide of enthusiasm drowned all the old accusations against my father. The capital of six billion dollars for the Sun Power Corporation was all subscribed in one hectic day.
 
-Tens of millions paid fat admission fees to see Zynlid and his ménage in the gravity-shielded, air-conditioned apartment my father provided. The old bandit used to strut proudly before the curious, flourishing his <a id="page100" />weapons and trophies and demanding staggering sums for posing for the visivox.
+Tens of millions paid fat admission fees to see Zynlid and his ménage in the gravity-shielded, air-conditioned apartment my father provided. The old bandit used to strut proudly before the curious, flourishing his <a id="page100"></a>weapons and trophies and demanding staggering sums for posing for the visivox.
 
 The tempest of publicity seemed to mean nothing to Ared Trent. The public hardly realized that my father had had a companion on Mars. Stem, taciturn priest of science, if Trent had a human side, the world didn’t know it—not then. He gathered sixty skilled draftsmen in a closely guarded office building and began drawing up the plans and specifications for the Sun Power Station.
 
@@ -2208,7 +2208,7 @@ Designer of the Station, Ared Trent was to have been its first commander. But, a
 
 That quarrel has puzzled historians. The two had been friends since before my father sent Trent to the Moon. Man of knowledge and man of money, they had seemed to five in a perfect symbiosis. Biographers have suggested, and rightly, I believe, that Trent, although he seemed to have the feelings of a product integraph, actually must have suppressed a deep resentment of my father’s assumption of a dictatorial superiority.
 
-But the real key to the quarrel, I think, is the suicide of Nada Vale. The actress had obviously been desperately in love with my father. Absorbed at the time in the expedition to Mars and the conquest of power, he can <a id="page101" />hardly have cared very much for her. It is certain that they were never married. And it seems that she was bitterly jealous of the woman my father did love.
+But the real key to the quarrel, I think, is the suicide of Nada Vale. The actress had obviously been desperately in love with my father. Absorbed at the time in the expedition to Mars and the conquest of power, he can <a id="page101"></a>hardly have cared very much for her. It is certain that they were never married. And it seems that she was bitterly jealous of the woman my father did love.
 
 That woman was lovely Doris Wayne, heir to the Marine Mines billions. My father met her soon after the return from Mars. They were married in 2138. On the wedding night, Nada Vale drank poison in the anteroom of their Manhattan penthouse.
 
@@ -2216,7 +2216,7 @@ And Ared Trent, although no one had guessed it, cherished an old infatuation for
 
 At any rate, Trent suddenly demanded an equal voice with my father in the direction of the Sun Power Corporation. My father refused, astonished. There was a long legal battle, in which Trent was completely defeated. Then my father, to show some gratitude for his services, made him a free gift of ten million dollars. Trent used it to build a new laboratory isolated in South Africa, and went into complete seclusion.
 
-Command of the Station, meantime, was given to bluff, stocky Tom Cornwall, hero of the Moon. Sitting with my mother in our island villa, I watched the launching of the Station. It was a colossal upright cylinder of massive steel, with curved ends. Incredibly tremendous, it loomed above tiny-seeming tracks and derricks, and the mills and furnaces of the new steel city that had made its metal. The crew had gone aboard. My father, magnificent on the platform, made a speech and shook the hand of Tom Cornwall. The intrepid captain vanished. The cheering multitude—people small and black as crawling insects about the Station—were herded back. Then the steel cylinder flickered curiously, and was lost in a pillar of silver haze—all light reflected by its shielding ether fields. The pillar floated upward. A sudden wind swept the throng, raising a little <a id="page102" />cloud of dust and hats. And the Station was gone to the Sun.
+Command of the Station, meantime, was given to bluff, stocky Tom Cornwall, hero of the Moon. Sitting with my mother in our island villa, I watched the launching of the Station. It was a colossal upright cylinder of massive steel, with curved ends. Incredibly tremendous, it loomed above tiny-seeming tracks and derricks, and the mills and furnaces of the new steel city that had made its metal. The crew had gone aboard. My father, magnificent on the platform, made a speech and shook the hand of Tom Cornwall. The intrepid captain vanished. The cheering multitude—people small and black as crawling insects about the Station—were herded back. Then the steel cylinder flickered curiously, and was lost in a pillar of silver haze—all light reflected by its shielding ether fields. The pillar floated upward. A sudden wind swept the throng, raising a little <a id="page102"></a>cloud of dust and hats. And the Station was gone to the Sun.
 
 There was rioting, that day on all the stock exchanges. Coal, oil, and water-power stocks dropped ruinously. SPC soared to dizzy heights. A dozen desperate investors killed themselves. My father boasted that in one day, before any wealth had come from the Sun, he had cleared nearly two billion dollars.
 
@@ -2232,7 +2232,7 @@ IV
 .space
 The frightful shadow of the old pandemic suddenly darkened over all the world. For something had happened to the virus: some reaction, physiologists said, of the malignant molecule with the alien proteins in the bodies of the Martians. Old immunities were destroyed. The new, virulent plague swept the planet. In a single year, a hundred million died. All the horrors of the Black Century threatened to return.
 
-Among the natives of Mars the disease was even more deadly than on Earth. When my father’s conquering fleet appeared on the red planet, the cities attempted to resist and the *Korduv* was blown up. It is uncertain whether, as enemies of my father have charged, the Falling Sickness was deliberately spread. <a id="page103" />But, within a few weeks, it destroyed half the inhabitants of Mars. The planet surrendered. Anak, the old priest-king, was forced into exile. He came to Earth with his daughter, and established residence in a shabby, century-old building in Washington. His brooding, bitter hatred of my father always grew, and his guarded inner rooms, armored against the gravity and the air of Earth, were an early center of the organized intrigue against Garth Hammond and the SPC.
+Among the natives of Mars the disease was even more deadly than on Earth. When my father’s conquering fleet appeared on the red planet, the cities attempted to resist and the *Korduv* was blown up. It is uncertain whether, as enemies of my father have charged, the Falling Sickness was deliberately spread. <a id="page103"></a>But, within a few weeks, it destroyed half the inhabitants of Mars. The planet surrendered. Anak, the old priest-king, was forced into exile. He came to Earth with his daughter, and established residence in a shabby, century-old building in Washington. His brooding, bitter hatred of my father always grew, and his guarded inner rooms, armored against the gravity and the air of Earth, were an early center of the organized intrigue against Garth Hammond and the SPC.
 
 My father had brought the Martians to Earth. He was to blame, therefore, for the new epidemic. And the Martians hated him doubly, as the desecrator of their solar religion and the murder of their race.
 
@@ -2242,7 +2242,7 @@ Yet—and an item to my father’s credit—industry must have been stimulated v
 
 SPC was suddenly the most powerful—and soon the most hated—entity on Earth. The yearly production of sunstone from the Station ran above one thousand tons. At the standard price, pegged mercilessly at twelve hundred dollars an ounce, that meant a gross annual revenue in excess of forty billion dollars—enough to make Garth Hammond virtual dictator of the Solar System.
 
-Trust busting legislation was passed by embittered liberal and labor groups—in vain. For national law <a id="page104" />ceased at the stratosphere. The only ships in space were those marked SPC, and the only order there was that enforced by my father’s corporation police, the famous Sun Patrol.
+Trust busting legislation was passed by embittered liberal and labor groups—in vain. For national law <a id="page104"></a>ceased at the stratosphere. The only ships in space were those marked SPC, and the only order there was that enforced by my father’s corporation police, the famous Sun Patrol.
 
 The law, as always, adapted itself to current reality. SPC was recognized as virtually an independent state, with jurisdiction everywhere beyond Earth’s stratosphere. And Garth Hammond was its absolute ruler—though legally still a citizen of the United States, granted certain immunities as an “employee” of SPC, his only title being chairman of the board of a corporation chartered in New Jersey.
 
@@ -2252,7 +2252,7 @@ The gravest blow against him came from outside the law, and outside the Earth. T
 
 When the first attack on the relief ship became known, Anak had let newsmen through the valve into the great steel tank that held a fragment of exiled Mars. His dark-scaled body was now withered and bent, his strange face lined and haggard and terrible with bitterness and hate. Stalking back and forth, like some restless, caged beast, beneath the glowing Sun disk that he had brought from the temple on Mars, he shook a lean, unearthly arm at them.
 
-“It is the judgment of the Sun,” his flat, guttural voice rasped barely intelligible English. “Garth Hammond despoiled the jewel of the Sun. He defiled the <a id="page105" />sacred places, and stole the holy secret. He spilled the blood of the Sun, slew my Wahneema!” His black, yellow-rimmed eyes glared with fanatical malice. “And he shall know the judgment of the Sun!”
+“It is the judgment of the Sun,” his flat, guttural voice rasped barely intelligible English. “Garth Hammond despoiled the jewel of the Sun. He defiled the <a id="page105"></a>sacred places, and stole the holy secret. He spilled the blood of the Sun, slew my Wahneema!” His black, yellow-rimmed eyes glared with fanatical malice. “And he shall know the judgment of the Sun!”
 
 Trembling, then, with a savage wrath, he drove the newsmen out.
 
@@ -2264,7 +2264,7 @@ Sun Patrol men, aided by Federal agents, finally closed in on the old house in W
 
 The fleets of the SPC scoured space for the pirate, searched planets and asteroids for a base, in vain. A second, hurriedly constructed relief ship, the *Solarion II*, was also lost, her wrecked and looted hull being discovered adrift near the orbit of Mercury. The *Solarion III*, in 2148, safely reached the Sun and returned. But her holds were empty and she brought appalling news. The Station itself was lost!
 
-The cause of the disaster could only be surmised. The great plant might have been captured or destroyed by the pirates. Or, frail as a bubble floating in the flaming ocean of the solar photosphere, it might have been obliterated by the titanic forces of the Sun: cyclonic storms of sunspots, whose tremendous vortices might have dragged it down into a very atomic furnace; super <a id="page106" />hurricanes of prominences, blasts of flaming hydrogen flung upward at hundreds of thousands of miles an hour; heat inconceivable, 6000 degrees at the surface, intense enough to destroy the Station in an instant if deflection fields or conversion batteries failed. Or it was possible that mutiny or the Falling Sickness had annihilated the crew.
+The cause of the disaster could only be surmised. The great plant might have been captured or destroyed by the pirates. Or, frail as a bubble floating in the flaming ocean of the solar photosphere, it might have been obliterated by the titanic forces of the Sun: cyclonic storms of sunspots, whose tremendous vortices might have dragged it down into a very atomic furnace; super <a id="page106"></a>hurricanes of prominences, blasts of flaming hydrogen flung upward at hundreds of thousands of miles an hour; heat inconceivable, 6000 degrees at the surface, intense enough to destroy the Station in an instant if deflection fields or conversion batteries failed. Or it was possible that mutiny or the Falling Sickness had annihilated the crew.
 
 Whatever its cause, the disaster was crushing. Stocks and bonds of SPC crashed ruinously. My father found it difficult to get capital to begin construction of a new power station, and strikes and sabotage hindered the work.
 
@@ -2278,7 +2278,7 @@ I tried to encourage him.
 
 “One chance,” he admitted. “If I could get Trent. The best mind I ever knew. If he would forget—”
 
-But the search for Trent failed. Years before, with my father’s gift, he had built his great laboratory in South Africa. But the isolated buildings had now been <a id="page107" />for several years abandoned. Ared Trent was gone without a trace.
+But the search for Trent failed. Years before, with my father’s gift, he had built his great laboratory in South Africa. But the isolated buildings had now been <a id="page107"></a>for several years abandoned. Ared Trent was gone without a trace.
 
 Upon that failure came the thrust of sharper disaster. My father’s wife, the former Doris Wayne, contracted the Falling Sickness. After two days of agony, clinging to the bed and screaming with that frightful vertigo, she died. It was after that that my father’s hair began to turn white. His big shoulders sagged. Turned to a grim machine, he refused to leave the office for rest or sufficient sleep.
 
@@ -2294,7 +2294,7 @@ A strange space vessel was seen above New York. It landed on the great Long Isla
 
 The port authorities were in a flurry of fear, but they soon discovered that the pirate designed no harm. A haggard, white-haired man stumbled out of the valve, and wildly demanded to be taken at once to my father.
 
-I was in the office when they met. My father was <a id="page108" />wearing a white laboratory apron, and his fingers were stained with chemicals. He smiled—and suddenly recklessly invincible as in the old days—and then seized Trent’s hand with evident warm emotion.
+I was in the office when they met. My father was <a id="page108"></a>wearing a white laboratory apron, and his fingers were stained with chemicals. He smiled—and suddenly recklessly invincible as in the old days—and then seized Trent’s hand with evident warm emotion.
 
 “Well, Ared! So you are Redlance. After all, who else could have done it?” He stepped closer, earnestly. “Can we be friends again? I’ve made mistakes, Trent, and I’m sorry for them. The SPC is beaten. But now I’ve come on something new. If you will help me, together we—”
 
@@ -2314,7 +2314,7 @@ My father gulped.
 
 “My God, Trent!” His voice trembled. “What are you trying to tell me?”
 
-“They’re going to load the Station with sunstone.” Trent’s red, hollow eyes stared unseeingly. “Four thousand tons of pure energy. Then sink it into the photosphere as far as the screens will hold.” His dead flat <a id="page109" />voice had no emphasis, as if his feelings were already killed. “And then blow it up.”
+“They’re going to load the Station with sunstone.” Trent’s red, hollow eyes stared unseeingly. “Four thousand tons of pure energy. Then sink it into the photosphere as far as the screens will hold.” His dead flat <a id="page109"></a>voice had no emphasis, as if his feelings were already killed. “And then blow it up.”
 
 Soundlessly, my father’s lips whispered, “What then?”
 
@@ -2348,7 +2348,7 @@ Trent shook his haggard head.
 
 He shrugged hopelessly.
 
-<a id="page110" />“Don’t think of force. The Station is invincible. There’s no weapon that could even match the beating it is always getting from the Sun. We tricked Cornwall. We’d never have gotten aboard if he hadn’t thought there were friends on the *Solarion*.
+<a id="page110"></a>“Don’t think of force. The Station is invincible. There’s no weapon that could even match the beating it is always getting from the Sun. We tricked Cornwall. We’d never have gotten aboard if he hadn’t thought there were friends on the *Solarion*.
 
 “But Anak has no friends.”
 
@@ -2364,7 +2364,7 @@ Hurt—it is queer how one could nurse an injured private vanity while such grea
 
 For weary weeks, we waited. A trip by sail, down among the Cyclades, failed to ease the suspense. My mother fell ill with the strain—and I feared, for a dreadful hour, that she was a victim of the Falling Sickness then raging through the islands.
 
-No word came back from the *Redlance*. But fevered imagination pictured the details of the desperate voyage. The battered red hull shielded in the silver fog of deflection fields. The plunge into the Sun’s fiery ocean. The frightful dive in quest of the Station, menaced with an <a id="page111" />intensity of heat beyond conception, battered with incredible storms, crushed with the pressure of a gravitation twenty-eight times that of Earth.
+No word came back from the *Redlance*. But fevered imagination pictured the details of the desperate voyage. The battered red hull shielded in the silver fog of deflection fields. The plunge into the Sun’s fiery ocean. The frightful dive in quest of the Station, menaced with an <a id="page111"></a>intensity of heat beyond conception, battered with incredible storms, crushed with the pressure of a gravitation twenty-eight times that of Earth.
 
 It was a period of sunspot maxima. Magnetic storms disturbed communication. One night was splendid with the cold flames of the aurora. I remember looking at the Sun through a dark glass, its round face pocked with a dozen angry vortices, each large enough to swallow an Earth. Dazzled, I went back to my mother, shuddering. If the power of the Sim could do all these things across 93,000,000 miles, what could it not do to men in its very flaming grasp?
 
@@ -2386,7 +2386,7 @@ That was too good to believe. Many of us refused to believe it—until the *Redl
 
 But why had Anak, so grimly bent upon revenge—why had he surrendered?
 
-My father himself brought the answer to that. His private stratoplane landed unwarned in the lee of our island, and taxied shoreward. Garth Hammond leaped out and waded up the beach. The ruggedly handsome <a id="page112" />face beneath his thick white hair was smiling gayly as ever, but his gray eyes held a wistful tenderness that I had never seen.
+My father himself brought the answer to that. His private stratoplane landed unwarned in the lee of our island, and taxied shoreward. Garth Hammond leaped out and waded up the beach. The ruggedly handsome <a id="page112"></a>face beneath his thick white hair was smiling gayly as ever, but his gray eyes held a wistful tenderness that I had never seen.
 
 I ran to meet him, shouting incoherent questions.
 
@@ -2410,7 +2410,7 @@ There was an utter, queerly painful stillness. A great choking lump rose in my o
 
 I found my father and my mother sitting side by side in her quiet, fragrant room. Her face was stained with tears, and her smile was very happy. My father had been telling her what I had learned from the spool. His great laugh boomed out softly.
 
-“Funny thing!” he told her. “That chemical was formed in an old bottle of the Lunar Oil. The cheap, <a id="page113" />impure stuff we used at the last. I happened to hold it against the light, and saw the change in color. When I analyzed it—”
+“Funny thing!” he told her. “That chemical was formed in an old bottle of the Lunar Oil. The cheap, <a id="page113"></a>impure stuff we used at the last. I happened to hold it against the light, and saw the change in color. When I analyzed it—”
 
 I turned back, silently, and left them alone.
 
@@ -2431,7 +2431,7 @@ Sunport was his capital. For a hundred years the monopoly of interplanetary comm
 
 Boss Kellon lived in the crown of the lofty Union Tower. The huge, luxurious halls of his penthouse suite were named for the worlds of the Sun. Tonight there was a ball in the Neptune Room, and he was dancing with Selene du Mars.
 
-<a id="page114" />The Boss was short of breath, and dark perspiration spotted the shoulders of his purple dress pajamas. His feet ached. Perhaps, at sixty, he was too old to be dancing; certainly he had too much weight about the middle. But Selene du Mars could make men seek to banish such uncomfortable thoughts.
+<a id="page114"></a>The Boss was short of breath, and dark perspiration spotted the shoulders of his purple dress pajamas. His feet ached. Perhaps, at sixty, he was too old to be dancing; certainly he had too much weight about the middle. But Selene du Mars could make men seek to banish such uncomfortable thoughts.
 
 She was tall and supple and green-eyed. She had been a famous teleview dancer. He thought she was the most costly and glittering thing in all Sunport. Tonight her hair was platinum, and she was dazzling with fire diamonds. He thought those favorite stones were like herself—cold and bright and hard. But he could admire even her calculating ambition, because it was so akin to his own.
 
@@ -2445,7 +2445,7 @@ Now, and not for the first time, she was wheedling him to crown himself. Her voi
 
 Kellon frowned, sobered by the thought. He had climbed to the perilous apex of a human pyramid. He was first of the million hereditary engineers, who, with their families and the various grades of their retainers, occupied nearly all the upper-level towers of Sunport.
 
-But, here in Sunport alone, nearly eighty million more wore the gray of labor. They dwelt and toiled in <a id="page115" />the subsurface levels, and the Goon Department bound their lives with iron restrictions. Kellon knew how they lived—because he had been one of them.
+But, here in Sunport alone, nearly eighty million more wore the gray of labor. They dwelt and toiled in <a id="page115"></a>the subsurface levels, and the Goon Department bound their lives with iron restrictions. Kellon knew how they lived—because he had been one of them.
 
 Most of them hated the technician nobility of the Union. That was the dangerous flaw in the pyramid. Kellon had once tried to mend it, with reforms and concessions. But Melkart warned that he was three generations too late. Yielding to that hatred, he was merely paying out the rope to hang himself.
 
@@ -2463,7 +2463,7 @@ But Kellon stopped listening. He let her dance out of his arms. He watched the t
 
 The thin man was Chief Marquard of the Goon Department. He wore wine-colored formal pajamas and a jeweled Union star. Bm he had no partner, and his harassed expression meant bad news. Kellon braced himself for trouble.
 
-“Your Genius, it’s the Preacher!” The whisper was hoarse with strain. “He’s here in Sunport.” Marquard <a id="page116" />gulped and wet his lips. “Still in hiding—somewhere down in the drainage levels.”
+“Your Genius, it’s the Preacher!” The whisper was hoarse with strain. “He’s here in Sunport.” Marquard <a id="page116"></a>gulped and wet his lips. “Still in hiding—somewhere down in the drainage levels.”
 
 This was more than merely trouble. Kellon swayed. The lofty shining murals blurred. He saw instead the dark, dripping tunnels a thousand feet beneath the pavements of Sunport. Once he had hidden there himself, a hunted man in gray. The syncopated drone of the orchestra was suddenly the throb of drainage pumps.
 
@@ -2477,7 +2477,7 @@ Perhaps Ruth had loved Melkart. Kellon was never sure. For the secret police of 
 
 Kellon was responsible for that report. He had tried to atone for it, however, with the parole he secured for Melkart as soon as he had sufficient influence.
 
-Ruth had never abandoned her dream of the New Commonwealth. She had not approved the methods of Kellon’s rise to power, and she was deeply hurt when he ordered the Union Goons to hunt down the few <a id="page117" />surviving members of the party. Roy was twelve years old when she died.
+Ruth had never abandoned her dream of the New Commonwealth. She had not approved the methods of Kellon’s rise to power, and she was deeply hurt when he ordered the Union Goons to hunt down the few <a id="page117"></a>surviving members of the party. Roy was twelve years old when she died.
 
 Roy was like his mother—lean, intense, idealistic. Kellon was delighted when the boy wanted to take practical degrees in unitronic engineering—it helped him forget that his own hereditary titles were forgeries.
 
@@ -2491,7 +2491,7 @@ Like an elongated silver bubble, a freighter was lifting from the Venus Docks, b
 
 But Kellon’s pride had a bitter taste. He could remember when the port was far busier, back in the days of the Corporation. Now half the yards were weed grown and abandoned. Dismantled ships were turning red with rust in the cradles at the disused Saturn Docks.
 
-His pilot landed the glider on the white roof. Kellon <a id="page118" />asked for his son, and a startled watchman guided him down through the laboratory. Space had really been conquered in this building, Kellon knew; all the great advances in unitronic flight had been made here. But most of the halls were deserted now, the old equipment dismantled or ruined.
+His pilot landed the glider on the white roof. Kellon <a id="page118"></a>asked for his son, and a startled watchman guided him down through the laboratory. Space had really been conquered in this building, Kellon knew; all the great advances in unitronic flight had been made here. But most of the halls were deserted now, the old equipment dismantled or ruined.
 
 Kellon found Roy in a long, clean shop whose plastic walls were softly radiant with a clear blue-white. Huge windows looked out across the militechnic reservation, where the unitron cruisers of the Fleet lay like immense dead-black arrows.
 
@@ -2507,7 +2507,7 @@ Roy seemed glad to see him.
 
 “Hypothesis?” Anger boomed in Kellon’s voice. “Important.” He tried to calm his tone. “Can you explain what is important about it?”
 
-“I tried to, before I went to Mercury,” Roy said. “You were too busy to listen. You see, I have a new idea about how the planets were formed. I went to <a id="page119" />Mercury to check it, with closer observations of the Sun. I believe I am right.”
+“I tried to, before I went to Mercury,” Roy said. “You were too busy to listen. You see, I have a new idea about how the planets were formed. I went to <a id="page119"></a>Mercury to check it, with closer observations of the Sun. I believe I am right.”
 
 Kellon attempted to swallow his impatience.
 
@@ -2525,7 +2525,7 @@ Kellon felt a brief amusement at his son’s simple lecture room explanations, a
 
 Roy nodded eagerly and touched the gadget again.
 
-“That is my hypothesis—that every normal star has formed planets of its own. The tidal theories allowed <a id="page120" />only a handful of habitable planets in the entire galaxy. I believe there may be—millions!” His quick hand gestured, with the gadget. “Of course, it is still only a hypothesis—though the Outstation astronomers have found evidence of planets about several of the nearer single stars. But I’m going to find out!”
+“That is my hypothesis—that every normal star has formed planets of its own. The tidal theories allowed <a id="page120"></a>only a handful of habitable planets in the entire galaxy. I believe there may be—millions!” His quick hand gestured, with the gadget. “Of course, it is still only a hypothesis—though the Outstation astronomers have found evidence of planets about several of the nearer single stars. But I’m going to find out!”
 
 He searched Kellon’s face.
 
@@ -2549,7 +2549,7 @@ Tears of frustration came into Roy’s eager eyes.
 
 Kellon lost his temper then.
 
-“I’m going to cut off your allowance,” he shouted at the white-lipped boy. “That will stop this nonsense. <a id="page121" />Come to me whenever you are ready to take up mili-technics.”
+“I’m going to cut off your allowance,” he shouted at the white-lipped boy. “That will stop this nonsense. <a id="page121"></a>Come to me whenever you are ready to take up mili-technics.”
 
 “You had better go back to Selene du Mars,” Roy told him quietly. “I don’t need the allowance.”
 
@@ -2566,7 +2566,7 @@ But Roy had failed him. Under the burden of the tottering Union, he stood all al
 
 “Delicate, hell!” Kellon caught his breath, and decision flashed in his shrewd blue eyes. He had fought alone before, and he could again. “Search the drainage levels,” he ordered crisply. “Arrest the Preacher.”
 
-<a id="page122" />“Is Your Genius sure—” Marquard blinked uncertainly. “He has terrific influence. Before he came, it might have been safe. Now his followers will make trouble.”
+<a id="page122"></a>“Is Your Genius sure—” Marquard blinked uncertainly. “He has terrific influence. Before he came, it might have been safe. Now his followers will make trouble.”
 
 “I’ll handle trouble when it happens.” Kellon stiffened his big shoulders and managed to smile again. He must hide the black panic that swept him. “Don’t kill him,” he added. “Just bring him in. Martyrs are dangerous.”
 
@@ -2586,7 +2586,7 @@ Selene turned the white dazzle of her smile on him, and slipped into the dashing
 
 He watched Hurd and Selene, dancing cheek to cheek. Her eyes were closed; her restless face seemed relaxed for once, and happy. But he caught a covert glance from Hurd’s dark eyes, watchful, oddly hostile.
 
-<a id="page123" />Turning wearily away, Kellon felt another surge of regret for his son. If they had not quarreled, Roy might now have been in command of the Fleet, instead of Hurd. The new admiral was brilliant, and his record clear, but Kellon didn’t like him.
+<a id="page123"></a>Turning wearily away, Kellon felt another surge of regret for his son. If they had not quarreled, Roy might now have been in command of the Fleet, instead of Hurd. The new admiral was brilliant, and his record clear, but Kellon didn’t like him.
 
 Kellon left the ballroom, escorted unobtrusively by his Goon bodyguards. He crossed the vast, silent Moon Room, to a terrace that looked down over Union Square.
 
@@ -2600,7 +2600,7 @@ How mad his dreams had been! Ten million others must have dreamed them, but only
 
 “Thanks, major.” He shrugged, and pushed on. He couldn’t afford to yield to the fear in him. Confidence was his safest armor. “You know this is my favorite view.”
 
-<a id="page124" />But tonight the picture was grimly different.
+<a id="page124"></a>But tonight the picture was grimly different.
 
 The long rectangle of Union Square, so far below, was gray with pressing crowds. From this elevation, the surging masses looked like some strange vermin, crawling about the bases of these mighty, shining, clean-lined towers that he loved.
 
@@ -2619,7 +2619,7 @@ Tiny screams reached him. Black Goon cars appeared on the shining pavement, and 
 
 Anxiously, Kellon went back through the archway in the softly glowing wall—it was pulsating tonight with soft and slowly changing hues of violet and rose. He wondered briefly if quieter colors and a slower beat would seem more confident.
 
-In the silent, cyclopean Moon Room, he hurried to the telephore desk and dropped impatiently on his seat <a id="page125" />in the U-shaped slot, with the stereo prisms standing in a half circle before him. In the center screen, the bright image of the red-haired operator was a little smaller than life.
+In the silent, cyclopean Moon Room, he hurried to the telephore desk and dropped impatiently on his seat <a id="page125"></a>in the U-shaped slot, with the stereo prisms standing in a half circle before him. In the center screen, the bright image of the red-haired operator was a little smaller than life.
 
 “Get me Marquard,” he rapped. The girl nodded silently, and the dark, thin features of the Goon chief sprang into the next crystal oblong. Kellon couldn’t keep the rasping tension out of his voice. “Have you got the Preacher?”
 
@@ -2674,7 +2674,7 @@ Stiff and insolent, the Preacher croaked:
 
 Kellon leaned over the curving desk, with a look of earnest puzzlement.
 
-<a id="page128" />“I don’t understand you, Catlaw,” he’ protested gravely. “Do you want to wreck all that men have accomplished? Do you want the future to forget the power of science? Do you want to turn men back into naked savages, and wipe out civilization?”
+<a id="page128"></a>“I don’t understand you, Catlaw,” he’ protested gravely. “Do you want to wreck all that men have accomplished? Do you want the future to forget the power of science? Do you want to turn men back into naked savages, and wipe out civilization?”
 
 “Civilization?” The Preacher made a harsh snorting laugh. “Your glittering civilization is itself the Harlot of Babylon, poisoning all that yield to her painted lure. The science you revere is your false prophet. Your machines are the very Beast of the Apocalypse.”
 
@@ -2700,7 +2700,7 @@ Kellon rose, gasping for breath.
 
 Kellon’s voice dropped grimly.
 
-“I’m not going to kill you, Catlaw. Because you are probably more dangerous dead than alive, just now. But I know that you are a fugitive from the Union, with an untried murder charge waiting for you. I’m sending you <a id="page129" />to the Outstation prison, tonight, to await trial for murder.”
+“I’m not going to kill you, Catlaw. Because you are probably more dangerous dead than alive, just now. But I know that you are a fugitive from the Union, with an untried murder charge waiting for you. I’m sending you <a id="page129"></a>to the Outstation prison, tonight, to await trial for murder.”
 
 He nodded at the Goons, and they dragged the prisoner away.
 
@@ -2722,7 +2722,7 @@ Smiling, Hurd flickered out of the prism.
 
 Kellon felt another stab of sharp regret that Roy had failed him. But he had no time to dwell upon his dim mistrust of Hurd for the empty prism lit again, with Marquard’s worried features.
 
-“Your Genius, the people know we caught the Preacher.” The Goon chief’s whisper was nervous and hurried. “Mob in the square getting ugly. Fighting the <a id="page130" />Goon cordons. I’m afraid they will attack the Tower.”
+“Your Genius, the people know we caught the Preacher.” The Goon chief’s whisper was nervous and hurried. “Mob in the square getting ugly. Fighting the <a id="page130"></a>Goon cordons. I’m afraid they will attack the Tower.”
 
 Kellon caught his breath, and tried to keep smiling. He felt confused and tired, afraid that any violent action would jar the human volcano under Sunport into terrible eruption.
 
@@ -2740,7 +2740,7 @@ The touch of a key dropped the telephore desk into the lavatory below, a hall of
 
 The elevator section lifted him back to the Moon Room. He walked back through the glowing luxion arch to the lofty terrace. The telephore stand here had only two prisms. Standing between them, he could look down across Union Square.
 
-Now the pavements had been darkened, all around the square. Surface traffic was stopped. That gray, human sea had grown until it overflowed the ways, to the <a id="page131" />shining bases of the towers beyond. The hum of voices had a lowered, vicious tone.
+Now the pavements had been darkened, all around the square. Surface traffic was stopped. That gray, human sea had grown until it overflowed the ways, to the <a id="page131"></a>shining bases of the towers beyond. The hum of voices had a lowered, vicious tone.
 
 Kellon spoke to the operator in the prism beside him. The wall behind—and all the illuminated faces of the Union Tower—began to flash, red and dark, red and dark, to gain attention. That ugly buzzing ceased, and he nodded. The crown of the Tower became a cool, steady violet.
 
@@ -2758,7 +2758,7 @@ Boos and jeers roared up from the mob.
 
 A dull but mighty concussion rocked the terrace. Kellon glimpsed flying debris, spreading out in a giant fan from somewhere beneath him. Black smoke overtook it and covered the mob in a billowing cloud. His knees were shaking, and his throat went dry. But he tried to go on:
 
-<a id="page132" />“The most of you will perish—”
+<a id="page132"></a>“The most of you will perish—”
 
 But the amplifiers were dead. His natural voice was wholly lost in the blasting echoes that came rolling back through the smoke from the distant towers. The tele-phore was out of order. Even the operator’s image was gone. He shouted hoarsely at it and clicked the call key. But the prisms remained empty.
 
