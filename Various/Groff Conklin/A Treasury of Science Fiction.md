@@ -107,8 +107,8 @@ contents
 
 # Contents
 
-.part
-[PART ONE](part_1): THE ATOM AND AFTER
+.part.center
+[PART ONE: THE ATOM AND AFTER](part_1)
 
 [<span class="smallcaps">The Nightmare</span>](the_nightmare) *Chan Davis*
 
@@ -120,8 +120,8 @@ contents
 
 [<span class="smallcaps">The Figure</span>](the_figure) *Edward Grendon*
 
-.part
-[PART TWO](part_2): THE WONDERS OF EARTH
+.part.center
+[PART TWO: THE WONDERS OF EARTH](part_2)
 
 [<span class="smallcaps">The Great Fog</span>](the_great_fog) *H. F. Heard*
 
@@ -131,8 +131,8 @@ contents
 
 [<span class="smallcaps">N Day</span>](n_day) *Philip Latham*
 
-.part
-[PART THREE](part_3): THE SUPERSCIENCE OF MAN
+.part.center
+[PART THREE:  THE SUPERSCIENCE OF MAN](part_3)
 
 [<span class="smallcaps">With Folded Hands</span>](with_folded_hands) *Jack Williamson*
 
@@ -142,8 +142,8 @@ contents
 
 [<span class="smallcaps">Children of the “Betsy-B.”</span>](children_of_the_betsy_b) *Malcolm Jameson*
 
-.part
-[PART FOUR](part_4): DANGEROUS INVENTIONS
+.part.center
+[PART FOUR: DANGEROUS INVENTIONS](part_4)
 
 [<span class="smallcaps">Child’s Play</span>](childs_play) *William Tenn*
 
@@ -153,8 +153,8 @@ contents
 
 [<span class="smallcaps">The Eternal Man</span>](the_eternal_man) *D. D. Sharp*
 
-.part
-[PART FIVE](part_5): ADVENTURES IN DIMENSION
+.part.center
+[PART FIVE: ADVENTURES IN DIMENSION](part_5)
 
 [<span class="smallcaps">Mimsy Were the Borogoves</span>](mimsy_were_the_borogroves) *William Tenn*
 
@@ -166,8 +166,8 @@ contents
 
 [<span class="smallcaps">Vintage Season</span>](vintage_season) *Lawrence O’Donnell*
 
-.part
-[PART SIX](part_6): FROM OUTER SPACE
+.part.center
+[PART SIX: FROM OUTER SPACE](part_6)
 
 [<span class="smallcaps">Of Jovian Build</span>](of_jovian_build) *Oscar J. Friend*
 
@@ -177,8 +177,8 @@ contents
 
 [<span class="smallcaps">Dark Mission</span>](dark_mission) *Lester del Rey*
 
-.part
-[PART SEVEN](part_7): FAR TRAVELING
+.part.center
+[PART SEVEN: FAR TRAVELING](part_7)
 
 [<span class="smallcaps">The Ethical Equations</span>](the_ethical_equations) *Murray Leinster*
 
@@ -263,10 +263,7 @@ March, 1948
 
 part_1
 
-# PART ONE
-
-.h2
-*The Atom and After*
+# PART ONE<br />*The Atom and After*
 
 ---
 
@@ -618,7 +615,7 @@ He paused. “Sabotage bomb attack is the only method of atomic warfare that can
 
 “Until open warfare breaks out. Then, one or both of the warring nations defy the Security Council, grab all the fissionable elements they can, and what have you? Chaos. Ruin. If you like to put it that way, the end of civilization. Once the Security Council’s power is broken and the rocket-atomic war starts, we’re lost, that’s all.
 
-“Mr. Ciccone, I realize you’re in charge here, and I’m unable to force your decision. Nevertheless, you’ve got to let that copter get away—delay your pursuit, say, ten minutes, and don’t make it seem deliberate. More than that, you’ve got to destroy the evidence in that building—again accidentally—and, if possible, destroy so much that it can’t be proved a bomb was ever in the process of construction.”
+“Mr. Ciccone, I realize you’re in charge here, and I’m unable to force your decision. Nevertheless, you’ve *got* to let that copter get away—delay your pursuit, say, ten minutes, and don’t make it seem deliberate. More than that, you’ve got to destroy the evidence in that building—again accidentally—and, if possible, destroy so much that it can’t be proved a bomb was ever in the process of construction.”
 
 He stopped. Rob looked up to where the helicopter was dwindling into the distance. “Mr. Bates, if there has been one bomb, there can be another, maybe from the same source.”
 
@@ -740,7 +737,7 @@ Silence struck at him like a physical blow. The engine stilled, the sun beating 
 
 The peremptory voice roused Drummond from the introspection into which those lonely months had driven him. He looked down at a gang of men in mechanics’ outfits, led by a harassed-looking man in captain’s uniform. “Oh—of course,” he said slowly. “You want to hide the plane. And, naturally, a regular landing field would give you away.”
 
-“Hurry, get out, you infernal idiot! Anyone, anyone might come over and see—”
+“Hurry, get out, you infernal idiot! Anyone, *anyone* might come over and see—”
 
 “They wouldn’t go unnoticed by an efficient detection system, and you still have that,” said Drummond, sliding his booted legs over the cockpit edge. “And anyway, there won’t be any more raids. The war’s over.”
 
@@ -949,7 +946,7 @@ They hadn’t covered the country. That was impossible. Their few planes had gon
 
 Preliminaries—It was a bigger job to find out exactly how matters stood than the entire country was capable of undertaking right now. But Drummond had enough facts for reliable extrapolation. He and his staff had collected most of the essential data and begun correlating it. By questioning, by observation, by seeking and finding, by any means that came to hand they’d filled their notebooks. And in the sketchy outlines of a Chinese drawing, and with the same stark realism, the truth was there.
 
-*Just this one more place,* and I’ll go home, thought Drummond for the—thousandth?—time. His brain was getting into a rut, treading the same terrible circle and finding no way out. *Robinson won’t like what I tell him, but there it is. And darkly, slowly: Barbara, maybe it was best you and the kids went as you did. Quickly, cleanly, not even knowing it. This isn’t much of a world. It’ll never be our world again.*
+*Just this one more place, and I’ll go home,* thought Drummond for the—thousandth?—time. His brain was getting into a rut, treading the same terrible circle and finding no way out. *Robinson won’t like what I tell him, but there it is. And darkly, slowly: Barbara, maybe it was best you and the kids went as you did. Quickly, cleanly, not even knowing it. This isn’t much of a world. It’ll never be our world again.*
 
 He saw the place he sought, a huddle of buildings near the frozen shores of the Lake of the Woods, and his jet murmured toward the white ground. The stories he’d heard of this town weren’t overly encouraging, but he supposed he’d get out all right. The others had his data anyway, so it didn’t matter.
 
@@ -2038,10 +2035,7 @@ What was in the cube—it’s still there, none of us have touched it—was a sm
 
 part_2
 
-# PART TWO
-
-.h2
-*The Wonders of Earth*
+# PART TWO<br />*The Wonders of Earth*
 
 ---
 
@@ -3170,10 +3164,7 @@ Writing these last lines I thought of Bixby and Smedley and all the rest. Trying
 
 part_3
 
-# PART THREE
-
-.h2
-*The Superscience of Man*
+# PART THREE<br />*The Superscience of Man*
 
 ---
 
@@ -6311,10 +6302,7 @@ He sighed a deep, reminiscent sigh, and made a gesture indicating he had told al
 
 part_4
 
-# PART FOUR
-
-.h2
-*Dangerous Inventions*
+# PART FOUR<br />*Dangerous Inventions*
 
 ---
 
@@ -7901,10 +7889,7 @@ That night Zulerich’s eyes softened as he regarded the rat under the bright gl
 
 part_5
 
-# PART FIVE
-
-.h2
-*Adventures in Dimension*
+# PART FIVE<br />*Adventures in Dimension*
 
 ---
 
@@ -10958,10 +10943,7 @@ The house was dynamited six days later, part of the futile attempt to halt the r
 
 part_6
 
-# PART SIX
-
-.h2
-*From Outer Space*
+# PART SIX<br />*From Outer Space*
 
 ---
 
@@ -11888,10 +11870,7 @@ The stranger from Mars groped in his pocket for the guard’s match box, smiling
 
 part_7
 
-# PART SEVEN
-
-.h2
-*Far Traveling*
+# PART SEVEN<br />*Far Traveling*
 
 ---
 

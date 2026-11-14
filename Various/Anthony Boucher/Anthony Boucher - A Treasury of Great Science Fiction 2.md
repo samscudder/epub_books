@@ -29,9 +29,8 @@ Edited by ANTHONY BOUCHER
 .volume
 **VOLUME I**
 
-.fl
 RE-BIRTH *by John Wyndham*
-THE SHAPE OF THINGS THAT CAME *by Richard Deming
+THE SHAPE OF THINGS THAT CAME *by Richard Deming*
 PILLAR OF FIRE *by Ray Bradbury*
 WALDO *by Robert A. Heinlein*
 THE FATHER-THING by Philip K. Dick
