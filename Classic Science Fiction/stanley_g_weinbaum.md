@@ -27,31 +27,31 @@ OF
 STANLEY G. WEINBAUM
 
 .subtitle
-• A MARTIAN ODYSSEY
+• [A MARTIAN ODYSSEY](a_martian_odyssey)
 
 .smaller
 Journey through a nightmare hell with Tweel - a pretty shrewd bird—as a guide!
 
 .subtitle
-• THE ADAPTIVE ULTIMATE
+• [THE ADAPTIVE ULTIMATE](the_adaptive_ultimate)
 
 .smaller
 Kyra could counter any threat . . . except herself.
 
 .subtitle
-• PARASITE PLANET
+• [PARASITE PLANET](parasite_planet)
 
 .smaller
 Sworn enemies, the man and the woman had to join forces or die.
 
 .subtitle
-• THE WORLDS OF IF
+• [THE WORLDS OF IF](the_worlds_of_if)
 
 .smaller
 A second chance is just as easy to blow as the first one . . .
 
 .subtitle
-• THE MAD MOON
+• [THE MAD MOON](the_mad_moon)
 
 .smaller
 Its natives were stark raving mad . . . and the human colonists couldn’t be sure about their own sanity!
@@ -492,7 +492,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “Nuts!” repeated the captain. “Just daffy!”
 
-“Yeah ? Wait and see. A couple of times I’ve thought that perhaps we—” He paused, and then resumed his narrative. “Anyway, I finally gave it up, and got into my thermo-skin to sleep. The fire hadn’t kept me any too warm, but that damn sleeping bag did. Got stuffy five minutes after I closed myself in. I opened it a little and bingo! Some eighty-below-zero air hit my nose, and that’s when I got this pleasant little frostbite to add to the bump I acquired during the crash of my rocket.
+“Yeah? Wait and see. A couple of times I’ve thought that perhaps we—” He paused, and then resumed his narrative. “Anyway, I finally gave it up, and got into my thermo-skin to sleep. The fire hadn’t kept me any too warm, but that damn sleeping bag did. Got stuffy five minutes after I closed myself in. I opened it a little and bingo! Some eighty-below-zero air hit my nose, and that’s when I got this pleasant little frostbite to add to the bump I acquired during the crash of my rocket.
 
 “I don’t know what Tweel made of my sleeping. He sat around, but when I woke up, he was gone. I’d just crawled <a id="page9"></a>out of my bag, though, when I heard some twittering, and there he came, sailing down from that three-story Thyle cliff to alight on his beak beside me. I pointed to myself and toward the north, and he pointed at himself and toward the south, but when I loaded up and started away, he came along.
 
@@ -516,7 +516,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “He is desert creature!" ejaculated the little biologist, Leroy.
 
-“Huh ? Why ?”
+“Huh? Why?”
 
 “He drink no water—he is adapt’ for sand storm—”
 
@@ -550,9 +550,9 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “They were weathered—edges rounded. Silica doesn’t weather easily even on earth, and in this climate—!”
 
-“How old you think ?”
+“How old you think?”
 
-“Fifty thousand—a hundred thousand years. How can I tell ? The little ones we saw in the morning were older—perhaps ten times as old. Crumbling. How old would that make *them?* Half a million years? Who knows?” Jarvis paused a moment. “Well,” he resumed, “we followed the line. Tweel pointed at them and said ‘rock’ once or twice,“‘but he’d done that many times before. Besides, he was more or less right about these.
+“Fifty thousand—a hundred thousand years. How can I tell? The little ones we saw in the morning were older—perhaps ten times as old. Crumbling. How old would that make *them?* Half a million years? Who knows?” Jarvis paused a moment. “Well,” he resumed, “we followed the line. Tweel pointed at them and said ‘rock’ once or twice,“‘but he’d done that many times before. Besides, he was more or less right about these.
 
 <a id="page13"></a>“I tried questioning him. I pointed at a pyramid and asked ‘People?’ and indicated the two of us. He set up a negative sort of clucking and said, ‘No, no, no. No one-one-two. No two-two-four,’ meanwhile rubbing his stomach. I just stared at him and he went through the business again. ‘No one-one-two. No two-two-four.’ I just gaped at him.”
 
@@ -610,7 +610,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “All right! All right!” said Jarvis. “You can go see. Anyhow, there the thing was, alive and yet not alive, moving every ten minutes, and then only to remove a brick. Those bricks were its waste matter. See, Frenchy? We’re carbon, and our waste is carbon dioxide, and this thing is silicon, and *its* waste is silicon dioxide—silica. But silica is a solid, hence the bricks. And it built itself in, and when it was covered, it moved over to a fresh place to start over. No wonder it creaked! A living creature half a million years old!’’
 
-“How you know how old ?” Leroy was frantic.
+“How you know how old?” Leroy was frantic.
 
 “We trailed its pyramids from the beginning, didn't we? If this weren't the original pyramid builder, the series would have ended somewhere before we found him, wouldn't it?—ended and started over with the small ones. That’s simple enough, isn’t it?
 
@@ -658,7 +658,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “The dream-beast! I stood there dizzy, watching it die while Tweel trilled and whistled. Finally he touched my arm, pointed at the twisting thing, and said, ‘You one-one-two, he one-one-two.’ After he’d repeated it eight or ten times, I got it. Do any of you?”
 
-*“Oui!”* shrilled Leroy. “*Moi—je le comprends!* He mean you think of something, the beast he know, and you see it! *Un chien*—a hungry dog, he would see the big bone with meat! Or smell it—not ?”
+*“Oui!”* shrilled Leroy. “*Moi—je le comprends!* He mean you think of something, the beast he know, and you see it! *Un chien*—a hungry dog, he would see the big bone with meat! Or smell it—not?”
 
 “Right!” said Jarvis. “The dream-beast uses its victim's longings and desires to trap its prey. The bird at nesting season <a id="page18"></a>would see its mate, the fox, prowling for its own prey, would see a helpless rabbit !”
 
@@ -761,7 +761,7 @@ Tweel never seemed to need sleep. We tried following only the upward corridors, 
 
 “Tweel didn’t seem surprised; I pointed out the next suicide to him, and he just gave the most human-like shrug imaginable, as much as to say, ‘What can I do about it?’ He must have known more or less about these creatures.
 
-“Then I saw something else. There was something beyond the wheel, something shining on a sort of low pedestal. I walked over; there was a little crystal about the size of an egg, fluorescing to beat Tophet. The light from it stung my hands and face, almost like a static discharge, and then I <a id="page24"></a>noticed another funny thing. Remember that wart I had on my left thumb ? Look!” Jarvis extended his hand. “It dried up and fell off—just like that! And my abused nose—say, the pain went out of it like magic! The thing had the property of hard X-rays Or gamma radiations, only more so; it destroyed diseased tissue and left healthy tissue unharmed!
+“Then I saw something else. There was something beyond the wheel, something shining on a sort of low pedestal. I walked over; there was a little crystal about the size of an egg, fluorescing to beat Tophet. The light from it stung my hands and face, almost like a static discharge, and then I <a id="page24"></a>noticed another funny thing. Remember that wart I had on my left thumb? Look!” Jarvis extended his hand. “It dried up and fell off—just like that! And my abused nose—say, the pain went out of it like magic! The thing had the property of hard X-rays Or gamma radiations, only more so; it destroyed diseased tissue and left healthy tissue unharmed!
 
 “I was thinking what a present *that’d* be to take back to Mother Earth when a lot of racket interrupted. We dashed back to the other side of the wheel in time to see one of the pushcarts ground up. Some suicide had been careless, it seems.
 
@@ -943,7 +943,7 @@ Harrison glanced at a Schiaparelli chart. “About 60—eh?” he said. “Close
 
 “The city was in ruin !—abandoned, deserted, dead as Babylon! Or at least, so it looked to us then, with its empty streets which, if they *had* been paved, were now deep under sand.”
 
-“A ruin, eh?” commented Harrison. “How old ?”
+“A ruin, eh?” commented Harrison. “How old?”
 
 “How could we tell?” countered Jarvis. “The next expedition to this golf ball ought to carry an archeologist—and a philologist, too, as we found out later. But it’s a devil of a job to estimate the age of anything here; things weather so slowly that most of the buildings might have been put up yesterday. No rainfall, no earthquakes, no vegetation is here to spread cracks with its roots—nothing. The only aging factors here are the erosion of the wind—and that’s negligible in this atmosphere—and the cracks caused by changing temperature. And one other agent—meteorites. They must crash down occasionally on the city, judging from the thinness of the air, and the fact that we’ve seen four strike ground right here near the *Ares*.”
 
@@ -1057,15 +1057,15 @@ Harrison and Putz stared. “Sun-power!” grunted the captain. “That’s prim
 
 “Sure. Tweel’s civilization is decadent, that’s the reason. It’s a dying race, and out of all the millions that must once have lived there, Tweel’s couple of hundred companions are the remnant. They’re an outpost, left to tend the source of the water at the polar cap; probably there are still a few respectable cities left somewhere on the canal system, most likely near the tropics. It’s the last gasp of a race—and a race that reached a higher peak of culture than Man!”
 
-“Huh?” said Harrison. “Then why are they dying ? Lack of water ?”
+“Huh?” said Harrison. “Then why are they dying? Lack of water?”
 
 “I don’t think so,” responded the chemist. “If my guess at the city’s age is right, fifteen thousand years wouldn’t make <a id="page43"></a>enough difference in the water supply— nor a hundred thousand, for that matter. It’s something else, though the water’s doubtless a factor.”
 
-*“Das wasser,”* cut in Putz. “Vere goes dot ?”
+*“Das wasser,”* cut in Putz. “Vere goes dot?”
 
 “Even a chemist knows that!” scoffed Jarvis. “At least on earth. Here I’m not so sure, but on earth, every time there’s a lightning flash, it electrolyzes some water vapor into hydrogen and oxygen, and then the hydrogen escapes into space, because terrestrial gravitation won’t hold it permanently. And every time there’s an earthquake, some water is lost to the interior. Slow—but damned certain.” He turned to Harrison. “Right, Cap?”
 
-“Right,” conceded the captain. “But here, of course—no earthquakes, no thunderstorms—the loss must be very slow. Then why *is* the race dying ?”
+“Right,” conceded the captain. “But here, of course—no earthquakes, no thunderstorms—the loss must be very slow. Then why *is* the race dying?”
 
 “The sun-power plant answers that,” countered Jarvis. “Lack of fuel! Lack of power! No oil left, no coal left—if Mars ever had a Carboniferous Age—and no water-power—just the driblets of energy they can get from the sun. That’s why they’re dying.”
 
@@ -1073,9 +1073,9 @@ Harrison and Putz stared. “Sun-power!” grunted the captain. “That’s prim
 
 “They don’t know about atomic energy. Probably never did. Must have used some other principle in their space-ship.”
 
-“Then,” snapped the captain, “what makes you rate their intelligence above the human ? *We’ve* finally cracked open the atom!”
+“Then,” snapped the captain, “what makes you rate their intelligence above the human? *We’ve* finally cracked open the atom!”
 
-“Sure we have. We had a clue, didn’t we ? Radium and uranium. Do you think we’d ever have learned how without those elements? We’d never even have suspected that atomic energy existed!”
+“Sure we have. We had a clue, didn’t we? Radium and uranium. Do you think we’d ever have learned how without those elements? We’d never even have suspected that atomic energy existed!”
 
 “Well? Haven’t they—?”
 
@@ -1101,7 +1101,7 @@ Jarvis glanced in turn at each of the three that faced him. He hesitated. “I w
 
 “That’s right.”
 
-“But—” Harrison was sputtering. “What do you mean—they’re ahead of us ? Anarchy ! Bah!”
+“But—” Harrison was sputtering. “What do you mean—they’re ahead of us? Anarchy! Bah!”
 
 “All right—bah!” retorted Jarvis. “I’m not saying it would work for us, or for any race of men. But it works for them.”
 
@@ -1117,13 +1117,13 @@ The captain was sputtering. “But—it’s unnatural! Even savage tribes have t
 
 <a id="page45"></a>“No wars on Mars, in spite of being named after the War God. No point in wars here; the population is too thin and too scattered, and besides, it takes the help of every single community to keep the canal system functioning. No taxes because, apparently, all individuals cooperate in building public works. No competition to cause trouble, because anybody can help himself to anything. As I said, with a perfect race, government is entirely unnecessary.”
 
-“And do you consider the Martians a perfect race ?” asked the captain grimly.
+“And do you consider the Martians a perfect race?” asked the captain grimly.
 
 “Not at all! But they’ve existed so much longer than man that they’ve evolved, socially at least, to the point where they don’t need government. They work together, that’s all.” Jarvis paused. “Queer, isn’t it?—as if Mother Nature were carrying on two experiments, one at home and one on Mars. On earth it’s the trial of an emotional, highly competitive race in a world of plenty; here it’s the trial of a quiet, friendly race on a desert, unproductive, and inhospitable world. Everything here makes for cooperation. Why, there isn’t even the factor that causes so much trouble at home—sex!”
 
-“Huh ?”
+“Huh?”
 
-“Yeah; Tweel’s people reproduce just like the barrels in the mud cities; two individuals grow a third one between them. Another proof of Leroy’s theory that Martian life is neither animal nor vegetable. Besides, Tweel was a good enough host to let him poke down his beak and twiddle his feathers, and the examination convinced Leroy.”
+“Yeah: Tweel’s people reproduce just like the barrels in the mud cities; two individuals grow a third one between them. Another proof of Leroy’s theory that Martian life is neither animal nor vegetable. Besides, Tweel was a good enough host to let him poke down his beak and twiddle his feathers, and the examination convinced Leroy.”
 
 *“Oui,”* confirmed the biologist. “It is true.”
 
@@ -1147,9 +1147,9 @@ The captain was sputtering. “But—it’s unnatural! Even savage tribes have t
 
 “As we reached the crest, Tweel spun his head completely around, so his feet were forward but his eyes looked backward, as if he feared to gaze into the valley. Leroy and I stared out over it, just a gray waste like this around us, with the gleam of the south polar cap far beyond its southern rim. That’s what it was one second; the next it was—Paradise!”
 
-“What ?” exclaimed the captain.
+“What?” exclaimed the captain.
 
-Jarvis turned to Leroy. “Can you describe it ?” he asked.
+Jarvis turned to Leroy. “Can you describe it?” he asked.
 
 The biologist waved helpless hands, *“C’est impossible!”* he whispered. *“Il me rend muet!”*
 
@@ -1420,13 +1420,402 @@ She shook her head, smiling gently from one to the othe of them. “No, Dan. You
 
 “But murder!”
 
-<a id="page59"></a>
+<a id="page59"></a>“It was the most direct way.”
+
+“Not if you had happened to be punished for it,” he returned grimly.
+
+“But I wasn’t,” she reminded him gently.
+
+He groaned. “Kyra,” he said, shifting the subject suddenly, “why do your eyes and skin and hair darken in sunlight or when exposed to flashlight?”
+
+She smiled. “Do they?” she asked. “I hadn’t noticed.” She yawned, stretched her arms above her head and her slim legs before her. “I think I shall sleep now,” she announced. She swept her magnificent eyes over them, rose, and disappeared into the room Dr. Bach had given her—his own.
+
+Scott faced the older man, his features working in emotion. “Do you see?” he hissed. “Good Lord, do you see?”
+
+“Do you, Dan?”
+
+“Part if it. Part of it, anyway.”
+
+“And I see part as well.”
+
+“Well,” said Scott, “here it is as I see it. That serum—that accursed serum of mine—has somehow accentuated this girl’s adaptability to an impossible degree. What is it that differentiates life from non-living matter? Two things, irritation and adaptation. Life adapts itself to its environment, and the greater the adaptability, the more successful the organism.
+
+“Now," he proceeded, “all human beings show a very considerable adaptivity. When we expose ourselves to sunlight, our skin shows pigmentation—we tan. That’s adaptation to an environment containing sunlight. When a man loses his right hand, he learns to use his left. That’s another adaptation. When a person’s skin is punctured, it heals and rebuilds, and that’s another angle of the same thing. Sunny regions produce dark-skinned, dark-haired people ; northern lands produce blonds— and that’s adaptation again.
+
+“So what’s happened to Kyra Zelas, by some mad twist I don’t understand, is that her adaptive powers have been increased to an extreme. She adapts instantly to her environment; when sun strikes her, she tans at once, and in shade she fades immediately. In sunlight her hair and eyes are those of a tropical race; in shadow, those of a Northerner. And—good Lord, I see it now—when she was faced with danger there in the courtroom, faced by a jury and judge who were men, she adapted to that! She met that danger, not only by <a id="page60"></a>changed appearance, but by a beauty so great that she couldn’t have been convicted!” He paused. “But how? How?”
+
+“Perhaps medicine can tell how,” said Bach. “Undoubtedly man is the creature of his glands. The differences between races—white, red, black, yellow—is doubtless glandular. And perhaps the most effective agent of adaptation is the human brain and neural system, which in itself is controlled partly by a little greasy mass on the floor of the brain's third ventricle, before the cerebellum, and supposed by the ancients to be the seat of the soul.
+
+“I mean, of course, the pineal gland. I suspect that what your serum contains is the long-sought hormone *pinealin*, and that it has caused hypertrophy of Kyra’s pineal gland. And Dan, do you realize that if her adaptability is perfect, she’s not only invincible, but invulnerable?”
+
+“That’s true!” gulped Scott. “Why, she couldn’t be electrocuted, because she’d adapt instantly to an environment containing an electric current, and she couldn’t be killed by a shot, because she’d adapt to that as quickly as to your needle pricks. And poison—but there must be limit somewhere!”
+
+“There doubtless is,” observed Bach. “I hardly believe she could adapt herself to an environment containing a fifty-ton locomotive passing over her body. And yet there’s an important point we haven’t considered. Adaptation itself is of two kinds.”
+
+"Two kinds?”
+
+“Yes. One kind is biological; the other, human. Naturally a biochemist like you would deal only with the first, and equally naturally a brain surgeon like me has to consider the second as well. Biological adaptation is what all life—plants, animals, and humans—possess, and it is merely conforming to one’s environment. A chameleon, for instance, shows much the same ability as Kyra herself, and so, in lesser degree, does the arctic fox, white in winter, brown in summer; or the snowshoe rabbit, for that matter, or the weasel. All life conforms to its environment to a great extent, because if it doesn’t, it dies. But human life does more.”
+
+“More?”
+
+“Much more. Human adaptation is not only conformity to environment, but also the actual changing of environment to fit human needs! The first cave man who left his cave to build <a id="page61"></a>a grass hut changed his environment, and so, in exactly the same sense, did Stein-metz, Edison, and as far as that goes, Julius Caesar and Napoleon. In fact, Dan, all human invention, genius, and military leadership boils down to that one fact—changing the environment instead of conforming to it.”
+
+He paused, then continued, “Now we know that Kyra possesses the biological adaptivity. Her hair and eyes prove that. But what if she possesses the other to the same degree? If she does, God knows what the result will be. We can only watch to see what direction she takes—watch and hope.”
+
+“But I don’t see,” muttered Scott, “how that could be glandular.”
+
+“Anything can be glandular. In a mutant—and Kyra’s as much a mutant as your white-eyed fruit flies—anything is possible.” He frowned reflectively. “If I dared phrase a philosophical interpretation, I’d say that Kyra—perhaps—represents a stage in human evolution. A mutation. If one ventured to believe that, then de Vries and Weissman are justified.”
+
+“The mutation theory of evolution, you mean?”
+
+“Exactly. You see, Dan, while it is very obvious from fossil remains that evolution occurred, yet it is very easy to prove it couldn’t possibly have occurred!”
+
+“How?”
+
+“Well, it couldn't have occurred slowly, as Darwin believed, for many reasons. Take the eye, for instance. He thought that very gradually, over thousands of generations, some sea creature developed a spot on its skin that was sensitive to light, and that this gave it an advantage over its blind fellows. Therefore its kind survived and the others perished. But see here. If this eye developed slowly, why did the very first ones, the ones that couldn’t yet see, have any better chance than the others? And take a wing. What good is a wing until you can fly with it? Just because a jumping lizard had a tiny fold of skin between foreleg and breast wouldn’t mean that that lizard could survive where others died. What kept the wing developing to a point where it could actually have value?”
+
+“What did?”
+
+“De Vries and Weissman say nothing did. They answer that evolution must have progressed in jumps, so that when the eye appeared, it was already efficient enough to have survival value, and likewise the wing. Those jumps they named mutations. And in that sense, Dan, Kyra’s a mutation, <a id="page62"></a>a jump from the human to—something else. Perhaps the superhuman.”
+
+Scott shook his head in perplexity. He was thoroughly puzzled, completely baffled, and more than a little unnerved. In a few moments more he bade Bach good night, wandered home, and lay for hours in sleepless thought.
+
+The next day Bach managed a leave of absence for both of them from Grand Mercy, and Scott moved in. This was in part simply out of his fascinated interest in the case of Kyra Zelas, but in part it was altruistic. She had confessedly murdered one man; it occurred to Scott that she might with no more compunction murder Dr. Bach, and he meant to be at hand to prevent it.
+
+He had been in her company no more than a few hours before Bach’s words on evolution and mutations took on new meaning. It was not only Kyra’s chameleonlike coloring, nor her strangely pure and saintlike features, nor even her incredible beauty. There was something more; he could not at once identify it, but decidedly the girl Kyra was not quite human.
+
+The event that impressed this on him occurred in the late afternoon. Bach was away somewhere on personal business, and Scott had been questioning the girl about her own impressions of her experience.
+
+“But don’t you know you’ve changed?” he asked. “Can’t you see the difference in yourself?”
+
+“Not I. It is the world that has changed.”
+
+“But your hair was black. Now it’s light as ashes.”
+
+“Was it?” she asked. “Is it?”
+
+He groaned in exasperation. “Kyra,” he said, “you must know something about yourself.”
+
+Her exquisite eyes turned their silver on him. “I do,” she said. “I know that what I want is mine, and”—her pure lips smiled—“I think I want you, Dan.”
+
+It seemed to him that she changed at that moment. Her beauty was not quite as it had been, but somehow more wildly intoxicating than before. He realized what it meant; her environment now contained a man she loved, or thought she loved, and she was adapting to that, too. She was becoming—he shivered slightly—irresistible!
+
+BACH must have realized the situation, but he said nothing. As for Scott, it was sheer torture, for he realized only too <a id="page63"></a>well that the girl he loved was a freak, a biological sport, and worse than that, a cold murderess and a creature not exactly human. Yet for the next several days things went smoothly. Kyra slipped easily into the routine; she was ever a willing subject for their inquiries and investigations.
+
+Then Scott had an idea. He produced one of the guinea pigs that he had injected, and they found that the creature evinced the same reaction as Kyra to cuts. They killed the thing by literally cutting it in half with an ax, and Bach examined its brain.
+
+“Right!” he said at last. “It’s hypertrophy of the pineal.” He stared intently at Scott. “Suppose,” he said, “that we could reach Kyra’s pineal and correct the hypertrophy. Do you suppose that might return her to normal?”
+
+Scott suppressed a pang of fear. “But why? She can’t do any harm as long as we guard her here. Why do we have to gamble with her life like that?*’
+
+Bach laughed shortly. “For the first time in my life I’m glad I’m an old man,” he said. “Don’t you see we have to do something? She’s a menace. She’s dangerous. Heaven only knows how dangerous. We’ll have to try.”
+
+Scott groaned and assented. An hour later, under the pretext of experiment, he watched the old man inject five grains of morphia into the girl's arm, watched her frown and blink—and adjust. The drug was powerless.
+
+It was at night that Bach got his next idea. “Ethyl chloride!” he whispered. “The instantaneous anaesthetic. Perhaps she can’t adjust to lack of oxygen. We’ll try.”
+
+Kyra was asleep. Silently, carefully, the two crept in, and Scott stared down in utter fascination at the weird beauty of her features, paler than ever in the faint light of midnight. Carefully, so carefully, Bach held the cone above her sleeping face, drop by drop he poured the volatile, sweet-scented liquid into it. Minutes passed.
+
+“That should anaesthetize an elephant,” he whispered at last, and jammed the cone full upon her face.
+
+She awoke. Fingers like slim steel rods closed on his wrist, forcing his hand away. Scott seized the cone, and her hand clutched his wrist as well, and he feh the strength of her grasp.
+
+“Stupid,” she said quietly, sitting erect. “This is quite useless—look!”
+
+<a id="page64"></a>She snatched a paper knife from the table beside the bed. She bared her pale throat to the moonlight, and then, suddenly, drove the knife to its hilt into her bosom!
+
+Scott gulped in horror as she withdrew it. A single spot of blood showed on her flesh; she wiped it away, and displayed her skin, pale, unscarred, beautiful.
+
+“Go away,” she said softly, and they departed.
+
+The next day she made no reference to the incident. Scott and Bach spent a worried morning in the laboratory, doing no work, but simply talking. It was a mistake, for when they returned to the library, she was gone, having, according to Mrs. Getz, simply strolled out of the door and away. A hectic and hasty search of the adjacent blocks brought no sign of her.
+
+At dusk she was back, pausing hatless in the doorway to permit Scott, who was there alone, to watch the miraculous change as she passed from sunset to chamber, and her hair faded from mahogany to aluminum.
+
+“Hello,” she said, smiling. “I killed a child.”
+
+“What? My Lord, Kyra!”
+
+“It was an accident. Surely you don’t feel that I should be punished for an accident, Dan. do you?”
+
+He was staring in utter horror. “How—”
+
+“Oh, I decided to walk a bit. After a block or two, it occurred to me that I should like to ride. There was a car parked there with the keys in it, and the driver was talking on the sidewalk, so I slipped in, started it, and drove away. Naturally I drove rather fast, since he was shouting, and at the second corner I hit a little boy.”
+
+“And—you didn’t stop?”
+
+“Of course not. I drove around the corner, turned another corner or two, and then parked the car and walked back. The boy was gone, but the crowd was still there. Not one of them noticed me.” She smiled her saintlike smile. “We’re quite safe. They can’t possibly trace me.”
+
+Scott dropped his head on his hands and groaned. “I don’t know what to do!” he muttered. “Kyra, you’re going to have to report this to the police.”
+
+“But it was an accident,” she said gently, her luminous silver eyes pityingly on Scott.
+
+“No matter. You'll have to.”
+
+She placed her white hand on his head. “Perhaps <a id="page65"></a>tomorrow,” she said. “Dan, I have learned something. What one needs in this world is power. As long as there are people in the world with more power than I, I run afoul of them. They keep trying to punish me with their laws—and why? Their laws are not for me. They cannot punish me.”
+
+He did not answer.
+
+“Therefore,” she said softly, “tomorrow I go out of here to seek power. I will be more powerful than any laws.”
+
+That shocked him to action. “Kyra!” he cried. “You’re not to try to leave here again.” He gripped her shoulders. “Promise me! Swear that you’ll not step beyond that door without me!”
+
+“Why, if you wish," she said quietly.
+
+“But swear it! Swear it by everything sacred!”
+
+Her silver eyes looked steadily into his from a face like that of a marble angel. “I swear it,” she murmured. “Bv anything you name. I swear it, Dan.”
+
+And in the morning she was gone, taking what cash and bills had been in Scott’s wallet, and in Bach’s as well. And, they discovered later, in Mrs. Getz's also.
+
+“But if you could have seen her!” muttered Scott. “She looked straight into my eyes and promised, and her face was pure as a madonna's. I can’t believe she was lying.”
+
+“The lie as an adaptive mechanism,” said Bach, “deserves more attention than it has received. Probably the original liars are those plants and animals that use protective mimicry—harmless snakes imitating poisonous ones, stingless flies that look like bees. Those are living lies.”
+
+“But she couldn’t—”
+
+“She has, however. What you’ve told me about her desire for power is proof enough. She’s entered the second adaptive phase—that of adapting her environment to herself instead of herself to her environment. How far will her madness—or her genius—carry her? There is very little difference between the two, Dan. And what is left now for us to do but watch?”
+
+“Watch? How? Where is she?”
+
+“Unless I’m badly mistaken, watching her will be easy once she begins to achieve. Wherever she is. I think we—and the rest of the world—will know of it soon enough.”
+
+.space
+But weeks dropped away without sign of Kyra Zelas. Scott and Bach returned to their duties at Grand Mercy, and down <a id="page66"></a>in his laboratory the biochemist disposed grimly of the remains of three guinea pigs, a cat. and a dog. whose killing had been an exhausting and sickening task. Into the crematory as well went a tube of water-clear serum.
+
+Then one day the annunciator summoned him to Bach’s office, where he found the old man hunched over a copy of the *Post Record*.
+
+“Look there!” he said, indicating a political gossip column called “Whirls of Washington.”
+
+Scott read, “And the surprise of the evening was the *soi-disant* confirmed bachelor of the cabinet, upright John Callan, who fluttered none other than the gorgeous Kyra Zelas, the lady who affects a dark wig by day and a white by night. Some of us remember her as the acquittee of a murder trial.”
+
+Scott looked up. “Callan, eh? Secretary of the treasury, no less! When she said power she meant power, apparently.”
+
+“But will she stop there?” mused Bach gloomily. “I have a premonition that she’s just beginning.”
+
+“Well, actually, how far can a woman go?”
+
+The old man looked at him. “A woman? This is Kyra Zelas, Dan. Don’t set your limits yet. There will be more of her.”
+
+Bach was right. Her name began to appear with increasing frequency, first in social connections, then with veiled references to secret intrigues and influences.
+
+Thus: “Whom do the press boys mean by the tenth cabineteer?” Or later: “Why nos a secretary of personal relations? She has the powers; give her the name.” And still later: “One has to go back to Egypt for another instance of a country whose exchequer was run by a woman. And Cleopatra busted that one.”
+
+Scott grinned a little ruefully to himself as he realized that the thrusts were becoming more indirect, as if the press itself were beginning to grow cautious. It was a sign of increasing power, for nowhere are people as sensitive to such trends as among the Washington correspondents. Kyra’s appearances in the public prints began to be more largely restrained to purely social affairs, and usually in connection with John Callan, the forty-five-year-old bachelor Secretary of the Treasury.
+
+Waking or sleeping, Scott never for a moment quite forgot her, for there was something mystical about her, whether she <a id="page67"></a>were mad or a woman of genius, whether freak or superwoman. The only thing he did forget was a thin girl with drab features and greasy black hair who had lain on a pallet in the isolation ward and coughed up flecks of blood.
+
+.space
+It was no surprise to either Scott or Dr. Bach to return one evening to Bach’s residence for a few hours’ conversation, and find there, seated as comfortably as if she had never left it. Kyra Zelas. Outwardly she had changed but little; Scott gazed once more in fascination on her incredible hair and wide, innocent silver eyes. She was smoking a cigarette, and she exhaled a long, blue plume of smoke and smiled up at him.
+
+He hardened himself. “Nice of you to honor us,” he said coldly. “What’s the reason for this visit? Did you run out of money?”
+
+“Money? Of course not. How could I run out of money?”
+
+“You couldn’t, not as long as you replenished your funds the way you did when you left.”
+
+“Oh, that!” she said contemptuously. She opened her hand bag, indicating a green mass of bills. “I’ll give that back, Dan. How much was it?”
+
+“To hell with the money!” he blazed. “What hurts me is the way you lied. Staring into my eyes as innocent as a baby, and lying all the time!”
+
+“Was I?” she asked. “I won’t lie to you again, Dan. I promise.”
+
+“I don’t believe you,” he said bitterly. “Tell us what you’re doing here, then.”
+
+“I wanted to see you. I haven’t forgotten what I said to you, Dan.” With the words she seemed again to grow more beautiful than ever, and this time poignantly wistful as well.
+
+“And have you,” asked Bach suddenly, “abandoned your idea of power?”
+
+“Why should I want power?” she rejoined innocently, flashing her magnificent eyes to him.
+
+“But you said,” began Scott impatiently, “that you—”
+
+“Did I?” There was the ghost of a smile on her perfect lips. “I won’t lie to you, Dan,” she went on, laughing a little. “If I want power, it is mine for the taking—more power than you dream.”
+
+“Through John Callan?” he rasped.
+
+“He offers a simple way,” she said impassively. “Suppose, <a id="page68"></a>for instance, that in a day or so he were to issue a statement—a supremely insulting statement—about the war debts. The administration couldn’t afford to reprimand him openly, because most of the voters feel that a supremely insulting statement is called for. And if it were insulting enough—and I assure you it would be—you would see the animosity of Europe directed westward.
+
+“Now, if the statement were one that no national government could ignore and yet keep its dignity in the eyes of its people, it would provoke counter-insults. And there are three nations—you know their names as well as I—who await only such a diversion of interest. Don’t you see?” She frowned.
+
+“How stupid you both are!” she murmured, and then, stretching her glorious figure and yawning, “I wonder what sort of empress I would make. A good one, doubtless.”
+
+But Scott was aghast. “Kyra, do you mean you'd urge Callan into such a colossal blunder as that?”
+
+“Urge him!” she echoed contemptuously. “I’d force him.”
+
+“Do you mean you’d do it?”
+
+“I haven’t said so,” she smiled. She yawned again, and snapped her cigarette into the dark fireplace. “I’ll stay here a day or two,” she added pleasantly, rising. “Good night.”
+
+Scott faced Dr. Bach as she vanished into the old man’s chamber. “Damn her!” he grated, his lips white. “If I believed she meant all of that—”
+
+“You’d better believe it,” said Bach. “Empress, eh! Empress of what?”
+
+“Of the world, perhaps. You can’t set limits to madness or genius.”
+
+“We’ve got to stop her!”
+
+“How? We can’t keep her locked up here. In the first place, she'd doubtless develop strength enough in her wrists to break the locks on the doors, and if she didn’t, all she’d need to do is shout for help from a window.”
+
+“We can have her adjudged insane!” flared Scott. “We can have her locked up where she can’t break out or call for help.”
+
+“Yes, we could. We could if we could get her committed by the Sanity Commission. And if we got her before them, what chance do you think we’d have?”
+
+“All right, then,” said Scott grimly, “we’re going to have to find her weakness. Her adaptability can’t be infinite. She’s <a id="page69"></a>immune to drugs and immune to wounds, but she can't be above the fundamental laws of biology. What we have to do is to find the law we need.”
+
+“You find it, then,” said Bach gloomily.
+
+“But we’ve got to do something. At least we can warn people—” He broke off, realizing the utter absurdity of the idea.
+
+“Warn people!” scoffed Bach. “Against what? We’d be the ones to go before the Sanity Commission then. Callan would ignore us with dignity, and Kyra would laugh her pretty little laugh of contempt, and that would be that.”
+
+Scott shrugged helplessly. “I’m staying here tonight,” he said abruptly. “At least we can talk to her again tomorrow.”
+
+“If she’s still here,” remarked Bach ironically.
+
+But she was. She came out as Scott was reading the morning papers alone in the library, and sat silently opposite him, garbed in black silk lounging pajamas against which her alabaster skin and incredible hair glowed in startling contrast. He watched skin and hair turn faintly golden as the morning sun lightened the chamber. Somehow it angered him that she should be so beautiful and at the same time deadly with an inhuman deadliness.
+
+He spoke first. “You haven’t committed any murders since our last meeting, I hope.” He said it spitefully, viciously.
+
+She was quite indifferent. “Why should I? It has not been necessary.”
+
+“You know, Kyra,” he said evenly, “that you ought to be killed.”
+
+“But not by you, Dan. You love me.”
+
+He said nothing. The fact was too obvious to deny.
+
+“Dan,” she said softly, “if you only had my courage, there is no height we might not reach together. No height—if you had the courage to try. That is why I came back here, but—” She shrugged. “I go back to Washington tomorrow.”
+
+Later in the day Scott got Bach alone. “She's going to-morrow!” he said tensely. “Whatever we can do has to be done tonight.”
+
+The old man gestured helplessly. “What can we do? Can you think of any law that limits adaptability?”
+
+“No, but—” He paused suddenly.
+
+“By Heaven!” he cried. “I can! I’ve got it!”
+
+“What?”
+
+<a id="page70"></a>“The law! A fundamental biological law that must be Kyra’s weakness!”
+
+“But what?”
+
+“This! No organism can live in its own waste products! Its own waste is poison to any living thing!”
+
+“But—”
+
+“Listen. Carbon dioxide is a human waste product. Kyra can't adapt to an atmosphere of carbon dioxide!”
+
+Bach stared. “By Heaven!” he cried.
+
+“But even if you’re right, how—”
+
+“Wait a minute. You can get a couple of cylinders of carbonic acid gas from Grand Mercy. Can you think of any way of getting the gas into her room?”
+
+“Why—this is an old house. There's a hole from her room to the one I’m using, where the radiator connection goes through. It’s not tight; we could get a rubber tube past the pipe.”
+
+“Good!”
+
+“But the windows! She’ll have the windows open.”
+
+“Never mind that,” said Scott. “See that they’re soaped so they’ll close easily, that’s all.”
+
+“But even if it works, what good—Dan! You don’t mean to kill her!”
+
+He shook his head. “I—couldn’t,” he whispered. “But once she’s helpless, once she’s overcome—if she is— you’ll operate. That operation on the pineal you suggested before. And may Heaven forgive me!”
+
+.space
+Scott suffered the tortures of the damned that evening. Kyra was, if possible, lovelier than ever, and for tlye first time she seemed to exert herself to be charming. Her conversation was literally brilliant; she sparkled, and over and over Scott found himself so fascinated that the thought of the treachery he planned was an excruciating pain. It seemed almost a blasphemy to attempt violence against one whose outward appearance was so pure, so innocent, so saintlike.
+
+“But she isn’t quite—human!” he told himself. “She's not an angel but a female demon, a—what were they called?—an incubus!”
+
+Despite himself, when at last Kyra yawned luxuriously <a id="page71"></a>and dropped her dainty feet to the floor to depart, he pleaded for a few moments more.
+
+“But it’s early,” he said, “and tomorrow you leave.”
+
+“I will return, Dan. This is not the end for us.”
+
+“I hope not,” he muttered miserably, watching the door of her room as it clicked shut.
+
+He gazed at Bach. The older man, after a moment’s silence, whispered, “It is likely that she sleeps almost at once. That’s also a matter of adaptability.”
+
+In tense silence they watched the thin line of light below the closed door. Scott started violently when, after a brief interval, her shadow crossed it and it disappeared with a faint click.
+
+“Now, then.” he said grimly. “Let's get it over.”
+
+He followed Bach into the adjacent room. There, cold and metallic, stood the gray cylinders of compressed gas. He watched as the old man attached a length of tubing, ran it to the opening around the steam pipe, and began to pack the remaining space with wet cotton.
+
+Scott turned to his own task. He moved quietly into the library. With utmost stealth he tried the door of Kyra’s room; it was unlocked as he had known it would be, for the girl was supremely confident of her own invulnerability.
+
+For a long moment he gazed across at the mass of radiant silver hair on her pillow, then, very cautiously, he placed a tiny candle on the chair by the door, so that it should be at about the level of the bed, lighted it with a snap of his cigarette lighter, withdrew the door key, and departed.
+
+He locked the door on the outside, and set about stuffing the crack below it with cotton. It was far from air-tight, but that mattered little, he mused, since one had to allow for the escape of the replaced atmosphere.
+
+He returned to Bach’s room. “Give me a minute,” he whispered. “Then turn it on.”
+
+He stepped to a window. Outside was a two-foot ledge of stone, and he crept to this precarious perch. He was visible from the street below, but not markedly noticeable, for he was directly above an areaway between Bach’s house and its neighbor. He prayed fervently to escape attention.
+
+He crept along the ledge. The two windows of Kyra’s chamber were wide, but Bach had done his work. They slid <a id="page72"></a>downward without a creak, and he pressed close against the glass to peer in.
+
+Across the room glowed the faint and steady flame of his little taper. Close beside him, within a short arm’s length had no pane intervened, lay Kyra, quite visible in the dusk. She lay on her back, with one arm thrown above her unbelievable hair, and she had drawn only a single sheet over her. He could watch her breathing, quiet, calm, peaceful.
+
+It seemed as if a long time passed. He fancied at last that he could hear the gentle hiss of gas from Bach’s window, but he knew that that must be only fancy. In the chamber he watched there was no sign of anything unusual; the glorious Kyra slept as she did everything else—easily, quietly, and confidently.
+
+Then there was a sign. The little candle flame, burning steadily in the draughtless air, flickered suddenly. He watched it, certain now that its color was changing. Again it flickered, flared for a moment, then died. A red spark glowed on the wick for a bare instant, then that was gone.
+
+The candle flame was smothered. That meant a concentration of eight or ten per cent of carbon dioxide in the room’s atmosphere—far too high to support ordinary life. Yet Kyra was living. Except that her quiet breathing seemed to have deepened, she gave not even a sign of inconvenience. She had adapted to the decreased oxygen supply.
+
+But there must be limits to her powers. He blinked into the darkness. Surely—surely her breathing was quickening. He was positive now; her breast rose and fell in convulsive gasps, and somewhere in his turbulent mind the scientist in him recorded the fact.
+
+“Cheyne-Stokes breathing,” he muttered. In a moment the violence of it would waken her.
+
+It did. Suddenly the silver eyes started open. She. brushed her hand across her mouth, then clutched at her throat. Aware instantly of danger, she thrust herself erect, and her bare legs flashed as she pushed herself from the bed. But she must have been dazed, for she turned first to the door.
+
+He saw the unsteadiness in her movements. She twisted the doorknob, tugged frantically, then whirled toward the window. He could see her swaying as she staggered through the vitiated air, but, she reached it. Her face was close to his, but he doubted if she saw him, for her eyes were wide and frightened, and her mouth and throat were straining violently for <a id="page73"></a>breath. She raised her hand to smash the pane; the blow landed, but weakly, and the window shook but did not shatter.
+
+Again her arm rose, but that blow was never delivered. For a moment she stood poised, swaying slowly, then her magnificent eyes misted and fluttered closed, she dropped to her knees, and at last collapsed limply on the floor.
+
+Scott waited a long, torturing moment, then thrust up the window. The rush of lifeless air set him whirling dizzily on his dangerous perch, and he clutched the casement. Then a slow breeze moved between the buildings, and his head cleared.
+
+He stepped gingerly into the chamber. It was stifling, but near the open window he could breathe. He kicked thrice against Bach’s wall.
+
+The hiss of gas ceased. He gathered Kyra’s form in his arms, waited until he heard the key turn, then dashed across the room and into the library.
+
+Bach stared as if fascinated at the pure features of the girl. “A goddess overcome,” he said. “There is something sinful about our part in this.”
+
+“Be quick!” snapped Scott. “She’s unconscious, not anaesthetized. God knows how quickly she’ll readjust.”
+
+But she had not yet recovered when Scott laid her on the operating table in Bach’s office, and drew the straps about her arms and body and slim bare legs. He looked down on her still, white face and bright hair, and he felt his heart contract with pain to see them darken ever so faintly and beautifully under the brilliant operating light, rich in actinic rays.
+
+“You were right,” he whispered to the unhearing girl. “Had I your courage there is nothing we might not have attained together.”
+
+Bach spoke brusquely. “Nasal?” he asked. “Or shall I trephine her?”
+
+“Nasal.”
+
+“But I should like a chance to observe the pineal gland. This case is unique, and—”
+
+“Nasal!” blazed Scott. “I won’t have her scarred!”
+
+Bach sighed and began. Scott, despite his long hospital experience, found himself quite unable to watch this operation: he passed the old man his instruments as needed, but kept his eyes averted from the girl’s passive and lovely face.
+
+<a id="page74"></a>“So!” said Bach at last. “It is done.” For the first time he himself had a moment’s leisure to survey Kyra’s features.
+
+Bach started violently. Gone was the exquisite aluminum hair, replaced by the stringy, dark, and oily locks of the girl in the hospital! He pried open her eye, silver no longer, but pallid blue. Of all her loveliness, there remained— what ? A trace, perhaps; a trace in the saintlike purity of her pale face, and in the molding of her features. But a flame had died; she was a goddess no longer, but a mortal—a human being. The superwoman had become no more than a suffering girl.
+
+An ejaculation had almost burst from his lips when Scott’s voice stopped him.
+
+“How beautiful she is!” he whispered.
+
+Bach stared. He realized suddenly that Scott was not seeing her as she was, but as she once had been. To his eyes, colored by love, she was still Kyra the magnificent.
 
 ---
 
 parasite_planet
 
-# PARASITE PLANET
+# <a id="page75"></a>PARASITE PLANET
 
 .fl
 <span class="smallcaps">Luckily for “Ham”</span> Hammond it was mid-winter when the mud-spout came. Mid-winter, that is, in the Venusian sense, which is nothing at all like the conception of the season general’y entertained on Earth, except possibly by dwellers in the hotter regions of the Amazon basin, or the Congo.
@@ -1441,7 +1830,7 @@ Toward the sunlit side it verges into the blasting heat of a desert where only a
 
 The chilling of warm air always produces rain, and at the edge of the darkness the rain freezes to form these great ramparts. What lies beyond, what fantastic forms of life may live in the starless darkness of the frozen face, or whether that region is as dead as the airless Moon—those are mysteries.
 
-But the slow libration, a ponderous wobbling of the planet from side to side, does produce the effect of seasons. On the lands of the twilight zone, first in one hemisphere and then the other, the cloud-hidden Sun seems to rise gradually for fifteen days, then sink for the same period. It never ascends far, and only near the ice barrier does it seem to touch the horizon; for the libration is only seven degrees, but it is sufficient to produce noticeable fifteen-day seasons.
+<a id="page76"></a>But the slow libration, a ponderous wobbling of the planet from side to side, does produce the effect of seasons. On the lands of the twilight zone, first in one hemisphere and then the other, the cloud-hidden Sun seems to rise gradually for fifteen days, then sink for the same period. It never ascends far, and only near the ice barrier does it seem to touch the horizon; for the libration is only seven degrees, but it is sufficient to produce noticeable fifteen-day seasons.
 
 But such seasons! In the winter the temperature drops sometimes to a humid but bearable ninety, but, two weeks later, a hundred and forty is a cool day near the torrid edge of the zone. And always, winter and summer, the intermittent rains drip sullenly down to be absorbed by the spongy soil and given back again as sticky, unpleasant, unhealthy steam.
 
@@ -1453,11 +1842,9 @@ A further consequence is the curiously unstable nature of the land of the twilig
 
 There is no way of predicting these catastrophes; only on the rare out-croppings of bedrock is a structure safe, and so all permanent human settlements cluster about the mountains.
 
-Ham Hammond was a trader. He was one of those adventurous individuals who always appear on the frontiers and fringes of habitable regions. Most of these fall into two classes; they are either reckless dare-devils pursuing danger,
+Ham Hammond was a trader. He was one of those adventurous individuals who always appear on the frontiers and fringes of habitable regions. Most of these fall into two classes; they are either reckless dare-devils pursuing danger, <a id="page77"></a>or outcasts, criminal or otherwise, pursuing either solitude or forgetfulness.
 
-or outcasts, criminal or otherwise, pursuing either solitude or forgetfulness.
-
-Ham Hammond was neither. He was pursuing no such abstractions, but the good, solid lure of wealth. He was, in fact, trading with the natives for the spore-pods of the Venusian plant tfixtchil, from which terrestrial chemists would extract the trihydroxyl-tertiaryline or triple-T-B-A that was so effective in rejuvenation treatments.
+Ham Hammond was neither. He was pursuing no such abstractions, but the good, solid lure of wealth. He was, in fact, trading with the natives for the spore-pods of the Venusian plant *xixtchil*, from which terrestrial chemists would extract the trihydroxyl-tertiaryline or triple-T-B-A that was so effective in rejuvenation treatments.
 
 Ham was young and sometimes wondered why rich old men—and women—would pay such tremendous prices for a few more years of virility, especially as the treatments didn’t actually increase the span of life, but just produced a sort of temporary and synthetic youth.
 
@@ -1469,11 +1856,11 @@ For a moment he was paralyzed; then he sprang into immediate and frantic action.
 
 The ground was still semisolid, but even as he watched, the black soil boiled out around the metal walls of the shack, the cube tilted a trifle, and then sank deliberately from sight, and the mud sucked and gurgled as it closed gently above the spot.
 
-Ham caught himself. One couldn’t stand still in the midst of a mud-spout, even with the bowllike mudshoes as support. Once let the viscous stuff flow over the rim and the luckless victim was trapped; he couldn’t raise his foot against the suction, and first slowly, then more quickly, he’d follow the shack. .
+Ham caught himself. One couldn’t stand still in the midst of a mud-spout, even with the bowllike mudshoes as support. Once let the viscous stuff flow over the rim and the luckless victim was trapped; he couldn’t raise his foot against the suction, and first slowly, then more quickly, he’d follow the shack.
 
 So Ham started off over the boiling swamp, walking with the peculiar sliding motion he had learned by much practice, never raising the mudshoes above the surface, but sliding them along careful that no mud topped the curving rim.
 
-It was a tiresome motion, but absolutely necessary. He slid along as if on snowshoes, bearing west because that was the direction of the dark side, and if he had to walk to safety, he might as well do it in coolness. The area of swamp was unusually large; he covered at least a mile before he attained a slight rise in the ground, and the mudshoes clumped on solid, or riearly solid, soil.
+<a id="page78"></a>It was a tiresome motion, but absolutely necessary. He slid along as if on snowshoes, bearing west because that was the direction of the dark side, and if he had to walk to safety, he might as well do it in coolness. The area of swamp was unusually large; he covered at least a mile before he attained a slight rise in the ground, and the mudshoes clumped on solid, or riearly solid, soil.
 
 He was bathed in perspiration, and his transkin suit was hot as a boiler room, but one grows accustomed to that on Venus. He’d have given half his supply of xixtchil pods for the opportunity to open the mask of the suit, to draw a breath of even the steamy and humid Venusian air, but that was impossible; impossible, at least, if he had any inclination to continue living.
 
@@ -1483,11 +1870,9 @@ Breathing them wasn’t even a necessary requirement; once he’d come upon a tr
 
 The situation made eating and drinking in the open a problem on Venus; one had to wait until a rain had precipitated the spores, when it was safe for half an hour or so. Even then the water must have been recently boiled and the food just removed from its can; otherwise, as had happened to Ham more than once, the food was apt to turn abruptly into a fuzzy mass of molds that grew about as fast as the minute hand moved on a clock. A disgusting sight! A disgusting planet!
 
-‘ That last reflection was induced by Ham’s view of the quagmire that had engulfed his shack. The heavier vegetation had gone with it, but already avid and greedy life was emerging, wriggling mud grass and the bulbous fungi called “walking balls.” And all around a million little slimy creatures slithered across the mud, eating each other rapaciously, being tom to bits, and each fragment re-forming to a complete creature.
+That last reflection was induced by Ham’s view of the quagmire that had engulfed his shack. The heavier vegetation had gone with it, but already avid and greedy life was emerging, wriggling mud grass and the bulbous fungi called “walking balls.” And all around a million little slimy creatures slithered across the mud, eating each other rapaciously, being tom to bits, and each fragment re-forming to a complete creature.
 
-A thousand different species, but all the same in one respect; each of them was all appetite. In common with most
-
-Venusian beings, they had a multiplicity of both legs and mouths; in fact some of them were little more than blobs of skin split into dozens of hungry mouths, crawling on a hundred spidery legs.
+A thousand different species, but all the same in one respect; each of them was all appetite. In common with most <a id="page79"></a>Venusian beings, they had a multiplicity of both legs and mouths; in fact some of them were little more than blobs of skin split into dozens of hungry mouths, crawling on a hundred spidery legs.
 
 All life on Venus is more or less parasitic. Even the plants that draw their nourishment directly from soil and air have also the ability to absorb and digest and, often enough, to trap—animal food. So fierce is the competition on that humid strip of land between the fire and the ice that one who has never seen it must fail even to imagine it.
 
@@ -1505,9 +1890,7 @@ Now and again he passed one from which dangled some trapped creature, usually un
 
 He mused; his shack had been situated rather nearer the hot edge of the twilight zone; it was a trifle over two hundred and fifty miles to the shadow line, though of course that varied with the libration. But one couldn’t approach the line too closely, anyway, because of the fierce, almost inconceivable, storms that raged where the hot upper winds encountered the icy blasts of the night side, giving rise to the birth throes of the ice barrier.
 
-So a hundred and fifty miles due west would be sufficient to bring coolness, to enter a region too temperate for the molds,
-
-where he could walk in comparative comfort. And then, not more than fifty miles north, lay the American settlement Erotia, named, obviously, after that troublesome mythical con of Venus, Cupid. .
+So a hundred and fifty miles due west would be sufficient to bring coolness, to enter a region too temperate for the molds, <a id="page80"></a>where he could walk in comparative comfort. And then, not more than fifty miles north, lay the American settlement Erotia, named, obviously, after that troublesome mythical con of Venus, Cupid. .
 
 Intervening, of course, were the ranges of the Mountains of Eternity, not those mighty twenty-mile-high peaks whose summits are occasionally glimpsed by Earthly telescopes, and that forever sunder British Venus from the American possessions, but, even at the point he planned to cross, very respectable mountains indeed. He was on the British side now; not that any one cared. Traders came and went as they pleased.
 
@@ -1957,7 +2340,7 @@ Patricia k.-.red urwaoi. catching a sr..tk\ shrub cr. hr w.K. so placed that It 
 
 “Lure it in,” she suggested.
 
-Th ?y tried. It was iroposs rle: vegetarian was too sparse.
+They tried. It was iroposs rle: vegetarian was too sparse.
 
 “\\~hat will happen to the thing!” a>hed Haw
 
