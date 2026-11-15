@@ -582,7 +582,7 @@ Unthinkably vast, those tentacles seem to grasp the Dead Star. That cyclopean co
 
 The hurtling meteor streams and the seas of incandescent gas that make up the Great Nebula of Orion form <a id="page17"></a>the most stupendous barrier to transstellar navigation in the entire galaxy. Light itself, at one hundred and eighty-six thousand miles per second, takes three years and more to cross it.
 
-But there is a way through. The Orion Passage. A lane kept cleared of darting meteors and burning gas by the colossal gravitation of the Dead Star,- a titanic dark sun that lurks like a black spider in the bright web of the nebula, reaching out with resistless, invisible force for what it may draw to destruction.
+But there is a way through. The Orion Passage. A lane kept cleared of darting meteors and burning gas by the colossal gravitation of the Dead Star, a titanic dark sun that lurks like a black spider in the bright web of the nebula, reaching out with resistless, invisible force for what it may draw to destruction.
 
 No ship has ever visited the Dead Star. No rocket could pull away from its inconceivable surface gravity. It is estimated that a human body would weigh well over a hundred tons upon its surface—enough so that the bones would break and the flesh run away from them like water. The idea is unpleasant.
 
@@ -696,7 +696,7 @@ Gideon’s face was wrinkled into a grin of radiant joy; his round blue eyes sho
 
 Gideon vanished, and the station’s lights were dim for five minutes, and the electronblast motors dead for that long, allowing us to drift to the unopposed drag of the Dead Star’s relentless gravity.
 
-During those minutes, Gideon Clew was furiously busy in his cabin, among complex apparatus that filled it so completely that there was scant room for his body. Transformers hummed, and the tall vacuum tube that the *Bellatrix* had brought filled with pallid, virescent fire. He closed a switch that grounded one of its electrodes to the station’s hull. A feeble green glow shimmered along the wire.
+<a id="page22"></a>During those minutes, Gideon Clew was furiously busy in his cabin, among complex apparatus that filled it so completely that there was scant room for his body. Transformers hummed, and the tall vacuum tube that the *Bellatrix* had brought filled with pallid, virescent fire. He closed a switch that grounded one of its electrodes to the station’s hull. A feeble green glow shimmered along the wire.
 
 Gideon Clew felt the ship pause beneath him as that slow drift toward the Dead Star was arrested! Crying out from sheer pain of joy at success after fifty years of toil, he watched in proud wonder.
 
@@ -744,7 +744,7 @@ She laughed happily. Then the other operator must have spoken to her, for she lo
 
 “Good-by, Granddad!” she called. “I’ll wait!”
 
-“Good-by, Tonia,” whispered Gideon Clew. But the connection had already been cut, and he spoke to a blank and empty screen.
+<a id="page24"></a>“Good-by, Tonia,” whispered Gideon Clew. But the connection had already been cut, and he spoke to a blank and empty screen.
 
 .space
 Not an hour later, Vance’s call-bell rang again, urgently.
@@ -761,7 +761,7 @@ Vance heard blows upon the door, and shouts beyond it. The wounded operator turn
 
 Vance knew the leader of the three at once by one feature of his face, described in many warnings and offers of reward. He had no nose. Only a blue ray-scar where it should have been, with two black slits for nostrils.
 
-Skal Boon! The space pirate! The “terror of the nebula”!
+Skal Doon! The space pirate! The “terror of the nebula”!
 
 “Calling the eagles, eh?” he demanded of the operator. His voice was thin and shrill. Vance had a vague feeling that he had heard it before, though he knew he had never seen Skal Doon. “Setting the service on Skal Doon, eh?”
 
@@ -785,7 +785,7 @@ Though the station’s fighting equipment was obsolete, consisting only of four 
 
 Even with the station’s powerful electronblast motors, installed for her ceaseless battle with the gravitation of the dead Star, we did not come up quickly with the fleeing liner. It was ten hours before the battle began. After the long tension of suspense, it was a swift and confusing thing.
 
-<a id="page20"></a>Gideon Clew came running up hopefully to Kempton, soon after the *Bellatrix* was sighted—a silvery speck, fleeing between the white curtains of the Great Nebula, the violet, fluorescent trail of her electronic motors streaming out behind her.
+<a id="page26"></a>Gideon Clew came running up hopefully to Kempton, soon after the *Bellatrix* was sighted—a silvery speck, fleeing between the white curtains of the Great Nebula, the violet, fluorescent trail of her electronic motors streaming out behind her.
 
 “Captain, thir! In the battle—what do you want me to do?”
 
@@ -893,7 +893,9 @@ Doon smiled again, twistedly, and shrilled:
 
 “When I saw you follow, captain, I realized that you understood. And with the ship on your cable, I realized that I had lost the game. I was forced to select another means of escape. Accordingly, some distance back, I changed the course of the *Bellatrix*.”
 
-“What?” Kempton demanded. “What did you do?” “You’ll find out, I fancy. And to prevent your undoing my work, I have also wrecked the motors, and short-circuited the generators in such a manner as to burn them out.”
+“What?” Kempton demanded. “What did you do?”
+
+“You’ll find out, I fancy. And to prevent your undoing my work, I have also wrecked the motors, and short-circuited the generators in such a manner as to burn them out.”
 
 “But—but your escape—”
 
@@ -966,7 +968,7 @@ The hissing in the corridors had ceased. The air cylinders were empty. Again the
 
 Gideon’s old heart labored so that he held a numb hand against it. He was suffocating; the thin, cold air seemed to be sucked out of his pumping lungs. His head roared and throbbed; his pulse drummed in his ears. Blood was still oozing from his nostrils, cold and sticky on his face.
 
-And his body was wooden. Every movement was a battle against leaden inertia. Every effort burned vital <a id="page35"></a>oxygen, increased the strain on heart and lungs. But he *must* go on—start the generators.
+And his body was wooden. Every movement was a battle against leaden inertia. Every effort burned vital <a id="page34"></a>oxygen, increased the strain on heart and lungs. But he *must* go on—start the generators.
 
 Now on hands and knees, he crawled along the corridor. His hands were stiff, lifeless things. No sensation came from them as they fell upon the metal floor.
 
@@ -1116,7 +1118,7 @@ But all the headlines two months ago had been about the Stellar Shell. Some astr
 *Astronomers Baffled*
 
 .space
-When Leigh came in to Croydon again, the flight completed in three grueling days, there was no crowd to meet him. Staggering away from the dusty, oil-spattered Phoenix, he himself paused to buy a paper.
+When Leigh came in to Croydon again, the flight completed in three grueling days, there was no crowd to meet him. Staggering away from the dusty, oil-spattered *Phoenix*, he himself paused to buy a paper.
 
 .space.center
 *Cosmic Bullet Hits Mars;*
@@ -1140,7 +1142,7 @@ The instant reply surprised him:
 
 “Manumotu Station, Gayle Foundation, calling airplane *Phoenix*. Dr. E. K. Gayle speaking. Land on north beach. I will stand by to assist you. Come in, airplane *Phoenix*.”
 
-“Airplane.. *Phoenix* calling Manumotu Station,” gasped Leigh, relieved. “Thanks, Doc. I’ll be seeing you, if I can keep out of the water half an hour longer. Signing off.”
+“Airplane *Phoenix* calling Manumotu Station,” gasped Leigh, relieved. “Thanks, Doc. I’ll be seeing you, if I can keep out of the water half an hour longer. Signing off.”
 
 It took an hour—an hour that seemed endless to Leigh as he fought the fatigue in him and nursed the crippled plane. But at last Manumotu came out of the sparkling northward haze. A cragged volcanic summit appeared sheer on three sides, edged on the north with a scrap of coral beach.
 
@@ -1460,7 +1462,7 @@ Leigh caught his breath.
 
 “Why should they, if they are able to reach from one world to another to take what they want? Perhaps Mars, with half the Earth’s sunlight and a third of its gravity, suited them better in other regards.”
 
-Leigh’s brain was spurning.
+Leigh’s brain was spinning.
 
 “Stealing the world’s air! How can they possibly do that?”
 
@@ -1801,7 +1803,7 @@ But his body was gaunt with privation. He had a recurrent painful cough. Sometim
 
 Then the night, the incredible night, when he woke in his chill bed beside a smoldering fire, to hear the familiar rhythmic drum of cathion rockets. He saw a blue star following down the roadway from the south. Breathless and quivering, he sprang up to feed his fire.
 
-<a id="page74"></a>Mantled in the blue flame of its forward jets, the rocket came down upon the road. His firelight showed the legend on its side: Gayle Foundation. It would be Laird Cragin, he supposed, another exile—
+<a id="page74"></a>Mantled in the blue flame of its forward jets, the rocket came down upon the road. His firelight showed the legend on its side: *Gayle Foundation*. It would be Laird Cragin, he supposed, another exile—
 
 But the bare grimy yellow head that appeared, when its thick doors swung open, was the head of Elene Gayle.
 
@@ -1968,7 +1970,9 @@ Blackened and bleeding, Trent stood looking back at the wreckage, wringing his l
 
 “Ten degrees, probably, north of the equator.” My father’s head still rang from the blast, and Trent’s voice, in the thin air, sounded very small and far away. “At least a thousand miles west of that barrel-thing.”
 
-My father stared at him and up at the shrunken Sim. “The night—”
+My father stared at him and up at the shrunken Sun.
+
+“The night—”
 
 “Unless we find shelter,” Trent agreed, “the night will kill us.” He peered southward. “There’s a settled strip. I had just a glimpse, as we came down. Maybe ten miles. Maybe two hundred. I don’t know how fast we were moving.”
 
@@ -1976,7 +1980,9 @@ My father nodded suddenly. “We can try. Let’s go.”
 
 “First,” Trent said, “the others.”
 
-Very hastily, panting with the effort, they covered Burgess and the German in shallow sand graves. A brief search of the vast shell hole where the rocket had fallen revealed no useful article intact. Empty-handed, clad in torn, scorched rags, they plodded southward across the dunes. My father was wearing a pair of inadequate soft slippers. They soon fell apart, and he went on barefoot. “Hammond Power,” my father whispered, and <a id="page85"></a>coughed again. “Two queer beings on Earth would probably wind up in some zoo—unless some panicky citizen shot them first! Their chance to learn, say, the science of subelectronics—” He shook his head. “Do you suppose they saw us?”
+Very hastily, panting with the effort, they covered Burgess and the German in shallow sand graves. A brief search of the vast shell hole where the rocket had fallen revealed no useful article intact. Empty-handed, clad in torn, scorched rags, they plodded southward across the dunes. My father was wearing a pair of inadequate soft slippers. They soon fell apart, and he went on barefoot.
+
+“Hammond Power,” my father whispered, and <a id="page85"></a>coughed again. “Two queer beings on Earth would probably wind up in some zoo—unless some panicky citizen shot them first! Their chance to learn, say, the science of subelectronics—” He shook his head. “Do you suppose they saw us?”
 
 “Possible,” said Trent. And, within an hour, they knew that their arrival was known. For a small bright-red aircraft, which had a double streamlined shape, like two thick cigars fastened side by side, came silently over the dunes from the south.
 
@@ -2499,7 +2505,7 @@ Roy was bronzed with spaceburn from his year on Mercury. He looked up, with his 
 
 Roy seemed glad to see him.
 
-“Sorry I lost my temper.” He smiled—his mother’s intense, grave smile. “I don’t like Selene. But she isn’t important.” Hfs brown, quick fingers touched the gadget, and his gray eyes lit with eagerness. “I’m searching for a way to test the condensation hypothesis.”
+“Sorry I lost my temper.” He smiled—his mother’s intense, grave smile. “I don’t like Selene. But she isn’t important.” His brown, quick fingers touched the gadget, and his gray eyes lit with eagerness. “I’m searching for a way to test the condensation hypothesis.”
 
 “Look, son.” Kellon gestured impatiently at the window, toward the row of mighty black cruisers. “You don’t have to play with abstractions. There’s the Fleet, waiting for you to take command as soon as you are qualified. Your experiments should be left to underlings.”
 
@@ -2549,7 +2555,7 @@ Tears of frustration came into Roy’s eager eyes.
 
 Kellon lost his temper then.
 
-“I’m going to cut off your allowance,” he shouted at the white-lipped boy. “That will stop this nonsense. <a id="page121"></a>Come to me whenever you are ready to take up mili-technics.”
+“I’m going to cut off your allowance,” he shouted at the white-lipped boy. “That will stop this nonsense. <a id="page121"></a>Come to me whenever you are ready to take up militechnics.”
 
 “You had better go back to Selene du Mars,” Roy told him quietly. “I don’t need the allowance.”
 
@@ -2640,7 +2646,7 @@ February 30, 2145
 BY: Goon Operative GK-89 (R. A. Meyer, Politi-cotechnic Engineer).
 
 .thin.revindent
-SUBJECT: Eli Catlaw, alias the Preacher of the Revelation, alias the Word of God, alias the King of Kings. Labor No. G-496-HN-009. Escaped convict, Mars Penal Reservation, No. 45-V-18. Wanted for murder of guard. Believed now in America, but whereabouts unknown. *Note: Catlaw is a dangerous character. Liquidation recommended.*
+SUBJECT: Eli Catlaw, alias the Preacher of the Revelation, alias the Word of God, alias the King of Kings. Labor No. G-496-HN-009. Escaped convict, Mars Penal Reservation, No. 45-V-18. Wanted for murder of guard. Believed now in America, but whereabouts unknown. <a id="page126"></a>*Note: Catlaw is a dangerous character. Liquidation recommended.*
 
 .space
 Tapping a key to change the pages, Kellon skimmed significant passages. “Catlaw was bom in the Ozark District, of labor-class parents. . . . Mother’s claim to illegitimate technical blood probably false. . . . Transported to Mars for assault on engineer. . . . Guard murdered, in escape. . . . Catlaw reached Venus Commonwealth on ore ship. . . . Became ‘swamp walker’ and successful herb trader. . . . ‘Conversion’ and preaching dates from recovery from attack of jungle fever. . . . Returned to Earth about nine years ago, to lead underground ‘Crusade’ against Union. . . . Enabled to evade many Goon raids by vast popular support. . . . Treason charges against Union factions. . . . Catlaw has incited assassination and sabotage. . . . His program implies total destruction of technical civilization.”
@@ -2654,7 +2660,7 @@ Kellon turned on his frank, confident smile.
 
 “I’m glad to see you, Catlaw,” he said smoothly. “I’m sorry if this is inconvenient for you, but it was the only way I knew to get your point of view.”
 
-The Boss paused invitingly, but the Preacher said nothing. He stood absolutely motionless, between the big men who held him. His burning eyes stared bleakly away, through the far, glowing murals.
+<a id="page127"></a>The Boss paused invitingly, but the Preacher said nothing. He stood absolutely motionless, between the big men who held him. His burning eyes stared bleakly away, through the far, glowing murals.
 
 “I know that times are difficult.” Kellon kept his voice suave and even. “The exhaustion of the Jovian mines has caused depression. All the heavy industries are almost dead, and labor has naturally suffered. But I personally am deeply concerned for the comfort and welfare of the masses. And I assure you that the Union will earnestly consider any reform measures you will suggest.”
 
@@ -2780,7 +2786,7 @@ The Goon chief was too harassed to smile.
 
 Kellon drew a long breath. His shaken nerves were recovering from the blast.
 
-“Chin up, chief!” His rouged smile was easier. “We’ll handle things. I’ll call Hurd and have him stand by with the Fleet. We may need a pinch of tickle powder dropped out of space. There’s nothing like a couple of hundred thousand tons of long, black unitron cruiser to instill respect.” He turned to the watchful redhead. “Get me the *Technarch*.”
+“Chin up, chief!” His rouged smile was easier. “We’ll handle things. I’ll call Hurd and have him stand by with the Fleet. We may need a pinch of tickle <a id="page133"></a>powder dropped out of space. There’s nothing like a couple of hundred thousand tons of long, black unitron cruiser to instill respect.” He turned to the watchful redhead. “Get me the *Technarch*.”
 
 The operator nodded. Her head bobbed a little in the prism, as her unseen hands sped over the switchboard. But the next prism remained blank. A puzzled expression came over her tense face. At last she told Kellon, “Your Genius, the *Technarch* doesn’t answer.”
 
@@ -2794,13 +2800,13 @@ Kellon made a stunned little nod, and the startled cadet was cut off. He stared 
 
 “The maneuvers were not to begin for a week.” Kellon gulped uneasily. “Hurd shouldn’t have begun them without an order from me.” He shook his cragged head. “But—wholesale mutiny—it’s too appalling to think of!”
 
-. Marquard made a tiny, bleating sound.
+Marquard made a tiny, bleating sound.
 
 “That explains it, Your Genius,” his whisper rasped. “Arms. Organization. Experts. Evidence that the Preacher had help from in the Union. He was plotting with Hurd.” His pale face looked frightened. “Looks desperate, Boss!”
 
 “I won’t believe it,” muttered Kellon. He didn’t dare believe it. Anxiously he told the tense-faced redhead, “Get me the Outstation. Manager General Nordhom. At once.”
 
-The Union’s supremacy—and his own—depended on control of space. To that end, the Fleet and the Outstation was equally essential. That artificial moonlet was scarcely a mile in diameter, but an often-proved proverb ran, “The master of the Outstation will be master of the planets.”
+The Union’s supremacy—and his own—depended on control of space. To that end, the Fleet and the Outstation was equally essential. That artificial moonlet was scarcely a mile in diameter, but an often-proved <a id="page134"></a>proverb ran, “The master of the Outstation will be master of the planets.”
 
 The tiny metal moon had a twenty-four-hour period, which kept it swinging always to the south of Sunport’s zenith. At first it had served merely as observatory, laboratory and steppingstone to space. But the militechnic engineers of the Commonwealth, the Corporation and the Union had thickened its massive armor of meteoric iron until it was the Gibraltar of the system. The theoretical range of its tremendous guns extended around the Earth and out to the Moon.
 
@@ -2814,7 +2820,7 @@ Kellon’s voice dried up. Nordhom had looked sternly composed. But now, as he g
 
 “Your Genius, Hurd has already called.” His voice quavered uncertainly. “I was just about to call you. Hurd did not mention any prisoner. He delivered an ultimatum. A shocking thing, Your Genius—I can’t quite understand—he demanded that I surrender the Outstation!” Nordhom’s yellow Adam’s apple jerked, as he swallowed. “Your orders, sir?”
 
-Blood drummed in Kellon’s ears. Cold with sweat, his hands clutched the edges of the desk. In spite of all the evidence, the completeness of this disaster was still incredible. He tried to steady his reeling brain. Hoarsely he ordered:
+Blood drummed in Kellon’s ears. Cold with sweat, his hands clutched the edges of the desk. In spite of all the <a id="page135"></a>evidence, the completeness of this disaster was still incredible. He tried to steady his reeling brain. Hoarsely he ordered:
 
 “You will defend the Station—to the last.”
 
@@ -2824,7 +2830,9 @@ Blood drummed in Kellon’s ears. Cold with sweat, his hands clutched the edges 
 
 “I’m sorry, Your Genius,” the tense girl told him. “The Outstation doesn’t answer.”
 
-Marquard’s sick, shaken face was still in the other screen. For his benefit, Kellon tried to grin. “So Hurd and the Preacher are in bed together?” he muttered. “Which do you say will manage to kick the other out?” “Won’t matter, if the Station falls.” The Goon listened. “Excuse me, Your Genius. The riot bureau is calling me. Remember—watch your life!”
+Marquard’s sick, shaken face was still in the other screen. For his benefit, Kellon tried to grin. “So Hurd and the Preacher are in bed together?” he muttered. “Which do you say will manage to kick the other out?”
+
+“Won’t matter, if the Station falls.” The Goon listened. “Excuse me, Your Genius. The riot bureau is calling me. Remember—watch your life!”
 
 His image was gone. Aimlessly, Kellon stalked up and down the pale-glowing floor of the long Moon Room. What next? The news from the outstation had shaken him more than the explosion under the terrace. He felt numbed and ill. Still the Station didn’t answer, and he knew nothing useful to do.
 
@@ -2834,9 +2842,9 @@ Perhaps that was the trouble. If the engineering class had danced less—if they
 
 “Boss!” a guard shouted. “Look out!”
 
-Shots echoed against the high, glowing murals. Somewhere a woman screamed. Fighting men surged through the wide arch from the Neptune Room. The lights went out in the luxion panels. An automatic clattered in the dark.
+<a id="page136"></a>Shots echoed against the high, glowing murals. Somewhere a woman screamed. Fighting men surged through the wide arch from the Neptune Room. The lights went out in the luxion panels. An automatic clattered in the dark.
 
-The broad connecting doorway had been closed only with the sound-absorbing air screen. Now Kellon heard a muffled woosh! The armored safety panel had lifted, but too late. The attackers were already in the Moon Room.
+The broad connecting doorway had been closed only with the sound-absorbing air screen. Now Kellon heard a muffled *woosh!* The armored safety panel had lifted, but too late. The attackers were already in the Moon Room.
 
 In the faint glow that came through the terrace arch, he glimpsed crouching, darting figures. An arm threw something over the fighting Goons. It crashed beside him. Desperately he groped for it, hurled it toward the far end of the room, dropped flat behind the telephore desk.
 
@@ -2852,9 +2860,7 @@ Kellon managed to grin.
 
 Already the Goons were examining the three dead men. Their fingerprints were swiftly identified by telephore. One of them proved to be a hereditary engineer who had failed in the examinations for a practical mili-technic degree. The other two were members of the auxiliary white-collar class.
 
-“The engineer must have come with the guests,” the
-
-guard officer reported. “The others were among the musicians. They had guns and the bomb in instrument cases.” He caught his breath. “I regret this terribly, Your Genius. But let me congratulate your personal courage, with the bomb.”
+“The engineer must have come with the guests,” the <a id="page137"></a>guard officer reported. “The others were among the musicians. They had guns and the bomb in instrument cases.” He caught his breath. “I regret this terribly, Your Genius. But let me congratulate your personal courage, with the bomb.”
 
 Courage! Kellon shrugged and turned quickly away from the still figures in their gay bloodstained rags. There was already an odor. Death made him ill. If he had been an instant slower—desperation wasn’t courage. His voice came harsh and loud:
 
@@ -2870,9 +2876,7 @@ He hurried back to the telephore in the bomb-shattered Moon Room, and called her
 
 “Your Genius, there’s a recorded message from Miss Captain du Mars. It was left two hours ago, to be delivered whenever you called for her. Will you receive it?” Kellon nodded, suddenly voiceless.
 
-Selene’s face came into the crystal block. The fire diamonds burned in her platinum hair. Their changing
-
-blaze went blue as her clear eyes, and redder than her lips. Her voice came, cool and hard and perfect.
+Selene’s face came into the crystal block. The fire diamonds burned in her platinum hair. Their changing <a id="page138"></a>blaze went blue as her clear eyes, and redder than her lips. Her voice came, cool and hard and perfect.
 
 “Harvey, I am leaving you tonight. We shall not meet again. This is to thank you for all you have given me, and to tell you why I have gone. It isn’t because you are getting old, or because I think you are slipping—believe me, I wouldn’t go because of that. But I’m in love with Admiral Hurd. By the time you hear this, we shall be in space together. I’m sorry, Harvey.”
 
@@ -2890,9 +2894,7 @@ And presently Kellon told the operator to try the Outstation again. Selene wasn�
 
 But the Outstation didn’t answer.
 
-“Nothing, Your Genius,” the operator said. “There
-
-has been nothing from space since General Nordhom was cut off.”
+“Nothing, Your Genius,” the operator said. “There <a id="page139"></a>has been nothing from space since General Nordhorn was cut off.”
 
 Wearily restless, Kellon rose from the desk. The dead men had been taken away, but he thought that the faint, sickening smell of death still hung in the room. He felt cold and desperately alone.
 
@@ -2910,9 +2912,7 @@ As if unaware of any trouble outside, Melkart sat behind the desk, writing swift
 
 Wolfe! That had been Kellon’s party name. He remembered secret meetings, down in the drainage levels, where the cold walls sweated and the air was alive with the throb of pumps. That was in the old, dangerous days, before they gave up the fight for the forbidden ideals of democracy.
 
-Suddenly Kellon wondered if Melkart and Ruth had really been in love. He dismissed the thought. That hadn’t mattered, for many years. The New Common-
-
-wealth was a forgotten dream. Melkart had left his idealism, with his health, in the camotite mines of Mars. And the parole had settled whatever debt there might have been.
+Suddenly Kellon wondered if Melkart and Ruth had really been in love. He dismissed the thought. That hadn’t mattered, for many years. The New <a id="page140"></a>Commonwealth was a forgotten dream. Melkart had left his idealism, with his health, in the camotite mines of Mars. And the parole had settled whatever debt there might have been.
 
 But Melkart had given him a great deal—besides Roy’s mother. The lean, brilliant New Zealander had taught him the science of politics. His degrees had been forged at the party headquarters, to make him a more useful agent. When the Corporation shattered the underground organization, Kellon had managed to escape with most of the party funds.
 
@@ -2926,13 +2926,11 @@ Melkart picked up his pen to make some hurried note.
 
 Pale and tense, nails biting into his palms, Kellon turned back from the window. In a hoarse, desperate voice he asked the lean old man at the desk:
 
-“Charles—do you know what is happening to Sun-port?”
+“Charles—do you know what is happening to Sunport?”
 
 The red fez nodded.
 
-“I’ve known for thirty years,” Melkart grinned, with owlish assurance. “Old Giovanni Vico had a glimmer of it, with his ‘law of cycles,’ back in the seventeen hundreds. Spengler and Toynbee glimpsed it. Sprague, later, saw farther. But it remained for me to reduce the laws of the rise and fall of human cultures to the exact
-
-science that I call destiny.” His yellow, clawlike hand gestured quickly at a huge manuscript. “Here, in my last volume—”
+“I’ve known for thirty years,” Melkart grinned, with owlish assurance. “Old Giovanni Vico had a glimmer of it, with his ‘law of cycles,’ back in the seventeen hundreds. Spengler and Toynbee glimpsed it. Sprague, later, saw farther. But it remained for me to reduce the laws of the rise and fall of human cultures to the exact <a id="page141"></a>science that I call *destiny*.” His yellow, clawlike hand gestured quickly at a huge manuscript. “Here, in my last volume—”
 
 “Listen!” Kellon’s fist banged the desk in interruption. “I’ve no time for books. The gray class is rioting. The Fleet has mutinied. The Outstation is under attack—if it falls, we’ll be bombarded from space. Already assassins have attacked me once tonight.”
 
@@ -2952,9 +2950,7 @@ Melkart closed a big book, and Kellon saw that the yellow fingers trembled.
 
 “That’s history,” Kellon muttered impatiently. “What’s the matter today?”
 
-“Space is conquered,” Melkart told him, “and that great idea is dead. Because life doesn’t stand still. Disused functions are lost. After the victory was won,
-
-Sunport failed to discover a new purpose to keep her alive. Therefore, she died. It makes no difference that ninety million new barbarians live on in these dead towers.”
+“Space is conquered,” Melkart told him, “and that great idea is dead. Because life doesn’t stand still. Disused functions are lost. After the victory was won, <a id="page142"></a>Sunport failed to discover a new purpose to keep her alive. Therefore, she died. It makes no difference that ninety million new barbarians live on in these dead towers.”
 
 Kellon had moved to speak, but Melkart added sardonically:
 
@@ -2972,9 +2968,7 @@ Kellon leaned over the untidy desk.
 
 “Sunport is mine.” His rugged face was pale under the rouge, and his low voice trembled. “I paid for it, with brains and toil and years. I worked and schemed and bribed and robbed and lied and killed. I lived in dread of assassination. I fought like a jungle animal for the city.” He gulped a rasping breath. “I won’t give it up.”
 
-“You say that,” Melkart smiled his wry, yellow smile, “but you help establish my proposition. Because you completely fail to share the magnificent aspiration that
-
-created Sunport. Out of these restless millions of new nomads, you merely had superior cunning and audacity and luck.
+“You say that,” Melkart smiled his wry, yellow smile, “but you help establish my proposition. Because you completely fail to share the magnificent aspiration that <a id="page143"></a>created Sunport. Out of these restless millions of new nomads, you merely had superior cunning and audacity and luck.
 
 “But men want to merge themselves in things greater than their individual lives. Destiny is the word I use, for those supernal living forces that exalt and give purpose to the lives of myriads.
 
@@ -2994,7 +2988,7 @@ His voice was harsh with strain. He sat watching the busy girl. Unrest held him 
 
 The tower shuddered. A monstrous, bellowing vibration drowned all thought. The floor pitched. Concussion jarred KelIon’s bones. The high luxion murals flickered and went dim. The plastic mosaic of a moon city turned black and came crashing down. The air was filled with choking dust.
 
-The bombardment had begun.
+<a id="page144"></a>The bombardment had begun.
 
 No need to get the Outstation now. That first terrible projectile from space was enough to tell him that Hurd and the Preacher were victorious. The Outstation had been taken or destroyed.
 
@@ -3014,9 +3008,7 @@ The second projectile cut her off.
 
 The Union Tower shuddered again, like a giant live thing struck with some deadly harpoon. Concussion flung Kellon out of the seat. He was deafened, and the salt-sweet taste of blood was on his lips.
 
-He climbed back to the desk. But the operator’s prism was blank. The dial lights were out. Frantically
-
-he jiggled the call key, but there was no response. The instrument was dead.
+He climbed back to the desk. But the operator’s prism was blank. The dial lights were out. Frantically <a id="page145"></a>he jiggled the call key, but there was no response. The instrument was dead.
 
 His ears ceased to ring. Suddenly he felt that the huge shattered room was queerly still. He shouted anxiously for his guards, but there was no reply. Peering into the dust, he saw that the officer lay motionless under a pile of rubble, in the broken archway. The others had fled.
 
@@ -3034,11 +3026,9 @@ So near! Kellon shivered to a cold realization. The Union Tower was the target. 
 
 He ran back through the archway to the roof elevator. Its walls still glowed, and it shot upward when he pressed the controls. He stumbled out into a chill night wind, on the penthouse roof.
 
-“Here!” he shouted, across the glider terrace. “Quick—haul out the RuthI”
+“Here!” he shouted, across the glider terrace. “Quick—haul out the *Ruth!*”
 
-Then he saw that the terrace was deserted. The hangar yawned black and empty. The long crystal bub-
-
-ble of his unitron glider was gone. The crew must have fled with it when the bombardment began.
+Then he saw that the terrace was deserted. The hangar yawned black and empty. The long crystal <a id="page146"></a>bubble of his unitron glider was gone. The crew must have fled with it when the bombardment began.
 
 Kellon stood bewildered in the cold dark. He sobbed, and his fists were clenched impotently. The world had crumbled under him, and there was nothing he could do. Civilization had dissolved.
 
@@ -3056,9 +3046,7 @@ Somewhere there were levels where the walls still glowed dimly. They were part o
 
 Still his numbed brain could function, in a disjointed way. For he realized that his bright dress pajamas would be a sure warrant of death when he came down to the levels where the Preacher ruled. He stripped a gray-clad body, pulled the coarse garments over his own, and threw away the white toupee.
 
-Sometimes black panic blotted out all awareness. Fatigue became a drug that destroyed memory and sensa-
-
-tion. But he kept on his feet. He kept moving. Because he didn’t want to die.
+Sometimes black panic blotted out all awareness. Fatigue became a drug that destroyed memory and <a id="page147"></a>sensation. But he kept on his feet. He kept moving. Because he didn’t want to die.
 
 There was another stratum of darkness. Then somewhere he found an elevator that worked. It dropped him into the damp chill of the drainage levels. The concussions were now muffled with hundreds of feet of earth. But still they struck and struck and struck, numbing clubs of death.
 
@@ -3070,7 +3058,7 @@ A burst of automatic fire crashed out of a dark crossway. He ducked for cover. B
 
 “Yea, Brother!” Kellon managed to respond with a dazed quotation from the Preacher. “And the Kingdom is come.”
 
-“Pass, Brother.” The man grinned at him, redly, and explained: “I am hunting engineers. I’ve’killed seven.” Kellon was about to pass, when the gun moved ominously. “Wait, have you heard the news?”
+“Pass, Brother.” The man grinned at him, redly, and explained: “I am hunting engineers. I’ve killed seven.” Kellon was about to pass, when the gun moved ominously. “Wait, have you heard the news?”
 
 Kellon waited.
 
@@ -3080,9 +3068,7 @@ Kellon’s throat was suddenly dry.
 
 “Selene—” he whispered. “What about Miss Captain du Mars?”
 
-“Forget those words of Satan, Brother.” The hunter licked his lips, with an unpleasant relish. “The harlot of Babylon is also dead. They say that she betrayed even the Antichrist, in the end. She was found with Hurd,
-
-aboard the Fleet. She took poison when he was killed, to escape the Preacher’s wrath. Hallelujah!”
+“Forget those words of Satan, Brother.” The hunter licked his lips, with an unpleasant relish. “The harlot of Babylon is also dead. They say that she betrayed even the Antichrist, in the end. She was found with Hurd, <a id="page148"></a>aboard the Fleet. She took poison when he was killed, to escape the Preacher’s wrath. Hallelujah!”
 
 “Praise the Lord!” Kellon gasped hoarsely. “Good hunting, Brother.”
 
@@ -3100,7 +3086,7 @@ Reeling to his burden of fatigue, he found a little niche that he had dug long a
 
 It gave him a curious and surprising pleasure to see that evidence of the old strength and skill of his hands. For it was a long time since he had even dressed himself completely without some aid.
 
-He was hungry, but still the far past served him. He climbed, by a way he had known, to the freight levels. Traffic had ceased. He saw no Goons or workmen. In most sections, only a few pale emergency lights were glowing.
+He was hungry, but still the far past served him. He <a id="page149"></a>climbed, by a way he had known, to the freight levels. Traffic had ceased. He saw no Goons or workmen. In most sections, only a few pale emergency lights were glowing.
 
 A few other looters were busy. He avoided them. Presently, he found a wrecked electric truck and loaded his gray pockets from its cargo of hydroponic oranges and tinned imitation beef. He ate, and cached what was left in the little cave.
 
@@ -3118,9 +3104,9 @@ Beyond, where the busy Venus Docks had been, was only a wide black chasm. Bitter
 
 Chaos met him. The shell-tom mesa looked desolate as the Moon. Outside the Saturn Docks, scarcely any familiar structure was even a recognizable ruin. Death had plowed deep. Only a few twisted scraps of metal even hinted that docks and cradles and ships had ever existed.
 
-Miles away, on the rough field of dark debris where the militechnic reservation had been, he saw a fallen cruiser. All the stern was gone, as if the magazine had exploded. The plates still glowed with red heat over the battery rooms, and smoke lifted a sharp thin exclamation point against the gloomy sky.
+Miles away, on the rough field of dark debris where <a id="page150"></a>the militechnic reservation had been, he saw a fallen cruiser. All the stern was gone, as if the magazine had exploded. The plates still glowed with red heat over the battery rooms, and smoke lifted a sharp thin exclamation point against the gloomy sky.
 
-Sadly, he recognized the TechnarcKs lines.
+Sadly, he recognized the *Technarch*’s lines.
 
 Beyond the dead ship, Sunport was burning. A terrible red dawn glowed all across the east. But the low sky overhead remained dark with smoke from the conflagration. Hours dragged on, as he searched for the ruin of the unitronics laboratory where Roy had worked. But the Sun didn’t rise.
 
@@ -3140,9 +3126,9 @@ Kellon whirled, startled. Behind him, a big man had risen silently from behind a
 
 The big man made no immediate reply. His keen eyes studied Kellon over the level gun. Puzzled and impatient, Kellon kicked uneasily at a bomb-tossed stone. At last, as if he had reached some decision, the guard nodded.
 
-“I think you’ll do. Come along, and I’ll let you talk to Tom Pharr.” He pointed with the gun toward a gap in the shattered wall. “Roy Kellon is here,” he added, “but you will find it hard to deliver any message right now. Because he is buried under a thousand tons of rock.”
+“I think you’ll do. Come along, and I’ll let you talk to Tom Pharr.” He pointed with the gun toward a gap in <a id="page151"></a>the shattered wall. “Roy Kellon is here,” he added, “but you will find it hard to deliver any message right now. Because he is buried under a thousand tons of rock.”
 
-Kellon walked ahead, through -a maze of ruined rooms and roofless passages. He heard voices and the muffled clink of tools. Abruptly, his guide brought him upon a surprising scene.
+Kellon walked ahead, through a maze of ruined rooms and roofless passages. He heard voices and the muffled clink of tools. Abruptly, his guide brought him upon a surprising scene.
 
 A cracked, unroofed wall inclosed a long rectangle. It was piled deep with broken rock and debris, flung from the crater where the other wing had been. But scores of men and women were toiling desperately to move the rubble. They had half uncovered a long, mirror-bright torpedo shape. The guard hailed a slim young man in gray, who appeared to be in charge of the excavation.
 
@@ -3154,7 +3140,7 @@ The slim youth came to meet them. Kellon had seen him here at the laboratory whe
 
 “I am.” Kellon felt bewildered. “But I was looking for my . . . for Engineer Roy Kellon. Is he all right?”
 
-“He’s aboard the Nova.” Tom Pharr jerked a hurried thumb at the half buried torpedo. “He’ll be all right—if we can get him uncovered before the Preacher’s fanatics get wind of us.”
+“He’s aboard the *Nova*.” Tom Pharr jerked a hurried thumb at the half buried torpedo. “He’ll be all right—if we can get him uncovered before the Preacher’s fanatics get wind of us.”
 
 “That?” Puzzled, Kellon nodded at the bright spindle. “A spaceship?”
 
@@ -3164,7 +3150,7 @@ The slim youth came to meet them. Kellon had seen him here at the laboratory whe
 
 Pharr’s lean face betrayed faint worry.
 
-“Some damage to the Nova. But Roy signaled that he is making repairs. Expects to be able to take off, as soon as we can get it uncovered. There’s fuel enough for Venus or Mercury. But we’ll have to find dynodes and supplies for the interstellar flight.”
+<a id="page152"></a>“Some damage to the *Nova*. But Roy signaled that he is making repairs. Expects to be able to take off, as soon as we can get it uncovered. There’s fuel enough for Venus or Mercury. But we’ll have to find dynodes and supplies for the interstellar flight.”
 
 Eagerly, Kellon echoed, “Interstellar?”
 
@@ -3176,19 +3162,19 @@ Kellon gulped in vain to speak. This was something more than a chance to escape 
 
 “Then get to work.”
 
-Kellon went to help a man and a girl who were trying to roll a raw new boulder away from the Nova. It was queerly comforting to be accepted as a member of this busy, efficient group. Never before had he quite realized how lonely the Boss had been.	x
+Kellon went to help a man and a girl who were trying to roll a raw new boulder away from the *Nova*. It was queerly comforting to be accepted as a member of this busy, efficient group. Never before had he quite realized how lonely the Boss had been.
 
 As the hours went on, he was scarcely conscious of fatigue. He wasn’t much concerned with the blood that presently began to ooze from his soft, uncalloused hands. There was time for only a few brief words, but he began to feel an eager interest in these new companions.
 
 A curiously assorted group. Burly dock hands in gray. A few young cadets who had survived the destruction of the militechnic college. A dozen veterans who had escaped from the Outstation in a life tube, when it was blown up. Engineers, white-collar workers, servants, grays.
 
-But their one intense purpose had fused them all into a single unit. Class distinction was gone. Kellon noticed a pretty girl, in low-cut dance pajamas. She looked a little like Selene du Mars. But she was serving soup to a line of hungry stevedores in gray.
+But their one intense purpose had fused them all into a single unit. Class distinction was gone. Kellon noticed a pretty girl, in low-cut dance pajamas. She looked a <a id="page153"></a>little like Selene du Mars. But she was serving soup to a line of hungry stevedores in gray.
 
 Melkart’s dictum came back to him. Sunport was dead, because it had lost the purpose that created it. But this desperate, tattered little group was still somehow a vital entity. Because, as the old historian would have put it, they shared a destiny.
 
 Night fell again. Still Sunport was burning. Smoke blotted out the stars. The eastward horizon was a wall of terrible red. Lightless towers stood against it, broken and truncated by the space bombardment, like monuments of some dead gigantic race.
 
-They worked on without resting. Now and again, a clatter of automatic fire told them that the guards were fighting some intruder. It was midnight when they reached the valves of the Nova. Roy Kellon came out, an arm in a sling, to inspect the battered hull.
+They worked on without resting. Now and again, a clatter of automatic fire told them that the guards were fighting some intruder. It was midnight when they reached the valves of the *Nova*. Roy Kellon came out, an arm in a sling, to inspect the battered hull.
 
 Kellon stood back in the shadows, too weary to call out. His breath came faster, and his throat ached suddenly. Roy looked lean and strong; those were his mother’s eager gray eyes.
 
@@ -3202,9 +3188,7 @@ Kellon followed the shuffling line of weary men and women through the valve. Roy
 
 “Nonsense, Boss!” Roy gripped his hand. “Tickled. Just so we get away before the Preacher comes.”
 
-“Forget the Boss.” Kellon grinned and blinked again.
-
-“But we’ll be loading supplies on Venus. You’ll find I’m a hell of a good foreman on a cargo gang.”
+“Forget the *Boss*.” Kellon grinned and blinked again. <a id="page154"></a>“But we’ll be loading supplies on Venus. You’ll find I’m a hell of a good foreman on a cargo gang.”
 
 The skirmishing guards retreated aboard. The valves were sealed. Anxiously Roy cut in the *Nova*’s untested drive. She lifted silently, swifter than any unitron vessel had ever been. The burning city slipped beneath its dark shroud of smoke. Ahead were the stars.
 
@@ -3224,7 +3208,7 @@ Then he saw the thing in the window.
 The window itself wasn’t any ordinary glass. The wide, dustless panel was completely transparent, so that only the glowing letters fastened to it showed that it was there at all. The letters made a severe, modernistic sign:
 
 .space.center
-Two Rivers Agency
+<a id="page155"></a>Two Rivers Agency
 HUMANOID INSTITUTE
 The Perfect Mechanicals
 “To Serve and Obey,
