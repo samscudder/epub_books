@@ -27,37 +27,37 @@ rearcover
 THESE 21 SUPERB STORIES DISPLAY THE FULL COSMIC SCOPE OF A WRITER WHOSE EPICS OF GALACTIC ADVENTURE ON THE HEROIC SCALE HAVE ENTHRALLED GENERATIONS OF SCIENCE FICTION READERS WITH THEIR CONFLICTS OF MEN, STANGE BEINGS, AND ENTIRE PLANETS.
 
 .subtitle
-• THUNDERING WORLDS
+• [THUNDERING WORLDS](thundering_worlds)
 
 .smaller
 Fleeing a dying sun, mankind set out across space—not in starships, but in an incredibly armada made up of the very planets of the Solar System!
 
 .subtitle
-• THE MAN WHO EVOLVED
+• [THE MAN WHO EVOLVED](the_man_who_evolved)
 
 .smaller
 He harnessed the energy of the Universe to reach Man’s next, god-like stage—and then took the step <u>after</u> that.
 
 .subtitle
-• IN THE WORLD’S DUSK
+• [IN THE WORLD’S DUSK](in_the_worlds_dusk)
 
 .smaller
 The last survivor of the human race brought back the dead to people Earth—and, when that failed, tried an even more desperate way of making his planet live again.
 
 .subtitle
-• EXILE
+• [EXILE](exile)
 
 .smaller
 He created a barbaric, nightmarish world—and then he had to live in it!
 
 .subtitle
-• DAY OF JUDGMENT
+• [DAY OF JUDGMENT](day_of_judgment)
 
 .smaller
 The last man and the last woman returned to Earth—to face a Jury with a million-year grievance to avenge!
 
 .subtitle
-• Plus the unforgettable REQUIEM
+• Plus the unforgettable [REQUIEM](requiem)
 
 .smaller
 and fifteen other unique tales alive with a surging sense of wonder.

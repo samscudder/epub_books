@@ -41,12 +41,12 @@ THE SECOND VOLUME IN BALLANTINE’S CRITICALLY ACCLAIMED CLASSIC LIBRARY OF SCIE
 **NOW—IN ONE SUPERLATIVE VOLUME—22 SUPERB SCIENCE FICTION TALES BY A MASTER STORYTELLER**
 
 .smaller
-• Wanted—An Enemy
-• The Man Who Never Grew Young
-• The Enchanted Forest
-• The Foxholes of Mars
-• The Big Trek
-• Space-Time for Springers
+• [Wanted—An Enemy](wanted_an_enemy)
+• [The Man Who Never Grew Young](the_man_who_never_grew_young)
+• [The Enchanted Forest](the_enchanted_forest)
+• [The Foxholes of Mars](the_foxholes_of_mars)
+• [The Big Trek](the_big_trek)
+• [Space-Time for Springers](space-time_for_springers)
 
 PLUS 16 MORE FABULOUS STORIES—
 INCLUDING THE AWARD-WINNING
@@ -59,7 +59,7 @@ CAPS WITH THE DEVIL!
 blurb
 
 .heading
-**What the Critics Have Said about Fritz Leiber**
+<a id="pagei"></a>**What the Critics Have Said about Fritz Leiber**
 
 “Fritz Leiber stands very firmly in the front rank of modem science-fiction writers.”
 
@@ -90,7 +90,7 @@ blurb
 
 other_books
 
-Look for Ballantine’s landmark series of definitive collections by the masters of science fiction. Each book will be introduced by a distinguished science-fiction writer or critic.
+<a id="pageii"></a>Look for Ballantine’s landmark series of definitive collections by the masters of science fiction. Each book will be introduced by a distinguished science-fiction writer or critic.
 
 .space.center
 **Now available in a Ballantine Edition**
@@ -132,7 +132,7 @@ Coming From Ballantine Books
 
 titlepage
 
-# THE BEST OF<br />*Fritz Leiber*
+# <a id="pageiii"></a>THE BEST OF<br />*Fritz Leiber*
 
 .editor
 by Fritz Leiber
@@ -148,7 +148,7 @@ BALLANTINE BOOKS • NEW YORK
 
 copyright
 
-COPYRIGHT © 1974 BY FRITZ LEIBER
+<a id="pageiv"></a>COPYRIGHT © 1974 BY FRITZ LEIBER
 Introduction Copyright © 1974 by Poul Anderson
 
 All rights reserved under International and Pan-American Copyright Conventions.
@@ -170,7 +170,7 @@ Ballantine Books, Ltd., Toronto Canada
 acknowledgments
 
 .center
-ACKNOWLEDGMENTS
+<a id="pagev"></a>ACKNOWLEDGMENTS
 
 .space.revindent
 “Gonna Roll The Bones,” copyright © 1967 by Fritz Leiber.
@@ -218,7 +218,7 @@ ACKNOWLEDGMENTS
 “Try and Change the Past,” copyright © 1958 by Street and Smith Publications, Inc., for *Astounding Science Fiction*, March, 1958.
 
 .revindent
-“A Deskful of Girls,” copyright © 1958 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, April, 1958.
+<a id="pagevi"></a>“A Deskful of Girls,” copyright © 1958 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, April, 1958.
 
 .revindent
 “Rump-Titty-Titty-Tum-Tah-Tee,” copyright © 1958 by Mercury Press for *The Magazine of Fantasy and Science Fiction*, May, 1958.
@@ -242,7 +242,7 @@ ACKNOWLEDGMENTS
 
 contents
 
-# CONTENTS
+# <a id="pagevii"></a>CONTENTS
 
 [*Introduction:* The Wizard of Nehwon](introduction)—*Poul Anderson*
 
@@ -296,14 +296,14 @@ contents
 
 introduction
 
-# The Wizard of Nehwon
+# <a id="pageix"></a>The Wizard of Nehwon
 
 .fl
 <span class="smallcaps">When I was</span> first asked to write an introduction to a volume of Fritz Leiber stories—the most important of such collections at that—my reaction was inappropriately inelegant: “Huh?” I still think it had a fundamental rightness. How can anybody properly comment on the work of one who is not only his senior in the profession by a good many years, but is universally acknowledged to be among its three or four all-time titans?
 
 Yet this was an honor I could not decline. It was like being in a physics department back around 1935 and invited to introduce a series of guest lectures by Einstein. A person in that position realizes the audience hasn’t come to hear, or read, him. But he’ll try to avoid boring platitudes. If he’s lucky, he’ll even convey a slight extra insight, which will help that audience appreciate the visitor and what he’ll say a little bit more than they might otherwise have done. Maybe I’ll luck out.
 
-Let’s first make a few remarks about the man himself, before going on to his writing. They will be only a few—despite the keyhole school of criticism, the facts of a creator’s life are not required for an understanding of his or her work; or if they are, then that person has to that extent failed as an artist. Fritz Leiber does employ a certain amount of autobiography in his work, perhaps more than any other maker of science fiction or fantasy. But he’s far too skillful for you to need to know what the personal element is. Besides, he lets you in on some of it himself, for your pleasure, in his afterword to the present volume.
+Let’s first make a few remarks about the man himself, before going on to his writing. They will be only a few—despite the keyhole school of criticism, the facts of a creator’s life are not required for an understanding of his or her work; or if they are, then that person has to that extent failed as an artist. Fritz Leiber does employ a certain amount of autobiography in his work, perhaps more than <a id="pagex"></a>any other maker of science fiction or fantasy. But he’s far too skillful for you to need to know what the personal element is. Besides, he lets you in on some of it himself, for your pleasure, in his afterword to the present volume.
 
 And I can’t claim deep knowledge of him in any event. We have been friends for a long time, guests in each other’s homes, and so on; but until recently, geographical separation prevented frequent encounters, and we never happened to strike up one of his extended correspondences which have delighted a number of people. Therefore, a mere scattering of reminiscences and data:
 
@@ -313,17 +313,17 @@ From time to time we are all afflicted with bores or boors. Some of us give them
 
 It is etymologically wrong but psychologically right to define a gentleman as one who is gentle, yet very much a man. Leiber has been a championship fencer and a chess player rated “expert.” To see and hear him recite Chesterton’s bravura “Lepanto” is an unforgettable experience. And, of course, in his writing he has stared down—or laughed down—death, horror, human absurdity, with guts worthy of a Jeffers, Kafka, or Cervantes.
 
-Born in Chicago near the end of 1910, his father a famous Shakespearean actor for whom Fritz was named, he grew up in the atmosphere of the stage, which doubtless has a great deal to do with the highly visual and dramatic quality of his work. But he took his degree in psychology, which also shows. Variously a lay preacher, actor, college teacher of drama, and staff writer for an encyclopedia, he tried free-lancing sporadically. His first published story appeared in 1939, in that lustrous and mourned magazine *Unknown*. During World War II he reached a painful decision—that the struggle against fascism was more important than the pacifist convictions which he had long held, and still does—and he accepted a job in aircraft production. Afterward, he was on the staff of *Science Digest* for a dozen years. During all this time he acquired a wife and son and, between dry spells which readers regretted, wrote a lot of the best science fiction and fantasy in the business. Eventually he moved from Chicago to southern California and started writing full time. Since his wife’s death (everybody who knew her misses Jonquil) he has lived in San Francisco.
+<a id="pagexi"></a>Born in Chicago near the end of 1910, his father a famous Shakespearean actor for whom Fritz was named, he grew up in the atmosphere of the stage, which doubtless has a great deal to do with the highly visual and dramatic quality of his work. But he took his degree in psychology, which also shows. Variously a lay preacher, actor, college teacher of drama, and staff writer for an encyclopedia, he tried free-lancing sporadically. His first published story appeared in 1939, in that lustrous and mourned magazine *Unknown*. During World War II he reached a painful decision—that the struggle against fascism was more important than the pacifist convictions which he had long held, and still does—and he accepted a job in aircraft production. Afterward, he was on the staff of *Science Digest* for a dozen years. During all this time he acquired a wife and son and, between dry spells which readers regretted, wrote a lot of the best science fiction and fantasy in the business. Eventually he moved from Chicago to southern California and started writing full time. Since his wife’s death (everybody who knew her misses Jonquil) he has lived in San Francisco.
 
 So now Fritz Leiber is in his sixties, an age when most artists have either retired or are sterilely repeating themselves. The years show on him a bit—but not too much, and only physically. Inside, while possessing all the wisdom of a lifetime, he’s younger than the average man of thirty. To give a small personal illustration: not long ago, in his rambles around his newly adopted city, he discovered a walking tour that will take you to every place where action occurs in Dashiell Hammett’s *The Maltese Falcon*. Or . . . recently my wife gave an elaborate dinner to honor the memory of E. R. Eddison, upon the date of Lessingham’s translation into Zimiamvia. Only those who would understand what that means were invited, and they were expected to come in costume. Fritz graced the party as the oldest, most sharply humorous, and best-dressed man present.
 
-If anything, he keeps growing younger, more actively creative. His past unproductive periods seem to have been times during which, consciously or unconsciously, he was preparing himself to strike out in a different direction. The results were always surprising and consequential. Though ever aware of and sensitive to the great issues of the real world around him, he has never been a merely “relevant” writer. Instead, he has always been in the forefront in both themes and treatment. In these past several years we have been witnessing a new burst of pioneering, which looks as if it will continue while he lives. That makes especially appropriate the book, both retrospective and contemporary, which you are holding. And it brings up our real subject, Fritz Leiber’s achievement.
+If anything, he keeps growing younger, more actively creative. His past unproductive periods seem to have been times during which, consciously or unconsciously, he was preparing himself to strike out in a different direction. The <a id="pagexii"></a>results were always surprising and consequential. Though ever aware of and sensitive to the great issues of the real world around him, he has never been a merely “relevant” writer. Instead, he has always been in the forefront in both themes and treatment. In these past several years we have been witnessing a new burst of pioneering, which looks as if it will continue while he lives. That makes especially appropriate the book, both retrospective and contemporary, which you are holding. And it brings up our real subject, Fritz Leiber’s achievement.
 
 I do not propose to offer you a critique. For one thing, while mildly disagreeing with a few of her judgments, I couldn’t better the one by Judith Merril.[^1] Besides, I lay no claim to being a critic, simply a working writer.
 
 To be sure, that distinction is far from absolute. Thus Merril published excellent fiction in earlier days, while Leiber has done a certain amount of criticism. The question to consider is where the emphasis of a life—in this case Leiber’s—has lain—or, at least, what an essayist is trying to do. I’ll say little about the stories in this volume. They speak for themselves; moreover, you have the author’s own notes. Rather, I’d like to consider in a very informal fashion, and from the viewpoint of a fellow practitioner, some of those items which are not on hand. You who already know them may enjoy a revival of memories. You who don’t may get a better idea of Leiber’s accomplishment and, I hope, will be led to read further.
 
-It’s too bad that we have no tale of Fafhrd and the Gray Mouser here. Not only did that charming pair of rogues—the tall Northern barbarian and the small city-bred trickster—launch the author’s career; they are still going strong, to the joy of everybody who appreciates a rattling good fantasy adventure. But by no means are these stories conventional “sword and sorcery.” The world of Nehwon is made real in wondrously imaginative detail, its human aspects as true as in any conscientious job of reporting. To visit the city of Lankhmar is to learn what decadence in fact means; to roam with our vulnerable vagabonds is to experience pity and terror as well as suspense, wry humor, and uproarious hilarity. Here Leiber in his way—like the late J. R. R. Tolkien in his, and not vastly different—has done, and is doing, for the heroic fantasy what Robert Louis Stevenson did for the pirate yarn: by originality and sheer writing genius, he revived an ossified genre and started it off on a fresh path.
+It’s too bad that we have no tale of Fafhrd and the Gray Mouser here. Not only did that charming pair of rogues—the tall Northern barbarian and the small city-bred trickster—launch the author’s career; they are still going strong, to the joy of everybody who appreciates a rattling good fantasy adventure. But by no means are these stories conventional “sword and sorcery.” The world of Nehwon is made real in wondrously imaginative detail, its human <a id="pagexiii"></a>aspects as true as in any conscientious job of reporting. To visit the city of Lankhmar is to learn what decadence in fact means; to roam with our vulnerable vagabonds is to experience pity and terror as well as suspense, wry humor, and uproarious hilarity. Here Leiber in his way—like the late J. R. R. Tolkien in his, and not vastly different—has done, and is doing, for the heroic fantasy what Robert Louis Stevenson did for the pirate yarn: by originality and sheer writing genius, he revived an ossified genre and started it off on a fresh path.
 
 I could likewise wish that this book held a sample or two of Leiber’s horror stories. In my opinion, which Fritz modestly does not share, Lovecraft and Poe himself never dealt out comparable chills. The typical Leiber frightener gains tremendous power by its economy, its evocative contemporary setting, and its bleak brilliance of concept—like “Smoke Ghost,” to name a single tale, whose phantom is in and of the corrupted air pervading a modern industrial city.
 
@@ -333,13 +333,13 @@ The novels were inevitably excluded. But any discussion of Leiber’s work, or o
 
 The first exception is *Tarzan and the City of Gold*, “only” a delightful continuation of Burroughs. Come to think of it, though, a scholar of English letters would find it most interesting to trace out how Leiber managed to convey the flavor of his model while avoiding all its crudities, outdoing Burroughs in every way that counts, and throwing occasional philosophical and moral issues into the bargain. Does anybody need material for a master’s thesis?
 
-Doubtless many will argue with my assertion that *The Green Millennium* is not a landmark. It is, in the sense of being a fine book, highly recommended. But it carries further the world of “Coming Attraction” and “Poor Superman,” both in the present collection, and thus does not break new ground—by Leiber’s standards—however inventive and often astoundingly witty it is. All the rest of us, from Heinlein on down, would rank it among our own best, had we written it.
+Doubtless many will argue with my assertion that *The <a id="pagexiv"></a>Green Millennium* is not a landmark. It is, in the sense of being a fine book, highly recommended. But it carries further the world of “Coming Attraction” and “Poor Superman,” both in the present collection, and thus does not break new ground—by Leiber’s standards—however inventive and often astoundingly witty it is. All the rest of us, from Heinlein on down, would rank it among our own best, had we written it.
 
 Heinlein offers a natural starting point for a few words about *Gather, Darkness!*, that prototype of the interplay of ideas which has always given vitality to science fiction. In 1940 appeared his serial *If This Goes On—*, wherein the United States has fallen under a totalitarian regime posing as the church of a new faith and using technological devices to work suitably impressive “miracles.” A year later, under his pseudonym “Anson MacDonald,” he brought forth *Sixth Column*. There, the United States has been invaded and occupied by a foreign power which allows the people freedom of religion but of nothing else. A small underground takes advantage of secret scientific knowledge—gathered just before the collapse, so that it was never brought to bear in the war—to give the priests of a stalking-horse faith similar capabilities.
 
-Heinlein stopped with those two books, but Leiber saw that the theme was still full of potential. Suppose such a church came to power, then never stepped down again and never was overthrown for centuries. In *Gather, Darkness!* it has built a neo-medieval world of ignorant commoners dominated by a hierarchy that really can invoke “supernatural” sanctions in the name of its God. A liberation movement finally does start. But in this environment it calls itself “witchcraft” and claims to serve the Devil! There are many magnificently funny details (e.g., since the priesthood rides around in aircraft built to look like angels, the aircraft of the opposition are bat-winged and homed) but the story isn’t simply a romp. Its account of brainwashing by chemical and electronic means is fast becoming a foul reality.
+Heinlein stopped with those two books, but Leiber saw that the theme was still full of potential. Suppose such a church came to power, then never stepped down again and never was overthrown for centuries. In *Gather, Darkness!* it has built a neo-medieval world of ignorant commoners dominated by a hierarchy that really can invoke “supernatural” sanctions in the name of its God. A liberation movement finally does start. But in this environment it calls itself “witchcraft” and claims to serve the Devil! There are many magnificently funny details (e.g., since the priesthood rides around in aircraft built to look like angels, the aircraft of the opposition are bat-winged and horned) but the story isn’t simply a romp. Its account of brainwashing by chemical and electronic means is fast becoming a foul reality.
 
-*Gather, Darkness!* was followed by a swarm of dull imitations. But surely, in due course, it partly inspired Philip José Farmer’s seminal work *The Lovers*. That’s what I mean by a landmark work.
+*Gather, Darkness!* was followed by a swarm of dull imitations. But surely, in due course, it partly inspired Philip <a id="pagexv"></a>José Farmer’s seminal work *The Lovers*. That’s what I mean by a landmark work.
 
 I wonder how Women’s Lib would react to a reissue of the fantasy novel from this period, *Conjure Wife*, with its assumption that all women are witches but they don’t tell their men. Probably there’d be general pleasure. It was popular enough to get two filmed versions; and I know several ladies in the movement who still love the original story. As often elsewhere, Leiber doubled his strength by combining dazzling imagination with unsparing realism. The principal setting is a small college community, and I have since observed for myself how vicious the infighting can get in such a place. By the way, the hero, Norman Saylor, reappears in this collection. Leiber likes to interconnect tales whenever possible.
 
@@ -347,11 +347,11 @@ Likewise, several of Leiber’s stories are part of a series incorporating the m
 
 Similarly, Leiber wrote a number of stories in what has come to be known as the Change-War cycles—this series has rather overshadowed the one mentioned above. A couple of the Change-War stories are reprinted here. The heart of the cycle is in another novel, *The Big Time*. Few comparable tours de force exist anywhere in literature. The action takes place continuously in a single setting, a station outside the cosmos to which half-crazed soldiers from all time and space are sent for a little rest and recreation. Beneath the flamboyancies, tension racks up notch by notch toward a breaking-point climax followed by an ironic denouement. It’s fantastically good theater—literally. How I wish to see it staged!
 
-Being such a virtuoso performance, *The Big Time* doesn’t seem to have had any followers. I admit to keeping it in mind while writing my own *A Midsummer Tempest*, but cannot claim that that employs the dramatic unities as the former book did. Evidently nobody in our field can match Fritz Leiber here.
+Being such a virtuoso performance, *The Big Time* doesn’t seem to have had any followers. I admit to keeping it in mind while writing my own *A Midsummer Tempest*, but cannot claim that that employs the dramatic unities as <a id="pagexvi"></a>the former book did. Evidently nobody in our field can match Fritz Leiber here.
 
 He went on to a different technique, the out-and-out satirical, in *The Silver Eggheads*. This account of an ultra-mechanized future lacks the misanthropy of a Swift but bites just as hard. I really think its blend of sardonicism, earthy (even slapstick) mirth, and underlying compassion is best likened to Aristophanes. For instance, consider what might be done with pseudo-female robots—
 
-.space.thin
+.space.quote
 “Can you imagine, Flaxy, having it with a girl who is all velvet or plush, or who really goes all hot and cold, or who can softly sing you a full-orchestra symphony while you’re doing it or maybe Ravel’s *Bolero*, or who has slightly—not excessively—prehensile breasts or various refreshingly electric skin areas, or who has some of the features—not overdone, of course—of a cat or a vampire or an octopus, or who has hair like Medusa’s or Shambleau’s that lives and caresses you, or who has four arms like Siva, or a prehensile tail eight feet long, or . . . and at the same time is perfectly safe and can’t bother or involve or infect or dominate you in any way?”
 
 .space
@@ -359,8 +359,8 @@ He went on to a different technique, the out-and-out satirical, in *The Silver E
 
 A slightly similar minor motif occurs in *The Wanderer*. This novel concerns the effects on a large and varied cast of characters of a mobile planet coming near Earth. All kinds of things happen, all fascinating. But I have a reason for singling out the relationship, which eventually becomes erotic, between the human Paul and the highly evolved, feline-like Tigerishka. Leiber flinches no more from the fact that we are sexual beings than he does from the fact that we are limited, usually ridiculous, and ultimately mortal. This quotation will at least give you some extra words of his:
 
-.space.thin
-After a space he came slowly floating up out of the infinite softness of that bottomless black bed, and there were the stars again, and Tigerishka lifted up a little above him so that very faintly, by starlight, he saw the violet of her petaled irises and the bronzy green of her cheeks and her mulberry lips parted, careless that she showed her whitely-glinting fangs, and she recited:
+.space.quote
+After a space he came slowly floating up out of the infinite softness of that bottomless black bed, and <a id="pagexvii"></a>there were the stars again, and Tigerishka lifted up a little above him so that very faintly, by starlight, he saw the violet of her petaled irises and the bronzy green of her cheeks and her mulberry lips parted, careless that she showed her whitely-glinting fangs, and she recited:
 
 .thin
 “Poor little ape, you’re sick again tonight.
@@ -411,7 +411,7 @@ Look at the stars, poor little ape, and sleep.”
 “No,” she said softly, “you finished it by yourself. I found it, lying there in the dark behind your eyes, tossed in a corner. Rest now, Paul. Rest. . . .”
 
 .space
-To be thus aware of mortality, and of the ancient deeps within us while we live, is not morbid but mature. Leiber can even laugh with them—not at them, which is an evasion, but with them. He does so in *A Specter Is Haunting Texas*. The satire there is more stark than in *The Silver Eggheads*, more reminiscent of Huxley or Heine though with a strong dash of . . . shall we say Buster Keaton? The hero, born and reared on the Moon, has in its low gravity grown up excessively tall and thin. Forced to visit Earth, he must wear a skeleton-like supportive framework which, with his black garb, makes him Death discarnate to the inhabitants of a crazy-quilt of nations formed after a nuclear war. One of his loves is equally a Death figure, the other Flesh itself. Needless to say, the author never puts it this crudely or obviously, and the overtones are infinite. Perhaps no other modem writers except James Branch Cabell and Vladimir Nabokov have gotten such fun out of the human tragicomedy; and they, for all their wit, have never had Leiber’s uninhibited gusto.
+To be thus aware of mortality, and of the ancient deeps within us while we live, is not morbid but mature. Leiber can even laugh with them—not at them, which is an evasion, but with them. He does so in *A Specter Is Haunting Texas*. The satire there is more stark than in *The Silver Eggheads*, more reminiscent of Huxley or Heine though with a strong dash of . . . shall we say Buster Keaton? The hero, born and reared on the Moon, has in its low gravity grown up excessively tall and thin. Forced to visit Earth, he must wear a skeleton-like supportive framework which, with his black garb, makes him Death discarnate to the inhabitants of a crazy-quilt of nations formed after a nuclear war. One of his loves is equally a Death figure, the other <a id="pagexviii"></a>Flesh itself. Needless to say, the author never puts it this crudely or obviously, and the overtones are infinite. Perhaps no other modem writers except James Branch Cabell and Vladimir Nabokov have gotten such fun out of the human tragicomedy; and they, for all their wit, have never had Leiber’s uninhibited gusto.
 
 Let us hope for much more from this man, in whatever vein he may next select. Meanwhile, the volume in your hands gives a good overview. If you are already familiar with Fritz Leiber, you know you have a treat in store. If it will be your first encounter with him, I envy you.
 
@@ -567,7 +567,7 @@ Joe immediately crapped out by throwing boxcars, rather pleased to see the two b
 
 “Knew when his streak was over,” he heard another Big Mushroom mutter with grudging admiration.
 
-The play worked rather rapidly around the table, nobody getting very hot and the stakes never more than medium high. “Shoot a fin.” “Rolling a sawbuck.” “An Andrew Jackson.” “Rolling thirty bucks.” Now and then Joe covered part of a bet, winning more than he lost. He had over seven thousand dollars, real money, before the bones got around to the Big Gambler.
+The play worked rather rapidly around the table, nobody getting very hot and the stakes never more than medium high. “Shoot a fin.” “Rolling a sawbuck.” “An Andrew Jackson.” “Rolling thirty bucks.” Now and then Joe covered part of a bet, winning more than he lost. He had over <a id="page14"></a>seven thousand dollars, real money, before the bones got around to the Big Gambler.
 
 That one held the dice for a long moment on his statue-steady palm while he looked at them reflectively, though not the hint of a furrow appeared in his almost brownish forehead down which never a bead of sweat trickled. He murmured, “Rolling a double sawbuck,” and when he had been faded, he closed his fingers, lightly rattled the cubes—the sound was like big seeds inside a small gourd only half dry—and negligently cast the dice towards the end of the table.
 
@@ -5250,7 +5250,7 @@ As Damon Knight noted, I wrote “The Night He Cried” because I was distantly 
 
 The novelette “A Deskful of Girls” got me another colorful magazine cover, this one by Kelly Freas. The story is about the sexual hangups and love goddesses of the 1950s, written for fun and chills.
 
-“Rump-Titty-Titty-Tum-Tah-Tee” takes a humorous look at arty intellectuals and advertisers. Anthony Boucher remarked of it, “An editor finds himself fascinated and a little frightened when he publishes a story which evokes such disproportionately intense response as to make it obvious that the author has unconsciously hit upon some basic and deeply communicative symbol.”
+<a id="page328"></a>“Rump-Titty-Titty-Tum-Tah-Tee” takes a humorous look at arty intellectuals and advertisers. Anthony Boucher remarked of it, “An editor finds himself fascinated and a little frightened when he publishes a story which evokes such disproportionately intense response as to make it obvious that the author has unconsciously hit upon some basic and deeply communicative symbol.”
 
 “Little Old Miss Macbeth” caused Robert P. Mills, then editor of *Fantasy and Science Fiction*, to observe, “Surely Fritz Leiber is the most vividly *visual* of all science-fantasy writers.” This seems extreme, yet for me vision *is* “worth all the rest” of the senses, as Macbeth put it. It may be due to my youth as an actor and the child of actors. I visualize most of my stories and set many of them on an imaginary stage. Some, like *The Big Time*, have only one set.
 

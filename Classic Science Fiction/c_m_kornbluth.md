@@ -27,31 +27,31 @@ rearcover
 **HERE IN ONE SPECTACULAR VOLUME ARE THE 20 MOST BRILLIANT STORIES OF THE EXTRAORDINARY WRITER WHO INTERWOVE IMAGINATION AND HUMOR TO CREATE SCIENCE-FICTION TALES OF BREATHTAKING AMAZEMENT AND SHEER DELIGHT.**
 
 .subtitle
-• THE LITTLE BLACK BAG
+• [THE LITTLE BLACK BAG](the_little_black_bag)
 
 .smaller
 Medical instruments from the future had turned an old quack into a miracle worker . . . until his nurse joined the operation!
 
 .subtitle
-• THE SILLY SEASON
+• [THE SILLY SEASON](the_silly_season)
 
 .smaller
 When there was no news it was up to the newsmen to invent it, but when the inventions went too facr, there was trouble!
 
 .subtitle
-• GOMEZ
+• [GOMEZ](gomez)
 
 .smaller
 He was a 17-year-old Puerto Rican dishwasher with a gift for atomic physics that could turn top secrets inside out!
 
 .subtitle
-• THE MARCHING MORONS
+• [THE MARCHING MORONS](the_marching_morons)
 
 .smaller
 An impacted wisdom tooth hod led John Barlow to a state of suspended animation . . . and a dangerous awakening in a dumb new world!
 
 .subtitle
-• FRIEND TO MAN
+• [FRIEND TO MAN](friend_to_man)
 
 .smaller
 He was a fugitive on an alien planet, being pursued by a posse of the dead in his mind!

@@ -8,7 +8,7 @@
 	src: url("eurostile.ttf");
 }
 
-body { font-family: Serif; font-size: 1em; }
+body { font-family: Serif; font-size: 1em; widows: 1; orphans: 1; }
 
 .sans-serif { font-family: sans-serif; }
 

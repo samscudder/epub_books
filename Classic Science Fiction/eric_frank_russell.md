@@ -1,138 +1,282 @@
 ---
-identifier: 
+identifier: best_of_eric_frank_russell_b000
 
-title: 
+title: The Best of Eric Frank Russell
 
-creator: 
+creator: Eric Frank Russell
 
-cover: 
+cover: eric_frank_russell.jpg
 
-css: 
+css: classic_science_fiction.css
 
 language: en-US
 
-publisher: 
+publisher: Ballantine Books
 
-subject: 
+subject: Science Fiction / Anthology
 
 description: 
 ---
 
 rearcover
 
-Crisis on the Upsydaisy
+.center
+THE INGENIOUS IRONY OF ERIC FRANK RUSSELL
 
-We wouldn't fall into the Sun—not quite. McNulty's calculations showed that we could just swing past, but we'd come a lot too close for comfort, surviving only in the ship's refrigerated compartment.
+.fl
+**WHAT SCIENCE FICTION DOES BEST IS TAKE FAMILIAR IDEAS AND TURN THEM INSIDEOUT . . . AND ONE OF THE MASTERS OF THAT GAME WAS ERIC FRANK RUSSELL AS IS AMPLY DEMONSTRATED IN THESE SUPREMELY WELL CRAFTED TALES OF ADVENTURE AND MISADVENTURE . . .**
 
-Kli Yang, the Martian, pointed out the catch in this scheme. "We cannot control the ship while squatting in the ice-box like three and a half dozen strawberry sundaes. There will have to be a pilot in the bow. One individual can hold her on course—until he gets fried. So somebody has to be the fryee."
+.subtitle
+• [INTO YOUR TENT I’LL CREEP](into_your_tent_ill_creep)
 
-He gave his tentacle tip a sinuous wiggle "And since it cannot be denied that we Martians are far less susceptible to the extremes of heat, I suggest—"
+.smaller
+The aliens only wanted to befriend Mankind . . . but Man already had a best friend!
 
-"Nuts!" snapped McNulty.
+.subtitle
+• [ALLAMAGOOSA](allamagoosa)
 
-"All right. Who else is entitled to become a crisp?"
+.smaller
+What do you do when you’ve lost a piece of equipment you didn’t even know you had? Invent it!
 
-"Me," said Jay Score. It was queer the way he voiced it. Just as if he were a candidate so obvious that only the stone-blind couldn't see him . . .
+.subtitle
+• [LATE NIGHT FINAL](late_night_final)
 
-The Critically Acclaimed Series of Classic Science Fiction
+.smaller
+Earth’s a great place to invade . . . but you wouldn’t want to live there!
 
-NOW AVAILABLE:
+.subtitle
+• [HOBBYIST](hobbyist)
 
-The Best of Stanley G. Weinbaum Introduction by Isaac Asimov The Best of Frits Leiber Introduction by Paul Anderson The Best of Frederik Pohl Introduction by Lester del Rey The Best of Henry Kuttner Introduction by Ray Bradbury The Best of Cordwainer Smith Introduction by J. J. Pierce The Best of C. L. Moore Introduction by Lester del Rey The Best of John W. Campbell Introduction by Lester del Rey The Best of C. M. Kornbluth Introduction by Frederik Pohl The Best of Philip K. Dick Introduction by John Brunner The Best of Fredric Brown Introduction by Robert Bloch The Best of Edmond Hamilton Introduction by Leigh Brackett The Best of Leigh Brackett Introduction by Edmond Hamilton The Best of Robert Bloch Introduction by Lester del Rey The Best of Murray Leinster Introduction by J. J. Pierce The Best of L. Sprague de Camp Introduction by Poul Anderson The Best of Jack Williamson Introduction by Frederik Pohl The Best of Raymond Z. Gallun Introduction by J. J. Pierce The Best of Lester del Rey Introduction by Frederik Pohl *The Best of Hal Clement Introduction by Lester del Rey *The Best of James Blish Introduction by Lester del Rey
+.smaller
+He was fascinated by the intergalactic museum . . . until he discovered he was an exhibit!
 
-*COMING SOON FROM DEL REY BOOKS
+.subtitle
+• [MANA](mana)
 
-THE BEST OF
+.smaller
+The last man alive created humanity’s heirs . . . but they needed one final gift.
 
-<E,tic ^^f-lank l^Lussatt
+.subtitle
+• [WEAK SPOT](weak_spot)
 
+.smaller
+Barbarian spacefleets slashed at the Empire, and the Empire’s only concern was how to keep them at it.
+
+.noindent
+—AND LOTS MORE!
+
+---
+
+blurb
+
+.heading
+**Crisis on the Upsydaisy**
+
+.space.thin
+**We wouldn’t fall into the Sun—not quite. McNulty’s calculations showed that we could just swing past, but we’d come a lot too close for comfort, surviving only in the ship’s refrigerated compartment.**
+
+.space.thin
+**Kli Yang, the Martian, pointed out the catch in this scheme. “We cannot control the ship while squatting in the ice-box like three and a half dozen strawberry sundaes. There will have to be a pilot in the bow. One individual can hold her on course—until he gets fried. So somebody has to be the fryee.”**
+
+.space.thin
+**He gave his tentacle tip a sinuous wiggle “And since it cannot be denied that we Martians are far less susceptible to the extremes of heat, I suggest—”**
+
+.space.thin
+**“Nuts!” snapped McNulty.**
+
+.space.thin
+**“All right. Who else is entitled to become a crisp?”**
+
+.space.thin
+**“Me,” said Jay Score. It was queer the way he voiced it. Just as if he were a candidate so obvious that only the stone-blind couldn’t see him . . .**
+
+---
+
+other_books
+
+.center
+**The Critically Acclaimed Series of Classic Science Fiction**
+
+.space.center
+**NOW AVAILABLE:**
+
+.space.center
+**The Best of Stanley G. Weinbaum**
+*Introduction by Isaac Asimov*
+**The Best of Fritz Leiber**
+*Introduction by Paul Anderson*
+**The Best of Frederik Pohl**
+*Introduction by Lester del Rey*
+**The Best of Henry Kuttner**
+*Introduction by Ray Bradbury*
+**The Best of Cordwainer Smith**
+*Introduction by J. J. Pierce*
+**The Best of C. L. Moore**
+*Introduction by Lester del Rey*
+**The Best of John W. Campbell**
+*Introduction by Lester del Rey*
+**The Best of C. M. Kornbluth**
+*Introduction by Frederik Pohl*
+**The Best of Philip K. Dick**
+*Introduction by John Brunner*
+**The Best of Fredric Brown**
+*Introduction by Robert Bloch*
+**The Best of Edmond Hamilton**
+*Introduction by Leigh Brackett*
+**The Best of Leigh Brackett**
+*Introduction by Edmond Hamilton*
+**The Best of Robert Bloch**
+*Introduction by Lester del Rey*
+**The Best of Murray Leinster**
+*Introduction by J. J. Pierce*
+**The Best of L. Sprague de Camp**
+*Introduction by Poul Anderson*
+**The Best of Jack Williamson**
+*Introduction by Frederik Pohl*
+**The Best of Raymond Z. Gallun**
+*Introduction by J. J. Pierce*
+**The Best of Lester del Rey**
+*Introduction by Frederik Pohl*
+**∗ The Best of Hal Clement**
+*Introduction by Lester del Rey*
+**∗ The Best of James Blish**
+*Introduction by Lester del Rey*
+
+.space.center
+***∗ COMING SOON FROM DEL REY BOOKS***
+
+---
+
+titlepage
+
+# THE BEST OF<br />*Eric Frank Russell*
+
+.editor
 Introduction by
-
 ALAN DEAN FOSTER
 
-3 :L REY
+.big_space.center
+![DEL REY](delrey.jpg)
 
+.space.center
 A Del Rey Book
 
+.center
 BALLANTINE BOOKS • NEW YORK
 
-A Del Rey Book Published by Ballantine Books
+---
+
+copyright
+
+A Del Rey Book
+Published by Ballantine Books
 
 Copyright © 1978 by Eric Frank Russell
 
-Introduction: The Symbiote of Uooton Copyright © 1978 by
-
-Alan Dean Foster
+Introduction: *The Symbiote of Uooton* Copyright © 1978 by Alan Dean Foster
 
 All rights reserved under International and Pan-American Copyright Conventions. Published in the United States by Ballantine Books, a division of Random House, Inc., New York, and simultaneously in Canada by Ballantine Books of Canada, Ltd., Toronto, Canada.
 
-Library of Congress Catalog Card Number: 78-61462 ISBN 0-345-27700-7
+Library of Congress Catalog Card Number: 78-61462
 
-Manufactured in the United States of America First Edition: October 1978 Cover art by H. R. Van Dongen
+ISBN 0-345-27700-7
 
-“Mana,” copyright 1937 by Street & Smith Publications, Inc., for Astounding Stories, December 1937.
+Manufactured in the United States of America
 
-“Jay Score,” copyright 1941 by Street & Smith Publications, Inc., for Astounding Science Fiction, May 1941.
+First Edition: October 1978
 
-“Homo Saps,” copyright 1941 by Street & Smith Publications, Inc., for Astounding Science Fiction, December 1941.
+Cover art by H. R. Van Dongen
 
-“Metamorphosite,” copyright 1946 by Street & Smith Publications, Inc., for Astounding Science Fiction, December 1946.
+---
 
-“Hobbyist,” copyright 1947 by Street & Smith Publications, Inc., for Astounding Science Fiction, September 1947.
+acknowledgments
 
-“Late Night Final,” copyright 1948 by Street & Smith Publications, Inc., for Astounding Science Fiction, December 1948—
+.center
+ACKNOWLEDGMENTS
 
-“Dear Devil,” copyright 1950 by Clark Publishing Company, for Other Worlds, May 1950.
+.space.revindent
+“Mana,” copyright 1937 by Street & Smith Publications, Inc., for *Astounding Stories*, December 1937.
 
-“Fast Falls the Eventide,” copyright 1952 by Street & Smith Publications, Inc., for Astounding Science Fiction, May 1952.
+.revindent
+“Jay Score,” copyright 1941 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, May 1941.
 
-“I Am Nothing,” copyright 1952 by Street & Smith Publications, Inc., for Astounding Science Fiction, July 1952.
+.revindent
+“Homo Saps,” copyright 1941 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, December 1941.
 
-“Weak Spot,” copyright 1954 by Street & Smith Publications, Inc., for Astounding Science Fiction, May 1954.
+.revindent
+“Metamorphosite,” copyright 1946 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, December 1946.
 
-“Allamagoosa,” copyright © 1955 by Street & Smith Publications, Inc., for Astounding Science Fiction, May 1955.
+.revindent
+“Hobbyist,” copyright 1947 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, September 1947.
 
-“Into Your Tent I’ll Creep,” copyright © 1957 by Street & Smith Publications, Inc., for Astounding Science Fiction, September 1957.
+.revindent
+“Late Night Final,” copyright 1948 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, December 1948.
 
-“Study in Still Life,” copyright © 1959 by Street & Smith Publications, Inc., for Astounding Science Fiction, January 1959.
+.revindent
+“Dear Devil,” copyright 1950 by Clark Publishing Company, for *Other Worlds*, May 1950.
 
+.revindent
+“Fast Falls the Eventide,” copyright 1952 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, May 1952.
 
+.revindent
+“I Am Nothing,” copyright 1952 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, July 1952.
 
-Contents
+.revindent
+“Weak Spot,” copyright 1954 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, May 1954.
 
-Alan Dean Foster	ix
+.revindent
+“Allamagoosa,” copyright © 1955 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, May 1955.
 
-Mana	1
+.revindent
+“Into Your Tent I’ll Creep,” copyright © 1957 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, September 1957.
 
-Jay Score	7
+.revindent
+“Study in Still Life,” copyright © 1959 by Street & Smith Publications, Inc., for *Astounding Science Fiction*, January 1959.
 
-Homo Saps	27
+---
 
-Metamorphosite	39
+contents
 
-Hobbyist	108
+# Contents
 
-Late Night Final	146
+[*Introduction: The Symbiote of Hooton*](introduction)
+*Alan Dean Foster*
 
-Dear Devil	186
+.space
+[Mana](mana)
 
-Fast Falls the Eventide	- 228
+[Jay Score](jay_score)
 
-I Am Nothing	249
+[Homo Saps](homo_saps)
 
-Weak Spot	272
+[Metamorphosite](metamorphosite)
 
-Allamagoosa	282
+[Hobbyist](hobbyist)
 
-Into Your Tent I’ll Creep	298
+[Late Night Final](late_night_final)
 
-Study in Still Life	308
+[Dear Devil](dear_devil)
 
-Introduction: The Symbiote of Hooton
+[Fast Falls the Eventide](fast_falls_the_eventide)
 
-The Symbiote of Hooton Alan Dean Foster
+[I Am Nothing](i_am_nothing)
 
-Once upon a time a brash young fan of science fiction named Foster, Alan D., was engaged in rapt conversation with a brash, legendary editor of science fiction named Campbell, John W. The year was 1968, and the setting was a restaurant table at the World Science-Fiction Convention in Oakland, California. Foster was twenty-two and had done little. Campbell was fifty-eight and had done much.
+[Weak Spot](weak_spot)
+
+[Allamagoosa](allamagoosa)
+
+[Into Your Tent I’ll Creep](into_your_tent_ill_creep)
+
+[Study in Still Life](study_in_still_life)
+
+---
+
+introduction
+
+# The Symbiote of Hooton Alan Dean Foster
+
+.fl
+<span class="smallcaps">Once upon a</span> time a brash young fan of science fiction named Foster, Alan D., was engaged in rapt conversation with a brash, legendary editor of science fiction named Campbell, John W. The year was 1968, and the setting was a restaurant table at the World Science-Fiction Convention in Oakland, California. Foster was twenty-two and had done little. Campbell was fifty-eight and had done much.
 
 Said Foster to Campbell after thirty minutes of impassioned rhetoric concerning the war in Vietnam, “You know, my all-time favorite science fiction writer is Eric Frank Russell.”
 
@@ -142,13 +286,11 @@ You are about to begin a collection of stories written by a man capable of worki
 
 Eric Frank Russell is still my favorite writer of science fiction. Why?
 
-He was the only one of the many miners of the imag-lx
-
-ination, of that peculiar dimension we label science fiction, who could make me both laugh and cry. He displayed more simple common sense in a short story than most writers did in a full novel. He possessed an empathy for mankind unmatched by any other sf writer I’ve known.
+He was the only one of the many miners of the imagination, of that peculiar dimension we label science fiction, who could make me both laugh and cry. He displayed more simple common sense in a short story than most writers did in a full novel. He possessed an empathy for mankind unmatched by any other sf writer I’ve known.
 
 He wrote stories about ecology before it existed as a pop term.
 
-He exhibited racial understanding in a time when it was unpopular. Consider a character named Sam Hig-nett, who says in “Jay Score” (1941): “I’m the ship’s doctor. I couldn’t have saved this man if Jay hadn’t brought him in when he did.” Hignett is the ship’s doc-tor/surgeon, who happens to be black. His position in the story is as far from that of domestic servant as his dialogue is from the typical 1940s black clown-talk.
+He exhibited racial understanding in a time when it was unpopular. Consider a character named Sam Hignett, who says in “Jay Score” (1941): “I’m the ship’s doctor. I couldn’t have saved this man if Jay hadn’t brought him in when he did.” Hignett is the ship’s doctor/surgeon, who happens to be black. His position in the story is as far from that of domestic servant as his dialogue is from the typical 1940s black clown-talk.
 
 Russell was bom in 1905 at Sandhurst, Surrey, England, where his father was an instructor at the military academy. Russell’s fiction is a reaction to rather than a reflection of a military family upbringing. A military family moves around a lot. Apparently the Russells were no exception, spending time in various countries at different bases.
 
@@ -162,7 +304,13 @@ That is not what we find, however.
 
 In Russell’s stories the science is minimal, the romanticism muted where present. We are confronted by a writer whose prime interests are psychology and sociology, not quantum mechanics. Adventure is the sometime vehicle used to explore the depths of human emotion instead of the physical cosmos. It was the universe within that most intrigued Russell.
 
-There are those who dispute Russell’s humanism. Their arguments are based primarily on a series of what I like to call humanity-iiber-alles tales, wherein a single man overwhelms an entire horde of befuddled aliens. But in stories like “Design for Great-day,” “Now Inhale,” “Brute Farce,” “Diabologic,” and the classic “Plus X,” he is showing not the superiority of mankind so much as the stultifying effects of bureaucracy and big government on his unlucky aliens. Demonstrating the efficacy of imagination and confidence when confronted by guns and red tape was Russell’s favorite ploy.
+There are those who dispute Russell’s humanism. Their arguments are based primarily on a series of what I like to call humanity-iiber-alles tales, wherein a single man overwhelms an entire horde of befuddled aliens. But in stories like “Design for Great-day,”
+
+“Now Inhale,”
+
+“Brute Farce,”
+
+“Diabologic,” and the classic “Plus X,” he is showing not the superiority of mankind so much as the stultifying effects of bureaucracy and big government on his unlucky aliens. Demonstrating the efficacy of imagination and confidence when confronted by guns and red tape was Russell’s favorite ploy.
 
 His heroes battle not with knives, bullets, or lasers but with humor and sarcasm. His doomsday weapon was pure satire, the logical ultimate weapon for a disenchanted scion of the military establishment. You’ll find no massed armadas of victorious space fleets in his stories, no worlds of dominant tower-cities or all-seeing computer minds. What you will come upon instead are people, some human, some not, coping with a universe awash in obfuscation and Big-brother governments. To combat these he utilizes not weapons of war but empathy, tolerance, patience, and compassion. Instead of a cudgel to the skull he strikes a feather to the ribs.
 
@@ -210,13 +358,18 @@ In one biographical sketch Russell is reported to have claimed as an ambition �
 
 He is gone now, this conjurer of sly laughter and profound hopes, of biting satire and naked emotion. I feel a regret at his death, but I doubt it will be momentary. I expect that after finishing this collection you may feel likewise . . .
 
-Alan Dean Foster Big Bear Lake, California March 1978
+Alan Dean Foster
+Big Bear Lake, California
+March 1978
 
+---
 
+mana
 
-Mana
+# Mana
 
-Lazy waters lapped and gurgled across the silver sands. An orange sun crawled high in the heavens, poured its rays through this atmosphere, and etched the higher portion of the beach with a delicate dado of shadow palms.
+.fl
+<span class="smallcaps">Lazy waters lapped</span> and gurgled across the silver sands. An orange sun crawled high in the heavens, poured its rays through this atmosphere, and etched the higher portion of the beach with a delicate dado of shadow palms.
 
 Omega, the last man on earth, stood naked in the coolness beneath a feathered frond.
 
@@ -228,11 +381,7 @@ His body remained young, would always be young. Thousands had died within the si
 
 Omega was the last, solely because he was not yet satisfied. There was one thing still to be done—if it could be done.
 
-He had lived through and tasted every experience
-
-l
-
-within reach of mankind. He had even exercised his monofecundity and produced a child. But his son refused further issue, lived fast, learned fast and soon was satisfied.
+He had lived through and tasted every experience within reach of mankind. He had even exercised his monofecundity and produced a child. But his son refused further issue, lived fast, learned fast and soon was satisfied.
 
 Thus the flesh of his flesh, with the companions of his past, had slipped away like figments of a summer’s dream. Men of the latter day knew the difference between what there was to learn and what it was possible to learn. Even human ingenuity could not encompass the entire cosmos. So each had quaffed his little cup and crept away to sleep. He, Omega, the unsatisfied one, lived on, determined to do that which had been declared impossible.
 
@@ -280,7 +429,7 @@ For fifteen minutes the last man sat half concealed beneath the metal sheath. Th
 
 He crossed to the case, stared through its glass top.
 
-“Mechanistic behaviorism may serve as a crutch— but never as a ladder,” he told the unheedful subjects of his experiment.
+“Mechanistic behaviorism may serve as a crutch—but never as a ladder,” he told the unheedful subjects of his experiment.
 
 A small heap of rotten wood lay in one comer of the case. In the center, between two highways swarming with pedestrians, stood a midget box mounted upon microscopic wheels. Near it rested a Lilliputian bow with a bundle of tiny arrows.
 
@@ -306,9 +455,14 @@ His nerves grew taut as he summoned his weakened will. He floated upward, faster
 
 Omega, the last man, had presented the ants with fire, the wheel and the bow. But, best of all, he had given them what both the first man and the last had called mana—intelligence.
 
-Jay Score
+---
 
-There are very good reasons for everything they do. To the uninitiated some of their little tricks and some of their regulations seem mighty peculiar—but rocketing through the cosmos isn’t quite like paddling a bathtub across a farm pond, no, sir!
+jay_score
+
+# Jay Score
+
+.fl
+<span class="smallcaps">There are very</span> good reasons for everything they do. To the uninitiated some of their little tricks and some of their regulations seem mighty peculiar—but rocketing through the cosmos isn’t quite like paddling a bathtub across a farm pond, no, sir!
 
 For instance, this stunt of using mixed crews is pretty sensible when you look into it. On the outward runs toward Mars, the Asteroids or beyond, they have white Terrestrials to tend the engines because they’re the ones who perfected modren propulsion units, know most about them and can nurse them like nobody else. All ships’ surgeons are black Terrestrials because for some reason none can explain no Negro gets gravity-bends or space nausea. Every outside repair gang is composed of Martians, who use very little air, are tiptop metal workers and fairly immune to cosmic-ray bum.
 
@@ -374,7 +528,7 @@ He said, “Get out. Seal this room. I’ll try make a snatch. Open up and let m
 
 With that he shoved us from the room, which we sealed by closing its autodoor. We couldn’t see what the big hunk was doing but the telltale showed he’d released and opened the door to the damaged section. Couple of seconds later the light went out, showing the door had been closed again. Then came a hard, urgent knock. We opened. Jay plunged through hell-for-leather with the engineer’s limp body cuddled in his huge arms. He bore it as if it were no bigger and heavier than a kitten and the way he took it down the passage threatened to carry him clear through the end of the ship.
 
-Meanwhile we found we were in a first-class mess. The rockets weren’t functioning any more. The venturi tubes were okay and the combustion chambers undamaged. The injectors worked without a hitch— providing that they were pumped by hand. We had lost none of our precious fuel and the shell was intact save for that one jagged hole. What made us useless was the wrecking of our coordinated feeding and firing controls. They had been located where the big bullet went through and now they were so much scrap.
+Meanwhile we found we were in a first-class mess. The rockets weren’t functioning any more. The venturi tubes were okay and the combustion chambers undamaged. The injectors worked without a hitch—providing that they were pumped by hand. We had lost none of our precious fuel and the shell was intact save for that one jagged hole. What made us useless was the wrecking of our coordinated feeding and firing controls. They had been located where the big bullet went through and now they were so much scrap.
 
 This was more than serious. General opinion called it certain death though nobody said so openly. I’m pretty certain that McNulty shared the morbid notion even if his official report did under-describe it as “an embarrassing predicament.” That is just like McNulty. It’s a wonder he didn’t define our feelings by recording that we were somewhat nonplussed.
 
@@ -496,7 +650,7 @@ Kli Yang stood up, simultaneously waggled four jointless arms for attention, and
 
 Ignoring that crack about human odor, McNulty nodded and said, “Everybody will be packed into the cold room and endure it as best they can.”
 
-“Exactly,” said Kli. “Quite,” he added with bland disregard of superfluity. Wiggling a tentacle-tip at McNulty, he carried on, “But we cannot control the ship while squatting in the icebox like three and a half dozen strawberry sundaes. There will have to be a pilot in the bow. One individual can hold her on course— until he gets fried. So somebody has to be the fryee.”
+“Exactly,” said Kli. “Quite,” he added with bland disregard of superfluity. Wiggling a tentacle-tip at McNulty, he carried on, “But we cannot control the ship while squatting in the icebox like three and a half dozen strawberry sundaes. There will have to be a pilot in the bow. One individual can hold her on course—until he gets fried. So somebody has to be the fryee.”
 
 He gave the tip another sinuous wiggle, being under the delusion that it was fascinating his listeners into complete attention. “And since it cannot be denied that
 
@@ -550,7 +704,9 @@ An intercom bell clanged right in my ear. Switching its mike, I croaked a throat
 
 “Who did it?”
 
-“Kli Yang,” I told him. “He’s still outside.” “Probably gone for their domes,” guessed Jay. “Tell him I said thanks.”
+“Kli Yang,” I told him. “He’s still outside.”
+
+“Probably gone for their domes,” guessed Jay. “Tell him I said thanks.”
 
 “What’s it like around where you live?” I asked.
 
@@ -648,9 +804,14 @@ But after ten minutes of this I saw J.20 begin to fidget with obvious embarrassm
 
 Don’t let anyone tell you that a robot can’t have feelings!
 
-Homo Saps
+---
 
-Majestically the long caravan emerged from the thick belt of blue-green Martian doltha weed and paraded into the Saloma Desert. Forty-four camels stalked along with the swaying gait and high-faluting expressions of their kind. All were loaded. Beneath the burdens their deliberate, unhurried feet dug deeply into the long waves of fine, pinkish sand.
+homo_saps
+
+# Homo Saps
+
+.fl
+<span class="smallcaps">Majestically the long</span> caravan emerged from the thick belt of blue-green Martian doltha weed and paraded into the Saloma Desert. Forty-four camels stalked along with the swaying gait and high-faluting expressions of their kind. All were loaded. Beneath the burdens their deliberate, unhurried feet dug deeply into the long waves of fine, pinkish sand.
 
 The forty-fifth animal, which was in the lead, was not a camel. It was daintier, more shapely, had a beige-colored coat and only one hump. A racing dromedary. But its expression was fully as supercilious as that worn by the others.
 
@@ -874,9 +1035,14 @@ The missing animal was waiting for them beside the trail one hour out from Jenki
 
 After a while Sugden’s dromedary turned its neck and made a horrible face at Mitchell, riding right behind. He still said nothing. Deliberately, the caravan swayed on.
 
-Metamorphosite
+---
 
-They let him pause halfway along the gangway so that his eyes could absorb the imposing scene. He stood in the middle of the high metal track, his left hand firmly grasping a side rail, and gazed into the four-hundred-foot chasm beneath. Then he studied the immense space vessels lying in adjacent berths, his stare tracing their gangways to their respective elevator towers behind, which stood a great cluster of buildings whence the spaceport control column soared to the clouds. The height at which he stood, and the enormous dimensions of his surroundings, made him a little, doll-like figure, a man dwarfed by the mightiest works of man.
+metamorphosite
+
+# Metamorphosite
+
+.fl
+<span class="smallcaps">They let him</span> pause halfway along the gangway so that his eyes could absorb the imposing scene. He stood in the middle of the high metal track, his left hand firmly grasping a side rail, and gazed into the four-hundred-foot chasm beneath. Then he studied the immense space vessels lying in adjacent berths, his stare tracing their gangways to their respective elevator towers behind, which stood a great cluster of buildings whence the spaceport control column soared to the clouds. The height at which he stood, and the enormous dimensions of his surroundings, made him a little, doll-like figure, a man dwarfed by the mightiest works of man.
 
 Watching him closely, his guards noted thaft he did not seem especially impressed. His eyes appeared to discard sheer dimensions while they sought the true meaning behind it all. His face was quite impassive as he looked around, but all his glances were swift, intelligent and assured. He comprehended things with that quick confidence which denotes an agile mind. One feature was prominent in the mystery enveloping him; it was evident that he was no dope.
 
@@ -1080,7 +1246,9 @@ Helman hesitated, then said, “As a matter of fact, someone did. I’ll tell yo
 
 “It looks like it seeing that you’ve got two ships stuck there.”
 
-“Ah, then you admit that they’re forcibly detained?” “I admit nothing. For all I know, your crews may be sitting there congratulating themselves on getting away from the Empire—while my people are taking steps to throw them out.”
+“Ah, then you admit that they’re forcibly detained?”
+
+“I admit nothing. For all I know, your crews may be sitting there congratulating themselves on getting away from the Empire—while my people are taking steps to throw them out.”
 
 Helman’s lean face went a shade darker. His long, slender hands clenched and unclenched while his disciplined mind exerted itself to suppress the retort which his emotion strove to voice.
 
@@ -1466,7 +1634,9 @@ The three were mildly surprised by this phlegmatic attitude.
 
 “Terror means greatness, superior wisdom, intellect of godlike quality,” explained Tor.
 
-“Oh, does it? My mistake! We use the samesounding word on my planet, and there it means fear.” Suddenly a strange expression came into his face. He ejaculated, “Burkinshaw! Burkinshaw! Ye gods!” “What’s the matter?” Melor inquired.
+“Oh, does it? My mistake! We use the samesounding word on my planet, and there it means fear.” Suddenly a strange expression came into his face. He ejaculated, “Burkinshaw! Burkinshaw! Ye gods!”
+
+“What’s the matter?” Melor inquired.
 
 “Nothing much. It’s only that evidence is piling up on top of a theory. It should help. Yes, it ought to help a lot.” Getting up, he paced the room restlessly. “Is there an underground independence movement on Linga?” he asked.
 
@@ -1480,7 +1650,9 @@ Tor grinned with relish, and said, “I’d not be far from the truth if I guess
 
 Melor looked puzzled.
 
-“There’s an ancient saying,” Harold continued, “to the effect that the bigger they come the harder they fall. The more ponderous and top-heavy a structure the riper it is for toppling.” He rubbed his chin, studied his listeners with a peculiarly elfish gaze. “So the problem is whether we can shove hard enough to make it teeter.” “Never!” exclaimed Tor. “Nor a thousand either. It’s been tried times without number. The triers got buried—whenever there was enough to bury.”
+“There’s an ancient saying,” Harold continued, “to the effect that the bigger they come the harder they fall. The more ponderous and top-heavy a structure the riper it is for toppling.” He rubbed his chin, studied his listeners with a peculiarly elfish gaze. “So the problem is whether we can shove hard enough to make it teeter.”
+
+“Never!” exclaimed Tor. “Nor a thousand either. It’s been tried times without number. The triers got buried—whenever there was enough to bury.”
 
 “Which means that they tried in the wrong way, and/or at the wrong time. It’s up to us to push in the right way at the right time.”
 
@@ -1514,7 +1686,9 @@ two, three, four or more of his opponent’s moves. A chessmaster is a seer.”
 
 “Heavens, do they play chess here, too?”
 
-“Chess is popular all over the Empire. What of it?” “Never mind,” said Harold. “We’ll stick the fact on top of the pile. Go on.”
+“Chess is popular all over the Empire. What of it?”
+
+“Never mind,” said Harold. “We’ll stick the fact on top of the pile. Go on.”
 
 “A recorder,” explained Tor, “is someone with a photographic memory. He doesn’t write anything down. He remembers it all, accurately, in full detail.”
 
@@ -1522,7 +1696,7 @@ two, three, four or more of his opponent’s moves. A chessmaster is a seer.”
 
 “We Lingans can’t do it. In fact, we know of only four life forms that can.” Respect crept into Tor’s snake-skinned face. “And do you really have telekinetic power as well?”
 
-“No. It’s a false conclusion to which they’ve jumped. They appear to think I’m a poltergeist or something— goodness only knows why.” He mused a moment. “Maybe it’s because of that analysis in stage three. I can control my heartbeats, my blood pressure, my thoughts, and I made their analytical apparatus go haywire. They can get out of it nothing but contradictory nonsense. Evidently they suspect that I sabotaged its innards by some form of remote control.”
+“No. It’s a false conclusion to which they’ve jumped. They appear to think I’m a poltergeist or something—goodness only knows why.” He mused a moment. “Maybe it’s because of that analysis in stage three. I can control my heartbeats, my blood pressure, my thoughts, and I made their analytical apparatus go haywire. They can get out of it nothing but contradictory nonsense. Evidently they suspect that I sabotaged its innards by some form of remote control.”
 
 “Oh!” Tor was openly disappointed.
 
@@ -1540,7 +1714,9 @@ The three Lingans were apprehensive, and Melor ventured, “You can see their mo
 
 “It’s what they expect me to do. In fact, it’s what they’re trying to make me do.”
 
-“Even so,” persisted Melor, “what’s to stop you?” “The routine. A master race always has a routine. It’s drilled into them; it’s part of their education. Having been warned that a badly wanted specimen is on the loose and about to bolt, they will take the officially prescribed precautions.” He grinned at them reassuringly, but they didn’t derive much comfort from it. “I can only guess what that routine will be, but I reckon it’ll include some method of advertising my presence in a native’s apartment even though its occupant is helpless. Scanners coupled to the Police Emergency system and switched in by the opening of a door, or something like that. When I take risks, I pick my own. It’s asking for trouble to let the opposition pick ’em for you.”
+“Even so,” persisted Melor, “what’s to stop you?”
+
+“The routine. A master race always has a routine. It’s drilled into them; it’s part of their education. Having been warned that a badly wanted specimen is on the loose and about to bolt, they will take the officially prescribed precautions.” He grinned at them reassuringly, but they didn’t derive much comfort from it. “I can only guess what that routine will be, but I reckon it’ll include some method of advertising my presence in a native’s apartment even though its occupant is helpless. Scanners coupled to the Police Emergency system and switched in by the opening of a door, or something like that. When I take risks, I pick my own. It’s asking for trouble to let the opposition pick ’em for you.”
 
 “Maybe you’re right,” agreed Melor. “We do know that local people have certain facilities denied to outsiders.”
 
@@ -1582,7 +1758,9 @@ The latter, a shrewd individual, looked the list over, said sharply, “This stu
 
 Harold showed him the card.
 
-“Ah!” mouthed the salesman, his manner changing, “the police!” His laugh was apologetic and forced. “Well, you didn’t catch me disregarding regulations!” “I’m not trying to catch you. I’ve come to get some necessary equipment. Pack it up and let me have it. I’m on urgent business and in a hurry.”
+“Ah!” mouthed the salesman, his manner changing, “the police!” His laugh was apologetic and forced. “Well, you didn’t catch me disregarding regulations!”
+
+“I’m not trying to catch you. I’ve come to get some necessary equipment. Pack it up and let me have it. I’m on urgent business and in a hurry.”
 
 “Certainly, certainly.” Bustling to and fro, anxious to placate, the salesman collected the equipment, packaged it. Then he made careful note of the name and number on Harold’s identity card. “We charge this to the Police Department, as usual?”
 
@@ -1650,7 +1828,7 @@ When Melor appeared, Harold said to him, “I believe this is your free day. Hav
 
 “In what way?”
 
-“You’re going to be mighty useful if I come up against someone who can control his thoughts or shield them entirely. Hatred or animosity aren’t thoughts— they’re emotions of which antagonistic thoughts are bom. You Lingans respond to such emotions. You can go on reading the heart long after the mind is closed to me.”
+“You’re going to be mighty useful if I come up against someone who can control his thoughts or shield them entirely. Hatred or animosity aren’t thoughts—they’re emotions of which antagonistic thoughts are bom. You Lingans respond to such emotions. You can go on reading the heart long after the mind is closed to me.”
 
 “I get the point but not the purpose,” confessed Melor.
 
@@ -1924,7 +2102,9 @@ The Council looked small. Its strength a mere eight, all but two of them human. 
 
 Between this table and the staring captives hung a barrier of wire. Harold, Burt and George could see that it was loaded, and their perceptions examined it gingerly. They diagnosed its purpose simultaneously; it bore an alternating current imposed upon a pulsing potential. Two hundred cycles per second, with a minimum pressure of four thousand volts rising to peak points of seven thousand every tenth cycle.
 
-“Hypnocast jammer!” reported Burt. He was puzzled. “But that doesn’t blank neural sprays. They’re different bands. Can you hear what they’re thinking?” “Not a thing,” answered Harold. “Neither could I get your thoughts while you were speaking.”
+“Hypnocast jammer!” reported Burt. He was puzzled. “But that doesn’t blank neural sprays. They’re different bands. Can you hear what they’re thinking?”
+
+“Not a thing,” answered Harold. “Neither could I get your thoughts while you were speaking.”
 
 “I’ve lost contact, too,” put in George. “Something which isn’t that screen is droning out a bass beat note that makes a mess of the telepathic band.”
 
@@ -2086,11 +2266,13 @@ Now they were all staring at him fascinatedly. Even Dykstra was silent, his mind
 
 The Council was silent a long time, and eventually the Floran said, “All this is very touching—but how touching will it be when they take over our Empire?” To which its mind added, “And we Florans swap one master for another. I am against it. Better the devil you know than the devil you don’t.”
 
-Resting his thin arms on the table, Burkinshaw Three blinked apologetically at the Terrans and spoke smoothly. “If they knew what we know, the Empire’s sentimentalists might be against your destruction. However, the fabric of our cosmic edifice cannot be sustained by anything so soft as sentiment. Moreover, the prodigal sons have no intention of presenting this fatted calf to their long-lost fathers. Your removal from the scheme of things appears to me as necessary as ever— perhaps even more necessary—and that it will be patricide makes no difference to the fact.” His thin, ascetic face held an ingratiating wish to please. “I feel sure that you understand our position. Have you anything more to say?”
+Resting his thin arms on the table, Burkinshaw Three blinked apologetically at the Terrans and spoke smoothly. “If they knew what we know, the Empire’s sentimentalists might be against your destruction. However, the fabric of our cosmic edifice cannot be sustained by anything so soft as sentiment. Moreover, the prodigal sons have no intention of presenting this fatted calf to their long-lost fathers. Your removal from the scheme of things appears to me as necessary as ever—perhaps even more necessary—and that it will be patricide makes no difference to the fact.” His thin, ascetic face held an ingratiating wish to please. “I feel sure that you understand our position. Have you anything more to say?”
 
 “No luck,” whispered Melor. “The hatred has gone—to be replaced by fear.”
 
-Harold grimaced, said to the Supreme Lord, “Yes, Td like to say that you can blast Terra out of existence, and its system along with it, but it’ll do you no good.” “We are not under the delusion that it will do us any good,” declared Burkinshaw. “Nor would we sanction so drastic an act for such a purpose.” He removed his pince-nez, screwed up his eyes as he looked at his listeners. “The motive is more reasonable and more urgent—it is to prevent harm.”
+Harold grimaced, said to the Supreme Lord, “Yes, Td like to say that you can blast Terra out of existence, and its system along with it, but it’ll do you no good.”
+
+“We are not under the delusion that it will do us any good,” declared Burkinshaw. “Nor would we sanction so drastic an act for such a purpose.” He removed his pince-nez, screwed up his eyes as he looked at his listeners. “The motive is more reasonable and more urgent—it is to prevent harm.”
 
 “It won’t do that, either.”
 
@@ -2098,7 +2280,9 @@ Harold grimaced, said to the Supreme Lord, “Yes, Td like to say that you can b
 
 “Because you’re too late.”
 
-“I feared you’d say that.” Burkinshaw leaned back in his seat, tapped his glasses on a thumbnail. “If he can’t satisfy me that his claim is well based, I shall advance the hour!” Then he said, “You’ll have to prove that.” “There’s trouble on four out of the five other planets in this system. You’ve just had news of it. Nothing serious, merely some absenteeism, sabotage, demonstrations, but no violence. It’s trouble all the same—and it could be worse.”
+“I feared you’d say that.” Burkinshaw leaned back in his seat, tapped his glasses on a thumbnail. “If he can’t satisfy me that his claim is well based, I shall advance the hour!” Then he said, “You’ll have to prove that.”
+
+“There’s trouble on four out of the five other planets in this system. You’ve just had news of it. Nothing serious, merely some absenteeism, sabotage, demonstrations, but no violence. It’s trouble all the same—and it could be worse.”
 
 “There’s always trouble on one planet or another,” put Helman sourly. “When you’re nursing four thousand of them, you get used to unrest.”
 
@@ -2204,9 +2388,14 @@ Only the Floran came upright. It arose to full height, its golden petals complet
 
 All flowers love the sun.
 
-Hobbyist
+---
 
-The ship arced out of a golden sky and landed with a whoop and a wallop that cut down a mile of lush vegetation. Another half mile of growths turned black and drooped to ashes under the final flicker of the tail rocket blasts. That arrival was spectacular, full of verve, and worthy of four columns in any man’s paper. But the nearest sheet was distant by a goodly slice of a lifetime, and there was none to record what this far comer of the cosmos regarded as the pettiest of events. So the ship squatted tired and still at the foremost end of the ashy blast-track and the sky glowed down and the green world brooded solemnly all around.
+hobbyist
+
+# Hobbyist
+
+.fl
+<span class="smallcaps">The ship arced</span> out of a golden sky and landed with a whoop and a wallop that cut down a mile of lush vegetation. Another half mile of growths turned black and drooped to ashes under the final flicker of the tail rocket blasts. That arrival was spectacular, full of verve, and worthy of four columns in any man’s paper. But the nearest sheet was distant by a goodly slice of a lifetime, and there was none to record what this far comer of the cosmos regarded as the pettiest of events. So the ship squatted tired and still at the foremost end of the ashy blast-track and the sky glowed down and the green world brooded solemnly all around.
 
 Within the transpex control dome, Steve Ander sat and thought things over. It was his habit to think things over carefully. Astronauts were not the impulsive daredevils so dear to the stereopticon-loving public. They couldn’t afford to be. The hazards of the profession required an infinite capacity for cautious, contemplative thought. Five minutes’ consideration had prevented many a collapsed lung, many a leaky heart, many a fractured frame. Steve valued his skeleton. He wasn’t conceited about it and he’d no reason to believe it in any way superior to anyone else’s skeleton. But he’d had it a long time, found it quite satisfactory, and had an intense desire to keep it—intact.
 
@@ -2400,7 +2589,7 @@ The bird sampled the tree’s fruit, a crop resembling blue-shelled lychee nuts.
 
 Nearby stood another tree, not quite the same, but very similar. It bore nuts like the first except that they were larger. Picking one, he offered it to Laura, who tried it, spat it out in disgust. Picking a second, he slit it, licked the flesh gingerly. As far as he could tell, it was the same. Evidently he couldn’t tell far enough: Laura’s diagnosis said it was not the same. The difference, too subtle for him to detect, might be sufficient to roll him up like a hoop and keep him that shape to the unpleasant end. He flung the thing away, went back to his seat in the lock, and ruminated.
 
-That elusive, nagging feature of Oro’s plants and bugs could be narrowed down to these two nuts. He felt sure of that. If he could discover why—parrotwise— one nut was a nut while the other nut was not, he’d have his finger right on the secret. The more he thought about those similar fruits the more he felt that, in sober fact, his finger was on the secret already—but he lacked the power to lift it and see what lay beneath.
+That elusive, nagging feature of Oro’s plants and bugs could be narrowed down to these two nuts. He felt sure of that. If he could discover why—parrotwise—one nut was a nut while the other nut was not, he’d have his finger right on the secret. The more he thought about those similar fruits the more he felt that, in sober fact, his finger was on the secret already—but he lacked the power to lift it and see what lay beneath.
 
 Tantalizingly, his mulling over the subject landed him
 
@@ -2474,7 +2663,7 @@ The crystal growths gave out on the crest, again in a perfectly straight line. B
 
 From the closed end of the valley jutted a great, glistening fabrication, flat-roofed, flat-fronted, with a huge, square hole gaping in its mid-section at front. It looked like a tremendous oblong slab of polished, milk-white plastic half-buried endwise in a sandy hill. No decoration disturbed its smooth, gleaming surface. No road led to the hole in front. Somehow, it had the new-old air of
 
-a house that struggles to look empty because it is full— of fiends.
+a house that struggles to look empty because it is full—of fiends.
 
 Steve’s back hairs prickled as he studied it. One thing was obvious—Oro bore intelligent life. One thing was possible—the golden column represented that life. One thing was probable—fleshly Terrestrials and hazy Orons would have difficulty in finding a basis for friendship and cooperation.
 
@@ -2560,7 +2749,7 @@ It was the same on the left. Crystals by the thousands. Looking more closely at 
 
 “The Oron Museum of Natural History,” he guessed, in a whisper.
 
-“You’re a liar,” squawked Laura violently. “I tell you it’s a hoodoo—” She stopped, dumfounded, as her own voice roared through the building in deep, organlike tones, “A hoodoo— A hoodoo—”
+“You’re a liar,” squawked Laura violently. “I tell you it’s a hoodoo—” She stopped, dumfounded, as her own voice roared through the building in deep, organlike tones, “A hoodoo—A hoodoo—”
 
 “Holy smoke, will you keep quiet!” hissed Steve. He tried to keep watch on the exit and the interior simultaneously. But the voice rumbled away in the distance without bringing anyone to dispute their invasion.
 
@@ -2712,15 +2901,20 @@ Something nearer to the gods had scribbled its notes.
 
 bWhing lower in the scale of life could have translated them or deduced their full purport.
 
-In simplest sense, one plate mav have been inscribed, “Bined, erect, pink, homo intelligens type P.739, planted on Sol III, Condensation Arm BDB— moderatelv successful.”
+In simplest sense, one plate mav have been inscribed, “Bined, erect, pink, homo intelligens type P.739, planted on Sol III, Condensation Arm BDB—moderatelv successful.”
 
 Similarly, the other plate may have recorded, “Flapwing, large, hook-beaked, vari-colored, periquito macao type K.8, planted on Sol III, Condensation Arm BDB—moderately successful.”
 
 But already the sparkling hohbvist had forgotten his passing notes. He was breathing his essence upon a jeweled moth.
 
-Late Night Final
+---
 
-Commander Cruin went down the extending metal ladder, paused a rung from the bottom, placed one important foot on the new territory, and then the other. That made him the first of his kind on an unknown world.
+late_night_final
+
+# Late Night Final
+
+.fl
+<span class="smallcaps">Commander Cruin went</span> down the extending metal ladder, paused a rung from the bottom, placed one important foot on the new territory, and then the other. That made him the first of his kind on an unknown world.
 
 He posed there in the sunlight, a big bull of a man meticulously attired for the occasion. Not a spot marred his faultlessly cut uniform of gray-green on which jeweled orders of merit sparkled and flashed. His jackboots glistened as they had never done since the day of launching from the home planet. The golden bells of his rank tinkled on his heelhooks as he shifted his feet slightly. In the deep shadow beneath the visor of his ornate helmet his hard eyes held a glow of selfsatisfaction.
 
@@ -3020,7 +3214,9 @@ She was laughing at him with her clear green eyes. “Remember me—Marva Meredi
 
 “Of course.” Perching herself on his rock, she drew , up her slender legs, rested her chin on her knees. He noticed that the legs, like her face, were freckled. “Of course. Everyone has a welcome room, haven’t they?” Cruin said nothing.
 
-“Haven’t you a welcome room in your home?” “Home?” His eyes strayed away from hers, sought the fluting bird. It wasn’t there. Somehow, his hand had left his holster without realizing it. He was holding his hands together, each nursing the other, clinging, finding company, soothing each other.
+“Haven’t you a welcome room in your home?”
+
+“Home?” His eyes strayed away from hers, sought the fluting bird. It wasn’t there. Somehow, his hand had left his holster without realizing it. He was holding his hands together, each nursing the other, clinging, finding company, soothing each other.
 
 Her gaze was on his hands as she said, softly and hesitantly, “You have got a home . . . somewhere . . . haven’t you?”
 
@@ -3104,7 +3300,9 @@ Dismissing them, he glanced at Jusik. “When tutors Fane and Parth report here,
 
 Cruin dropped the glance momentarily, brought it back. “What’s the matter with you?”
 
-“Me?” Jusik became self-conscious. “Nothing, sir.” “You lie! One has to live with a person to know him. I’ve lived on your neck for three years. I know you too well to be deceived. You have something on your mind.”
+“Me?” Jusik became self-conscious. “Nothing, sir.”
+
+“You lie! One has to live with a person to know him. I’ve lived on your neck for three years. I know you too well to be deceived. You have something on your mind.”
 
 “It’s the men,” admitted Jusik, resignedly.
 
@@ -3392,7 +3590,9 @@ Without once looking back, he gained his flagship, mounted its metal ladder, mad
 
 Jusik was gone for most of a period. In the end he returned, set-faced, grave.
 
-“I regret to report that eighteen men are absent, sir.” “They laughed,” said Cruin, bitterly. “They laughed—because they knew!” His knuckles were white as his hands gripped the arms of his chair.
+“I regret to report that eighteen men are absent, sir.”
+
+“They laughed,” said Cruin, bitterly. “They laughed—because they knew!” His knuckles were white as his hands gripped the arms of his chair.
 
 “I beg your pardon, sir?” Jusik’s eyebrows lifted. “How long have they been absent?”
 
@@ -3412,13 +3612,17 @@ The other fidgeted again, looked pained.
 
 “Out with it, man!”
 
-“It is not the absentees’ first offense,” Jusik said with difficulty. “Nor their second. Perhaps not their sixth.” “How long has this been going on?” Cruin waited a while, then bawled: “Come on! You are capable of speech!”
+“It is not the absentees’ first offense,” Jusik said with difficulty. “Nor their second. Perhaps not their sixth.”
+
+“How long has this been going on?” Cruin waited a while, then bawled: “Come on! You are capable of speech!”
 
 “About ten days, sir.”
 
 “How many captains were aware of this and failed to report it?”
 
-“Nine, sir. Four of them await your bidding outside.” “And what of the other five?”
+“Nine, sir. Four of them await your bidding outside.”
+
+“And what of the other five?”
 
 “They . . . they—” Jusik licked his lips.
 
@@ -3444,7 +3648,9 @@ Cruin arose, his expression dangerous. “You cannot conceal the truth by delayi
 
 “I expect obedience!” Cruin’s hand remained on the gun. “I expect iron discipline and immediate, willing, unquestionable obedience. With those, we conquer. Without them, we fail.” He gestured to the door. “Are those captains properly prepared for examination as directed in the manuals?”
 
-“Yes, sir. They are disarmed and under guard.” “Parade them in.” Leaning on the edge of his desk, Cruin prepared to pass judgment on his fellows. The minute he waited for them was long, long as any minute he had ever known.
+“Yes, sir. They are disarmed and under guard.”
+
+“Parade them in.” Leaning on the edge of his desk, Cruin prepared to pass judgment on his fellows. The minute he waited for them was long, long as any minute he had ever known.
 
 There had been scent in her hair. And her eyes were cool and green. If on discipline must be maintained. The price of power.
 
@@ -3510,7 +3716,7 @@ Cruin patted his shoulder. “The answer, Jusik, is an easy one—we take off im
 
 “I doubt whether they’ll obey orders for departure, sir.”
 
-“We’ll see, we’ll see.” He smiled again, hard and craggy. “As you would know if you’d studied the manuals properly, it is not difficult to smash incipient mutiny. All one has to do is remove the ringleaders. No mob is composed of men, as such. It is made up of a few ringleaders and a horde of stupid followers.” He patted his guns. “You can always tell a ringleader— invariably he is the first to open his mouth!”
+“We’ll see, we’ll see.” He smiled again, hard and craggy. “As you would know if you’d studied the manuals properly, it is not difficult to smash incipient mutiny. All one has to do is remove the ringleaders. No mob is composed of men, as such. It is made up of a few ringleaders and a horde of stupid followers.” He patted his guns. “You can always tell a ringleader—invariably he is the first to open his mouth!”
 
 “Yes, sir,” mouthed Jusik, with misgivings.
 
@@ -3616,7 +3822,9 @@ Taking another chair, Meredith applied a light to his pipe. “Have you seen the
 
 “Yes, it arrived early yesterday. I was lucky enough to view it as it passed overhead.”
 
-“You certainly were lucky, considering that it comes only once in four years. I’ve seen it only twice, myself. It came right over this house. An imposing sight.” “Very!” endorsed the visitor, with unusual emphasis. “It looked to me about five miles long, a tremendous creation. Its mass must be many times greater than that of all those alien ships in the valley.”
+“You certainly were lucky, considering that it comes only once in four years. I’ve seen it only twice, myself. It came right over this house. An imposing sight.”
+
+“Very!” endorsed the visitor, with unusual emphasis. “It looked to me about five miles long, a tremendous creation. Its mass must be many times greater than that of all those alien ships in the valley.”
 
 “Many times,” agreed Meredith.
 
@@ -3626,7 +3834,7 @@ _ “I doubt whether they cared very much, seeing that they burned their boats a
 
 “I’m sure they are.”
 
-They were quiet a long time, then Meredith snoke absently, as if thinking aloud. “They brought with them weapons of considerable might, not knowing that we have a weanon truly invincible.” Waving one hanH he indicated the world at large. “It took us thousands of years to learn about the sheer invincibility of an idea. That’s what we’ve got—a wav of life, an idea. Nothing can blast that to shreds. Nothing can defeat an idea— except a better one.” He put the pipe back in his mouth. “So far, we have failed to find a better one.
+They were quiet a long time, then Meredith snoke absently, as if thinking aloud. “They brought with them weapons of considerable might, not knowing that we have a weanon truly invincible.” Waving one hanH he indicated the world at large. “It took us thousands of years to learn about the sheer invincibility of an idea. That’s what we’ve got—a wav of life, an idea. Nothing can blast that to shreds. Nothing can defeat an idea—except a better one.” He put the pipe back in his mouth. “So far, we have failed to find a better one.
 
 “They came at the wrong time,” Meredith went on. “Ten thousand years too late.” He glanced sideways at his listener. “Our history covers a long, long day. It was so lurid that it came out in a new edition every minute. But this one’s the late night final.”
 
@@ -3636,7 +3844,7 @@ Meredith smiled. “I often sit here to enjoy my silences. I sit here and think.
 
 “What may that be?”
 
-“That if I, personally, were in complete possession of all the visible stars and their multitude of planets I would still be subject to one fundamental limitation”— bending, he tapped his pipe on his heel—“in this respect—that no man can eat more than his belly can hold.” He stood up, tall, wide-chested. “Here comes my daughter, Marva. Would you like her to show you your room?”
+“That if I, personally, were in complete possession of all the visible stars and their multitude of planets I would still be subject to one fundamental limitation”—bending, he tapped his pipe on his heel—“in this respect—that no man can eat more than his belly can hold.” He stood up, tall, wide-chested. “Here comes my daughter, Marva. Would you like her to show you your room?”
 
 Standing inside the welcome room, the visitor surveyed it appreciatively. The comfortable bed, the bright furnishings.
 
@@ -3660,9 +3868,14 @@ As he waited for them within the welcome room, his shoulders squared, body erect
 
 The hour of triumph.
 
-Dear Devil
+---
 
-The first Martian vessel descended upon Earth with the slow, stately fall of a landing balloon. It did resemble a large balloon in that it was spherical and had a strange buoyancy out of keeping with its metallic construction. Beyond this superficial appearance all similarity to anything Terrestrial ceased.
+dear_devil
+
+# Dear Devil
+
+.fl
+<span class="smallcaps">The first Martian</span> vessel descended upon Earth with the slow, stately fall of a landing balloon. It did resemble a large balloon in that it was spherical and had a strange buoyancy out of keeping with its metallic construction. Beyond this superficial appearance all similarity to anything Terrestrial ceased.
 
 There were no rockets, no flaming venturis, no external projections other than several solaradiant distorting grids that served to boost the ship in any desired direction through the cosmic field. There were no observation-ports. All viewing was done through a transparent plastic band running right around the fat belly of the sphere. The bluish, nightmarish crew were assembled behind that band and surveying the new world with great, multifaceted eyes.
 
@@ -3676,7 +3889,9 @@ Captain Skhiva eyed his crew, spoke to them with his sign-talking tentacle. The 
 
 “It is obvious that we are out of luck. We could have done no worse had we landed on the empty satellite. However, our instruments show that it is safe to go forth. Anyone who wishes to explore a little while may do so.”
 
-One of them gesticulated back at him. “Captain, don’t you wish to be the first to step upon this world?” “It is of no consequence. If anyone deems it an honor he is welcome to it.” He pulled the lever opening both air-lock doors. Pressure went up a little as thicker, heavier air crowded in. “Beware of over-exertion,” he warned as they went out.
+One of them gesticulated back at him. “Captain, don’t you wish to be the first to step upon this world?”
+
+“It is of no consequence. If anyone deems it an honor he is welcome to it.” He pulled the lever opening both air-lock doors. Pressure went up a little as thicker, heavier air crowded in. “Beware of over-exertion,” he warned as they went out.
 
 Poet Fander touched him, tentacles tip to tip as he sent his thoughts racing through their nerve-ends. “Captain, this confirms all that we’d suspected during our approach. A stricken planet far gone in its death throes. What do you suppose caused it?”
 
@@ -3692,7 +3907,9 @@ completely stalled until we can make the big jump outward.”
 
 “I doubt it,” agreed Captain Skhiva. “We might move fast and effectively with the help of friends. Alone, we shall be slow, perhaps too slow.” He turned to watch his crew writhing in various directions across the grim landscape. “They find it good to be on firm ground. But what is a world without life and beauty? In a short time they will grow tired of it.”
 
-Fander said thoughtfully, “Nevertheless I would like to see more of this place. May I take out the lifeboat?” “You are a songbird, not a pilot,” reproved Skhiva. “Your function is to maintain morale by entertaining us, not to roam around in a lifeboat.”
+Fander said thoughtfully, “Nevertheless I would like to see more of this place. May I take out the lifeboat?”
+
+“You are a songbird, not a pilot,” reproved Skhiva. “Your function is to maintain morale by entertaining us, not to roam around in a lifeboat.”
 
 “But I know how to use it. Every one of us was trained to handle it. Let me take it that I may see more.”
 
@@ -3700,7 +3917,9 @@ Fander said thoughtfully, “Nevertheless I would like to see more of this place
 
 “There is music even in death,” said Fander.
 
-“Even so, it remains repulsive.” Skhiva gave a little shiver. “All right. Take the lifeboat. Who am I to question the weird workings of a non-technical mind?” “Thank you, Captain.”
+“Even so, it remains repulsive.” Skhiva gave a little shiver. “All right. Take the lifeboat. Who am I to question the weird workings of a non-technical mind?”
+
+“Thank you, Captain.”
 
 “It is nothing. See that you are back by dusk.” With that he broke contact, went into the nearest lock, curled himself snakishly upon its outer rim and brooded, still without bothering to touch the new world. So much attempted, so much done—for so poor a reward.
 
@@ -3780,7 +3999,9 @@ Skhiva said fervently, “The twin moons preserve us!”
 
 “Most certainly.”
 
-“I felt sure you would. You are a technician. You have registered it in vour mind for all time as a master of technical utility.” He paused, eyeing his listener thoughtfully. “I know that formula, too. It was mentioned to me, casually, many years ago. It is not of the slightest use to me—yet I have never forgotten it.” “Why?”
+“I felt sure you would. You are a technician. You have registered it in vour mind for all time as a master of technical utility.” He paused, eyeing his listener thoughtfully. “I know that formula, too. It was mentioned to me, casually, many years ago. It is not of the slightest use to me—yet I have never forgotten it.”
+
+“Why?”
 
 Skhiva sighed and said, “I don’t see it.”
 
@@ -3792,7 +4013,9 @@ After a while, Skhiva remarked, “It could be sung. One could dance to it.”
 
 “Because it holds the beauty of rhythm. It is a poem.”
 
-“You win.” Skhiva made a gesture of defeat. “We shall leave you to your self-chosen fate in the morning.” “Thank you, Captain.”
+“You win.” Skhiva made a gesture of defeat. “We shall leave you to your self-chosen fate in the morning.”
+
+“Thank you, Captain.”
 
 That same streak of stubbornness which made Skhiva a worthv commander induced him to take one final crack at Fander shortly before departure. Summoning him to his cabin, he studied the poet calculatingly.
 
@@ -3948,7 +4171,7 @@ They got out the load-sled in the morning. Fander took the front seat and the co
 
 “Good to eat,” advised Speedy, touching him and speaking through the touch.
 
-A horrible sickness raced through Fander’s insides. Meat-eaters! It was not until a queer feeling of shame and apology came back at him that he knew the other had detected his revulsion. He wished he’d been swift to blanket that reaction before the boy could sense it but he could not be blamed for the effect of so bald a statement taking him so completely unaware. However, it had created another step in their mutual relationship— Speedy desired his good opinion.
+A horrible sickness raced through Fander’s insides. Meat-eaters! It was not until a queer feeling of shame and apology came back at him that he knew the other had detected his revulsion. He wished he’d been swift to blanket that reaction before the boy could sense it but he could not be blamed for the effect of so bald a statement taking him so completely unaware. However, it had created another step in their mutual relationship—Speedy desired his good opinion.
 
 Within fifteen minutes they struck it lucky. At a point half a mile south of the glade Speedy let out a shrill yell and pointed downward. A small, goldenhaired figure was standing there on a slight rise and staring fascinatedly upward at the phenomenon in the sky. A second tiny shape with red but equally long hair was at the bottom of the slope and gazing in similar wonderment. As the sled tilted toward them, both came to their senses and turned to flee.
 
@@ -4120,7 +4343,9 @@ invented and was spread deliberately. It’s still with us today so far as I'kno
 
 “I believe that,” said Fander. “You must pardon me if I say the wrong things. I’m a stranger here, you understand? I judge you by my own feelings. Now and again I get pretty lonely.”
 
-“How’s that?” demanded Graypate. “You ain’t telling me they dumped you and left you all on your own?” “Yes, they did.”
+“How’s that?” demanded Graypate. “You ain’t telling me they dumped you and left you all on your own?”
+
+“Yes, they did.”
 
 “Man!” It was a picture much resembling Speedy’s concept, a vision elusive in form but firmly human in face. The oldster was reacting to what he considered a predicament rather than a free choice and the reaction came on a wave of sympathy.
 
@@ -4150,7 +4375,13 @@ It shocked the Martian. He had projected a mind-picture of a trumpet-lily, crims
 
 “I would gamble,” said Fander.
 
-“You ain’t like us. You mightn’t be able to catch it.” “Or I might get it worse and die more painfully.” “Maybe,” admitted Graypate doubtfully. “Anyway, you’re looking at it from a different angle. You’ve been left here on your ownsome. What have you got to lose?” “My life,” said Fander.
+“You ain’t like us. You mightn’t be able to catch it.”
+
+“Or I might get it worse and die more painfully.”
+
+“Maybe,” admitted Graypate doubtfully. “Anyway, you’re looking at it from a different angle. You’ve been left here on your ownsome. What have you got to lose?”
+
+“My life,” said Fander.
 
 Graypate frowned, thought it over. “Yes, that’s true. A fellow can’t bet any heavier than that.” He rubbed his chin whiskers as before. “All right, all right, I’ll take you up on that bet. You can come into the shelters and live with us.” His knuckles whitened as the grip tightened on his gun. “On this understanding; the moment you feel sick you get out fast and for keeps. If you don’t, I’ll shoot you and drag you away even if that makes me catch it too. The kids come first, see?”
 
@@ -4240,7 +4471,7 @@ Fander said, “I’ve been asked about this myself. I could not tell much becau
 
 Throughout the course of history, Martian, Venusian or Terrestrial, some years are more noteworthy than others. The sixteenth one after Fander’s marooning was outstanding for its series of events, each of which was pitifully insignificant by cosmic standards but loomed enormously in this small community’s life.
 
-To start with, the older seven—now bearded men— developed Redhead’s improvements to the premasticator and by a similar technique managed to repower the exhausted sled. They took triumphantly to the air for the first time in forty months. Experiments showed that the Martian load-carrier was now slower, could bear less weight but had immense range. They used it to visit the ruins of distant cities in search of metallic junk suitable for the building of more sleds. By early summer they had constructed another one, larger than the original, clumsy to the verge of dangerousness, but still a sled.
+To start with, the older seven—now bearded men—developed Redhead’s improvements to the premasticator and by a similar technique managed to repower the exhausted sled. They took triumphantly to the air for the first time in forty months. Experiments showed that the Martian load-carrier was now slower, could bear less weight but had immense range. They used it to visit the ruins of distant cities in search of metallic junk suitable for the building of more sleds. By early summer they had constructed another one, larger than the original, clumsy to the verge of dangerousness, but still a sled.
 
 On several occasions they failed to find metal but did discover people, odd families surviving in subsurface shelters, clinging grimly to life and passed-down scraps of knowledge. Since all these new contacts were strictly human-to-human, with no weirdly tentacled shape to scare off the parties of the second part, and since many were finding fear of plague more to be endured than terrible loneliness, a lot of families willingly returned with the explorers, settled in the shelters, accepted Fander and added their surviving skills to the community’s riches.
 
@@ -4266,7 +4497,7 @@ love.”
 
 “They can’t be all that different if they can fall in
 
-Wouldn’t they eventually become all much the same— just Earthpeople?”
+Wouldn’t they eventually become all much the same—just Earthpeople?”
 
 “Maybe.”
 
@@ -4312,7 +4543,7 @@ Taking the paper, he found his ray-gun, went to the base-rock of the beautiful t
 
 With less confidence and much greater care he repeated the verse in Earth’s awkward, angular hieroglyphics. The task was slow and tedious. Fifty people were watching him by the time he finished. They said nothing. In complete silence they looked at the poem and at the beautiful thing and were still standing there brooding solemnly when he went away.
 
-One by one the rest of the community visited the scene next day, coming and going with the air of pilgrims attending an ancient shrine. All stood there a long time, returned without comment. Nobody praised Fan-der’s work, nobody damned it, nobody reproached him for alienizing something wholly Earth’s. The only effect —too subtle to be noteworthy—was a greater and still growing grimness and determination that boosted the already swelling Earth-dynamic.
+One by one the rest of the community visited the scene next day, coming and going with the air of pilgrims attending an ancient shrine. All stood there a long time, returned without comment. Nobody praised Fan-der’s work, nobody damned it, nobody reproached him for alienizing something wholly Earth’s. The only effect—too subtle to be noteworthy—was a greater and still growing grimness and determination that boosted the already swelling Earth-dynamic.
 
 In that respect Fander wrought better than he knew.
 
@@ -4344,9 +4575,7 @@ Graypate’s finger was already tightening on the trigger when he felt the touch
 
 Graypate was about to retort, “What do you care?” but altered it slightly in response to Fander’s contacting thoughts. He said more softly, “Do you care?”
 
-It caught the objector off-balance. He fumbled em-
-
-barrassedlv within his own mind, avoided looking at the Martian, said lamely, “I don’t see reason for anyone to take risks.”
+It caught the objector off-balance. He fumbled embarrassedlv within his own mind, avoided looking at the Martian, said lamely, “I don’t see reason for anyone to take risks.”
 
 “He’ll take them because he does care,” Gravpate gave back. “And I’ll take them because I’m too old and useless to matter.”
 
@@ -4508,9 +4737,14 @@ At once a mild form of madness seemed to overcome the two-leggers. They made ple
 
 That same night twenty Martians felt like joining Fander through sheer exhaustion. The Martian constitution is peculiarly susceptible to emotion.
 
-Fast Falls the Eventide
+---
 
-It was an old world, incredibly old, with a pitted moon and a dying sun and a sky too thin to hold a summer cloud. There were trees upon it but not the trees of yore, for these were the result of eons of gradual accommodation. They inhaled and exhaled far less than did their distant forebears and they sucked more persistently at the aged soil.
+fast_falls_the_eventide
+
+# Fast Falls the Eventide
+
+.fl
+<span class="smallcaps">It was an</span> old world, incredibly old, with a pitted moon and a dying sun and a sky too thin to hold a summer cloud. There were trees upon it but not the trees of yore, for these were the result of eons of gradual accommodation. They inhaled and exhaled far less than did their distant forebears and they sucked more persistently at the aged soil.
 
 So did the herbs.
 
@@ -4638,7 +4872,7 @@ Throwing her a look of silent gratitude, he speeded up, exited with a mite more 
 
 “Seven-seven Jocelyn—Room Twelve.”
 
-And immediately after, “Two-four-oh Betsibelle— Room Nineteen.”
+And immediately after, “Two-four-oh Betsibelle—Room Nineteen.”
 
 Two girls went out, one dark and plump and smiling, one tall, slender, red-haired and serious.
 
@@ -4788,7 +5022,9 @@ Switching off, he leaned back, eyed her thoughtfully. “You will be lonely.”
 
 “Which will remain the same whether borne by one or shared by a hundred,” she gave back, undismayed.
 
-Searching around for one last item of discouragement, he told her, “The Zelamites are nocturnal. They will expect you to work at night and sleep by day.” “Those of us on Brank have been doing the same for years, and many more elsewhere. My tutor, should it be harder for me than for them?”
+Searching around for one last item of discouragement, he told her, “The Zelamites are nocturnal. They will expect you to work at night and sleep by day.”
+
+“Those of us on Brank have been doing the same for years, and many more elsewhere. My tutor, should it be harder for me than for them?”
 
 “No, it should not.” He came across to her. “I see that you are determined in your choice. If it be your destiny, it is not for me to thwart it.” Taking her hand, he raised it gently, impressed a light kiss upon her fingers in the conventional farewell. “Good luck, Melisande. I am glad to have had you as a pupil of mine.”
 
@@ -4872,7 +5108,7 @@ He fell silent for a bit, occupied by his own thoughts, then said: “Before we 
 
 “I do not think it. I know it.” He warmed to his subject. “History records that between sixty and seventy life forms have disappeared from the universal scene.
 
-Some warred together and exploded each other’s worlds. Some were the victims of cosmic collisions that could be neither foreseen nor avoided. They vanished— pouf!—like that! The large majority died when their suns died and warmth went away from them and supernal cold took over.” His orange-colored orbs still stared at her unblinking. “It proves one thing: that an entire species can be exterminated and become as though it had never been.”
+Some warred together and exploded each other’s worlds. Some were the victims of cosmic collisions that could be neither foreseen nor avoided. They vanished—pouf!—like that! The large majority died when their suns died and warmth went away from them and supernal cold took over.” His orange-colored orbs still stared at her unblinking. “It proves one thing: that an entire species can be exterminated and become as though it had never been.”
 
 “Not necessarily,” she contradicted, “because—”
 
@@ -4936,9 +5172,16 @@ The guiding star.
 
 Old Mother Earth.
 
-I Am Nothing
+---
 
-David Korman rasped, “Send them the ultimatum.” “Yes, sir, but—”
+i_am_nothing
+
+# I Am Nothing
+
+.fl
+<span class="smallcaps">David Korman rasped,</span> “Send them the ultimatum.”
+
+“Yes, sir, but—”
 
 “But what?”
 
@@ -4966,7 +5209,9 @@ His heavy thumb found the button on his desk, pressed it, and he said into the l
 
 There was a knock at the door and he snapped, “Come in.” Then, when Rogers had reached the desk, he informed, “We have sent the ultimatum.”
 
-“Really, sir? Do you suppose they’ll accept it?” “Doesn’t matter whether they do or don’t,” Korman declared. “In either event we’ll get our own way.” His gaze upon the other became challenging. “Is the fleet disposed in readiness exactly as ordered?”
+“Really, sir? Do you suppose they’ll accept it?”
+
+“Doesn’t matter whether they do or don’t,” Korman declared. “In either event we’ll get our own way.” His gaze upon the other became challenging. “Is the fleet disposed in readiness exactly as ordered?”
 
 “It is, sir.”
 
@@ -5256,7 +5501,7 @@ Mary remained quiet.
 
 It was three-thirty in the following afternoon when the call came through. He shooed out a fleet admiral, two generals and an intelligence service director, hurried through the most urgent of his papers, cleared the desk and mentally prepared himself for the distasteful task to come.
 
-In short time his intercom squeaked and his secretary’s voice announced, “Two people to see you, sir— Mrs. Korman and Miss Tatiana Hurst.”
+In short time his intercom squeaked and his secretary’s voice announced, “Two people to see you, sir—Mrs. Korman and Miss Tatiana Hurst.”
 
 “Show them in.”
 
@@ -5332,7 +5577,7 @@ During the next couple of weeks his mind seemed to be filled with more problems 
 
 On the first two or three of these days he ignored the pale intruder in his household. Yet he could not deny her presence. She was always there, quiet, obedient, self-effacing, hollow-cheeked and huge-eyed. Often she sat around for long periods without stirring, like a discarded doll.
 
-When addressed by Mary or one of the maids she remained deaf to inconsequential remarks, responded to direct and imperative questions or orders. She would answer with minimum head movements or hand gestures when these sufficed, spoke monosyllabically in a thin little voice only when speech was unavoidable. During that time Korman did not speak to her at all— but he was compelled to notice her fatalistic acceptance of the fact that she was no part of his complicated life.
+When addressed by Mary or one of the maids she remained deaf to inconsequential remarks, responded to direct and imperative questions or orders. She would answer with minimum head movements or hand gestures when these sufficed, spoke monosyllabically in a thin little voice only when speech was unavoidable. During that time Korman did not speak to her at all—but he was compelled to notice her fatalistic acceptance of the fact that she was no part of his complicated life.
 
 After lunch on the fourth day he caught her alone, bent down to her height and demanded, “Tatiana, what is the matter with you? Are you unhappy here?”
 
@@ -5474,7 +5719,9 @@ Warren stood up, his face showing that this was not the answer he had expected. 
 
 “Very well, Mr. Korman.”
 
-Putting the microphone aside, he continued with Warren, “Though far off in mere miles, Lani is near to us as cosmic distances go. It would please me if the Lanians agreed to a union between our planets, with common citizenship, common development of natural resources. But I don’t insist upon it. I merely express a wish—knowing that some wishes never come true.” “The notion will be given serious consideration all
+Putting the microphone aside, he continued with Warren, “Though far off in mere miles, Lani is near to us as cosmic distances go. It would please me if the Lanians agreed to a union between our planets, with common citizenship, common development of natural resources. But I don’t insist upon it. I merely express a wish—knowing that some wishes never come true.”
+
+“The notion will be given serious consideration all
 
 the same,” assured Warren. He shook hands with boyish enthusiasm. “You’re a big man, Mr. Korman.”
 
@@ -5546,9 +5793,14 @@ Full.
 
 Victory over self is completely full.
 
-Weak Spot
+---
 
-A great fleet of black ships sprang out of the star-field and took Demeter in thirty hours. There was little destruction and hardly any slaughter. The onset had been too sudden and well-timed, the element of surprise too great to enable the garrison to put up maximum resistance. Demeter fell in a day and a night. It was a triumph for the Barbs and a defeat for the Empire.
+weak_spot
+
+# Weak Spot
+
+.fl
+<span class="smallcaps">A great fleet</span> of black ships sprang out of the star-field and took Demeter in thirty hours. There was little destruction and hardly any slaughter. The onset had been too sudden and well-timed, the element of surprise too great to enable the garrison to put up maximum resistance. Demeter fell in a day and a night. It was a triumph for the Barbs and a defeat for the Empire.
 
 The Barbs ran all over the stricken planet and gloated. What they’d got consisted of one medium-sized but livable world on which were three towns, eleven villages, fifty-two mines, fourteen manufacturing plants, a sizable hydroelectric power station, one modem spaceport and seventy thousand prisoners. All in good condition and fit for further service.
 
@@ -5666,7 +5918,9 @@ The other went to the door, brought back a plump, solemn-faced cleric. The newco
 
 “Well?”
 
-“Generally speaking, a converted Barb tries to be ten times more Christian than any Christian. His make-up being what it is, there’s no holding him back. He wants to go out and save the whole of Creation. He has the inborn character of a missionary—and a martyr.” “What does this mean to us?”
+“Generally speaking, a converted Barb tries to be ten times more Christian than any Christian. His make-up being what it is, there’s no holding him back. He wants to go out and save the whole of Creation. He has the inborn character of a missionary—and a martyr.”
+
+“What does this mean to us?”
 
 “Everything is created for a good and wise purpose,” asserted the chaplain. “Jazan firmly believes that he and his kind were made to be the Empire’s missionaries in the great beyond, in the vastnesses of space yet to be explored. He wishes to discuss the matter with you and refuses to go home until he has done so.”
 
@@ -5740,9 +5994,14 @@ jam because they cannot vent their annoyance without playing our game.”
 
 The chasm was the real foe.
 
-Allamagoosa
+---
 
-It was a long time since the Bustler had been so silent. She lay in the Sirian spaceport, her tubes cold, her shell particle-scarred, her air that of a long-distance runner exhausted at the end of a marathon. There was good reason for this: she had returned from a lengthy trip by no means devoid of troubles.
+allamagoosa
+
+# Allamagoosa
+
+.fl
+<span class="smallcaps">It was a</span> long time since the *Bustler* had been so silent. She lay in the Sirian spaceport, her tubes cold, her shell particle-scarred, her air that of a long-distance runner exhausted at the end of a marathon. There was good reason for this: she had returned from a lengthy trip by no means devoid of troubles.
 
 Now, in port, well-deserved rest had been gained if only temporarily. Peace, sweet peace. No more bothers, no more crises, no more major upsets, no more dire predicaments such as crop up in free flight at least twice a day. Just peace.
 
@@ -5760,8 +6019,10 @@ Burman, the chief radio officer, entered the cabin. He was one of the half-dozen
 
 Taking the sheet, McNaught removed the feet from his desk, sat erect and read the message aloud.
 
-Terran Headquarters to BUSTLER. Remain Siriport pending further orders. Rear Admiral Vane W. Cassidy due there seventeenth. Feldman. Navy Op. Command. Sirisec.
+.fl.quote
+*Terran Headquarters to BUSTLER. Remain Siriport pending further orders. Rear Admiral Vane W. Cassidy due there seventeenth. Feldman. Navy Op. Command. Sirisec.*
 
+.space
 He looked up, all happiness gone from his leathery features. “Oh, Lord!” he groaned.
 
 “Something wrong?” asked Burman, vaguely alarmed.
@@ -5770,9 +6031,13 @@ McNaught pointed at three thin books on his desk. “The middle one. Page twenty
 
 Leafing through it, Burman found an item that said:
 
-Vane W. Cassidy, R-Ad. Head Inspector Ships and Stores.
+.fl.quote
+*Vane W. Cassidy, R-Ad. Head Inspector Ships and Stores.*
 
-Burman swallowed hard. “Does that mean—?” “Yes, it does,” said McNaught without pleasure. “Back to training-college and all its rigmarole. Paint and soap, spit and polish.” He put on an officious expression, adopted a voice to match it. “Captain, you have only seven ninety-nine emergency rations. Your allocation is eight hundred. Nothing in your logbook accounts for the missing one. Where is it? What happened to it? How is it that one of the men’s kits lacks an officially issued pair of suspenders? Did you report his loss?”
+.space
+Burman swallowed hard. “Does that mean—?”
+
+“Yes, it does,” said McNaught without pleasure. “Back to training-college and all its rigmarole. Paint and soap, spit and polish.” He put on an officious expression, adopted a voice to match it. “Captain, you have only seven ninety-nine emergency rations. Your allocation is eight hundred. Nothing in your logbook accounts for the missing one. Where is it? What happened to it? How is it that one of the men’s kits lacks an officially issued pair of suspenders? Did you report his loss?”
 
 “Why does he pick on us?” asked Burman, appalled. “He’s never chivvied us before.”
 
@@ -6040,7 +6305,9 @@ Burman paled.
 
 Hastily, McNaught said, “A full explanation would be rather involved and technical but, to put it as simply as possible, it enables us to strike a balance between opposing gravitational fields. Variations in lights indicate the extent and degree of imbalance at any given time.”
 
-“It’s a clever idea,” added Burman, made suddenly reckless by this news, “based upon Finagle’s Constant.” “I see,” said Cassidy, not seeing at all. He resumed his seat, ticked the offog and carried on. “Z44. Switchboard, automatic, forty-line intercom, one of.”
+“It’s a clever idea,” added Burman, made suddenly reckless by this news, “based upon Finagle’s Constant.”
+
+“I see,” said Cassidy, not seeing at all. He resumed his seat, ticked the offog and carried on. “Z44. Switchboard, automatic, forty-line intercom, one of.”
 
 “Here it is, sir.”
 
@@ -6128,9 +6395,14 @@ Terrart Headquarters to BUSTLER. Your report VI098, ship’s official dog Peasla
 
 In the privacy of his cabin McNaught commenced to eat his nails. Every now and again he went a little cross-eyed as he examined them for nearness to the flesh.
 
-Into Your Tent I'll Creep
+---
 
-Morfad sat in the midship cabin and gloomed at the wall. He was worried and couldn’t conceal the fact. The present situation had the frustrating qualities of a gigantic rattrap. One could escape it only with the combined help of all the other rats.
+into_your_tent_ill_creep
+
+# Into Your Tent I'll Creep
+
+.fl
+<span class="smallcaps">Morfad sat in</span> the midship cabin and gloomed at the wall. He was worried and couldn’t conceal the fact. The present situation had the frustrating qualities of a gigantic rattrap. One could escape it only with the combined help of all the other rats.
 
 But the others weren’t likely to lift a finger either on his or their own behalf. He felt sure of that. How can you persuade people to try to escape a jam when you can’t convince them that they’re in it, right up to the neck?
 
@@ -6182,9 +6454,15 @@ Surveying him with slight incredulity, Haraka said, “You’ve discovered it? Y
 
 “So I have. I can hear thoughts as clearly as if the words were being shouted aloud. But not your thoughts nor those of any member of our crew.”
 
-Haraka leaned forward, his features intent. “Ah, you have been hearing Terran thoughts, eh? And what you’ve heard has got you bothered? Morfad, I am your captain, your commander. It is your bounden duty to tell me of anything suspicious about these Terrans.” He waited a bit, urged impatiently, “Come on, speak up!” “I know no more about these humanoids than you do,” said Morfad. “I have every reason to believe them genuinely friendly but I don’t know what they think.” “But by the stars, man, you—”
+Haraka leaned forward, his features intent. “Ah, you have been hearing Terran thoughts, eh? And what you’ve heard has got you bothered? Morfad, I am your captain, your commander. It is your bounden duty to tell me of anything suspicious about these Terrans.” He waited a bit, urged impatiently, “Come on, speak up!”
 
-“We are talking at cross-purposes,” Morfad interrupted. “Whether I do or do not overhear Terran thoughts depends upon what one means by Terrans.” “Look,” said Haraka, “whose thoughts do you hear?” Steeling himself, Morfad said flatly, “Those of Terran dogs.”
+“I know no more about these humanoids than you do,” said Morfad. “I have every reason to believe them genuinely friendly but I don’t know what they think.”
+
+“But by the stars, man, you—”
+
+“We are talking at cross-purposes,” Morfad interrupted. “Whether I do or do not overhear Terran thoughts depends upon what one means by Terrans.”
+
+“Look,” said Haraka, “whose thoughts do you hear?” Steeling himself, Morfad said flatly, “Those of Terran dogs.”
 
 “Dogs?” Haraka lay back and stared at him. “Dogs? Are you serious?”
 
@@ -6230,7 +6508,9 @@ Haraka leaned forward, his features intent. “Ah, you have been hearing Terran 
 
 “They can’t really do anything effective.”
 
-“That depends upon what one regards as effective.” “They haven’t got hands.”
+“That depends upon what one regards as effective.”
+
+“They haven’t got hands.”
 
 “And don’t need them—having brains.”
 
@@ -6286,13 +6566,15 @@ Haraka narrowed his eyes. “You might as well name it. I am not afraid to see m
 
 “For instance?” Morfad invited.
 
-“Some Terrans are telepathic. Therefore if this myth of subtle mastery by dogs were a fact, they’d know of it. Not a dog would be left alive on this world.” Haraka paused, finished pointedly, “They don’t know of it.” “Terran telepaths hear the minds of their own kind but not those of dogs. I hear the minds of dogs but not those of any other kind. As I said before, I don’t know why this should be. I know only that it is.”
+“Some Terrans are telepathic. Therefore if this myth of subtle mastery by dogs were a fact, they’d know of it. Not a dog would be left alive on this world.” Haraka paused, finished pointedly, “They don’t know of it.”
+
+“Terran telepaths hear the minds of their own kind but not those of dogs. I hear the minds of dogs but not those of any other kind. As I said before, I don’t know why this should be. I know only that it is.”
 
 “It seems nonsensical to me.”
 
 “It would. I suppose you can’t be blamed for taking that viewpoint. My position is difficult; I’m like the only one with ears in a world that is stone-deaf.”
 
-Haraka thought it over, said after a while, “Suppose I were to accept everything you’ve said at face value— what do you think I should do about it?”
+Haraka thought it over, said after a while, “Suppose I were to accept everything you’ve said at face value—what do you think I should do about it?”
 
 “Refuse to take the dogs,” responded Morfad, promptly.
 
@@ -6300,7 +6582,9 @@ Haraka thought it over, said after a while, “Suppose I were to accept everythi
 
 “All right, don’t reject it. Modify it instead. Ask for two male or two female dogs. Make it plausible by quoting an Altairan law against the importation of alien animals that are capable of natural increase.”
 
-“I can’t do that. It’s far too late. We’ve already accepted the animals and expressed our gratitude for them. Besides, their ability to breed is essential part of the gift, the basic intention of the givers. They’ve presented us with a new species, an entire race of dogs.” “You said it!” confinned Morfad.
+“I can’t do that. It’s far too late. We’ve already accepted the animals and expressed our gratitude for them. Besides, their ability to breed is essential part of the gift, the basic intention of the givers. They’ve presented us with a new species, an entire race of dogs.”
+
+“You said it!” confinned Morfad.
 
 “For the same reason we can’t very well prevent them from breeding when we get back home,” Haraka pointed. “From now on we and the Terrans are going to do a lot of visiting. Immediately they discover that our dogs have failed to multiply they’ll become generous and sentimental and dump another dozen on us. Or maybe a hundred. We’ll then be worse off than we were before.”
 
@@ -6368,9 +6652,14 @@ He ceased as something padded softly into the cabin, laid its head in Haraka’s
 
 Kashim favored Good Boy with a glare of inutterable hatred. The dog rolled a brown eye sideways and looked at him without expression. From that moment Kashim’s fate was sealed.
 
-Study in Still Life
+---
 
-“What burns me up,” said Purcell bitterly, “is the fact that one cannot get anything merely on grounds of dire necessity.”
+study_in_still_life
+
+# Study in Still Life
+
+.fl
+<span class="smallcaps">“What burns me</span> up,” said Purcell bitterly, “is the fact that one cannot get anything merely on grounds of dire necessity.”
 
 “Yeah,” said Hancock, carrying on with his writing. “If one gets it at all,” continued Purcell, warming to his subject, “it is for a reason that has nothing whatever to do with need or urgency. One gets it because and only because one has carefully filled out the correct forms in the correct way, got them signed and countersigned by the proper fatheads and submitted them through the proper channels to the proper people on Terra.”
 
@@ -6432,7 +6721,9 @@ Hancock, who had picked up his pen, put it down again and asked resignedly, “E
 
 “That seems reasonable,” Hancock conceded.
 
-“You would give his dingus top priority, eh?” “Certainly. A Class A import.”
+“You would give his dingus top priority, eh?”
+
+“Certainly. A Class A import.”
 
 “That is real nice to know,” said Purcell. “I am heartened to find sweet reasonableness sitting behind a desk and wearing oilskin pants.” He slung the form across to the other. “Some bead-brained four-eyes has stamped it Class L. So this bugologist won’t get his fly-killer for at least another seven years.”
 
@@ -6454,7 +6745,9 @@ Hancock, who had picked up his pen, put it down again and asked resignedly, “E
 
 “You can’t buck the system,” declared Hancock. “Not until you’re one of the top brass.”
 
-“I’m bucking it as from now,” Purcell announced. He reached for a fresh form, started filling it in. “I’m making a top priority demand for a fly-killer for Nemo.” “Nemo?” Hancock looked stupefied. “What’s that?”
+“I’m bucking it as from now,” Purcell announced. He reached for a fresh form, started filling it in. “I’m making a top priority demand for a fly-killer for Nemo.”
+
+“Nemo?” Hancock looked stupefied. “What’s that?”
 
 Purcell waved a careless hand toward the window. “The newly discovered planet out there.”
 
@@ -6462,7 +6755,9 @@ Shoving back his chair, Hancock waddled to the window and gazed through it a lon
 
 Letting go as if it were red-hot, Hancock complained, “If they’ve started operations on a new planet, Collis-ter’s department should have notified us in the proper manner. I object to this sloppy method of passing news along by word of mouth during lunch-hour gossip. Essential information should be transmitted in writing and distributed to all the individuals concerned.”
 
-“Collister’s crowd know nothing about Nemo.” “Don’t they? Why not?”
+“Collister’s crowd know nothing about Nemo.”
+
+“Don’t they? Why not?”
 
 “I just invented it,” said Purcell evenly.
 
@@ -6480,7 +6775,9 @@ Letting go as if it were red-hot, Hancock complained, “If they’ve started op
 
 “There isn’t one,” said Hancock.
 
-“Correct. They’ll have to check with Yehudi.” “They’ll find out sooner or later that they’ve been taken. There will be trouble. I want you to know, Purcell, that I hereby disclaim all responsibility for this. Officially I know nothing whatever about it. It is solely and wholly your own pigeon.”
+“Correct. They’ll have to check with Yehudi.”
+
+“They’ll find out sooner or later that they’ve been taken. There will be trouble. I want you to know, Purcell, that I hereby disclaim all responsibility for this. Officially I know nothing whatever about it. It is solely and wholly your own pigeon.”
 
 “Don’t worry. I’m willing to accept the full credit for a praiseworthy display of initiative. Anyway, by that time the bugologist will have got his equipment and all the flies will be dead.”
 
@@ -6530,7 +6827,9 @@ Quayle’s halo faded from sight while his face took on the look of a cornered r
 
 Finally he ventured in uncertain tones, “I can find nothing wrong with it, sir, except that it is a demand for Nemo. I don’t recall seeing that planet upon the supply list.”
 
-“Very good, Quayle, very good,” praised Bonhoeffer. “And what do you think should be done about it?” “Well, sir,” continued Quayle, vastly encouraged but still weak at the knees, “since the requisition emanates from Alipan, which is on the list, I’d say that it is valid so far as our department is concerned. Therefore I would pass it to the scientific division for confirmation of the reasons given and the correctness of the specification.”
+“Very good, Quayle, very good,” praised Bonhoeffer. “And what do you think should be done about it?”
+
+“Well, sir,” continued Quayle, vastly encouraged but still weak at the knees, “since the requisition emanates from Alipan, which is on the list, I’d say that it is valid so far as our department is concerned. Therefore I would pass it to the scientific division for confirmation of the reasons given and the correctness of the specification.”
 
 “Excellent, Quayle. I may as well say that you have come up to my expectations.”
 
@@ -6568,7 +6867,9 @@ Stanisland gave it and waited. He stood there about ten minutes knowing full wel
 
 “Aha!” said Williams, nastily triumphant. “You don’t know where to get an irradiator, eh?”
 
-“It isn’t a question of not knowing,” Stanisland retorted. “It’s a question of saving time finding out. If I search under C for cobalt, it won’t be there. It won’t be under I for irradiator either. Nor under S for sixty. In about a week’s time F1I discover that it’s under H because the correct technical name for it is a hyperdiddlic honey or something like that. Things would be a lot easier if you eggheads would make up your minds to call a spade a plain, ordinary spade and stick to it for keeps.” “Shame,” said Williams.
+“It isn’t a question of not knowing,” Stanisland retorted. “It’s a question of saving time finding out. If I search under C for cobalt, it won’t be there. It won’t be under I for irradiator either. Nor under S for sixty. In about a week’s time F1I discover that it’s under H because the correct technical name for it is a hyperdiddlic honey or something like that. Things would be a lot easier if you eggheads would make up your minds to call a spade a plain, ordinary spade and stick to it for keeps.”
+
+“Shame,” said Williams.
 
 to stink.”
 
@@ -6668,7 +6969,9 @@ Stanisland said nothing.
 
 “Yes, sir,” said Stanisland with bogus humility. “Good!” Taylor lay back, hooked thumbs in armholes, eyed him as if he were a piebald mouse. “Now, have you brought the order in readiness for my signature?”
 
-Stanisland went purple, swallowed hard. “No, sir.” “Why haven’t you?”
+Stanisland went purple, swallowed hard. “No, sir.”
+
+“Why haven’t you?”
 
 “It appeared to me, sir, that it would first be necessary to obtain your ruling on whether or not a test for emission is sufficient.”
 
@@ -6676,13 +6979,19 @@ Stanisland went purple, swallowed hard. “No, sir.” “Why haven’t you?”
 
 “Yes, sir, but—”
 
-“Anyone with the moral fortitude to look a fact in the face,” interrupted Tayor, tapping the papers with a long, thin forefinger, “can see that here we have a written statement from the appropriate department to the effect that this piece of apparatus can be tested. That is all we require. The question of how it is tested or for what it is tested does not concern us in the least. We have enough responsibilities of our own without accepting those properly belonging to other departments.” “Yes, sir,” agreed Stanisland, not inclined to argue the matter.
+“Anyone with the moral fortitude to look a fact in the face,” interrupted Tayor, tapping the papers with a long, thin forefinger, “can see that here we have a written statement from the appropriate department to the effect that this piece of apparatus can be tested. That is all we require. The question of how it is tested or for what it is tested does not concern us in the least. We have enough responsibilities of our own without accepting those properly belonging to other departments.”
+
+“Yes, sir,” agreed Stanisland, not inclined to argue the matter.
 
 “Already there has been far too much delay in dealing with this requisition,” Taylor went on. “The demand is now almost a year old. Disgraceful!”
 
 “I assure you, sir, that it is not my—”
 
-“Cut out the excuses and let me see some action.” “You wish me to write out the order at once, sir?” “No, you need not bother. Go get your order book, give it to my secretary and tell her that I wish to deal with it personally.”
+“Cut out the excuses and let me see some action.”
+
+“You wish me to write out the order at once, sir?”
+
+“No, you need not bother. Go get your order book, give it to my secretary and tell her that I wish to deal with it personally.”
 
 “Very well, sir.” Stanisland departed sweating a mixture of ire and relief.
 
@@ -7042,50 +7351,3 @@ Back in his own office Purcell plonked himself in a chair and recited, “Whenev
 
 “Shut up,” said Hancock, “and talk when you can talk sense.”
 
-THE INGENIOUS IRONY
-
-OF
-
-ERIC FRANK RD55ELL
-
-WHAT SCIENCE FICTION DOES BEST IS
-
-TAKE FAMILIAR IDEAS AND TURN THEM INSIDEOUT. . .
-
-AND ONE OF THE MASTERS OF THAT GAME
-
-WAS ERIC FRANK RUSSELL AS IS AMPLY
-
-DEMONSTRATED IN THESE SUPREMELY WELL
-
-CRAFTED TALES OF ADVENTURE AND
-
-MISADVENTURE. . .
-
-•	INTO YOUR TENT I’LL CREEP
-
-The aliens only wanted to befriend Mankind. . . but Man already had a best friend!
-
-•	ALLAMAGOOSA
-
-What do you do when you’ve lost a piece of equipment you didn’t even know you had? Invent it!
-
-•	LATE NIGHT FINAL
-
-Earth’s a great place to invade.. .but you wouldn't want to live there!
-
-•	HOBBYIST
-
-He was fascinated by the intergalactic museum. . . until he discovered he was an exhibit!
-
-•	MANA
-
-The last man alive created humanity's heirs. . . but they needed one final gift.
-
-•	WEAK SPOT
-
-Barbarian spacefleets slashed at the Empire, and the Empire's only concern was how to keep them at it.
-
-Cover printed in USA
-
--AND LOTS MORE!

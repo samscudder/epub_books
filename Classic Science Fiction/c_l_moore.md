@@ -32,31 +32,31 @@ TO FASHION SCIENCE-FICTION STORIES OF WONDER,
 BEAUTY AND HIGH DRAMA.
 
 .subtitle
-• SHAMBLEAU
+• [SHAMBLEAU](shambleau)
 
 .smaller
 Northwest Smith was a hardened veteran of the spaceways who thought he could take on all comers . . . then he met Shambleau!
 
 .subtitle
-• BRIGHT ILLUSION
+• [BRIGHT ILLUSION](bright_illusion)
 
 .smaller
 He was cast into another universe where he found fear, love—and a god who knew all the ans,wers but one!
 
 .subtitle
-• THE BLACK GOD’S KISS
+• [THE BLACK GOD’S KISS](the_black_gods_kiss)
 
 .smaller
 Jirel of Joiry, maid of war, feared nothing on Earth or in her strange Hell—until she went there to seek, revenge!
 
 .subtitle
-• NO WOMAN BORN
+• [NO WOMAN BORN](no_woman_born)
 
 .smaller
 She had been the most beautiful and most talented woman alive . . . until fate left her with nothing but her indomitable will!
 
 .subtitle
-• VINTAGE SEASON
+• [VINTAGE SEASON](vintage_season)
 
 .smaller
 It was the most beautiful autumn in a vintage year . . . but the grapes were those of wrath!
