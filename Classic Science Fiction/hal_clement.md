@@ -4603,7 +4603,7 @@ At length the way opened into a space some fifty feet across. The girl stopped a
 
 “Look,” she said, pointing to the floor.
 
-Marc saw a clay lamp at her feet. It was dry, and the wick had clearly been left to bum down as the oil disappeared. He looked down at it briefly, then turned to the girl.
+Marc saw a clay lamp at her feet. It was dry, and the wick had clearly been left to burn down as the oil disappeared. He looked down at it briefly, then turned to the girl.
 
 “You found this here?”
 

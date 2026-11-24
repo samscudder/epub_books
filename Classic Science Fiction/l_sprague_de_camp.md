@@ -357,7 +357,7 @@ I have already admitted that this foreword is not going to be anything like a pr
 
 In person, L. (for Lyon) Sprague de Camp is a tall, trim man of aristocratic appearance and bearing—aristocratic in the best sense, gracious and kindly as well as impressive. More than one woman has confided to me that she tends to swoon over him, but he remains content with his lovely wife of many years, Catherine, with whom he has collaborated on books as well as children.
 
-Bom in New York in 1907, he studied at Caltech, MIT, and Stevens Institute of Technology, and held down a variety of jobs until he went into full-time writing. As a Navy reservist, he was called up in World War Two and did research and development (alongside Isaac Asimov and Robert Heinlein), which was a substantial contribution to the Allied cause.
+born in New York in 1907, he studied at Caltech, MIT, and Stevens Institute of Technology, and held down a variety of jobs until he went into full-time writing. As a Navy reservist, he was called up in World War Two and did research and development (alongside Isaac Asimov and Robert Heinlein), which was a substantial contribution to the Allied cause.
 
 His vast fund of information comes not only from omnivorous reading but from extensive traveling. This isn’t just through the tourist circuits, but into strange places hard to reach. He doesn’t brag about it, but if you can get him to reminisce, it makes great reading or listening.
 
@@ -592,7 +592,7 @@ Anglo-Saxon would sound to a modem hearer as much like a foreign language as Ger
 
 Authors are fairly safe in having the people of the future speak English—which is very convenient for the authors. Aside from the fact that nobody can prove them wrong, English is, today, well on the way to becoming the world’s international language. It is probably taught in the schools of more countries than any other. In number of speakers it is exceeded only by Cantonese and Mandarin, the chief languages of China, each of which is divided into a myriad of mutually unintelligible dialects; its nearest rivals, Spanish and German, are far behind it in number of speakers. It’s a concise language,’ ” and the simplicity of its grammar makes it easy
 
-[I once complained to the late Willy Ley about German’s damnable inflected articles and adjectives, which have defeated my half-century of effort to learn to speak the language correctly. In his deep, heavily accented voice, Willy said: “It is very simple. You only have to be bom therel” L.S. de C., 1977.]
+[I once complained to the late Willy Ley about German’s damnable inflected articles and adjectives, which have defeated my half-century of effort to learn to speak the language correctly. In his deep, heavily accented voice, Willy said: “It is very simple. You only have to be born there!” L.S. de C., 1977.]
 
 * The same passage translated into various modem languages has the following numbers of syllables:
 
@@ -922,7 +922,7 @@ The inert Honoria, still sitting in her chair, answered tonelessly, “Honoria V
 
 The other man mumbled something and Johnny could hear the slapping of Honoria’s slippers as she moved about and presently the opening of the outside kitchen door. Still shuddering at the idea of becoming a steak, he pushed his door open a crack. Through the screen of the outside door he could see Honoria, arms full of provisions, docilely obeying commands and piling the cans and bags in the truck. The men sat on their running board and smoked while Honoria, like one hypnotized, made several trips back to the kitchen. When they said “Dat’s all,” she sat down on the kitchen steps and relapsed into her former state. The truck drove off.
 
-Johnny hurried out and made for the clump of trees on the end of the Station’s property opposite Bemis’s house. The clump crowned a little hill, making it both a good hiding place and a vantage point. He thought, evidently the Station wasn’t big enough for him and the strange men both, if they were going to comer the food supply and kill him on sight. Then he considered Honoria’s actions. The Negress, normally a strong-minded person of granite stubbornness, had carried out every order without a peep. Evidently the disease or whatever it was didn’t affect a person mentally or physically, except that it deprived the victim of all initiative and will power. Honoria had remembered her own name and understood orders well enough. Johnny wondered why he hadn’t been affected also; then, remembering the chimpanzee, concluded that it was probably specific to the higher anthropoids.
+Johnny hurried out and made for the clump of trees on the end of the Station’s property opposite Bemis’s house. The clump crowned a little hill, making it both a good hiding place and a vantage point. He thought, evidently the Station wasn’t big enough for him and the strange men both, if they were going to corner the food supply and kill him on sight. Then he considered Honoria’s actions. The Negress, normally a strong-minded person of granite stubbornness, had carried out every order without a peep. Evidently the disease or whatever it was didn’t affect a person mentally or physically, except that it deprived the victim of all initiative and will power. Honoria had remembered her own name and understood orders well enough. Johnny wondered why he hadn’t been affected also; then, remembering the chimpanzee, concluded that it was probably specific to the higher anthropoids.
 
 He watched more balloons rise and saw two men come out of the bungalow and talk to the inflators. One stocky figure Johnny was sure was Bemis. If that was so, the botanist must be the mastermind of the gang, and Johnny had at least four enemies to deal with. How? He didn’t know. Well, he could at least dispose of the remaining food in the Station kitchen before the plug-uglies got it.
 
@@ -1081,7 +1081,7 @@ There was water in his eyes, in his ears, everywhere. The burning in his lungs w
 
 Everything seemed topsy-turvy. Then he remembered the liquid he’d prepared for the alligator; it must have worked on him! His lungs were functioning as gills. He couldn’t quite believe it yet. Experimenting on an alligator is one thing; turning yourself into a fish is another—comic-section stuff. But there it was. If he’d been going to drown he’d have done so by now. He tried a few experimental breaths under water. It was amazingly hard work. You put on the pressure, and your lungs slowly contracted, like a pneumatic tire with a leak. In half a minute or so you were ready to inhale again. The reason was the density of water compared with that of air, of course. But it seemed to work. He released the catwalk and sank to the bottom again. He looked around him. The tank seemed smaller than it should be; that was the effect of the index of refraction of water, no doubt. He walked toward one side, which seemed to recede as he approached it. A fat nurse shark lying on the bottom waved its tail and slid forward out of his way.
 
-The other two nurse sharks were lying indifferently on the bottom across the tank. These brutes were sluggish and utterly harmless. The two sand sharks, the four-footer and the five-footer, had ceased their interminable cruising and had backed into far comers. Their mouths opened and closed slowly, showing their formidable teeth. Their little yellow eyes seemed to say to Brock, “Don’t start anything you can’t finish, buddy.” Brock had no intention of starting anything. He’d had a healthy respect for the species since one of them had bitten him in the gluteus maximus while he was hauling it into a boat.
+The other two nurse sharks were lying indifferently on the bottom across the tank. These brutes were sluggish and utterly harmless. The two sand sharks, the four-footer and the five-footer, had ceased their interminable cruising and had backed into far corners. Their mouths opened and closed slowly, showing their formidable teeth. Their little yellow eyes seemed to say to Brock, “Don’t start anything you can’t finish, buddy.” Brock had no intention of starting anything. He’d had a healthy respect for the species since one of them had bitten him in the gluteus maximus while he was hauling it into a boat.
 
 He looked up. It was like looking up at a wrinkled mirror, with a large circular hole in it directly over his head. Through the hole he could see the reserve tanks, the pipes—everything that he could have seen by sticking his head out of water. But the view was distorted and compressed around the edges, like a photograph taken with a wide-angle lens. One of the aquarium’s cats peered down inscrutably at him from the catwalk. Beyond the circle on all sides the water surface was a mirror that rippled and shivered. Over the two sand sharks were their reflections upside down.
 
@@ -1149,7 +1149,7 @@ He explained tersely about the accident and his subsequent seizure and told what
 
 Baritz called to him: “Don’t you want us to take the shoks out fuist?” Brock shook his head. The claims of his stomach were imperious, and he had a vague hope of solving his problem without disturbing the fish. Then too, though he’d have hated to admit it, he knew that everybody knew that the sharks weren’t man-eaters, and he didn’t want to seem afraid of them. Even a sensible man like Vemon Brock will succumb to a touch of bravado in the presence of his woman, actual or potential.
 
-He relaxed, thinking. Sugden was ordering the staff back to its work. Dumville had to leave, but promised to be back. By and by the faithful Baritz appeared with what Brock hoped was food. Brock’s position struck him as an uncomfortable one for eating, so he rolled off the plank and stood on the bottom of the tank. Then he couldn’t reach the surface with his hand. Baritz thrust a lamb chop on the end of a stick down to him. He reached for it—and was knocked aside by a glancing blow from something heavy and sandpapery. The lamb chop was gone—or not quite gone; the larger shark had it over in a comer. The shark’s jaws worked, and the bone sank slowly to the bottom, minus its meat.
+He relaxed, thinking. Sugden was ordering the staff back to its work. Dumville had to leave, but promised to be back. By and by the faithful Baritz appeared with what Brock hoped was food. Brock’s position struck him as an uncomfortable one for eating, so he rolled off the plank and stood on the bottom of the tank. Then he couldn’t reach the surface with his hand. Baritz thrust a lamb chop on the end of a stick down to him. He reached for it—and was knocked aside by a glancing blow from something heavy and sandpapery. The lamb chop was gone—or not quite gone; the larger shark had it over in a corner. The shark’s jaws worked, and the bone sank slowly to the bottom, minus its meat.
 
 Baritz looked helpless at Sugden. “We betta not try meat again—those shoks can smell it, and they might get dangerous if we got them wuiked up.”
 
@@ -1290,9 +1290,11 @@ Staples stared at the dots. “Looks to me like the outline of a piece out of a 
 
 “Take it easy, Gil. This little Pleistocene overlay runs back to your place. If we run the truck around your grounds for a few hours we ought to be able to find some fossils.”
 
-“It’s a rodent. I thought it was a bear at first from the size of the skull, but now I see those front teeth.” “Right so far. But what rodent?”
+“It’s a rodent. I thought it was a bear at first from the size of the skull, but now I see those front teeth.”
 
-Staples frowned at the little heap of bones beside’the pit. “Seems to me the only North American rodent that size was the giant beaver, Castoroides.”
+“Right so far. But what rodent?”
+
+Staples frowned at the little heap of bones beside the pit. “Seems to me the only North American rodent that size was the giant beaver, Castoroides.”
 
 “Fine! Fine! I’ll make a paleontologist out of you yet. What’s this bone?”
 
@@ -1330,7 +1332,9 @@ After the Swiss gentleman had left, Platt went to Chicago for a consultation wit
 
 Thus it happened that the following day found them in the shop breaking a young Hyracodon—small hornless rhinoceros—out of its matrix. Staples remarked on what a dull piece the work was from a zoological point of view, compared to what it had been in times past.
 
-“To some extent, yes,” replied Platt. “Hand me the shellac, please. Though there may be a few whales left that haven’t been turned into margarine and gun oil. We’re living at the close of one of the many periodic extinctions of the larger forms. The only places you can find a fauna comparable with those of the Pleistocene is on a few preserves in Africa. And with our own bloodthirsty species infesting the earth, it’s getting worse all the time. Hm-m-m. The left clavicle and left radius seem to be missing.” He carefully chipped slivers of sandstone away with his needle. Being much more of a talker than his assistant, he continued: “I have an idea which, if it works, may do much to relieve the drabness of our present fauna;. You heard Wilhelmi tell about restoring oxidized metal by the anode process. Well, why couldn’t we work something like that on fossils?” “You mean to grow a complete animal, hair and all, from a skeleton?”
+“To some extent, yes,” replied Platt. “Hand me the shellac, please. Though there may be a few whales left that haven’t been turned into margarine and gun oil. We’re living at the close of one of the many periodic extinctions of the larger forms. The only places you can find a fauna comparable with those of the Pleistocene is on a few preserves in Africa. And with our own bloodthirsty species infesting the earth, it’s getting worse all the time. Hm-m-m. The left clavicle and left radius seem to be missing.” He carefully chipped slivers of sandstone away with his needle. Being much more of a talker than his assistant, he continued: “I have an idea which, if it works, may do much to relieve the drabness of our present fauna;. You heard Wilhelmi tell about restoring oxidized metal by the anode process. Well, why couldn’t we work something like that on fossils?”
+
+“You mean to grow a complete animal, hair and all, from a skeleton?”
 
 “Why not? You know what extraordinary things they do in medicine nowadays—growing arms and legs on people who have lost their own.”
 
@@ -1384,7 +1388,7 @@ After their partial failure with the Arctotherium, they succeeded with a bear-do
 
 They had hired an old circus man named Elias to help them with their growing zoo. They had built a concrete bam for the animals with a row of cages down one side. It looked strong enough, until one afternoon Staples went out to investigate a racket from the cages. He found the bars of the bear-dog’s cage bowed out—the lower ends had come out of the green concrete easily—and no Dinocyon. Staples had a horrible vision of the bear-dog wandering over Kosciusko County and eating everything he could catch.
 
-The beast was not, however, far away. He was, in fact, just around the comer looking for a way to get into the Stenomylus cage. In a few seconds he reappeared. He looked at Staples. The geologist could have sworn that the expression in his big yellow eyes said: “Ah, dinner!” The bear-dog growled like a distant thunderstorm and started for Staples.
+The beast was not, however, far away. He was, in fact, just around the corner looking for a way to get into the Stenomylus cage. In a few seconds he reappeared. He looked at Staples. The geologist could have sworn that the expression in his big yellow eyes said: “Ah, dinner!” The bear-dog growled like a distant thunderstorm and started for Staples.
 
 Staples knew that the animal could run circles around him on level ground, and moreover that if he caught him he wouldn’t be satisfied to run circles around him. Staples’ best idea was to swarm up the bars around the Trilophodon’s enclosure. He couldn’t have climbed those bars ordinarily, but he did this time.
 
@@ -1448,7 +1452,9 @@ After Nively had gone, Platt said to Staples: “He must think I’m pretty obtu
 
 The taciturn Staples opined: “I have an idea they’ll get really riled when we get a couple of the same species and breed ’em.”
 
-“By Jove, I never thought of that! Nobody buys wild lions nowadays. It’s too easy to raise your own. That gives me another idea. Suppose we start a race of, say, elotheres, like our big piggy friend over there. And suppose civilization collapses, so that the record of our work here is lost. Won’t the paleontologists of a few thousand years hence have a time figuring how the elotheres disappeared completely in the Miocene, and then reappeared again twenty million years later, warts and all?” “That’s easy,” retorted Staples. “They’ll invent a sunken continent in the Pacific Ocean, where the Elotheri-dae hung out during the Pliocene and Pleistocene. And then a land bridge was formed, enabling them to spread over North—Hey, don’t throw that! I’ll be good!” Nively’s third visit was sometime later, when the mammoth was almost ready to be hoisted out of his tank. The sunburned man came to the point right away.
+“By Jove, I never thought of that! Nobody buys wild lions nowadays. It’s too easy to raise your own. That gives me another idea. Suppose we start a race of, say, elotheres, like our big piggy friend over there. And suppose civilization collapses, so that the record of our work here is lost. Won’t the paleontologists of a few thousand years hence have a time figuring how the elotheres disappeared completely in the Miocene, and then reappeared again twenty million years later, warts and all?”
+
+“That’s easy,” retorted Staples. “They’ll invent a sunken continent in the Pacific Ocean, where the Elotheri-dae hung out during the Pliocene and Pleistocene. And then a land bridge was formed, enabling them to spread over North—Hey, don’t throw that! I’ll be good!” Nively’s third visit was sometime later, when the mammoth was almost ready to be hoisted out of his tank. The sunburned man came to the point right away.
 
 “Dr. Platt,” he said, “we have a big business, built up with a great deal of effort, and we shan’t sit around and watch it destroyed just because some scientist gets a bright idea. We’ll make you a perfectly fair offer: We buy your patent application, under an agreement whereby you can practice your process, provided you name us exclusive agent for the sale of your animals In that way you can continue your scientific work; we retain control of the commercial field; everyone’s happy. What do you say, old chap?”
 
@@ -1645,23 +1651,31 @@ Morrie was stout, bald, and hospitable. “Sure, sure,” he said, waving his ci
 
 It must have been an hour later when a slow, deep voice at the door said, “Did somebody want to see me?” The gnarly man was in the doorway. In street clothes, with the collar of his raincoat turned up and his hat brim pulled down, he looked more or less human, though the coat fitted his great sloping shoulders badly. He had a thick knobby walking stick with a leather loop near the top end. A small dark man fidgeted behind him.
 
-“Yeah,” said Morrie, interrupting his lecture. “Clarence, this is Miss Saddler, Miss Saddler, this is our Mister Gaffney, one of our outstanding creative ottists.” “Pleased to meetcha,” said the gnarly man. “This is my manager, Mr. Pappas.”
+“Yeah,” said Morrie, interrupting his lecture. “Clarence, this is Miss Saddler, Miss Saddler, this is our Mister Gaffney, one of our outstanding creative ottists.”
 
-Dr. Saddler explained, and said she’d like to talk to Mr. Gaffney if she might. She was tactful; you had to be to pry into the private affairs of Naga headhunters, for instance. The gnarly man said he’d be glad to have a cup of coffee with Miss Saddler; there was a place around the comer that they could reach without getting wet.
+“Pleased to meetcha,” said the gnarly man. “This is my manager, Mr. Pappas.”
 
-As they started out, Pappas followed, fidgeting more and more. The gnarly man said, “Oh, go home to bed, John. Don’t worry about me.” He grinned at Dr. Saddler. The effect would have been unnerving to anyone but an anthropologist. “Every time he sees me talking to anybody, he thinks it’s some other manager trying to steal me.” He spoke General American, with a suggestion of Irish brogue in the lowering of the vowels in words like “man” and “talk.” “I made the lawyer who drew up our contract fix it so it can be ended on short notice.”
+Dr. Saddler explained, and said she’d like to talk to Mr. Gaffney if she might. She was tactful; you had to be to pry into the private affairs of Naga headhunters, for instance. The gnarly man said he’d be glad to have a cup of coffee with Miss Saddler; there was a place around the corner that they could reach without getting wet.
+
+As they started out, Pappas followed, fidgeting more and more. The gnarly man said, “Oh, go home to bed, John. Don’t worry about me.” He grinned at Dr. Saddler. The effect would have been unnerving to anyone but an anthropologist. “Every time he sees me talking to anybody, he thinks it’s some other manager trying to steal me.” He spoke General American, with a suggestion of Irish brogue in the lowering of the vowels in words like “man” and “talk.”
+
+“I made the lawyer who drew up our contract fix it so it can be ended on short notice.”
 
 Pappas departed, still looking suspicious. The rain had practically ceased. The gnarly man stepped along smartly despite his limp. A woman passed with a fox terrier on a leash. The dog sniffed in the direction of the gnarly man, and then to all appearances went crazy, yelping and slavering. The gnarly man shifted his grip on the massive stick and said quietly, “Better hang on to him, ma’am.” The woman departed hastily. “They just don’t like me,” commented Gaffney. “Dogs, that is.” They found a table and ordered their coffee. When the gnarly man took off his raincoat, Dr. Saddler became aware of a strong smell of cheap perfume. He got out a pipe with a big knobbly bowl. It suited him, just as the walking stick did. Dr. Saddler noticed that the deep-sunk eyes under the beetling arches were light hazel. “Well?” he said in his rumbling drawl.
 
 She began her questions.
 
-“My parents were Irish,” he answered. “But I was bom in South Boston—let’s see—forty-six years ago. I can get you a copy of my birth certificate. Clarence Aloysius Gaffney, May 2, 1910.” He seemed to get some secret amusement out of that statement.
+“My parents were Irish,” he answered. “But I was born in South Boston—let’s see—forty-six years ago. I can get you a copy of my birth certificate. Clarence Aloysius Gaffney, May 2, 1910.” He seemed to get some secret amusement out of that statement.
 
 “Were either of your parents of your somewhat unusual physical type?”
 
-He paused before answering. He always did, it seemed. “Uh-huh. Both of ’em. Glands, I suppose.” “Were they both bom in Ireland?”
+He paused before answering. He always did, it seemed. “Uh-huh. Both of ’em. Glands, I suppose.”
 
-“Yep. County Sligo.” Again that mysterious twinkle. She paused. “Mr. Gaffney, you wouldn’t mind having some photographs and measurements made, would you? You could use the photographs in your business.” “Maybe.” He took a sip. “Ouch! Gazooks, that’s hot!”
+“Were they both born in Ireland?”
+
+“Yep. County Sligo.” Again that mysterious twinkle. She paused. “Mr. Gaffney, you wouldn’t mind having some photographs and measurements made, would you? You could use the photographs in your business.”
+
+“Maybe.” He took a sip. “Ouch! Gazooks, that’s hot!”
 
 “What?”
 
@@ -1695,7 +1709,7 @@ He took his time about answering. “That would depend.” There was another pau
 
 Again there was a long pause. Then the gnarly man said, “Might as well tell you. As soon as you repeat any of it, you’ll have put your professional reputation in my hands, remember.
 
-“First off, I wasn’t bom in Massachusetts. I was bom on the upper Rhine, near Mommenheim, and as nearly as I can figure out, about the year 50,000 B.c.l’
+“First off, I wasn’t born in Massachusetts. I was born on the upper Rhine, near Mommenheim, and as nearly as I can figure out, about the year 50,000 B.c.l’
 
 Dr. Saddler wondered whether she’d stumbled on the biggest thing in anthropology or whether this bizarre man was making Baron Munchausen look like a piker.
 
@@ -1705,7 +1719,7 @@ He seemed to guess her thoughts. “I can’t prove that, of course. But so long
 
 “I think the lightning did it. We were out trying to drive some bison into a pit. Well, this big thunderstorm came up, and the bison bolted in the wrong direction. So we gave up and tried to find shelter. And the next thing I knew I was lying on the ground with the rain running over me, and the rest of the clan standing around wailing about what had they done to get the storm-god sore at them, so he made a bull’s-eye on one of their best hunters. They’d never said that about me before. It’s funny how you’re never appreciated while you’re alive.
 
-“But I was alive, all right. My nerves were pretty well shot for a few weeks, but otherwise I was all right except for some bums on the soles of my feet. I don’t know just what happened, except I was reading a couple of years ago that scientists had located the machinery that controls the replacement of tissue in the medulla oblongata. I think maybe the lightning did something to my medulla to speed it up. Anyway I never got any older after that. Physically, that is. And except for those broken bones I told you about. I was thirty-three at the time, more or less. We didn’t keep track of ages. I look older now, because the lines in your face are bound to get sort of set after a few thousand years, and because our hair was always gray at the ends. But I can still tie an ordinary Homo sapiens in a knot if I want to.”
+“But I was alive, all right. My nerves were pretty well shot for a few weeks, but otherwise I was all right except for some burns on the soles of my feet. I don’t know just what happened, except I was reading a couple of years ago that scientists had located the machinery that controls the replacement of tissue in the medulla oblongata. I think maybe the lightning did something to my medulla to speed it up. Anyway I never got any older after that. Physically, that is. And except for those broken bones I told you about. I was thirty-three at the time, more or less. We didn’t keep track of ages. I look older now, because the lines in your face are bound to get sort of set after a few thousand years, and because our hair was always gray at the ends. But I can still tie an ordinary Homo sapiens in a knot if I want to.”
 
 “Then you’re—you mean to say you’re-,—you’re trying to tell me you’re—”
 
@@ -1727,7 +1741,9 @@ The gnarly man looked at his audience as one might look at willfully stupid chil
 
 McGannon hastily threw in another question. “How is it that you have a birth certificate, as you say you have?”
 
-“Oh, I knew a man named Clarence Gaffney once. He got killed by an automobile, and I took his name.” “Was there any reason for picking this Irish background?”
+“Oh, I knew a man named Clarence Gaffney once. He got killed by an automobile, and I took his name.”
+
+“Was there any reason for picking this Irish background?”
 
 “Are you Irish, Dr. McGannon?”
 
@@ -1787,7 +1803,11 @@ McGannon jumped up. “Where can I get in touch with you again, Mr. Gaffney? The
 
 The gnarly man told him. “I’m free mornings. My working hours are two to midnight on weekdays, with a
 
-couple of hours off for dinner. Union rules, you know.” “You mean there’s a union for you show people?” “Sure. Only they call it a guild. They think they’re artists, you know.”
+couple of hours off for dinner. Union rules, you know.”
+
+“You mean there’s a union for you show people?”
+
+“Sure. Only they call it a guild. They think they’re artists, you know.”
 
 Blue and Jeffcott watched the gnarly man and the historian walking slowly toward the subway together. Blue said, “Poor old Mac! I always thought he had sense. Looks like he’s swallowed this Gaffney’s ravings hook, line, and sinker.”
 
@@ -2005,9 +2025,11 @@ The gnarly man spoke up. “If you don’t mind, Dr. Dunbar. I left my hat at yo
 
 Dunbar looked at him silently and left with his cohorts.
 
-The gnarly man was giving the lawyer further details when the telephone rang. Robinette answered: “Yes . .. Saddler? Yes, he’s here . . . Your Dr. Dunbar was going to murder him so he could dissect him . . . Okay.” He turned to the gnarly man. “Your friend Dr. Saddler is looking for you. She’s on her way up here.” “Herakles!” said Gaffney. “I’m going.”
+The gnarly man was giving the lawyer further details when the telephone rang. Robinette answered: “Yes . .. Saddler? Yes, he’s here . . . Your Dr. Dunbar was going to murder him so he could dissect him . . . Okay.” He turned to the gnarly man. “Your friend Dr. Saddler is looking for you. She’s on her way up here.”
 
-“Don’t you want to see her? She was phoning from around the comer. If you go out now you’ll run into her. How did she know where to call?” -
+“Herakles!” said Gaffney. “I’m going.”
+
+“Don’t you want to see her? She was phoning from around the corner. If you go out now you’ll run into her. How did she know where to call?” -
 
 “I gave her your number. I suppose she called the hospital and my boarding house, and tried you as a last resort. This door goes into the hall, doesn’t it? Well, when she comes in the regular door I’m- going out this one. And I don’t want you saying where I’ve gone. Nice to have known you, Mr. Robinette.”
 
@@ -2156,7 +2178,9 @@ This girl was more than reasonably attractive. She was, thought the dazzled Vini
 
 He came out of his trance as Laird introduced the exquisite creature as “Miss Delfoiros.”
 
-Miss Delfoiros did not seem exactly overcome. As she extended her hand, she said with a noticeable accent: “You are not from the newspapers, Mr. Vining?” “No,” said Vining. “Just a lawyer. I specialize in wills and probates and things. Not thinking of drawing up yours, are you?”
+Miss Delfoiros did not seem exactly overcome. As she extended her hand, she said with a noticeable accent: “You are not from the newspapers, Mr. Vining?”
+
+“No,” said Vining. “Just a lawyer. I specialize in wills and probates and things. Not thinking of drawing up yours, are you?”
 
 She relaxed visibly and laughed. “No. I ’ope I shall not need one for a long, long time.”
 
@@ -2178,7 +2202,9 @@ Vining wondered with a great wonder what he should say to Miss Delfoiros. Finall
 
 “Yes, I think so.”
 
-“You don’t”—he lowered his voice—“know what scheme Herb’s got up his sleeve to beat La Santalucia?” “Yes ... no ... I do not . . . what I mean is, I must not tell.”
+“You don’t”—he lowered his voice—“know what scheme Herb’s got up his sleeve to beat La Santalucia?”
+
+“Yes ... no ... I do not . . . what I mean is, I must not tell.”
 
 More mystery, thought Vining. What he really wanted to know was why she was confined to a wheelchair; whether the cause was temporary or permanent. But you couldn’t ask a person right out, and he was still trying to concoct a leading question when Laird’s bellow wafted in: “All right, folks, soup’s on!” Vining would have pushed the wheelchair in, but before he had a chance, the girl had spun the chair around and was halfway to the dining room.’
 
@@ -2260,11 +2286,15 @@ Ogden Wambach, the referee, poked a finger at the skin of the tail. He was a wel
 
 Iantha spoke up. “Why do you not ask me those
 
-questions, Mr. . . . Mr. ... I do not know you—” “Good grief,” said Wambach. “It talks! I’m the referee, Miss—”
+questions, Mr. . . . Mr. ... I do not know you—”
+
+“Good grief,” said Wambach. “It talks! I’m the referee, Miss—”
 
 “Delfoiros. Iantha Deifoiros.”
 
-“My word. Upon my word. That means—let’s see—Violet Porpoise-tail, doesn’t it? Delphis plus oura—” “You know Greek? Oh, ’ow nice!” She broke into a string of dimotiki.
+“My word. Upon my word. That means—let’s see—Violet Porpoise-tail, doesn’t it? Delphis plus oura—”
+
+“You know Greek? Oh, ’ow nice!” She broke into a string of dimotiki.
 
 Wambach gulped a little. “Too fast for me, I’m afraid. And that’s modern Greek, isn’t it?”
 
@@ -2354,13 +2384,17 @@ Laird grinned. “Go ahead, Louie. Nobody’s stopping you from entering anythin
 
 “Please!” Iantha Delfoiros rolled her violet-blue eyes at the bewildered referee. “I should so like to swim in this nice pool with all these nice people!”
 
-Wambach sighed. “All right, my dear, you shall!” “Whoopee!” cried Laird, the cry being taken up by Vining, the members of the Knickerbocker Swimming Club, the other officials, and lastly the spectators. The noise in the enclosed space made sensitive eardrums wince.
+Wambach sighed. “All right, my dear, you shall!”
+
+“Whoopee!” cried Laird, the cry being taken up by Vining, the members of the Knickerbocker Swimming Club, the other officials, and lastly the spectators. The noise in the enclosed space made sensitive eardrums wince.
 
 “Wait a minute,” yelped Connaught when the echoes had died. “Look here, page 19 of the rules. ‘Regulation Costume, Women: Suits must be of dark color, with skirt attached. Leg is to reach—’ and so forth. Right here it says it. She can’t swim the way she is, not in a sanctioned meet.”
 
 “That’s true,” said Wambach. “Let’s see—”
 
-Horwitz looked up from his little score-sheet-littered table. “Maybe one of the girls has a halter she could borrow,” he suggested. “That would be something.” “Halter, phooey!” snapped Connaught. “This means a regular suit with legs and a skirt, and everybody knows it.”
+Horwitz looked up from his little score-sheet-littered table. “Maybe one of the girls has a halter she could borrow,” he suggested. “That would be something.”
+
+“Halter, phooey!” snapped Connaught. “This means a regular suit with legs and a skirt, and everybody knows it.”
 
 “But she hasn’t got any legsl” cried Laird. “How could she get into—”
 
@@ -2410,7 +2444,9 @@ Iantha slithered off her chair and crawled over to the starting platform. The ot
 
 “Oh, dear,” said Wambach. “What—”
 
-“That,” said Vining urbanely, “is a mermaid dive. You couldn’t expect her to stand upright on her tail.” “But that’s just it!” cried Connaught. “First you enter a nonregulation swimmer. Then you put a nonregulation suit on her. Then you start her off with a nonregulation dive; Ain’t there anything you guys do like other people?”
+“That,” said Vining urbanely, “is a mermaid dive. You couldn’t expect her to stand upright on her tail.”
+
+“But that’s just it!” cried Connaught. “First you enter a nonregulation swimmer. Then you put a nonregulation suit on her. Then you start her off with a nonregulation dive; Ain’t there anything you guys do like other people?”
 
 “But,” said Vining, looking through the rule book, “it doesn’t say—here it is. ‘The start in all races shall be made with a dive.’ But there’s nothing in the rules about what kind of dive shall be used. And the dictionary defines a dive simply as ‘a plunge into water.’ So if you jump in feet first holding your nose, that’s a dive for the purpose of the discussion. And in my years of watching swimming meets, I’ve seen some funnier starting dives than Miss Delfoiros’.”
 
@@ -2470,7 +2506,9 @@ Miss Breitenfeld did not, but the others lined up again. This time the race went
 
 When Mrs. Santalucia emerged this time, she said to Connaught: “I no swim no more. That is final.”
 
-“Oh, but Maria—” It got him nowhere. Finally he said, “Will you swim in the races that she don’t enter?” “Is there any?”
+“Oh, but Maria—” It got him nowhere. Finally he said, “Will you swim in the races that she don’t enter?”
+
+“Is there any?”
 
 “I think so. Hey, Horwitz, Miss Delfoiros ain’t entered in the breast stroke, is she?”
 
@@ -2656,7 +2694,9 @@ Alice gave a squawk of pain and astonishment and slithered away, shaking her hea
 
 “Bunk!” bellowed Laird. “He’s just sore because we can think up more stunts than he can. He started it, with his web-fingered woman.”
 
-“Damn your complaints!” screamed Wambach. “Damn your sea lions! Damn your papers! Damn your mermaids! Damn your web-fingered women! Damn your swimming clubs! Damn all of you! I’m going mad! You hear? Mad, mad, mad! One more word out of either of you and I’ll have you suspended from the Union!” “Ow, ow, ow!” barked Alice.
+“Damn your complaints!” screamed Wambach. “Damn your sea lions! Damn your papers! Damn your mermaids! Damn your web-fingered women! Damn your swimming clubs! Damn all of you! I’m going mad! You hear? Mad, mad, mad! One more word out of either of you and I’ll have you suspended from the Union!”
+
+“Ow, ow, ow!” barked Alice.
 
 Iantha had finished her fish. She started to pull the bathing suit down again; changed her mind, pulled it off over her head, rolled it up, and threw it across the pool. Halfway across it unfolded and floated down onto the water. The mermaid then cleared her throat, took a deep breath, and, in a clear ringing soprano, launched into the heart-wrenching strains of:
 
@@ -2766,7 +2806,7 @@ She giggled. “But he looked so surprised!”
 
 “Will that make trouble for you?”
 
-“I don’t think so. If he’s a wise cop, he won’t report it at all. You know how the report would read: ‘Attacked by mermaid at comer Broadway and Ninety-eighth Street, 11:45 p.m.’ And where did you leam the unexpurgated version of ‘Barnacle Bill the Sailor’?”
+“I don’t think so. If he’s a wise cop, he won’t report it at all. You know how the report would read: ‘Attacked by mermaid at corner Broadway and Ninety-eighth Street, 11:45 p.m.’ And where did you leam the unexpurgated version of ‘Barnacle Bill the Sailor’?”
 
 “A Greek sponge diver I met in Florida told me. ’E is a friend of us mer-folk, and he taught me my first English. ’E used to joke me about my Cypriot accent when we talked Greek. It is a pretty song, is it not?”
 
@@ -2778,17 +2818,23 @@ She giggled. “But he looked so surprised!”
 
 “But look here, Iantha, why do you have to leave so abruptly?”
 
-She shnigged. “My business with ’Erbert is over, and I promised to be back to Cyprus for my sister’s baby being bom.”
+She shnigged. “My business with ’Erbert is over, and I promised to be back to Cyprus for my sister’s baby being born.”
 
-“You don’t lay eggs? But of course you don’t. Didn’t I just prove last night you were mammals?” “Markee, what an idea! Anyway, I do not want to stay around. I like you and I like ’Erbert, but I do not like living on land. You just imagine living in water for yourself, and you get an idea. And if I stay, the newspapers come, and soon all New York knows about me. We mer-folk do not believe in letting the land men know about us.”
+“You don’t lay eggs? But of course you don’t. Didn’t I just prove last night you were mammals?”
+
+“Markee, what an idea! Anyway, I do not want to stay around. I like you and I like ’Erbert, but I do not like living on land. You just imagine living in water for yourself, and you get an idea. And if I stay, the newspapers come, and soon all New York knows about me. We mer-folk do not believe in letting the land men know about us.”
 
 “Why?”
 
-“We used to be friends with them sometimes, and always it made trouble. And now they ’ave guns and go around shooting things a mile away, to collect them. My great-uncle was shot in the tail last year by some aviator man who thought he was a porpoise or something. We don’t like being collected. So when we see a boat or an airplane coming, we duck down and swim away quick.” “I suppose,” said Vining slowly, “that that’s why there were plenty of reports of mer-folk up to a few centuries ago, and then they stopped, so that now people don’t believe they exist.”
+“We used to be friends with them sometimes, and always it made trouble. And now they ’ave guns and go around shooting things a mile away, to collect them. My great-uncle was shot in the tail last year by some aviator man who thought he was a porpoise or something. We don’t like being collected. So when we see a boat or an airplane coming, we duck down and swim away quick.”
+
+“I suppose,” said Vining slowly, “that that’s why there were plenty of reports of mer-folk up to a few centuries ago, and then they stopped, so that now people don’t believe they exist.”
 
 “Yes. We are smart, and we can see as far as the land men can. So you do not catch us very often. That is why this business with ’Erbert, to buy ten thousand bathing caps for the mer-folk, ’as to be secret. Not even his company will know about it. But they will not care if they get their money. And we shall not ’ave to sit on rocks drying our ’air so much. Maybe later we can arrange to buy some good knives and spears the same way. They would be better than the shell things we use now.”
 
-“I suppose you get all these old coins, out of wrecks?” “Yes. I know of one just off—no, I must not tell you. If the land men know about a wreck, they come with divers. Of course, the very deep ones we do not care about, because we cannot dive down that far. We ’ave to come up for air, like a whale.”
+“I suppose you get all these old coins, out of wrecks?”
+
+“Yes. I know of one just off—no, I must not tell you. If the land men know about a wreck, they come with divers. Of course, the very deep ones we do not care about, because we cannot dive down that far. We ’ave to come up for air, like a whale.”
 
 “How did Herb happen to suck you in on that swimming meet?”
 
@@ -2873,7 +2919,9 @@ his charming questionee, Wilcox tried praise: “I’m surprised that you live u
 
 “You’re crazy about trees?”
 
-“Well, some trees. If there was a job in a place with a Norway maple in front of it, I would take it at once.” “A what in front of the place?”
+“Well, some trees. If there was a job in a place with a Norway maple in front of it, I would take it at once.”
+
+“A what in front of the place?”
 
 “A Norway maple—Acer platanoides. Do you know of a place that has one such?”
 
@@ -3005,7 +3053,9 @@ Camaret looked down with an expression of perplexity, suspicion, reproach, and g
 
 “I don’t ask that. Did you snatch her?”
 
-“No, by damn, I didn’t. I ain’t no board-snatcher.” “Now, boys,” said Gallivan, “we ain’t getting no-wheres arguin’ like this. You do it over and I’ll watch.” So Michod passed the board up a third time. When Camaret took it, it swung wildly and twisted like a live thing. Camaret released it to keep from being pulled off the tramway, and it floated gently back to the place from which Gallivan had picked it. “Saints preserve us!” cried Gallivan. “I don’t like that.”
+“No, by damn, I didn’t. I ain’t no board-snatcher.”
+
+“Now, boys,” said Gallivan, “we ain’t getting no-wheres arguin’ like this. You do it over and I’ll watch.” So Michod passed the board up a third time. When Camaret took it, it swung wildly and twisted like a live thing. Camaret released it to keep from being pulled off the tramway, and it floated gently back to the place from which Gallivan had picked it. “Saints preserve us!” cried Gallivan. “I don’t like that.”
 
 Michod folded his arms triumphantly. “You satisfied, Jean? I didn’t have nothing to do with that.”
 
@@ -3093,7 +3143,9 @@ Pringle saw the boards. He also saw a young woman sitting on the edge of the pil
 
 Pringle decided that his foreman was simply dithering and asked the girl: “You’re not a union organizer, are you?”
 
-The girl and Larochelle answered simultaneously: “I don’t know what that is. I don’t think so.” “Who, me? Aw, come on, Mr. Pringle, you oughta know I hate ’em as much as you—”
+The girl and Larochelle answered simultaneously: “I don’t know what that is. I don’t think so.”
+
+“Who, me? Aw, come on, Mr. Pringle, you oughta know I hate ’em as much as you—”
 
 “Not you, Joe!” cried Pringle. “Not you! I was just asking her—”
 
@@ -3181,7 +3233,9 @@ Larochelle grinned maliciously and trotted off. Pringle winced visibly at the la
 
 “You broke up my home.”
 
-“I broke up your home. I broke up your home. Young lady—What’s your name, by the way?” “Aceria.”
+“I broke up your home. I broke up your home. Young lady—What’s your name, by the way?”
+
+“Aceria.”
 
 “Miss Aceria, or Aceria something?”
 
@@ -3407,21 +3461,21 @@ It was almost dark when Pringle and Larochelle appeared at the sawmill. They loo
 
 “Going to have a little fire.”
 
-“You are going to bum my home?”
+“You are going to burn my home?”
 
 “Maybe.”
 
-“Won’t you bum up the whole yard?”
+“Won’t you burn up the whole yard?”
 
 “Not if we can help it. We’re going to wet down the neighboring piles first. It’s taking a chance, but what the hell?”
 
 “Why are you so determined to destroy my home?”
 
-“Because, damn it,” Pringle’s voice rose, “I’ve had all I can stand of this business! It’s cost me a hundred times the value of those boards. But I won’t give in to you, see? You won’t let me load the boards. Okay, they’re no good to me. So I might as well bum ’em up and end this nonsense for good. And you can’t stop me. Your boards are tied down so you can’t crawl inside ’em and animate ’em. Joe and I are protected, so it won’t do you any good to get rough with us. And your sawdust monsters won’t have a chance against this blowtorch.”
+“Because, damn it,” Pringle’s voice rose, “I’ve had all I can stand of this business! It’s cost me a hundred times the value of those boards. But I won’t give in to you, see? You won’t let me load the boards. Okay, they’re no good to me. So I might as well burn ’em up and end this nonsense for good. And you can’t stop me. Your boards are tied down so you can’t crawl inside ’em and animate ’em. Joe and I are protected, so it won’t do you any good to get rough with us. And your sawdust monsters won’t have a chance against this blowtorch.”
 
 Aceria was silent for a while. The only sounds were the hum of insects, the slap of Pringle’s hand as he hit a punkie on his cheek, the whir of an automobile on the state highway, and Joe Larochelle’s distant footsteps.
 
-Then she said: “I do not think you will bum my home, Mr. Pringle.”
+Then she said: “I do not think you will burn my home, Mr. Pringle.”
 
 “Who’s going to stop me?”
 
@@ -3751,7 +3805,9 @@ The next day, Hathaway left his wife in charge of the shop and drove towards Uti
 
 “Never did. Until a little while ago, that is.”
 
-“What the devil do you mean by that crack, Virgil?” “Oh, just some funny things that happened.”
+“What the devil do you mean by that crack, Virgil?”
+
+“Oh, just some funny things that happened.”
 
 Barbara tactfully refrained from pressing for details. “I never did either, but lately I’ve had a feeling I was being followed,” she said. “And this morning I found this on my dresser.” She held out a slip of paper on which was scrawled:
 
@@ -3847,7 +3903,9 @@ Gaga squirmed. “We was only trying to do Miss Scott a favor,” he said. “Sh
 
 “You know you was let come up here for your vacations only if you don’t use your stone-throwing powers,” Hathaway said. “And you know what Eitsinoha does to little imps who don’t behave.”
 
-“Eitsinoha?” cried Gaga. “You wouldn’t tell her!” “Dunno, yet. You deserve it.”
+“Eitsinoha?” cried Gaga. “You wouldn’t tell her!”
+
+“Dunno, yet. You deserve it.”
 
 “Please, mister, don’t say nothing! We won’t throw even a sand grain! I swear by luskeha! Let us go, and we’ll head right back to Cattaraugus!”
 
@@ -4035,7 +4093,9 @@ He took three little white envelopes from his box and scooted for his room in th
 
 “Don’t tell me a cold-blooded reptile like you is sentimental!”
 
-“Sure. All we Sha’akhfi are. You think we are not pecause we do not show our feelinks in our faces.” “Well,” persisted Hodiak, “what are these sentimental reasons, huh?”
+“Sure. All we Sha’akhfi are. You think we are not pecause we do not show our feelinks in our faces.”
+
+“Well,” persisted Hodiak, “what are these sentimental reasons, huh?”
 
 “First,” (Hithafea counted on his claws) “pecause Herp Lengyel iss one. He was the first man on the campus to treat me like a fellow beink. Second, pecause the kreat de Camara was an Iota when he attendet Atlantic many years ako.”
 
@@ -4226,7 +4286,9 @@ the_guided_man
 
 “So he takes over?” said Ross.
 
-“Exactly. Suppose you’ve let yourself in for a date where there’ll be dancing, and you don’t know how?” “I do, kind of,” said Ovid Ross.
+“Exactly. Suppose you’ve let yourself in for a date where there’ll be dancing, and you don’t know how?”
+
+“I do, kind of,” said Ovid Ross.
 
 “Well, let’s suppose you don’t. We have in the booth, by prearrangement, our Mr. Jerome Bundy, who’s been a ballet dancer and a ballroom dancing teacher—”
 
@@ -4244,7 +4306,7 @@ names—who’s trying to become a professional ballet dancer. He’s only so-so
 
 “Well?”
 
-“Here I am, just a big hick from Rattlesnake, Montana, trying to get on among all these slick operators in New York, where everybody’s bom with his hand in somebody else’s pocket. When I go up against them it scares the behooligers out of me. I get embarrassed and trip over my big feet.”
+“Here I am, just a big hick from Rattlesnake, Montana, trying to get on among all these slick operators in New York, where everybody’s born with his hand in somebody else’s pocket. When I go up against them it scares the behooligers out of me. I get embarrassed and trip over my big feet.”
 
 “In such a 9ase,” said Nye, “we choose controllers specializing in the roles of sophisticate, man-of-the-world, and so forth. Our Mr. Falck here is experienced in such parts. So are Mr. Abrams and Mr. Van Etten. Mr. Bundy is what you might call a second-string sophisticate. When he’s not controlling a man engaged in dancing or athletic sports, he relieves one of the others I mentioned.”
 
@@ -4258,7 +4320,9 @@ names—who’s trying to become a professional ballet dancer. He’s only so-so
 
 Ross looked suspiciously at the salesman. “Dunno as I like that ‘everything.’ ”
 
-Nye spread his hands. “Only at your request. We have no thought of controlling a client beyond his desires. What we do is to compel you to do what you really wish to do, but lack the skill or the nerve to do.” “Say, here’s another thing.”
+Nye spread his hands. “Only at your request. We have no thought of controlling a client beyond his desires. What we do is to compel you to do what you really wish to do, but lack the skill or the nerve to do.”
+
+“Say, here’s another thing.”
 
 “Yes?”
 
@@ -4398,7 +4462,9 @@ Ovid Ross did some mental calculations, subtracting the employment agency’s fe
 
 “Why, the damned little Napoleon! If he said that to me, I’d tell him where to stick his job.” Falck glanced at his watch. “What’s next on your agenda?”
 
-“I don’t think I’ll need any control for the next day or two, but as soon as I get oriented they’re liable to send me out on an interview. So you better stand by.” “Okay. Try to call me a little in advance to brief me. I want to cut Bundy in on your sensory circuits in case he has to substitute for me.”
+“I don’t think I’ll need any control for the next day or two, but as soon as I get oriented they’re liable to send me out on an interview. So you better stand by.”
+
+“Okay. Try to call me a little in advance to brief me. I want to cut Bundy in on your sensory circuits in case he has to substitute for me.”
 
 When he got to the Y.M.C.A. where he lived, Ovid Ross telephoned a White Plains number and got an answer in a strong Russian accent:
 
@@ -4430,7 +4496,9 @@ When he got to the Y.M.C.A. where he lived, Ovid Ross telephoned a White Plains 
 
 “Yeah? How come?”
 
-“I was teaching the boys American history, and she claimed I wasn’t putting enough dialectical materialism into it. I should have explained that the American Revolution was a plot by the American bourgeoisie to acquire exclusive exploitation of the masses instead of having to share it with the British aristocracy. And I said a few things about if even the Russians had given up that line, why should I teach it? We were yelling at one another when Peshkov came in and made peace.” “Has he made any more passes?” asked Ross anxiously.
+“I was teaching the boys American history, and she claimed I wasn’t putting enough dialectical materialism into it. I should have explained that the American Revolution was a plot by the American bourgeoisie to acquire exclusive exploitation of the masses instead of having to share it with the British aristocracy. And I said a few things about if even the Russians had given up that line, why should I teach it? We were yelling at one another when Peshkov came in and made peace.”
+
+“Has he made any more passes?” asked Ross anxiously.
 
 “No, except to stare at me with that hungry expression all the time. It gives me the creeps.”
 
@@ -4608,7 +4676,7 @@ They spun through a hot, humid forenoon up the Westchester parkways to the Peshk
 
 “Well, to give you an idea, Peskhov’s idea of a jolly evening is to sit all alone in his living room with a pistol on the table beside him, drinking vodka and staring into space. Claire tells me he’s been getting moodier and moodier ever since those anti-Communist Russians tried to assassinate him last year.”.
 
-A tremendous barking broke out. Around the comer of the house streaked a half-dozen Russian wolfhounds with long snaky heads thrust forward and long legs pumping like steel springs. The dogs rushed to where the automobile was slowly crunching up the winding gravel driveway and began racing around it like Indians circling a prairie schooner.
+A tremendous barking broke out. Around the corner of the house streaked a half-dozen Russian wolfhounds with long snaky heads thrust forward and long legs pumping like steel springs. The dogs rushed to where the automobile was slowly crunching up the winding gravel driveway and began racing around it like Indians circling a prairie schooner.
 
 “Do we have to fight our way through those?” said Dorothea Dunkelberg. “They scare me.”
 
@@ -4616,7 +4684,7 @@ A tremendous barking broke out. Around the comer of the house streaked a half-do
 
 “Ilya! Olga! Come here! Here, Dmitri! Behave yourself, Anastasia!”
 
-The dogs loped off toward the house, where the girl seized a couple by their collars and dragged them out of sight around the comer. The others followed. Presently, Claire appeared again and waved an arm toward the parking space. Ross parked and got out.
+The dogs loped off toward the house, where the girl seized a couple by their collars and dragged them out of sight around the corner. The others followed. Presently, Claire appeared again and waved an arm toward the parking space. Ross parked and got out.
 
 As Claire La Motte approached the car, Ovid Ross reached into his pocket and pressed his switch button, once. Now, he hoped, he would show up all right in comparison with his slick friend Falck!
 
@@ -4656,7 +4724,7 @@ They started toward the pool when another outbreak of barking halted them. Clair
 
 “Oh, goodness, they got out again! Dmitri has learned to work the latch with his paw!”
 
-The borzois boiled around the comer of the mansion as if pursuing the biggest wolf in Siberia. One made a playful fifteen-foot spring with its forepaws against Gilbert Falck, sending the telagog controller rolling on the greensward. Towels and bathing suits flew about, to be snatched up by the dogs and borne off fluttering. Claire screamed:
+The borzois boiled around the corner of the mansion as if pursuing the biggest wolf in Siberia. One made a playful fifteen-foot spring with its forepaws against Gilbert Falck, sending the telagog controller rolling on the greensward. Towels and bathing suits flew about, to be snatched up by the dogs and borne off fluttering. Claire screamed:
 
 “Yelena! Igor! Behave yourselves!”
 
@@ -4704,7 +4772,7 @@ Falck walked out with a knowing grin. When he came in sight of the other three h
 
 Ovid Ross immediately switched his control back to Bundy. He had no illusions about his game: a powerful serve and a bulletlike forehand drive, but no control to speak of.
 
-They made it mixed doubles, Ross and Claire against the other two. To his amazement, Ross found his smashes going, not into the net or the wire as usual, but into the comers of the other court where nobody could touch them. Claire was pretty good, Dorothea rather poor, but Gilbert Falck excellent, with a catlike agility that more than made up for his lack of Ross’s power. The first set got up to 5-5, then 6-5, then 6-6, then 7-6 .. .
+They made it mixed doubles, Ross and Claire against the other two. To his amazement, Ross found his smashes going, not into the net or the wire as usual, but into the corners of the other court where nobody could touch them. Claire was pretty good, Dorothea rather poor, but Gilbert Falck excellent, with a catlike agility that more than made up for his lack of Ross’s power. The first set got up to 5-5, then 6-5, then 6-6, then 7-6 .. .
 
 Dorothea Dunkelberg wailed: “I can’t anymore, Gil. I’ll pass out in this heat.”
 
@@ -4790,7 +4858,9 @@ Claire La Motte took the woman aside and explained their predicament. Ross saw t
 
 Near at hand, on one of the platforms, a well-built middle-aged man with sparse gray hair and the air of an affable Roman emperor smoked a cigar and read a newspaper. Ross was sure that he had seen the man before. The same thought must have occurred to his controller, for Ross’s eyes stopped roving with the man right in the center of the field. The man looked up as if conscious of scrutiny. His gaze froze as it rested on Ross as if he, too, thought that he recognized Ross.
 
-Ross heard his voice say: “Why hello, Mr. Ba—” “Please!” said Marcus Ballin, with so earnest a gesture that Bundy stopped in the middle of the name.
+Ross heard his voice say: “Why hello, Mr. Ba—”
+
+“Please!” said Marcus Ballin, with so earnest a gesture that Bundy stopped in the middle of the name.
 
 “Everybody goes by first names only here,” continued Ballin. “I’m Marcus, you’re—uh—what was that first name of yours?”
 
@@ -5165,7 +5235,7 @@ My father worried vaguely about my troubles but did little about them, being a w
 
 I’m no psychologist. Like most followers of the exact sciences, I have ah urge to describe psychology as a “science,” in quotes, implying that only the exact sciences like physics are entitled to the name. That may be unfair, but it’s how many physicists feel.
 
-For instance, how can the psychologists all these years have treated sadism as something abnormal, brought on by some stupid parent’s stopping his child from chopping up the furniture with a hatchet, thereby filling him with frustration and insecurity? On the basis of my own experience I will testify that all boys—well, perhaps ninety-nine percent—are natural-bom sadists. Most of them have it beaten out of them. Correct that: most of them have it beaten down into their subconscious, or whatever the headshrinkers call that part of our minds nowadays. It’s still there, waiting a chance to pop up. Hence crime, war, persecution, and all the other ills of society. Probably this cruelty was evolved as a useful characteristic back in the Stone Age. An anthropological friend once told me this idea was fifty years out of date, but he could be wrong also.
+For instance, how can the psychologists all these years have treated sadism as something abnormal, brought on by some stupid parent’s stopping his child from chopping up the furniture with a hatchet, thereby filling him with frustration and insecurity? On the basis of my own experience I will testify that all boys—well, perhaps ninety-nine percent—are natural-born sadists. Most of them have it beaten out of them. Correct that: most of them have it beaten down into their subconscious, or whatever the headshrinkers call that part of our minds nowadays. It’s still there, waiting a chance to pop up. Hence crime, war, persecution, and all the other ills of society. Probably this cruelty was evolved as a useful characteristic back in the Stone Age. An anthropological friend once told me this idea was fifty years out of date, but he could be wrong also.
 
 I suppose I have my share of it. At least I never wanted anything with such passionate intensity as I wanted to kill those little fiends in New Haven by lingering and horrible tortures. Even now, forty-five years after, that wish is still down there at the bottom of my mind, festering away. I still remember them as individuals and can still work myself into a frenzy of hatred and resentment just thinking about them. I don’t suppose I have ever forgotten or forgiven an injury or insult in my life. I’m not proud of that quality, but neither am I ashamed of it. It is just the way I am.
 
@@ -5185,7 +5255,9 @@ The first day, things looked pretty good. I admired the gray uniforms with the l
 
 But it took me only a week to leam two things. One was that the school, for all its uniforms and drills, was loosely run. The boys had plenty of time to think up mischief. The other was that, by the mysterious sense boys have, they immediately picked me as fair game.
 
-On the third day somebody pinned a sign to my back, reading call me sally. I went around all day unconscious of the sign and puzzled by being called “Sally.” “Sally” I remained all the time I was at Rogers. The reason for calling me by a girl’s name was merely that I was small, skinny, and unsocial, as I have never had any tendencies towards sexual abnormality. Had I had, I could easily have indulged them, Rogers being like other boys’ boarding schools in this regard.
+On the third day somebody pinned a sign to my back, reading call me sally. I went around all day unconscious of the sign and puzzled by being called “Sally.”
+
+“Sally” I remained all the time I was at Rogers. The reason for calling me by a girl’s name was merely that I was small, skinny, and unsocial, as I have never had any tendencies towards sexual abnormality. Had I had, I could easily have indulged them, Rogers being like other boys’ boarding schools in this regard.
 
 To this day I wince at the name “Sally.” Some years ago, before I married, matchmaking friends introduced me to an attractive girl and could not understand why I dropped her like a hot brick. Her name was Sally.
 
@@ -5199,7 +5271,9 @@ There was much hazing of new boys at Rogers; the teachers took a fatalistic atti
 
 “We should have shaved the soap up into little pieces. Then he’d have foamed better.”
 
-“Let me tickle him; that’ll make him throw a fit.” “There, he’s foaming fine, like a old geyser.”
+“Let me tickle him; that’ll make him throw a fit.”
+
+“There, he’s foaming fine, like a old geyser.”
 
 “Stop hollering, Sally,” one of them addressed me, “or we’ll put the suds in your eyes.”
 
@@ -5209,7 +5283,9 @@ There was much hazing of new boys at Rogers; the teachers took a fatalistic atti
 
 My yells brought one of the masters, who sharply ordered the tormenters to cease. They stood up while I rose to a sitting position on my bunk, spitting out soapsuds. The master said:
 
-“What’s going on here? Don’t you know this is not allowed? It will mean ten rounds for each of you!” “Rounds” were Rogers’ form of discipline. Each round consisted of marching once around the track in uniform with your piece on your shoulder. (The piece
+“What’s going on here? Don’t you know this is not allowed? It will mean ten rounds for each of you!”
+
+“Rounds” were Rogers’ form of discipline. Each round consisted of marching once around the track in uniform with your piece on your shoulder. (The piece
 
 was a Springfield 1903 army rifle with the firing pin removed, lest some student get .30 cartridges to fit and blow somebody’s head off.) I hoped my tormentors would be at least expelled and was outraged by the lightness of their sentence. They on the other hand were indignant that they had been so hardly treated and protested with the air of outraged virtue:
 
@@ -5664,7 +5740,9 @@ I explained: “If the ground permits, we lash it to the patent aluminium roller
 
 “Most of it,” I said. “You see, it’s the combination of the open vegetation cover and the moderately high rainfall. Erosion is frightfully rapid.”
 
-“And who hauls the head on its little sled?” “Everybody with a hand,” I said. “A big head would need every ounce of muscle in this party. On such a job there’s no place for side.”
+“And who hauls the head on its little sled?”
+
+“Everybody with a hand,” I said. “A big head would need every ounce of muscle in this party. On such a job there’s no place for side.”
 
 “Oh,” said Holtzinger. I could see he was wondering whether a ceratopsian head would be worth the effort.
 
@@ -5924,7 +6002,7 @@ We marched James back to camp and told the crew what we were up against. James c
 
 We spent three dismal days combing the country for that tyrannosaur, but no luck. We felt it wouldn’t have been cricket not to make a good try at recovering Holtzinger’s remains. Back at our main camp, when it wasn’t raining, we collected small reptiles and things for our scientific friends. The Raja and I discussed the question of legal proceedings against Courtney James, but decided there was nothing we could do in that direc-tion.
 
-When the transition chamber materialized, we fell over one another getting into it. We dumped James, still tied, in a comer, and told the chamber operator to throw the switches.
+When the transition chamber materialized, we fell over one another getting into it. We dumped James, still tied, in a corner, and told the chamber operator to throw the switches.
 
 While we were in transition, James said: “You two should have killed me back there.”
 
@@ -6079,7 +6157,9 @@ Ajendra looked innocent. “This loathsome reptile does not understand Your divi
 
 “Never mind. Whither go the victims!”
 
-“One theory of my school is that they are translated to a higher dimension, coexistent with this one. Another holds that they are dispersed into constituent atoms, which, however, retain such mutual affinities that they can be reassembled when the signal for recall is—” “Mean you that you can reverse the effect and fetch back the vanished beings?”
+“One theory of my school is that they are translated to a higher dimension, coexistent with this one. Another holds that they are dispersed into constituent atoms, which, however, retain such mutual affinities that they can be reassembled when the signal for recall is—”
+
+“Mean you that you can reverse the effect and fetch back the vanished beings?”
 
 “Aye, Superhuman Sire. One folds the fan and taps one’s wrists and forehead according to a simple code, and presto! there is the evanished one. Would Your Majesty see a demonstration? There is no danger to the demonstratee, since this humble person can bring him back instanter.”
 
@@ -6225,11 +6305,15 @@ But it is said that the thatcher’s roof is the leakiest in the village. What t
 
 In the Proscribed Palace, it was even harder. The palace swarmed with menials who would be glad to carry tales. The amorous pair had to resort to stratagems. Nasako announced that she had to be left entirely alone in a summer house to compose a poem. The versatile Zamben wrote the poem for her as evidence before he hid himself in the summer house in advance of her arrival.
 
-“That was worth waiting for,” said the Empress, donning her garments. “That fat old fool Tsotuga has not touched me in a year, and a full-blooded woman like me needs frequent stoking. He has not even futtered his pretty young concubines, albeit he is not yet fifty.” “Why? Is he prematurely senile?”
+“That was worth waiting for,” said the Empress, donning her garments. “That fat old fool Tsotuga has not touched me in a year, and a full-blooded woman like me needs frequent stoking. He has not even futtered his pretty young concubines, albeit he is not yet fifty.”
+
+“Why? Is he prematurely senile?”
 
 “Nay, it is his fear of assassination. For a while, he tried doing it in the seated position, so that he could keep looking about for possible assailants. But since he insisted on wearing his armor, it proved too awkward to please anyone. So he gave it up altogether.”
 
-“Well, the thought of a stab in the back is depressing to more than just a man’s spirit. If—which the gods for-fend—an accident should befall His divine Majesty—” “How?” said Nasako. “No assassin dares approach him whilst he has that fan.”
+“Well, the thought of a stab in the back is depressing to more than just a man’s spirit. If—which the gods for-fend—an accident should befall His divine Majesty—”
+
+“How?” said Nasako. “No assassin dares approach him whilst he has that fan.”
 
 “Where does he put it at night?”
 
@@ -6396,7 +6480,9 @@ As Sir Dambert paused, Eudoric interjected, “Sir, that problem now seems on it
 
 “Well,” said Eudoric, “so who was gentle when the Divine Pair created the world?”
 
-“Our forebears were, I’m sure, whate’er were the case with those of the learned Doctor Baldonius. You young people are always full of idealistic notions. Belike thou’lt fall into heretical delusions, for I hear that the Easterlings have not the true religion. They falsely believe that God is one, instead of two as we truly understand.” “Let’s not wander into the mazes of theology,” said Sir Dambert, his chin in his fist. “To be sure, the pay-nim Southrons believe that God is three, an even more pernicious notion than that of the Easterlings.”
+“Our forebears were, I’m sure, whate’er were the case with those of the learned Doctor Baldonius. You young people are always full of idealistic notions. Belike thou’lt fall into heretical delusions, for I hear that the Easterlings have not the true religion. They falsely believe that God is one, instead of two as we truly understand.”
+
+“Let’s not wander into the mazes of theology,” said Sir Dambert, his chin in his fist. “To be sure, the pay-nim Southrons believe that God is three, an even more pernicious notion than that of the Easterlings.”
 
 “An I meet God in my travels, I’ll ask him the truth o’t,” said Eudoric.
 
@@ -6436,7 +6522,9 @@ Jillo sneezed. “Why, sir, come rain, come snow, I never thought that so sturdy
 
 “To the nethermost hell with heroes of the romances! They go clattering around on their destriers for a thousand cantos. Weather is ever fine. Food, shelter, and a change of clothing appear, as by magic, whenever desired. Their armor never rusts. They suffer no tisics and fluxes. They pick up no fleas or lice at the inns. They’re never swindled by merchants, for none does aught so vulgar as buying and selling.”
 
-“If ye’ll pardon me, sir,” said Jillo, “that were no knightly way to speak. It becomes not your station.” “Well, to the nethermost hells with my station, too! Wherever these paladins go, they find damsels in distress to rescue, or have other agreeable, thrilling, and sanitary adventures. What adventures have we had? The time we fled from robbers in the Turonian Forest. The time I fished you out of the Albis half drowned. The time we ran out of food in the Asciburgi Mountains and had to plod fodderless over those hair-raising peaks for three days on empty stomachs.”
+“If ye’ll pardon me, sir,” said Jillo, “that were no knightly way to speak. It becomes not your station.”
+
+“Well, to the nethermost hells with my station, too! Wherever these paladins go, they find damsels in distress to rescue, or have other agreeable, thrilling, and sanitary adventures. What adventures have we had? The time we fled from robbers in the Turonian Forest. The time I fished you out of the Albis half drowned. The time we ran out of food in the Asciburgi Mountains and had to plod fodderless over those hair-raising peaks for three days on empty stomachs.”
 
 “The Divine Pair do but seek to try the mettle of a valorous aspirant knight, sir. Ye should welcome these petty adversities as a chance to prove your manhood.” Euderic made a rude noise with his mouth. “That for my manhood! Right now, I’d fainer have a stout roof overhead, a warm fire before me, and a hot repast in my belly. An ever I go on such a silly jaunt again, I’ll find one of those versemongers—like that troubadour, Landwin of Kromnitch, that visited us yesteryear—and drag him along, to show him how little real adventures are like those of the romances. And if he fall into the Albis, he may drown, for all of me. Were it not for my darling Lusina—”
 
@@ -6472,13 +6560,13 @@ When Jillo came out and quoted prices, Eudoric said, “Too dear. We’ll try th
 
 “Ah, here we are!” said Eudoric. “Suitably squalid, too! You see, good Jillo, I did but yestere’en count our money, and lo! more than half is gone, and our journey not yet half completed.”
 
-“But, noble Master, no man of knightly mettle would so debase himself as to tally his silver, like some base-bom commercial—”
+“But, noble Master, no man of knightly mettle would so debase himself as to tally his silver, like some base-born commercial—”
 
 “Then I must needs lack true knightly mettle. Here we bel”
 
 For a dozen leagues beyond Liptai rose the great, dense Motolian Forest. Beyond the forest lay the provincial capital of Velitchovo. Beyond Velitchovo, the forest thinned out gradatim to the great grassy plains of Pathenia. Beyond Pathenia, Eudoric had been told, stretched the boundless deserts of Pantorozia, over which a man might ride for months without seeing a city.
 
-Yes, the innkeeper told him, there were plenty of dragons in the Motolian Forest. “But fear them not,” said Kasmar in broken Helladic. “From being hunted, they have become wary and even timid. An ye stick to the road and move yarely, they’ll pester you not unless ye surprise or comer one.”
+Yes, the innkeeper told him, there were plenty of dragons in the Motolian Forest. “But fear them not,” said Kasmar in broken Helladic. “From being hunted, they have become wary and even timid. An ye stick to the road and move yarely, they’ll pester you not unless ye surprise or corner one.”
 
 “Have any dragons been devouring maidens fair lately?” asked Eudoric.
 
@@ -6710,7 +6798,9 @@ An hour later, blood-spattered from head to foot, they were still struggling wit
 
 Eudoric said, “But why—why in the name of the God and Goddess—”
 
-“Pray, swear not by your false, heretical deities.” “Well, why should you Pathenians wish to preserve these monstrous reptiles?”
+“Pray, swear not by your false, heretical deities.”
+
+“Well, why should you Pathenians wish to preserve these monstrous reptiles?”
 
 “Imprimis, because their hides and other parts have
 
@@ -6772,7 +6862,9 @@ The judge chuckled. “An old head on young shoulders, I perceive. Well, Master 
 
 “So, ye’ll have to serve out the corresponding prison term, which comes to one mark a day—unless ye can find someone to pay the balance of the fine for you. Take him away, jailer.”
 
-“But, Your Honor!” cried Jillo, “what shall I do without my noble master? When shall I see him again?” “Ye may visit him any day during the regular visiting hours. It were well if ye brought him somewhat to eat, for our prison fare is not of the daintiest.”
+“But, Your Honor!” cried Jillo, “what shall I do without my noble master? When shall I see him again?”
+
+“Ye may visit him any day during the regular visiting hours. It were well if ye brought him somewhat to eat, for our prison fare is not of the daintiest.”
 
 At the first visiting hour, when Jillo pleaded to be allowed to share Eudoric’s sentence, Eudoric said, “Be not a bigger fool than thou canst help! I took sole blame so that ye should be free to run mine errands; whereas had I shared my guilt with you, we had both been mewed up here. Here, take this letter to Doctor Raspiudus; seek him out and acquaint him with our plight. If he be in sooth a true friend of our own Doctor Baldonius, belike he’ll come to our rescue.”
 
@@ -6864,7 +6956,9 @@ After another fortnight, King Vladmor of Pathenia died. When his son Yogor ascen
 
 “He’s seen me but once, in that dark, dank cell, and that for a mere quarter hour. You he’s never seen at all. Methinks I can disguise myself well enough to befool him—unless you have a better notion.”
 
-“Alack, I have none! Then what part shall I play?” “I had thought of going in alone.”
+“Alack, I have none! Then what part shall I play?”
+
+“I had thought of going in alone.”
 
 “Nay, sir, dismiss the thought! Me let my master risk his mortal body and immortal soul in a witch’s lair without my being there to help him?”
 
@@ -6872,7 +6966,9 @@ After another fortnight, King Vladmor of Pathenia died. When his son Yogor ascen
 
 “Ah, but who threw the torch and saved us in the end? What disguise shall I wear?”
 
-“Since Raspiudus knows you not, there’s no need for any. You shall be Baldonius’ servant, as you are mine.” “Ye forget, sir, that if Raspiudus knows me not, his gatekeepers might. Forsooth, they’re likely to recall me because of the noisy protests I made when they barred me out.”
+“Since Raspiudus knows you not, there’s no need for any. You shall be Baldonius’ servant, as you are mine.”
+
+“Ye forget, sir, that if Raspiudus knows me not, his gatekeepers might. Forsooth, they’re likely to recall me because of the noisy protests I made when they barred me out.”
 
 “Hm. Well, you’re too old for a page, too lank for a bodyguard, and too unlearned for a wizard’s assistant. I have it! You shall go as my concubine!”
 
@@ -6892,7 +6988,7 @@ Raspiudus roared with laughter, patting his paunch, “The same old Baldonius! M
 
 “What befell your poor eye?”
 
-“My own carelessness in leaving a comer of a penta-cle open. The demon got in a swipe of his claws ere I could banish him. But now, good Raspiudus, I have a matter to discuss whereof I told you in my note.”
+“My own carelessness in leaving a corner of a pentacle open. The demon got in a swipe of his claws ere I could banish him. But now, good Raspiudus, I have a matter to discuss whereof I told you in my note.”
 
 “Yea, yea, time enow for that. Be ye weary from the road? Need ye baths? Aliment? Drink?”
 
@@ -6934,7 +7030,7 @@ Eudoric shook his head. “Too risky,” he murmured. “Be glad if we get away 
 
 When the horses had been saddled to his satisfaction, he said, “Lend me some of your strength in mounting, youngster.” He groaned as he swung awkwardly into the saddle. “A murrain on thy master, to send us off on this footling errand—me that hasn’t sat a horse in years! Now hand me that accursed roll of hide. I thank thee, youth; here’s a little for thy trouble. Run ahead and tell the gatekeeper to have his portal well opened. I fear that if this beast pulls up of a sudden, I shall go flying over its head!”
 
-A few minutes later, when they had turned a comer and were out of sight of Raspiudus’ house, Eudoric said, “Now trot!”
+A few minutes later, when they had turned a corner and were out of sight of Raspiudus’ house, Eudoric said, “Now trot!”
 
 “If I could but get out of this damned gown,” muttered Jillo. “I can’t ride decently in it.”
 
@@ -6992,7 +7088,9 @@ So if ye would wive, beware of the gyve Of an ill-chosen mate; ’tis a harrowin
 
 But enough of that. What sum had ye in mind?”
 
-“Enough to cover the cost of my good destrier Morgrim and my panoply of plate, together with lance and sword, plus a few other chattels and incidental expenses of travel. Fifteen hundred marks should cover the lot.” “Fif-teen hundred! Whew! I could ne’er afford—nor are these moldy patches of dragon hide worth a fraction of the sum.”
+“Enough to cover the cost of my good destrier Morgrim and my panoply of plate, together with lance and sword, plus a few other chattels and incidental expenses of travel. Fifteen hundred marks should cover the lot.”
+
+“Fif-teen hundred! Whew! I could ne’er afford—nor are these moldy patches of dragon hide worth a fraction of the sum.”
 
 Eudoric sighed and rose. “You know what you can afford, good my sage.” He picked up the roll of dragon hide. “Your colleague Doctor Calporio, wizard to the Count of Treveria, expressed a keen interest in this material. In fact, he offered me more than I have asked of you, but I thought it only honorable to give you the first chance.”
 
@@ -7008,7 +7106,9 @@ An hour’s haggling got Eudoric his fifteen hundred marks. Baldonius said, “W
 
 “My plan to run a carriage on a weekly schedule for Zurgau to Kromnitch, taking all who can pay the fare, as they do in Pathenia. We can’t let the heathen Easterlings get ahead of us.”
 
-“What an extraordinary idea! Need ye a partner?” “Thanks, but nay. Baron Emmerhard has already thrown in with me. He’s promised me my knighthood in exchange for the partnership.”
+“What an extraordinary idea! Need ye a partner?”
+
+“Thanks, but nay. Baron Emmerhard has already thrown in with me. He’s promised me my knighthood in exchange for the partnership.”
 
 “There is no nobility anymore,” said Jillo.
 

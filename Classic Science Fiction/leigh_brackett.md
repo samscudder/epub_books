@@ -274,7 +274,7 @@ Ciaran struck a shivering chord from the harp. “That’s it.”
 
 “Scared?”
 
-“Maybe you want me to go back! Maybe you think a branded thief isn’t good enough for you! Well I can’t help where I was bom or what my parents were—and you’d have a brand on your ugly face too, if you hadn’t just been lucky!”
+“Maybe you want me to go back! Maybe you think a branded thief isn’t good enough for you! Well I can’t help where I was born or what my parents were—and you’d have a brand on your ugly face too, if you hadn’t just been lucky!”
 
 She threw the ladle.
 
@@ -376,7 +376,7 @@ She looked at him. “You and your short cuts! So all that talk in the border to
 
 “So it’s my fault! If that isn’t just like a woman. . . .” Ciaran made an impatient gesture. “All right, all right! That doesn’t matter now. What does matter is where are we going and why?”
 
-“How should I— Wait a minute. We’re stopping.”
+“How should I—Wait a minute. We’re stopping.”
 
 The Kalds warned them with their wands to stand. One of the gray brutes seemed to be listening to something that Ciaran couldn’t hear. Presently it gestured
 
@@ -686,7 +686,7 @@ Ciaran groaned. “This is it. Shall we be brave, or just smart?”
 
 The hunter cocked his huge fists. And then Ram let go a queer animal moan. He shoved past Ciaran and went to his knees beside something Ciaran hadn’t noticed before.
 
-A woman lay awkwardly against the base of the cliff. She was brown and stringy and not very young, with a plain, good face. A squat, thick-shouldered boy sprawled almost on top of her. There was a livid bum on the back of his neck. They were both dead.
+A woman lay awkwardly against the base of the cliff. She was brown and stringy and not very young, with a plain, good face. A squat, thick-shouldered boy sprawled almost on top of her. There was a livid burn on the back of his neck. They were both dead.
 
 Ciaran thought probably the woman had dropped from exhaustion, and the kid had died fighting to save her. He felt sick.
 
@@ -718,7 +718,7 @@ Ciaran looked around. The other Kald lay on the ground. Its neck seemed to be br
 
 Ciaran said, “Yeah.” He looked at Mouse. She seemed perfectly healthy. “Aren’t women supposed to faint at things like this?”
 
-She snorted. “I was bom in the Thieves’ Quarter. We used to roll skulls instead of pennies. They weren’t so scarce.”
+She snorted. “I was born in the Thieves’ Quarter. We used to roll skulls instead of pennies. They weren’t so scarce.”
 
 “I think,” said Ciaran, “the next time I get married HI ask more questions. Let’s go.”
 
@@ -850,7 +850,7 @@ But wise. Wise with a knowledge beyond humanity, and strong with a cold, terribl
 
 Ciaran knew what it was. He had made songs about the creature and sung them in crowded market-places and smoky wine-shops. He’d scared children with it, and made grown people shiver while they laughed.
 
-He wasn’t singing now. He wasn’t laughing. He was looking at one of the androids of Bas the Immortal—a creature bom of the mysterious power of the Stone, with no faintest link to humanity in its body or its brain.
+He wasn’t singing now. He wasn’t laughing. He was looking at one of the androids of Bas the Immortal—a creature born of the mysterious power of the Stone, with no faintest link to humanity in its body or its brain.
 
 Ciaran knew then whose mind had created the shining monster towering above them. And he knew more than ever that it was evil.
 
@@ -978,7 +978,9 @@ The red hunter said, “What were they talking about?”
 
 Ciaran shook his head. His eyes were hard and curiously remote. “I don’t know.”
 
-“I don’t like the smell of it, little man. It’s bad.” “Yeah.” Ciaran’s voice was very steady. “What happened to Mouse?”
+“I don’t like the smell of it, little man. It’s bad.”
+
+“Yeah.” Ciaran’s voice was very steady. “What happened to Mouse?”
 
 “She was taken with the others. Believe me, little man—I had to do what I did or they’d have taken you, too. There was nothing you could do to help her.”
 
@@ -1284,7 +1286,7 @@ It glowed and faded and glowed again. The rusty gleam slid across the half-crouc
 
 Little sparks of hell-fire in a boy’s face, staring at the Stone of Destiny.
 
-A stone no bigger than a man’s heart, with power in it. Even dying, it had power. Power to build a world, or smash it. Power never bom of Ciaran’s planet, or any planet, but something naked and perfect—an egg from the womb of space itself.
+A stone no bigger than a man’s heart, with power in it. Even dying, it had power. Power to build a world, or smash it. Power never born of Ciaran’s planet, or any planet, but something naked and perfect—an egg from the womb of space itself.
 
 It fought to live, lying in its crystal web. It was like watching somebody’s heart stripped clean and struggling to beat. The fire in it flickered and flared, sending pale witch-lights dancing up along the crystal maze.
 
@@ -1340,7 +1342,9 @@ said what it said. It was Ciaran himself, a channel for the unthinking pain insi
 
 “Wait—You were human once. You were young. You laughed and quarrelled and ate and slept, and you were free. That’s all we ask. Just those things. Remember Bas the fisherman’s son, and help us!”
 
-Gray eyes looking at him. Gray eyes looking from a boy’s face. “How could I help you even if I wanted to?” “There’s some power left in the Stone. And the androids are your creatures. You made them. You can destroy them. If you could do it before they finish this thing—from the way they spoke, they mean to destroy you with it.”
+Gray eyes looking at him. Gray eyes looking from a boy’s face. “How could I help you even if I wanted to?”
+
+“There’s some power left in the Stone. And the androids are your creatures. You made them. You can destroy them. If you could do it before they finish this thing—from the way they spoke, they mean to destroy you with it.”
 
 Bas laughed.
 
@@ -1348,7 +1352,7 @@ Ciaran’s hand struck a terrible chord from the harp, and fell away.
 
 Bas said heavily, “They’ll draw power from the grav-itic force of the planet and broadcast it the same way. It will never stop as long as the planet spins. If they finish it in time, the world will live. If they don’t . . He shrugged. “What difference does it make?”
 
-“So,” whispered Ciaran, “we have a choice of a quick death, or a lingering one. We can die free, on our own feet, or we can die slaves.” His voice rose to a full-throated shout. “God! You're no god! You’re a selfish brat sulking in a comer. All right, go back to your Marsali! And I’ll play god for a minute.”
+“So,” whispered Ciaran, “we have a choice of a quick death, or a lingering one. We can die free, on our own feet, or we can die slaves.” His voice rose to a full-throated shout. “God! You're no god! You’re a selfish brat sulking in a corner. All right, go back to your Marsali! And I’ll play god for a minute.”
 
 He raised the harp.
 
@@ -1602,7 +1606,9 @@ id, “Honest to God, Matt, how much longer can we st?”
 
 “Is there a place to stop? Seems like ever since I was >m we’ve been hunting. There’s always something rong. Hostile natives, or fever, or bad soil, always imething, and we go on again. It’s not right. It’s not ly way to try to live.”
 
-Harker said, “I told you not to go having kids.” “What’s that got to do with it?”
+Harker said, “I told you not to go having kids.”
+
+“What’s that got to do with it?”
 
 “You start worrying. The kid isn’t even here yet, and ready you’re worrying.”
 
@@ -1624,7 +1630,7 @@ with him. Oh, I looked over Jordan, and what did I see, cornin’ for to carry m
 
 Harker slept. Presently he began to moan and twitch, and then cry out. People around him woke up. They watched with interest. Harker was a lone wolf awake, ill-tempered and violent. When, at long intervals, he would have one of his spells, no one was anxious to help him out of it. They Uked peeping inside of Harker when he wasn’t looking.
 
-Harker didn’t care. He was playing in the snow again. He was seven years old, and the drifts were high and white, and above them the sky was so blue and clean that he wondered if God mopped it every few days like Mom did the kitchen floor. The sun was shining. It was like a great gold coin, and it made the snow bum like crushed diamonds. He put his arms up to the sun, and the cold air slapped him with clean hands, and he laughed. And then it was all gone. . . .
+Harker didn’t care. He was playing in the snow again. He was seven years old, and the drifts were high and white, and above them the sky was so blue and clean that he wondered if God mopped it every few days like Mom did the kitchen floor. The sun was shining. It was like a great gold coin, and it made the snow burn like crushed diamonds. He put his arms up to the sun, and the cold air slapped him with clean hands, and he laughed. And then it was all gone. . . .
 
 “By gawd,” somebody said. “Ain’t them tears on his face?”
 
@@ -1652,7 +1658,7 @@ Harker said, “It’s mud. It’s swamp. It’s fever. It’s like the rest.”
 
 Viki said, “Can we stop here, just a little while?”
 
-Harker shrugged. “That’s up to Gibbons.” He wanted to ask what the hell difference it made where the kid was bom, but for once he held his tongue. He turned away. Somewhere in the waist a woman was screaming in delirium. There were three shapes wrapped in ragged blankets and laid on planks by the port scuppers. Har-ker’s mouth twitched in a crooked smile.
+Harker shrugged. “That’s up to Gibbons.” He wanted to ask what the hell difference it made where the kid was born, but for once he held his tongue. He turned away. Somewhere in the waist a woman was screaming in delirium. There were three shapes wrapped in ragged blankets and laid on planks by the port scuppers. Har-ker’s mouth twitched in a crooked smile.
 
 “We’ll probably stop long enough to bury them,” he said. “Maybe that’ll be time enough.”
 
@@ -1702,7 +1708,7 @@ Gibbons nodded. Harker said, “You’re crazy, Sim. Vhy you want to do all that
 
 Sim smiled. His teeth were unbelievably white in the weat-polished blackness of his face. “But that’s what my leople always done, Matt. A lot of climbing, to no •lace.”
 
-They made their preparations and had a last night’s leep. McLaren said goodbye to Viki. She didn’t cry. ►he knew why he was going. She kissed him, and all she aid was, “Be careful.” All he said was, “I’ll be back >efore he’s bom.”
+They made their preparations and had a last night’s leep. McLaren said goodbye to Viki. She didn’t cry. ►he knew why he was going. She kissed him, and all she aid was, “Be careful.” All he said was, “I’ll be back before he’s born.”
 
 They started at dawn, carrying dried fish and sea-jerries made into pemmican, and their long knives and opes for climbing. They had long ago run out of am-nunition for their few blasters, and they had no equip-nent for making more. All were adept at throwing pears, and carried three short ones barbed with bone icross their backs.
 
@@ -1944,7 +1950,7 @@ She tipped her small round head in surprise, and asked his own question right ba
 
 Instantly the birds warned him back. The girl laughed, a mischievous ripple of merriment. “Come,” she said, and turned away.
 
-Harker frowned. He leaned over and spoke to McLaren, with peculiar gentleness. He managed to get the boy erect, and then swung him across his shoulders, staggering slightly under the weight. McLaren said distinctly, “I’ll be back before he’s bom.”
+Harker frowned. He leaned over and spoke to McLaren, with peculiar gentleness. He managed to get the boy erect, and then swung him across his shoulders, staggering slightly under the weight. McLaren said distinctly, “I’ll be back before he’s born.”
 
 Harker waited until the girl had started, keeping his distance. The two black birds followed watchfully. They walked out across the thick grass of the plain, toward the trees. The sky was now the color of blood.
 
@@ -1994,7 +2000,7 @@ Teleportation, telekinetic energy—what did the books call it? Back on Earth th
 
 She gave a clear, trilled sound. Harker tried to whistle it and gave up. Some sort of tone-language, he guessed, without words as he knew them. It sounded as though they—her people, whatever they were—had copied the birds.
 
-“I’ll call you Button,” he said. “Bachelor Button— but you wouldn’t know.”
+“I’ll call you Button,” he said. “Bachelor Button—but you wouldn’t know.”
 
 She picked the image out of his mind and sent it back to him. Blue fringe-topped flowers nodding in his mother’s china bowl. She laughed again and sent her black birds away and led on into the forest, calling out like an oriole. Other voices answered her, and presently, racing the light wind between the trees, her people came.
 
@@ -2238,7 +2244,11 @@ Harker stopped. “This is it. Listen, Rory. I want you to go off up there, out 
 
 “Shut up. One of us has got to be alive to take word back to the ships as soon as he can get through the valley. There’s no great rush and you’ll be able to travel in three-four days. You . . . ”
 
-“But why me? You’re a better mountain man. . . .” “You’re married,” said Harker curtly. “It’ll only take one of us to shove a couple of those big slabs down. They’re practically ready to fall of their own weight. Maybe nothing will happen. Maybe I’ll get out all right. But it’s a little silly if both of us take the risk, isn’t it?” “Yeah. But Matt . . .”
+“But why me? You’re a better mountain man. . . .”
+
+“You’re married,” said Harker curtly. “It’ll only take one of us to shove a couple of those big slabs down. They’re practically ready to fall of their own weight. Maybe nothing will happen. Maybe I’ll get out all right. But it’s a little silly if both of us take the risk, isn’t it?”
+
+“Yeah. But Matt . . .”
 
 “Listen, kid.” Harker’s voice was oddly gentle. “I know what I’m doing. Give my regards to Viki and the . . . ”
 
@@ -2324,7 +2334,7 @@ Dead, the Martian trash!
 
 No time. Just a dead man’s face, smiling.
 
-And then something touched me. Thought, a sudden bursting flame of it, hit my mind, drawing it back like a magnet drawing heavy steel. Somebody’s thought, directed at me. A raw, sick horror, a fear, and a compassion so deep it shook my heart— One clear, sharp thrust of word-images came to me now.
+And then something touched me. Thought, a sudden bursting flame of it, hit my mind, drawing it back like a magnet drawing heavy steel. Somebody’s thought, directed at me. A raw, sick horror, a fear, and a compassion so deep it shook my heart—One clear, sharp thrust of word-images came to me now.
 
 “He looks like Lucifer crying for Heaven,” the message said. “His eyes. Oh, Dark Angel, his eyes!”
 
@@ -2370,7 +2380,7 @@ I was sweating, and cold. Colder than the corpse at my feet. I laughed, but not 
 
 “Yes,” I said. “Get back to the ship, where it’s safe.” The girl hadn’t stirred, hadn’t taken her eyes off me. Still afraid, not so compassionate now, but still with her mind on me.
 
-“His eyes bum,” she was thinking. “What color are they? No color, really. Just dark and cold and burning. They’ve looked into horror—and heaven . . .”
+“His eyesrnbum,” she was thinking. “What color are they? No color, really. Just dark and cold and burning. They’ve looked into horror—and heaven . . .”
 
 I let her look into them. She flushed after a while, and I smiled. She was angry, but she couldn’t look away, and I held her, smiling, until the young man pulled her again, not so gently.
 
@@ -2428,7 +2438,7 @@ It was lonely out there on the moonswept desert a mile from the spaceport, when 
 
 Gallery was king-snipe of the glory hole. He was Black Irish, and moderately drunk, and his extrasensory perception was quivering in him like a sensitive diaphragm. I knew he could see my aura. Very faintly, and not with his eyes, but enough. I knew he had seen it the first time he met me, when I signed aboard the Queen of Jupiter on Venus.
 
-You meet them like that occasionally. Celts especially, and Romanies, both Earth and Martian, and a couple of tribes of Venusians. Extra-sensory perception is bom into them. Mostly it’s crude, but it can get in your way.
+You meet them like that occasionally. Celts especially, and Romanies, both Earth and Martian, and a couple of tribes of Venusians. Extra-sensory perception is born into them. Mostly it’s crude, but it can get in your way.
 
 It was in my way now. Gallery had four inches on me, and about thirty pounds, and the whisky he’d drunk was just enough to make him fast, mean, and dangerous. His fists were large.
 
@@ -2770,9 +2780,9 @@ Her mind touched mine gently, with an intimate sweetness and Comfort far beyond 
 
 I don’t know how to describe Shirina. Physically she
 
-' —twTi*--..L£.L:dJ-UCC I lorUM..
+'—twTi*--..L£.L:dJ-UCC I lorUM..
 
-was close enough to humanity. The differences in structure were more subtle than mere shape. They were— well, they were right, and exotic, and beautiful in a way there aren’t any words for.
+was close enough to humanity. The differences in structure were more subtle than mere shape. They were—well, they were right, and exotic, and beautiful in a way there aren’t any words for.
 
 She, and her race, had no need of clothing. Their lazy, sinuous bodies had a fleecy covering that wasn’t fur or feathers or tendrils but something of all three. They had no true color. They changed according to light, in an endless spectrum of loveliness that went far beyond the range you humans know.
 
@@ -2810,7 +2820,7 @@ I could recall it. The first man to dare the Belt, the first man to see Jupiter 
 
 She paused, and added softly, “And myself, Stevie.’*
 
-“Shirina!” A lot of things met and mingled in our thoughts. Emotions bom of alien bodies we had shared. Memories of battle and beauty, of terror and love, under suns that never burned afterward, even in one’s dreams. I can’t explain it. There aren’t any words.
+“Shirina!” A lot of things met and mingled in our thoughts. Emotions born of alien bodies we had shared. Memories of battle and beauty, of terror and love, under suns that never burned afterward, even in one’s dreams. I can’t explain it. There aren’t any words.
 
 “Shirina, help me!”
 
@@ -2838,7 +2848,7 @@ I drew a harsh, tight breath and wiped the sweat from my palms.
 
 “I know,” I said. “I know. But Virgie is my own.”
 
-She’d walk under the X-crystals, smiling, with her red hair dark and shining and her smoke-gray eyes half open and full of dreams. She’d still have the baby in her arms, and Brad would walk beside her. And the X-crystals would pulse and bum with black strange fires, and she would lie down, still smiling, and that would be all.
+She’d walk under the X-crystals, smiling, with her red hair dark and shining and her smoke-gray eyes half open and full of dreams. She’d still have the baby in her arms, and Brad would walk beside her. And the X-crystals would pulse and burn with black strange fires, and she would lie down, still smiling, and that would be all.
 
 All, forever, for Virgie and Brad and the green-eyed Martian baby.
 
@@ -2850,7 +2860,7 @@ All you know is you walk into a radiant Cloud, and you feel like a god, and you 
 
 “No wonder they threw you out of your own dimension!” I cried out.
 
-Shirina sighed. “They called us vampires; parasites— sybaritic monsters who lived only for sensation and pleasure. And they cast us into darkness. Well, perhaps they were right. I don’t know. But we never hurt or frightened anyone, and when I think of the things they did to their own people, in blood and fear and hate, I’m terrified.”
+Shirina sighed. “They called us vampires; parasites—sybaritic monsters who lived only for sensation and pleasure. And they cast us into darkness. Well, perhaps they were right. I don’t know. But we never hurt or frightened anyone, and when I think of the things they did to their own people, in blood and fear and hate, I’m terrified.”
 
 She rose and came and stood over me, glowing like warm pearl against the space-deep crystal. The tiny tips of diamond fire burned on her antennae, and her eyes were like black stars.
 
@@ -3056,7 +3066,7 @@ That’s where I am now, writing this, somewhere between Mars and the Belt. I di
 
 Astellar is gone. The Veil is gone. You don’t have to be afraid any more. I’m going to put this manuscript in a message rocket and send it on, so you’ll know you don’t have to fear. I don’t know why I care.
 
-I don’t know why I’m writing this at all, unless— My God, I know! Why lie? At this stage of the game, why lie?
+I don’t know why I’m writing this at all, unless—My God, I know! Why lie? At this stage of the game, why lie?
 
 I’m alive now. I’m a young man. But the Cloud that kept me that way is gone, and presently I shall grow old, too old, very quickly, and die. And I’m afraid to die.
 
@@ -3102,7 +3112,7 @@ Heath did not care. The dead and the mad do not care. He lay without moving on t
 
 There would be a moment he could not avoid, just before his drugged brain slipped over the edge into oblivion, when he would no longer be able to see anything but the haunted darkness of his own mind, and that moment would seem like all eternity. But afterward, for a few hours, he would find peace.
 
-Until then he would watch, from his dark comer, the life that went on in the Palace of All Possible Delights.
+Until then he would watch, from his dark corner, the life that went on in the Palace of All Possible Delights.
 
 Heath rolled his head slightly. By his shoulder, clinging with its hooked claws to the cot frame, a little bright-scaled dragon crouched and met his glance with jewel-red eyes in which there were peculiar sympathy and intelligence.. Heath smiled and settled back. A nervous spasm shook him but the drug had relaxed him so that it was not severe and passed off quickly.
 
@@ -3474,7 +3484,7 @@ The days and the nights went by, and the Ethne fled north across the Sea of Morn
 
 The Ethne ran as sweetly as though she joyed to be free again, free of the muddy harbor and the chains. And a change came over Heath. He was a man again;
 
-— He stood shaved and clean and erect on his own deck and there was no decision to be made anymore, no doubt. The long dread, the long delay, were over and he too, in his own bitter way, was happy.
+—He stood shaved and clean and erect on his own deck and there was no decision to be made anymore, no doubt. The long dread, the long delay, were over and he too, in his own bitter way, was happy.
 
 They had seen nothing more of the Lahal but Heath knew quite well that she was there somewhere, following. She was not as fleet as the Ethne but she was sound and Johor was a good sailor. Moreover, the priest Vakor was there and he would drive the Lahal over the Mountains of White Cloud if he had to—to catch them.
 
@@ -3858,7 +3868,7 @@ He stopped, shuddering, and brooded as he had so many times before on the truth 
 
 “I don’t understand,” said Alor. “What is ‘radioactive’?” She used the Terran word, as Heath had, because there was no term for it in Venusian.
 
-“It’s a strange sort of fire that bums in certain elements. It eats them away, feeding on its own atoms, and the radiation from this fire is very powerful.” He was silent for a moment, his eyes half closed. “Can’t you feel it?” he asked. “The first little fire that bums in your own blood?”
+“It’s a strange sort of fire that burns in certain elements. It eats them away, feeding on its own atoms, and the radiation from this fire is very powerful.” He was silent for a moment, his eyes half closed. “Can’t you feel it?” he asked. “The first little fire that burns in your own blood?”
 
 “Yes,” Alor whispered. “I feel it.”
 
@@ -3972,7 +3982,7 @@ a sparkling froth. There was an island in that sea, a shape like a fallen mounta
 
 It rode in the clouds like a disc of fire.
 
-Heath knew that his guess was right. It did not matter. Body of a sleeping god or scrap of a fallen moon— it would bring Ethne back to him and for that was all he cared.
+Heath knew that his guess was right. It did not matter. Body of a sleeping god or scrap of a fallen moon—it would bring Ethne back to him and for that was all he cared.
 
 He dragged himself over the edge and let himself go, down the farther slope. He screamed once when the vapor closed over him.
 
@@ -4048,7 +4058,7 @@ He knew now why no one had ever come out of the Moonfire.
 
 He took the vision of Alor by the hand. He wandered with it along the beaches and presently he was aware of something missing. He smiled, and once again the little dragon rode his shoulder and he stroked it and there was no least flaw in this Elysium. David Heath had found his godhead.
 
-But some stubborn comer of his heart betrayed him. It said, This is all a lie and Alor waits for you. If you tarry you and she will be as those others, who are dead and smiling in the Moonfire.
+But some stubborn corner of his heart betrayed him. It said, This is all a lie and Alor waits for you. If you tarry you and she will be as those others, who are dead and smiling in the Moonfire.
 
 He did not want to listen. He was happy. But something made him listen and he knew that as long as the real Alor lived he could not really be content with a dream. He knew that he must destroy this paradise before it destroyed him. He knew that the Moonfire was a
 
@@ -4500,11 +4510,11 @@ With loud cheerfulness, the lame man said in Venu-
 
 sian, “Come in and drink with me, brother, and we will talk of Earth.”
 
-ill
+III
 
 The tavern was of the standard low-class Venusian pattern—a single huge room under bare thatch, the wall half open with the reed shutters rolled up, the floor of split logs propped up on piling out of the mud. A long low bar, little tables, mangy skins and heaps of dubious cushions on the floor around them, and at one end the entertainers—two old men with a drum and a reed pipe, and a couple of sulky, tired-looking girls.
 
-The lame man led Stark to a table in the comer and sank down, calling for wine. His eyes, which were dark and haunted by long pain, burned with excitement. His hands shook. Before Stark had sat down he had begun to talk, his words stumbling over themselves as though he could not get them out fast enough.
+The lame man led Stark to a table in the corner and sank down, calling for wine. His eyes, which were dark and haunted by long pain, burned with excitement. His hands shook. Before Stark had sat down he had begun to talk, his words stumbling over themselves as though he could not get them out fast enough.
 
 “How is it there now? Has it changed any? Tell me how it is—the cities, the lights, the paved streets, the women, the Sun. Oh Lord, what I wouldn’t give to see the Sun again, and women with dark hair and their clothes on!” He leaned forward, staring hungrily into Stark’s face, as though he could see those things mirrored there. “For God’s sake, talk to me—talk to me in English, and tell me about Earth!”
 
@@ -4740,7 +4750,7 @@ Stark whirled around, crouched and ready, his eyes blazing and his body bathed i
 
 His hands reached out to receive the rush, but it never came. The strange shape resolved itself into a boy of about ten, who dragged after him on a bit of rope a young dragon, new and toothless from the egg, and protesting with all its strength.
 
-Stark straightened up, feeling let down and furious— and relieved. The boy scowled at him through a forelock of silver curls. Then he called him a very dirty word and rushed away, kicking and hauling at the little beast until it raged like the father of all dragons and sounded like it, too, in that vast echo chamber.
+Stark straightened up, feeling let down and furious—and relieved. The boy scowled at him through a forelock of silver curls. Then he called him a very dirty word and rushed away, kicking and hauling at the little beast until it raged like the father of all dragons and sounded like it, too, in that vast echo chamber.
 
 A voice spoke. Slow, harsh, sexless, it rang thinly through the vault. Thin—but a steel blade is thin, too. It speaks inexorably, and its word is final.
 
@@ -4880,7 +4890,7 @@ And with astonishing force and accuracy she picked up a ripe fruit and flung it 
 
 Treon looked at the crimson juice trickling slowly down the breast of his tunic, to drip upon the carving in his lap. The half formed head was covered with it. Treon was shaken with silent mirth.
 
-“Well,” said Varra, coming up to Stark, “what do you think; of the Lhari? The proud Lhari, who would not stoop to mingle their blood with the cattle of the swamps. My half-witted brother, my worthless cousins, that little monster Bor who is the last twig of the tree— do you wonder I flew my falcon at Egil?”
+“Well,” said Varra, coming up to Stark, “what do you think; of the Lhari? The proud Lhari, who would not stoop to mingle their blood with the cattle of the swamps. My half-witted brother, my worthless cousins, that little monster Bor who is the last twig of the tree—do you wonder I flew my falcon at Egil?”
 
 She waited for an answer, her head thrown back, the silver curls framing her face like wisps of storm-cloud. There was a swagger about her that at once irritated and delighted Stark. A hellcat, he thought, but a mighty fetching one, and bold as brass. Bold—and honest. Her lips were parted, midway between anger and a smile.
 
@@ -5056,7 +5066,7 @@ At the next period of labor, Stark was driven with the rest out into the City of
 
 VII
 
-Stark had been in places before that oppressed him with a sense of their strangeness or their wickedness— Sinharat, the lovely ruin of coral and gold lost in the Martian wastes; Jekkara, Valkis—the Low-Canal towns that smell of blood and wine; the cliff-caves of Ari-anrhod on the edge of Darkside, the buried tomb-cities of Callisto. But this—this was nightmare to haunt a man’s dreams.
+Stark had been in places before that oppressed him with a sense of their strangeness or their wickedness—Sinharat, the lovely ruin of coral and gold lost in the Martian wastes; Jekkara, Valkis—the Low-Canal towns that smell of blood and wine; the cliff-caves of Ari-anrhod on the edge of Darkside, the buried tomb-cities of Callisto. But this—this was nightmare to haunt a man’s dreams.
 
 He stared about him as he went in the long line of slaves, and felt such a cold shuddering contraction of his belly as he had never known before.
 
@@ -5066,7 +5076,7 @@ Vines like drifts of snow cascading down the stones. Gardens with close-clipped 
 
 Stark remembered the great forest dreaming at the bottom of the gulf, and shivered. He did not like to think how long ago these flowers must have opened their young bloom to the last light they were ever going to see. For they were dead—dead as the forest, dead as the city. Forever bright—and dead.
 
-Stark thought that it must always have been a silent city. It was impossible to imagine noisy throngs flocking to a market square down those immense avenues. The black walls were not made to echo song or laughter. Even the children must have moved quietly along the garden paths, small wise creatures bom to an ancient dignity.
+Stark thought that it must always have been a silent city. It was impossible to imagine noisy throngs flocking to a market square down those immense avenues. The black walls were not made to echo song or laughter. Even the children must have moved quietly along the garden paths, small wise creatures born to an ancient dignity.
 
 He was beginning to understand now the meaning of that weird forest. The Gulf of Shuruun had not always been a gulf. It had been a valley, rich, fertile, with this great city in its arms, and here and there on the upper slopes the retreat of some noble or philosopher—of which the castle of the Lhari was a survivor.
 
@@ -5192,11 +5202,15 @@ He started. “Where did you pick up that name?”
 
 “And if I do—what then?”
 
-“Freedom. And me. You’ll rule Shuruun at my side.” Stark’s eyes were mocking. “For how long, Varra?” “Who knows? And what does it matter? The years take care of themselves.” She shrugged. “The Lhari blood has run out, and it’s time there was a fresh Strain. Our children will rule after us, and they’ll be men.”
+“Freedom. And me. You’ll rule Shuruun at my side.” Stark’s eyes were mocking. “For how long, Varra?”
+
+“Who knows? And what does it matter? The years take care of themselves.” She shrugged. “The Lhari blood has run out, and it’s time there was a fresh Strain. Our children will rule after us, and they’ll be men.”
 
 Stark laughed. He roared with it.
 
-“It’s not enough that I’m a slave to the Lhari. Now I must be executioner and herd bull as well!” He looked at her keenly. “Why me, Varra? Why pick on me?” “Because, as I have said, you are the first man I have seen since my father died. Also, there is something about you . . .”
+“It’s not enough that I’m a slave to the Lhari. Now I must be executioner and herd bull as well!” He looked at her keenly. “Why me, Varra? Why pick on me?”
+
+“Because, as I have said, you are the first man I have seen since my father died. Also, there is something about you . . .”
 
 She pushed herself upward to hover lazily, her lips just brushing his.
 
@@ -5716,7 +5730,7 @@ Stark had moved forward, but Treon did not need his help. He had got his hands a
 
 The old woman was talking, cursing, commanding, choking on her own apoplectic breath. Arel began to laugh. She did not move, and her hands remained limp and open in her lap. She laughed and laughed, and Varra looked at Stark and hated him.
 
-“You’re a fool, wild man,” she said. “You would not take what I offered you, so you shall have nothing— only death.”
+“You’re a fool, wild man,” she said. “You would not take what I offered you, so you shall have nothing—only death.”
 
 She slipped the hood from her creature and set it straight at Stark. Then she drew a knife from her girdle and plunged it into Treon’s side.
 
@@ -5742,7 +5756,7 @@ For the first time, there were tears in Treon’s eyes.
 
 A sort of sickness came over Stark. There was something horrible in this spectacle of a family destroying itself. He was too much the savage to be sentimental over Varra, but all the same he could not bear to look at Treon for a while.
 
-Presently he found himself back to back with Helvi, and as they swung their swords—the shock-weapons had been discarded for the same reason as Stark’s gun— Helvi panted, “It has been a good fight, my brother!
+Presently he found himself back to back with Helvi, and as they swung their swords—the shock-weapons had been discarded for the same reason as Stark’s gun—Helvi panted, “It has been a good fight, my brother!
 
 We cannot win, but we can have a good death, which is better than slavery!”
 
@@ -5830,7 +5844,7 @@ AHRIAN
 
 What a great day it was for everybody, when David came home from deep space. It was a day that will remain for a long while on the calendar of the McQuarrie family, marked heavily in red.
 
-We had driven down to the spaceport to meet him— myself, and Bet, who was David’s and my sister, just out of college, and David’s fiancee, a Miss Lewisham. The Miss Lewisham had family but no money, and David had both, and that was as far as it went. She was one of these handsome, shallow-eyed babes as perfectly machined as a chunk of bakelite, and just as human. Bet thought she was terrific. She had spent hours getting herself up to be as like her as possible, but it was all in vain. Bet’s hair still behaved like hair, and blew.
+We had driven down to the spaceport to meet him—myself, and Bet, who was David’s and my sister, just out of college, and David’s fiancee, a Miss Lewisham. The Miss Lewisham had family but no money, and David had both, and that was as far as it went. She was one of these handsome, shallow-eyed babes as perfectly machined as a chunk of bakelite, and just as human. Bet thought she was terrific. She had spent hours getting herself up to be as like her as possible, but it was all in vain. Bet’s hair still behaved like hair, and blew.
 
 The spaceport was swarming. Interplanetary flight had long ago ceased to be a thing of breathless wonder to the populace, but star-ships were still new and rare, and the men who flew them were still heroic. Word had gone out that the Anson McQuarrie was due in from somewhere beyond the Pleiades, and there were thousands of people backed up behind the barricades. I remember that there were flags, and somebody had prepared a speech.
 
@@ -6014,7 +6028,7 @@ I could not see her face, except as a small blurred whiteness in the gloom. “Y
 
 She said, “I will not be sad.” I could read nothing in the tone of her voice, either.
 
-“Ahrian, you must try to understand us. We were upset today, because we hadn’t expected you, and— well—” I tried, rather lamely, to explain how things had stood. “It wasn’t anything personal. You’re part of the family now, and we’ll do all we can to make you welcome.”
+“Ahrian, you must try to understand us. We were upset today, because we hadn’t expected you, and—well—” I tried, rather lamely, to explain how things had stood. “It wasn’t anything personal. You’re part of the family now, and we’ll do all we can to make you welcome.”
 
 “The little one—she is full of anger.”
 
@@ -6048,13 +6062,17 @@ Instantly he was all attention. He really did seem to adore her. I will admit th
 
 David smiled at her and said that she might have anything there was on Earth or the other planets, except the ugly clothes that might be all right for Earthlings but were not for her. Ahrian smiled back, asking, still with that shy hesitance, for some gem stones of small value, and some fine wires of platinum and gold.
 
-“Diamonds,” said David. “Emeralds. All you like.” “No. I will have the crystal and the zircon. Uncut, please. I wish to shape them myself.”
+“Diamonds,” said David. “Emeralds. All you like.”
+
+“No. I will have the crystal and the zircon. Uncut, please. I wish to shape them myself.”
 
 “With those tiny hands? Very well, darling. I’ll have them here tomorrow.”
 
 Ahrian thanked him gravely and glanced across at me. “I am learning very quickly, Rafe. I have seen all your horses. They are a wonder to me, so large and beautiful.”
 
-“If you like,” I said, “I could teach you to ride.” “Perhaps on that very little one?”
+“If you like,” I said, “I could teach you to ride.”
+
+“Perhaps on that very little one?”
 
 I laughed and explained to her why a three-week foal was not suitable for that. David said fiercely that he was not going to have Ahrian trampled to death by one of my lubberly beasts, and forbade anything of the sort.
 
@@ -6086,7 +6104,7 @@ The stones were all most curiously cut.
 
 It was exactly eight days after that giving of gifts that the thing happened.
 
-David was away on some business in the city. Marthe was spending the weekend—Ahrian seemed an odd kind of chaperone, but we thought she would serve— and we had been taking a stroll in a wood that there is north of the house.
+David was away on some business in the city. Marthe was spending the weekend—Ahrian seemed an odd kind of chaperone, but we thought she would serve—and we had been taking a stroll in a wood that there is north of the house.
 
 All of a sudden we heard the sound of someone screaming.
 
@@ -6134,7 +6152,7 @@ It made no kind of sense. But Bet was dead.
 
 It was a fine ending to a gay evening.
 
-You know how it is with a kid sister. Sometimes she’s a pest, and sometimes she’s ridiculous, and she always talks too much, but even so— And it was such an ugly way to die.
+You know how it is with a kid sister. Sometimes she’s a pest, and sometimes she’s ridiculous, and she always talks too much, but even so—And it was such an ugly way to die.
 
 David was going down and shoot every horse in the place. When I stopped him, he turned on me. There was a bad scene. They were my animals. One had tried, and one had succeeded, and that made me practically a murderer. I let it go, because he was hard hit, and so was I. But from then on there was a wall between me and my brother, and the hate he had against me over Bet’s death seemed to grow day by day. I couldn’t understand why. It seemed almost insane, but whatever shortcomings David had, insanity was not one of them.
 
@@ -6226,7 +6244,7 @@ how fast a spaceship moves at full acceleration? Even by the time we got the boa
 
 “After that, I had a horror of space, the way some people used to have for the sea. It wasn’t that I was afraid of getting killed, it was the emptiness, the dark and the cold and the silence, and the waiting. I hate being cooped in, and the ship was like an iron coffin. I tried to fight it. I made two more voyages, and I was sick for months after the second one. I didn’t tell anybody why. Finally I went up to the Academy to get my ticket, and my father was proud and happy. Blast people’s pride and their ideas that their children have to love just what they dol He gave me a berth on his flagship.
 
-“I couldn’t tell him the truth, and I couldn’t go. I didn’t have any right to—to ask men to depend on me and then maybe— So I crashed my plane. If I died, I wanted to do it decently and alone. If I didn’t, I figured I’d get smashed up enough so that I couldn’t pass a space-physical, and that would be that, with everybody’s honor still intact. I guess God was on my side. Anyway, I judged the impact just right. After that, David carried the torch, and my father died happy.”
+“I couldn’t tell him the truth, and I couldn’t go. I didn’t have any right to—to ask men to depend on me and then maybe—So I crashed my plane. If I died, I wanted to do it decently and alone. If I didn’t, I figured I’d get smashed up enough so that I couldn’t pass a space-physical, and that would be that, with everybody’s honor still intact. I guess God was on my side. Anyway, I judged the impact just right. After that, David carried the torch, and my father died happy.”
 
 We didn’t talk for a while. I sat turning round and round on my finger the ring that Ahrian had given me. Presently Marthe said, “That explains it.”
 
@@ -6248,7 +6266,7 @@ Ahrian’s world. “Turned out she’d described it to me, and imagination did 
 
 She sat still and intent, and then she questioned me about those particular dreams, what Ahrian had said, what I had said, what I remembered. Finally I demanded to know what she was getting at.
 
-“Has it ever occurred to you, Rafe, that all this trouble has come onto you since Ahrian came? All the tragic things there are no real explanations for—Buck, and the old mare, and Bet going down into the paddock in her white formal, a thing no woman in her right mind would do, and at that hour of the night! And now these nightmares that are driving you to—to— Oh, you didn’t tell me that part of it, but I can see it in your face! It’s all wrong, Rafe. It’s all without reason.”
+“Has it ever occurred to you, Rafe, that all this trouble has come onto you since Ahrian came? All the tragic things there are no real explanations for—Buck, and the old mare, and Bet going down into the paddock in her white formal, a thing no woman in her right mind would do, and at that hour of the night! And now these nightmares that are driving you to—to—Oh, you didn’t tell me that part of it, but I can see it in your face! It’s all wrong, Rafe. It’s all without reason.”
 
 “But what on earth could Ahrian have to do with it? That’s just wild talk, Marthe.”
 
@@ -6288,7 +6306,7 @@ I stared at her. “How?”
 
 I remembered that I hadn’t had a single glimpse of that world since I mentioned it to Ahrian, which seemed an odd coincidence.
 
-“Even so, how could she know how I felt about space? How could she— Oh, all right. We’ll go ask David.”
+“Even so, how could she know how I felt about space? How could she—Oh, all right. We’ll go ask David.”
 
 “No, not David! Not anyone who has anything to do with her. Besides, if she has some deep reason to hate David, he wouldn’t be likely to tell us, would he?”
 
@@ -6310,7 +6328,7 @@ Marthe’s car was in the drive. Ahrian called to us from the terrace, looking v
 
 “She didn’t have it when she came.”
 
-“No, she made it— Oh, who cares!”
+“No, she made it—Oh, who cares!”
 
 I yawned and went to sleep. I slept like a baby and never dreamed of anything. I was still asleep when Marthe stopped at the address in the city I had given her and only woke when she shook me half out of the car.
 
@@ -6332,7 +6350,7 @@ We watched strange solar systems plunge toward us, and then the slow unveiling o
 
 In the fascination of watching, I almost forgot what I came for. Then—
 
-It was there. The world, the country of my dream— Ahrian’s world. Each leaf and flower and blade of grass, each shading of color, the gleaming city with the curious roofs, the plain that swept toward the opalescent sea.
+It was there. The world, the country of my dream—Ahrian’s world. Each leaf and flower and blade of grass, each shading of color, the gleaming city with the curious roofs, the plain that swept toward the opalescent sea.
 
 I felt very sick and strange. Tm not sure what happened after that, but presently I was back in Griffith’s
 
@@ -6348,9 +6366,11 @@ house and Marthe was feeding me brandy. I asked for more, and when I stopped sha
 
 “Tell me,” I said. “Bet’s already dead, so it’s too late for her. But there’s David—and me. For God’s sake, Griff, you used to be his friend!”
 
-“Yes,” said Griffith slowly, “I used to be. I told him not to do what he did, but you know David.” He made an angry, indecisive gesture, and then he looked at me. “She’s such a little thing. How did she—I mean—” “Never mind. Just tell me what David did to her. She didn’t come with him of her own free will, did she?”
+“Yes,” said Griffith slowly, “I used to be. I told him not to do what he did, but you know David.” He made an angry, indecisive gesture, and then he looked at me. “She’s such a little thing. How did she—I mean—”
 
-“No. Oh, he tried to make out that she did, but everybody knew better. To this day I don’t know exactly what the deal was, but her people needed something, a particular chemical or drug, I think, and they must have needed it badly. The ship, of course, was heavily stocked with all sorts of chemicals and medical supplies— you know how useful David has found them before in establishing good relations with other races.
+“Never mind. Just tell me what David did to her. She didn’t come with him of her own free will, did she?”
+
+“No. Oh, he tried to make out that she did, but everybody knew better. To this day I don’t know exactly what the deal was, but her people needed something, a particular chemical or drug, I think, and they must have needed it badly. The ship, of course, was heavily stocked with all sorts of chemicals and medical supplies—you know how useful David has found them before in establishing good relations with other races.
 
 “If it isn’t their kids, it’s their cattle, or a crop blight, or polluted water, and they’re always grateful when you can fix things up, especially the primitives. Well, Ahri-an’s people are far from primitive, but I guess they’d run out of the source for whatever it was. David was mighty secretive about the whole thing.”
 
@@ -6364,11 +6384,15 @@ said. “The ugliest part of it was that Ahrian was already pledged . . . At lea
 
 I think, if I had had David’s neck between my hands then, I would have broken it. How evil a mess could a man make? And where were you going to put justice?
 
-Marthe said to Griffith, “Did her people have any unusual abilities? It’s very important, Mr. Griffith.” “Their culture is very complex, and we weren’t there long enough to study it in detail. Also, there was the language barrier. But I’m pretty sure they’re telepaths— many races are, you know—though to what extent I couldn’t say.”
+Marthe said to Griffith, “Did her people have any unusual abilities? It’s very important, Mr. Griffith.”
+
+“Their culture is very complex, and we weren’t there long enough to study it in detail. Also, there was the language barrier. But I’m pretty sure they’re telepaths—many races are, you know—though to what extent I couldn’t say.”
 
 “Telepaths,” said Marthe softly, and looked at me. “Mr. Griffith, do the women there wear a sort of tiara, shaped like—” She described Ahrian’s headgear minutely, including the oddly cut crystal. “Habitually, I mean.”
 
-He stared at her as though he thought it was just like a woman to worry about fashions at a time like this. “Honestly, Miss Walters, I didn’t notice. Both sexes go in for jewelry, and nearly all of them make it themselves, and nobody could keep track—” He halted, apparently struck by a sudden memory. “I did see a marriage ceremony, though, where little crowns like that were used as we use rings. The man and woman exchanged them, and as near as I could figure the words the rite was called something like the One-Making.” “Thank you,” said Marthe. “Thank you very much. Now I think I’d better get Rafe home.”
+He stared at her as though he thought it was just like a woman to worry about fashions at a time like this. “Honestly, Miss Walters, I didn’t notice. Both sexes go in for jewelry, and nearly all of them make it themselves, and nobody could keep track—” He halted, apparently struck by a sudden memory. “I did see a marriage ceremony, though, where little crowns like that were used as we use rings. The man and woman exchanged them, and as near as I could figure the words the rite was called something like the One-Making.”
+
+“Thank you,” said Marthe. “Thank you very much. Now I think I’d better get Rafe home.”
 
 I said something to Griffith, I’m not sure what, but he shook hands with me and seemed relieved. I sat in the car, thinking, and Marthe drove, not back toward the house, but to her apartment. She told me she’d be back in a minute and went off, taking the keys with her. I sat thinking, and my thoughts were not good. Marthe returned, carrying a small suitcase.
 
@@ -6464,7 +6488,7 @@ Ahrian beamed like a happy child, and murmured that her little trinkets weren’
 
 Marthe must have seen me wavering, because she said, “Rafe, darling, put them away where they’ll be quite safe. I wouldn’t want anything to happen to them before the wedding.”
 
-I took them up to my room and hid them in the farthest back comer of a bureau drawer under a pile of shirts. While I was up there alone, the most awful temptation came over me to put the big one on my finger— just to look at it, to admire the sparkle of the queerly cut stone and the wonderful filigree work of the band. What harm could there be in a ring?
+I took them up to my room and hid them in the farthest back corner of a bureau drawer under a pile of shirts. While I was up there alone, the most awful temptation came over me to put the big one on my finger—just to look at it, to admire the sparkle of the queerly cut stone and the wonderful filigree work of the band. What harm could there be in a ring?
 
 I guess it was the very strength of that compulsion that saved me. I got scared. I slammed the drawer shut, locked it, and threw the key out the window. Then I turned around to find Marthe standing in the doorway.
 
@@ -6578,7 +6602,7 @@ eyes from under the shadow of his cowl—eyes like blown coals, bright with suff
 
 I caught only a glimpse of his muffled face. The merest glimpse—but that was enough. Why did he have to show his face to me in that wineshop in Barrakesh?
 
-He passed on. There was no space in the shadowy comer where he went but space was made, a circle of it, a moat between the stranger and the crowd. He sat down. I saw him lay a coin on the outer edge of the table. Presently a serving wench came up, picked up the coin and set down a cup of wine. But it was as if she waited on an empty table.
+He passed on. There was no space in the shadowy corner where he went but space was made, a circle of it, a moat between the stranger and the crowd. He sat down. I saw him lay a coin on the outer edge of the table. Presently a serving wench came up, picked up the coin and set down a cup of wine. But it was as if she waited on an empty table.
 
 I turned to Kardak, my head drover, a Shunni with massive shoulders and uncut hair braided in an intricate tribal knot “What’s all that about?” I asked.
 
@@ -6668,7 +6692,7 @@ H
 
 The caravan tracks branch off at the Wells of Karthedon. One goes westward into Shun and one goes north through the passes of Outer Kesh. But there is a third one, more ancient than the others. It goes toward the east and it is never used. The deep rock wells are dry and the stone-built shelters have vanished under the rolling dimes. It is not until the track begins to climb the mountains that there are even memories.
 
-Kardak refused politely to go beyond the Wells. He would wait for me, he said, a certain length of time, and if I came back we would go on into Shun. If I didn’t— well, his full pay was left in charge of the local headman. He would collect it and go home. He had not liked having the stranger with us. He had doubled his price.
+Kardak refused politely to go beyond the Wells. He would wait for me, he said, a certain length of time, and if I came back we would go on into Shun. If I didn’t—well, his full pay was left in charge of the local headman. He would collect it and go home. He had not liked having the stranger with us. He had doubled his price.
 
 In all that long march up from Barrakesh I had not been able to get a word out of Kardak or the men concerning Shandakor. The stranger had not spoken either. He had told me his name—Corin—and nothing more. Cloaked and cowled he rode alone and brooded. His private devils were still with him and he had a new one now—impatience. He would have ridden us all to death if I had let him.
 
@@ -6690,7 +6714,7 @@ One afternoon, long before sunset, Corin said abruptly, “We will stop here.”
 
 The road went steeply up before us. There was nothing to be seen or heard. Corin sat down in the drifted dust. I crouched down too, a little distance from him. I watched him. HisTace was hidden and he did not speak.
 
-The shadows thickened in that deep and narrow way. Overhead the strip of sky flared saffron and then red— and then the bright cruel stars came out. The wind worked at its cutting and polishing of stone, muttering to itself, an old and senile wind full of dissatisfaction and complaint. There was the dry faint click of falling pebbles.
+The shadows thickened in that deep and narrow way. Overhead the strip of sky flared saffron and then red—and then the bright cruel stars came out. The wind worked at its cutting and polishing of stone, muttering to itself, an old and senile wind full of dissatisfaction and complaint. There was the dry faint click of falling pebbles.
 
 The gun felt cold in my hand, covered with my cloak. I did not want to use it. But I did not want to die here on this silent pathway of vanished armies and caravans and kings.
 
@@ -6788,7 +6812,7 @@ They stood there, laughing at some secret joke of their own, and I did not like 
 
 The road led down and out across the plain. I could feel eyes watching me, the eyes of the sentinels on the rounding slopes, piercing the dim moonlight. The walls of the city began to rise higher and higher. They hid everything but the top of one tall tower that had a queer squat globe on top of it. Rods of crystal projected from the globe. It revolved slowly and the rods sparkled with a sort of white fire that was just on the edge of seeing.
 
-A causeway lifted toward the Western Gate. I mounted it, going very slowly, not wanting to go at all. And now I could see that the gate was open. Open— and this was a city under siege!
+A causeway lifted toward the Western Gate. I mounted it, going very slowly, not wanting to go at all. And now I could see that the gate was open. Open—and this was a city under siege!
 
 I stood still for some time, trying to puzzle out what meaning this might have—an army that did not attack and a city with open gates. I could not find a meaning. There were soldiers on the walls but they were lounging at their ease under the bright banners. Beyond the gate many people moved about but they were intent on their own affairs. I could not hear their voices.
 
@@ -6808,7 +6832,7 @@ These merchants were all human. The nationalities of some of them I knew. Others
 
 Of the throngs that moved about among the stalls, quite a number were human also. There were merchant princes come to barter and there were companies of slaves on their way to the auction block. But the others . . .
 
-I stayed where I was, pressed into a shadowy comer by the gate, and the chill that was on me was not all from the night wind.
+I stayed where I was, pressed into a shadowy corner by the gate, and the chill that was on me was not all from the night wind.
 
 The golden-skinned silver-crested lords of Shandakor
 
@@ -6816,7 +6840,7 @@ I knew well enough from Corin. I say lords because that is how they bore themsel
 
 And there were others. Slender creatures with great wings, some who were lithe and furred, some who were hairless and ugly and moved with a sinuous gliding, some so strangely shaped and colored that I could not even guess at their possible evolution.
 
-The lost races of Mars. The ancient races, of whose pride and power nothing was left but the half-forgotten tales of old men in the farthest comers of the planet. Even I, who had made the anthropological history of Mars my business, had never heard of them except as the distorted shapes of legend, as satyrs and giants used to be known on Earth.
+The lost races of Mars. The ancient races, of whose pride and power nothing was left but the half-forgotten tales of old men in the farthest corners of the planet. Even I, who had made the anthropological history of Mars my business, had never heard of them except as the distorted shapes of legend, as satyrs and giants used to be known on Earth.
 
 Yet here they were in gorgeous trappings, served by naked humans whose fetters were made of precious metals. And before them too the merchants drew aside and bowed.
 
@@ -6890,7 +6914,7 @@ I tried making sudden leaps here and there among the passersby with my arms outs
 
 The street was long. I went its length and the someone followed me. There were many buildings, all lighted and populous and deathly still. I thought of trying to hide in the buildings but I could not bear to be closed in between walls with those people who were not people.
 
-I came into a great circle, where a number of avenues met around the very tall tower I had seen with the revolving globe on top of it. I hesitated, not knowing which way to go. Someone was sobbing and I realized that it was myself, laboring to breathe. Sweat ran into the comers of my mouth and it was cold, and bitter.
+I came into a great circle, where a number of avenues met around the very tall tower I had seen with the revolving globe on top of it. I hesitated, not knowing which way to go. Someone was sobbing and I realized that it was myself, laboring to breathe. Sweat ran into the corners of my mouth and it was cold, and bitter.
 
 A pebble dropped at my feet with a brittle click.
 
@@ -6976,13 +7000,15 @@ The others thought that over. Some of them dissented violently, not so much on t
 
 “A human of our own world, yes. But this man is of Earth and the men of Earth will come to be the new rulers of Mars as we were the old. And Mars will love them no better than she did us because they are as alien as we. So it is not unfitting that he should see us out.”
 
-They had to be content with that. I think they were already so close to the end that they did not really care. By ones and twos they left as though already they had wasted too much time away from the wonders that there were in the streets outside. Some of the men still held the weapons on me and others went and brought precious chains such as the human slaves had worn— shackles, so that I should not escape. They put them on me and Duani laughed.
+They had to be content with that. I think they were already so close to the end that they did not really care. By ones and twos they left as though already they had wasted too much time away from the wonders that there were in the streets outside. Some of the men still held the weapons on me and others went and brought precious chains such as the human slaves had worn—shackles, so that I should not escape. They put them on me and Duani laughed.
 
 “Come,” said Rhul, “and I will show you the machine.”
 
 He led me from the room and up a winding stair. There were tall embrasures and looking through them I discovered that we were in the base of the very high tower with the globe. They must have carried me back to it after Duani had chased me with her laughter and her pebbles. I looked out over the glowing streets, so full of splendor and of silence, and asked Rhul why there were no ghosts inside the tower.
 
-“You have seen the globe with the crystal rods?” “Yes.”
+“You have seen the globe with the crystal rods?”
+
+“Yes.”
 
 “We are under the shadow of its core. There had to be some retreat for us into reality. Otherwise we would lose the meaning of the dream.”
 
@@ -7028,7 +7054,7 @@ As long as the globe turns you are safe from the barbarians. After we are gone y
 
 How I was going to get away with it afterward he did not tell me.
 
-He motioned me down the ladder again but I asked him, “What is the globe, Rhul? How does it make the— the Shadows?”
+He motioned me down the ladder again but I asked him, “What is the globe, Rhul? How does it make the—the Shadows?”
 
 He frowned. “I can only tell you what has become, Fm afraid, mere traditional knowledge. Our wise men studied deeply into the properties of light. They learned that light has a definite effect upon solid matter and they believed, because of that effect, that stone and metal and crystalline things retain a ‘memory’ of all that they have ‘seen.’ Why this should be I do not know.”
 
@@ -7042,7 +7068,7 @@ I was beginning to get a glimmering of the truth. Light-patterns “cut” in th
 
 “They constructed the globe,” said Rhul. “I do not know how many generations that required nor how many failures they must have had. But they found at last the invisible light that makes the stones give up their memories.”
 
-In other words they had found their needle. What wave-length or combination of wave-lengths in the electromagnetic spectrum flowed out from those crystal rods, there was no way for me to know. But where they probed the walls and the paving blocks of Shandakor they scanned the hidden patterns that were buried in them and brought them forth again in form and color— as the electron needle brings forth whole symphonies from a little ridged disc.
+In other words they had found their needle. What wave-length or combination of wave-lengths in the electromagnetic spectrum flowed out from those crystal rods, there was no way for me to know. But where they probed the walls and the paving blocks of Shandakor they scanned the hidden patterns that were buried in them and brought them forth again in form and color—as the electron needle brings forth whole symphonies from a little ridged disc.
 
 How they had achieved sequence and selectivity was another matter. Rhul said something about the “memories” having different lengths. Perhaps he meant depth of penetration. The stones of Shandakor were ages old and the outer surfaces would have worn away. The earliest impressions would be gone altogether or at least have become fragmentary and extremely shallow.
 
@@ -7300,7 +7326,7 @@ Trevor saw a sort of flying lizard, jet black except for a saffron belly. He rai
 
 Around its neck the lizard-thing wore a golden collar. And set into the scaly flesh of its head—into the bone itself, it seemed—was a sun-stone.
 
-There was no mistaking that small vicious flash of radiance. Trevor had dreamed of sun-stones too long to be misled. He watched the creature rise again into the steamy sky and shivered, wondering who, or what, had set that ^priceless thing into the skull of a flying lizard— and why.
+There was no mistaking that small vicious flash of radiance. Trevor had dreamed of sun-stones too long to be misled. He watched the creature rise again into the steamy sky and shivered, wondering who, or what, had set that ^priceless thing into the skull of a flying lizard—and why.
 
 It was the why that bothered him the most. Sun-stones are not mere adornments for wealthy ladies. They are rare, radioactive crystals, having a half-life one third greater than radium, and are used exclusively in the construction of delicate electronic devices dealing' with frequencies above the first octave.
 
@@ -7456,7 +7482,9 @@ In silence they bound each other’s wounds and started off again. If Trevor had
 
 Many times they had to stop and rest. Once he asked her, “Why were they—the Korins—hunting you?”
 
-“I was running away. Why were they hunting yon?” “Damned if I know. Accident, perhaps. I happened to be where their hawks were flying.”
+“I was running away. Why were they hunting yon?”
+
+“Damned if I know. Accident, perhaps. I happened to be where their hawks were flying.”
 
 The girl wore a chain of iron links around her neck, a solid chain with no clasp, too small to be pulled over the head. From it hung a round tag with a word stamped on it. Trevor took the tag in his hand.
 
@@ -7554,11 +7582,15 @@ Trevor shivered. He knew that sun-stones were impervious to anything but atomic 
 
 “You idiot!” he said to Saul. “You’ve thrown away a fortune. The fortune I’ve spent my life trying to find. What’s the matter with you? Don’t you have any idea at all what those things are worth?”
 
-Saul ignored him, speaking bleakly to the others. “No man with a sun-stone is to be trusted. I say kill him.” Jen said stubbornly, “No, Saul. I owe him my life.” “But he could be a slave, a traitor, working for the Korins.”
+Saul ignored him, speaking bleakly to the others. “No man with a sun-stone is to be trusted. I say kill him.” Jen said stubbornly, “No, Saul. I owe him my life.”
+
+“But he could be a slave, a traitor, working for the Korins.”
 
 “Look at his clothes,” said Jen. “Look at his skin. This morning it was white, now it’s red. Did you ever see a slave that color? Or a Korin, either. Besides, did you ever see him in the valley before? There aren’t as many of us as that.”
 
-“We can’t take any chances,” Saul said. “Not us.” “You can always kill him later. But if he is from beyond the mountains, perhaps even from Earth—” She said the word hesitantly, as though she did not quite believe there was such a place. “He might know some of the things we’ve been made to forget. He might help us. Anyway, the others have a right to their say before you kill him.”
+“We can’t take any chances,” Saul said. “Not us.”
+
+“You can always kill him later. But if he is from beyond the mountains, perhaps even from Earth—” She said the word hesitantly, as though she did not quite believe there was such a place. “He might know some of the things we’ve been made to forget. He might help us. Anyway, the others have a right to their say before you kill him.”
 
 Saul shook his head. “I don’t like it. But—•” He hesitated, scowling thoughtfully. “All right. We’ll settle it up
 
@@ -7666,7 +7698,7 @@ He pronounced the word with the same hatred and scorn that always accompanied th
 
 “They used to do that in the early days. Use convict labor in the mines. It made so much trouble they had to stop it. Were the Korins . . . ?”
 
-“They were the convicts. The big ship crashed in the valley but most of the people weren’t killed. After the crash the convicts killed the men who were in charge of the ship, and made the settlers obey them. That’s how it all started. And that’s why we’re proud we’re slaves— because we’re descended from the settlers.”
+“They were the convicts. The big ship crashed in the valley but most of the people weren’t killed. After the crash the convicts killed the men who were in charge of the ship, and made the settlers obey them. That’s how it all started. And that’s why we’re proud we’re slaves—because we’re descended from the settlers.”
 
 Trevor could see the picture quite clearly now, the more so because it had happened before in one way or another. The emigrant ship bound for one of the colonies, driven off its course by the tremendous magnetic disturbances that still made Mercury a spaceman’s nightmare.
 
@@ -7694,7 +7726,7 @@ The thing that had been buried in Trevor’s subconscious since last night’s q
 
 made, that formed that particular kind of crystal here. I guess that’s why they’re called sun-stones.”
 
-He shook Ms head. “So that’s how they work it— direct mental communication between the Korins and the hawks, by means of the stones. Simple, too. Set them right in the skull, almost in contact with the brain, and you don’t need all the complicated machines and senders and receivers they’ve been monkeying with in the labs for so long.” He sMvered. ‘Til admit I don’t like the idea, though. There’s something repulsive about it.”
+He shook Ms head. “So that’s how they work it—direct mental communication between the Korins and the hawks, by means of the stones. Simple, too. Set them right in the skull, almost in contact with the brain, and you don’t need all the complicated machines and senders and receivers they’ve been monkeying with in the labs for so long.” He sMvered. ‘Til admit I don’t like the idea, though. There’s something repulsive about it.”
 
 Hugh said, bitterly, “When they were only men, and convicts, we might have beaten them some day, even though they had all the weapons. But when they became the Korins—” He indicated the darkling alcoves of the cave. “This is the only freedom we can ever have now.”
 
@@ -7884,7 +7916,7 @@ The one called Galt, who was nearest him, snarled, “Quiet, slave!”
 
 Trevor looked at him, and at the other Korins. Something about their faces and the way they rode along the darkening empty street told him they too were afraid.
 
-He said, “You, the Korins, the lordly demigods who ride about and send your hawks to hunt and slay— you’re more afraid of your master than the slaves are of you!”
+He said, “You, the Korins, the lordly demigods who ride about and send your hawks to hunt and slay—you’re more afraid of your master than the slaves are of you!”
 
 They turned toward him pallid faces that burned with hatred.
 
@@ -7970,7 +8002,7 @@ Something of the truth of that long waiting came to Trevor, and he felt a shudde
 
 “I am the last,” whispered the silent voice. “For a while I had companionship of minds, but the others are all gone before me, long ago.”
 
-Trevor had a nightmare vision of Mercury, in some incalculable future eon, a frozen world taking its last plunge into the bumed-otit sun, bearing with it these endless rows of alabaster shapes, sitting in their chairs of stone, upright in the dead blackness underneath the ice.
+Trevor had a nightmare vision of Mercury, in some incalculable future eon, a frozen world taking its last plunge into the burned-out sun, bearing with it these endless rows of alabaster shapes, sitting in their chairs of stone, upright in the dead blackness underneath the ice.
 
 He fought back to reality, clutching his hatred as a swimmer clings to a plank, his voice raw with passion and bitterness as he cried out.
 
@@ -7994,7 +8026,7 @@ Darkness. He was lost in it, and he was not himself any more. He fled through th
 
 Darkness. Dreams.
 
-Dawn, high on the blazing mountains. He stood in the city, watching the light grow bright and pitiless, watching it bum on the upper walls and then slip downward into the streets, casting heavy shadows in the openings of door and window, so that the houses looked like skulls with empty eyeholes and gaping mouths. The buildings no longer seemed too big. He walked between them, and when he came to steps he climbed them easily, and the window ledges were no higher than his head. He knew these buildings. He looked at each one as he passed, naming it, remembering with a long, long memory.
+Dawn, high on the blazing mountains. He stood in the city, watching the light grow bright and pitiless, watching it burn on the upper walls and then slip downward into the streets, casting heavy shadows in the openings of door and window, so that the houses looked like skulls with empty eyeholes and gaping mouths. The buildings no longer seemed too big. He walked between them, and when he came to steps he climbed them easily, and the window ledges were no higher than his head. He knew these buildings. He looked at each one as he passed, naming it, remembering with a long, long memory.
 
 The hawks came down to him, the faithful servants with the sun-stones in their brows. He stroked their pliant necks, and they hissed softly with pleasure, but their shallow minds were empty of everything but that vague sensation. He passed on through the familiar streets, and in them nothing stirred. All through the day from dawn to sunset, and in the darkness that came afterward, nothing stirred, and there was a silence among the stones.
 
@@ -8010,7 +8042,7 @@ Then, in a burst of flame and thunder, new life came into the valley. Human life
 
 Some of the men were more violent than the others. Shannach saw their emojtions in patterns of scarlet against the dark of his inner mind. They had already made themselves masters, and a number of these frail sensitive brains had snapped out swiftly because of them. “These I will take for my own,” thought Shannach. “Their mind-patterns are crude, but strong, and I am interested in death.”
 
-There had been a surgeon aboard the ship but he was dead. However, there was no need of a surgeon for what was about to be done. When Shannach had finished talking to the men he had chosen, telling them of the sun-stones, telling them the truth, but not all of it— when those men had eagerly agreed to the promise of power—Shannach took complete control. And the clumsy convict hands that moved now with such exquisite skill were as much his instruments as the scalpels of the dead surgeon that they wielded, making the round incision and the delicate cutting of the bone.
+There had been a surgeon aboard the ship but he was dead. However, there was no need of a surgeon for what was about to be done. When Shannach had finished talking to the men he had chosen, telling them of the sun-stones, telling them the truth, but not all of it—when those men had eagerly agreed to the promise of power—Shannach took complete control. And the clumsy convict hands that moved now with such exquisite skill were as much his instruments as the scalpels of the dead surgeon that they wielded, making the round incision and the delicate cutting of the bone.
 
 Who was the man that lay there, quiet under the knife? Who were the ones that bent above him, with the strange stones in their brows? Names. There are names and 1 know them. Closer, closer. I know that man who lies there with blood between his eyes . . .
 
@@ -8070,9 +8102,11 @@ Shannach was not used to having his wishes questioned, but he answered patiently
 
 Trevor could understand that. Having had that nightmare glimpse into Shannach’s mind, he could perfectly understand. For one brief moment he was tom with pity for this trapped creature who was alone in the universe. And then he wondered, “What would you do if you could leave the valley? What would you do to another settlement of men?”
 
-“Who knows? I have one thing left to me— curiosity.”
+“Who knows? I have one thing left to me—curiosity.”
 
-“You’d take the Korins with you, and the hawks?” “Some. They are my eyes and ears, my hands and feet. But you object, Trevor.”
+“You’d take the Korins with you, and the hawks?”
+
+“Some. They are my eyes and ears, my hands and feet. But you object, Trevor.”
 
 “What difference does that make?” said Trevor bitterly. “I’ll go look at the ship.”
 
@@ -8100,7 +8134,7 @@ Galt shrugged. “You’re welcome. But keep her chained. She’s too dangerous 
 
 The ship was not far beyond the city. It lay canted over on its side, just clear of a low spur jutting out from \ the barrier cliff. It had hit hard, and some of the main plates were buckled, but from the outside the damage did not seem irreparable, if you had the knowledge and the tools to work with. Three hundred years ago it might have been made to fly again, only those who had the knowledge and the will were dead. And the convicts wanted to stay where they were.
 
-The tough metal of the outer skin, alloyed to resist friction that could bum up a meteor, had stood up
+The tough metal of the outer skin, alloyed to resist friction that could burn up a meteor, had stood up
 
 pretty well under three centuries of Mercurian climate. It was corroded, and where the breaks were the inner - shells were eaten through with rust, but the hulk still retained the semblance of a ship.
 
@@ -8458,7 +8492,7 @@ His hand started to rise weakly to his face. The doctor forestalled him.
 
 “Don’t bother. It’s out. And a delicate j'ob getting it out, it was. You’ll have a headache for a while, but anyone would take a headache for a sun-stone!”
 
-Trevor didn’t answer that He said suddenly, “Jen— and Saul . . . ?”
+Trevor didn’t answer that He said suddenly, “Jen—and Saul . . . ?”
 
 “They’re here. Pretty odd folk they are, too. Won’t talk to any of us. You’re all a blazing mystery, you know.”
 
@@ -8578,7 +8612,7 @@ And the song of Shannach ebbed into silence, as the last of the children of moun
 
 # The Tweener
 
-A taxicab turned the comer and came slowly down the street.
+A taxicab turned the corner and came slowly down the street.
 
 “Here he is!” shrieked the children, tearing open the white gate. “Mother! Dad! He’s here, Uncle Fred’s here!”
 
@@ -8600,7 +8634,7 @@ Fred got out of the cab, trim and soldierly in his uniform with the caduceus on 
 
 “Sit down on the porch,” Lucille said. “There’s a little breeze—”
 
-“In a minute,” Fred said. “But first, don’t you want to see your present?” He set the box down, in a shady spot under the big maple at the comer of the house.
+“In a minute,” Fred said. “But first, don’t you want to see your present?” He set the box down, in a shady spot under the big maple at the corner of the house.
 
 “Now Fred, what are you up to?” she demanded suspiciously. “Martian vases, indeed!”
 
@@ -8666,13 +8700,17 @@ The children, the whole gaggle of them, hunkered in a circle around the chairs t
 
 “Is it like in the books. Uncle Fred? Is it?”
 
-Fred groaned, and pointed to the tweener in Barbie’s arms. “Get him to tell you. He knows better than I do.” “Of course he does,” said Barbie; “John Carter knows everything. But—”
+Fred groaned, and pointed to the tweener in Barbie’s arms. “Get him to tell you. He knows better than I do.”
+
+“Of course he does,” said Barbie; “John Carter knows everything. But—”
 
 “Who?” asked Fred.
 
 “John Carter. John Carter of Mars.”
 
-Fred laughed. “Good. That’s a good name. You get it, don’t you, Matt? Remember all those wonderful Edgar Rice Burroughs stories about the Warlord of Mars, and the Swordsman of Mars, and the Gods of Mars?” “Sure,” said Matt, rather sourly. “The kids read ’em all the time. John Carter is the hero, the kind with a capital H.” He turned to the children. “But John Carter was an Earthman, who went to Mars.”
+Fred laughed. “Good. That’s a good name. You get it, don’t you, Matt? Remember all those wonderful Edgar Rice Burroughs stories about the Warlord of Mars, and the Swordsman of Mars, and the Gods of Mars?”
+
+“Sure,” said Matt, rather sourly. “The kids read ’em all the time. John Carter is the hero, the kind with a capital H.” He turned to the children. “But John Carter was an Earthman, who went to Mars.”
 
 “Well,” said Josh, scornfully impatient of adult il-logic, “he’s a Martian who came to Earth. It’s the same thing. Isn’t it, Uncle Fred?”
 
@@ -9056,7 +9094,7 @@ I had my own. The Newhale News suddenly a famous name on the wire-services, and 
 
 Something occurred to me and I cut him short. “Listen,” I said. “Listen, are you sure you didn’t make a mistake or something? How could the boy’s blood be so
 
-different from his mother’s?” I hunted for the word. “Incompatibility. He’d never have been bom.”
+different from his mother’s?” I hunted for the word. “Incompatibility. He’d never have been born.”
 
 “Nevertheless,” said Doc Callendar mildly, “he was bora. And nevertheless, there is no such blood-type. We’ve run tests backward and forward, together and independently. Kindly allow us to know what we’re talking about, Hank. The boy’s blood obviously must have been compatible with his mother’s. Possibly it’s a more advanced Type O, universally compatible. This is only one of the many things we have to study and evaluate.” He picked up the X-ray films again and looked at them, with an expression of holy ecstasy in his eyes.
 
@@ -9148,7 +9186,9 @@ Doc put it into words.
 
 “Spit an’ image,” said Sally fondly, kissing the red curls that had that queer glint of silver in them. “Sure would like to see that man again, I don’t care what they say. Doctor, I tell you, he was beautiful.”
 
-“Handsome is as handsome does,” said Mrs. Tate. “He was no good, and I knew it the minute I saw—” “Why, Maw,” said Mr. Tate, “he had you eating out of his hand, with them nicey ways of his.” He turned to Doc Callendar, laughing. “She’d a’ gone off to the hayloft with him herself if he’d asked her, and that’s a fact. Ain’t it, Harry?”
+“Handsome is as handsome does,” said Mrs. Tate. “He was no good, and I knew it the minute I saw—”
+
+“Why, Maw,” said Mr. Tate, “he had you eating out of his hand, with them nicey ways of his.” He turned to Doc Callendar, laughing. “She’d a’ gone off to the hayloft with him herself if he’d asked her, and that’s a fact. Ain’t it, Harry?”
 
 Harry said it was, and they all laughed.
 
@@ -9412,7 +9452,9 @@ Croft was the Fire Marshal. I watched the boys pouring water on what was left of
 
 I glanced at Ed, who shrugged. “Could have been a short in that high-voltage equipment.”
 
-Bossert said, “What kind of a girl? A lunatic?” “Another one like the boy. There was a man with her, maybe the boy’s father, I don’t know. The third one was just a man. Mean looking bastard with a gun. She said the fire was necessary.”
+Bossert said, “What kind of a girl? A lunatic?”
+
+“Another one like the boy. There was a man with her, maybe the boy’s father, I don’t know. The third one was just a man. Mean looking bastard with a gun. She said the fire was necessary.”
 
 “All this, just to get rid of some films?”
 
@@ -9492,7 +9534,9 @@ He took the back off and looked inside. After a minute he let go a long low whis
 
 Mrs. Tate said loudly, “You ain’t tearing anything down, young man. You just leave it like it is.”
 
-I said, “What about that dingus on the side?” “Frankly,” said Jud, “that stops me. It’s got a wire to it, but it don’t seem to hitch up anywhere in the set.”
+I said, “What about that dingus on the side?”
+
+“Frankly,” said Jud, “that stops me. It’s got a wire to it, but it don’t seem to hitch up anywhere in the set.”
 
 He turned the set off and began to poke gently around. “See here, this little hairline wire that comes down and bypasses the whole chassis? It cuts in here on the live line, so it draws power whether the set’s on or not. But I don’t see how it can have anything to do with the set operating.”
 
@@ -9506,7 +9550,7 @@ One of the girls said, “What happened?”
 
 “I don’t know,” Jud said. “The goddamned thing just popped like a bomb when I touched it.”
 
-There was a drift of something gray—ash or dust— and that was all. Even the hairline wire was consumed.
+There was a drift of something gray—ash or dust—and that was all. Even the hairline wire was consumed.
 
 “It looks,” I said, “as though Mr. Jones didn’t want anybody else to look over his technological achievements.”
 
@@ -9930,7 +9974,7 @@ But, as Amek said, there are plenty of mountains.
 
 Two writers living and working together, even if 1 they do not collaborate, will inevitably influence each other’s work, in one way or another. Writing is a uniquely personal and solitary endeavor; you do it the only way you know how. But when you’re being con-standy exposed to another way of doing it, a bit of that will mb off.
 
-Ed always knew the last line of a story before he wrote the first one, and every line he wrote aimed I straight at that target. I used the opposite method— write an opening and let it grow. Outlining a plot seemed to kill it for me. Ed says that this method
+Ed always knew the last line of a story before he wrote the first one, and every line he wrote aimed I straight at that target. I used the opposite method—write an opening and let it grow. Outlining a plot seemed to kill it for me. Ed says that this method
 
 seemed to work fine for me, and so it did—when everything went well and the story wrote itself. When it did not, I found myself in a box canyon with no way up the walls, and another beautiful idea went into the files to gather dust.
 

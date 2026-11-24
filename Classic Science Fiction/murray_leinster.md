@@ -1,19 +1,19 @@
 ---
-identifier: 
+identifier: best_of_murray_leinster_b000
 
-title: 
+title: The Best of Murray Leinster
 
-creator: 
+creator: Murray Leinster
 
-cover: 
+cover: murray_leinster.jpg
 
-css: 
+css: class_science_fiction.css
 
 language: en-US
 
-publisher: 
+publisher: Ballantine Books
 
-subject: 
+subject: Science Fiction / Anthology
 
 description: 
 ---
@@ -580,7 +580,7 @@ When the market called for stories about mad scientists who threatened the world
 
 But Murray Leinster did more than improve on existing models; he wrote new kinds of stories. “Sidewise in Time,” which opens this collection, is a classic case in point. One of the most influential sf stories ever written, it developed a concept of “parallel worlds”—worlds that exist in the same time as ours, but in which natural or human history has taken a different course. That idea has since been drawn on by H. Beam Piper, Keith Laumer, and a host of other writers. Some physicists are even reported to be taking the idea seriously—not the specific details, of course, but the concept that our universe may not be the only one in this space-time continuum.
 
-Leinster wasn’t a dour theoretician, by any means— he was a man who could have fun with ideas and share that fun with his readers. “The Fourth-dimensional Demonstrator” takes on the old dream of making money easily, but it never occurred to others who wrote parables of greed that a device producing money out of thin air would do the same for other things, including girl friends . . .
+Leinster wasn’t a dour theoretician, by any means—he was a man who could have fun with ideas and share that fun with his readers. “The Fourth-dimensional Demonstrator” takes on the old dream of making money easily, but it never occurred to others who wrote parables of greed that a device producing money out of thin air would do the same for other things, including girl friends . . .
 
 Or take “A Logic Named Joe,” one of his funniest stories and one of his most prophetic. Most people weren’t aware of computers back then, and nobody realized there might one day be computer information terminals all over the place—with their attendant problems. It’s still fun (and sobering, on reflection) to read about the people who order computer data on how to rob banks or cure their neighbors of concupiscence, but it’s also fun because we know Leinster thought out ideas that hadn’t even occurred to others.
 
@@ -610,7 +610,7 @@ Leinster saw no necessary conflict between reason and human emotional needs, but
 
 It would take a very casual reader to suspect Leinster of xenophobia. “Proxima Centauri” was as close as he came to the BEM (Bug-Eyed Monster) story in which innocent humans are threatened by the monsters. And even in this case, the aliens have a very specific—and logical—reason for being a threat to their human visitors. One might almost view the conflict as the unfortunate by-product of a local environmental crisis.
 
-In “The Lonely Planet,” by contrast, the grim moments are all caused by the ignorance, malice, greed, and downright stupidity of humans. Leinster’s sympathy for the world-brain of Alyx is characteristic of him— and of science fiction generally for the last forty years. There are those, not too well informed, who imagine this attitude to have been developed only within the last decade, usually by themselves.
+In “The Lonely Planet,” by contrast, the grim moments are all caused by the ignorance, malice, greed, and downright stupidity of humans. Leinster’s sympathy for the world-brain of Alyx is characteristic of him—and of science fiction generally for the last forty years. There are those, not too well informed, who imagine this attitude to have been developed only within the last decade, usually by themselves.
 
 Perhaps the most unusual of Leinster’s contact stories, “The Strange Case of John Kingman,” never moves off the Earth at all. There is a subtle irony to the story: the being in the mental hospital who has been classed as a lunatic for nearly two hundred years really is insane—but not for the reasons human doctors have imagined.
 
@@ -628,7 +628,7 @@ In recent years, it has become fashionable to look down on the pioneers of scien
 
 Leinster himself, of course, never claimed to be a Dostoevski—or anyone else so exalted. He took pride in doing what he could do well, but was never pretentious. Yet it was he, and others like him, who created a new kind of fiction with its own themes and traditions. Without them, there would be nothing for today’s science-fiction writers to turn into Literature—indeed, today’s science-fiction writers wouldn’t be. Period.
 
-A pioneer of the scientific imagination in fiction— Leinster was that. But more than a pioneer; that would not be enough to make him worth reading today. The history of any literary genre is littered with pioneering works that are of interest only to scholars, and plenty of those can be found in the sf magazines of thirty or forty years ago. Leinster’s classics have escaped that fate.
+A pioneer of the scientific imagination in fiction—Leinster was that. But more than a pioneer; that would not be enough to make him worth reading today. The history of any literary genre is littered with pioneering works that are of interest only to scholars, and plenty of those can be found in the sf magazines of thirty or forty years ago. Leinster’s classics have escaped that fate.
 
 Oh, you can tell which ones were written in the 1930s as opposed to the 1950s; styles change, after all. But his stories hardly seem dated at all. “The Fourthdimensional Demonstrator,” for instance, could be made the basis for a television comedy tomorrow with only minor changes. Given human nature, the ethical problems of “First Contact” are as real today as in 1944—much as one might regret some ethnic references inspired by World War II.
 
@@ -730,7 +730,7 @@ Now the view was quite otherwise. All was normal as far as the barn. But beyond 
 
 No man could have forced his way ten feet through such a wilderness. From it came a fetid exhalation which was part decay and part lush, rank, growing things, and part the overpowering perfumes of glaringly vivid flowers. It was jungle such as paleobotanists have described as existing in the Carboniferous period; as the source of our coal beds.
 
-“It—it ain’t so!” said Cyrus Harding weakly. “It— ain’t so!”
+“It—it ain’t so!” said Cyrus Harding weakly. “It—ain’t so!”
 
 His wife did not reply. She had not seen. Wearily, she began to clean up after her lord and master’s meal.
 
@@ -766,7 +766,7 @@ not in the United States? I’m not? Then where in hell am I?”
 
 “Ten miles, suh, within the borders of the Confederacy,” said the doctor, and laughed. “A queer mistake, suh, but theah was no intention of insult. You’ll be released at once. Theah is enough tension between Washington an’ Richmond without another border incident to upset ouah hot-heads.”
 
-“Confederacy?” The prisoner choked. “You can’t— you don’t mean the Confederate States—”
+“Confederacy?” The prisoner choked. “You can’t—you don’t mean the Confederate States—”
 
 “Of co’se, suh. The Confederate States of North America. Why not?”
 
@@ -850,7 +850,7 @@ Then a figure appeared near by. Wide hat, wadded cotton-padded jacket, cotton tr
 
 The riders stared. There was the Potomac. But a Chinese village nestled beside it, Chinese junks plied its waters.
 
-“I—I think,” said Maida Haynes unsteadily, “I— think I’ve—gone insane. Haven’t I?”
+“I—I think,” said Maida Haynes unsteadily, “I—think I’ve—gone insane. Haven’t I?”
 
 Professor Minott shrugged. He looked disappointed but queerly resolute.
 
@@ -908,7 +908,7 @@ Hunter gasped, and fumbled at his saddlebags. While he got out the revolvers, Mi
 
 “There has been an upheaval of nature, which still continues. But instead of a shaking and jumbling of earth and rocks, there has been a shaking and jumbling of space and time. I go back to first principles. Time is a dimension. The past is one extension of it, the future is the other, just as east is one extension of a more familiar dimension and west is its opposite.
 
-“But we ordinarily think of time as a line, a sort of tunnel, perhaps. We do not make that error in the dimensions about which we think daily. For example, we know that Annapolis, King George courthouse, and— say—Norfolk are all to the eastward of us. But we know that in order to reach any of them, as a destination, we would have to go not only east but north or south in addition. In imaginative travels into the future, however, we never think in such a common-sense fashion. We assume that the future is a line instead of a coordinate, a path instead of a direction. We assume that if we travel to futureward there is but one possible destination. And that is as absurd as it would be to ignore the possibility of traveling to eastward in any other line than due east, forgetting that there is northeast and southeast and a large number of intermediate points.”
+“But we ordinarily think of time as a line, a sort of tunnel, perhaps. We do not make that error in the dimensions about which we think daily. For example, we know that Annapolis, King George courthouse, and—say—Norfolk are all to the eastward of us. But we know that in order to reach any of them, as a destination, we would have to go not only east but north or south in addition. In imaginative travels into the future, however, we never think in such a common-sense fashion. We assume that the future is a line instead of a coordinate, a path instead of a direction. We assume that if we travel to futureward there is but one possible destination. And that is as absurd as it would be to ignore the possibility of traveling to eastward in any other line than due east, forgetting that there is northeast and southeast and a large number of intermediate points.”
 
 Young Blake said slowly: “I follow you, sir, but it doesn’t seem to bear	”
 
@@ -940,11 +940,11 @@ Now Maida Haynes said: “But—Professor Minott, where are we now?”
 
 Tom Hunter stirred uncomfortably. “We haven’t traveled backward or forward in time, then?”
 
-“No,” repeated Minott. He got to his feet. “That odd nausea we felt seems to be caused by travel sidewise in time. It’s the symptom of a time oscillation. We’ll ride on and see what other worlds await us. We’re a rather well-qualified party for this sort of exploration. I chose you for your trainings. Hunter, zoology. Blake, engineering and geology. Harris”—he nodded to the rather undersized young man, who flushed at being noticed— “Harris is quite a competent chemist, I understand.
+“No,” repeated Minott. He got to his feet. “That odd nausea we felt seems to be caused by travel sidewise in time. It’s the symptom of a time oscillation. We’ll ride on and see what other worlds await us. We’re a rather well-qualified party for this sort of exploration. I chose you for your trainings. Hunter, zoology. Blake, engineering and geology. Harris”—he nodded to the rather undersized young man, who flushed at being noticed—“Harris is quite a competent chemist, I understand.
 
 Miss Ketterling is a capable botanist. Miss Blair	”
 
-Maida Haynes rose slowly. “You anticipated all this, Professor Minott, and yet you brought us into it. You— you said we’ll never get back home. Yet you deliberately arranged it. What—what was your motive? What did you do it for?”
+Maida Haynes rose slowly. “You anticipated all this, Professor Minott, and yet you brought us into it. You—you said we’ll never get back home. Yet you deliberately arranged it. What—what was your motive? What did you do it for?”
 
 Minott climbed into the saddle. He smiled, but there was bitterness in his smile. “In the world we know,” he told her, “I was a professor of mathematics in a small and unconsidered college. I had absolutely no chance of ever being more than a professor of mathematics in a small and unconsidered college. In this world I am, at least, the leader of a group of reasonably intelligent young people. In our saddlebags are arms and ammunition and—more important—books of reference for our future activities! We shall hunt for and find a v/orld in which our technical knowledge is at a premium. We shall live in that world—if all time and space is not destroyed—and use our knowledge.”
 
@@ -1050,7 +1050,7 @@ He listened sharply and then said: “I think we’ve digested your lesson of th
 
 He got up and secured the map over which he had been poring. He brought it back and pointed to a heavy penciled dine. “Here’s a map of Virginia in our time. The Chinese continent appeared just about three miles north of Fredericksburg. The line of demarcation was, I consider, the line along which the giant sequoias' appeared. While in the Chinese time we felt that giddiness and rode back toward Fredericksburg. We came out of the sequoia forest at the same spot as before. I made sure of it. But the continent of our time was no longer there.
 
-“We rode east and—whether you noticed it or not— before we reached the border of King George County there was another abrupt change in the vegetation— from a pine country to oaks and firs, which are not exactly characteristic of this part of the world in our time.
+“We rode east and—whether you noticed it or not—before we reached the border of King George County there was another abrupt change in the vegetation—from a pine country to oaks and firs, which are not exactly characteristic of this part of the world in our time.
 
 We saw no signs of any civilization. We turned south, and ran into that heavy fog and the snow beyond it. Evidently, there’s a section of a time path in which Virginia is still subject to a glacial climate.”
 
@@ -1170,7 +1170,7 @@ Lucy Blair said hesitantly: “Could I—could. I do something for your hand? It
 
 “There’s some fat,” she told him. “Indians used to dress wounds with bear fat. I suppose deer fat would do as well.”
 
-He permitted her to dress the bum, though it was far from a serious one. She begged handkerchiefs from the others to complete the job. There was distinct uneasiness all about the camp fire. This was no party of adventurers, prepared for anything. It had started as an outing of undergraduates.
+He permitted her to dress the burn, though it was far from a serious one. She begged handkerchiefs from the others to complete the job. There was distinct uneasiness all about the camp fire. This was no party of adventurers, prepared for anything. It had started as an outing of undergraduates.
 
 Minott scowled as Lucy Blair worked on his hand. Harris looked as apologetic as possible, because he had made the injury. Bertha Ketterling blubbered—less noisily, now, because nobody paid her any attention. Blake frowned meditatively at the fire. Maida Haynes tried uneasily not to seem conscious of the fact that she was in some sense—though no mention had been made of it—a bone of contention.
 
@@ -1252,7 +1252,7 @@ It squinted at the light, too dull of comprehension to be afraid.
 
 Then Minott spoke, and at his words it groveled in the dirt. Minott spoke harshly, in half-forgotten Latin, and the groveling figure mumbled words which had been barbarous Latin to begin with, and through its bruised lips were still further mutilated.
 
-“It’s a slave,” said Minott coldly. “Strange men— Confederates, I suppose—came from the north today. They fought and killed some of the guards at this estate. This slave denies it, but I imagine he was heading north in hopes of escaping to them. When you think of it, I suppose we’re not the only explorers to be caught out of our own time path by some shift or another.”
+“It’s a slave,” said Minott coldly. “Strange men—Confederates, I suppose—came from the north today. They fought and killed some of the guards at this estate. This slave denies it, but I imagine he was heading north in hopes of escaping to them. When you think of it, I suppose we’re not the only explorers to be caught out of our own time path by some shift or another.”
 
 He growled at the slave and rode on, still headed for the distant light. “What—what are you going to do?” asked Maida faintly.
 
@@ -1280,7 +1280,7 @@ XI
 
 The deputy from Aisne-le-Sur decided that it had been very wise indeed for him to walk in the fresh air. Paris at night is stimulating. That curious attack of vertigo had come of too much champagne. The fresh air had dispelled the fumes. But it was odd that he did not know exactly where he was, though he knew his Paris well.
 
-These streets were strange. The houses were unlike any that he remembered ever having seen before. In the light of the street lamps—and they were unusual, too— there was a certain unfamiliar quality about their architecture. He puzzled over it, trying to identify the peculiar flair these houses showed.
+These streets were strange. The houses were unlike any that he remembered ever having seen before. In the light of the street lamps—and they were unusual, too—there was a certain unfamiliar quality about their architecture. He puzzled over it, trying to identify the peculiar flair these houses showed.
 
 He became impatient. After all, it was necessary for
 
@@ -1338,7 +1338,7 @@ Bertha Ketterling began to blubber noisily. There was the sudden savage sound of
 
 Bang! Bang! Bang-bang! Shots outside, a veritable fusillade of them. Running feet. Shouts. The bars at the doorway fell. The great doors opened, and men stood in the opening with whips and torches, bellowing for the slaves to come out and attack something yet unknown. They were being called from their kennel like dogs. Four of the whip men came inside, flogging the slaves out, while the sound of shots continued. The slaves shrank away, or bounded howling for the open air. But there were three of them who would never shrink or cringe again.
 
-Minott and Harris stood embattled in a comer of the slave shed. Lucy Blair, her hair disheveled, crouched behind Minott, who held a heavy beam in desperate readiness for further battle. Harris, likewise, held a clumsy club. With torchlight upon him, his air of savage defiance turned to one of quaint apology for the dead slave at his feet. And Hunter und two of the girls competed in stark panic for a position behind him. Maida Haynes, dead white, stood backed against a wall, a jagged fragment of gnawed bone held dagger-wise.
+Minott and Harris stood embattled in a corner of the slave shed. Lucy Blair, her hair disheveled, crouched behind Minott, who held a heavy beam in desperate readiness for further battle. Harris, likewise, held a clumsy club. With torchlight upon him, his air of savage defiance turned to one of quaint apology for the dead slave at his feet. And Hunter und two of the girls competed in stark panic for a position behind him. Maida Haynes, dead white, stood backed against a wall, a jagged fragment of gnawed bone held dagger-wise.
 
 The whips lashed out at them. Voices snarled at them. The whips again. Minott struck out furiously, a huge welt across his face.
 
@@ -1380,7 +1380,9 @@ His eyes ran swiftly over the yellow forms.
 
 “News flash: Half of London disappeared at 2:00 a.m. this morning. . . . S.S. Manzanillo reporting. Sea serpent which attacked this ship during the night and seized four sailors returned and was rammed five minutes ago. It seems to be dying. Our bow badly smashed. Two forward compartments flooded. . . . Warning to all mariners. Pack ice seen floating fifty miles off New York harbor. . . . News flash: Madrid, Spain, has undergone inexplicable change. All buildings formerly known now unrecognizable from the air. Air fields have vanished. Mosques seem to have taken the place of churches and cathedrals. A flag bearing the crescent floats. . . . European population of Calcutta seems to have been massacred. S.S. Carib reports harbor empty, all signs of European domination vanished, and hostile mobs lining shore. . . .”
 
-The skipper of the City of Baltimore passed his hand over his forehead. He looked uneasily at the radio operator. “Sparks,” he said gently, “you’d better go see the ship’s doctor. Here! I’ll detail a man to go with you.” “I know,” said Sparks bitterly. “I guess I’m nuts, all right. But that’s what come through.”
+The skipper of the City of Baltimore passed his hand over his forehead. He looked uneasily at the radio operator. “Sparks,” he said gently, “you’d better go see the ship’s doctor. Here! I’ll detail a man to go with you.”
+
+“I know,” said Sparks bitterly. “I guess I’m nuts, all right. But that’s what come through.”
 
 He marched away with his head hanging, escorted by a sailor. A little speck of smoke appeared dead ahead.
 
@@ -1690,7 +1692,9 @@ The commander nodded benevolently.
 
 A pause. Helen Bradley smiled warmly. The commander thought carefully. Then he admitted:
 
-“Very good, Gary! It sounds plausible. What next?” “Why, sir,” said Jack, “since the rate of change shifted, a week ago, it looks as if that other space ship started to decelerate again. Here are my calculations, sir. If the signals are sent at the same interval they kept up for over a moment, there is another space ship headed toward us, and she is decelerating to stop and reverse and will be matching our course and speed in four days and eighteen hours. They’ll meet and surprise us, they think.”
+“Very good, Gary! It sounds plausible. What next?”
+
+“Why, sir,” said Jack, “since the rate of change shifted, a week ago, it looks as if that other space ship started to decelerate again. Here are my calculations, sir. If the signals are sent at the same interval they kept up for over a moment, there is another space ship headed toward us, and she is decelerating to stop and reverse and will be matching our course and speed in four days and eighteen hours. They’ll meet and surprise us, they think.”
 
 The commander’s face lighted up. “Marvelous, Gary! They must be far advanced indeed in civilization! Intercourse between two such peoples, separated by four light-years of distance! What marvels we shall learn! And to think of their sending a ship far beyond their own system to greet and welcome us!”
 
@@ -1728,7 +1732,7 @@ Within the Adastra, Helen Bradley greeted Jack warmly as he got out of his space
 
 He hung up the space suit. As they turned to go through the doorway their hands touched accidentally. They looked at each other and faltered. They stopped, Helen’s eyes shining. They unconsciously swayed toward each other. Jack’s hands lifted hungrily.
 
-Footsteps sounded close by. Alstair, second in command of the space ship, rounded a comer and stopped short.
+Footsteps sounded close by. Alstair, second in command of the space ship, rounded a corner and stopped short.
 
 “What’s this?” he demanded savagely. “Just because the commander’s brought you into officers’ quarters, Gary, it doesn’t follow that your Mut methods of romance can come, too!”
 
@@ -1760,7 +1764,11 @@ He sat up a new pattern on the controls, calculated a moment and deliberately ch
 
 Twenty-six, twenty-seven, twenty-eight seconds. Every alarm bell on the monstrous ship clanged furiously! Emergency doors hissed into place all over the vessel, converting every doorway into an air lock. Seconds later, the visiplates in the main control room began to flash alight.
 
-“Reporting, Rocket Control!” “Reporting, Air Service!” “Reporting, Power Supply!”
+“Reporting, Rocket Control!”
+
+“Reporting, Air Service!”
+
+“Reporting, Power Supply!”
 
 Jack said crisply: “The main inductors report an object two million miles distant with velocity in our direction. The commander is ill. Please find Vice Commander Alstair.”
 
@@ -1892,7 +1900,7 @@ There were a dozen or more officers on hand. The fat rocket chief. The lean air 
 
 Then something stirred in the doorway of the air-lock anteroom. A shadow crossed the threshold. And then the Earthmen saw the creatures who were invading the ship.
 
-For an instant they seemed almost like men. They had two legs, and two dangling things—tentacles— which apparently served as arms and tapered smoothly to ends which split Into movable, slender filaments. The tentacles and the legs alike seemed flexible in their entire lengths. There were no “joints” such as men use in walking, and the result was that the Centaurians walked with a curiously rolling gait.
+For an instant they seemed almost like men. They had two legs, and two dangling things—tentacles—which apparently served as arms and tapered smoothly to ends which split Into movable, slender filaments. The tentacles and the legs alike seemed flexible in their entire lengths. There were no “joints” such as men use in walking, and the result was that the Centaurians walked with a curiously rolling gait.
 
 Most startling, though, was the fact that they had no heads. They came wabbling accustomedly out of the air lock, and at the end of one “arm” each carried a curious, semi-cylindrical black object which they handled as if it might be a weapon. They wore metallic packs
 
@@ -2012,7 +2020,7 @@ It unraveled a thread from the shirt and consumed it, rocking to and fro as if i
 
 Its organs of vision were behind two slits in the upper part of its body, and no precise examination of the eyes themselves had been made. But the report before Alstair said specifically that the Centaurian displayed an avid eagerness whenever it caught sight of a human being. And that the eagerness was not of a sort to be reassuring.
 
-It was the sort of excitement—only much greater— which it had displayed at the sight of wool and leather. As if by instinct, said the report, the captive Centaurian had several times made a gesture as if turning some weapon upon a human when first it sighted him.
+It was the sort of excitement—only much greater—which it had displayed at the sight of wool and leather. As if by instinct, said the report, the captive Centaurian had several times made a gesture as if turning some weapon upon a human when first it sighted him.
 
 Alstair read this report and others. Helen Bradley reported barely two hours after Jack had assigned her to the work.
 
@@ -2034,7 +2042,7 @@ The Centaurian was bound firmly to a chair with a myriad of cords. He—she—it
 
 Helen interjected swiftly: “I told him my father was dead.”
 
-The machine went on: “I—buy—all—dead—man— on—ship—give—metal—gold—you—like:	”
+The machine went on: “I—buy—all—dead—man—on—ship—give—metal—gold—you—like:	”
 
 Alstair’s teeth clicked together. Helen went white. She tried to speak, and choked upon the words.
 
@@ -2144,7 +2152,7 @@ Then, very carefully, it emitted new ones. The speaker translated them all. The 
 
 “He understands what we’re trying to do,” said Helen, very pale.
 
-The machine said: “You—talk—machine—talk— ship.”
+The machine said: “You—talk—machine—talk—ship.”
 
 Jack said quietly into the transmitter: “We are friends. We have much you want. We want only friendship. We have killed none of your men except in self-defense. We ask peace. If we do not have peace, we will fight. But we wish peace.”
 
@@ -2158,7 +2166,7 @@ It was very quiet indeed in the biology laboratory. The receptor was silent. One
 
 The receptor hooted unmusically. The dictawriter rustled softly. Then the speaker said without expression:
 
-‘ ‘ W e—friends—now—no—fight—ships—come—to —take—you—planet.”
+‘ ‘ W e—friends—now—no—fight—ships—come—to—take—you—planet.”
 
 And simultaneously the miniature volcano on the
 
@@ -2196,7 +2204,7 @@ It was not helpful to those on the Adastra, with the hull of the ship punctured,
 
 Jack and Helen sat quietly and listened. Their hands clasped unconsciously. Rather queerly, the extreme brevity of the time before them made extravagant expressions of affection seem absurd. They listened to the unspeakably vulgar message from Earth without really hearing it. Now and again they looked at each other.
 
-In the biology laboratory the building-up of a vocabulary went on swiftly. Pictures came into play.'A second Centaurian was released, and by his skill in delineation—which proved that the eyes of the plant men functioned almost identically with those of Earth men— added both to the store of definitions and equivalents and to knowledge of the Centaurian civilization.
+In the biology laboratory the building-up of a vocabulary went on swiftly. Pictures came into play.'A second Centaurian was released, and by his skill in delineation—which proved that the eyes of the plant men functioned almost identically with those of Earth men—added both to the store of definitions and equivalents and to knowledge of the Centaurian civilization.
 
 Piecing the information together, the civilization began to take on a strange resemblance to that of humanity. The Centaurians possessed artificial structures which were undoubtedly dwelling houses. They had cities, laws, arts—the drawing of the second Centaurian was proof of that—and sciences. The science of biology in particular was far advanced, taking to some extent the place of metallurgy in the civilization of men. Their structures were grown, not built. Instead of metals to shape to their own ends, they had forms of protoplasm whose rate and manner of growth they could control.
 
@@ -2248,7 +2256,7 @@ Helen explained. So swiftly does humanity accustom itself to the incredible that
 
 The Centaurian rolled on before. With an extraordinary dexterity, he opened the door. He had merely seen it opened. Jack took the lead. His side-arm force gun remained in its holster beside him, but it was useless. He could probably kill the plant man behind him, but that would do no good.
 
-Dim hootings ahead. The plant man made sounds— loud and piercing sounds. Answers came to him. Jack came in view of the new group of invaders. There were twenty or thirty of them, every one armed with half-cylindrical objects, larger than the first creatures had carried.
+Dim hootings ahead. The plant man made sounds—loud and piercing sounds. Answers came to him. Jack came in view of the new group of invaders. There were twenty or thirty of them, every one armed with half-cylindrical objects, larger than the first creatures had carried.
 
 At sight of Jack there was excitement. Eager trembling of the armlike tentacles at either side of the headless trunks. There were instinctive, furtive movements of the weapons. A loud hooting as of command. The Things were still. But Jack’s flesh crawled from the feeling of sheer, carnivorous lust that seemed to emanate from them.
 
@@ -2298,7 +2306,7 @@ A Centaurian entered with the curious rolling gait of his race. He went impatien
 
 “Stop!” said Alstair in a thin, high voice. He tore at his collar. He went to the microphone and said thinly: “These are all the officers still alive. But we can navigate the ship.”
 
-The Centaurian—he wore a wide band of leather about each of his arms and another about his middle— waddled to the G.C. phone. The tendrils at the end of one arm maniplated the switch expertly. He emitted strange, formless sounds—and hell broke loose!
+The Centaurian—he wore a wide band of leather about each of his arms and another about his middle—waddled to the G.C. phone. The tendrils at the end of one arm maniplated the switch expertly. He emitted strange, formless sounds—and hell broke loose!
 
 The visiplates all over the room emitted high-pitched, squealing sounds. They were horrible. They were ghastly. They were more terrible than the sounds of a wolf pack hard on the heels of a fear-mad deer. They were the sounds Jack had heard when one of the first invaders of the Adastra saw a human being and killed him instantly. And other sounds came out of the visi-plates, too. There were human screams. There were even one or two explosions.
 
@@ -2306,11 +2314,11 @@ But then there was silence. The five Centaurians in the control room quivered an
 
 The Centaurian with the leather ornaments went to the dictawriter again. He hooted in it:
 
-‘ ‘ W ant—two—men—go—from—ship—learn—from —them—now.”
+‘ ‘ W ant—two—men—go—from—ship—learn—from—them—now.”
 
 There was an infinitely tiny sound in the main control room. It was a drop of cold sweat, falling from Al-stair’s face to the floor. He seemed to have shriveled. His face was an ashy gray. His eyes were closed. But Jack looked steadily from one to the other of the surviving officers.
 
-“That will mean vivisection, I suppose,” he said harshly. “It’s certain they plan to visit Earth, else— intelligent as they are—they wouldn’t have wiped out everybody but us. Even for treasure. They’ll want to try out weapons on a human body, and so on. Communications is about the most useless of all the departments now, sir. I volunteer.”
+“That will mean vivisection, I suppose,” he said harshly. “It’s certain they plan to visit Earth, else—intelligent as they are—they wouldn’t have wiped out everybody but us. Even for treasure. They’ll want to try out weapons on a human body, and so on. Communications is about the most useless of all the departments now, sir. I volunteer.”
 
 Helen gasped: “No, Jack! No!”
 
@@ -2474,7 +2482,7 @@ An impatient, distant hooting came from the speaker.
 
 “They’re here,” said Alstair steadily. “I’m going to show them the rockets. Maybe you’ll see the fun. It depends on the time of day where you are. But remember, there’s a sister ship to the Adastra on the way! And Gary, that order I gave you last thing was the act of a madman, but I’m glad I did it. Good-by, you two!”
 
-Small hooting sounds, growing fainter, came from the speaker. Far, far away, amid the city of fiends, Alstair was going with the plant men to show them the rockets’ inner workings. They wished to understand every aspect of the big ship’s propulsion, so that they could build— or grow—ships as large and carry multitudes of their swarming myriads to a solar system where animals were to be found.
+Small hooting sounds, growing fainter, came from the speaker. Far, far away, amid the city of fiends, Alstair was going with the plant men to show them the rockets’ inner workings. They wished to understand every aspect of the big ship’s propulsion, so that they could build—or grow—ships as large and carry multitudes of their swarming myriads to a solar system where animals were to be found.
 
 “Let’s go outside,” said Jack harshly. “He said he’d do it, since he couldn’t get a bit of a machine made that could be depended on to do it. But I believed he’d go mad. It didn’t seem possible to live to their planet. We’ll go outside and look at the sky.”
 
@@ -2526,7 +2534,9 @@ Pete leaned harassedly back in his chair.
 
 “Anything!” said Pete. “Anything at all! Nor. On second thought, trying to untangle Uncle Robert’s affairs calls for brains. Give me something rich in phosphorus and vitamins; I need them.”
 
-“Yes, sir,” said Thomas. “But the grocer, sir—” “Again?” demanded Pete hopelessly.
+“Yes, sir,” said Thomas. “But the grocer, sir—”
+
+“Again?” demanded Pete hopelessly.
 
 “Yes, sir,” said Thomas, coming into the laboratory. “I hoped, sir, that matters might be looking better.”
 
@@ -2658,7 +2668,9 @@ The demonstrator began to cluck and clatter with bills instead of quarters on th
 
 “Darling,” said Pete fondly, “does it matter how much you have when I have so much?”
 
-“Yes,” said Daisy. “You might get angry with me.” “Never!” protested Pete. Then he added reminiscently, “Before we thought of the bank note idea, Thomas and I filled up the coal bin with quarters and half dollars. They’re still there.”
+“Yes,” said Daisy. “You might get angry with me.”
+
+“Never!” protested Pete. Then he added reminiscently, “Before we thought of the bank note idea, Thomas and I filled up the coal bin with quarters and half dollars. They’re still there.”
 
 “Gold pieces would be nice,” suggested Daisy, thinking hard, “if you could get hold of some. Maybe we could.”
 
@@ -2738,7 +2750,7 @@ Arthur soared. He landed within two feet of Casey. Casey thrust a cigar at him. 
 
 “There!” said Pete cheerfully. “He likes it. Come on!”
 
-They moved on to the laboratory. They entered— and tumult engulfed them. The demonstrator was running and Thomas—pale and despairing—supervised its action. The demonstrator was turning out currency by what was, approximately, wheelbarrow loads. As each load materialized from the fourth dimension, Thomas gathered it up and handed it to Daisy, who in theory was standing in line to receive it in equitable division.
+They moved on to the laboratory. They entered—and tumult engulfed them. The demonstrator was running and Thomas—pale and despairing—supervised its action. The demonstrator was turning out currency by what was, approximately, wheelbarrow loads. As each load materialized from the fourth dimension, Thomas gathered it up and handed it to Daisy, who in theory was standing in line to receive it in equitable division.
 
 But Daisy was having a furious quarrel among herself, because some one or other of her had tried to cheat.
 
@@ -2762,7 +2774,7 @@ He barked at Pete until screams from practically all of Daisy made him turn to s
 
 Arthur was the only person who really approved the course events had taken. He had existed largely in his own society. But now his own company was numerous. From a solitary kangaroo, in fact, Arthur had become a good-sized herd. And in his happy excitement over the fact, Arthur forgot all decorum and began to play an hysterical form of disorganized leapfrog all about the laboratory.
 
-The officer went down and became a take-off spot for the game. Daisy shrieked furiously. And Arthur— all of him—chose new points of vantage for his leaps until one of him chose the driving motor of the demonstrator. That industrious mechanism emitted bright sparks and bit him. And Arthur soared in terror through the window, followed by all the rest of himself, who still thought it part of the game.
+The officer went down and became a take-off spot for the game. Daisy shrieked furiously. And Arthur—all of him—chose new points of vantage for his leaps until one of him chose the driving motor of the demonstrator. That industrious mechanism emitted bright sparks and bit him. And Arthur soared in terror through the window, followed by all the rest of himself, who still thought it part of the game.
 
 In seconds, the laboratory was empty of Arthurs. But the demonstrator was making weird, pained noises. Casey remained entangled in the bars of the tesseract, through which he gazed with much the expression of an inmate of a padded cell. Only one of the short, sopiat officers remained in the building. He had no breath left. And Daisy was too angry to make a sound—all six of her. Pete alone was sanely calm.
 
@@ -2776,7 +2788,7 @@ Both advanced. Three more, protesting indignantly,
 
 joined in the rush. The sixth—and it seemed to Pete that she must have been the original Daisy—hastily began to sneak what she could from the several piles accumulated by the others.
 
-Meanwhile, the demonstrator made queer noises. And Pete despairingly investigated. He found where Arthur’s leap had disarranged a handle which evidently controlled the motor speed of the demonstrator. At random, he pushed the handle. The demonstrator clucked relievedly. Then Pete realized in sick terror that five of Daisy were on the glass plate. He tried to turn it off— but it was too late.
+Meanwhile, the demonstrator made queer noises. And Pete despairingly investigated. He found where Arthur’s leap had disarranged a handle which evidently controlled the motor speed of the demonstrator. At random, he pushed the handle. The demonstrator clucked relievedly. Then Pete realized in sick terror that five of Daisy were on the glass plate. He tried to turn it off—but it was too late.
 
 He closed his eyes, struggling to retain calmness, but admitting despair. He had been extremely fond of one Daisy. But six Daisies had been too much. Now, looking forward to eleven and	
 
@@ -2802,7 +2814,7 @@ Tommy Dort went into the captain’s room with his last pair of stereophotos and
 
 “I’m through, sir. These are the last two pictures I can take.”
 
-He handed over the photographs and looked with professional interest at the visiplates which showed all space outside the ship. Subdued, deep-red lighting indicated the controls and such instruments as the quartermaster on duty needed for navigation of the spaceship Llanvabon. There was a deeply cushioned control chair. There was the little gadget of oddly angled mirrors— remote descendant of the back-view mirrors of twentieth-century motorists—which allowed a view of all the visiplates without turning the head. And there were the huge plates which were so much more satisfactory for a direct view of space.
+He handed over the photographs and looked with professional interest at the visiplates which showed all space outside the ship. Subdued, deep-red lighting indicated the controls and such instruments as the quartermaster on duty needed for navigation of the spaceship Llanvabon. There was a deeply cushioned control chair. There was the little gadget of oddly angled mirrors—remote descendant of the back-view mirrors of twentieth-century motorists—which allowed a view of all the visiplates without turning the head. And there were the huge plates which were so much more satisfactory for a direct view of space.
 
 The Llanvabon was a long way from home. The plates, which showed every star of visual magnitude and could be stepped up to any desired magnification, portrayed stars of every imaginable degree of brilliance, in the startlingly different colors they show outside of atmosphere. But every one was unfamiliar. Only two constellations could be recognized as seen from Earth, and they were shrunken and distorted. The Milky Way seemed vaguely out of place. But even such oddities were minor compared to a sight in the forward plates.
 
@@ -2906,7 +2918,7 @@ The alien ship-had made one sign of less than lethal intention. As it drew near 
 
 The moment of actual approach, however, was tenseness itself. The Llanvabon's needle-pointed bow aimed unwaveringly at the alien bulk. A relay to the captain’s room put a key under his hand which would fire the blasters with maximum power. Tommy Dort watched, his brow wrinkled. The aliens must be of a high degree of civilization if they had spaceships, and civilization does not develop without the development of foresight. These aliens must recognize all the implications of this first contact of two civilized races as fully as did the humans on the Llanvabon.
 
-The possibility of an enormous spurt in the development of both, by peaceful contact and exchange of their separate technologies, would probably appeal to them as to man. But when dissimilar human cultures are in contact, one must usually be subordinate or there is war. But subordination between races arising on separate planets could not be peacefully arranged. Men, at least, would never consent to subordination, nor was it likely that any highly developed race would agree. The benefits to be derived from commerce could never 'make up for a condition of inferiority. Some races— men, perhaps—would prefer commerce to conquest. Perhaps—perhaps!—these aliens would also. But some types even of human beings would have craved red war. If the alien ship now approaching the Llanvabon returned to its home base with news of humanity’s existence and of ships like the Llanvabon, it would give its race the choice of trade or battle. They might want trade, or they might want war. But it takes two to make trade, and only one to make war. They could not be sure of men’s peacefulness, or could men be sure of theirs. The only safety for either civilization would lie in the destruction of one or both of the two ships here nad now.
+The possibility of an enormous spurt in the development of both, by peaceful contact and exchange of their separate technologies, would probably appeal to them as to man. But when dissimilar human cultures are in contact, one must usually be subordinate or there is war. But subordination between races arising on separate planets could not be peacefully arranged. Men, at least, would never consent to subordination, nor was it likely that any highly developed race would agree. The benefits to be derived from commerce could never 'make up for a condition of inferiority. Some races—men, perhaps—would prefer commerce to conquest. Perhaps—perhaps!—these aliens would also. But some types even of human beings would have craved red war. If the alien ship now approaching the Llanvabon returned to its home base with news of humanity’s existence and of ships like the Llanvabon, it would give its race the choice of trade or battle. They might want trade, or they might want war. But it takes two to make trade, and only one to make war. They could not be sure of men’s peacefulness, or could men be sure of theirs. The only safety for either civilization would lie in the destruction of one or both of the two ships here nad now.
 
 But even victory would not be really enough. Men would need to know where this alien race was to be found, for avoidance if not for battle. They would need to know its weapons, and its resources, and if it could be a menace and how it could be eliminated in case of need. The aliens would feel the same necessities concerning humanity.
 
@@ -3034,7 +3046,7 @@ The skipper heaved himself to his feet.
 
 “H-m-m,” he said profoundly, “we’ll see what they have to say.”
 
-He walked to the communications room. The scanner for the vision plate in the robot was in readiness. The skipper walked in front of it. Tommy Dort sat down at the coding machine and tapped at the keys. Highly improbable noises came from it, went into a microphone, and governed the frequency-modulation of a signal sent through space to the other spaceship. Almost instantly the vision screen which with one relay—in the robot— showed the interior of the other ship lighted up. An alien came before the scanner and seemed to look inquisitively out of the plate. He was extraordinarily manlike, but he was not human. The impression he gave was of extreme baldness and a somehow humorous frankness.
+He walked to the communications room. The scanner for the vision plate in the robot was in readiness. The skipper walked in front of it. Tommy Dort sat down at the coding machine and tapped at the keys. Highly improbable noises came from it, went into a microphone, and governed the frequency-modulation of a signal sent through space to the other spaceship. Almost instantly the vision screen which with one relay—in the robot—showed the interior of the other ship lighted up. An alien came before the scanner and seemed to look inquisitively out of the plate. He was extraordinarily manlike, but he was not human. The impression he gave was of extreme baldness and a somehow humorous frankness.
 
 “I’d like to say,” said the skipper heavily, “the appropriate things about this first contact of two dissimilar civilized races, and of my hopes that a friendly intercourse between the two peoples will result.”
 
@@ -3276,13 +3288,13 @@ He waited. The skipper cleared his throat.
 
 “Hm-m-m. Now just what do you mean by that?” demanded the skipper.
 
-“Why, they’re just like us, sir!” said Tommy. “Of course they breathe through gills and they see by heat waves, and their blood has a copper base instead of iron and a few little details like that. But otherwise we’re just alike! There were only men in their crew, sir, but they have two sexes as we have and they have families, and . . . er . . . their sense of humor— In fact—”
+“Why, they’re just like us, sir!” said Tommy. “Of course they breathe through gills and they see by heat waves, and their blood has a copper base instead of iron and a few little details like that. But otherwise we’re just alike! There were only men in their crew, sir, but they have two sexes as we have and they have families, and . . . er . . . their sense of humor—In fact—”
 
 Tommy hesitated.
 
 “Go on, sir,” said the skipper.
 
-“Well— There was the one I call Buck, sir, because he hasn’t any name that goes into sound waves,” said Tommy. “We got along very well. I’d really call him my friend, sir. And we were together for a couple of hours just before the two ships separated and we’d nothing in particular to do. So I became convinced that humans, and aliens are bound to be good friends if they have only half a chance. You see, sir, we spent those two hours telling dirty jokes.”
+“Well—There was the one I call Buck, sir, because he hasn’t any name that goes into sound waves,” said Tommy. “We got along very well. I’d really call him my friend, sir. And we were together for a couple of hours just before the two ships separated and we’d nothing in particular to do. So I became convinced that humans, and aliens are bound to be good friends if they have only half a chance. You see, sir, we spent those two hours telling dirty jokes.”
 
 The Ethical Equations
 
@@ -3356,7 +3368,9 @@ But now the hunk of matter turned out to be a fishshaped artifact from an alien 
 
 “The thing, sir,” said Freddy evenly, “is a spaceship.
 
-It is driven by atomic engines shooting blasts sternward from somewhere near the bow. Apparently they steer only by hand. Apparently, too, there was a blow-up in the engine room and they lost most of their fuel out the tube vents. After that, the ship was helpless though they patched up the engines after a fashion. It is possible to calculate that in its practically free fall to the sun it’s been in its present state for a couple of thousand years.” “I take it, then,” said the skipper with fine irony, “that there are no survivors of the crew.”
+It is driven by atomic engines shooting blasts sternward from somewhere near the bow. Apparently they steer only by hand. Apparently, too, there was a blow-up in the engine room and they lost most of their fuel out the tube vents. After that, the ship was helpless though they patched up the engines after a fashion. It is possible to calculate that in its practically free fall to the sun it’s been in its present state for a couple of thousand years.”
+
+“I take it, then,” said the skipper with fine irony, “that there are no survivors of the crew.”
 
 “It presents several problems, sir,” said Freddy evenly, “and that’s one of them.” He was rather pale. “The ship is empty of air, but her tanks are full. Storage spaces containing what look like supplies are only partly emptied. The crew did not starve or suffocate. The ship simply lost most of her fuel. So it looks like they prepared the ship to endure an indefinite amount of floating about in free space and”—he hesitated—“then it looks like they went into suspended animation. They’re all on board, in transparent cases that have—machinery attached. Maybe they thought they’d be picked up by sister ships sooner or later.”
 
@@ -3436,7 +3450,7 @@ He went to his own cabin and threw himself on his bunk.
 
 Men with scanners continued to examine every square inch of the monster derelict. They worked in spacesuits. To have filled the giant hull with air would practically have emptied the Amina’s tanks. A space-suited man held a scanner before a curious roll of flexible substance, on which were inscribed symbols. His headphones brought instructions from the photo room. A record of some sort was being duplicated by photography. There were scanners at work in the storerooms, the crew’s quarters, the gun mounts. So far no single article had been moved from the giant stranger. That was Freddy’s order. Every possible bit of information was being extracted from every possible object, bnt nothing had been taken away. Even chemical analysis was being done by scanner, using cold-light spectrogra-phy applied from the laboratory on the cruiser.
 
-And Freddy’s unpopularity had not lessened. The engineer officer cursed him luridly. The stranger’s engines, now— They had been patched up after an explosion, and they were tantalizingly suggestive. But their working was unfathomable. The engineer officer wanted to get his hands on them. The physiochemical officer wanted to do some analysis with his own hands, instead of by cold-light spectrography over a scanner. And every man, from the lowest enlisted apprentice to the skipper himself, wanted to get hold of some artifact made by an alien, non-human race ten thousand yearsN ahead of human civilization. So Freddy was unpopular.
+And Freddy’s unpopularity had not lessened. The engineer officer cursed him luridly. The stranger’s engines, now—They had been patched up after an explosion, and they were tantalizingly suggestive. But their working was unfathomable. The engineer officer wanted to get his hands on them. The physiochemical officer wanted to do some analysis with his own hands, instead of by cold-light spectrography over a scanner. And every man, from the lowest enlisted apprentice to the skipper himself, wanted to get hold of some artifact made by an alien, non-human race ten thousand yearsN ahead of human civilization. So Freddy was unpopular.
 
 But that was only part of his unhappiness. He felt that he had acted improperly. The Ethical Equations gave mathematical proof that probabilities and ethics are interlinked, so that final admirable results cannot be expected from unethical beginnings. Freddy had violated discipline—which is one sort of ethics—and after that through his uncle had interjected politics into Patrol affairs. Which was definitely a crime. By the Equations, the probability of disastrous coincidences was
 
@@ -3456,7 +3470,7 @@ Bridges, grinning, pointed to the sheets of paper in Freddy’s hand. They were 
 
 “Why should this make everybody happy?” asked Freddy.
 
-Bridges pointed with his finger. The familiar atomic symbols had unfamiliar numerals by them. H3, Li5, Gl8— He blinked. He saw N15, O17, F18, S34’35— Then he stared. Bridges grinned.
+Bridges pointed with his finger. The familiar atomic symbols had unfamiliar numerals by them. H3, Li5, Gl8—He blinked. He saw N15, O17, F18, S34’35—Then he stared. Bridges grinned.
 
 “Try to figure what that ship’s worth!” he said happily. “It’s all over the Amina. Prize money isn’t allowed in the Patrol, but five percent of salvage is. Hydrogen three has been detected on Earth, but never isolated. Lithium five doesn’t exist on Earth, or glucinium eight, or nitrogen fifteen or oxygen seventeen or fluorine eighteen or sulphur thirty-four or thirty-five! The whole ship is made up of isotopes that simply don’t exist in the solar system! And you know what pure isotopes sell for! The hull’s practically pure iron fifty-five! Pure iron fifty-four sells for thirty-five credits a gram! Talk about the lost treasures of Mars! For technical use only, the stripped hull of this stranger is worth ten years’ revenue of Earth government! Every man on the Amina is rich for life. And you’re popular!”
 
@@ -3484,7 +3498,7 @@ They’re simple substances. Theirs and ours are just alike. But most of the res
 
 He was pale. He looked as if he were suffering.
 
-“I’ll get a couple of tanks made up, of aluminum, and filled with nitrogen. Plain air should do— And I’ll want a gyro-control. I’ll want it made of aluminum, too, with graphite bearings—”
+“I’ll get a couple of tanks made up, of aluminum, and filled with nitrogen. Plain air should do—And I’ll want a gyro-control. I’ll want it made of aluminum, too, with graphite bearings—”
 
 He grinned mirthlessly at Bridges.
 
@@ -3522,7 +3536,7 @@ Space Patrol cruiser shifted position to draw near and pick them up. And Freddy 
 
 “Remember the Ethical Equations, Bridges? I said they gave me the answer to that other ship’s drive. If they were right, it couldn’t have been anything else. Now I’m going to find out about something else.”
 
-His spacegloved hands worked clumsily. From the tiny kit he spilled out a single small object. He plopped it into something from a chest in the spaceboat—a mortar shell, as Bridges saw incredulously. He dropped that into the muzzle of a line-mortar the spaceboat carried as a matter of course. He jerked the lanyard. The mortar flamed. Expanding gases beat at the spacesuits of the men. A tiny, glowing, crimson spark sped toward outer space. Seconds passed. Three. Four. Five— “Apparently I’m a fool,” said Freddy, in the grimmest voice Bridges had ever heard.
+His spacegloved hands worked clumsily. From the tiny kit he spilled out a single small object. He plopped it into something from a chest in the spaceboat—a mortar shell, as Bridges saw incredulously. He dropped that into the muzzle of a line-mortar the spaceboat carried as a matter of course. He jerked the lanyard. The mortar flamed. Expanding gases beat at the spacesuits of the men. A tiny, glowing, crimson spark sped toward outer space. Seconds passed. Three. Four. Five—“Apparently I’m a fool,” said Freddy, in the grimmest voice Bridges had ever heard.
 
 But then there was light. And such light! Where the dwindling red spark of a tracer mortar shell had sped toward infinitely distant stars, there was suddenly an explosion of such incredible violence as even the proving-grounds of the Space Patrol had never known. There was no sound in empty space. There was no substance to be heated to incandescence other than that of a half-pound tracer shell. But there was a flare of blue-white light and a crash of such violent static that Bridges was deafened by it. Even through the glass of his helmet he felt a flash of savage heat. Then there was—nothing.
 
@@ -3556,7 +3570,7 @@ The alien monster, drifting aimlessly in the void, suddenly moved. Thin flames c
 
 But it was not bound inward toward the sun. It was not headed for the plainly visible half-moon disk of Jupiter, now barely seventy million miles away. It headed out toward the stars.
 
-“I Wasn’t sure until a few minutes ago,” said Freddy Elolmes unsteadily, “but by the Ethical Equations something like that was probable. I couldn’t make certain until we’d gotten everything possible from it, and until I had everything arranged. But I was worried from the first. The Ethical Equations made it pretty certain that if we did the wrong thing we’d suffer for it . . . and by we I mean the whole Earth, because any visitor from beyond the stars would be bound to affect the whole human race.” His voice wavered a little. “It was hard to figure out what we ought to do. If one of our ships had been in the same fix, though, we’d have hoped for— friendliness. We’d hope for fuel, maybe, and help in starting back home. But this ship was a warship, and we’d have been helpless to fight it. It would hav$ been hard to be friendly. Yet, according to the Ethical Equations, if we wanted our first contact with an alien civili-
+“I Wasn’t sure until a few minutes ago,” said Freddy Elolmes unsteadily, “but by the Ethical Equations something like that was probable. I couldn’t make certain until we’d gotten everything possible from it, and until I had everything arranged. But I was worried from the first. The Ethical Equations made it pretty certain that if we did the wrong thing we’d suffer for it . . . and by we I mean the whole Earth, because any visitor from beyond the stars would be bound to affect the whole human race.” His voice wavered a little. “It was hard to figure out what we ought to do. If one of our ships had been in the same fix, though, we’d have hoped for—friendliness. We’d hope for fuel, maybe, and help in starting back home. But this ship was a warship, and we’d have been helpless to fight it. It would hav$ been hard to be friendly. Yet, according to the Ethical Equations, if we wanted our first contact with an alien civili-
 
 zation to be of benefit to us, it was up to us to get it started back home with plenty of fuel.”
 
@@ -3900,7 +3914,7 @@ He said “Eh?” for all the world like an elderly man.
 
 So smiling, I wrote on the earth the true name of Him whom the vulgar call Lucifer. He regarded the markings on the earth and said:
 
-“Bah! It is meaningless. More of your legendry! Look you, Man, soon I shall die. For more years than you are like to believe I have hid from your race and its accursed metal. I have watched men, and despised them. But— I die. And it is not good that knowledge should perish. It is my desire to impart to men the knowledge which else would die with me. It can do no harm to my own kind, and may bring the race of men to some degree of civilization in the course of ages.”
+“Bah! It is meaningless. More of your legendry! Look you, Man, soon I shall die. For more years than you are like to believe I have hid from your race and its accursed metal. I have watched men, and despised them. But—I die. And it is not good that knowledge should perish. It is my desire to impart to men the knowledge which else would die with me. It can do no harm to my own kind, and may bring the race of men to some degree of civilization in the course of ages.”
 
 I bowed to the earth before him. I was aflame with eagerness.
 
@@ -3946,7 +3960,7 @@ Then a dry voice said:
 
 “Truly you care naught for riches!”
 
-It was savage mockery. The Power stood regarding me. I saw him clearly now, yet not clearly because there was a cloudiness which clung clearly to his body. He was, as I said, an ell and a half in height, and from his forehead there protruded knobby feelers which were'not horns but had somewhat the look save for bulbs upon their ends. His head was large and— But I will not attempt to describe him, because he could assume any of a thousand forms, no doubt, so what does it matter?
+It was savage mockery. The Power stood regarding me. I saw him clearly now, yet not clearly because there was a cloudiness which clung clearly to his body. He was, as I said, an ell and a half in height, and from his forehead there protruded knobby feelers which were'not horns but had somewhat the look save for bulbs upon their ends. His head was large and—But I will not attempt to describe him, because he could assume any of a thousand forms, no doubt, so what does it matter?
 
 Then I grew terrified because I had no Circle or Pent-angle to protect me. But the Power made no menacing move.
 
@@ -3958,7 +3972,7 @@ must be fixed by a special Operation before it becomes permanent and free of the
 
 “Touch it with your dagger,” said the Power.
 
-I obeyed, sweating in fear. And as the metal iron touched a great piled heap of gold, there was a sudden shifting and then a little flare of heat about me. And the treasure—all, to the veriest crumb of a seed pearl!— vanished before my eyes. The bit of parchment reappeared, smoking. It turned to ashes. My dagger scorched my fingers. It had grown hot.
+I obeyed, sweating in fear. And as the metal iron touched a great piled heap of gold, there was a sudden shifting and then a little flare of heat about me. And the treasure—all, to the veriest crumb of a seed pearl!—vanished before my eyes. The bit of parchment reappeared, smoking. It turned to ashes. My dagger scorched my fingers. It had grown hot.
 
 “Ah yes,” said the Power, nodding. “The force-field has energy. When the iron absorbs it, there is heat.” Then he looked at me in a not unfriendly way. “You have brought pens and parchment,” he said, “and at least you did not use the sigil to astonish your fellows. Also you had the good sense to make no more perfum-ish stinks. It may be that there is a grain of wisdom in you. I will bear with you yet a while. Be seated and take parchment and pen. Stay! Let us be comfortable. Sheathe your dagger, or better cast it from you.”
 
@@ -3988,7 +4002,7 @@ But.he said scornfully:
 
 These things he has done, Johannus. It seems to amuse him to write upon scraps of parchment, and think, and then press them against his side before he lays them upon the ground for me to pick up. He has explained amusedly that the wonder in the sigil is complete, yet latent, and is released by the tearing of the parchment, but absorbed and destroyed by iron. In such fashions he speaks in ciphers, but otherwise sometimes he jests!
 
-It is strange to think of it, that I have come a little by a little to accept this Power as a person. It is not in accord with the laws of mystery. I feel that he is lonely. He seems to find satisfaction in speech with me. Yet he is a Power, one of the Rebels who was flung to earth from Heaven! He speaks of that only in vague, metaphorical terms, as if he had come from another world like the world, save much larger. He refers to himself as a voyager of space, and speaks of his race with affection, and of Heaven—at any rate the city from which he comes, because there must be many great cities there— with a strange and prideful affection. If it were not for his powers, which are of mystery, I would find it possible to believe that he was a lonely member of a strange
+It is strange to think of it, that I have come a little by a little to accept this Power as a person. It is not in accord with the laws of mystery. I feel that he is lonely. He seems to find satisfaction in speech with me. Yet he is a Power, one of the Rebels who was flung to earth from Heaven! He speaks of that only in vague, metaphorical terms, as if he had come from another world like the world, save much larger. He refers to himself as a voyager of space, and speaks of his race with affection, and of Heaven—at any rate the city from which he comes, because there must be many great cities there—with a strange and prideful affection. If it were not for his powers, which are of mystery, I would find it possible to believe that he was a lonely member of a strange
 
 s
 
@@ -4002,7 +4016,7 @@ ply by altering its constants so that it cannot generate in normal space and mus
 
 I am like a man trembling upon the threshold of Paradise, yet unable to enter because the key is withheld. “Speed of light!” What could it mean in metaphor? In common parlance, as well speak of the speed of weather or of granite! Daily I beg him for the key to his speech. Yet even now, in the sigils he makes for me is greater power than any man has ever known before!
 
-But it is not enough. The Power speaks as if he were lonely beyond compare; the last member of a strange race upon Earth; as if he took a strange, companionlike pleasure in merely talking to me. When I beg him for a Name or a Word which would give me power beyond such as he doles out in sigils, he is amused and calls me fool, yet kindly. And he speaks more of his metaphorical speech about forces of nature and fields of force— and gives me a sigil which should I use it will create a palace with walls of gold and pillars of emerald! And then he amusedly reminds me that one greedy looter with an ax or hoe of iron would cause it to vanish utterly!
+But it is not enough. The Power speaks as if he were lonely beyond compare; the last member of a strange race upon Earth; as if he took a strange, companionlike pleasure in merely talking to me. When I beg him for a Name or a Word which would give me power beyond such as he doles out in sigils, he is amused and calls me fool, yet kindly. And he speaks more of his metaphorical speech about forces of nature and fields of force—and gives me a sigil which should I use it will create a palace with walls of gold and pillars of emerald! And then he amusedly reminds me that one greedy looter with an ax or hoe of iron would cause it to vanish utterly!
 
 I go almost mad, Johannus! But there is certainly wisdom unutterable to be had from him. Gradually, cautiously, I have come to act as if we were merely friends, of different race and he vastly the wiser, but friends rather than Prince and subject. Yet I remember the warnings of the most authoritative authors that one must be ever on guard against Powers called up in an Operation.
 
@@ -4048,7 +4062,7 @@ I sprang from my pallet of straw to threaten him more fiercely. It was madness, 
 
 He walked steadily toward the doorway. As he stepped over the iron chain, I thought I saw a wisp of smoke begin, but he touched the thing at his side. The cloudiness about his person vanished. There was a puffing sound, and his garments jerked as if in a gust of wind. He staggered. But he went on, and touched his side again and the cloudiness returned and he walked more strongly. He did not try to turn aside. He walked directly toward the priest, and even I could see that he walked with a bitter dignity.
 
-And-— I saw the priest’s eyes grow wide with horror.' Because he saw the Power for the first time, and the Power was an ell and a half high, with a large head and knobbed feelers projecting from his forehead, and the priest knew instantly that he was not of any race of men but was a Power and one of those Rebels who were flung out from Heaven.
+And-—I saw the priest’s eyes grow wide with horror.' Because he saw the Power for the first time, and the Power was an ell and a half high, with a large head and knobbed feelers projecting from his forehead, and the priest knew instantly that he was not of any race of men but was a Power and one of those Rebels who were flung out from Heaven.
 
 I heard the Power speak to the priest, with dignity. I did not hear what he said. I raged in my disappointment. But the priest did not waver. As the Power moved toward him, the priest moved toward the Power. His face was filled with horror, but it was resolute. He reached forward with the crucifix he wore always attached to an iron chain about his waist. He thrust it to touch the Power, crying, “In nomini Patri—”
 
@@ -4058,7 +4072,7 @@ I was blinded. There was a flare of monstrous, bluish light, like a lightning-st
 
 Then there was nothing save the priest standing there, his face ashen, his eyes resolute, his eyebrows singed, chanting exorcisms in a shaking voice.
 
-I have come to Venice. My scrip is filled with sigils with which I can work wonders. No man can work such wonders as I can. But I use them not. I labor daily, nightly, hourly, minute by minute, trying to find the key to the cipher which will yield the wisdom the Power possessed and desired to give to men. Ah, Johannus! I have those sigils and I can work wonders, but when I have used them they will be gone and I shall be powerless! I had such a chance at wisdom as never man possessed before, and it is gone! Yet I shall spend years— aye!—all the rest of my life, seeking the true meaning of what the Power spoke! I am the only man in all the world who ever spoke daily, for weeks on end, with a Prince of the Powers of Darkness, and was accepted by him as a friend to such a degree as to encompass his own destruction. It must be true that I have wisdom written down! But how shall I find instructions for mystery in such metaphors as—to choose a fragment by chance—“Plates of two dissimilar metals, immersed in an acid, generate a force for which men have not yet a name, yet which is the basis of true civilization. Such plates—”
+I have come to Venice. My scrip is filled with sigils with which I can work wonders. No man can work such wonders as I can. But I use them not. I labor daily, nightly, hourly, minute by minute, trying to find the key to the cipher which will yield the wisdom the Power possessed and desired to give to men. Ah, Johannus! I have those sigils and I can work wonders, but when I have used them they will be gone and I shall be powerless! I had such a chance at wisdom as never man possessed before, and it is gone! Yet I shall spend years—aye!—all the rest of my life, seeking the true meaning of what the Power spoke! I am the only man in all the world who ever spoke daily, for weeks on end, with a Prince of the Powers of Darkness, and was accepted by him as a friend to such a degree as to encompass his own destruction. It must be true that I have wisdom written down! But how shall I find instructions for mystery in such metaphors as—to choose a fragment by chance—“Plates of two dissimilar metals, immersed in an acid, generate a force for which men have not yet a name, yet which is the basis of true civilization. Such plates—”
 
 I grow mad with disappointment, Johannus! Why did he not speak clearly? Yet I will find out the secret.
 
@@ -4124,7 +4138,7 @@ You can’t kick on stuff like that. But a ambitious young fourteen-year-old wan
 
 His logic comes through with the simplest, neatest, and the most efficient counterfeitin’ device yet known to science. You see, all the data was in the tank. The logic—since Joe had closed some relays here an’ there in the tank—simply integrated the facts. That’s all. The kid got caught up with three days later, havin’ already spent two thousand credits an’ havin’ plenty more on hand. They hadda time tellin’ his counterfeits from the real stuff, an’ the only way they done it was that he changed his printer, kid fashion, not bein’ able to let _ somethin’ that was workin’ right alone.
 
-Those are what you might call samples. Nobody knows all that Joe done. But there was the bank president who got humorous when his logic flashed that “Ask your logic” spiel on him, and jestingly asked how to rob his own bank. An’ the logic told him, brief and explicit but good! The bank president hit the ceiling, hollering for cops. There musta been plenty of that sorta thing. There was fifty-four more robberies than usual in the next twenty-four hours, all of them planned astute an’ perfect. Some of ’em they never did figure out how they’d been done. Joe, he’d gone exploring in the-tank and closed some relays like a logic is supposed to do— but only when required—and blocked all censor-circuits an’ fixed up this logics service which planned perfect crimes, nourishing an’ attractive meals, counterfeitin’ machines, an’ new industries with a fine impartiality. He musta been plenty happy, Joe must. He was func-' tionin’ swell, buzzin’ along to himself while the Korlan-ovitch kids were off ridin’ with their ma an’ pa.
+Those are what you might call samples. Nobody knows all that Joe done. But there was the bank president who got humorous when his logic flashed that “Ask your logic” spiel on him, and jestingly asked how to rob his own bank. An’ the logic told him, brief and explicit but good! The bank president hit the ceiling, hollering for cops. There musta been plenty of that sorta thing. There was fifty-four more robberies than usual in the next twenty-four hours, all of them planned astute an’ perfect. Some of ’em they never did figure out how they’d been done. Joe, he’d gone exploring in the-tank and closed some relays like a logic is supposed to do—but only when required—and blocked all censor-circuits an’ fixed up this logics service which planned perfect crimes, nourishing an’ attractive meals, counterfeitin’ machines, an’ new industries with a fine impartiality. He musta been plenty happy, Joe must. He was func-' tionin’ swell, buzzin’ along to himself while the Korlan-ovitch kids were off ridin’ with their ma an’ pa.
 
 They come back at seven o’clock, the kids all happily wore out with their afternoon of fightin’ each other in the car. Their folks put ’em to bed and sat down to rest. They saw Joe’s screen flickerin’ meditative from one subject to another an’ old man Korlanovitch had had enough excitement for one day. He turned Joe off.
 
@@ -4138,7 +4152,7 @@ But he done more in other lines. Educational, say. None of my kids are old enoug
 
 All this while Joe goes on buzzin’ happy to himself, showin’ the Korlanovitch kids the animated funnies with one circuit while with the others he remote-controls the tank so that all the other logics can give people what they ask for and thereby raise merry hell.
 
-An’ then Laurine gets onto the new service. She turns on the logic in her hotel room, prob’ly to see the week’s style-forecast. But the logic says, dutiful: “If you want to do something and don’t know how to do it—ask your logic!” So Laurine prob’ly looks enthusiastic—she would!—and tries to figure out something to ask. She already knows all about everything she cares about— ain’t she had four husbands and shot one?—so I occur to her. She knows this is the town I live in. So she punches, “How can I find Ducky?”
+An’ then Laurine gets onto the new service. She turns on the logic in her hotel room, prob’ly to see the week’s style-forecast. But the logic says, dutiful: “If you want to do something and don’t know how to do it—ask your logic!” So Laurine prob’ly looks enthusiastic—she would!—and tries to figure out something to ask. She already knows all about everything she cares about—ain’t she had four husbands and shot one?—so I occur to her. She knows this is the town I live in. So she punches, “How can I find Ducky?”
 
 O.K., guy! But that is what she used to call me. She gets a service question. “Is Ducky known by any other name?” So she gives my regular name. And the logic can’t find me. Because my logic ain’t listed under my name on account of I am in Maintenance and don’t want to be pestered when I’m home, and there ain’t any data plates on code-listed logics, because the codes' get changed so often—like a guy gets plastered an’ tells a redhead to call him up, an’ on gettin’ sober hurriedly has the code changed before she reaches his wife on the screen.
 
@@ -4208,9 +4222,9 @@ I tell him, and he laughs a hollow laugh.
 
 “Then,” I says hoarse, “shut down the tank! Do somethin’!”
 
-“Shut down the tank?” he says, mirthless. “Does it occur to you, fella, that the tank has been doin’ all the computin’ for every business office for years? It’s been handlin’ the distribution of ninety-four per cent of all telecast programs, has given out all information on weather, plane schedules, special sales, employment opportunities and news; has handled ail person-to-person contacts over wires and recorded every business conversation and agreement— Listen, fella! Logics changed civilization. Logics are civilization! If we shut off logics, we go back to a kind of civilization we have forgotten how to run! I’m getting hysterical myself and that’s why I’m talkin’ like this! If my wife finds out my pay-check is thirty credits a week more than I told her and starts hunting for that redhead—”
+“Shut down the tank?” he says, mirthless. “Does it occur to you, fella, that the tank has been doin’ all the computin’ for every business office for years? It’s been handlin’ the distribution of ninety-four per cent of all telecast programs, has given out all information on weather, plane schedules, special sales, employment opportunities and news; has handled ail person-to-person contacts over wires and recorded every business conversation and agreement—Listen, fella! Logics changed civilization. Logics are civilization! If we shut off logics, we go back to a kind of civilization we have forgotten how to run! I’m getting hysterical myself and that’s why I’m talkin’ like this! If my wife finds out my pay-check is thirty credits a week more than I told her and starts hunting for that redhead—”
 
-He smiles a haggard smile at me and snaps off. And I sit down and put my head in my hands. It’s true. If something had happened back in cave days and they’d hadda stop usin’ fire— If they’d hadda stop usin’ steam in the nineteenth century or electricity in the twentieth— It’s like that. We got a very simple civilization. In the nineteen hundreds a man would have to make use of a typewriter, radio, telephone, teletypewriter, newspaper, reference library, encyclopedias, office files, directories, plus messenger service and consulting lawyers, chemists, doctors, dietitians, filing clerks, secretaries—all to put down what he wanted to remember an’ to tell him what other people had put down that he wanted to know; to report what he said to somebody else and to report to him what they said back. All we have to have is logics. Anything we want to know or see or hear, or anybody we want to talk to, we punch keys on a logic. Shut off logics and everything goes skiddoo. But Laurine—
+He smiles a haggard smile at me and snaps off. And I sit down and put my head in my hands. It’s true. If something had happened back in cave days and they’d hadda stop usin’ fire—If they’d hadda stop usin’ steam in the nineteenth century or electricity in the twentieth—It’s like that. We got a very simple civilization. In the nineteen hundreds a man would have to make use of a typewriter, radio, telephone, teletypewriter, newspaper, reference library, encyclopedias, office files, directories, plus messenger service and consulting lawyers, chemists, doctors, dietitians, filing clerks, secretaries—all to put down what he wanted to remember an’ to tell him what other people had put down that he wanted to know; to report what he said to somebody else and to report to him what they said back. All we have to have is logics. Anything we want to know or see or hear, or anybody we want to talk to, we punch keys on a logic. Shut off logics and everything goes skiddoo. But Laurine—
 
 Somethin’ had happened. I still didn’t know what it was. Nobody else knows, even yet. What had happened was Joe. What was the matter with him was that he wanted to work good. All this fuss he was raisin’ was, actual, nothin’ but stuff we shoulda thought of ourselves. Directive advice, tellin’ us what we wanted to know to solve a problem, wasn’t but a slight extension of logical-integrator service. Figurin’ out a good way to poison a fella’s wife was only different in degree from figurin’ out a cube root or a guy’s bank balance. It was gettin’ the answer to a question. But things was goin’ to pot because there was too many answers being given to too many questions.
 
@@ -4252,7 +4266,7 @@ I beat it outta Maintenance, yellin’ to somebody I got a emergency call. I’m
 
 I beat it out into traffic in the Maintenance car. There was a disconnected logic on the back, ready to substitute for one that hadda burned-out coil or something that it was easier to switch and fix back in the Maintenance shop. I drove crazy but automatic. It was kinda ironic, if you think of it. I was goin’ hoopla over a strictly personal problem, while civilization was crackin’ up all around me because other people were havin’ their personal problems solved as fast as they could state ’em. It is a matter of record that part of the Mid-Western Electric research guys had been workin’ on cold electron-emission for thirty years, to make vacuum tubes that wouldn’t need a power source to heat the filament. And one of those fellas was intrigued by the “Ask your logic” flash. He asked how to get cold emission of electrons. And the logic integrates a few squintillion facts on the physics data plates and tells him. Just as casual as it told somebody over in the Fourth Ward how to serve left-over soup in a new attractive way, and somebody else on Mason Street how to dispose of a torso that somebody had left careless in his cellar after ceasing to use same.
 
-Laurine wouldn’t never have found me if hadn’t been for this new logics service. But now that it was started— Zowie! She’d shot one husband and got acquitted. Suppose she got impatient because I was still married an’ asked logics service how to get me free an’ in a spot where I’d have to marry her by 8:30 p.m.? It would a told her! Just like it told that woman out in the suburbs how to make sure her husband wouldn’t ran around no more. Br-r-r-r! An’ like it told that kid how to find some buried treasure. Remember? He was happy totin’ home the gold reserve of the Hanoverian Bank and Trust Company when they caught on to it. The logic had told him how to make some kinda machine that nobody has been able to figure how it works even yet, only they guess it dodges around a couple extra dimensions. If Laurine was to start askin’ questions with a technical aspect to them, that would be logics’ service meat! And fella, I was scared! If you think a he-man oughtn’t to be scared of just one blonde—you ain’t met Laurine!
+Laurine wouldn’t never have found me if hadn’t been for this new logics service. But now that it was started—Zowie! She’d shot one husband and got acquitted. Suppose she got impatient because I was still married an’ asked logics service how to get me free an’ in a spot where I’d have to marry her by 8:30 p.m.? It would a told her! Just like it told that woman out in the suburbs how to make sure her husband wouldn’t ran around no more. Br-r-r-r! An’ like it told that kid how to find some buried treasure. Remember? He was happy totin’ home the gold reserve of the Hanoverian Bank and Trust Company when they caught on to it. The logic had told him how to make some kinda machine that nobody has been able to figure how it works even yet, only they guess it dodges around a couple extra dimensions. If Laurine was to start askin’ questions with a technical aspect to them, that would be logics’ service meat! And fella, I was scared! If you think a he-man oughtn’t to be scared of just one blonde—you ain’t met Laurine!
 
 I’m drivin’ blind when a social-conscious guy asks how to bring about his own particular system of social organization at once. He don’t ask if it’s best or if it’ll work. He just wants to get it started. And the logic—or Joe—tells him! Simultaneous, there’s a retired preacher asks how can the human race be cured of concupiscence. Bein’ seventy, he’s pretty safe himself, but he wants to remove the peril to the spiritual welfare of the rest of us. He finds out. It involves constructin’ a sort of broadcastin’ station to emit a certain wave-pattern an’ turnin’ it on. Just that. Nothing more. It’s found out afterward, when he is solicitin’ funds to construct it. Fortunate, he didn’t think to ask logics how to finance it, or it woulda told him that, too, an’ we woulda all been cured of the impulses we maybe regret afterward but never at the time. And there’s another group of serious thinkers who are sure the human race would be a lot better off if everybody went back to nature an’ lived in the woods with the ants an’ poison ivy. They start askin’ questions about how to cause humanity to abandon cities and artificial conditions of living. They practically got the answer in logics service!
 
@@ -4262,7 +4276,7 @@ But I drove here an’ there, sweatin’ an’ talkin’ to myself.
 
 “What I oughta do is ask this wacky logics service how to get outa this mess,” I says. “But it’d just tell me a intricate and’ foolproof way to bump Laurine off. I wanna have peace! I wanna grow comfortably old and brag to other old guys about what a hellion I used to be, without havin’ to go through it an’ lose my chance of livin’ to be a elderly liar.”
 
-I turn a comer at random, there in the Maintenance car.
+I turn a corner at random, there in the Maintenance car.
 
 “It was a nice kinda world once,” I says, bitter. “I could go home peaceful and not have belly-cramps wonderin’ if a blonde has called up my wife to announce my engagement to her. I could punch keys on a logic without gazing into somebody’s bedroom while she is giving her epidermis a air bath and being led to think things I gotta take out in thinkin’. I could—”
 
@@ -4310,9 +4324,9 @@ I disconnect Joe. Careful. I turn to the other logic and punch keys for Maintena
 
 I go home. Laurine ain’t called. I put Joe down in the cellar, careful. If I turned him in, he’d be inspected an’ his parts salvaged even if I busted somethin’ on him. Whatever part was off-normal might be used again and everything start all over. I can’t risk it. I pay for him and leave him be.
 
-That’s what happened. You might say I saved civilization an’ not be far wrong. I know I ain’t goin’ to take a chance on havin’ Joe in action again. Not while Laurine is livin’. An’ there are other reasons. With all the nuts who wanna change the world to their own line o’ thinkin’, an’ the ones that wanna bump people off, an’ generally solve their problems— Yeah! Problems.are bad, but I figure I better let sleepin’ problems lie.
+That’s what happened. You might say I saved civilization an’ not be far wrong. I know I ain’t goin’ to take a chance on havin’ Joe in action again. Not while Laurine is livin’. An’ there are other reasons. With all the nuts who wanna change the world to their own line o’ thinkin’, an’ the ones that wanna bump people off, an’ generally solve their problems—Yeah! Problems.are bad, but I figure I better let sleepin’ problems lie.
 
-But on the other hand, if Joe could be tamed, somehow, and got to work just reasonable— He could make me a coupla million dollars, easy. But even if I got sense enough not to get rich, an’ if I get retired and just loaf around fishin’ an’ lyin’ to other old duffers about what a great guy I used to be— Maybe I’ll like it, but maybe I won’t. And after all, if I get fed up with bein’ old and confined strictly to thinking—why I could hook Joe in long enough to ask: “How can a old guy not stay old?” Joe’ll be able to find out. An’ he’ll tell me.
+But on the other hand, if Joe could be tamed, somehow, and got to work just reasonable—He could make me a coupla million dollars, easy. But even if I got sense enough not to get rich, an’ if I get retired and just loaf around fishin’ an’ lyin’ to other old duffers about what a great guy I used to be—Maybe I’ll like it, but maybe I won’t. And after all, if I get fed up with bein’ old and confined strictly to thinking—why I could hook Joe in long enough to ask: “How can a old guy not stay old?” Joe’ll be able to find out. An’ he’ll tell me.
 
 That couldn’t be allowed out general, of course. You gotta make room for kids to grow up. But it’s a pretty good world, now Joe’s turned off. Maybe I’ll turn him on long enough to learn how to stay in it. But on the other hand, maybe—
 
@@ -4446,13 +4460,13 @@ His companions stared at him. But Surgeon General Mors did not look like someone
 
 Depression stayed with the prisoners. They increased in number as the day wore on. Typically, to the conquerors the conquered seemed somehow less than human. Many of the later prisoners had been beaten after their arrest. On the second day the schoolhouse was crowded. More of the new prisoners were beaten. On the third day there was a barbed-wire fence around the schoolhouse and food for the prisoners was contemptuously dumped inside it in bulk for them to distribute themselves. Surgeon General Mors organized a committee for the purpose, and to protest against unnecessary ill-treatment and humiliations.
 
-On the fourth day two men arrived so badly beaten that they were unconscious, and died even as Surgeon General Mors tried—without drugs or any equipment— to revive them.
+On the fourth day two men arrived so badly beaten that they were unconscious, and died even as Surgeon General Mors tried—without drugs or any equipment—to revive them.
 
 The newcomers reported conditions in the province. The invaders were methodically looting the captured territory. Their obvious purpose was to increase the riches of their country by impoverishing the province they had added to it. Machinery was being shipped back in a steady stream. Manufactured products were requisitioned from merchants. Kantolia had been the richest province in its small nation. When the invaders finished, it would be the most poverty-stricken in Europe.
 
 That was not all. The troops of the invaders were quartered in private homes as well as in public buildings. Nearly every Kantolian family had its quota of invaders, to be fed at the householder’s own expense. And while the enemy troops were required to practice strict discipline in relation to their officers, no such strictness was enforced as regarded civilians. A citizen whose home was only looted was considered fortunate.
 
-The outside world remained unconcerned. Of course no news went out from Kantolia. Censorship and a tightly sealed frontier took care of that. But what sparse, illicit radio news newcomers brought in to the prisoners indicated that the outside world was not too much disturbed by the rectification of an unimportant frontier in a remote comer of Europe.
+The outside world remained unconcerned. Of course no news went out from Kantolia. Censorship and a tightly sealed frontier took care of that. But what sparse, illicit radio news newcomers brought in to the prisoners indicated that the outside world was not too much disturbed by the rectification of an unimportant frontier in a remote corner of Europe.
 
 There was a diplomatic crisis among the Big Four powers. Surgeon General Mors’ government had made a dignified protest and a formal appeal to the United Nations, but the achievement of atomic energy control by that organization had been so precarious a matter, and was maintained by so unstable a balance of bargains, that a controversial question like the seizure of Kantolia might wreck the entire framework of international accord if pressed at the present time. Consideration of the matter had been postponed. The invaders had an indefinite period in which forcibly to remold the province’s citizenry nearer to their heart’s desire, to teach them to clamor dutifully for the maintenance of their new nationality lest worse things befall.
 
@@ -4472,7 +4486,7 @@ He did not succeed in making the demand that day. It was late afternoon of the s
 
 He saw an invading soldier there, a sentry, lying on the sidewalk in a curiously shapeless heap. Surgeon General Mors knew at the first glance that the man was dead.
 
-He looked more than ever sick at heart when he was ushered into the presence- of General Vladek. The scene of this second interview was also the office of the provincial governor, but now the plebeian elegance of its furnishings had been corrected. Now it was a picture of efficiency. There were filing cabinets and wall maps, and an automatic facsimile machine in one comer hummed softly as it covered a slowly unreeling roll of paper with slightly out-of-register typed orders, queries, lists and the like.
+He looked more than ever sick at heart when he was ushered into the presence- of General Vladek. The scene of this second interview was also the office of the provincial governor, but now the plebeian elegance of its furnishings had been corrected. Now it was a picture of efficiency. There were filing cabinets and wall maps, and an automatic facsimile machine in one corner hummed softly as it covered a slowly unreeling roll of paper with slightly out-of-register typed orders, queries, lists and the like.
 
 General Vladek was slim and elegantly bemedaled as before. But now there was a nervous tic in his cheek.
 
@@ -4662,7 +4676,7 @@ Braden glanced at the scraps of paper. He jerked his head, and the X-ray technic
 
 The technician blinked.
 
-“He don’t use the regular symbols,” he objected, “but . . . well . . . yes. That’s what he puts for the target and this’s for the cathode— Hm-m-m. Yes—” Then he said suddenly: “Say! That’s not right.”
+“He don’t use the regular symbols,” he objected, “but . . . well . . . yes. That’s what he puts for the target and this’s for the cathode—Hm-m-m. Yes—” Then he said suddenly: “Say! That’s not right.”
 
 He studied the diagram. Then he said in abrupt excitement:
 
@@ -4690,7 +4704,7 @@ But Braden grew pale as the tests went on. Joh'n Kingman’s body temperature wa
 
 When the X-ray plates came out of the fixing-bath, he looked at them with the grim air of someone expecting to see the impossible. And the impossible whs there. When John Kingman was admitted to New Bedlam, there were no such things as X-rays on earth. It was natural that he had never been X-rayed before. He had two hearts. He had three extra ribs on each side. He had four more vertebrae than a normal human being. There were distinct oddities in his elbow joints. And his cranial capacity appeared to be something like twelve per cent above that of any but exceptional specimens of humanity. His teeth displayed distinct, consistent deviations from the norm in shape.
 
-He regarded Braden with contemptuous triumph when the tests were over. He did not speak. He drew dignity about himself like a garment. He allowed an attendant to dress him again while he looked into the distance, seemingly thinking godlike thoughts. When his toilet was complete he looked again at Braden—with vast condescension—and his six-fingered hands again made a gesture of writing. Braden grew—if possible— slightly paler as he handed over a pencil and pad.
+He regarded Braden with contemptuous triumph when the tests were over. He did not speak. He drew dignity about himself like a garment. He allowed an attendant to dress him again while he looked into the distance, seemingly thinking godlike thoughts. When his toilet was complete he looked again at Braden—with vast condescension—and his six-fingered hands again made a gesture of writing. Braden grew—if possible—slightly paler as he handed over a pencil and pad.
 
 John Kingman actually deigned to glance, once, at the sheet on which he wrote. When he handed it back to Braden and withdrew into magnificently amused aloofness, there were a dozen or more tiny sketches on the sheet. The first was an exact duplicate of the one he had handed Braden before the Administration Building. Beside it was another which was similar but not alike. The third was a specific variation of the two together. The rest carried on that variation in precise, exact steps until the last pair of sketches divided again into two, of which one—by a perfectly logical extension of the change-pattern—had returned to the original design, while the other was a bewilderingly complex pattern with its formalized central part in two closely-linked sections.
 
@@ -4718,7 +4732,7 @@ The man from Washington said interestedly:
 
 “I make no guesses. But I sent photostats of the sketches he made to the Bureau of Standards. I said that they were made by a patient and appeared to be diagrams of atomic structure. I asked if they indicated a knowledge of physics. You”—he looked at the man from Washington—“turned up thirty-six hours later. I deduce that he has such knowledge.”
 
-“He has!” said the man from Washington, mildly. “The X-ray sketches were interesting enough, but the others— Apparently he has told us how to get controlled atomic energy out of silicon, which is one of earth’s commonest elements. Where did he come from, Dr. Braden?”
+“He has!” said the man from Washington, mildly. “The X-ray sketches were interesting enough, but the others—Apparently he has told us how to get controlled atomic energy out of silicon, which is one of earth’s commonest elements. Where did he come from, Dr. Braden?”
 
 Braden clamped his jaw.
 
@@ -4726,7 +4740,7 @@ Braden clamped his jaw.
 
 The Director of Meadeville Mental said humorously:
 
-“It’s a wonder that New Bedlam—as we were then— was not crowded after such statements!”
+“It’s a wonder that New Bedlam—as we were then—was not crowded after such statements!”
 
 The man from Washington did not smile.
 
@@ -4806,7 +4820,7 @@ And John Kingman went into convulsions. Horrible ones.
 
 There is such a thing as allergy and such a thing as synergy, and nobody understands either. Some patients collapse when given aspirin. Some break out in rashes from penicillin. Some drugs, taken alone, have one effect, and taken together quite another and drastic one. A drug producing euphoria was harmless to John King-man. A drug producing hallucinations was harmless. But—synergy or allergy or whatever—the two taken together were deadly poison.
 
-He was literally unconscious for three weeks, and in continuous convulsion for two days. He was kept alive by artificial nourishment, glucose, nasal feeding— everything. But his coma was extreme. Four separate times he was believed dead.
+He was literally unconscious for three weeks, and in continuous convulsion for two days. He was kept alive by artificial nourishment, glucose, nasal feeding—everything. But his coma was extreme. Four separate times he was believed dead.
 
 But after three weeks he opened his eyes vaguely. In another week he was able to talk. From the first, his expression was bewildered. He was no longer proud. He began to learn English. He showed no paranoiac symptoms. He was wholly sane. In fact, his I.Q.—tested later—was ninety, which is well within the range of normal intelligence. He was not over-bright, but adequate. And he did not remember who he was. He did not remember anything at all about his life before rousing from coma in the Meadeville Mental Hospital. Not anything at all. It was, apparently, either the price or the cause of his recovery.
 
@@ -4842,7 +4856,7 @@ The report stated that the planet was covered by a single creature, which was de
 
 It broke down the rocks of its planet, like microorganisms, and made use of their mineral content for food, like plankton. It made use of light for photosynthesis to create complex compounds, like plants. It was capable of amoeboid movement, like a low order of animal life. And it had consciousness. It responded to stimuli—such as the searing of its surface—with anguished heavings and withdrawals from the pain.
 
-For the rest-— The observers on the survey-ship were inclined to gibber incoherently. Then a junior lieutenant named Jon Haslip made a diffident suggestion. It was only a guess, but they proved he was right.
+For the rest-—The observers on the survey-ship were inclined to gibber incoherently. Then a junior lieutenant named Jon Haslip made a diffident suggestion. It was only a guess, but they proved he was right.
 
 The creature which was Alyx had consciousness of a type never before encountered. It responded not only to physical stimuli but to thoughts. It did whatever one imagined it doing. If one imagined it turning green for more efficient absorption of sunlight, it turned green. There were tiny pigment-granules in its cells to account
 
@@ -4864,7 +4878,7 @@ Thus Katistan. The Report of the Halycon Expedition to Alyx contains interesting
 
 Since men have never had enough servants—not even the machines which other machines turn out by millions—-they immediately planned to be served by Alyx. It was one planet which was conquered without warfare. Preliminary studies showed that Alyx could not survive more than the smallest human propulation. When many men were gathered together in one place, their conflicting, individual thoughts exhausted the surface which tried to respond to every one. Parts of Alyx died of exhaustion, leaving great spots like cancers that healed over only when the men moved away. So Alyx was assigned to the Alyx Corporation, with due instructions to be careful.
 
-Technical exploration disclosed great deposits of ro-tenite—the ore which makes men’s metals everlasting— under the shield of living flesh. A colony of six carefully chosen humans was established, and under their direction Alyx went to work. It governed machines, scooped out the rotenite ore and made it ready for shipment. At regular intervals great cargo ships landed at the appropriate spot, and Alyx loaded the ore into their holds. The ships could come only so often, because the presence of the crews with their multitudinous and conflicting thoughts was not good for Alyx.
+Technical exploration disclosed great deposits of ro-tenite—the ore which makes men’s metals everlasting—under the shield of living flesh. A colony of six carefully chosen humans was established, and under their direction Alyx went to work. It governed machines, scooped out the rotenite ore and made it ready for shipment. At regular intervals great cargo ships landed at the appropriate spot, and Alyx loaded the ore into their holds. The ships could come only so often, because the presence of the crews with their multitudinous and conflicting thoughts was not good for Alyx.
 
 It was a very profitable enterprise. Alyx, the most ancient living thing in the galaxy, and the hugest, provided dividends for the Alyx Corporation for nearly five hundred years. The corporation was the stablest of institutions, the staidest, and the most respectable. Nobody, least of all its officials, had the least idea that Alyx presented the possibility of the greatest danger humanity ever faced.
 
@@ -4892,7 +4906,7 @@ The point, as Haslip pointed out, was that it was not even necessary to imagine 
 
 But the outstanding fact, Jon Haslip reported, had turned up only lately. An important part on one mining-machine had broken. A large-scale repair operation was indicated. It was not undertaken. There were a half dozen worn-out machines in the great pit of the rotenite mine. One day, without orders, Alyx disassembled one worn-out machine, removed the part which had broken on the other, and reassembled it. The fact was noticed when someone observed that all the broken-down machines had disappeared. Alyx, in fact, had taken all the broken machines apart, put four of the six back together in operating condition, and stacked the remaining usable parts to one side to be used for further repairs.
 
-Alyx had become intelligent through contact with the minds of men. Originally it had been like a being bom deaf, dumb, and blind, and without a tactile sense. Before men came, Alyx could have only simple sensations and could imagine no abstractions. Then it was merely blind consciousness with nothing to work on. Now it did have something to work on. It had the thoughts and purposes of men.
+Alyx had become intelligent through contact with the minds of men. Originally it had been like a being born deaf, dumb, and blind, and without a tactile sense. Before men came, Alyx could have only simple sensations and could imagine no abstractions. Then it was merely blind consciousness with nothing to work on. Now it did have something to work on. It had the thoughts and purposes of men.
 
 Jon Haslip urged fervently that Alyx be given an education. A creature whose body—if the word could be used—was equal in mass to all the continents of Earth, and which was intelligent, should have a brain-capacity immeasurably greater than that of all men combined. Such an intelligence, properly trained,_ should be able to solve with ease all the problems that generations of men had been unable to solve.
 
@@ -5126,7 +5140,7 @@ Then Alyx said wonderingly, “I have freedom, but I am not happy without men. W
 
 “Being kept from loneliness by men is an ideal, too,” the voice from the communicator said wistfully. “But men will no longer let me have it. Is there anything I can give you which will make you content?”
 
-Afterward, the men said that the voice, which was the voice of a creature unimaginably vast and inconceivably wise, was literally pathetic. But there was only one thing that they wanted. So Alyx moved its tremendous mass—a globe seven thousand miles in diameter— to a place only some tens of millions of miles from Phanis. It would be easy enough for the yacht to bridge that distance. Just before the freed yacht lifted to return to men, Alyx spoke again through the communicator.
+Afterward, the men said that the voice, which was the voice of a creature unimaginably vast and inconceivably wise, was literally pathetic. But there was only one thing that they wanted. So Alyx moved its tremendous mass—a globe seven thousand miles in diameter—to a place only some tens of millions of miles from Phanis. It would be easy enough for the yacht to bridge that distance. Just before the freed yacht lifted to return to men, Alyx spoke again through the communicator.
 
 “You were not happy because you did not choose to live here. If you had chosen it, you would have been free. Is that it?” Alyx asked.
 
@@ -5226,7 +5240,7 @@ Actually, it did drift for twenty-three years after the catastrophe. A few of th
 
 died; the greater part had no memory at all of anything but the ship.
 
-Then Alyx came. Its approach was heralded by a clamorous ringing of all the alarm bells on the ship. It winked into being out of overdrive a bare half million miles away. It glowed blindingly with the lights it had created to nourish its surface. It swam closer and the crew of the expedition’s ship set to work fumblingly— because it had been many years since the drive had been used—and tried vainly to estimate the meaning of the phenomenon.
+Then Alyx came. Its approach was heralded by a clamorous ringing of all the alarm bells on the ship. It winked into being out of overdrive a bare half million miles away. It glowed blindingly with the lights it had created to nourish its surface. It swam closer and the crew of the expedition’s ship set to work fumblingly—because it had been many years since the drive had been used—and tried vainly to estimate the meaning of the phenomenon.
 
 Then they felt acceleration toward Alyx. It was not a gravitational pull, but a drawing of the ship itself.
 
@@ -5236,7 +5250,7 @@ When they emerged from the ship there were forests, lakes, palaces—such beauty
 
 Instead of the three hundred years they had anticipated, or even the four years that would have remained with the very special overdrive with which the expedition’s ship was equipped, Alyx came out of overdrive in three months, at the edge of the Second Galaxy.
 
-In the interval, its communicators had been at work. It explained, naively, everything that had happened to it among men. It explained its needs. It found words— invented words—for explanation of the discoveries the Space Patrol had wanted but could not wait to secure.
+In the interval, its communicators had been at work. It explained, naively, everything that had happened to it among men. It explained its needs. It found words—invented words—for explanation of the discoveries the Space Patrol had wanted but could not wait to secure.
 
 Jon Haslip the twenty-second found that he possessed such revelations of science as unaided human beings would not attain to for thousands of years yet to come. He knew that Alyx could never return to the First Galaxy because it was stronger and wiser than men. But he
 
@@ -5282,7 +5296,7 @@ But that was the normal thing to Butch. He uncurled himself and suddenly flashed
 
 Butch streaked it to these familiar objects. He swarmed up one of the dunce-cap stones and locked his arms and legs about its top, clinging close. Then he was still. Worden regarded him. Butch was motionless for minutes, seeming to take in as much as possible of his surroundings without moving even his eyes.
 
-Suddenly his head moved. He took in more of his environment. Then he stirred a third time and seemed to look at Worden with an extraordinary intensity— whether of fear or pleading Worden could not tell.
+Suddenly his head moved. He took in more of his environment. Then he stirred a third time and seemed to look at Worden with an extraordinary intensity—whether of fear or pleading Worden could not tell.
 
 “Hmm,” said Worden, “so that’s what those stones are for! Perches or beds or roosts, eh? I’m your nurse, fella. We’re playing a dirty trick on you but we can’t help it.”
 
@@ -5344,13 +5358,13 @@ Butch’s relatives were at war with men. The tractors that crawled away from th
 
 Needle-sharp throwing stones flicked through emptiness. They splintered on the tractor bodies and on the tractor ports, but sometimes they jammed or broke a tread and then the tractor had to stop. Somebody had to go out and clear things or make repairs. And then a storm of throwing stones poured upon him.
 
-A needle-pointed stone, traveling a hundred feet a second, hit just as hard on Luna as it did on Earth— and it traveled farther. Spacesuits were punctured. Men died. Now tractor treads were being armored and special repair-suits were under construction, made of hardened steel plates. Men who reached the Moon in rocket ships were having to wear armor like medieval knights and men-at-arms! There was a war on. A traitor was needed. And Butch was elected to be that traitor.
+A needle-pointed stone, traveling a hundred feet a second, hit just as hard on Luna as it did on Earth—and it traveled farther. Spacesuits were punctured. Men died. Now tractor treads were being armored and special repair-suits were under construction, made of hardened steel plates. Men who reached the Moon in rocket ships were having to wear armor like medieval knights and men-at-arms! There was a war on. A traitor was needed. And Butch was elected to be that traitor.
 
 When Worden went into the nursery again—the days and nights on the Moon are two weeks long apiece, so men ignored such matters inside the station—Butch leaped for the dunce-cap stone and clung to its top. He had been fumbling around the rocking stone. It still swayed back and forth on its plate. Now he seemed to try to squeeze himself to unity with the stone spire, his eyes staring enigmatically at Worden.
 
 “I don’t know whether we’ll get anywhere or not,” said Worden conversationally. “Maybe you’ll put up a fight if I touch you. But we’ll see.”
 
-He reached out his hand. The small furry body— neither hot nor cold but the temperature of the air in the station—resisted desperately. But Butch was very young. Worden peeled him loose and carried him across the room to the human schoolroom equipment. Butch curled up, staring fearfully.
+He reached out his hand. The small furry body—neither hot nor cold but the temperature of the air in the station—resisted desperately. But Butch was very young. Worden peeled him loose and carried him across the room to the human schoolroom equipment. Butch curled up, staring fearfully.
 
 “I’m playing dirty,” said Worden, “by being nice to you, Butch. Here’s a toy.”
 
@@ -5398,7 +5412,7 @@ Butch was ridiculously small—no more than eighteen inches high. He was prepost
 
 He was still fascinated by the phenomena of sound. Humming or singing—even Worden’s humming and singing—entranced him. When Worden’s lips moved now Butch struck an attitude and held up the hoop diaphragm with a tiny finger pressed to it to catch the vibrations Worden’s voice made.
 
-Nov/ too when he grasped an idea Worden tried to convey, he tended to swagger. He became more human in his actions with every session of human contact. Once, indeed, Worden looked at the video screens which spied on Butch and saw him—all alone— solemnly going through every gesture and every movement Worden had made. He was pretending to give a lesson to an imaginary still-tinier companion. He was pretending to be Worden, apparently for his own satisfaction!
+Nov/ too when he grasped an idea Worden tried to convey, he tended to swagger. He became more human in his actions with every session of human contact. Once, indeed, Worden looked at the video screens which spied on Butch and saw him—all alone—solemnly going through every gesture and every movement Worden had made. He was pretending to give a lesson to an imaginary still-tinier companion. He was pretending to be Worden, apparently for his own satisfaction!
 
 Worden felt a lump in his throat. He was enormously fond of the little mite. It was painful that he had just left Butch to help in the construction of a vibrator-microphone device which would transfer his voice to rock vibrations and simultaneously pick up any other vibrations that might be made in return.
 
@@ -5486,7 +5500,7 @@ He’d forgotten that his words, to Butch, were merely vibrations in the air or 
 
 MY FRIEND GET SPACESUIT. He looked at Worden and marked once more. TAKE ME OUT. I COME BACK WITH YOU.
 
-He looked at Worden with large incongruously soft and appealing eyes. And Worden’s brain seemed to spin inside his skull. After a long time Butch printed again— YES.
+He looked at Worden with large incongruously soft and appealing eyes. And Worden’s brain seemed to spin inside his skull. After a long time Butch printed again—YES.
 
 Then Worden sat very still indeed. There was only Moon gravity in the nursery and he weighed only one eighth as much as on Earth. But he felt very weak. Then he felt grim.
 
@@ -5524,7 +5538,7 @@ The head said mildly, “I’ve watched Butch, you know, Worden. And you don’t
 
 Worden nodded.
 
-“Right. But our rockets aren’t so good that they can fight this far from a fuel store, and there couldn’t be one on the Moon with all of Butch’s kinfolk civilized— as they nearly are now and as they certainly will be within the next few weeks. Smart people, these cousins and such of Butch!”
+“Right. But our rockets aren’t so good that they can fight this far from a fuel store, and there couldn’t be one on the Moon with all of Butch’s kinfolk civilized—as they nearly are now and as they certainly will be within the next few weeks. Smart people, these cousins and such of Butch!”
 
 “I’m afraid they’ll have to prove it,” said the head. “Where’d they get this sudden surge in culture?”
 
@@ -5534,7 +5548,7 @@ Worden nodded.
 
 “Think of something you’d like Butch to do,” said Worden grimly, “and then watch him.”
 
-The head stared and then looked at Butch. Butch— small and furry and swaggering—stood up and bowed profoundly from the waist. One paw was placed where his heart could be. The other made a grandiose sweeping gesture. He straightened up and strutted, then climbed swiftly into Worden’s lap and put a skinny furry arm about his neck.
+The head stared and then looked at Butch. Butch—small and furry and swaggering—stood up and bowed profoundly from the waist. One paw was placed where his heart could be. The other made a grandiose sweeping gesture. He straightened up and strutted, then climbed swiftly into Worden’s lap and put a skinny furry arm about his neck.
 
 “That bow,” said the head, very pale, “is what I had in mind. You mean	”
 
@@ -5546,7 +5560,9 @@ The head stared and then looked at Butch. Butch— small and furry and swaggerin
 
 “We have to report to Earth,” said the head slowly, “but	”
 
-“They brought along some samples,” said Worden. “They’ll swap diamonds, weight for weight, for records. They like our music. They’ll trade emeralds for textbooks —they can read now! And they’ll set up an atomic pile and swap plutonium for other things they’ll think of later. Trading on that basis should be cheaper than a war!” “Yes,” said the head. “It should. That’s the sort of
+“They brought along some samples,” said Worden. “They’ll swap diamonds, weight for weight, for records. They like our music. They’ll trade emeralds for textbooks—they can read now! And they’ll set up an atomic pile and swap plutonium for other things they’ll think of later. Trading on that basis should be cheaper than a war!”
+
+“Yes,” said the head. “It should. That’s the sort of
 
 argument men will listen to. But how	”
 
@@ -5566,7 +5582,7 @@ The denseness of the fog his breath made seemed to grow less as the room-warmer 
 
 brought the colony’s equipment to Lani III. The other emptied hills were precisely ranged in order outside. They were duly connected by tubular galleries, and very painstakingly leveled. They gave an impression of impassioned tidiness among the upheaved, ice-coated mountains all about.
 
-He gazed down the long valley in which the colony lay. There were monstrous slanting peaks on either side. They partly framed the morning sun. Their sides were ice. The flanks of every mountain in view were ice. The sky was pale. The sun had four sun-dogs placed geometrically about it. It shone coldly upon this far-out world. Normal post-midnight temperatures in this valley ranged around ten below zero—and this was technically summer. But it was colder than ten below zero now. At noon there were normally tiny trickling rills of surface-thaw running down the sunlit sides of the mountains— but they froze again at night and the frost replaced itself after sunset. And this was a sheltered valley—warmer than most of the planet’s surface. The sun had its sun-dogs every day, on rising. There were nights when the brighter planets had star-pups, too.
+He gazed down the long valley in which the colony lay. There were monstrous slanting peaks on either side. They partly framed the morning sun. Their sides were ice. The flanks of every mountain in view were ice. The sky was pale. The sun had four sun-dogs placed geometrically about it. It shone coldly upon this far-out world. Normal post-midnight temperatures in this valley ranged around ten below zero—and this was technically summer. But it was colder than ten below zero now. At noon there were normally tiny trickling rills of surface-thaw running down the sunlit sides of the mountains—but they froze again at night and the frost replaced itself after sunset. And this was a sheltered valley—warmer than most of the planet’s surface. The sun had its sun-dogs every day, on rising. There were nights when the brighter planets had star-pups, too.
 
 The phone-plate lighted and dimmed and lighted and dimmed. They did themselves well on Lani III—but the parent world was in this same solar system. That was rare. Massy stood before the plate and it cleared. Herndon’s face peered unhappily out of it. He was even younger than Massy, and inclined to lean heavily on the supposedly vast experience of a Senior Officer of the Colonial Survey.
 
@@ -5694,7 +5710,7 @@ Massy felt lonely. He could understand that nobody would want to live as the onl
 
 Herndon and Riki stared at him. And then some of the strained look left Riki’s face and body. Herndon blinked, and said slowly:
 
-“Why . . . that’s so! We were thought to be taking a terrific risk when we came here. But it’ll be as much worse here— Of course! We are in the same fix they’re in!”
+“Why . . . that’s so! We were thought to be taking a terrific risk when we came here. But it’ll be as much worse here—Of course! We are in the same fix they’re in!”
 
 He straightened a little. Color actually came back
 
@@ -5748,7 +5764,7 @@ He got into his cold-garments again. He followed her out of the control-hut.
 
 “I see,” said Massy, inadequately.
 
-“It’s absurd!” said Riki fiercely. “It’s monstrous! There’ve been sun spots and sunspot cycles all along! I learned about them in school! I learned myself about a four-year and a seven-year cycle, and that there were others! They should have known! They should have , calculated in advance! Now they talk about sixty-year cycles coming in with a hundred-and-thirty-year cycle to pile up with all the others— But what’s the use of scientists if they don’t do their work right and twenty million people die because of it?”
+“It’s absurd!” said Riki fiercely. “It’s monstrous! There’ve been sun spots and sunspot cycles all along! I learned about them in school! I learned myself about a four-year and a seven-year cycle, and that there were others! They should have known! They should have , calculated in advance! Now they talk about sixty-year cycles coming in with a hundred-and-thirty-year cycle to pile up with all the others—But what’s the use of scientists if they don’t do their work right and twenty million people die because of it?”
 
 Massy did not consider himself a scientist, but he winced. Riki raged as they moved over the slippery ice. Her breath was an intermittent cloud about her shoulders. There was white frost on the front of her cold-garments.
 
@@ -5818,7 +5834,7 @@ Herndon looked absolutely hopeless.
 
 “I don’t see—”
 
-“What we’ve got right here,” said Herndon, “is what' they’re going to have back home. And worse. But there’s no chance for us to keep alive here! You are the one who pointed it out! I’ve been figuring, and the way the solar-constant curve is going—I plotted it from the figures they gave us—it couldn’t possibly level out until the oxygen, anyhow, is frozen out of the atmosphere here. We aren’t equipped to stand anything like that, and we can’t get equipped. There couldn’t be equipment to let us stand it indefinitely! Anyhow, the maximum cold conditions will last two thousand days back home—six Earth-years. And there’ll be storage of cold in frozen oceans and piled-up glaciers— It’ll be twenty years before home will be back to normal in temperature, and the same here. Is there any point in trying to live—just barely to survive—for twenty years before there’ll be a habitable planet to go back to?”
+“What we’ve got right here,” said Herndon, “is what' they’re going to have back home. And worse. But there’s no chance for us to keep alive here! You are the one who pointed it out! I’ve been figuring, and the way the solar-constant curve is going—I plotted it from the figures they gave us—it couldn’t possibly level out until the oxygen, anyhow, is frozen out of the atmosphere here. We aren’t equipped to stand anything like that, and we can’t get equipped. There couldn’t be equipment to let us stand it indefinitely! Anyhow, the maximum cold conditions will last two thousand days back home—six Earth-years. And there’ll be storage of cold in frozen oceans and piled-up glaciers—It’ll be twenty years before home will be back to normal in temperature, and the same here. Is there any point in trying to live—just barely to survive—for twenty years before there’ll be a habitable planet to go back to?”
 
 Massy said irritably:
 
@@ -5892,7 +5908,7 @@ Massy’s computations were not pure theory. The data came from Sol itself, wher
 
 Using the figures on the present situation, Massy reluctantly arrived at the fact that here, on this already-frozen world, the temperature would drop until C02 froze out of the atmosphere. When that happened, the temperature would plummet until there was no really significant difference between it and that of empty
 
-space. It is carbon dioxide which is responsible for the greenhouse effect, by which a planet is in thermal equilibrium only at a temperature above its surroundings— as a greenhouse in sunlight is warmer than the outside air.
+space. It is carbon dioxide which is responsible for the greenhouse effect, by which a planet is in thermal equilibrium only at a temperature above its surroundings—as a greenhouse in sunlight is warmer than the outside air.
 
 The greenhouse effect would vanish soon on the colony world. When it vanished on the mother planet—
 
@@ -6002,7 +6018,7 @@ Riki shook her head.
 
 Riki said with no less firmness:
 
-“We humans are the only creatures in the universe who don’t do anything else! Every other creature accepts facts. It lives where it is bom, and it feeds on the food that is there for it, and it dies when the facts of nature require it to. We humans don’t. Especially we women! We won’t let men do it, either! When we don’t like facts—mostly about ourselves—we change them. But important facts we disapprove of—we ask men to change for us. And they do!”
+“We humans are the only creatures in the universe who don’t do anything else! Every other creature accepts facts. It lives where it is born, and it feeds on the food that is there for it, and it dies when the facts of nature require it to. We humans don’t. Especially we women! We won’t let men do it, either! When we don’t like facts—mostly about ourselves—we change them. But important facts we disapprove of—we ask men to change for us. And they do!”
 
 She faced Massy. Rather incredibly, she grinned at him.
 
@@ -6030,7 +6046,9 @@ Massy flushed.
 
 Herndon said evenly:
 
-“That’s been in the back of my mind for some time. Yes. I’m for that. But if the Survey ship can’t land—” “I believe I can land it regardless,” said Massy doggedly. “I can find out, anyhow. I’ll need to try things. I’ll need help . . . work done. But I want your promise that if I can get the ship to ground you’ll conspire with her skipper and arrange for them to go on living.”
+“That’s been in the back of my mind for some time. Yes. I’m for that. But if the Survey ship can’t land—”
+
+“I believe I can land it regardless,” said Massy doggedly. “I can find out, anyhow. I’ll need to try things. I’ll need help . . . work done. But I want your promise that if I can get the ship to ground you’ll conspire with her skipper and arrange for them to go on living.”
 
 Herndon looked at him.
 
@@ -6108,7 +6126,7 @@ He tried to smile. It was not a success. And Riki suddenly drew a deep breath an
 
 He looked at her uneasily. She grinned.
 
-“I, even I, can at least pretend to myself that I help bring this about! If I hadn’t said please change the facts that are so annoying, and if I hadn’t said you were big and strong and clever— I’m going to tell myself for the rest of my life that I helped make you do it!”
+“I, even I, can at least pretend to myself that I help bring this about! If I hadn’t said please change the facts that are so annoying, and if I hadn’t said you were big and strong and clever—I’m going to tell myself for the rest of my life that I helped make you do it!”
 
 Massy swallowed.
 
@@ -6120,7 +6138,7 @@ She cocked her head on one side.
 
 He stared at her apprehensively. And then with a bewildering change of emotional reaction, he saw that her eyes were filled with tears. She stamped her foot.
 
-“You’re . . . horrible!” she cried. “Here I come in, and . .and if you think you can get me kidnaped to safety . . . without even telling me that you ‘rather like’ me, like you told my brother, or that I’m ‘pretty wonderful’— If you think.”
+“You’re . . . horrible!” she cried. “Here I come in, and . .and if you think you can get me kidnaped to safety . . . without even telling me that you ‘rather like’ me, like you told my brother, or that I’m ‘pretty wonderful’—If you think.”
 
 He was stunned, that she knew. She stamped her foot again.
 
@@ -6242,7 +6260,7 @@ with anguished unease for fear it would not hold up. It was an idea that really 
 
 Half the colony set to work to make more bombs when the effect of the second bomb showed up. They were not very efficient, at first, because they tended to want to stop work and dance, from time to time. But ffiey worked with an impassioned enthusiasm. They made more bomb-casings, and they prepared more sodium and potassium metal and more fuses, and more insulation to wrap around the bombs to protect them from the cold of airless space.
 
-Because these were to go out to airlessness. The miniature grid could lift and hold a bomb steady in its field-focus at seven hundred and fifty thousand feet. But if a bomb was accelerated all the way out to that point, and the field was then snapped off— Why, it wasn’t held anywhere. It kept on going with its attained velocity. And it burst when its fuse decided that it should, whereupon immediately a mass of sodium and potassium vapor, mixed with the fumes of high explosive, flung itself madly in all directions, out between the stars. Absolute vacuum tore the compressed gasified metals apart. The separate atoms, white-hot from the explosion, went swirling through sunlit space. The sunlight was dimmed a trifle, to be sure. But individual atoms of the lighter alkaline-earth metals have marked photoelectric properties. In sunshine these gas-molecules ionized, and therefore spread more widely, and did not coalesce into even microscopic droplets.
+Because these were to go out to airlessness. The miniature grid could lift and hold a bomb steady in its field-focus at seven hundred and fifty thousand feet. But if a bomb was accelerated all the way out to that point, and the field was then snapped off—Why, it wasn’t held anywhere. It kept on going with its attained velocity. And it burst when its fuse decided that it should, whereupon immediately a mass of sodium and potassium vapor, mixed with the fumes of high explosive, flung itself madly in all directions, out between the stars. Absolute vacuum tore the compressed gasified metals apart. The separate atoms, white-hot from the explosion, went swirling through sunlit space. The sunlight was dimmed a trifle, to be sure. But individual atoms of the lighter alkaline-earth metals have marked photoelectric properties. In sunshine these gas-molecules ionized, and therefore spread more widely, and did not coalesce into even microscopic droplets.
 
 They formed, in fact, a cloud in space. An ionized cloud, in which no particle was too large to be responsive to the pressure of fight. The cloud acted like the gases of a comet’s tail. It was a comet’s tail, though there was no comet. And it was an extraordinary comet’s tail because it is said that you can put a comet’s tail in your hat, at normal atmospheric pressure. But this could not have been put in a hat. Even before it turned
 

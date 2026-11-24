@@ -446,7 +446,7 @@ I had to nerve myself to lift the lid again. I bent for a long time, trembling a
 
 “I had found hope. The evolution of the plants, I thought, must have produced something that resisted transmutation. I stuffed myself with berries till I began to feel sick, then poured the water from my canteen and squeezed juice to fill it.
 
-“Since then I have analyzed the fluid. Some of its constituents resemble the standard formulas for the treatment for X-ray bums. It doubtless saved me from the terrible burns caused by gamma radiation.
+“Since then I have analyzed the fluid. Some of its constituents resemble the standard formulas for the treatment for X-ray burns. It doubtless saved me from the terrible burns caused by gamma radiation.
 
 “I lay there till dawn, dozing sometimes in spite of my terror. Sunlight must have filtered down through that pool of gas. By day the green faded to a greenish gray, and even the red sand seemed less luminous.
 
@@ -548,7 +548,7 @@ The lisp in his speech made him unintentionally droll. That must have been the c
 
 Fourteen of us were waiting on Dead Star Station, in the wild, lonely Orion Passage, for the coming of the space liner *Bellatrix*. Thirteen men and a girl. Twelve of us made up the crew of the station. And the thirteenth man was Gideon Clew.
 
-The old man, of course, had no official right to be upon the station. But mild old Captain Manners was softhearted, and the rest of us sympathetic. Gideon Clew had been aboard since before most of us were bom—fifty years, he said. Fifty years is a long time for a man to be shut up in a little metal world, away from life. He had lost his place outside; he had no one to go to. It would have been cruelty to send him away.
+The old man, of course, had no official right to be upon the station. But mild old Captain Manners was softhearted, and the rest of us sympathetic. Gideon Clew had been aboard since before most of us were born—fifty years, he said. Fifty years is a long time for a man to be shut up in a little metal world, away from life. He had lost his place outside; he had no one to go to. It would have been cruelty to send him away.
 
 He had been a generator-man until, ten years before, the service had automatically retired him, sent out another man to take his place. We let him stay aboard, wrapped up in the Great Idea that—had success chosen <a id="page15"></a>to crown it—would have made him famous. We even dug into our own pockets to make up his quarterly pay check, to provide funds to carry on the experiment that was the old man’s life.
 
@@ -1826,7 +1826,7 @@ the_crucible_of_power
 # The Crucible of Power
 
 .fl
-<span class="smallcaps">This, my father’s</span> story, must begin with the great pandemic that was the background of his life, as it had been, since the twentieth century, the deadly background of human history. The Falling Sickness first <a id="page75"></a>attacked workers in a Greenland radium mine, in 1998. Baffled doctors talked of spores swept to Earth by the light-pressure of the Great Supernova of 1991. More probably, however, the new virus was a radiation-bom mutation from some malignant proteide already known—quite possibly, even, from one of those responsible for the “common cold.”
+<span class="smallcaps">This, my father’s</span> story, must begin with the great pandemic that was the background of his life, as it had been, since the twentieth century, the deadly background of human history. The Falling Sickness first <a id="page75"></a>attacked workers in a Greenland radium mine, in 1998. Baffled doctors talked of spores swept to Earth by the light-pressure of the Great Supernova of 1991. More probably, however, the new virus was a radiation-born mutation from some malignant proteide already known—quite possibly, even, from one of those responsible for the “common cold.”
 
 The disease attacked all nerve tissue. Commonly the ganglions and plexuses of the ear were first affected. The victims were deafened, deprived of sense of balance, usually terrified with a sensation of endless headlong falling—hence the malady’s popular name.
 
@@ -1874,7 +1874,7 @@ The Volcano Steam and Metals Corporation proved to have been a singularly apt na
 
 Molyneaux was killed in the eruption. Full <a id="page79"></a>responsibility for the disaster was somehow placed upon him. All the records of the corporation had been destroyed, and its tangled affairs were never entirely straightened. A fact, however, which used to rouse the ire of luckless investors, was that my father seemed to have lost nothing by the failure of the project.
 
-He remained prosperous enough, indeed, to purchase an entire island in the Aegean. There he built a marble replica of an ancient Roman villa, complete with all modem conveniences. There he took my mother as a bride—his second wife, she was Sabina Calhoun, frail, lovely daughter of an old aristocracy. And it was there, in 2130, the year after the disaster, that I was bom.
+He remained prosperous enough, indeed, to purchase an entire island in the Aegean. There he built a marble replica of an ancient Roman villa, complete with all modem conveniences. There he took my mother as a bride—his second wife, she was Sabina Calhoun, frail, lovely daughter of an old aristocracy. And it was there, in 2130, the year after the disaster, that I was born.
 
 It was to that island palace that Trent soon came. Some Napoleonic complex drove my father always onward. He was already restless and uncontent, my mother used to tell me, before that epochal visit, whose results broke her heart and opened the conquest of so many worlds.
 
@@ -1988,7 +1988,7 @@ Very hastily, panting with the effort, they covered Burgess and the German in sh
 
 The two men, in a sudden panic, tried to hide in the sand. The machine circled noiselessly above the wrecked rocket, and then flew back above them without landing. They ran after it, at last, waving and shouting frantically, but it paid them no heed.
 
-They struggled on. The rarefied air, Trent commented, and the lesser gravitation, tended toward a physiological balance. But both were coughing. Their lungs had begun to bum. Trent discovered that he had a rising fever.
+They struggled on. The rarefied air, Trent commented, and the lesser gravitation, tended toward a physiological balance. But both were coughing. Their lungs had begun to burn. Trent discovered that he had a rising fever.
 
 Both were tormented by extreme thirst, as the dry atmosphere sucked moisture from their bodies. And there was no water.
 
@@ -2098,7 +2098,7 @@ After three lonely, grim days, parched and sunburned and chapped with alkali dus
 
 <a id="page93"></a>Dark buildings sprawled flat and massive behind the walls and hedges that held back the seas of yellow sand. Although the city had several thousand inhabitants, and the central part about the towering conical Sun temple was now thronged with the lancers gathered to avenge the outrage against the sacred ship, by far the greater part of Ob was mere crumbling ruin. Its gaunt, bright-scaled people seemed to my father like lonely ghosts, trying to haunt a far-spreading necropolis. Mars was far gone in death.
 
-Stating that he was an ambassador from the Sun, my father demanded audience with Anak. Suspiciously, yet with respect bom of the unprecedented disaster to the sacred ship, the lancers took my father to the ancient, many-terraced pile of crumbling black masonry that was the temple. There Anak met him.
+Stating that he was an ambassador from the Sun, my father demanded audience with Anak. Suspiciously, yet with respect born of the unprecedented disaster to the sacred ship, the lancers took my father to the ancient, many-terraced pile of crumbling black masonry that was the temple. There Anak met him.
 
 The ruler was a tall, gaunt Martian, stiff with pride. Age had darkened his lustrous scales to a purple black, and the homy carapace that crowned his egg-shaped head was crimson. His dark face was lean, hawklike, deeply wrinkled. Jet black, yellow-rimmed, his eyes flamed with virulent hatred.
 
@@ -2649,7 +2649,7 @@ BY: Goon Operative GK-89 (R. A. Meyer, Politi-cotechnic Engineer).
 SUBJECT: Eli Catlaw, alias the Preacher of the Revelation, alias the Word of God, alias the King of Kings. Labor No. G-496-HN-009. Escaped convict, Mars Penal Reservation, No. 45-V-18. Wanted for murder of guard. Believed now in America, but whereabouts unknown. <a id="page126"></a>*Note: Catlaw is a dangerous character. Liquidation recommended.*
 
 .space
-Tapping a key to change the pages, Kellon skimmed significant passages. “Catlaw was bom in the Ozark District, of labor-class parents. . . . Mother’s claim to illegitimate technical blood probably false. . . . Transported to Mars for assault on engineer. . . . Guard murdered, in escape. . . . Catlaw reached Venus Commonwealth on ore ship. . . . Became ‘swamp walker’ and successful herb trader. . . . ‘Conversion’ and preaching dates from recovery from attack of jungle fever. . . . Returned to Earth about nine years ago, to lead underground ‘Crusade’ against Union. . . . Enabled to evade many Goon raids by vast popular support. . . . Treason charges against Union factions. . . . Catlaw has incited assassination and sabotage. . . . His program implies total destruction of technical civilization.”
+Tapping a key to change the pages, Kellon skimmed significant passages. “Catlaw was born in the Ozark District, of labor-class parents. . . . Mother’s claim to illegitimate technical blood probably false. . . . Transported to Mars for assault on engineer. . . . Guard murdered, in escape. . . . Catlaw reached Venus Commonwealth on ore ship. . . . Became ‘swamp walker’ and successful herb trader. . . . ‘Conversion’ and preaching dates from recovery from attack of jungle fever. . . . Returned to Earth about nine years ago, to lead underground ‘Crusade’ against Union. . . . Enabled to evade many Goon raids by vast popular support. . . . Treason charges against Union factions. . . . Catlaw has incited assassination and sabotage. . . . His program implies total destruction of technical civilization.”
 
 Kellon finished the report. He sat staring into the empty prism, as gravely as if he could read there the end of Sunport and all his world. He had scarcely moved, an hour later, when Marquard brought in the Preacher.
 
@@ -3451,7 +3451,9 @@ Her question cast Underhill into moody silence. He sat scowling at his plate, th
 
 “The perfect mechanicals already exist, Mr. Underhill.” His deep, rusty voice had a solemn undertone. “And they are not so splendid, really. I’ve been a refugee from them, for nearly fifty years.”
 
-Underhill looked up from his plate, astonished. “Those black humanoids, you mean?” “Humanoids?” That great voice seemed suddenly faint, frightened. The deep-sunken eyes turned dark with shock. “What do you know of them?”
+Underhill looked up from his plate, astonished. “Those black humanoids, you mean?”
+
+“Humanoids?” That great voice seemed suddenly faint, frightened. The deep-sunken eyes turned dark with shock. “What do you know of them?”
 
 “They’ve just opened a new agency in Two Rivers,” Underhill told him. “No salesmen about, if you can imagine that. They claim—”
 
@@ -3764,7 +3766,7 @@ He sighed, in the cool creeping dusk.
 
 “I had to take fantastic precautions there, to protect my own life. I stayed aboard the ship, until the first shielded laboratory was finished. I wore elaborate armor and breathing masks. I used every medical resource, to repair the damage from destroying rays and particles. Even so, I fell desperately ill.
 
-“But the mechanicals were at home there. The radiations didn’t hurt them. The awesome surroundings couldn’t depress them, because they had no emotions. The lack of life didn’t matter because they weren’t alive. There, in that spot so alien and hostile to life, the humanoids were bom.”
+“But the mechanicals were at home there. The radiations didn’t hurt them. The awesome surroundings couldn’t depress them, because they had no emotions. The lack of life didn’t matter because they weren’t alive. There, in that spot so alien and hostile to life, the humanoids were born.”
 
 Stooped and bleakly cadaverous in the growing dark, the old man fell silent for a little time. His haggard eyes stared solemnly at the small hurried shapes that moved like restless shadows out across the alley, silently building a strange new palace, which glowed faintly in the night.
 
@@ -3880,7 +3882,9 @@ Underhill was staring at the toylike machines, the long bright needle and the du
 
 “If we can finish it in time.”
 
-“But how?” Underhill shook his head. “It’s so tiny.” “But big enough,” Sledge insisted. “Because it’s something they don’t understand. They are perfectly efficient in the integration and application of everything they know, but they are not creative.”
+“But how?” Underhill shook his head. “It’s so tiny.”
+
+“But big enough,” Sledge insisted. “Because it’s something they don’t understand. They are perfectly efficient in the integration and application of everything they know, but they are not creative.”
 
 He gestured at the gadgets on the table.
 
@@ -4008,7 +4012,9 @@ Not even the children escaped that absolute solicitude. Frank was robbed of a wh
 
 Gay had always dreamed of being a great musician. The new mechanicals had replaced her human teachers, since they came. Now, one evening when Underhill asked her to play, she announced quietly:
 
-“Father, I’m not going to play the violin any more.” “Why, darling?” He stared at her, shocked, and saw the bitter resolve on her face. “You’ve been doing so
+“Father, I’m not going to play the violin any more.”
+
+“Why, darling?” He stared at her, shocked, and saw the bitter resolve on her face. “You’ve been doing so
 
 well—especially since the humanoids took over your lessons.”
 
@@ -4339,7 +4345,9 @@ Cameron stood waiting. The defeated look was gone. His lean face was properly gr
 
 Hudd pushed the little golden head of Tyler away from him, across the opulent desk. Slowly shifting his great bulk, he leaned back in his wide chair, knitting his fingers so that his huge, black-haired hands cradled his paunch. Under the dark thick brows, his small eyes were glazed with fatigue and trouble.
 
-“I suppose you noticed when we went from acceleration thrust to centrifugal, three days ago?” His rasping voice was dry and hurried. “Anyhow, we’re back—on a temporary orbit twenty thousand miles from the moon.” “And something’s wrong?” Cameron’s voice, it seemed to me, had some faint undertone of malicious anticipation. But Hudd didn’t seem to notice, for he was stating gravely:
+“I suppose you noticed when we went from acceleration thrust to centrifugal, three days ago?” His rasping voice was dry and hurried. “Anyhow, we’re back—on a temporary orbit twenty thousand miles from the moon.”
+
+“And something’s wrong?” Cameron’s voice, it seemed to me, had some faint undertone of malicious anticipation. But Hudd didn’t seem to notice, for he was stating gravely:
 
 “Something has happened to the Directorate!”
 
@@ -4649,7 +4657,7 @@ Hudd answered his smart salute and looked at Lord.
 IV
 
 .space
-Our lifecraft, next day, spiraled slowly down over Americania—the splendid capital city which Tyler had founded, sentimentally, upon the Midwestern farm where he was bom. Peering down through the ports, we felt an increasing sense of fearful puzzlement.
+Our lifecraft, next day, spiraled slowly down over Americania—the splendid capital city which Tyler had founded, sentimentally, upon the Midwestern farm where he was born. Peering down through the ports, we felt an increasing sense of fearful puzzlement.
 
 Wide suburban areas had been devastated by explosion or fire, so long ago that lush green forest had now overspread the blackened walls and the twisted frames of rust-red steel—but most of the city looked intact.
 
@@ -4819,7 +4827,7 @@ Lord, with a shrill excited shout, discovered a pile of heavy cloth bags that ha
 
 But Cameron pointed quietly to several empty compartments, and a blackened metal wastebasket, on the end of the desk, nearly full of gray ashes.
 
-“It wasn’t panic, Mr. Lord,” he said respectfully. “Tyler had plenty of time to bum the papers he wanted to destroy. Then, I should imagine, he just walked out.”
+“It wasn’t panic, Mr. Lord,” he said respectfully. “Tyler had plenty of time to burn the papers he wanted to destroy. Then, I should imagine, he just walked out.”
 
 The little Squaredealer peered up at him, bewildered and visibly afraid.
 
@@ -4935,7 +4943,11 @@ Below us, the man called to the girl, and she moved the machine on its wide cate
 
 The man was a lithe young giant in shorts, bareheaded and brown. The sweat of his toil, in the hot afternoon, made a film that rippled and gleamed with every movement of his sun-bronzed body. Sometimes he paused to get his breath, smiling and calling down to the girl.
 
-“Mushrooms for supper, what?” “Let’s plant a lilac on the south terrace, shall we?” “I’ve thought of a name, darling—let’s call him Dane Barstow. Dane Bar-stow Hawkins!”
+“Mushrooms for supper, what?”
+
+“Let’s plant a lilac on the south terrace, shall we?”
+
+“I’ve thought of a name, darling—let’s call him Dane Barstow. Dane Bar-stow Hawkins!”
 
 That name gave me a puzzled shock. Dane Barstow had been my own father’s name—but it seemed quite improbable that the expected young Hawkins should be named for an unsuccessful traitor, long dead in the labor camps of the Squaredeal Machine.
 
@@ -5417,7 +5429,9 @@ Hudd’s bold eyes had drifted back to the sun-browned girl—who was listening,
 
 “Not so hard, with the equalizer.” Cameron grinned at Hudd’s blinking, startled stare. “From his cell on the moon, Barstow smashed the Directorate. He didn’t need any weapons or equipment. All he had to do was tell his jailors what he had discovered.”
 
-Hudd made a hollow, croaking sound. “How’s that?” “The news of the equalizer spread from one man to another,” Cameron said. “Those same engineers who had been assigned to get the invention from him set up a little illicit transmitter and beamed the details back to earth with equalizer power, on every frequency they could get through the ionosphere.
+Hudd made a hollow, croaking sound. “How’s that?”
+
+“The news of the equalizer spread from one man to another,” Cameron said. “Those same engineers who had been assigned to get the invention from him set up a little illicit transmitter and beamed the details back to earth with equalizer power, on every frequency they could get through the ionosphere.
 
 “That finished the Directorate.”
 
@@ -5674,7 +5688,7 @@ the_peddlers_nose
 .fl
 <span class="smallcaps">The peddler came</span> to Earth, across the empty immensities of space, after whisky. He knew the planet was under quarantine, but his blunders had left him at the mercy of his thirst. Ultimately, the root of that merciless thirst was his nose.
 
-He was a thin, tiny man, and his crooked nose enormous. The handicap could have been corrected, but he was bom on a frontier world where the difficult dilemmas of freedom and responsibility had not yet been solved, and he was allowed to grow up twisted with the knowledge of his ugliness.
+He was a thin, tiny man, and his crooked nose enormous. The handicap could have been corrected, but he was born on a frontier world where the difficult dilemmas of freedom and responsibility had not yet been solved, and he was allowed to grow up twisted with the knowledge of his ugliness.
 
 Damned by genetic accident, he spent his fife in flight from salvation. By the time his. deformity had made a petty criminal of him, he had come to defend it as the most tender part of himself. When he was ordered to a clinic for the removal of his social maladjustments and the excess nasal tissue that lay beneath them, he escaped rehabilitation and drifted out to the fringes of civilization, where the law was less efficient.
 
@@ -6087,9 +6101,13 @@ The psionic translator revealed the beast’s dangerous desperation, even before
 
 The translator made it clear that the chair was an elaborate torture machine in which convicted killers were put to a ceremonial death, according to a primitive tribal code of blood revenge.
 
-“So you gotta take me wherever you’re going.” The creature’s dark, frightened eyes studied the collector cunningly. “If you put me back, you’ll be killing me.” “On the contrary.” The collector’s thick upper lip twitched slightly, and a slow smile oozed across his wide putty face, warming everything except his frosty little eyes. “Human life is sacred. We can arrange to make you the safest creature of your kind—and also the happiest—so long as you are willing to observe two necessary conditions.”
+“So you gotta take me wherever you’re going.” The creature’s dark, frightened eyes studied the collector cunningly. “If you put me back, you’ll be killing me.”
 
-“Huh?” The anthropoid squinted. “Whatcha mean?” “You understand that we violated the quarantine in allowing you to get aboard,” the collector explained patiently. “We, and not you, would be held responsible in case of detection, but we need your help to conceal the yiolation. We are prepared to do everything for you, if you will make and keep two simple promises.”
+“On the contrary.” The collector’s thick upper lip twitched slightly, and a slow smile oozed across his wide putty face, warming everything except his frosty little eyes. “Human life is sacred. We can arrange to make you the safest creature of your kind—and also the happiest—so long as you are willing to observe two necessary conditions.”
+
+“Huh?” The anthropoid squinted. “Whatcha mean?”
+
+“You understand that we violated the quarantine in allowing you to get aboard,” the collector explained patiently. “We, and not you, would be held responsible in case of detection, but we need your help to conceal the yiolation. We are prepared to do everything for you, if you will make and keep two simple promises.”
 
 “Such as?”
 
@@ -6412,7 +6430,7 @@ Or back with the monks, Tommy told himself unhappily. He couldn’t help thinkin
 
 Nodding miserably, Tommy huddled smaller on the chest.
 
-“I’m giving you a decent home, so you ought to be grateful.” A faint indignation began to edge her voice. “I never approved when Lizzie ran away to marry a good-for-nothing explorer—not even if his long-winded books did make them rich. Served her right when they got killed, trying to climb them foreign mountains. I guess she never had a thought of me—her wandering like a gypsy queen through all them wicked heathen countries, never sending me a penny. A lot she cared if her own bom sister had to drudge away like a common hired girl!”
+“I’m giving you a decent home, so you ought to be grateful.” A faint indignation began to edge her voice. “I never approved when Lizzie ran away to marry a good-for-nothing explorer—not even if his long-winded books did make them rich. Served her right when they got killed, trying to climb them foreign mountains. I guess she never had a thought of me—her wandering like a gypsy queen through all them wicked heathen countries, never sending me a penny. A lot she cared if her own born sister had to drudge away like a common hired girl!”
 
 Sudden tears shone in the one brown eye, but the other remained dry and hard as glass.
 
@@ -6482,7 +6500,7 @@ Very carefully, he slipped it out of the round wooden case and unrolled a little
 
 “It is older than printing,” he told her. “It is written with the secret wisdom of the Thirtankara Rishabha. It tells how souls may be guarded through their transmigrations and helped upward toward nirvana.”
 
-“Heathen lies!” She reached for it angrily. “I ought to bum it.”
+“Heathen lies!” She reached for it angrily. “I ought to burn it.”
 
 “No!” He hugged it in his skinny arms. “Please don’t! Because it is so powerful. I need it to aid my father and mother in their new lives. I need it to know Mira Bai when I find her again. I think you need it too, Aunt Agatha, to purge your own soul of the eight kinds of karma—”
 
@@ -6518,11 +6536,11 @@ She gave his ear another twist.
 
 “But it’s the truth!” He caught his breath, trying not to whimper. “Please, Aunt Agatha, let me read you part of the sacred book—”
 
-“Sacred?” She shook him by the ear. “You filthy little blasphemer! I’m going down now to pray for you. But when I come back in the morning I’m going to open up your box and take away that heathen writing—I declare it’s what gives you all these wicked notions. I’m going to bum it in the kitchen stove.”
+“Sacred?” She shook him by the ear. “You filthy little blasphemer! I’m going down now to pray for you. But when I come back in the morning I’m going to open up your box and take away that heathen writing—I declare it’s what gives you all these wicked notions. I’m going to burn it in the kitchen stove.”
 
 “But—Aunt Agatha!” He shivered with a sharper pain. “Without the secret book, I can’t guide anybody toward nirvana. I can’t help my father and mother, straggling under their load of karma. I won’t even know little Mira Bai, if I should ever find her.”
 
-“I’ll teach you what you need to know.” She let go his tingling ear, to box it sharply. “We’ll bum that book in the morning. You’ll forget every word it says, or stay in this room till you starve.”
+“I’ll teach you what you need to know.” She let go his tingling ear, to box it sharply. “We’ll burn that book in the morning. You’ll forget every word it says, or stay in this room till you starve.”
 
 She locked the door on him and waddled down the stairs again, weeping for his soul and wheezing with her asthma. She had a good nip of whisky for her heart, and filled herself a nice plate of cold roast chicken and potato salad before she went up to her own room to pray.
 
@@ -6593,7 +6611,9 @@ I didn’t want anything to do with such civilian nincompoops or their idiotic p
 
 “Depends entirely on the mission, sir.”
 
-“Of course.” He nodded patiently, and stopped to scratch something on a pad before his blue, shortsighted eyes came back to me. “Suppose your mission is to carry forty tons of equipment and three technicians to a point in space fifteen billion miles out from the sun?” “A crazy question.” I saw the admiral’s face, and tried to moderate my tone. “What I mean, sir, the Star-hawk wasn’t designed for interstellar flight—”
+“Of course.” He nodded patiently, and stopped to scratch something on a pad before his blue, shortsighted eyes came back to me. “Suppose your mission is to carry forty tons of equipment and three technicians to a point in space fifteen billion miles out from the sun?”
+
+“A crazy question.” I saw the admiral’s face, and tried to moderate my tone. “What I mean, sir, the Star-hawk wasn’t designed for interstellar flight—”
 
 “No ion ship is good enough for that.” Knedder didn’t seem offended, but he was persistent. “But I understood that you could carry us fifteen billion miles out. Right?”
 
@@ -6773,7 +6793,9 @@ I wondered what made them significant, but he was holding the door half closed, 
 
 “—point-o-o-fiv e-nine-three—”
 
-“Ned!” I couldn’t see the Eurasian girl, but she sounded breathless with a sudden elation. “That should give us a good approximation to the third constant—” “Sorry, Barron.”
+“Ned!” I couldn’t see the Eurasian girl, but she sounded breathless with a sudden elation. “That should give us a good approximation to the third constant—”
+
+“Sorry, Barron.”
 
 Knedder shut the door.
 
@@ -7014,7 +7036,9 @@ He shuddered when he heard that penetrating cry, and snatched his fingers away f
 
 “Nothing, my dear. Nothing at all.” He stooped hastily to recover his briefcase and umbrella. “But it must be time to see about our flight—”
 
-“So! Shopping for one of them synthetic housekeepers?” She snatched the umbrella and flourished it high. “Well, I won’t have ’em in any place of mine!” “Martha, darling—”
+“So! Shopping for one of them synthetic housekeepers?” She snatched the umbrella and flourished it high. “Well, I won’t have ’em in any place of mine!”
+
+“Martha, darling—”
 
 “I’ll Martha-darling you!”
 
@@ -7094,7 +7118,9 @@ Chimberley blinked at her shining innocence, suspecting that he had been had.
 
 “Now I think we’re getting somewhere.” He leaned quickly across the narrow table. “Who’s Miss Chemistics?”
 
-“The world’s most wanted woman.” Guinevere sipped her water gracefully. “She won a prize contest that was planned to pick out the woman that every man wanted. A stupid affair, organized by the old human management before the computer was put in. There was an entry blank in every package of our synthetic products. Forty million women entered. The winner was a farm girl named Gussie Schlepps before the talent agents picked her up—now she’s Guinevere Golden.” “What had she to do with you?”
+“The world’s most wanted woman.” Guinevere sipped her water gracefully. “She won a prize contest that was planned to pick out the woman that every man wanted. A stupid affair, organized by the old human management before the computer was put in. There was an entry blank in every package of our synthetic products. Forty million women entered. The winner was a farm girl named Gussie Schlepps before the talent agents picked her up—now she’s Guinevere Golden.”
+
+“What had she to do with you?”
 
 “We’re copies.” Guinevere smirked complacently. “Of the world’s most wonderful woman.”
 
@@ -7754,7 +7780,9 @@ He pulled himself after them toward the shelter, halfway swimming. Komatsu stopp
 
 He had tried to play the game, but Atlas was a tough opponent. His first real problem came when Komatsu asked him to come for a swim. Tired and sweaty after the long flight down, he agreed eagerly, but he wondered where any water was. Komatsu led him along a yellow rope to the edge of the ridge.
 
-“You first.” Komatsu waved him ahead. “Dive.” “Huh?”
+“You first.” Komatsu waved him ahead. “Dive.”
+
+“Huh?”
 
 He saw no water anywhere. The ridge was nearly flat on top, flaked and cracked with time. Ropes stretched along its rim. The reddish desert lay far, far below. Feeling bewildered, he looked back at Komatsu.
 
@@ -7846,7 +7874,9 @@ The pack went dead, thumped on again.
 
 “Mayfield, what you’ve seen may be the final clue we needed.” The copied voice had a sudden human heartiness. “Congratulations! The survey director says
 
-your report confirms his best theory. Atlas is an artificial object, designed and built by high intelligence.” “Who could build a world—” The notion jarred him. “A world the size of Atlas?”
+your report confirms his best theory. Atlas is an artificial object, designed and built by high intelligence.”
+
+“Who could build a world—” The notion jarred him. “A world the size of Atlas?”
 
 “We don’t know yet.” The voice drummed fast. “But natural planets are not efficient as dwellings for life. They catch too little sunlight. They expose too little surface for unit of mass. The director thinks that Atlas is the matter from a system of planets, rebuilt into a hollow shell, maybe only a mile or so thick. The job took engineering know-how we can barely begin to imagine. But it gave the builders a million times more living space.”
 

@@ -206,7 +206,7 @@ Not that Gallun, a convinced agnostic, has ever considered Nature or G^ to be on
 
 Intelligence, in his view, is an accident: the product of chance conditions and the Darwinian struggle for existence. Intelligent beings, given no “meaning” for existence, must discover one for themselves. But they must discover it in a universe of order, not chaos; a cosmos governed by strict Law, albeit a Law made neither by nor for them. As much as the Law allows, they may create a milieu in which justice and mercy, love and compassion exist. But these are the things of life; always the universe remains indifferent to them, and its harsh Law may intrude upon them at any time. Only intelligence cares.
 
-“Godson of Almarlu” (1936), the longest work in this collection, is one of Gallun’s dramas of a caring intelligence against an uncaring umverse. Human existence is threatened by what would now be called a neutron star, a body so dense and massive its mere approach can disrupt planets. Once before, it has done so —and those who then inhabited what was the fifth planet of our solar system have been dead for eons. But before they died, they laid plans to assure the survival of a human species yet unborn—for the brotherhood of intelligence had meaning for them even in their dying.
+“Godson of Almarlu” (1936), the longest work in this collection, is one of Gallun’s dramas of a caring intelligence against an uncaring umverse. Human existence is threatened by what would now be called a neutron star, a body so dense and massive its mere approach can disrupt planets. Once before, it has done so—and those who then inhabited what was the fifth planet of our solar system have been dead for eons. But before they died, they laid plans to assure the survival of a human species yet unborn—for the brotherhood of intelligence had meaning for them even in their dying.
 
 In “Godson of Almarlu,” the Law shows no mercy to Earth or its inhabitants: few of humanity’s billions can escape the fate of their planet, and life for those who do will be harsh indeed. Yet the story is one of the triumphs of intelligence over the Law, for those few survivors have received a gift only intelligence could give.
 
@@ -228,7 +228,7 @@ Contrariwise, he was among the first to consider that men might or should adapt 
 
 Stories of worlds in miniature were common in early science fiction, but Gallun’s “A Menace in Miniature” (1937) was the first story to work out the problems of miniaturization convincingly. And using tiny robots to build still tinier robots—didn’t Robert A. Heinlein pick up that idea in “Waldo”?
 
-Gallun’s influence on science fiction has been enormous, if not obvious. It has gone beyond mere technical ideas—the benevolent intervention of aliens into human affairs of “Godson of Almarlu” and “Iszt— Earthman,” for example, anticipates Arthur C. Clarke’s treatment of the theme in 2001.
+Gallun’s influence on science fiction has been enormous, if not obvious. It has gone beyond mere technical ideas—the benevolent intervention of aliens into human affairs of “Godson of Almarlu” and “Iszt—Earthman,” for example, anticipates Arthur C. Clarke’s treatment of the theme in 2001.
 
 The impact of “Old Faithful,” already mentioned, went beyond revolutio^ang science fiction’s attitude toward aliens. Gallun’s methodical development of alien life forms and alien worlds pav^ the way for classics like Hal Clement’s Mission of Gravity. For many years now, it has not been enough just to intr^uce bizarre beings—they must be logically bizarre.
 
@@ -394,7 +394,7 @@ Lurking in the back of his mind was the realization that his death was drcreed a
 
 Still, his mind seemed divided into two parts, one of which was cool and logical and scientific, the other in a turmoil, fighting with itself and its loyalty to time-honored traditions.
 
-“Hello, Mars! Hello, Mars! Earth calling. Man of Mars is late—late—late—late— One, two, three, four, five, six, seven, eight, nine, ten. Four and five are nine. Two times three is six. M^ of Mars is late—late late—late—”
+“Hello, Mars! Hello, Mars! Earth calling. Man of Mars is late—late—late—late—One, two, three, four, five, six, seven, eight, nine, ten. Four and five are nine. Two times three is six. M^ of Mars is late—late late—late—”
 
 How much of this queer jangle of light flashes, spelling out Earto words and numbers in the Morse code did Number 774 understand? How much could he understand?
 
@@ -608,7 +608,7 @@ Professor Waters looked up from the eyepirce of the big instr^ent. The glow, com
 
 ^e young man glanced uncertainly at the girl and then back at her father. The fingers of one of his hands crept slowly through his curly red hair. With the air of a small schoolboy about to make his first public address, he was fumbling with a soiled sheet of paper he had taken from his pocket. He felt rather sheepish about that idea he had thou^t of.
 
-“Yvonne— Doc—” he said almost plaintively, in an awkw^d attempt to get thek undivided attention centered on what he was going to say. “I’m not much of a scientist, and maybe I’m a d^ed fool; but—well, this message—the final one we received the night before last—we thought it was just a jumble but, when you read it, it almost has meaning. Here, listen to it once.” Clearing his throat he proceeded to read from the sheet of paper: “Comet coming. Yes. Comet coming. Yes. Comet coming of Man of Mars. Comet Man of Mars coming toward Earth. Comet coming Man of Mars. Man of Mars. Comet. Man of' Mars. Comet. Man of Mars. Comet. Yet, yes, yes. Man of Earth. Yes, yes, yes. Signing off. Signing off.”
+“Yvonne—Doc—” he said almost plaintively, in an awkw^d attempt to get thek undivided attention centered on what he was going to say. “I’m not much of a scientist, and maybe I’m a d^ed fool; but—well, this message—the final one we received the night before last—we thought it was just a jumble but, when you read it, it almost has meaning. Here, listen to it once.” Clearing his throat he proceeded to read from the sheet of paper: “Comet coming. Yes. Comet coming. Yes. Comet coming of Man of Mars. Comet Man of Mars coming toward Earth. Comet coming Man of Mars. Man of Mars. Comet. Man of' Mars. Comet. Man of Mars. Comet. Yet, yes, yes. Man of Earth. Yes, yes, yes. Signing off. Signing off.”
 
 Jack Cantrill’s thin cheeks were flushed when he stopped reading.
 
@@ -620,7 +620,9 @@ Her concerned manner bolstered up the youth’s confidence in his idea. “You c
 
 Professor Waters did not betray any outward excitement. His manner was musing, and he rubbed his cheek reflectively. “I thought of that, too,” he admitted after a moment. “But it seemed too wild for serious consideration. Still there’s a chance—that you are right.”
 
-The thought put into words seemed suddenly to startle the old man. “Gad, boy!” he exploded suddenly. “Supposing it is the truth! Old Faithful signaled about the comet. If there’s anything to this at all, the comet must be tied up with his coming. And for all we know the comet might help. It passes close to both Earth and Mars. If in some way he could fall into its gravitation field, it would drag him almost all the way. That’s it! It would save an enormous energy. It would put his trip, otherwise still impossible, into the realm of possibility!” “You get me at last, Doc,” Jack said quickly. “And when you say, ‘Supposing it’s the truth,’ think of what it means! The navigation of interplanetary space, maybe! Commerce between Earth and Mars! A new and wonderful era, with the minds of one world exchanging ideas with the minds of another.”
+The thought put into words seemed suddenly to startle the old man. “Gad, boy!” he exploded suddenly. “Supposing it is the truth! Old Faithful signaled about the comet. If there’s anything to this at all, the comet must be tied up with his coming. And for all we know the comet might help. It passes close to both Earth and Mars. If in some way he could fall into its gravitation field, it would drag him almost all the way. That’s it! It would save an enormous energy. It would put his trip, otherwise still impossible, into the realm of possibility!”
+
+“You get me at last, Doc,” Jack said quickly. “And when you say, ‘Supposing it’s the truth,’ think of what it means! The navigation of interplanetary space, maybe! Commerce between Earth and Mars! A new and wonderful era, with the minds of one world exchanging ideas with the minds of another.”
 
 Unconsciously Jack Cantrill had taken Yvonne Waters’ hand. Her eyes were starry.
 
@@ -780,7 +782,7 @@ Conquering her natural revulsion, Yvonne brought herself to touch the dry, cold 
 
 At their first touch, Old Faithful had started convulsively, as though in fear and repugnance of these, to him, horrid monsters; and a low, thick cry came from the opening in his body. But he must have realized that their intentions were harmless, for he had relaxed immediately. His breath, however, was rapidly growing weaker and more convulsive, and his eyes were glazing.
 
-“We’re dumb!” Jack stated with sudden vehemence. “He’s badly hurt, but that’s not all. This atmosphere is six times too dense for him. He’s smothering in it— drowning! We’ve got to get him somewhere where the pressure won’t be crushing him!”
+“We’re dumb!” Jack stated with sudden vehemence. “He’s badly hurt, but that’s not all. This atmosphere is six times too dense for him. He’s smothering in it—drowning! We’ve got to get him somewhere where the pressure won’t be crushing him!”
 
 “We’ll rig up a vacuum tank down in the engine shed,” said Dr. Waters. “It won’t take but a minute.”
 
@@ -832,7 +834,9 @@ The young man nodded seriously. “What a honeymoon that would make, if we could
 
 “A million times better than going to Seattle,” the girl agreed.
 
-The doctor grinned faintly. “Even if you were treated like poor Old Faithful—pickled and put in a museum?” “Even if!”
+The doctor grinned faintly. “Even if you were treated like poor Old Faithful—pickled and put in a museum?”
+
+“Even if!”
 
 Jack Cantrill’s eyes narrowed and seemed to stare far away into nothing. His lips and his gaunt sunburned cheeks were stem. Perhaps he was looking into the future toward adventures that might or might not come.
 
@@ -852,11 +856,11 @@ He had seen blood often during his years with the Jupiter company. He’d seen d
 
 He didn’t want to forget it either. Nor was it possible to forget. He kept hearing the weird screams of the LoatM echoing inside him; he kept seeing their long, keen beaks, and their batlike bodies swooping crazily out of the Ganymedean night. Here, where no one could observe, he allows himself the relief of a silent snarl. The look on his gaunt, weather-beaten face was not an expression of hatted. He was past hatred. He was numb and lost, like an engine without a governor.
 
-That was why he was out here in the void, with the cold stars around him. He was trying to escape from— he wasn’t completely sure what. He was going back to Earth to paint pictures, and to seek in its mellow atmosphere of peace something that was lacking in the cruel environment of Joraanin, the outpost of which he had been master. He was quitting cold—ret^Mng home to heal his soul.
+That was why he was out here in the void, with the cold stars around him. He was trying to escape from—he wasn’t completely sure what. He was going back to Earth to paint pictures, and to seek in its mellow atmosphere of peace something that was lacking in the cruel environment of Joraanin, the outpost of which he had been master. He was quitting cold—ret^Mng home to heal his soul.
 
 Small wonder then that even a spaceship which had floated without aim across the light-years, perhaps from another galaxy, could not awaken in him a spark of real enthusiasm. Mystery and the promise of adventure no longer had any direct appeal.
 
-Yet Jan Van Tyren was still a creature of habit. Though his mind was caught up in a maelstrom of pain, still the automatic part of him continued to function with some semblance of normalcy. He was an artist; so, almost unconsciously, the channels which his hobby had established in his brain began their intended work— taking note of form and color.
+Yet Jan Van Tyren was still a creature of habit. Though his mind was caught up in a maelstrom of pain, still the automatic part of him continued to function with some semblance of normalcy. He was an artist; so, almost unconsciously, the channels which his hobby had established in his brain began their intended work—taking note of form and color.
 
 He saw the contrasts of light and shade playing their bizarre tricks with the details of the great globular hull. He saw the deep grooves that stray meteors had scored in a crisscross pattern on the lusterless gray shell of the derelict.
 
@@ -992,7 +996,7 @@ And Jan Van Tyren, who had established and bossed Joraanin, the Ganymede colony,
 
 He painted great en^nes with shafts of sunli^t twinkling on ffiem; he studied the highlights that shifted elusively in the hollow gnooves of the pillars which the sinuous folk of long ago had used as stairways, and he transferced the forms of those stairways to canvas.
 
-He painted Khambee at work with a fluffing welding tool, slim, efficient, and almost noiseless. He even painted scenes and subjects of Earth and Ganymede— pleasant reminiscences, for all that was unpleasant had been shoved far into the background of his mind.
+He painted Khambee at work with a fluffing welding tool, slim, efficient, and almost noiseless. He even painted scenes and subjects of Earth and Ganymede—pleasant reminiscences, for all that was unpleasant had been shoved far into the background of his mind.
 
 A white collie of his childhood. A jagged mountain jutting out of the red desert of Ganymede. Greta, blond and pretty and smiling. Little Jan with his stiff, yellow curls. Such were the subjects of his pictures. He thought of his wife and child, but only of the happy incidents of their lives together.
 
@@ -1232,7 +1236,7 @@ Even though this was a science completely inhuman, stiU it was self-evident that
 
 However, the wording of the message, striking demonstrating the broad physical and psychological differences between his tand and the unknowns, won somewhat more attention from him. It was “I wish to write with you,” instead of “I wish to speak with you.” The ovoid tympanums, vibrating in water, could not produce or convey tohim the sounds of human speech.
 
-“Do not die yet. Wait until I arrive.” Did those two simple commands express naive brutality . or— Cliff scarcely knew how to think the thought. No human being would have expressed an idea of that sort with such gufleless frankness. The meaning, of course, was perfectly clem’; and Cliff taew that he had been afforded a glimpse into a mmd differing radically from those of men.
+“Do not die yet. Wait until I arrive.” Did those two simple commands express naive brutality . or—Cliff scarcely knew how to think the thought. No human being would have expressed an idea of that sort with such gufleless frankness. The meaning, of course, was perfectly clem’; and Cliff taew that he had been afforded a glimpse into a mmd differing radically from those of men.
 
 “The Student.” That at least had a familiar aspect. Be-cau^ of the way the message was signed, the anger and depression which it aroused in him subsided.
 
@@ -1266,7 +1270,7 @@ Rodney’s reactions were not quite normal. He felt sick. “Damn museum!” he 
 
 The haze of his numbed faculties was not so dense that it obscured the animal urge to seek comfort, however. He picked up a heavy rug which, though rotted and odorous, was fairly dry.
 
-He stripped off his soaked- garments and wrapped himself in the rug. Tearing up a book and heaping the fragments into a pile with the intention of making a fire was quite natural and automatic. So was locating his cigarette lighter and attempting to make it work. Here, though, he struck a snag. Spmks flew, but the wick was too wet to bum.
+He stripped off his soaked- garments and wrapped himself in the rug. Tearing up a book and heaping the fragments into a pile with the intention of making a fire was quite natural and automatic. So was locating his cigarette lighter and attempting to make it work. Here, though, he struck a snag. Spmks flew, but the wick was too wet to burn.
 
 Out of his angry chaghn an inspiration was born. He unscrewed the cap from the fuel container, poured a few drops of benzine onto the paper, and applied the sparks direct. The tinder flared up merrily, and grotesque shadows leaped about the walls of the eerie chamber. Delighted, Cliff huddled down beside the blaze, absorbing its welcome heat.
 
@@ -1370,9 +1374,9 @@ The Student chose to answer the last question first. “I mimic the writing of m
 
 Cliff remembered what miracles men such as Luther Burbank had achieved with plants—changing them, improving them. And to a lesser extent, similar marvels had been achieved with animals. Here in the depths of the Atlantic the same science had been used for ages!
 
-Without visible excitement Cliff traced another note in the sand: “Electricity from living flesh, from modified muscle as in the electric eel or the torpedo? Glass from— Tell me!”
+Without visible excitement Cliff traced another note in the sand: “Electricity from living flesh, from modified muscle as in the electric eel or the torpedo? Glass from—Tell me!”
 
-And on the spy window the answer appeared: “Yes. Glass from animal—from mollusk—deposited and grown as a mollusk’s shell is deposited and grown. And it is formed as we wish. Electricity from modified muscle, as in the electric eel or the torpedo. I have read of them. We have animals like them—but larger. The animals fight for us, kill with electricity. And we have— electric batteries—metal from the ships. Rods— protoplasm—”
+And on the spy window the answer appeared: “Yes. Glass from animal—from mollusk—deposited and grown as a mollusk’s shell is deposited and grown. And it is formed as we wish. Electricity from modified muscle, as in the electric eel or the torpedo. I have read of them. We have animals like them—but larger. The animals fight for us, kill with electricity. And we have—electric batteries—metal from the ships. Rods—protoplasm—”
 
 The Student’s black tentacles switched and hesitated uncertainly as he groped for words that would express his thoughts to this strange monstrosity of another realm.
 
@@ -1386,7 +1390,7 @@ Cliff thought it over, briefly but intensely. Such protoplasm would need only fo
 
 The Student concentrated all his powers on the task of formulating an adequate response. Slowly, hesitantly, now, he began to trace it out; for he was thinking almost in an alien plane, working with words and ideas subtly different from his own. To make the man understand, he had to choose phrases and expressions from the books he had read.
 
-“It is the same,” he inscribed. “A characteristic developed to usefulness. Long ago we studied these animals. We discovered that they could—communicate— through—over great distances. We increased—improved this power by—by—”
+“It is the same,” he inscribed. “A characteristic developed to usefulness. Long ago we studied these animals. We discovered that they could—communicate—through—over great distances. We increased—improved this power by—by—”
 
 “By choosing those individuals in which the power was strongest, for breeding purposes, and in turn selecting those of their offspring and the descendants of their offspring in which the characteristics you desired to emphasize were most prominent,” Cliff prompted. “Thus the abilities of these messenger creatures were gradually improved. Right?”
 
@@ -1536,13 +1540,13 @@ He had made no decisions yet, nor would the decision he had in mind be sanctione
 
 Clifford Rodney did not immediately climb down from his position atop the wreckage he had piled up. Instead he remained by the window, looking out, for no particular reason. The only sound, the gentle, pulsing nias of air being forced into his prison, had a monotonous effect that was more oppressive than absolute silence.
 
-The weird colony wasn’t so very different, though, from the cities at home, if you allowed your eyes to sort of blur out of focus; if you didn’t see that sunken liner with the wispy ribbons trailing up from it, or the twisted architecture, or the inhabitants. The moving lights made you think of gay places and of gay music and people. One comer of his mouth drew back thoughtfully.
+The weird colony wasn’t so very different, though, from the cities at home, if you allowed your eyes to sort of blur out of focus; if you didn’t see that sunken liner with the wispy ribbons trailing up from it, or the twisted architecture, or the inhabitants. The moving lights made you think of gay places and of gay music and people. One corner of his mouth drew back thoughtfully.
 
 He could see that his chance of getting out of this mess was practically nil: in the first place, he had not the ghost of an idea how he might escape from the two domes. And if he did manage to break free from them, those armored fighters would bar his way. Their great claws would grip the submarine while they discharged their bolts of elecfric force. The metal hull, would protect him to some extent, but not sufficiently, as he knew from experience.
 
 More conscious than ever of the aches in his body, his loneliness and dejection, he looked down at his feet absently. Under them were books. He toed one. Its gilt title was almost obliterated, but he still could make it out—Kipling’s Barrack Room Ballads.
 
-There was a friendliness in those dim, familiar words, and he chuckled a bit. Funny to think of an ovoid intellect tr^ng to read and understand the poems in that volume—“Danny Deever,” “Mandalay”! “If” was one of Kiplmg’s works too: “If you can keep your head—”
+There was a friendliness in those dim, familiar words, and he chuckled a bit. Funny to think of an ovoid intellect trying to read and understand the poems in that volume—“Danny Deever,” “Mandalay”! “If” was one of Kipling’s works too: “If you can keep your head—”
 
 Qiff smiled rnefully. Anyway he couldn’t go wrong by attempting to improve matters a little.
 
@@ -1650,7 +1654,7 @@ Upward and upwmd he went. Cliff began to be puzzled. He detected scraping noises
 
 The water cleared. Cliff could make out schools of phosphorescent fish, hanpng in the darboess like scattered galaxies. He was hione, far above the bottoms. There were no fighters mound him, though he thought he glimpsed dim shapes vanishing beneath. They could not endure the reduced pressure that existed here.
 
-Matters were better, fm better, than he had dared to expect—mysteriously so. Now if the vertical screws continued to function at all— The submarine appeared to be badly damaged. It seemed clumsy, heavy.
+Matters were better, fm better, than he had dared to expect—mysteriously so. Now if the vertical screws continued to function at all—The submarine appeared to be badly damaged. It seemed clumsy, heavy.
 
 Cliff came into a region of deep bluish light, beautiful as some fairy-peopled realm of shinty. Not long thereafter the bathyspheric craft broke through the sun-lighted surface of the Atlantic. Cliff opened the valves of a pressure tank, ihinating the bellows like water wings which supported the heavy submarine when it was on the surface.
 
@@ -1704,7 +1708,7 @@ The visitor left the room in the manner that it had entered. It rose rapidly tow
 
 The visitor’s wings folded, disappearing into slotlike sheaths in its sides. It had become a Uttle projectile that shot with terrific and ever-mounting speed toward the region of the mterplanetary wastes.
 
-Jefferson Scanlon, bom in March 1934, did not show any early indications of promise. Frankly, he was a bad boy whose impish, freckled:aced grin was always an indication of mischief to his teachers. Yet even then it is probable that certain elusive mental phantasms, which he did not understdifid, and concurring which he never spoke, occasionally came into Iris thoughts.
+Jefferson Scanlon, born in March 1934, did not show any early indications of promise. Frankly, he was a bad boy whose impish, freckled:aced grin was always an indication of mischief to his teachers. Yet even then it is probable that certain elusive mental phantasms, which he did not understdifid, and concurring which he never spoke, occasionally came into Iris thoughts.
 
 And when he left school he had a changr of fortune. Somewhere within him a toack for business had lain dormant. Starting as a salesman for a company that produced television sets, he began his swift march t^ ward finandal success.
 
@@ -1734,7 +1738,7 @@ only person who could bulldoze him; though, realizing his peculiar talents, she 
 
 Jeff’s initial move, now, was to build a laboratory, of which he intended to make personal use. The circumstance was puzzling even to himself; for his actual knowledge of sciences such as chemistry, physics, and higher mathematics was scarcely better than that of any fairly educated layman. And he had nev^ developed skill in the use of his hands, as scientists must. Yet, smce he was not a person much given to self-analysis, his puzzlement over his urges troubled him little.
 
-He sometimes had sfrange daydreams, it is true— visions of un-Earthly waste places, ^d of incredible, broken desolation, which he thought of as existing somewhere in interplanetary space, still untouched by human exploration. On a drifting, airless fragment of a world in the asteroid belt beyond the orbit of Mars, it seemed to be.
+He sometimes had sfrange daydreams, it is true—visions of un-Earthly waste places, ^d of incredible, broken desolation, which he thought of as existing somewhere in interplanetary space, still untouched by human exploration. On a drifting, airless fragment of a world in the asteroid belt beyond the orbit of Mars, it seemed to be.
 
 In those dreams he pictured, very dimly, vague, broken things of metal, jagged rocks, and dazzling, depressing sunshine. And occasionally he muttered in his sleep, referring to life spores and to a substance of incredible weight. Once in a great while he even voiced with a sort of morbid reverence the name, Almarlu, without, during his waking hours, remembering more than a shadow of its significance.
 
@@ -1770,7 +1774,7 @@ Jeff Scanlon knew that his words were fact as far as they went. But egotistic th
 
 Jeff grinn^ like a mischievous, red-visaged elf. He was sure of himself now that his embarrassing moment had passed. Hs could give glamour to his incomplete understanding of the things of which he spoke, by veiling them in mystery.
 
-“^e energy of the Earth’s rotation was h^essed quite some time ago, friend,” he intimate. “It was done when man first made use of the power of the—ah— tides. Our planet rotates in the gravity fields of the Sun and the Moon. The attraction of these bodies raises the tides. But if the Earth did not spin, the tides would remain motionless and without energy. It is from the world’s rotation that their power is derived, as no doubt you all taow.”
+“^e energy of the Earth’s rotation was h^essed quite some time ago, friend,” he intimate. “It was done when man first made use of the power of the—ah—tides. Our planet rotates in the gravity fields of the Sun and the Moon. The attraction of these bodies raises the tides. But if the Earth did not spin, the tides would remain motionless and without energy. It is from the world’s rotation that their power is derived, as no doubt you all taow.”
 
 No doubt Scanlon’s eradite audience did know, but they continued to listen patiently.
 
@@ -1872,7 +1876,7 @@ Finally Feodor Moharleff came on the air, presenting his theories coolly from a 
 
 The communication ended, and more reports of death and destruction roared from the diaphragm.
 
-Jeff, lying on the metal floor of the great chamber, listened to it all with a kind of fearful fascination. Several times he had tried to rise, but as yet there was insufficient strength in his battered body. He could only drag himself feebly to a comer, leaving behind him a blood-flecked trail, like a wounded animal. He sprawled there panting and perspiring. His thoughts were not of
+Jeff, lying on the metal floor of the great chamber, listened to it all with a kind of fearful fascination. Several times he had tried to rise, but as yet there was insufficient strength in his battered body. He could only drag himself feebly to a corner, leaving behind him a blood-flecked trail, like a wounded animal. He sprawled there panting and perspiring. His thoughts were not of
 
 Jefferson Scanlon, but of the millions of human beings that would suffer and perish in the holocaust.
 
@@ -1916,7 +1920,7 @@ He thought of Bessie, his domineering wife, and of his nephew, Dave Scanlon. But
 
 His brows puckered partly in vexation, but mostly because there was still so much that was veiled and mysterious. And so he continued to mumble to himself, as if by so doing he would be better able to straighten matters out. His words were halting and jangled, and his manner was that of one person advising another:
 
-“Neutronium, Scanlon,” he said. “Don’t you remember? It’s the heaviest substance that can be conceived to exist. Sixty million tons to the cubic inch, it’s supposed weigh, according to how the old-timers in the third decade of the twentieth century figured. No— ah—normal ato^ in it. Neutrons. Compact, lying close together, with no space between. Dense as the devil. Certain stars—the White Dwarfs—are supposed to have quite a lot of the stuff in them. And there’s supposed to weigh, according to how the old-timers in the centers of—ah—-other planets. It could have collected there from submicroscopic particles of the dope floating m space.
+“Neutronium, Scanlon,” he said. “Don’t you remember? It’s the heaviest substance that can be conceived to exist. Sixty million tons to the cubic inch, it’s supposed weigh, according to how the old-timers in the third decade of the twentieth century figured. No—ah—normal ato^ in it. Neutrons. Compact, lying close together, with no space between. Dense as the devil. Certain stars—the White Dwarfs—are supposed to have quite a lot of the stuff in them. And there’s supposed to weigh, according to how the old-timers in the centers of—ah—-other planets. It could have collected there from submicroscopic particles of the dope floating m space.
 
 “They’re so heavy &ey could fall right trough any other substance—right through the body of a man, even, without his lowing it—most likely. And our little red visitor from space is made mostly of neutronium—of compact particles called neutrons, each one. of which consists of a normal electron and proton in contact, without any silly planetary electrons revolving in their orbits and taking up room!
 
@@ -1926,13 +1930,13 @@ Jeff paused in Ws monologue, and began to pace unsteadily up and down. His strug
 
 “Why are you always thi^ing of life spores, Scanlon?” he demanded of Wmself. “Why can’t you remember? And who made you the—ah—goat? That is—who gave you all your information? The machine on Almarlu—on a fragment of Almarlu? Fragment—” He uttered t^ last word with a kind of blurred excitement, for it was significant. It started a fresh chain of probing thought, angling back over the loose bits of information he had covered before.
 
-“Of course!” he said suddenly. “Almarlu broke up— exploded—to form the minor planets of the asteroid belt. Her people were wise, but they didn’t know of the danger soon enough to escape. So they—they—” Jeff halted, and then leaped at a more significant piece of information: “Now there’s going to be another asteroid belt,” he stated, before he grasped the full import of what he was saying.
+“Of course!” he said suddenly. “Almarlu broke up—exploded—to form the minor planets of the asteroid belt. Her people were wise, but they didn’t know of the danger soon enough to escape. So they—they—” Jeff halted, and then leaped at a more significant piece of information: “Now there’s going to be another asteroid belt,” he stated, before he grasped the full import of what he was saying.
 
 During the next few seconds his round face, already pale because of his physical injury and because of the strain he had been under, went ashen.
 
-“No!” he shrilled. “No! It can’t be as bad as that! The Earth is too solid—too permanent. It couldn’t— break up! The whim-whams it’s got will end some way before that happens!”
+“No!” he shrilled. “No! It can’t be as bad as that! The Earth is too solid—too permanent. It couldn’t—break up! The whim-whams it’s got will end some way before that happens!”
 
-But even as he spoke he knew that he was only trying to reassure himself, and to deny the workings of an immutable destiny. They of Almarlu had made a mathematical prediction of the calamity an incalculable time ago. Then, too, Titan, moon of Saturn, had burst— A giant of tremendous strength had gone mad in its vitals.
+But even as he spoke he knew that he was only trying to reassure himself, and to deny the workings of an immutable destiny. They of Almarlu had made a mathematical prediction of the calamity an incalculable time ago. Then, too, Titan, moon of Saturn, had burst—A giant of tremendous strength had gone mad in its vitals.
 
 Jeff’s dread suddenly vanished, and a great calm took its place. The progress of events was not over yet: it had little more than begun. Even now the earthquake temblors, which made the huge tower groan and vibrate, seemed to grow heavier and more frequent. But he knew that the plans of ancient wizards of Almarlu were fairly certain of fulfillment.
 
@@ -2004,7 +2008,7 @@ He nosed his plane down sharply, and catapulted toward the churning atmosphere. 
 
 Dave, himself, did not weaken. He clung grimly to the stick, with no thought of turning back. He had nothing to guide him but his instruments, and the foggy path of lavender light shining through the blasts of snow-packed wind. Yet he kept on until he had almost reached the point where that majestic enigma of weird light was rooted in the Arctic Ocean. It was hardly an ocean now, but a maelstrom of all the struggling forces that could convulse tortured air and water.
 
-The scream of the tempest sounded even above the growl of the rockets. The world was a gray blur of whistling snow and booming, ice-flecked waves. And all that inferno seemed to converge upon that inclined pillar of lavender glory that looked like a Gargantuan vortex— like a monster waterspout magnified a billionfold. All about it the scene faded away into the dense gloom of the storm—a gloom that was like the blackness of infinity.
+The scream of the tempest sounded even above the growl of the rockets. The world was a gray blur of whistling snow and booming, ice-flecked waves. And all that inferno seemed to converge upon that inclined pillar of lavender glory that looked like a Gargantuan vortex—like a monster waterspout magnified a billionfold. All about it the scene faded away into the dense gloom of the storm—a gloom that was like the blackness of infinity.
 
 Dave, struggling to keep his plane from destruction, looked, toward the base of the vortex, seeking the tower and the island on which it had been built. Neither could be seen. Both were hidden somewhere in the depths of that ethereal colossus that seemed to be sucking up the substance of the sea and of the atmosphere. It had a faint pearly tinge and eerie witch flames sparkling in it slumberously. Could Jeff Scanlon still be alive inside that unholy miracle?
 
@@ -2062,7 +2066,7 @@ In making an answer, Jeff tried hard to suooress his joy at hearing the kid’s 
 
 “And where is this refuge, may I ask?” young Scanlon demanded.
 
-“Well, you see I’m afraid that you’d thmk— That is—”
+“Well, you see I’m afraid that you’d thmk—That is—”
 
 “Uh-huh,” Dave responded. “You think I’d think you were plumb loco if you said right out in plain, clear English that the destination the energy beam takes things to is the Moon. I don’t catch on to much of what this mess is all about yet; and it’s true that I did have some bad moments wondering whether you were quite right or not. But I have faith enough in my own sanity to believe what I see: and I’ve seen plenty in the last little while that I wouldn’t ordinarily take any stock in. For one thing that purple column is pointing straight at old Lady Luna, and keeps on doing that, in spite of her change in position.”
 
@@ -2080,17 +2084,17 @@ trapped inside this tower. Besides, my work is done.”
 
 The young man was very doubtful ot his uncle’s position. But he saw no harm in perpetrating a subtle bluff that might provoke the fin^cier to action.
 
-“There’s something I could try, with your help,” Jeff said. “I don’t have to stay here. There’s a controlling apparatus that takes care ot the running ot the plant— even keeping the energy beam turned toward the Moon. But I—I’m waiting tor a call from your Aunt Bessie. And the planes are coming—the bombers. They can’t do anything to the tower; but it you wait and they see you and find out you’re a Scanlon—well, you know how the world loves Scanlons.”
+“There’s something I could try, with your help,” Jeff said. “I don’t have to stay here. There’s a controlling apparatus that takes care ot the running ot the plant—even keeping the energy beam turned toward the Moon. But I—I’m waiting tor a call from your Aunt Bessie. And the planes are coming—the bombers. They can’t do anything to the tower; but it you wait and they see you and find out you’re a Scanlon—well, you know how the world loves Scanlons.”
 
 Dave, who had been guiding his ship in a wide circle tar above the power plant throughout the conversation, torced a grim chuckle. “You bet,” he said. “If glimpsed, I’d probably be burned out ot the sky like an unhealthy mosquito, just because I happen to be related to what eve^body thinks is a louse. Which proves nothing at all about the justice and good sense ot mankind in general. But have you tried to call Aunt Bessie yourselt?”
 
-“No,” Jeff responded. “That is, not unless—ah— what I said at the end ot my message to the world— about my waiting tor calls trom members ot my tamily on our private wavelength code, may be construed as such.”
+“No,” Jeff responded. “That is, not unless—ah—what I said at the end ot my message to the world—about my waiting tor calls trom members ot my tamily on our private wavelength code, may be construed as such.”
 
 “That was plenty good enough,” said the youth. “I had almost torgotten. If she’s still alive and anywhere near a news-disseminator, she knows you’re hoping tat-uously tor a buzz trom her. But it she’s got halt the brain I give her credit tor, she won’t oblige you. Even wavelength codes can be unsnarled. If she happened to call you, and somebody happened to find out it was she—well, a direction finder would be all that would be necessary to put Bessie Scanlon in a hot spot. She never did like crowds, particularly crowds that booed and threw things.”
 
 Jeff gasped, like one who has just discovered that he has walked unwittingly into a place of grave personal danger. “I—I slipped up,” he muttered raggedly. “I didn’t remember. But you can’t talk like that about my wife, you—you young scamp!”
 
-“Oh, never mind that, Uncle Jeff!” Dave said with placating impatience. “I’m as anxious for Aunt Bessie’s safety as you are. If she’s still one of us mortals—and of course she’s left earthquake-ridden Chicago if she is— she’s probably listening in on us right now. Anyway, the sound of our voices never was so very important to her, even in a pinch: She’s as well able to take care of herself as the average person. We can’t do anything sensible to help her out anyway. I’m getting a little bit tired hanging around up here, and being bumped around by this choppy air. What was that plan you had for getting out of the tower with my help?”
+“Oh, never mind that, Uncle Jeff!” Dave said with placating impatience. “I’m as anxious for Aunt Bessie’s safety as you are. If she’s still one of us mortals—and of course she’s left earthquake-ridden Chicago if she is—she’s probably listening in on us right now. Anyway, the sound of our voices never was so very important to her, even in a pinch: She’s as well able to take care of herself as the average person. We can’t do anything sensible to help her out anyway. I’m getting a little bit tired hanging around up here, and being bumped around by this choppy air. What was that plan you had for getting out of the tower with my help?”
 
 Jeff gulped fearfully, as he thought of the physical hazards of his idea. But when he spoke again his tone was firmer than before. “Wait exactly five minutes, counting from the second we break communication,” he said. “Then fly into the energy beam. As soon as you are inside it you’ll find your plane being thrust upward very powerfully. There’ll be a lot of water and ice and wind around you; but I think that you’re skillful enough to use such impromptu measures as may be necessary to reach the approximate center of the beam.
 
@@ -2148,11 +2152,11 @@ Coherence came to his faculties without any fine dividing line between the jangl
 
 “What is this Almarlu, again, Uncle Jeff?” Dave asked. It was the first question which the older Scanlon remembered later to have clearly understood.
 
-Jeff looked at his nephew quizzically for a long moment. “Well,” he said at length, “it’s hardly possible that you’ll believe me; but—ah—you really don’t have to, of course. Almarlu is the planet where all life on Earth had it’s origin. Her people didn’t have time to escape when catastrophe came. But their science of— ah—biology was highly developed. So they created life spores, deriving them from their own flesh, and from the tissues of the various animals and plants of Almarlu. They put the spores in small projectiles and shot them to the still sterile Earth, where—ah—the spores became active, and through the well-known evolutive process, reached their present stage of development.
+Jeff looked at his nephew quizzically for a long moment. “Well,” he said at length, “it’s hardly possible that you’ll believe me; but—ah—you really don’t have to, of course. Almarlu is the planet where all life on Earth had it’s origin. Her people didn’t have time to escape when catastrophe came. But their science of—ah—biology was highly developed. So they created life spores, deriving them from their own flesh, and from the tissues of the various animals and plants of Almarlu. They put the spores in small projectiles and shot them to the still sterile Earth, where—ah—the spores became active, and through the well-known evolutive process, reached their present stage of development.
 
-“Before their world broke up to form the asteroids, the people of Almarlu devised a machine which—ah— through the ages would now and then Muence terrestrial life, guiding it and protecting it to a certain extent—though not enough to make it the emasculated puppet of an ancient civilization.
+“Before their world broke up to form the asteroids, the people of Almarlu devised a machine which—ah—through the ages would now and then Muence terrestrial life, guiding it and protecting it to a certain extent—though not enough to make it the emasculated puppet of an ancient civilization.
 
-“I’m one of the tools of Almarlu, as maybe—ah— chaps such as Pasteur and Edison were, and as maybe the cave man who first made a flint spearhead was. Everything I have done was indirectly the work of Almarlu. It was necessary if anyone was to survive. Certain things were implanted in my mind when I was a baby; they came to the fore when it was time. More about Almarlu was revealed to me than to any of its previous godsons. So there you are, Dave. I’ve told you—ah—what you wanted to know.”
+“I’m one of the tools of Almarlu, as maybe—ah—chaps such as Pasteur and Edison were, and as maybe the cave man who first made a flint spearhead was. Everything I have done was indirectly the work of Almarlu. It was necessary if anyone was to survive. Certain things were implanted in my mind when I was a baby; they came to the fore when it was time. More about Almarlu was revealed to me than to any of its previous godsons. So there you are, Dave. I’ve told you—ah—what you wanted to know.”
 
 Jeff’s nephew didn’t speak for several seconds. He was glancing this way and that, through the windows of the plane’s cabin. The financier’s explanations were not so difficult to believe, if what was visible beyond those windows was true.
 
@@ -2180,7 +2184,7 @@ It was true. At one edge of the disk the old, familiar features were giving way 
 
 And Jeff Scanlon remembered the meaning of the phenomenon, just as he had remembered other things which had been buried in the darker recesses of his mind.
 
-“Yes,” he said without excitement. “The Moon is beginning to tum more rapidly on its axis, so that now it no longer keeps just one face turned toward the Earth. It is like the armature of a great electric motor to which electricity is being fed. Invisible fingers of force are— ah—speeding it up, just as similar fingers of force are retarding the rotation of Earth. Energy is being transferred from one sphere to the other. Earth is the armature of the generator, revolving in an unseen force field established by the power plant; and the Moon is the armature of the motor, being turned by a force field of similar origin.”
+“Yes,” he said without excitement. “The Moon is beginning to tum more rapidly on its axis, so that now it no longer keeps just one face turned toward the Earth. It is like the armature of a great electric motor to which electricity is being fed. Invisible fingers of force are—ah—speeding it up, just as similar fingers of force are retarding the rotation of Earth. Energy is being transferred from one sphere to the other. Earth is the armature of the generator, revolving in an unseen force field established by the power plant; and the Moon is the armature of the motor, being turned by a force field of similar origin.”
 
 “I see,” was Dave’s only comment on the explanation, and it was matter-of-fact. “And now about ourselves. I gather that we’ve got some two hundred and thirty-nine thousand miles to travel. Won’t we smother out here in space? Won’t we freeze?”
 
@@ -2198,7 +2202,7 @@ V
 
 Feodor Moharleff, wizard of physical science, inhaled and exhaled heavily through his slender beak of a nose. A long sprint over ground that heaved almost as tumultuously as the waves of the ocean had winded him. Besides, a fury that would have quickened the pulse and breath of any man surged within him.
 
-“The crime, Franz—the crime of this blundering dollar-chaser— In no tongue known to man are there words to express its blackness!” he said, his thin, austere face working with emotion.
+“The crime, Franz—the crime of this blundering dollar-chaser—In no tongue known to man are there words to express its blackness!” he said, his thin, austere face working with emotion.
 
 Franz, elderly laboratory assistant aboard the FMZ, a small, scientific air cruiser owned by Moharleff, nodded impassively.
 
@@ -2246,7 +2250,7 @@ The assistant nodded. He had reason to remember, for he was carrying in his pock
 
 “All intelligent theory points to the existence of neu-tronium at the center of the Earth, Franz,” Moharleff said. “There cannot be a large quantity by volume, but its mass must be tremendous. It floats at the exact middle of the planet’s molten core, being held there by an equal, or practically equal, gravitational pull from all sides. Normally, the only deviation from equality of attraction is produced by the tidal pull of the Sun and the Moon, and this is comparatively feeble.
 
-“But if something came in from space suddenly— something with a great gravitational attraction— something that moved so swiftly that no time was given for it to pull the Earth appreciably from its natural orbit—you can guess what would happen. The central core of neutronium would be drawn outward, through the molten substance of the Earth’s interior, toward its crust. Then, being so much heavier than the surrounding material, it would sink back toward the center of the Earth after the force that had drawn it outward was lessened.
+“But if something came in from space suddenly—something with a great gravitational attraction—something that moved so swiftly that no time was given for it to pull the Earth appreciably from its natural orbit—you can guess what would happen. The central core of neutronium would be drawn outward, through the molten substance of the Earth’s interior, toward its crust. Then, being so much heavier than the surrounding material, it would sink back toward the center of the Earth after the force that had drawn it outward was lessened.
 
 “Gathering momentum in its fall, it would not stop at the middle of the planet, but would pass this point for some distance, before it again began to sink, and in a slightly lessened amplitude, continue the process of oscillation. Its mass being so ^eat, ffie neutronium core, moving thus back and forth like a suspended object brushed by some carelessly passing person, could easily cause the Earth’s center of gravity to shift regularly, causing the increase and decrease that you have demonstrated in the weight of objects on the surface. You see how it all fits into the pattern of things, Franz?”
 
@@ -2276,7 +2280,7 @@ Franz hemmed and hawed for a moment, by way of an introduction to something whic
 
 Moharleff stiffened suddenly at his assistant’s words. His dark eyes blazed; the muscles of his face twitched, and his cheeks whitened with fury. But otherwise he maintained a deadly calm. He had denounced Jeff Scanlon once, and pride fomed a barrier to the retraction of his words. And then, too, the training of a Lifetime smothered reason.
 
-“No, Franz,” he said very quietly and distinctly. “We shall not follow the herd—at least I shall not— even if the way leads to a real utopia. What I have learned since my rescue has not altered my opinion of Jefferson Scanlon. I shall accept no favors from him, nor will I help him in any way. He is still a petty, self-glorifying capitalist to me. But you are free to do as you like. I can leave the craiser in a parachute unless you decide to cast lots with me. In the latter case we will continue our scientific observations until the end.”
+“No, Franz,” he said very quietly and distinctly. “We shall not follow the herd—at least I shall not—even if the way leads to a real utopia. What I have learned since my rescue has not altered my opinion of Jefferson Scanlon. I shall accept no favors from him, nor will I help him in any way. He is still a petty, self-glorifying capitalist to me. But you are free to do as you like. I can leave the craiser in a parachute unless you decide to cast lots with me. In the latter case we will continue our scientific observations until the end.”
 
 But Franz had an Old World loyalty to his superior, as had all of Moharleff’s employees, among them the pilot and navigator of the cruiser.
 
@@ -2288,7 +2292,7 @@ VI
 
 “We can land in a minute, Uncle Jeff,” said Dave Scanlon who clutched the controls of their plane. He spoke matter-of-factly, for both men had, by now, grown accustomed to the appeal of the unusual.
 
-Below them, sweeping by, was a desolate, ashen plain —a lunar “sea.” Their jo^ey had been made without incident, in a ^trifle more than twenty hours. During part of it their speed must have reached many miles per second.
+Below them, sweeping by, was a desolate, ashen plain—a lunar “sea.” Their jo^ey had been made without incident, in a ^trifle more than twenty hours. During part of it their speed must have reached many miles per second.
 
 Above were gray clouds from which thin, salty snow was falling very slowly—the first snow which Luna had known for an incalculable time, for both her air and her water had been gone. Now a flood of both had been brought to her magically from Earth.
 
@@ -2306,7 +2310,7 @@ The slight gravity of the Moon made the task of wheeling the plane into shelter 
 
 They ate a sketchy meal from their dwindling store of concentrated rations. Then Jeff indulged in a short nap, while his nephew kept watch. The elder Scanlon, taking the next shift at the spy hole, was the one who saw the first of the bombing planes arrive from out of the lavender pall in the center of the cloudy sky.
 
-Like an apparition, sheathed in ice, it dropped toward the surface of the fantastic world. The growl of its motors was ghostly in the stillness. Things fell with it— small objects which seemed to be refuse from the Arctic Ocean of Earth. Then it was on the ground, taxiing to a halt.
+Like an apparition, sheathed in ice, it dropped toward the surface of the fantastic world. The growl of its motors was ghostly in the stillness. Things fell with it—small objects which seemed to be refuse from the Arctic Ocean of Earth. Then it was on the ground, taxiing to a halt.
 
 “Dave!” Jeff whispered hoarsely to the sleeping youth.
 
@@ -2320,7 +2324,7 @@ By then, many familiar sounds were finding their way to the tense ears of the wa
 
 People were moving about among the growing concourse of ships from Earth. As yet, few of them showed any signs of a constructive urge; they were concerned Only with their emotions, and with the novelties of their environment.
 
-Hours passed, and more and more ships arrived. The great blob of lavender shifted in the sky, substantiating the known fact that the Moon was tu^rning on its axis more rapidly than was its wont. The blob of color was the only visible celestial marker, for both the Sun and the Earth were hidden by the dense grayness above— the grayness of falling snow.
+Hours passed, and more and more ships arrived. The great blob of lavender shifted in the sky, substantiating the known fact that the Moon was tu^rning on its axis more rapidly than was its wont. The blob of color was the only visible celestial marker, for both the Sun and the Earth were hidden by the dense grayness above—the grayness of falling snow.
 
 It grew dark as night approached, but it was considerably warmer than it had been at the time when the Scanlons had arrived. The Sun’s rays, beating down on the opaque blanket of vapor and ice crystals that overcast the sky, had had its effect. Through the gloom, lights in the interiors of the assembled aircraft gleamed eerily.
 
@@ -2380,7 +2384,7 @@ And then several news-disseminator diaphragms, belonging to receivers that were 
 
 “Neither Scanlon nor his invention is responsible for what is happening; though the latter, by retarding the Earth’s rotation and imposing a certain strain on its structure, was guilty of a guiltless fault—that of aggravating an already hopeless situation. A small cometlike body, with a tremendous force of gravity, is the real cause of Earth’s misfortune. It caused Titan, moon of Saturn, to explode, too, as some of you may remember. It contains^ a large quantity of neutronium. There was also neutronium at the center of the Earth. There is little time to explain further, but there are scientists among you who can work out a theory.
 
-“The energy beam in which we are floating is wavering and flickering. The jolts are threatening to break up the cruiser. The neutronium inside the Earth was caused to swing back and forth by ffie terrific tidal attraction of the cometlike invader. Atomic ener^ was unleashed from broken atoms. And now, finally, under the fury of that energy, the neutronium at the center of the Earth is expanding to form common matter, probably lead. A speck of neutronium, too small to be visible, would weigh several tons. So you can imagine. For every tiny speck of neutronium, several tons of lead, much greater volume. Terrific explosive possibilities— !—”
+“The energy beam in which we are floating is wavering and flickering. The jolts are threatening to break up the cruiser. The neutronium inside the Earth was caused to swing back and forth by ffie terrific tidal attraction of the cometlike invader. Atomic ener^ was unleashed from broken atoms. And now, finally, under the fury of that energy, the neutronium at the center of the Earth is expanding to form common matter, probably lead. A speck of neutronium, too small to be visible, would weigh several tons. So you can imagine. For every tiny speck of neutronium, several tons of lead, much greater volume. Terrific explosive possibilities—!—”
 
 The communication broke off with a sort of twanging crash that had the sound of sudden death. The slender, elastic duct from Earth to Moon had snapped; and, like a fly roosting on a tautly drawn strand of rubber that is suddenly released, the cruiser in which Feodor Mohar-leff and his loyal henchmen rode was crushed by the contracting forces.
 
@@ -2404,7 +2408,7 @@ There was a small girl nearby, crying; while he waited for an answer to the radi
 
 “That means that she isn’t here and won’t come,” Jeff said quietly. “Everyone on the Moon would have received the call.” And though he smiled as he spoke, he knew that he had loved her more deeply than anything else in life, even though she had often irritated^ him. But she had never, never been willing to follow his suggestions.
 
-The sky above was much redder now. Meteors— fragments of the Earth—might soon be falling.
+The sky above was much redder now. Meteors—fragments of the Earth—might soon be falling.
 
 Jeff looked at the femlike lunar sprouts in the damp soil; he thought of food and of sleep and of work. Already the godson of Almarlu was turning over in his mind plans for the future. Adventure was at an end. Tomorrow toil would begin in earnest. Jeff was pleased.
 
@@ -2418,7 +2422,7 @@ MAcDown looked as though he was about ready to crack. His face was like molded c
 
 “Paxtonia is just another name for hell!” he whined into his ether phone, addressing his two companions. “It’s just a broken piece of an inhabited world that exploded maybe ten billion years ago! It was shot away from that world’s parent star! Why did it have to wander into our solar system, and establish itself in an orbit around our sun? Nothing could live on it except the spirit of death.
 
-“That’s what it must be—the spirit of death! Those ships that blew up when they got too close to Pax-tonia— Some smart people think that maybe there’s an intelligent agent here who did that by exploding the old-type rocket fuel. But there’s nothing here that anybody can find, except the ruins of buildings and machines,- and a lot of empty silence! Still, a week ago there were twelve men in this expedition—and now there are only three of us left alive. Please! There isn’t any sense in our staying on Paxtonia! We’ve got to get out of this devil’s pmadise—at once!”
+“That’s what it must be—the spirit of death! Those ships that blew up when they got too close to Pax-tonia—Some smart people think that maybe there’s an intelligent agent here who did that by exploding the old-type rocket fuel. But there’s nothing here that anybody can find, except the ruins of buildings and machines,- and a lot of empty silence! Still, a week ago there were twelve men in this expedition—and now there are only three of us left alive. Please! There isn’t any sense in our staying on Paxtonia! We’ve got to get out of this devil’s pmadise—at once!”
 
 “Shut up, MacDowd!” Pilot Al Kemy, big and bearlike and brave, but not possessing the mental keenness of a scientist, growled emphatically. “You joined this outfit of your own free ^M, to help do a job that’s got to be done! Until we find out what makes Paxtonia so dangerous, and until some way is figured out to combat this condition, no spaceships that come into this vicinity will be safe, in spite of the new, and less easily detonated, rocket fuel. Our lives don’t balance against thousands of other lives. Dr. Rolf and you and I are sticking, MacDowd!”
 
@@ -2432,7 +2436,7 @@ For a moment Al Kemy’s massive form seemed to wilt with weariness and discoura
 
 Its airless expanse was crusted with utterly dry loam, baked and gray under the merciless sun of the void. Here were visible the remnants of ancient vegetation. And Kemy could see, here, things which would have thrilled the heart of any archeologist—vast, broken domes of hewn stone, which mi^t once have imprisoned air and water in their interiors, and pgantic, moveless engines and machines—all of ffiem belonging to an age of incredible antiqmty.
 
-On the domra, carved in bas-relief, were many representations of the people who had created all these wonders. ^e carven figures stood erect, like men, but they were very slender and attenuated, ^eir eyes, set in their triangular heads, were large and protruding. But like the things around them, the members of this graven host were lifeless and incapable of inflicting harm— impassive denials of the fact ffiat somewhere among the debris . of a wrecked civilization there was a malefic something that seemed to possess the powers of black mapc.
+On the domra, carved in bas-relief, were many representations of the people who had created all these wonders. ^e carven figures stood erect, like men, but they were very slender and attenuated, ^eir eyes, set in their triangular heads, were large and protruding. But like the things around them, the members of this graven host were lifeless and incapable of inflicting harm—impassive denials of the fact ffiat somewhere among the debris . of a wrecked civilization there was a malefic something that seemed to possess the powers of black mapc.
 
 ‘Tm sorry, MacDowd,” Kemy muttered to the corpse. “I guess you were right. We should have got out of here. Even wearing spacesuits all the time doesn’t seem to help. We—”
 
@@ -2502,7 +2506,7 @@ Again Rolf regmtered extreme surprise, as the boldness of the idea struck home. 
 
 “Substance,” he mused, “You would think that the parts of a machine so very small would break under the strain of their mere operation. But no, that is not true. The strength of material, in proportion to size, increases as size is diminished. This scientific fact is easy to demonstrate: under Earthly gravitational conditions, a lump of soft putty a foot in diameter will flatten with its own weight if set on a solid surface; while a lump of the same putty, if only an inch in diameter, will not flatten.”
 
-Rolf was silent for a moment. ^en fierce eagerness gripped him. “It is a magnificent thought, Al Kemy!” he shouted. “We will make use of it! Or, anyway, we will try to make use of it! Under more favorable circumstances I could really do it justice, by working— how should I say—in steps downward. With the Scarab as big as a beetle, I could make a Scarab as big as a sand grain. This second Scarab could build a miniature of itself, as big as a dust gmin. The third Scarab could construct a fourth, bearing the same proportions as the first to the second, or the second to the third. And so on, down, to the limit imposed by the ultimate indivisibihty of the atoms themselves!
+Rolf was silent for a moment. ^en fierce eagerness gripped him. “It is a magnificent thought, Al Kemy!” he shouted. “We will make use of it! Or, anyway, we will try to make use of it! Under more favorable circumstances I could really do it justice, by working—how should I say—in steps downward. With the Scarab as big as a beetle, I could make a Scarab as big as a sand grain. This second Scarab could build a miniature of itself, as big as a dust gmin. The third Scarab could construct a fourth, bearing the same proportions as the first to the second, or the second to the third. And so on, down, to the limit imposed by the ultimate indivisibihty of the atoms themselves!
 
 “The only difficulty would be in maintaining radio control of the smaller Scarabs—the waves they would emit and respond to would be so very fine and faint!
 
@@ -2570,7 +2574,7 @@ And if they were spaceships, many riddles were easy to explain. Smallness impose
 
 Perhaps, then, MacDowd and the others had been killed by tiny spaceships which had penetrated their armor and flesh, injecting into the latter a microscopic but effective portion of virulent poison. If this was the case, doubtless the craft had retreated back through flesh and armor in the way they had come, leaving no trace of themselves for man’s microscopes to discover.
 
-Perhaps the glowing specks which Rolf and Kerny had seen on the flanks on their own vessel were only the visible manifestations of microscopic heat tools, mounted on invisibly tiny spacecraft, and being applied to bum through metal. The explosions of the commercial ships from Earth, when they had approached Pax-tonia, could be explained by the penetration of some of these super Lilliputian space vessels into their interiors, and the application of a tiny spark to the sensitive, old-type fuel in their fuel tanks. Yes, with a tangible basis for a theory, answers to several questions were not difficult to find now.
+Perhaps the glowing specks which Rolf and Kerny had seen on the flanks on their own vessel were only the visible manifestations of microscopic heat tools, mounted on invisibly tiny spacecraft, and being applied to burn through metal. The explosions of the commercial ships from Earth, when they had approached Pax-tonia, could be explained by the penetration of some of these super Lilliputian space vessels into their interiors, and the application of a tiny spark to the sensitive, old-type fuel in their fuel tanks. Yes, with a tangible basis for a theory, answers to several questions were not difficult to find now.
 
 Ruminations of this sort must have flashed through the minds of both Kerny and Rolf. But their most intense thoughts necessarily concerned the practical considerations of the immediate present. The time had come to clash with the enemy!
 
@@ -2582,7 +2586,7 @@ Al Kerny saw no evidence that his act had produced any effect; but he heard the 
 
 For several seconds there was a pause, while Kerny watched the super Scarab waver and circle ahead of him. Tiny though it was, its position was always plain because of the spark of incandescence ejected from its rocket.
 
-Presently, Rolf shouted again: “Above the Scarab— perhaps eighteen inches! Blast quickly before there is time to attack and destroy our robot!”
+Presently, Rolf shouted again: “Above the Scarab—perhaps eighteen inches! Blast quickly before there is time to attack and destroy our robot!”
 
 Al obeyed, and another group of tiny, deadly spheres was wiped out.
 
@@ -2640,7 +2644,7 @@ Through the tiny hole in the wall of the conning tower flew a pinprick of hot, w
 
 Seeds of the Dusk
 
-It was a spore, microscopic in size. Its hard shell— resistant to the utter dryness of interplanetary space— harbored a tiny bit of plant protoplasm. That protoplasm, chilled almost to absolute zero, possessed no vital pulsation now—only a grim potentiality, a savage capacity for revival, that was a challenge to Fate itself.
+It was a spore, microscopic in size. Its hard shell—resistant to the utter dryness of interplanetary space—harbored a tiny bit of plant protoplasm. That protoplasm, chilled almost to absolute zero, possessed no vital pulsation now—only a grim potentiality, a savage capacity for revival, that was a challenge to Fate itself.
 
 For years the spore had been drifting and bobbing erratically between the paths of Earth and Mars, along with billions of other spores of the same kind. Now the gravity of the^ Sun drew it a few million miles closer to Earth’s orbit, now powerful magnetic radiations from solar vortices forced it back toward the world of its origin.
 
@@ -2712,7 +2716,7 @@ The spore plant proceeded with its marvelous selfeducation, part of which must h
 
 Meanwhile it studied carefully its bleak surroundings, prompted not only by fear, but by curiosity as well. To work effectively, it needed understanding of its environment. Intelligence it possessed beyond question; still it was hampered by many limitations. It was a plant, and plants have not an animal’s capacity for quick action, either of offense or defense. Here, forever, the entity from across the void was at a vast disadvantage, in this place of pitiless competition. In spite of all its powers, it might now have easily been destroyed.
 
-The delicate, ruined tower of blue porcelain, looming up from the brink of the gully— The invader, scrutinizing it carefully for hours and days, soon knew every chink and crack and fanciful arabesque on its visible side. It was only a ruin, beautiful and mysterious alijce by sunshine and moonlight, and when adorned with a fine sifting of snow. But the invader, lost on a strange world, could not be sure of its harmlessness.
+The delicate, ruined tower of blue porcelain, looming up from the brink of the gully—The invader, scrutinizing it carefully for hours and days, soon knew every chink and crack and fanciful arabesque on its visible side. It was only a ruin, beautiful and mysterious alijce by sunshine and moonlight, and when adorned with a fine sifting of snow. But the invader, lost on a strange world, could not be sure of its harmlessness.
 
 Close to the tower were those rude, high, sugar-loaf mounds, betraying a sinister cast. They were of hard-packed Earth, dotted with many tiny openings. But in the cold, arid winter, there was no sign of life about them now.
 
@@ -2736,7 +2740,7 @@ His crop full, Kaw was now free to exercise the mischievous curiosity which he h
 
 With a clownish skio of his black, scaly feet, and a showoffish swerve of his dusty ebon wings, Kaw took to the air once more. Upward he soared, his white-lidded eyes directed again toward the ground, seeking something interesting to occupy his attention and energies.
 
-Thus, presently, he saw a brownish puff that looked like smoke or dust in the gullv beside the mined blue tower at the pinnacle of which he and his mate were wont to build their nest in summer. Sound came then— a dull, ringing pop. The dusty cloud expanded swiftly upward, widening and thinning until its opacity was dissipated into the clearness of the atmosphere.
+Thus, presently, he saw a brownish puff that looked like smoke or dust in the gullv beside the mined blue tower at the pinnacle of which he and his mate were wont to build their nest in summer. Sound came then—a dull, ringing pop. The dusty cloud expanded swiftly upward, widening and thinning until its opacity was dissipated into the clearness of the atmosphere.
 
 Kaw was really startled. That this was so was evinced by the fact that he did not voice his harsh, rasping cry, as he would have done hac;l a lesser occurrence caught his attention. He turned back at first, and began to retreat, his mind recognizing only one possibility in what had occurred. Only the Itorloo, the Children of Men, as far as he knew, could produce explosions like that. And the Itorloo were cruel and dangerous.
 
@@ -2778,7 +2782,7 @@ But now, out of his excitement, Kaw drew a reasoned and fairly definite purpose.
 
 He soared upward toward the bright blue of the heavens. The porcelain tower, the ant hills, and the low mounds which marked the entrances to the rodent colonies slipped swiftly behind. As if the whole drab landscape were made to move on an endless belt.
 
-Kaw was looking for his mate, and for the thirty-odd, black-winged individuals who formed his tribe. Singly and in small groups, he contacted and collected them. Loud, raucous cries, each with a definite verbal meaning, were exchanged. Menace was on the Earth— bizarre, nameless menace. Excitement grew to fever pitch.
+Kaw was looking for his mate, and for the thirty-odd, black-winged individuals who formed his tribe. Singly and in small groups, he contacted and collected them. Loud, raucous cries, each with a definite verbal meaning, were exchanged. Menace was on the Earth—bizarre, nameless menace. Excitement grew to fever pitch.
 
 Dust, beautiful and soft and forbidding, found the bird clan assembled in a chamber high-placed in a tremendous edifice many miles from where Kaw had made his discovery. The building belonged to the same gentle culture which had produced the blue porcelain tower. The floor of the chamber was doubtless richly mosa-iced. But these were relics of departed splendor now thickly masked-with dust and filth.
 
@@ -2820,7 +2824,7 @@ Zar felt irritable. He did not like the lonely surface vigil and the routine ast
 
 Angles, distances, numbers! Zar was disgusted. Why didn’t the construction crews hurry? The whole race. could have been moved to Venus long ago, and might just as well have been. For as far as Zar could see, there was no real reason to retain a hold on the burnt-out Earth. The native Venusians should have been crushed a' century back. There wasn’t any reason why this pleasant task shouldn’t have been accomplished then—no reason except stupid, official inertial
 
-The sound of a shrill bird cry, throbbing from the pickup diaphragm on the wall, did not add any sweetening potion to Zar’s humor. At first he paid no attention; but the insistent screaming of the name of his kind— “Itorlool Itorlool”—at length aroused him to angry action.
+The sound of a shrill bird cry, throbbing from the pickup diaphragm on the wall, did not add any sweetening potion to Zar’s humor. At first he paid no attention; but the insistent screaming of the name of his kind—“Itorlool Itorlool”—at length aroused him to angry action.
 
 His broad, withered face, brown and hideous and goblinlike, twisted itself into an ugly grimace. He bounded up from his chair, and seized a small, pistollike weapon.
 
@@ -2846,9 +2850,9 @@ Irritated, Zar raised his weapon. Kaw swept away at once, but there was no chanc
 
 But Zar had perused old records, belonging to an era half a million years gone by. He knew that this gray-green thing was at least like the flora of ancient Mars. Into his mind, matter-of-fact for the most part, came the glimmerings of mighty romance, accentuating within him a consciousness of nameless dread, and of grand interplanetary distances.
 
-Spines. Bulging, hard-shelled, pulpy leaves that stored oxygen under pressure. Chlorophyll that absorbed sunshine and made starch, just as in an ordinary Earthly plant. Only the chlorophyll of this growth was beneath a thick, translucent shell, which altered the quality of the light it could reflect. That was why astronomers in the pre-interplanetary era had doubted the existence of vegetation on Mars. Green plants of Terra, when photographed with infrared light, looked silvery, like things of frost. But—because of their shells— Martian vegetation could not betray its presence in the same manner.
+Spines. Bulging, hard-shelled, pulpy leaves that stored oxygen under pressure. Chlorophyll that absorbed sunshine and made starch, just as in an ordinary Earthly plant. Only the chlorophyll of this growth was beneath a thick, translucent shell, which altered the quality of the light it could reflect. That was why astronomers in the pre-interplanetary era had doubted the existence of vegetation on Mars. Green plants of Terra, when photographed with infrared light, looked silvery, like things of frost. But—because of their shells—Martian vegetation could not betray its presence in the same manner.
 
-Zar shuddered, though the morning air was not chill by his standards. The little gleaming orbs of the invader seemed to scrutinize him critically and coldly, and with a vast wisdom. Zar saw the shattered spore-pods, knowing that their contents now floated in the air, like dust—floated and settled—presenting a subtle menace whose tool was the unexpected, and against which— because of the myriad numbers of the widely scattered spores—only the most drastic methods could prevail.
+Zar shuddered, though the morning air was not chill by his standards. The little gleaming orbs of the invader seemed to scrutinize him critically and coldly, and with a vast wisdom. Zar saw the shattered spore-pods, knowing that their contents now floated in the air, like dust—floated and settled—presenting a subtle menace whose tool was the unexpected, and against which—because of the myriad numbers of the widely scattered spores—only the most drastic methods could prevail.
 
 Belatedly, then, anger came. Zar drew a knife from his belt. Half in fury and half in experiment, he struck the invader, chipping off a piece of its shell. He felt a sharp electric shock, though by no means strong enough to kill a creature of his size. From the wound he made in the plant, oxygen sizzed softly. But the invader offered no further defense. For the present it had reached the end of its resources.
 
@@ -2960,7 +2964,7 @@ And then a voice, chattering faintly in the language of Kaw the Crow: “Be stil
 
 Gradually the sleepy tone quieted Zar, even though he was aware that whatever the invaders might do to him could bring him no good.
 
-Plants with voices. Almost human voices! Some sort of tympanic organs, hidden, perhaps, in some of those pulpy leaves, Zar judged. From the records of the old explorations of Mars, he knew a little about these intruders, and their scheme of life. Organs, with the functions of mechanical contrivances, conceived and grown as they were needed! An alien science, adapted to the abilities and limitations of vegetative intelligences— intelligences that had never controlled the mining and smelting and shaping of metal!
+Plants with voices. Almost human voices! Some sort of tympanic organs, hidden, perhaps, in some of those pulpy leaves, Zar judged. From the records of the old explorations of Mars, he knew a little about these intruders, and their scheme of life. Organs, with the functions of mechanical contrivances, conceived and grown as they were needed! An alien science, adapted to the abilities and limitations of vegetative intelligences—intelligences that had never controlled the mining and smelting and shaping of metal!
 
 Zar, tight in the clutch of those weird monstrosities, realized some of their power. Strangely it did not affect the hypnotic calm that wrapped him.
 
@@ -2976,7 +2980,7 @@ Succession after succession, according to some well-ordered scheme? In the desol
 
 Zar wanted to shriek, but his awe and his weakness strangled him beyond more than the utterance of a gasping sigh.
 
-Then the mighty spirit of his kind reasserted itself. Zar was aware that most probably he himself would presently perish; but the Itorloo, his kind, his real concern, could never lose! Not with all the mighty forces at their command! To suppose that they could be defeated by the sluggish intruders was against reason! In a matter of months—when the preparations for the vast purification process had been completed—Earth would be free of those intruders once more. Zar’s brown face contracted into a leer of defiance that had a touch of real greatness. Brutality, force, cunning, and the capacity for quick action—those were the tools of the Itorloo, but they had strength too. Zar was no fool—no shortsighted individual who leaps to hasty, optimistic conclusions— but in a contest between the Itorloo and the invaders there could be but a single outcome by any. standard within Zar’s reach.
+Then the mighty spirit of his kind reasserted itself. Zar was aware that most probably he himself would presently perish; but the Itorloo, his kind, his real concern, could never lose! Not with all the mighty forces at their command! To suppose that they could be defeated by the sluggish intruders was against reason! In a matter of months—when the preparations for the vast purification process had been completed—Earth would be free of those intruders once more. Zar’s brown face contracted into a leer of defiance that had a touch of real greatness. Brutality, force, cunning, and the capacity for quick action—those were the tools of the Itorloo, but they had strength too. Zar was no fool—no shortsighted individual who leaps to hasty, optimistic conclusions—but in a contest between the Itorloo and the invaders there could be but a single outcome by any. standard within Zar’s reach.
 
 In this belief, he was comforted, and his luck, presently, after long hours of suffering, seemed far better than he had any reason to hope for. The hard, thorny tendrils unquestionably were relaxing from about him a very little. He could not guess why, and in consequence he suspected subtle treachery. But he could find no reason to suppose that some hidden motive was responsible.
 
@@ -3020,7 +3024,7 @@ By nightfall Kaw felt only slightly more uncomfortable. By the following dawn, h
 
 Four days. Huddled in a pathetic group in a ruined structure of antiquity, Kaw’s tribe waited. Their features were dull and ruffled, and they shivered as if with cold. Some of them uttered low, sleepy twitterings of anguish.
 
-That evening, from a battered window embrasure Kaw watched the pale Moon rise. He was too weak to stand, but rested slumped forward on his breast. His eyes were rheumy and heavy-lidded, but they still held a savage glitter of defiance, which perhaps would bum in them even after they had ceased to live and see. And Kaw’s clouded mind could still hazard a guess as to the identity of the author of his woes. Brave but impotent, he could still scream a hoarse challenge inspired by a courage as deathless as the ages.
+That evening, from a battered window embrasure Kaw watched the pale Moon rise. He was too weak to stand, but rested slumped forward on his breast. His eyes were rheumy and heavy-lidded, but they still held a savage glitter of defiance, which perhaps would burn in them even after they had ceased to live and see. And Kaw’s clouded mind could still hazard a guess as to the identity of the author of his woes. Brave but impotent, he could still scream a hoarse challenge inspired by a courage as deathless as the ages.
 
 “Itorloo! Itorlool .	”
 
@@ -3036,7 +3040,7 @@ But he could see the silvery tunicked figure of the physician standing close to 
 
 Half delirious, Zar could still grasp the meaning of the physician’s words, and could understand the origin of the disease.
 
-He began to mutter with seeming incoherence: “The changing Earth. Reptiles. Mammals. Men— Succession. Nature—”
+He began to mutter with seeming incoherence: “The changing Earth. Reptiles. Mammals. Men—Succession. Nature—”
 
 His voice took on a fiercer tone. “Fight, Itorlool” he screamed. “Fight!”
 
@@ -3154,7 +3158,7 @@ What had thus far occurred, however, was only the beginning of pandemonium, whic
 
 In his little ether phone, Karen, the manager, was shouting wildly for Dave, while at the same time police code was coming in, trilling Holman’s message of warning: “Calling Ledrack! Calling Ledrack! Karen reports trouble! Investigate at once! We are coming! We are coming!”
 
-Dave reached into his coat to tap out a brief phrase of acknowledgment. Further than that he didn’t know quite what to do. A screaming fury was in his nerves— something that was like murder madness, urging him to kill and kill and kill! But no time was given him now to think out possible causes for this treacherous phenomenon.
+Dave reached into his coat to tap out a brief phrase of acknowledgment. Further than that he didn’t know quite what to do. A screaming fury was in his nerves—something that was like murder madness, urging him to kill and kill and kill! But no time was given him now to think out possible causes for this treacherous phenomenon.
 
 He was cool enough to remember his duty first. As an officer of the Jaw it was his duty to attack trouble and try—at least try—to control it!
 
@@ -3166,11 +3170,11 @@ The voices of the robots—all of them doubtless the proxies of Venusians—made
 
 The four youths who were in the employ of Hotel Cosmos, and who had been knocked over, were now scrambling weakly to their feet, their faces ■ and shoulders streaming blood. But they were not too stunned to scream curses and exhortations, their faces twisted with fury and terror.
 
-“Get ’em, Dave! Get ’em—! Dirty, stinking Venus folk— We ought to open all the valves of the rooms, and let ’em die in the Earth air! And those Martians, too! Damn ’em! And all the rest! By glory, let’s do it! Let’s! We will—”
+“Get ’em, Dave! Get ’em—! Dirty, stinking Venus folk—We ought to open all the valves of the rooms, and let ’em die in the Earth air! And those Martians, too! Damn ’em! And all the rest! By glory, let’s do it! Let’s! We will—”
 
 Dave, armed as was no one else present, smashed the last of the small attacking mechanisms with a series of dazzling bursts of energy. But matters were getting rapidly out of hand.
 
-Mingled with the other sounds of disorder and chaos, throbbing and dinning throughout the hostelry, now came ominous hisses. Attendants were opening valves— putting a madness born of murder impulses into effect—preparing to drown alien beings in Earth atmosphere unsuited to their needs.
+Mingled with the other sounds of disorder and chaos, throbbing and dinning throughout the hostelry, now came ominous hisses. Attendants were opening valves—putting a madness born of murder impulses into effect—preparing to drown alien beings in Earth atmosphere unsuited to their needs.
 
 And Dave, gripped by the same strange power, found himself wanting to take part in the massacre too. Those filthy, unhuman demons! Down with them! Down! Easy Goin’ Ledrack seemed to have been transformed.
 
@@ -3204,7 +3208,7 @@ Old Dave saw things then in his mind’s eye—things to which what was taking p
 
 Dave began to run toward the corridor where 4-2-5’s quarters were located. As he approached the room, a dim intimation of how the Antarean was. protecting himself from possible attack came to him, and with it a clearer belief in 4-2-5’s guilt. For Dave’s nerves grew more and more taut and strained as he advanced closer to where the Antarean lay concealed. It was as though old Ledrack was pushing his way deeper and deeper into a subtle aura of evil; unseen, yet no less powerful because of that. The invisible radiations beat stronger and stronger upon his nerves and brain until the murderous fury within seemed to destroy most of the coordination of his bodily movements, and to sear his brain with the fire of insanity. Whatever it was that 4-2-5 was using to stir up hell in Hotel Cosmos was also, by its disruptive effect on nerve tissue, an excellent safeguard against attack by living creatures when it was sufficiently strong.
 
-John Holman’s code buzzed once more in Dave’s ether phone. It was blurred and scratchy with static— some sort of short-range radio-barrage, doubtless, to' keep inimical proxy robots away from 4-2-5’s refuge.
+John Holman’s code buzzed once more in Dave’s ether phone. It was blurred and scratchy with static—some sort of short-range radio-barrage, doubtless, to' keep inimical proxy robots away from 4-2-5’s refuge.
 
 Dave was scarcely able to make out the message. “In the—Lord, what’s the matter, Ledrack? We’ve got the hotel surrounded with men. I’ll be with you—minute!”
 
@@ -3232,7 +3236,7 @@ But the small globe, supported on a tripod in the center of the room, still blaz
 
 With a final surge of willpower, Dave scrambled and staggered into the metal chamber, from which was pouring a reeking, hot wave of cyanogen and fluorine gases. But his vacuum armor protected him' from these poisons. His hands clutched a lever to which shreds of gray, alien flesh still clung—grasping organs which had been untouched by the destroying blast from his weapon. They were the grasping organs of a creature born in the region of another star, but in whose fathomless mind unholy ambitions, like those which come to some men, had surged restlessly, provoking sinister action.
 
-Dave pulled the lever. The activity of the apparatus died out. And the veteran guardian of Hotel Cosmos crumpled to the floor, relaxed at last, that awful straining tension gone from his body. Slimy, murky, dim-lit— this place was more repellent from the human viewpoint than a crocodile’s Stygian, fetid den. But Dave Ledrack was too utterly spent to care. Weariness and relaxation made him feel almost—well, luxurious. It was almost as though he could understand Antarean conceptions of luxury at last.
+Dave pulled the lever. The activity of the apparatus died out. And the veteran guardian of Hotel Cosmos crumpled to the floor, relaxed at last, that awful straining tension gone from his body. Slimy, murky, dim-lit—this place was more repellent from the human viewpoint than a crocodile’s Stygian, fetid den. But Dave Ledrack was too utterly spent to care. Weariness and relaxation made him feel almost—well, luxurious. It was almost as though he could understand Antarean conceptions of luxury at last.
 
 And human cleverness had contributed its bit to that luxury. All around, on the walls of the chamber, projected there in the same manner that a magic lantern projects a picture on a screen, were colored scenes which made this compartment look like a landscape of the dead 4-2-5’s homeland. Haze. A great red sun. Bizarre vegetation coiling in the shadows of jagged hills that were at once hideous and beautiful. Such had been the efforts of Earthmen to make their guests feel at home.
 
@@ -3304,7 +3308,7 @@ Tense with nerve strain, Jack hurried as much as he could. Once on the valley fl
 
 Feeling somewhat shaken, he reached the entrance of the laboratory structure. Beside the entrance there was a little push button. Jack pressed it to signal his arrival. Slowly, then, after a brief wait, the external valve of the air lock opened. Jack entered and the valve closed behind him. In another minute, after the compartment had filled with air, he proceeded to remove his space armor, leaving it standing rigid against the wall beside another similar armor.
 
-“Hello, my young friend! I see you are a bit upset by my beauties, by my wonderful star-flowers! But it is only natural! They are strange, so utterly strange! When you become used to them you will love them even as I do! Nevertheless, I am glad you are here— very glad! I need help in my work. During several months I have tried occasionally to get- someone to come here to assist me. But no, it was not easy to do! The people at Imbrium City are stupid provincials full of superstition unworthy of our age! You are not like them! I can see that you are not like them! You are educated! Cultured! You will help in the most wonderful research that has ever been attempted!”
+“Hello, my young friend! I see you are a bit upset by my beauties, by my wonderful star-flowers! But it is only natural! They are strange, so utterly strange! When you become used to them you will love them even as I do! Nevertheless, I am glad you are here—very glad! I need help in my work. During several months I have tried occasionally to get- someone to come here to assist me. But no, it was not easy to do! The people at Imbrium City are stupid provincials full of superstition unworthy of our age! You are not like them! I can see that you are not like them! You are educated! Cultured! You will help in the most wonderful research that has ever been attempted!”
 
 The voice rattled on with the almost hysterical garrulity of one suddenly relieved from long solitude. Half startled, Jack Vickers looked at the speaker. He saw not a somber wizard, but a little rosy-cheeked benignant man in his middle fifties, who had entered the air-lock compartment through the now open inner valve.
 
@@ -3334,7 +3338,7 @@ Athelstane paced the floor restlessly. “Do you believe in conservation, young 
 
 “With reservations, yes,” Jack responded at once.
 
-“You agree with me then on one point,” the scientist responded. “My beauties, my Hexagon Lights, are the greatest natural miracles of the Moon! They must be preserved from the extinction which threatens them. During the time that I have studied them, I have learned much. They are not quite what they are supposed to be. But it is true that they are basically phenomena of the ether, just as are wireless waves, X rays, cosmic rays, heat and light waves and so forth. The great difference between the Hexagon Lights and the phenomena with which I have compared them lies in the fact that they are much more complexly organized. That is what they are—organisms of the ether, just as we are organisms of matter! Ether has been much misunderstood. It has not been distinguished from an absolute vacuum simply because no absolute vacuum— separate from the ether—has ever been produced by men. Ether is not mere emptiness; it is a medium, more truly comparable to a solid than to a true vacuum. That we do not perceive its material properties is simply because we have not the right organs of sense to do so.
+“You agree with me then on one point,” the scientist responded. “My beauties, my Hexagon Lights, are the greatest natural miracles of the Moon! They must be preserved from the extinction which threatens them. During the time that I have studied them, I have learned much. They are not quite what they are supposed to be. But it is true that they are basically phenomena of the ether, just as are wireless waves, X rays, cosmic rays, heat and light waves and so forth. The great difference between the Hexagon Lights and the phenomena with which I have compared them lies in the fact that they are much more complexly organized. That is what they are—organisms of the ether, just as we are organisms of matter! Ether has been much misunderstood. It has not been distinguished from an absolute vacuum simply because no absolute vacuum—separate from the ether—has ever been produced by men. Ether is not mere emptiness; it is a medium, more truly comparable to a solid than to a true vacuum. That we do not perceive its material properties is simply because we have not the right organs of sense to do so.
 
 “Thus far, boy, I believe you follow me. And you know of course, why the rocket fuel plant, which serves half of the solar system, was established on the Moon. Manufacturing rocket fuel consists in taking aluminum, extracted from rock, lava, and so forth, and rebuilding its atoms, thus transmuting it into complex, heavy radioactive elements in which is concentrated terrific atomic power. The radiations incident upon such a reconstructive process would be dangerous on Earth, killing vegetation, and producing morbid sores on unprotected men and animals. In addition to this, there is always danger of a fearful atomic explosion. In consequence, Imbrium City was built on the deserted Lunar surface, where the fuel plant would not threaten the dense populace of Earth.
 
@@ -3438,7 +3442,7 @@ Vickers moved purposefully to a switch panel and moved a dial. Exciter rays pour
 
 Nor was there any possibility of preventing the explosion now, with the exciter beams turned to full as they were. In a moment the automatic alarm gongs would be ringing in Imbrium City. The populace would be rushing to underground refuges, shielded and safe.
 
-Vickers hurried out of the building the way he had come, seeking the shelter of a vast pile of slag. The radiations of the eruption might bum him a little here, but he would be safe. Those radiations were not sure death to men as they were to the Hexagon Lights. Though, in the scope of science, there might exist other waves of the ether that would wipe out human life while scarcely affecting beings like the Hexagon Lights at all . . •
+Vickers hurried out of the building the way he had come, seeking the shelter of a vast pile of slag. The radiations of the eruption might burn him a little here, but he would be safe. Those radiations were not sure death to men as they were to the Hexagon Lights. Though, in the scope of science, there might exist other waves of the ether that would wipe out human life while scarcely affecting beings like the Hexagon Lights at all . . •
 
 Two Lunar days later—almost two Earth months.
 
@@ -3452,7 +3456,7 @@ Half fearfully he searched for the low, metal dwelling of Dr. Athelstane. But as
 
 There was no evidence of human intrusion here, except for the ageless footprints in the dust, and one prostrate space armor, around which were crude pieces of apparatus. Beyond the armor’s face panel of darkened glass, Jack Vickers saw the withered visage of a little man. That man had been a lifeless mummy for a long time, a thing of sunken eyes and shriveled cheeks.
 
-“I think I almost understand- it all now,” Jack muttered. “The Hexagon Lights really were living entities— entities woven of the imperceptible fabric of the ether!
+“I think I almost understand- it all now,” Jack muttered. “The Hexagon Lights really were living entities—entities woven of the imperceptible fabric of the ether!
 
 “This corpse was the real Athelstane. He came here to study the Hexagon Lights, but—they studied him instead! The waves they created beat upon his brain, and they mastered him almost at once, using a new projection of their strange science! Somehow they must have learned how to design the apparatus—the cone of death—even though, being so tenuously constituted, they could not fabricate material things themselves. Perhaps the science which enabled them to do this was entirely theoretical. Perhaps they had means of experiment and research both unknown and inconceivable to men.
 
@@ -3498,7 +3502,7 @@ Familiar though that weird ululation was to him now, hearing it again still coul
 
 At an awkward run he advanced up the gully, where the broad feet of his kind, going to their worship, had worn a path through the thickets of tall, pale fems. Longwinged dragon flies buzzed in the hot, golden air, but Grud, of course, paid them not the slightest attention.
 
-He stopped at last behind the bole of a giant fem, and peered into the little glade ahead. Scarcely any vegetation grew there. The ground was just oozy mud, mixed with the rotting, oily stuff of dead animal flesh— the flesh of Grud’s own kind, for the most part.
+He stopped at last behind the bole of a giant fem, and peered into the little glade ahead. Scarcely any vegetation grew there. The ground was just oozy mud, mixed with the rotting, oily stuff of dead animal flesh—the flesh of Grud’s own kind, for the most part.
 
 At the center of the glade, in ghoulish glory, amid the bones and the reeking stenches of his dreadful sanctuary, stood the idol of Ree-Jaar-Env.
 
@@ -3598,7 +3602,7 @@ But before a huge flipper-hand descended upon Envers with crushing force, he alm
 
 and still, could be grimly animated again, now. Envers’ association with this solar system had been too brief for him to have grasped even all of its simpler phenomena.
 
-Now, however, he understood something previously unguessed. The Veil, and the planet of the Surf Men— they traveled around that Titanic blue star in tremendous orbits that were still only five million miles apart. And the Veil was huge in extent—
+Now, however, he understood something previously unguessed. The Veil, and the planet of the Surf Men—they traveled around that Titanic blue star in tremendous orbits that were still only five million miles apart. And the Veil was huge in extent—
 
 Richard Envers died with a bubbling gasp that followed a dull, ghoulish thud.
 
@@ -3736,7 +3740,7 @@ I was in a kind of drunken fuddle. The lake there, fascinated me. I saw goblin-f
 
 “Russ,” I mumbled. “The lake . . . Let’s go swimming. It’s been so damned long. Out here on Io we never could—before. Dust, and skeletons, and cold stars. That’s all we’ve been living with—for a month . . .”
 
-Well, right then Russ Abfall began to swear at me. “You loony nut!” he shrilled at last in his cracked voice. “Don’t you realize this is all a fake—a mental phantasmagoria of some kind? It's one of the enigmas of a dying race—something they must have employed in desperation! You don’t want to get mixed up any more than you are with something like that, do you? . . . That damned sun-plant—and whatever its underground wires are attached to! Visions! Hallucinations! Somehow that hidden apparatus causes them! And we can’t even guess what kind of a hellish end this thing we’ve tangled with, can have! It must be like a drug— opium or hashish! It can’t work like them of course— but . . .”
+Well, right then Russ Abfall began to swear at me. “You loony nut!” he shrilled at last in his cracked voice. “Don’t you realize this is all a fake—a mental phantasmagoria of some kind? It's one of the enigmas of a dying race—something they must have employed in desperation! You don’t want to get mixed up any more than you are with something like that, do you? . . . That damned sun-plant—and whatever its underground wires are attached to! Visions! Hallucinations! Somehow that hidden apparatus causes them! And we can’t even guess what kind of a hellish end this thing we’ve tangled with, can have! It must be like a drug—opium or hashish! It can’t work like them of course—but . . .”
 
 He stopped and stared at me. His tone was changed utterly, when he spoke again. “Milt,” he said in wondering simplicity. “You’ve got a swimsuit on.”
 
@@ -3752,11 +3756,11 @@ Russ’ voice was a bit odd, and far away, when he spoke: but I was sure that it
 
 “No!” I shouted, straining, so that I would be sure to reach him. “T see iust trees . . .”
 
-“So do I, Milt.” he returned. “It’s natural we’d imagine the same thing, there. Old Io. We both know the archeology, Milt. How things were • • .” And then Russ sighed in capitulation. “I wonder if it matws— really,” he continued. “Maybe you were right, Milt— about a swim. I’ve been a spaceman off and on for forty-one years. You get sick of things out here on these damned silent worlds sometimes—damned sick ” His voice seemed to trail away.
+“So do I, Milt.” he returned. “It’s natural we’d imagine the same thing, there. Old Io. We both know the archeology, Milt. How things were • • .” And then Russ sighed in capitulation. “I wonder if it matws—really,” he continued. “Maybe you were right, Milt—about a swim. I’ve been a spaceman off and on for forty-one years. You get sick of things out here on these damned silent worlds sometimes—damned sick ” His voice seemed to trail away.
 
 But I knew from my own experience just what was back of what he had said. Space. That awful nostal that grows on you. It was largely the humanness in old Russ, and the intriguing pull of the visions that had surrounded us, that had made him give up. And it was the same with me. We both knew that we were toying with something that justly should have made our flesh crawl; but we didn’t care. I wasn’t worried a bit. And I had the oddest idea that anything I wanted would happen.
 
-Russ and I walked down to the lake together. Or anyway seemed to. Perhaps we were already going our seo-arate ways, along separate dream channels, as our individual fancies dictated. We waded out into the water, mingling with those ancient Ionians. Their voices echoed around me, speaking a beautiful, liquid language. Or was it a language at all? Probably it was just a lot of pleasing sounds which my mind created for itself. But those ancients paid no attention to me, however—most likely because I wanted to think, alone— then. I swam far out from the shore, feeling the heady glory of that tropic night. . . .
+Russ and I walked down to the lake together. Or anyway seemed to. Perhaps we were already going our seo-arate ways, along separate dream channels, as our individual fancies dictated. We waded out into the water, mingling with those ancient Ionians. Their voices echoed around me, speaking a beautiful, liquid language. Or was it a language at all? Probably it was just a lot of pleasing sounds which my mind created for itself. But those ancients paid no attention to me, however—most likely because I wanted to think, alone—then. I swam far out from the shore, feeling the heady glory of that tropic night. . . .
 
 Yes, I knew it was just a dream. But what did that matter? Pretty soon I began to wish that I wasn’t on Io—that I was back on Earth instead. Almost at once, then, the scene around me, vanished. I was riding a San Francisco belt-walk—one I knew well. Ahead of me, in the morning sunshine, was the new Farwell Building, finished in 2314. Chet Robbins, an old friend of mine, was with me. He works for the Wenz Rocket Motor Company, and he likes magic.
 
@@ -3782,7 +3786,7 @@ And I wondered: “Where am I really? Where is my actual body? How is it feeding
 
 I didn’t know how to answer these questions. So, in moments of panic, I tried to break the spell of dreams, and fight my way back to the truth. It was then that I discovered that I was in a trap. I couldn’t get rid of those visions—or if it was possible to do so, it would require a tremendous effort. And I didn’t seem equal to that, now. Still, it didn’t seem to trouble me much. “What of it?” I kept telling myself. “What of it?” So my visionary magic carpet continued to function.
 
-But I wondered about old Russ Abfall. How was he faring? Doubtless his situation was the same as mine. Doubtless he was lost in a web of dreams, too. What were they like? I was pretty sure I could guess. Old Russ, weary of the life of a space man, wanted to retire. He wanted to build himself a laboratory on Earth, and spend the rest of his days in research for the improvement of spacecraft. It had been a dream of his since he was a kid. He’d hoped to win enough money from his various ventures in out-of-the-way corners of the solar system, to finance his costly experiments. So doubtless, now, he was getting a kind of vivid if unsubstantial fulfillment to his ambitions, just as I was frequently imagining the success of that interplanetary tourist line I wanted to start, if I ever had the means. There’d be contacts, people, movement and color. I’d own ships. I wouldn’t be iust a space bum anvmore.
+But I wondered about old Russ Abfall. How was he faring? Doubtless his situation was the same as mine. Doubtless he was lost in a web of dreams, too. What were they like? I was pretty sure I could guess. Old Russ, weary of the life of a space man, wanted to retire. He wanted to build himself a laboratory on Earth, and spend the rest of his days in research for the improvement of spacecraft. It had been a dream of his since he was a kid. He’d hoped to win enough money from his various ventures in out-of-the-way corners of the solar system, to finance his costly experiments. So doubtless, now, he was getting a kind of vivid if unsubstantial fulfillment to his ambitions, just as I was frequently imagining the success of that interplanetary tourist line I wanted to start, if I ever had the means. There’d be contacts, people, movement and color. I’d own ships. I wouldn’t be just a space bum anymore.
 
 Another thing about Russ. He’d had a wife once, when he was young. But she’d been killed, when they were married a year. Killed in the smash of a rocket plane racer she was piloting. Rhoda, her name had been. Once in a great while, Russ used to rave about her. He’d show me her picture then. She’d been dark and snappy, and pretty. Perhaps Russ was imagining himself with her now, young again. . . .
 
@@ -3798,7 +3802,7 @@ I was in a deep, vertical shaft—a sort of well. Jagged walls of stone were aro
 
 Instead of feeling languid and comfortable, though in tiptop shape, as I had a moment ago, I felt rotten! I was sick, and worn out with work and half starvation. My hands and arms—my whole body, in fact—were so emaciated they fairly rattled inside my space armor. Still I didn’t get the significance of all this—quite. Though I was pretty certain that, weak as I was, I could never climb out of this pit. I’d starve here—die of thirst.
 
-Naturally I looked to Russ for explanations— because he’s smart, figuring things out. “What’s it—all about, Russ?” I grumbled thickly, still battling to keep those comfortable visions out of my tired brain—visions I yearned for now in this hellhole, as I had never ye^ed for anything before.
+Naturally I looked to Russ for explanations—because he’s smart, figuring things out. “What’s it—all about, Russ?” I grumbled thickly, still battling to keep those comfortable visions out of my tired brain—visions I yearned for now in this hellhole, as I had never ye^ed for anything before.
 
 Russ Abfall, probably because of his age, was in even worse shape than I was. His face, in his oxygen helmet, looked like the face of a corpse in a coffin. But he came through with the answers. He was too tired to be excited anymore. But he spoke, swiftly, tensely, in his cracked and now hoarse voice, aware that we couldn’t hold onto real things for long.
 
@@ -3836,7 +3840,7 @@ The strain of hanging on to cold, uninviting facts was too strong.
 
 “T’hell with it!” Russ croaked at last. And then he muttered a name—“Rhoda.” His young wife, of long ago.
 
-“No, Russ!” I grated. “Don’t slip! Try not to— think—”
+“No, Russ!” I grated. “Don’t slip! Try not to—think—”
 
 But my voice trailed off—and I was somewhere else—reminiscing. I was a kid again, reading a book.
 
@@ -3932,7 +3936,7 @@ His mouth grew hard and tired. His thoughts went way back to the grinning eight-
 
 David Jorgensen’s weary look softened his wife’s angry expression to a smile. “Aw, Dave,” she teased gently, “don’t be stuffy! We’ll manage. And it’ll be fun to see Augie again.”
 
-“I’m not stuffy!” David Jorgensen growled with emphasis. “But why does he have to come now—just when I’m trying to get George Munz to sell me those hundred acres for a reasonable price? Isn’t handling that old skinflint enough? Him wanting thirty thousand— cash! And now I’ll have less cash! Worse, I won’t even be able to concentrate my mind on ways and means to make Munz more human!”
+“I’m not stuffy!” David Jorgensen growled with emphasis. “But why does he have to come now—just when I’m trying to get George Munz to sell me those hundred acres for a reasonable price? Isn’t handling that old skinflint enough? Him wanting thirty thousand—cash! And now I’ll have less cash! Worse, I won’t even be able to concentrate my mind on ways and means to make Munz more human!”
 
 Dave’s tone was plaintive. It had the sound of inescapable woe.
 
@@ -3982,11 +3986,11 @@ Jorgensen felt furious, bitter—and outclassed by a vagabond—by the family bl
 
 On reaching home, he puttered in his largest barn for a while, just to keep away from his family. But it would have made no difference had he gone into the house immediately.
 
-When he finally entered, two of his children—Bob who was eight, and Maxene who was seventeen—had already arrived from their daily excursion to the consolidated school and high school. The bus had brought them home, as usual. Lloyd, who was nineteen, would arrive from the State University tomorrow. Lloyd, the sensible one, who meant to become a veterinary surgeon. For Bob, of course, there was no hope at all— when it came to the aura that had invaded the household. He was just a breathless, saucer-eyed pushover. As for Maxene, who was blond, beautiful, and usually bored—well, she’d been mainly concerned with ways and means of sifting a suitable husband out of her collection of boyfriends. She seemed businesslike about it. David Jorgensen had hopes that Maxene wouldn’t be thrown off balance too much by the influence of August Larsen.
+When he finally entered, two of his children—Bob who was eight, and Maxene who was seventeen—had already arrived from their daily excursion to the consolidated school and high school. The bus had brought them home, as usual. Lloyd, who was nineteen, would arrive from the State University tomorrow. Lloyd, the sensible one, who meant to become a veterinary surgeon. For Bob, of course, there was no hope at all—when it came to the aura that had invaded the household. He was just a breathless, saucer-eyed pushover. As for Maxene, who was blond, beautiful, and usually bored—well, she’d been mainly concerned with ways and means of sifting a suitable husband out of her collection of boyfriends. She seemed businesslike about it. David Jorgensen had hopes that Maxene wouldn’t be thrown off balance too much by the influence of August Larsen.
 
 As for Bobby Jorgensen could almost read his younger son’s mind by the petulant rapture in his face. Was it hard to see how something of the magic of Aladdin’s lamp seemed to rise out of the very paper of August Larsen’s letter, for him? Or how the demigods and heroes were stalking in his imagination, inspired by the thought that he would make friends with one of them? To him this must seem already to put a thrilling future into his small, chapped hands. He scowled fiercely from under his thatch of tow. No doubt this meant that he felt the cold silence between worlds, the thrust of rock-etships, the harsh, glamorous loneliness. Wonderful! No doubt he chopped his way through rotting Venusian jungles, and saw the rusty, windswept desolation of Mars, with the ruins that had been half fused to glassy lumps, ages ago. War was the way that its inhabitants, who had been nothing like men, had been wiped out. Jorgensen cursed the wild romanticism.
 
-Certainly Bob’s mind was among the asteroids, too— those fragments of a planet that had been blown up by splitting atoms at its center—maybe in a gigantic projectile. Bobby’s spine would be tingling gloriously. He knew all about it from scientific picture books. Whole chunks of landscape, miles in extent, had gone skvward with white-hot fire and the dissipating atmosphere. And the relics of the old civilization that had fought Mars were still on some of those chunks, preserved in the vacuum of space. Bob had said that Miss Harris talked about such things at school. And about how planets had been formed, with most of the uranium, gold, osmium, and other rich, heavy metals sinking to their centers, out of reach. But among the asteroids, all of this incalculable treasure was exposed—for those who were bold enough to go get it. Bobby no doubt knew, better than ever, that he was going there himself. He plainly felt like somebody favored by Jove—just because his Uncle Au-gie was coming to visit.
+Certainly Bob’s mind was among the asteroids, too—those fragments of a planet that had been blown up by splitting atoms at its center—maybe in a gigantic projectile. Bobby’s spine would be tingling gloriously. He knew all about it from scientific picture books. Whole chunks of landscape, miles in extent, had gone skvward with white-hot fire and the dissipating atmosphere. And the relics of the old civilization that had fought Mars were still on some of those chunks, preserved in the vacuum of space. Bob had said that Miss Harris talked about such things at school. And about how planets had been formed, with most of the uranium, gold, osmium, and other rich, heavy metals sinking to their centers, out of reach. But among the asteroids, all of this incalculable treasure was exposed—for those who were bold enough to go get it. Bobby no doubt knew, better than ever, that he was going there himself. He plainly felt like somebody favored by Jove—just because his Uncle Au-gie was coming to visit.
 
 He stared at Dave with big, utterly awed eyes, and he said solemnly: “He’ll be here, Pa. Till tomorrow is not so long to wait, is it?”
 
@@ -3996,7 +4000,7 @@ Maxene was at the telephone—equipped with a visi-attachment over which, for fe
 
 “Nothing much new around here, Clyde,” she said musically. “It's really dull. Though my Uncle August is coming. Yes—from Vesta. You know—in space. Of course he’s ancient. Almost thirty. A roughneck, I suppose. Would you like to meet him? Maybe we could save him an evening, and try to find him a similar roughneck friend from our own set. Barney Coombs, for instance—the lug who plays football, and is always talking about dull things like other worlds. We could bring him out here some night. Maybe we could duck out, ourselves. But it might be better to stay—for politeness, Clyde.”
 
-And David Jorgensen thought, with a certain admiration, of the deviousness of the methods of a woman— even when she was very young. Manipulating her beaux, feigning disinterest in things which were uppermost in her mind—to arouse interest. Jorgensen knew now that Maxene was in Augie’s camp, too. She was fascinated by the glamour of interplanetary distance. Almost like Bob.
+And David Jorgensen thought, with a certain admiration, of the deviousness of the methods of a woman—even when she was very young. Manipulating her beaux, feigning disinterest in things which were uppermost in her mind—to arouse interest. Jorgensen knew now that Maxene was in Augie’s camp, too. She was fascinated by the glamour of interplanetary distance. Almost like Bob.
 
 When she had finished her phone conversation, she smiled slyly up at her father. “Clyde is a little cut-and-dried, Dad,” she said. “Wants to carry on with his folks’ grocery business. I mean to help change him. There could be a place Out There, for a girl, too.”
 
@@ -4054,7 +4058,7 @@ Leave it to a kid like Bobby, losing some of his bashfulness, now, to say: “Un
 
 First there were hundreds of photographs in color: Of strange desert sunsets, with stone ruins looming; of buildings that no beings with human shape could ever have lived in; and of the asteroids. Part of the surface of one showed rows—Iike an unplowed cornfield in late autumn. There was even some kind of stubble, blackened and charred by the dehydration that had to go on in space.
 
-“You’ve all heard about things like this,” August Larsen explained, looking like an old Viking after a long voyage. “Part of the surface of the original planet, preserved for millions of years after the explosion. It must have happened very quickly. The flash of terrible heat was too brief to cause as much destruction of small things as you might think. The atmosphere of the planet dissipated into space at once. So everything was kept in a vacuum. There’s even an old village in the background of this picture. And bodies have been found— dried and mummified by space. Not human, of course. Blackened and crumpled up. But still with fabric and ornaments on them. Here’s a picture of one—”
+“You’ve all heard about things like this,” August Larsen explained, looking like an old Viking after a long voyage. “Part of the surface of the original planet, preserved for millions of years after the explosion. It must have happened very quickly. The flash of terrible heat was too brief to cause as much destruction of small things as you might think. The atmosphere of the planet dissipated into space at once. So everything was kept in a vacuum. There’s even an old village in the background of this picture. And bodies have been found—dried and mummified by space. Not human, of course. Blackened and crumpled up. But still with fabric and ornaments on them. Here’s a picture of one—”
 
 Mattie and Maxene shuddered visibly. Bobby stared. Clyde Winters, Barney Coombs, and Lloyd Jorgensen leaned forward like yokels, their mouths agape.
 
@@ -4074,7 +4078,7 @@ Augie ate wonderfully at supper. And afterward, as he played old Christmas music
 
 But Dave’s sudden charity toward Augie, soon began to show fresh doubts. For one thing, Augie drew him aside and said: “Dave—Mattie told me. George Munz is being difficult. Bet I could talk sense into him. Anything to repay past favors to you, Dave.”
 
-That with a cocky and self-assured grin. Yeah— when Munz looked upon August Larsen as a screwball. Oh, sure!
+That with a cocky and self-assured grin. Yeah—when Munz looked upon August Larsen as a screwball. Oh, sure!
 
 And the next morning, Bobby’s arms were covered with a red rash—an allergy, the doctor said. Probably some taint brought from Mars. But it didn’t make the kid any less enthusiastic.
 
@@ -4272,7 +4276,7 @@ But long before that, a lonely, discarded feeling had come over David Jorgensen.
 
 Daily he explored his farm for strange growths, for the law still hung over him—and the dangers it was meant to guard against. Department of Agriculture inspectors still came to see him. A few times he ripped horny, gray-green things out of the frozen ground, and burned them to ashes, sighing with relief as if he had killed a deadly enemy. But the day came when he was sure that the taint was stamped out. It made him feel rather strange.
 
-Maybe that was why, when in early February he went into his woods again, the goose pimples that rose on his flesh at what he saw in a place which he must have missed before, did not smooth out so soon. For a strange thrill had come into his blood, a kind of defiance, and a hope. Already he had been to the Ridge Falls library, reading books and scientific reports— searching. He didn’t like the idea of breaking the law. More important, he knew that he had to be careful and responsible, while messing around with a danger that might affect farmers everywhere on Earth. Yet he’d found a dream and an adventure. And now, instead of hurrying for his blowtorch, he made his way back through the woods, and without even changing his clothes, hastened to town and the library again.
+Maybe that was why, when in early February he went into his woods again, the goose pimples that rose on his flesh at what he saw in a place which he must have missed before, did not smooth out so soon. For a strange thrill had come into his blood, a kind of defiance, and a hope. Already he had been to the Ridge Falls library, reading books and scientific reports—searching. He didn’t like the idea of breaking the law. More important, he knew that he had to be careful and responsible, while messing around with a danger that might affect farmers everywhere on Earth. Yet he’d found a dream and an adventure. And now, instead of hurrying for his blowtorch, he made his way back through the woods, and without even changing his clothes, hastened to town and the library again.
 
 ^^en he came back, he said to his wife: “Mattie . . . this afternoon . . . right now . . . I want you to take a walk with me.”
 
@@ -4286,7 +4290,7 @@ Yet there was another, stronger sensation in David Jorgensen’s nerves. Thrilli
 
 “Go ahead, Mattie—taste it,” he urged. “It’s good! These are Hellas Apples. On Mars the colonists eat ’em all the time. They could become popular, here.”
 
-Mattie looked very scared. “But . . . good night, Dave!” she quavered. “We’ve got to bum this thing down—or its seeds will spread its ■ kind all over the country—and choke other plants out!”
+Mattie looked very scared. “But . . . good night, Dave!” she quavered. “We’ve got to burn this thing down—or its seeds will spread its ■ kind all over the country—and choke other plants out!”
 
 Dave shook his head. “It seems not, Mattie,” he told her. “Tests have been in progress for a long time—on Mars. The equivalent of an Earthly spring and summer climate—duplicated in laboratories—are against these Hellas Apple plants. Too warm and humid for too long. Besides, terrestrial soil bacteria, too active from April to October, would destroy them down to the last seed and root. This much has been proven—to have a basis on which to change a law. And now it has just been changed, Mattie. Augie must have known it might be changed, as, for a while, I’ve hoped it would be, too. Other, even tougher Martian growths remain on the danger list. But Hellas Apples may now be grown on Earth!”
 
@@ -4340,7 +4344,7 @@ Her defiance was quiet and almost playful—yet definite. He knew his Brenda, ye
 
 And what she was blended with all that was around her, and its projections. Like everybody, she clutched at a richness of life that was now so much widened. In her, still, this took the form of soft beautiful things and moods matching. The curved and tasteful line, the chip of music. The luxury whose quiet swiftness bestowed a sense of power, wielded casually as some lesser god might do. He knew the appeal of all that. In a childish gaiety you became like an elf among elfin companions. But when you were through with the spirit of this, it assumed the fuzzy taste of an ancient hangover, infinitely extended. It omitted too much. And time was too long, now.
 
-He wondered if women had greater resistance to this kind of boredom than men. Perhaps here they were more civilized. He could see how it was with Brenda. It was her job to design beauty. Then she had her social life, her tennis, and most of all, her house. Here were the elements of a woman’s psychological castle— anciently, now, and forever. The peaceful, narrow nest; the place for children. It marked out civilized security against bewildering vastness. Yet it was to be defended savagely.
+He wondered if women had greater resistance to this kind of boredom than men. Perhaps here they were more civilized. He could see how it was with Brenda. It was her job to design beauty. Then she had her social life, her tennis, and most of all, her house. Here were the elements of a woman’s psychological castle—anciently, now, and forever. The peaceful, narrow nest; the place for children. It marked out civilized security against bewildering vastness. Yet it was to be defended savagely.
 
 How old was the conflict between this kind of feminine stubbornness and man’s nomad impulse, shaggy and improvident? Still, how often had men yielded their heritage to follow their mates’ scheme of things, like tame lapdogs? How many of them had been grateful for this balancing force? And yet, in more mortal times, how many had entered the twilight of life regretting that they had missed so much?
 
@@ -4362,7 +4366,7 @@ Then there were the long years of rebuilding the world—in the form of utopia t
 
 “Remember, Brenda?” he said. “The smell of cigarettes and sweat inside the helmet of a space armor. The deep blue sky of Mars. The ruins. It was a cold, dry little planet. But we and the others scraped up the thin hoarfrost and snow with shovels, there at the south polar cap, to get water to drink. Our bunch put up one of the first twenty airdomes. We began a settlement, sealed away from the dead atmosphere. We worked like slaves with our own blessed hands, and loved it. We felt that maybe we were accomplishing something . . .”
 
-“And then,” Brenda commented, “after seven Terran years with the colonial crowd, you swore that you’d never leave Earth again. That people struggled to build civilization, and that, by gosh, you’d become civilized at last! That you’d have a house, a garden, and work your hour a day at the controls of a factory, and that, aside from tennis and fishing, you’d spend all of your other time in cultural pursuits—studying, reading, writing— and maybe even leading to play the medieval lute! No, I’m not arguing, Ben. The proof of never being settled for long is too old.”
+“And then,” Brenda commented, “after seven Terran years with the colonial crowd, you swore that you’d never leave Earth again. That people struggled to build civilization, and that, by gosh, you’d become civilized at last! That you’d have a house, a garden, and work your hour a day at the controls of a factory, and that, aside from tennis and fishing, you’d spend all of your other time in cultural pursuits—studying, reading, writing—and maybe even leading to play the medieval lute! No, I’m not arguing, Ben. The proof of never being settled for long is too old.”
 
 Sharp guilt dug into him. But his laugh tried to soothe the bitterness behind her humor.
 
@@ -4512,7 +4516,7 @@ The liner swung outward to Titan, largest of Satan’s numerous satellites. Ther
 
 Instructions and equipment were issued. There was time for rest. Then various courses of training began.
 
-Titan was no longer cold and lifeless. Ten years ago the great air machines had been set up. Torrents of oxygen had already been wrested from the frozen strata of carbon dioxide, and from the silicates of the rocks— even the silicon itself was transmuted—to decompose the poisonous methane and ammonia gases of the original atmosphere, and to make breathing possible here without space armor. And there was artificial sunlight, now, supplementing the weak rays of the distant Sun. For a large manmade moon of a moon already swung steadily around Titan two thousand kilometers above its mountains and plains. The surface of this sphere was metal, kept incandescent by a slow atomic process.
+Titan was no longer cold and lifeless. Ten years ago the great air machines had been set up. Torrents of oxygen had already been wrested from the frozen strata of carbon dioxide, and from the silicates of the rocks—even the silicon itself was transmuted—to decompose the poisonous methane and ammonia gases of the original atmosphere, and to make breathing possible here without space armor. And there was artificial sunlight, now, supplementing the weak rays of the distant Sun. For a large manmade moon of a moon already swung steadily around Titan two thousand kilometers above its mountains and plains. The surface of this sphere was metal, kept incandescent by a slow atomic process.
 
 Five hundred hours after the landing, Brenda and he drove an ato truck along a valley to an assigned area far out in the wilderness. Here a stream that had been ice for eons now flowed into a new lake. In the volcanic ash, seeds specially cultured for Titan had been scattered by planes. Along the lake, they had already grown into low bushes.
 
@@ -4520,7 +4524,7 @@ But the scene was still utterly dreary, matching his own bitter frustration and 
 
 Now it sounded trite, silly—a feeble attempt to explain the relationship of man to a universe that was too enormous. Yet he had to believe it, didn’t he?
 
-But the barren gray hills spread around him. And the only sounds were the rustle of the wind and the lap of water. He had dragged himself out here. And Brenda— so used to other things. It was his doing, his fault. He had left the rich, mellow Earth for this.
+But the barren gray hills spread around him. And the only sounds were the rustle of the wind and the lap of water. He had dragged himself out here. And Brenda—so used to other things. It was his doing, his fault. He had left the rich, mellow Earth for this.
 
 ‘‘Let’s get to work,” he growled, because there was nothing else to say.
 
@@ -4582,7 +4586,7 @@ Young Joe Dayton, fresh from Earth and full of Mars-wonder, asked him a stock qu
 
 But at the fourth winter’s end, Dave Kort did not return. No one ever saw him again, nor found among the mins and the quiet pastel hues of Mars the dried thing that had been Kort. Somewhere drifting dust had buried it. No one had quite understood him in life. If any affection had been aimed at him, it was for a story, not a man. The man died but the story thrived.
 
-Dave Kort had lived off this wilderness, alone and with sketchy ^artificial aids, for three Martian years— almost six by Earth reckoning. It was quite a feat. For one thing, the open air of Mars has a pressure of only one-ninth of the terrestrial, and above ground it contains but a trace of oxygen.
+Dave Kort had lived off this wilderness, alone and with sketchy ^artificial aids, for three Martian years—almost six by Earth reckoning. It was quite a feat. For one thing, the open air of Mars has a pressure of only one-ninth of the terrestrial, and above ground it contains but a trace of oxygen.
 
 How Kort had ^turned the frick was not completely inconceivable.
 
@@ -4602,7 +4606,7 @@ Yes, this was a point which Dayton had often wondered about, frowning with thick
 
 Dayton favored another explanation as the main one.
 
-“Why, Doc?” he said to Lorring, as they played cards in the rec hall. “The answer is in all of us, here. Or we would never have come to Mars. Where was there ever such a place of history, enigma, weird beauty, fascination to men? You can’t be neutral. Hating Mars, you’d never stay. Half loving it, like most of us, you would— for a while. Loving it, you’d want a much closer look than is possible at Port Laribee, from which we sally forth like rubbernecks. Too bad that Mars is too rough for men, in the long run. Too bad that the Martians are extinct. Once there were even machines to maintain a better climate.”
+“Why, Doc?” he said to Lorring, as they played cards in the rec hall. “The answer is in all of us, here. Or we would never have come to Mars. Where was there ever such a place of history, enigma, weird beauty, fascination to men? You can’t be neutral. Hating Mars, you’d never stay. Half loving it, like most of us, you would—for a while. Loving it, you’d want a much closer look than is possible at Port Laribee, from which we sally forth like rubbernecks. Too bad that Mars is too rough for men, in the long run. Too bad that the Martians are extinct. Once there were even machines to maintain a better climate.”
 
 Other specialists were within hearing. They laughed, but they knew what Dayton meant. They’d seen the dun deserts, the great graven monoliths, dust-scoured, the heaps of rust. Being here had the charm of a quest for ancient treasure, marked by the mood of death.
 
@@ -4664,7 +4668,7 @@ His crooned words, finding their way through the thin texture of two air-hoods a
 
 Reassurance failed. “Lemme go!” the boy snarled blurredly, his speech rusted by solitude. Helped by his father, he had learned the tricks of survival here. His dimmed past was so different from his present life that perhaps it seemed fearfully alien to him. As he bore the struggling boy to the tractor vehicle, Dayton had the odd idea that a Martian, trapped by a man, might behave like this.
 
-He recalled old y^s of boys raised by wolves or apes. Here was the same simple loss of human ways— not by soul migration, but the plain molding of habit by a bizarre environment.
+He recalled old y^s of boys raised by wolves or apes. Here was the same simple loss of human ways—not by soul migration, but the plain molding of habit by a bizarre environment.
 
 At the Port Laribee hospital, Will Terry was at first least disturbed when left alone. But his whimpers at night reminded Dayton of the mewling of a Martian storm.
 
@@ -4914,7 +4918,7 @@ I have only the vaguest recollection of writing “Hotel Cosmos”—perhaps I w
 
 “Magician of Dream Valley” was also written in New Orleans, about the same time as “Seeds of the Dusk.” H wildlife preservation has become much more emphasized since 1938, most of its elements and arguments already existed then. So I was not all that forward looking. Remembering perhaps the brutal demise of the passenger pigeon, I merely added my portion of protest and regret. Any radioactive process was already known to be dangerous, of course, though the release of atomic energy on any serious scale had not yet been accomplished.
 
-“The Shadow of the Veil” was done in Paris, after my wanderings had begun. Searching, as always for new ideas, I had been fooling with novel arrangements in the format of other solar systems. So why not a mass of cosmic dust in a planetary orbit, one which, periodically, at long intervals, would shadow the surface of another planet, plunging it into semidarkness and deep cold? The inhabitants would have to adapt to this cycle, giving them an advantage over intruding humans. Being generally sympathetic to the different and oppressed— in such cases where this is a valid condition—the side I took was automatic.
+“The Shadow of the Veil” was done in Paris, after my wanderings had begun. Searching, as always for new ideas, I had been fooling with novel arrangements in the format of other solar systems. So why not a mass of cosmic dust in a planetary orbit, one which, periodically, at long intervals, would shadow the surface of another planet, plunging it into semidarkness and deep cold? The inhabitants would have to adapt to this cycle, giving them an advantage over intruding humans. Being generally sympathetic to the different and oppressed—in such cases where this is a valid condition—the side I took was automatic.
 
 “The Lotus-Engine” was finally assembled in Paris, too, from scribbled notes and fragments I’d jotted down and stuffed in my rucksack, during a summer of youth-hosteling around in France, Switzerland, Italy, and Hitler’s Germany. The connection with this experience may be bard to find. Actually, I wearied of trying to join up a scattering of ideas, and the story became much simpler than I had originally intended. I think the seed notion of the y^ was my rather symbolic mind image of this strange, primitive solar engine, put into operation anachronistically, after ages. There it worked again, for its ominous, mysterious purpose. So the balance of the story was a figuring out of the intent and its soothing effects. Perhaps even a terrible and pointless struggle of a people can be made to seem beautiful, if a bright dream is used as an inducement—though the dream may be false.
 

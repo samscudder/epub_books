@@ -1732,7 +1732,7 @@ A wandering group of carolers came by; I gave my contribution to the guitarist. 
 
 I gestured after the carolers. “That. Christmas. The whole sentimental, lovable, warmhearted business of Christmas. Lilymary, we’ve only known each other a short time, but——”
 
-She interrupted: “Please Mr. Martin. I—I know what you’re going to say.” She looked terribly appealing there in the Christmassy light of the red and green lights from the Tree that marked the subway entrance. Her pale, straight legs, hardly concealed by the shorts, picked up chromatic highlights; her eyes sparkled. She said, “You see, as Daddy says, we’ve been away from—civilization. Daddy is a missionary, and we’ve been with the Dyaks since I was a little girl. Gretch and Marlene and Corinne were bom there. We—we do things differently on Borneo.” She looked up at the Tree over us, and sighed. “It’s very hard to get used to,” she said. “Sometimes I wish we had stayed with the Dyaks.”
+She interrupted: “Please Mr. Martin. I—I know what you’re going to say.” She looked terribly appealing there in the Christmassy light of the red and green lights from the Tree that marked the subway entrance. Her pale, straight legs, hardly concealed by the shorts, picked up chromatic highlights; her eyes sparkled. She said, “You see, as Daddy says, we’ve been away from—civilization. Daddy is a missionary, and we’ve been with the Dyaks since I was a little girl. Gretch and Marlene and Corinne were born there. We—we do things differently on Borneo.” She looked up at the Tree over us, and sighed. “It’s very hard to get used to,” she said. “Sometimes I wish we had stayed with the Dyaks.”
 
 Then she looked at me. She smiled. “But sometimes,” she said, “I am very glad we’re here.” And she was gone.
 
@@ -1750,7 +1750,7 @@ It meant overtime, and that meant that I didn’t have as much time as I would l
 
 But she was never out of my thoughts. There was something about her that appealed to me. A square, yes. Unworldly, yes. Her family? A Victorian horror; but they were *her* family. I determined to get them on my side, and by and by I began to see how.
 
-“Miss Hargreave,” I said formally, coming out of my office. We stepped to one side, in a comer under the delivery chutes. The rumble of goods overhead gave us privacy. I said, “Lilymary, you’re taking this Sunday off, as usual? May I come to visit you?”
+“Miss Hargreave,” I said formally, coming out of my office. We stepped to one side, in a corner under the delivery chutes. The rumble of goods overhead gave us privacy. I said, “Lilymary, you’re taking this Sunday off, as usual? May I come to visit you?”
 
 She hesitated only a second. “Why, of course,” she said firmly. “We’d be delighted. For dinner?”
 
@@ -4837,7 +4837,7 @@ I finished scraping the dishes into the garbage-disposer and stacked them in the
 
 “Well, sure,” I said reasonably. “I never met them, did I, Grandy?”
 
-“No, George. At least, I don’t believe they’ve been home much these last few years. Grandy Timothy was here in ’86, but I don’t believe you were bom yet. Come to think of it, even your dad wasn’t bom by then.”
+“No, George. At least, I don’t believe they’ve been home much these last few years. Grandy Timothy was here in ’86, but I don’t believe you were born yet. Come to think of it, even your dad wasn’t born by then.”
 
 “Dad’s sixty,” I told him. “I’m twenty-one.”
 
@@ -5582,7 +5582,7 @@ He led Pulcher behind the store, to a three-room apartment. The living room was 
 
 Pulcher chatted with them for a minute, while the woman fussed over a teapot and a plate of soft cookies. He was trying to get the feel of the home. He could understand Madeleine Gaultry’s desperation, he could understand the Foltis boy, a misfit in society anywhere. What about Jimmy Lasser?
 
-The elder Lassers were both pushing sixty. They were first-generation Niners, off an Earth colonizing ship. They hadn’t been bom on Earth, of course—the trip took nearly a hundred years, physical transport. They had been bom in transit, had married on the ship. As the ship had reached maximum population level shortly after they were bom, they were allowed to have no children until they landed. At that time they were all of forty. May Lasser said suddenly, “Please help our boy, Mr. Pulcher! It isn’t Jimmy’s fault. He got in with a bad crowd. You know how it is: no work, nothing for a boy to do.”
+The elder Lassers were both pushing sixty. They were first-generation Niners, off an Earth colonizing ship. They hadn’t been born on Earth, of course—the trip took nearly a hundred years, physical transport. They had been born in transit, had married on the ship. As the ship had reached maximum population level shortly after they were born, they were allowed to have no children until they landed. At that time they were all of forty. May Lasser said suddenly, “Please help our boy, Mr. Pulcher! It isn’t Jimmy’s fault. He got in with a bad crowd. You know how it is: no work, nothing for a boy to do.”
 
 “I’ll do my best.” But it was funny, Pulcher thought, how it was always “the crowd” that was bad. It was never Jimmy—and never Avery, never Sam, never Walter. Pulcher sorted out the five boys and remembered Jimmy: nineteen years old, quite colorless, polite, not very interested. What had struck the lawyer about him was only surprise that this rabbity boy should have had the enterprise to get into a criminal conspiracy in the first place.
 
@@ -5743,7 +5743,7 @@ They had stripped him, weighed him, fluorographed him, taken samples of his bloo
 
 Pulcher said honestly: “I don’t know what you’re talking about.” But then he remembered. While a person’s body was rented out there was the problem of what to do with his own mind and personality. It couldn’t stay in the body. It had to go somewhere else. “The tank” was a storage device, only that and nothing more; the displaced mind was held in a sort of pickling vat of transistors and cells until its own body could be returned to it. He remembered a client of his boss’s, while he was still clerking, who had spent eight weeks in the tank and had then come out to commit a murder. No. Not the tank. He said, coughing, “What else is there?”
 
-The nurse said impatiently, “Golly, whatever you want, I guess. They’ve got a big call for miners operating the deep gas generators right now, if you want that. It’s pretty hot, is all. They bum the coal into gas, and of course you’re right in the middle of it. But I don’t think you feel much. Not too much. I don’t know about sailing or rocketing, because you have to have some experience for that. There might be something with the taxi company, but I ought to tell you usually the renters don’t want that, because the live drivers don’t like seeing the machines running cabs. Sometimes if they see a machine-cab they tip it over. Naturally, if there’s any damage to the host machine it’s risky for you.”
+The nurse said impatiently, “Golly, whatever you want, I guess. They’ve got a big call for miners operating the deep gas generators right now, if you want that. It’s pretty hot, is all. They burn the coal into gas, and of course you’re right in the middle of it. But I don’t think you feel much. Not too much. I don’t know about sailing or rocketing, because you have to have some experience for that. There might be something with the taxi company, but I ought to tell you usually the renters don’t want that, because the live drivers don’t like seeing the machines running cabs. Sometimes if they see a machine-cab they tip it over. Naturally, if there’s any damage to the host machine it’s risky for you.”
 
 Pulcher said faintly, “I’ll try mining.”
 
@@ -5779,7 +5779,7 @@ A great steel bug swam up in front of him and said raspingly, “All right, you 
 
 Experimentally Pulcher tried to talk. “Watch it!” squeaked a thin little voice, and a tiny, many-treaded steel beetle squirmed out from under his tracks. It paused to rear back and look at him. “Dope!” it chattered scathingly. A bright flame erupted from its snout as it squirmed away.
 
-The big bug rasped, “Go on, follow the burner, Mac.” Pulcher thought of walking, rather desperately. Yes. Something was happening. He lurched and moved. “Oh, God,” sighed the steel bug, hanging beside him, watching with critical attention. “This your first time? I figured. They *always* give me the new ones to break in. Look, that burner—the little thing that just went down the cline, Mac! That’s a burner. It’s going to bum the hard rock out of a new shaft. You follow it and pull the sludge out. With your *buckets*, Mac.”
+The big bug rasped, “Go on, follow the burner, Mac.” Pulcher thought of walking, rather desperately. Yes. Something was happening. He lurched and moved. “Oh, God,” sighed the steel bug, hanging beside him, watching with critical attention. “This your first time? I figured. They *always* give me the new ones to break in. Look, that burner—the little thing that just went down the cline, Mac! That’s a burner. It’s going to burn the hard rock out of a new shaft. You follow it and pull the sludge out. With your *buckets*, Mac.”
 
 Pulcher gamely started his treads and lurchingly fol-’ lowed the little burner. All around him, visible through the churned, silty water, he caught glimpses of other machines working. There were big ones and little ones, some with great elephantine flexible steel trunks that sucked silt and mud away, some with wasp’s stingers that planted charges of explosive, some like himself with buckets for hauling and scooping out pits. The mine, whatever sort of mine it was to be, was only a bare scratched-out beginning on the sea floor as yet. It took him—an hour? a minute? he had no means of telling time—to learn the rudiments of operating his new steel body.
 
@@ -6027,7 +6027,7 @@ The girl and her five accomplices were where he had left them. The private bar w
 
 The boys were showing nervousness in their separate ways. Although they had been convicted hardly more than a day, had been sentenced only a few hours, they had fallen quickly into the convict habit. Being out on bail so abruptly was a surprise. They hadn’t expected it.
 
-It made them nervous. Young Folds was jittering about, muttering to himself. The Hopgood boy was slumped despondently in a comer, blowing smoke rings. Jimmy Lasser was making a castle out of sugar cubes.
+It made them nervous. Young Folds was jittering about, muttering to himself. The Hopgood boy was slumped despondently in a corner, blowing smoke rings. Jimmy Lasser was making a castle out of sugar cubes.
 
 Only Madeleine was relaxed.
 
@@ -6101,7 +6101,7 @@ They were whispers, he could hear them. The words were more or less right, but h
 
 “The fact of the matter, ladies and gentlemen, is that just about every tourist that’s come to Altair Nine this past year is the personal responsibility of Charley Dickon. Who have these tourists been? They haven’t been businessmen—there’s no business. They haven’t been hunters. Ask Phil Lasser, over there; he hasn’t sold enough fishing equipment to put in your eye. Ask yourselves, for that matter. How many of you have seen air-fish right over the city? Do you know why? Because they aren’t being hunted any more! There aren’t any tourists to hunt them.”
 
-The time had come to give it to them straight. “The fact of the matter, ladies and gentlemen, is that the tourists we’ve had haven’t been tourists at all. They’ve been natives, from right here on Altair Nine. Some of them are right in this room! I know that, because I rented myself for a few days—and do you know who took my body? Why, Charley did. Charley himself!” He was watching Lew Yoder out of the comer of his eye. The assessor’s face turned gray; he seemed to shrink. Pulcher enjoyed the sight, though. After all, he had a certain debt to Lew Yoder; it was Yoder’s slip of the tongue that had finally started him thinking on the right track. He went on hastily: “And what it all adds up to, ladies and gentlemen, is that Charley Dickon, and a handful of his friends in high places—most of them right here in this room—have cut off communication between Altair Nine and the rest of the Galaxy!”
+The time had come to give it to them straight. “The fact of the matter, ladies and gentlemen, is that the tourists we’ve had haven’t been tourists at all. They’ve been natives, from right here on Altair Nine. Some of them are right in this room! I know that, because I rented myself for a few days—and do you know who took my body? Why, Charley did. Charley himself!” He was watching Lew Yoder out of the corner of his eye. The assessor’s face turned gray; he seemed to shrink. Pulcher enjoyed the sight, though. After all, he had a certain debt to Lew Yoder; it was Yoder’s slip of the tongue that had finally started him thinking on the right track. He went on hastily: “And what it all adds up to, ladies and gentlemen, is that Charley Dickon, and a handful of his friends in high places—most of them right here in this room—have cut off communication between Altair Nine and the rest of the Galaxy!”
 
 That did it.
 
@@ -7343,7 +7343,7 @@ So what I should have concentrated on in Belport was the bright, irrational, dis
 
 It was interesting to consider in just how many ways I had done the wrong thing. Including maybe the wrongest of all: I had let Candace Harmon get away. And then in these thoughts, myself almost despising, haply the door chimed, and I opened it, and there was this fellow in Space Force olive-greens saying, “Come along, Mr. Gunnarsen, the Truce Team wants to talk to you.” For one frozen moment there, I was nineteen years old again. I was a Rocketman 3/c on the Moon, guarding the Aristarchus base against invaders from outer space. (We thought that to be a big joke at the time. Shows how unfunny a joke can turn.) This fellow was a colonel, and his name was Peyroles, and he took me down the corridor, to a private elevator I had never known was there, up to the flat dome of the mushroom and into a suite that made my suite look like the cellar under a dog run in Old Levittown. The reek was overpowering. By then I had gotten over my quick response to the brass, and I took out a ker-pak and held it to my nose. The colonel did not even look at me.
 
-“Sit down!” barked the colonel, and left me in front of an unlighted fireplace. Something was going on; I could hear voices from another room, a lot of them: “—burned one in effigy, and by God we’ll bum a real one—”
+“Sit down!” barked the colonel, and left me in front of an unlighted fireplace. Something was going on; I could hear voices from another room, a lot of them: “—burned one in effigy, and by God we’ll burn a real one—”
 
 “—smells like a skunk—”
 

@@ -324,7 +324,7 @@ the_reality_of_philip_k_dick
 # The Reality of Philip K. Dick
 
 .fl
-<span class="smallcaps">Not long ago</span> I was invited to a meeting of the Cambridge University Science Fiction Society. The time arrived for questions from the audience, and— inevitably—someone asked: “Who is your own favorite among science-fiction writers?”
+<span class="smallcaps">Not long ago</span> I was invited to a meeting of the Cambridge University Science Fiction Society. The time arrived for questions from the audience, and—inevitably—someone asked: “Who is your own favorite among science-fiction writers?”
 
 I answered as I have been answering for lo! these many years: “Philip Dick.”
 
@@ -340,7 +340,7 @@ You simply can’t.
 
 Mark you, Dick’s world is rarely prepossessing. Most of the time it is deserted—call out, and only echo answers. There are lovely things in it, admittedly, but they are uncared for; at best they are dusty, and often they are crumbling through neglect. Food here is tasteless and does not nourish. Signposts point to places you do not wish to visit. Clothing is drab, and frays at embarrassing moments. The drugs prescribed by your doctor have such side effects that they are a remedy worse than the disease. No, it is not a pleasant or attractive world.
 
-Consequently, his readers are extremely disconcerted when they abruptly recognize it for what it is: the world we all inhabit. Oh, the trimmings have been altered— the protagonist commutes by squib or flapple and argues with the vehicle’s robot brain enroute—but that’s so much verbal window dressing.
+Consequently, his readers are extremely disconcerted when they abruptly recognize it for what it is: the world we all inhabit. Oh, the trimmings have been altered—the protagonist commutes by squib or flapple and argues with the vehicle’s robot brain enroute—but that’s so much verbal window dressing.
 
 And yet, and yet . . . it *is* different. Because we are shown it from a viewpoint which, in the strict sense of the term, is peculiar.
 
@@ -499,7 +499,9 @@ Captain Franco appeared at the door.
 
 “Let’s have a look at it.” He advanced, squinting critically. “You got this for fifty cents?”
 
-“Yes, sir,” Peterson said. “It eats almost anything. I fed it on grain and it liked that. And then potatoes, and mash, and scraps from the table, and milk. It seems to enjoy eating. After it eats it lies down and goes to sleep.” “I see,” Captain Franco said. “Now, as to its taste. That’s the real question. I doubt if there’s much point in fattening it up any more. It seems fat enough to me already. Where’s the cook? I want him here. I want to find out—”
+“Yes, sir,” Peterson said. “It eats almost anything. I fed it on grain and it liked that. And then potatoes, and mash, and scraps from the table, and milk. It seems to enjoy eating. After it eats it lies down and goes to sleep.”
+
+“I see,” Captain Franco said. “Now, as to its taste. That’s the real question. I doubt if there’s much point in fattening it up any more. It seems fat enough to me already. Where’s the cook? I want him here. I want to find out—”
 
 The wub stopped lapping and looked up at the Captain.
 
@@ -2038,7 +2040,9 @@ Back along the rise Klaus struggled with a ring of claws circling around him. He
 
 Hendricks struggled to his feet. His head ached. He could hardly see. Everything was licking at him, raging and whirling. His right arm would not move.
 
-Tasso pulled back toward him. “Come on. Let’s go.” “Klaus—he’s still up there.”
+Tasso pulled back toward him. “Come on. Let’s go.”
+
+“Klaus—he’s still up there.”
 
 “Come on!” Tasso dragged Hendricks back, away from the columns. Hendricks shook his head, trying to clear it. Tasso led him rapidly away, her eyes intense and bright, watching for claws that had escaped the blast.
 
@@ -2486,7 +2490,7 @@ paycheck
 
 “Back to the New York Office. Where you first met me. Remember? You probably remember it better than I. After all, it was just a day or so ago for you.”
 
-Jennings nodded. Two years! Two years out of his life, gone forever. It didn’t seem possible. He had still been considering, debating, when he stepped into the elevator. Should he change his mind? Even if he were getting that much money—and it was a lot, even for him— it didn’t really seem worth it. He would always wonder what work he had been doing. Was it legal? Was it— But that was past speculation, now. Even while he was trying to make up his mind the curtain had fallen. He looked ruefully out the'window at the afternoon sky. Below, the earth was moist and alive. Spring, spring two years later. And what did he have to show for the two years?
+Jennings nodded. Two years! Two years out of his life, gone forever. It didn’t seem possible. He had still been considering, debating, when he stepped into the elevator. Should he change his mind? Even if he were getting that much money—and it was a lot, even for him—it didn’t really seem worth it. He would always wonder what work he had been doing. Was it legal? Was it—But that was past speculation, now. Even while he was trying to make up his mind the curtain had fallen. He looked ruefully out the'window at the afternoon sky. Below, the earth was moist and alive. Spring, spring two years later. And what did he have to show for the two years?
 
 “Have I been paid?” he asked. He slipped his wallet out and glanced into it. “Apparently not.”
 
@@ -2542,7 +2546,9 @@ Kelly removed a small cloth sack and some sheets of handwritten paper from the d
 
 Jennings snatched up the cloth sack, pulling it opep He poured the contents into his palm. Kelly watchedj “Where’s Rethrick?” Jennings stood up. “If he has idea that this—”
 
-“RethncK had nothing to do with it It was your ow| request. Here, look at this.” Kelly passed him the sheen of paper. “In your own hand. Read them. It was voui idea, not ours. Honest” She smiled up at him. “Thii happens every once in a while with people we take oi contract During their time they decide to take soma thing else instead of money. Why, I don’t know. Bp they come out with their minds clean, having agreed—j Jennings scanned the pages. It was his own writing There was no doubt of it His hands shook. “I can’ believe it Even if it is my own writing.” He folded u] the paper, his jaw set “Something was done to me whill I was back there. I never would have agreed to this.” “You must have had a reason. I admit it doeeal make sense. But you don’t know what factors migfc have persuaded you, before your mind was cleaned You arer’t the first Them have been several others be fore you.”
+“RethncK had nothing to do with it It was your ow| request. Here, look at this.” Kelly passed him the sheen of paper. “In your own hand. Read them. It was voui idea, not ours. Honest” She smiled up at him. “Thii happens every once in a while with people we take oi contract During their time they decide to take soma thing else instead of money. Why, I don’t know. Bp they come out with their minds clean, having agreed—j Jennings scanned the pages. It was his own writing There was no doubt of it His hands shook. “I can’ believe it Even if it is my own writing.” He folded u] the paper, his jaw set “Something was done to me whill I was back there. I never would have agreed to this.”
+
+“You must have had a reason. I admit it doeeal make sense. But you don’t know what factors migfc have persuaded you, before your mind was cleaned You arer’t the first Them have been several others be fore you.”
 
 Jennings stared down at what he held in his pahr From the cloth sack he had spilled a little assortment o items. A code key. A ticket stub. A parcel receipt A length of fine wire. Half a poker ship, broken across. A green strip of cloth. A bus token.
 
@@ -2552,7 +2558,7 @@ He went oat of the building, onto the bcsv afternooi street He was still dazed, 
 
 been swindled? He felt in his pocket for the little trinkets, the wire, the ticket stub, all the rest. That, for two years of work! But he had seen his own handwriting, the statement of waiver, the request for the substitution. Like Jack and the Beanstalk. Why? What for? .What had made him do it?”
 
-He turned, starting down the sidewalk. At the comer he stopped for a surface cruiser that was turning.
+He turned, starting down the sidewalk. At the corner he stopped for a surface cruiser that was turning.
 
 “All right, Jennings. Get in.”
 
@@ -2580,7 +2586,9 @@ The officer leaned toward him. “Where is that Plant, Mr. Jennings? Where is it
 
 “I don’t know.”
 
-The two officers looked at each other. The first one moistened his lips, his face sharp and alert. “You don’t know? The next question. The last. In those two years, what kind of work did you do? What was your job?” “Mechanic. I repaired electronic machinery.”
+The two officers looked at each other. The first one moistened his lips, his face sharp and alert. “You don’t know? The next question. The last. In those two years, what kind of work did you do? What was your job?”
+
+“Mechanic. I repaired electronic machinery.”
 
 “What kind of electronic machinery?”
 
@@ -2632,7 +2640,7 @@ Jennings looked out the window. The three officers were still talking on the sid
 
 He glanced quickly around. Was there any escape? In a second they would be back. He touched the door. Locked, the triple-ring magnetic locks. He had worked on magnetic locks many times. He had even designed part of a trigger core. There was no way to open the doors without the right code key. No way, unless by some chance he could short out the lock. But with what?
 
-He felt in his pockets. What could he use? If he could short the locks, blow them out, there was a faint chance. Outside, men and women were swarming by, on their way home from work. It was past five; the great office building were shutting down, the streets were alive with traffic. If he once got out they wouldn’t dare fire. —If he could get out.
+He felt in his pockets. What could he use? If he could short the locks, blow them out, there was a faint chance. Outside, men and women were swarming by, on their way home from work. It was past five; the great office building were shutting down, the streets were alive with traffic. If he once got out they wouldn’t dare fire.—If he could get out.
 
 The three officers separated. One went up the steps into the Station building. In a second the others would reenter the cruiser. Jennings dug into his pocket, bringing out the code key, the ticket stub, the wire. The wire! Thin wire, thin as human hair. Was it insulated? He unwound it quickly. No.
 
@@ -2658,7 +2666,7 @@ He had plenty to think about. His mind was racing. The bus moved on, flowing wit
 
 With a piece of wire and a bus token he had escaped from the Security Police. That was worth plenty. ‘Money would have been useless to him once he disappeared inside the great stone Station. Even fifty thousand credits wouldn’t have helped him. And there were five trinkets left. He felt around in his pocket. Five more things. He had used two. The others—what were they for? Something as important?
 
-But the big puzzle: how had he—his earlier self— known that a piece of wire and a bus token would save his life? He had known, all right. Known in advance.
+But the big puzzle: how had he—his earlier self—known that a piece of wire and a bus token would save his life? He had known, all right. Known in advance.
 
 But how? And the other five. Probably they were just as precious, or would be.
 
@@ -2710,7 +2718,7 @@ The rocket let him off at the edge of town, at a tiny brown field. A few disinte
 
 Jennings crossed the field to the waiting room, studying the people around him. Ordinary people, workmen, businessmen, housewives. Stuartsville was a small middle Western town. Truck drivers. High school kids.
 
-He went through the waiting room, out onto the street. So this was where Rethrick’s Plant was located— perhaps. If he had used the stub correctly. Anyhow, *something* was here, or he wouldn’t have included the stub with the other trinkets.
+He went through the waiting room, out onto the street. So this was where Rethrick’s Plant was located—perhaps. If he had used the stub correctly. Anyhow, *something* was here, or he wouldn’t have included the stub with the other trinkets.
 
 Stuartsville, Iowa. A faint plan was beginning to form in the back of his mind, still vague and nebulous. He began to walk, his hands in his pockets, looking around him. A newspaper office, lunch counters, hotels, poolrooms, a barber shop, a television repair shop. A rocket sales store with huge showrooms of gleaming rockets. Family size. And at the end of the block the Portola Theater.
 
@@ -2746,7 +2754,9 @@ The young man crme back. “Is there arr- kind of work I can get here?” Jennin
 
 “There’s always farm work.’
 
-“How about retail repair shops? Garages. TV.” “There’s a TV repair shop down the street Maybe you might get something there. You could try. Farm work pays good. They can’t get many men. anymore. Most men in the military. You want to pitch hay?” Jennings laughed. He paid for his coffee. “Not very much. Thanks.”
+“How about retail repair shops? Garages. TV.”
+
+“There’s a TV repair shop down the street Maybe you might get something there. You could try. Farm work pays good. They can’t get many men. anymore. Most men in the military. You want to pitch hay?” Jennings laughed. He paid for his coffee. “Not very much. Thanks.”
 
 “Once in a while some of the men go up the road and work. There’s some sort of Government station.”
 
@@ -2908,7 +2918,9 @@ der the Government’s interested. If they can catch Reth-rick with the goods—
 
 “When I was working with Rethrick. I must have used the mirror. I looked into my own future. If I was repairing their equipment I cold hardly keep from it! I must have looked ahead, seen what was coming. The SP picking me up. I must have seen that, and seen what a piece of thin wire and a bus token would do—if I had them with me at the exact moment.”
 
-Kelly considered. “Well? What do you want me for?” “I’m not sure, now. Do you really look on Rethrick as a benevolent institution, waging war against the Police? A sort of Roland at Roncesvalles—”
+Kelly considered. “Well? What do you want me for?”
+
+“I’m not sure, now. Do you really look on Rethrick as a benevolent institution, waging war against the Police? A sort of Roland at Roncesvalles—”
 
 “What does it matter how I feel about the Company?”
 
@@ -2920,13 +2932,17 @@ Kelly considered. “Well? What do you want me for?” “I’m not sure, now. D
 
 “Help you blackmail the Company? Destroy Rethrick?”
 
-“No. Not destroy. I don’t want to destroy it—my life depends on the Company. My life depends on Rethrick being strong enough to defy the SP. But if I’m on the outside it doesn’t much matter how strong Rethrick is. Do you see? I want to get in. I want to get inside before it’s too late. And I want in on my own terms, not as a two-year worker who gets pushed out again afterward.” “For the Police to pick up.”
+“No. Not destroy. I don’t want to destroy it—my life depends on the Company. My life depends on Rethrick being strong enough to defy the SP. But if I’m on the outside it doesn’t much matter how strong Rethrick is. Do you see? I want to get in. I want to get inside before it’s too late. And I want in on my own terms, not as a two-year worker who gets pushed out again afterward.”
+
+“For the Police to pick up.”
 
 Jennings nodded. “Exactly.”
 
 “How are you going to blackmail the Company?”
 
-“I’m going to enter the Plant and carry out enough material to prove Rethrick is operating a time scoop.” Kelly laughed. “Enter the Plant? Let’s see you find the Plant. The SP have been looking for it for years.” “I’ve already found it.” Jeannings leaned back, lighting a cigarette. “I’ve located it with my trinkets. And I have four left, enough to get me inside, I think. And to get me what I want. I’ll be able to carry out enough papers and photographs to hang Rethrick: But I don’t want to hang Rethrick. I only want to bargain. That’s ■ where you come in.”
+“I’m going to enter the Plant and carry out enough material to prove Rethrick is operating a time scoop.” Kelly laughed. “Enter the Plant? Let’s see you find the Plant. The SP have been looking for it for years.”
+
+“I’ve already found it.” Jeannings leaned back, lighting a cigarette. “I’ve located it with my trinkets. And I have four left, enough to get me inside, I think. And to get me what I want. I’ll be able to carry out enough papers and photographs to hang Rethrick: But I don’t want to hang Rethrick. I only want to bargain. That’s ■ where you come in.”
 
 “I?”	■■	■■ ,
 
@@ -3046,7 +3062,7 @@ Jennings left the elevator, keeping behind the others, lethrick! His heart beat 
 
 Jennings’s heart almost stopped beating.
 
-There, beyond the steel door, was the time scoop. He ■ecognized it at once. The mirror. The long metal rods, rnding in claws. Like Berkowsky’s theoretical model— >nly this was real.
+There, beyond the steel door, was the time scoop. He ■ecognized it at once. The mirror. The long metal rods, rnding in claws. Like Berkowsky’s theoretical model—>nly this was real.
 
 Rethrick went into the room, the technicians following behind him. Men were working at the scoop, stand-ng all around it. Part of the shield was off. They were figging into the works. Jennings stared, hanging back.
 
@@ -3066,7 +3082,7 @@ It was now or never.
 
 Jennings sprinted, down the corridor, toward the great steel door. Behind there was a startled shout, the foreman and his helper. Jennings whipped out the code key, praying fervently as he ran. He came up to the door, holding out the key. With the other hand he brought out the Boris gun. Beyond the door was the time scoop. A few photographs, some schematics snatched up, and then, if he could get out—
 
-The door did not move. Sweat leaped out on his face. He knocked the key against the door. Why didn’t it open? Surely— He began to shake, panic rising up in him. Down the corridor people were coming, racing after him. Open—
+The door did not move. Sweat leaped out on his face. He knocked the key against the door. Why didn’t it open? Surely—He began to shake, panic rising up in him. Down the corridor people were coming, racing after him. Open—
 
 But the door did not open. The key he held in his hand was the wrong key.
 
@@ -3080,7 +3096,7 @@ A chill went through him. Maybe the future was vari-
 
 able. Maybe this had been the right key, once. But not anymore!
 
-There were sounds behind him. They were melting the storeroom door. Jennings scrambled through the emergency hatch, into a low concrete passage, damp and ill lit. He ran quickly along it, turning comers. It was like a sewer. Other passages ran into it, from all sides.
+There were sounds behind him. They were melting the storeroom door. Jennings scrambled through the emergency hatch, into a low concrete passage, damp and ill lit. He ran quickly along it, turning corners. It was like a sewer. Other passages ran into it, from all sides.
 
 He stopped. Which way? Where could he hide? The mouth of a major vent pipe gaped above his head. He caught hold and pulled himself up. Grimly, he eased his body into it. They’d ignore a pipe, go on past. He crawled cautiously down the pipe. Warm air blew into his face. Why such a big vent? It implied an unusual chamber at the other end. He came to a metal grill and stopped.
 
@@ -3094,7 +3110,7 @@ And there it was, all around him, the schematics, the mirror, papers, data, blue
 
 ’ He stuffed his pockets with papers. The film came to an end. But he was finished. He squeezed back into the vent, pushing through the mouth and down the tube. The sewerlike corridor was still empty, but there was an
 
-insistent drumming sound, the noise of voices and footsteps. So many passages— They were looking for him in a maze of escape corridors.
+insistent drumming sound, the noise of voices and footsteps. So many passages—They were looking for him in a maze of escape corridors.
 
 Jennings ran swiftly. He ran on and on, without regard to direction, trying to keep along the main corridor. On all sides passages flocked off, one after another, countless passages. He was dropping down, lower and lower. Running downhill.
 
@@ -3228,7 +3244,7 @@ Across from him was the entrance of a swank hotel, its neon sign glimmering. He 
 
 Jennings went up the stairs, into the hotel. He crossed the lobby. The clerk was staring at him. No one else was around. The lobby was deserted. His heart sank. He didn’t have a chance. He began to rim aimlessly, past the desk, along a carpeted hall. Maybe it led out some back way. Behind him, the SP men had already entered the lobby.
 
-Jennings turned a comer. Two men stepped out, blocking his way.
+Jennings turned a corner. Two men stepped out, blocking his way.
 
 “Where are you going?”
 
@@ -3605,9 +3621,9 @@ He lay back, thinking frantically, as the ship dropped slowly down. Under them w
 
 “Get ready,” Peters said.
 
-In a few minutes he would be dead. Down below he could see a tiny dot, a building of some kind. There were men in the building, the demolition team, waiting to tear him to bits. They would rip him open, pull off his arms and legs, break him apart. When they found no bomb they would be surprised; they would know, but it would be too late. ■
+In a few minutes he would be dead. Down below he could see a tiny dot, a building of some kind. There were men in the building, the demolition team, waiting to tear him to bits. They would rip him open, pull off his arms and legs, break him apart. When they found no bomb they would be surprised; they would know, but it would be too late.
 
-Olham looked around the small cabin. Nelson was still holding the gun. There was no chance there. If he could get to a doctor, have an examination made—that was the only way. Mary could help him. He thought frantically, his mind racing. Only a few minutes, just a little time left. If he could contact her, get word to her someway. :
+Olham looked around the small cabin. Nelson was still holding the gun. There was no chance there. If he could get to a doctor, have an examination made—that was the only way. Mary could help him. He thought frantically, his mind racing. Only a few minutes, just a little time left. If he could contact her, get word to her someway.
 
 “Easy,” Peters said. The ship came down slowly, bumping on the rough ground. There was silence.
 
@@ -3619,7 +3635,7 @@ Olham looked around the small cabin. Nelson was still holding the gun. There was
 
 Nelson put on his pressure suit, hurrying awkwardly. “How about him?” He indicated Olham. “Will he need one?”
 
-“No.” Peters shook his head. “Robots probably don’t require oxygen.”	‘	. . .;	,
+“No.” Peters shook his head. “Robots probably don’t require oxygen.”
 
 The group of men were almost to the ship. They halted, waiting. Peters signaled to them.
 
@@ -3697,7 +3713,7 @@ With a doctor’s records, photographs and reports, there was a chance, a chance
 
 He could prove it that way. It was probably the only way. His one hope lay inside the house. Dr. Chamberlain was a respected man. He was the staff doctor for thfe Project. He would know, his word on the matter would have meaning. He could overcome their hysteria, their madness, with facts.
 
-Madness— That was what it was. If only they would wait, act slowly, take their time. But they could not wait. He had to die, die at once, without proof, without any kind of trial or examination. The simplest test would tell, but they had not time for the simplest test.
+Madness—That was what it was. If only they would wait, act slowly, take their time. But they could not wait. He had to die, die at once, without proof, without any kind of trial or examination. The simplest test would tell, but they had not time for the simplest test.
 
 They could think only of the danger. Danger, and nothing more.
 
@@ -3715,7 +3731,7 @@ He ran, throwing himself into the bushes. A security officer shoved Mary out of 
 
 He crossed the road and squeezed over a fence. He jumped down and made his way across a backyard. Behind him men were coming, security officers, shouting to each other as they came. Olham gasped for breath, his chest rising and falling.
 
-Her face— He had known at once. The set lips, the terrified, wretched eyes. Suppose he had gone ahead, pushed open the door and entered! They had tapped the call and come at once, as soon as he had broken off. Probably she believed their account. No doubt she thought he was the robot, too.
+Her face—He had known at once. The set lips, the terrified, wretched eyes. Suppose he had gone ahead, pushed open the door and entered! They had tapped the call and come at once, as soon as he had broken off. Probably she believed their account. No doubt she thought he was the robot, too.
 
 Olham ran on and on. He was losing the officers, dropping them behind. Apparently they were not much good at running. He climbed a hill and made his way down the other side. In a moment he would be back at the ship. But where to, this time? He slowed down,
 
@@ -3765,7 +3781,7 @@ he was younger. He had known where he wmld find the remains. There was one peak 
 
 A descending ship, unfamiliar with the Wood, had little chance of missing it. And now he squatted, looking down at the ship, or what remained of it
 
-Olham stood up. He could hear them, only a little distance away, coming together, talking in low tones. He tensed himself. Everything depended on who first saw him. If it was Nelson, he had no chance. Nelson would fire at once. He would be dead before they saw the ship. But if he had time to call out, hold them off ' for a moment— That was all he needed. Once they saw the ship he would be safe.
+Olham stood up. He could hear them, only a little distance away, coming together, talking in low tones. He tensed himself. Everything depended on who first saw him. If it was Nelson, he had no chance. Nelson would fire at once. He would be dead before they saw the ship. But if he had time to call out, hold them off ' for a moment—That was all he needed. Once they saw the ship he would be safe.
 
 But if they fired first—
 
@@ -3821,7 +3837,7 @@ On the ground, bent and twisted into a strange shape, was a grotesque form. It l
 
 Peters looked at him. “I can’t believe it. You were telling the truth all the time.”
 
-“The robot never reached me,” Olham said. He took out a cigarette and lit it. “It was destroyed when the ship crashed. You were all too busy with the war to wonder why an out-of-the-way woods would suddenly catch fire and bum. Now you know.”
+“The robot never reached me,” Olham said. He took out a cigarette and lit it. “It was destroyed when the ship crashed. You were all too busy with the war to wonder why an out-of-the-way woods would suddenly catch fire and burn. Now you know.”
 
 He stood smoking, watching the men. They were
 
@@ -3829,7 +3845,7 @@ dragging the grotesque remains from the ship. The body was stiff, the arms and l
 
 “You’ll find the bomb now,” Olham said. The men laid the body on the ground. Peters bent down.
 
-“I think I see the comer of it.” He reached out, touching the body.
+“I think I see the corner of it.” He reached out, touching the body.
 
 The chest of the corpse had been laid open. Within the gaping tear something glinted, something metal. The men stared at the metal without speaking.
 
@@ -3894,7 +3910,7 @@ Hall sighed. “Quite a place. I wouldn’t mind coming back here again some tim
 
 “Makes Terra seem a little bare.” Friendly took out his cigarettes, then put them away again. “You know, the place has a funny effect on me. I don’t smoke any
 
-more. Guess that’s because of the way it looks. It’s so— so damn pure. Unsullied. I can’t smoke or throw papers around. I can’t bring myself to be a picnicker.”
+more. Guess that’s because of the way it looks. It’s so—so damn pure. Unsullied. I can’t smoke or throw papers around. I can’t bring myself to be a picnicker.”
 
 “The picnickers’ll be along soon enough,” Hall said. He went back to the microscope. “I’ll try a few more cultures. Maybe I’ll find a lethal germ yet.”
 
@@ -3906,7 +3922,7 @@ The door closed after him. His bootsteps echoed down the corridor. Hall was alon
 
 He sat for a time in thought. Presently he bent down and removed the slide from the stage of the microscope, selected a new one and held it up to the light to read the marking. The lab was warm and quiet. Sunlight streamed through the windows and across the floor. The trees outside moved a little in the wind. He began to feel sleepy. •
 
-“Yes, the picnickers,” he grumbled. He adjusted the new slide into position. “And all of them ready to come in and cut down the trees, tear up the flowers, spit in the lakes, bum up the grass. With not even the common-cold virus around to—”
+“Yes, the picnickers,” he grumbled. He adjusted the new slide into position. “And all of them ready to come in and cut down the trees, tear up the flowers, spit in the lakes, burn up the grass. With not even the common-cold virus around to—”
 
 He stopped, his voice choked off—
 
@@ -4180,7 +4196,7 @@ The soldiers began to laugh.
 
 “It’s no joke,” Fulton said, his face suddenly white. “It’s breaking my feet! It’s—”
 
-He began to scream. The soldiers grabbed frantically at the mat. Fulton fell, rolling and twisting, still screaming. At last the soldiers managed to get a comer of the mat loose from his feet.
+He began to scream. The soldiers grabbed frantically at the mat. Fulton fell, rolling and twisting, still screaming. At last the soldiers managed to get a corner of the mat loose from his feet.
 
 Fulton’s feet were gone. Nothing but limp bone remained, already half dissolved.
 
@@ -4220,7 +4236,7 @@ The Commander gazed past him, rigid.
 
 He turned to follow her gaze. “What is it?”
 
-“I never noticed two briefcases in the comer over there. There was only one before—I think.” She shook her head in bewilderment. “How are we going to know? This business is getting me down.”
+“I never noticed two briefcases in the corner over there. There was only one before—I think.” She shook her head in bewilderment. “How are we going to know? This business is getting me down.”
 
 “You need a good stiff drink.”
 
@@ -4553,11 +4569,11 @@ As the other began to rotate his vanes the man stopped, turning quickly.
 
 “I heard that,” he said. He brought his foot down against the wall, scraping the caterpillars off, onto the concrete. He crushed them.
 
-Then he hurried down the path to the sidewalk. As he walked he looked around him. In the cherry tree a bird was hopping, pecking bright-eyed at the cherries. The man studied him. All right? Or— The bird flew off. Birds all right. No harm from them.
+Then he hurried down the path to the sidewalk. As he walked he looked around him. In the cherry tree a bird was hopping, pecking bright-eyed at the cherries. The man studied him. All right? Or—The bird flew off. Birds all right. No harm from them.
 
-He went on. At the comer he brushed against a spider web, crossed from the bushes to the telephone pole. His heart pounded. He tore away, batting in the air. As he went on he glanced over his shoulder. The spider was coming slowly down the bush, feeling out the damage to his web.
+He went on. At the corner he brushed against a spider web, crossed from the bushes to the telephone pole. His heart pounded. He tore away, batting in the air. As he went on he glanced over his shoulder. The spider was coming slowly down the bush, feeling out the damage to his web.
 
-Hard to tell about spiders. Difficult to figure out. More facts needed— No contact, yet.
+Hard to tell about spiders. Difficult to figure out. More facts needed—No contact, yet.
 
 He waited at the bus stop, stomping his feet to keep them warm.
 
@@ -4575,7 +4591,7 @@ Tirmus waved his antennae excitedly.
 
 “We already know it all,” Lala said impatiently. “Let’s get moving. We have the plans worked out. What’s holding us up?”
 
-“More reason for me to speak.” Tirmus gazed around at the assembled gods. “The entire Hill is ready to march against the giant in question. Why? We know he can’t communicate to his fellows— It’s out of the question. The type of vibration, the language they use makes it impossible to convey such ideas as he holds about us, about our—”
+“More reason for me to speak.” Tirmus gazed around at the assembled gods. “The entire Hill is ready to march against the giant in question. Why? We know he can’t communicate to his fellows—It’s out of the question. The type of vibration, the language they use makes it impossible to convey such ideas as he holds about us, about our—”
 
 “Nonsense.” Lala stepped up. “Chants communicate . well enough.”
 
@@ -4601,7 +4617,7 @@ One of the gods leaned toward another, antennae touching. “This giant. He does
 
 “It’s too bad for him, though.”
 
-It was nightfall. The street was dark and deserted. Along the sidewalk the man came, a newspaper under his arm. He walked quickly, glancing around him. He skirted around the big tree growing by the curb and leaped agilely into the street. He crossed the street and gained the opposite side. As he turned the comer he entered the web, sewn from bush to telephone pole. Automatically he fought it, brushing it off him. As the strands broke a thin humming came to him, metallic and wiry.
+It was nightfall. The street was dark and deserted. Along the sidewalk the man came, a newspaper under his arm. He walked quickly, glancing around him. He skirted around the big tree growing by the curb and leaped agilely into the street. He crossed the street and gained the opposite side. As he turned the corner he entered the web, sewn from bush to telephone pole. Automatically he fought it, brushing it off him. As the strands broke a thin humming came to him, metallic and wiry.
 
 . . wait!”
 
@@ -4661,13 +4677,13 @@ So they really wanted him, badly enough to plan it out. Bleak despair descended 
 
 The spider slid down beside him onto the desk top. “Sorry. Hope you aren’t frightened, as in the poem.”
 
-The man stared. “Are you the same one? The one at the comer? The one who warned me?”
+The man stared. “Are you the same one? The one at the corner? The one who warned me?”
 
 “No. That’s somebody else. A Spinner. I’m strictly a Cruncher. Look at my jaws.” He opened and shut his mouth. “I bite them up.”
 
 The man smiled. “Good for you.”
 
-“Sure. Do you know how many there are of us in— say—an acre of land? Guess.”
+“Sure. Do you know how many there are of us in—say—an acre of land? Guess.”
 
 “A thousand.”
 
@@ -4717,7 +4733,7 @@ The black widow came to the edge of the desk. “Giant,” she piped, metallical
 
 “There’s going to be some trouble here. They’re moving, coming here, a lot of them. We thought we’d stay with you awhile. Get in on it.”
 
-“I see.” The man nodded. He licked his lips, running his fingers shakily through his hair. “Do you think— that is, what are the chances—”
+“I see.” The man nodded. He licked his lips, running his fingers shakily through his hair. “Do you think—that is, what are the chances—”
 
 “Chances?” The Stinger undulated thoughtfully. “Well, we’ve been in this work a long time. Almost a million years. I think that we have the edge over them, in spite of drawbacks. Our arrangements with the birds, and of course, with the toads—”
 
@@ -4748,7 +4764,7 @@ the_days_of_perky_pat
 
 We’ll get them, we’ll get them, Sam Regan said to himself as he zipped his dustproof overalls, put his feet into boots and then grumpily sauntered as slowly as possible toward the ramp. Several other flukers joined him, all showing similar irritation.
 
-“He’s early today,” Tod Morrison complained. “And I’ll bet it’s all staples, sugar and flour and lard— nothing interesting like, say, candy.”
+“He’s early today,” Tod Morrison complained. “And I’ll bet it’s all staples, sugar and flour and lard—nothing interesting like, say, candy.”
 
 “We ought to be grateful,” Norman Schein said.
 
@@ -4962,7 +4978,7 @@ As they skinned the rabbit, Fred said to Timothy, “Where did the name ‘fluke
 
 “A fluke is when fate has decided to spare you,” Timothy said, and that was all he had to say on the subject. That was all he knew.
 
-Fred said thoughtfully, “But you and I, we’re not flu-kers because we weren’t alive when the war broke out. We were bom after.”
+Fred said thoughtfully, “But you and I, we’re not flu-kers because we weren’t alive when the war broke out. We were born after.”
 
 “Right,” Timothy said.
 
@@ -5164,7 +5180,7 @@ A few moments later they began wheeling the wheel barrow up the ramp to the lid 
 
 A mile outside the Berkeley Fluke-pit he and Frai began to stumble over empty drop-canisters and somi only partly empty: remains of past care parcels such a littered the surface near their own pit. Norm Scheii breathed a sigh of relief; the journey had not been si bad after all, except that his hands had become blisterei from gripping the metal handles of the wheelbarrow and Fran had turned her ankle so that now she walkei with a painful limp. But it had taken" them less tim than he had anticipated, and his mood was one of buoy ancy.
 
-Ahead, a figure appeared, crouching low in the asl A boy. Norm waved at him and called, “Hey, sonny— we’re from the Pinole pit; we’re supposed to meet party from Oakland here . . . do you remember me?
+Ahead, a figure appeared, crouching low in the asl A boy. Norm waved at him and called, “Hey, sonny—we’re from the Pinole pit; we’re supposed to meet party from Oakland here . . . do you remember me?
 
 The boy, without answering, turned and scampere
 
@@ -5258,7 +5274,7 @@ Norm said aloud, “You fellows, look here. It’s not fair, calling them marrie
 
 Wynn said, “We’re not ‘calling’ them married; they are married. Their names are Connie and Paul Lathrope, of 24 Arden Place Piedmont. They’ve been married for a year, most players will tell you.” He sounded calm. Maybe, Norm thought, it’s true. He was truly shaken. “Look at them together,” Fran said, kneeling down to examine the Oaklanders’ layout. “In the same bedroom, in the same house. Why, Norm; do you see? There’s just the one bed. A big double bed.” Wild-eyed, she appealed to him. “How can Perky Pat and Leonard play against them?” Her voice shook. “It’s not morally right.”
 
-“This is another type of layout entirely,” Norm said to Walter Wynn. “This, that you have. Utterly different from what we’re used to, as you can see.” He pointed to his own layout. “I insist that in this game Connie and Paul not live together and not be considered married.” “But they are,” Foster spoke up. “It’s a fact. Look— their clothes are in the same closet.” He showed them the closet. “And in the same bureau drawers.” He showed them that, too. “And look in the bathroom. Two toothbrushes. His and hers, in the same rack. So you can see we’re not making it up.”
+“This is another type of layout entirely,” Norm said to Walter Wynn. “This, that you have. Utterly different from what we’re used to, as you can see.” He pointed to his own layout. “I insist that in this game Connie and Paul not live together and not be considered married.” “But they are,” Foster spoke up. “It’s a fact. Look—their clothes are in the same closet.” He showed them the closet. “And in the same bureau drawers.” He showed them that, too. “And look in the bathroom. Two toothbrushes. His and hers, in the same rack. So you can see we’re not making it up.”
 
 There was silence.
 
@@ -5298,7 +5314,7 @@ The two boys looked. And, there among Perky Pat’s furnishings, lay another dol
 
 “We were lucky,” Norm said. Now several people had emerged from the pit and were gathering around
 
-them,	listening. Jean and Sam Regan, Tod Morrison and his wife, Helen, and now their Mayor, Hooker Glebe himself, waddling up excited and nervous, his face flushed, gasping for breath from the labor— unusual for him—of ascending the ramp.
+them,	listening. Jean and Sam Regan, Tod Morrison and his wife, Helen, and now their Mayor, Hooker Glebe himself, waddling up excited and nervous, his face flushed, gasping for breath from the labor—unusual for him—of ascending the ramp.
 
 Fran said, “We got a cancellation-of-debts card, just when we were most behind. We owed fifty thousand, and it made us even with the Oakland flukers. And
 
@@ -5388,7 +5404,7 @@ Overhead, a care ship whistled at great velocity and then was gone again almost 
 
 His father murmured, “These Oaklanders; their game, their particular doll, it taught them something. Connie had to grow and it forced them all to grow along with her. Our flukers never learned about that, not from Perky Pat. I wonder if they ever will. She’d have to grow up the way Connie did. Connie must have been like Perky Pat, once. A long time ago.”
 
-Not interested in what his father was saying—who really cared about dolls and games with dolls?— Timothy scampered ahead, peering to see what lay before them, the opportunities and possibilities, for him and for his mother and dad, for Mr. Regan also.
+Not interested in what his father was saying—who really cared about dolls and games with dolls?—Timothy scampered ahead, peering to see what lay before them, the opportunities and possibilities, for him and for his mother and dad, for Mr. Regan also.
 
 “I can’t wait,” he yelled back at his father, and Norm Schein managed a faint, fatigued smile in answer.
 
@@ -5513,7 +5529,7 @@ Tim’s mouth opened and closed. No words came. His mind was blank. Dead. He cou
 
 “I—” Tim gasped.
 
-The captain came toward him ominously. “The woman. Arid the kids. All of you. What are you doing, here?” His voice was hard. “You better be able to ex- | plain, mister. You better be able to explain what you’re doing here—or we’ll have to bum the whole damn lot of you.”
+The captain came toward him ominously. “The woman. Arid the kids. All of you. What are you doing, here?” His voice was hard. “You better be able to ex- | plain, mister. You better be able to explain what you’re doing here—or we’ll have to burn the whole damn lot of you.”
 
 Tim sat down at the table. He took a deep, shuddering breath, trying to focus his mind. His body ached. He j rubbed blood from his mouth, conscious of a broken molar and bits of loose tooth. He got out a handkerchief and spat the bits into it. His hands were shaking.
 
@@ -5539,7 +5555,7 @@ The captain rubbed his jaw. “No yellow slip. No masks. No cards.”
 
 “Maybe. And maybe not.”
 
-They’re geeps, Captain. We better bum ’em. We can’t take any chances.”
+They’re geeps, Captain. We better burn ’em. We can’t take any chances.”
 
 “There’s something funny going on here,” the captain said. He plucked at his neck, lifting up a small box on a cord. “I am getting a polic here.”
 
@@ -5943,7 +5959,7 @@ Foley came over beside Tim. “Damn it, man! I told you to have that hot water h
 
 Tim opened his mouth. But the words didn’t come.
 
-What could he say? —No, it wasn’t a defective hot water heater that I forgot to have repaired. No, it wasn’t a faulty connection in the stove. It wasn’t any of those things. It wasn’t a leaky gas line, it wasn’t a plugged furnace, it wasn’t a pressure cooker we forgot to turn off.
+What could he say?—No, it wasn’t a defective hot water heater that I forgot to have repaired. No, it wasn’t a faulty connection in the stove. It wasn’t any of those things. It wasn’t a leaky gas line, it wasn’t a plugged furnace, it wasn’t a pressure cooker we forgot to turn off.
 
 It’s war. Total war. And not just war for me. For my family. For just my house.
 
@@ -6042,7 +6058,7 @@ THE NEW 1972 BOMBPROOF RADIATION-SEALED SUBSURFACE SHELTER IS HERE! CHECK THESE 
 
 •	triple-layer hull guaranteed to withstand 5g pressure without buckling
 
-•	A-powered heating and refrigeration system— self-servicing air-purification network
+•	A-powered heating and refrigeration system—self-servicing air-purification network
 
 •	three decontamination stages for food and water
 
@@ -6090,7 +6106,7 @@ The salesman swore under his breath. A coaster, sliding along, safe because the 
 
 “She says—” Mike Foster broke off. “Couldn’t I go down in it for a little while? I won’t bust anything. Just once”
 
-“How’d we ever sell it if we let kids run through it? We’re not marking it down as a demonstration model— we’ve got roped into that too often.” The salesman’s cti-riosity was aroused. “How’s a guy get to be an anti-P?
+“How’d we ever sell it if we let kids run through it? We’re not marking it down as a demonstration model—we’ve got roped into that too often.” The salesman’s cti-riosity was aroused. “How’s a guy get to be an anti-P?
 
 He always feel this way, or did he get stung with something?”
 
@@ -6208,11 +6224,11 @@ His father pulled himself up. “I didn’t give any advice to the President. I 
 
 “What kind of a tour?”
 
-“Visiting towns all over the country.” The harshness increased. “Seeing how we were getting along. Seeing if we had bought enough NATS and bomb shelters and plague shots and gas masks and radar networks to repel attack. The General Electronics Corporation was just beginning to put up its big showrooms and displays— everything bright and glittering and expensive. The first defense equipment available for home purchase.” His lips twisted. “All on easy-payment plans. Ads, posters, searchlights, free gardenias and dishes for the ladies.” Mike Foster’s breath panted in his throat. “That was the day we got our Preparedness Flag,” he said hungrily. “That was the day he came to give us our flag. And they ran it up on the flagpole in the middle of the town, and everybody was there yelling and cheering.” “You remember that?”
+“Visiting towns all over the country.” The harshness increased. “Seeing how we were getting along. Seeing if we had bought enough NATS and bomb shelters and plague shots and gas masks and radar networks to repel attack. The General Electronics Corporation was just beginning to put up its big showrooms and displays—everything bright and glittering and expensive. The first defense equipment available for home purchase.” His lips twisted. “All on easy-payment plans. Ads, posters, searchlights, free gardenias and dishes for the ladies.” Mike Foster’s breath panted in his throat. “That was the day we got our Preparedness Flag,” he said hungrily. “That was the day he came to give us our flag. And they ran it up on the flagpole in the middle of the town, and everybody was there yelling and cheering.” “You remember that?”
 
 “I—think so. I remember people and sounds. And it was hot. It was June, wasn’t it?”
 
-“June 10, 1965. Quite an occasion. Not many towns had the big green flag, then. People were still buying cars and TV sets. They hadn’t discovered those days were over. TV sets and cars are good for something— you can only manufacture and sell so many of them.”
+“June 10, 1965. Quite an occasion. Not many towns had the big green flag, then. People were still buying cars and TV sets. They hadn’t discovered those days were over. TV sets and cars are good for something—you can only manufacture and sell so many of them.”
 
 “He gave you the flag, didn’t he?”
 
@@ -6270,7 +6286,7 @@ He sat down on the floor, knees drawn up, face sol-
 
 emn, eyes wide. There was no sound but that of the generators; the world above was completely cut off. He was in a little self-contained cosmos; everything needed was here—or would be here, soon: food, water, air, things to do. Nothing else was wanted. He could reach out and touch—whatever he needed. He could stay here forever, through all time, without stirring. Complete and entire. Not lacking, not fearing, with only the sound of the generators purring below him, and the sheer, ascetic walls around and above him on all sides, faintly warm, completely friendly, like a living container.
 
-Suddenly he shouted, a loud jubilant shout that echoed and bounced from wall to wall. He was deafened by the reverberation. He shut his eyes tight and clenched his fists. Joy filled him. He shouted again— and let the roar of sound lap over him, his own voice reinforced by the near walls, close and hard and incredibly powerful.
+Suddenly he shouted, a loud jubilant shout that echoed and bounced from wall to wall. He was deafened by the reverberation. He shut his eyes tight and clenched his fists. Joy filled him. He shouted again—and let the roar of sound lap over him, his own voice reinforced by the near walls, close and hard and incredibly powerful.
 
 The kids in school knew even before he showed up, the next morning. They greeted him as he approached, all of them grinning and nudging each other. “Is it true your folks got a new General Electronics Model S-72ft?” Earl Peters demanded.
 
@@ -6320,7 +6336,7 @@ His parents were still arguing. “We’ll have to get one,” Ruth Foster said 
 
 “It’s not as bad as that.”
 
-“You know, this game has one real advantage over selling people cars and TV sets. With something like this we have to buy. It isn’t a luxury, something big and flashy to impress the neighbors, something we could do without. If we don’t buy this we die. They always said the way to sell something was create anxiety in people. Create a sense of insecurity—tell them they smell bad or look funny. But this makes a joke out of deodorant and hair oil: You can’t escape this. If you don’t buy, they’ll kill you. The perfect sales-pitch. Buy or die— new slogan. Have a shiny new General Electronics H-bomb shelter in your back yard or be slaughtered.”
+“You know, this game has one real advantage over selling people cars and TV sets. With something like this we have to buy. It isn’t a luxury, something big and flashy to impress the neighbors, something we could do without. If we don’t buy this we die. They always said the way to sell something was create anxiety in people. Create a sense of insecurity—tell them they smell bad or look funny. But this makes a joke out of deodorant and hair oil: You can’t escape this. If you don’t buy, they’ll kill you. The perfect sales-pitch. Buy or die—new slogan. Have a shiny new General Electronics H-bomb shelter in your back yard or be slaughtered.”
 
 “Stop talking like that!” Ruth snapped.
 
@@ -6402,7 +6418,7 @@ O’Neill pushed his blond hair back and loosened his tie. He lit a cigarette gr
 
 He climbed the ladder to the neck and stepped onto-the lift. The lift dropped with a whoosh and a second later he stepped out in the cavelike interior of the shelter.
 
-In one comer Mike Foster sat curled up in a tight heap, his knees drawn up against his chin, his skinny arms wrapped around his ankles. His face was pushed down; only his ragged brown hair showed. He didn’t move as the salesman approached him, astounded.
+In one corner Mike Foster sat curled up in a tight heap, his knees drawn up against his chin, his skinny arms wrapped around his ankles. His face was pushed down; only his ragged brown hair showed. He didn’t move as the salesman approached him, astounded.
 
 “Jesus!” O’Neill exclaimed. “It’s that kid.”
 
@@ -6456,7 +6472,7 @@ Charles hesitated. He was only eight years old, and the problem bothering him wo
 
 “What’s wrong?” June Walton caught the uneasy tone in her son’s voice and her matronly bosom fluttered with sudden alarm. “Isn’t Ted out in the garage? For heaven’s sake, he was sharpening the hedge shears a minute ago. He didn’t go over to the Andersons’, did he? I told him dinner was practically on the table.” .
 
-“He’s in the garage,” Charles said. “But he’s— talking to himself.”
+“He’s in the garage,” Charles said. “But he’s—talking to himself.”
 
 “Talking to himself!” Mrs. Walton removed her bright plastic apron and hung it over the doorknob. “Ted? Why, he never talks to himself. Go tell him to come in here.” She poured boiling black coffee in the little blue-and-white china cups and began ladling out creamed com. “What’s wrong with you? Go tell him!”
 
@@ -6648,7 +6664,7 @@ Daniels fumbled with the gun. The bug slithered and hissed. Its head jerked back
 
 Something buzzed through Charles’s brain. A loud humming, metallic and harsh, a billion metal wires dancing and vibrating at once. He was tossed about violently by the force; the banging crash of metal made him deaf and confused. He stumbled to his feet and backed off; the others were doing the same, white-faced and shaken.
 
-“If we can’t kill it with the gun,” Peretti gasped, “we can drown it. Or bum it. Or stick a pin through its brain.” He fought to hold onto the rake, to keep the bug pinned down.
+“If we can’t kill it with the gun,” Peretti gasped, “we can drown it. Or burn it. Or stick a pin through its brain.” He fought to hold onto the rake, to keep the bug pinned down.
 
 “I have a jar of formaldehyde,” Daniels muttered. His fingers fumbled nervously with the b.b. gun. “How do this thing work? I can’t seem to—”
 
@@ -6704,7 +6720,7 @@ It was almost ready. Another few days and it woulc reach maturity. It was still 
 
 Behind the mother-thing were other pulpy white larvae, recently laid by the bug. Small. Just coming intc existence. He could see where the father-thing had bro ken off; the place where it had grown. It had mature here. And in the garage, his father had met it.
 
-Charles began to move numbly away, past the rottinj boards, the filth and debris, the pulpy mushroom lar vae. Weakly, he reached out to take hold of the fence— . and scrambled back.
+Charles began to move numbly away, past the rottinj boards, the filth and debris, the pulpy mushroom lar vae. Weakly, he reached out to take hold of the fence—. and scrambled back.
 
 Another one. Another larva. He hadn’t seen this on
 
@@ -6759,7 +6775,7 @@ service_call
 
 In his swank apartment on Leavenworth Street, where Russian Hill drops to the flat expanse of North Beach and finally to the San Francisco Bay itself, David Courtland sat hunched over a series of routine reports, a week’s file of technical data dealing with the results of the Mount Diablo tests. As research director for Pesco Paints, Courtland was concerning himself with the comparative durability of various surfaces manufactured by his company. Treated shingles had baked and sweated in the California heat for five hundred and sixty-four days. It was now time to see which pore-filler withstood oxidation, and to adjust production schedules accordingly.
 
-Involved with his intricate analytical, data, Courtland at first failed to hear the bell. In the comer of the living room his high-fidelity Bogen amplifier, turntable, and speaker were playing a Schumann symphony. His wife, Fay, was doing the dinner dishes in the kitchen. The two children, Bobby and Ralf, were already in their bunk beds, asleep. Reaching for his pipe, Courtland leaned back from the desk a moment, ran a heavy hand through his thinning gray hair . . . and heard the bell.
+Involved with his intricate analytical, data, Courtland at first failed to hear the bell. In the corner of the living room his high-fidelity Bogen amplifier, turntable, and speaker were playing a Schumann symphony. His wife, Fay, was doing the dinner dishes in the kitchen. The two children, Bobby and Ralf, were already in their bunk beds, asleep. Reaching for his pipe, Courtland leaned back from the desk a moment, ran a heavy hand through his thinning gray hair . . . and heard the bell.
 
 “Damn,” he said. Vaguely, he wondered how many times the demure chimes had sounded; he had a dim subliminal memory of repeated attempts to attract his attention. Before his tired eyes the mass of report sheets wavered and receded. Who the hell was it? His watch
 
@@ -6894,7 +6910,7 @@ Grumpily, the jury-rigged company team filed into the apartment and stood waitin
 
 much these people can do unless they understand what they’re after.”
 
-In the bedroom doorway stood Courtland’s two sons, eyes half-shut with sleep. Fay nervously swept them up and herded them back into the bedroom. Around the living room the various men and woman took up uncertain positions, their faces registering outrage, uneasy curiosity, and bored indifference. Anderson, the designing engineer, acted aloof and blas6. MacDowell, the stoopshouldered, pot-bellied lathe operator, glared with proletarian resentment at the expensive furnishings of the apartment, and then sank into embarrassed apathy as he perceived his own work boots and grease-saturated pants. The recording specialist was trailing wire from his microphones to the tape recorder set up in the kitchen. A slim young woman, the legal stenographer, was trying to make herself comfortable in a chair in the comer. On the couch, Parkinson, the plant emergency electrician, was glancing idly through a copy of Fortune.
+In the bedroom doorway stood Courtland’s two sons, eyes half-shut with sleep. Fay nervously swept them up and herded them back into the bedroom. Around the living room the various men and woman took up uncertain positions, their faces registering outrage, uneasy curiosity, and bored indifference. Anderson, the designing engineer, acted aloof and blas6. MacDowell, the stoopshouldered, pot-bellied lathe operator, glared with proletarian resentment at the expensive furnishings of the apartment, and then sank into embarrassed apathy as he perceived his own work boots and grease-saturated pants. The recording specialist was trailing wire from his microphones to the tape recorder set up in the kitchen. A slim young woman, the legal stenographer, was trying to make herself comfortable in a chair in the corner. On the couch, Parkinson, the plant emergency electrician, was glancing idly through a copy of Fortune.
 
 “Where’s the camera equipment?” Courtland demanded.
 
@@ -6958,7 +6974,7 @@ got himself between the swibble repairman and the door, and ushered him into the
 
 “Is this the person?” Pesbroke rumbled doubtfully, his gray eyes narrowing.
 
-Courtland ignored him. “Sit down,” he ordered the swibble repairman. Out of the comer of his eye he could see Anderson and Hurley and MacDowell moving in closely; Parkinson threw down his Fortune and got quickly to his feet. In the kitchen, the sound of tape running through the recording head was audible . . . the room had begun moving into activity.
+Courtland ignored him. “Sit down,” he ordered the swibble repairman. Out of the corner of his eye he could see Anderson and Hurley and MacDowell moving in closely; Parkinson threw down his Fortune and got quickly to his feet. In the kitchen, the sound of tape running through the recording head was audible . . . the room had begun moving into activity.
 
 “I could come some other time.” the repairman said apprehensively, eyeing the closing circle of people. “I don’t want to bother you, sir, when you have guests.”
 
@@ -6986,7 +7002,7 @@ The young repairman gulped and stared down redfaced at the carpet. “I’m stil
 
 “Let it go,” Courtland said. What kind of a society gave out names as a status privilege? “I want to make sure you’re a competent repairman,” he explained. “How long have you been repairing swibbles?”
 
-“For six years and three months,” the repairman asserted. Pride took the place of embarrassment. “In junior high school I showed a straight-A record in swibble-maintenance aptitude.” His meager chest swelled. “I’m a bom swibble-man.”
+“For six years and three months,” the repairman asserted. Pride took the place of embarrassment. “In junior high school I showed a straight-A record in swibble-maintenance aptitude.” His meager chest swelled. “I’m a born swibble-man.”
 
 “Fine,” Courtland agreed uneasily; he couldn’t believe the industry was that big. They gave tests in junior high school? Was swibble maintenance considered a basic talent, like symbol manipulation and manual dexterity? Had swibble work become as fundamental as musical talent, or as the ability to conceive spatial relationships?
 
@@ -7000,7 +7016,7 @@ Bluntly, Pesbroke stepped up squarely in front of the thin young man. “What is
 
 The young repairman gripped his tool kit defensively. “What in the world is the matter, sir? If this is your idea of a joke—” He turned back to Courtland. “I’d like to start work; I really don’t have much time.”
 
-Standing in the comer, hands shoved deep in his pockets, MacDowell said slowly, “I’ve been thinking about getting a swibble. The missus thinks we ought to have one.”
+Standing in the corner, hands shoved deep in his pockets, MacDowell said slowly, “I’ve been thinking about getting a swibble. The missus thinks we ought to have one.”
 
 “Oh, certainly,” the repairman agreed. Color rising in his cheeks, he rushed on, “I’m surprised you don’t have a swibble already; in fact, I can’t imagine what’s wrong with you people. You’re all acting—oddly. Where, if I may ask, do you come from? Why are you so—well, so -uninformed?”
 
@@ -7010,7 +7026,7 @@ Again, Courtland had said the wrong thing; he knew that. While he floundered for
 
 The repairman responded. “I’m afraid not, sir. But if you’ll give me your address I’ll have the sales department send you information. And if you want, a qualified representative can call on you at your convenience and describe the advantages of owning a swibble.” “The first swibble was developed in 1963?” Hurley asked.
 
-“That’s right.” The repairman’s suspicions had momentarily lulled. “And just in time, too. Let me say this—if Wright hadn’t got his first model going, there wouldn’t be any human beings left alive. You people here who don’t own swibbles—you may not know it— and you certainly act as if you didn’t know it—but
+“That’s right.” The repairman’s suspicions had momentarily lulled. “And just in time, too. Let me say this—if Wright hadn’t got his first model going, there wouldn’t be any human beings left alive. You people here who don’t own swibbles—you may not know it—and you certainly act as if you didn’t know it—but
 
 you’re alive right now because of old R. J. Wright. It’s swibbles that keep the world going.”
 
@@ -7192,7 +7208,7 @@ The third man said nothing. O’Neill was visiting from another settlement; he d
 
 chesty voice. “Yes, we can’t get in touch with the damn thing. It comes, leaves off its load and goes on—there’s no contact between us and it.”
 
-“It’s a machine,” Perine said excitedly. “It’s dead— blind and deaf.”
+“It’s a machine,” Perine said excitedly. “It’s dead—blind and deaf.”
 
 “But it’s in contact with the outside world,” O’Neill pointed out. “There has to be some way to get to it. Specific semantic signals are meaningful to it; all we have to do is find those signals. Rediscover, actually. Maybe half a dozen out of a billion possibilities.”
 
@@ -7377,7 +7393,7 @@ The factory representative paused briefly at the door. “The inoperative cycle,
 
 Without warning, Morrison swung the steel pipe in his hand. It slashed against the machine’s shoulder and burst through the elaborate network of sensory apparatus that made up its chest. The tank of receptors shattered; bits of glass, wiring and minute parts showered everywhere.
 
-“It’s a paradox!” Morrison yelled. “A word game— a semantic game they’re pulling on us. The Cyberneticists have it rigged.” He raised the pipe and again brought it down savagely on the unprotesting machine. “They’ve got us hamstrung. We’re completely helpless.”
+“It’s a paradox!” Morrison yelled. “A word game—a semantic game they’re pulling on us. The Cyberneticists have it rigged.” He raised the pipe and again brought it down savagely on the unprotesting machine. “They’ve got us hamstrung. We’re completely helpless.”
 
 The room was in uproar. “It’s the only way,” Perine gasped as he pushed past O’Neill. “We’ll have to destroy them—it’s the network or us.” Grabbing down a lamp, he hurled it in the “face” of the factory representative. The lamp and the intricate surface of plastic burst; Perine waded in, groping blindly for the machine. Now all the people in the room were closing furiously around the upright cylinder, their impotent resentment boiling over. The machine sank down and disappeared as they dragged it to the floor.
 
@@ -7499,7 +7515,7 @@ It was examining the heap of tungsten. The bait had drawn its first bite.
 
 O’Neill located the communication vane and traced its angle. “Pittsburgh, so pray for Detroit . . . pray like mad.”
 
-Satisfied, the search-bug detached itself and rolled forward. Cautiously approaching the mound, it began a series of intricate maneuvers, rolling first one way and then another. The three watching men were mystified— until they glimpsed the first probing stalks of other search-bugs.
+Satisfied, the search-bug detached itself and rolled forward. Cautiously approaching the mound, it began a series of intricate maneuvers, rolling first one way and then another. The three watching men were mystified—until they glimpsed the first probing stalks of other search-bugs.
 
 “Communication,” O’Neil said softly. “Like bees.”
 
@@ -7804,7 +7820,7 @@ ance. “Damn it, Jill, isn’t dinner ready yet? It’s been ten minutes! What�
 
 Jill sat down and blew her small nose violently. In the living room, Lester worked on unperturbed. His work. His research. Day after day. Lester was getting ahead; there was no doubt of that. His lean body was bent like a coiled spring over the tape scanner, cold gray eyes taking in the information feverishly, analyzing, appraising, his conceptual faculties operating like well-greased machinery.
 
-Jill’s lips trembled in misery and resentment. Gus— little Gus. How could she tell him? Fresh tears welled up in her eyes. Never to see the chubby little fellow again. He could never come back—because his childish laughter and play bothered Lester. Interfered with his research.
+Jill’s lips trembled in misery and resentment. Gus—little Gus. How could she tell him? Fresh tears welled up in her eyes. Never to see the chubby little fellow again. He could never come back—because his childish laughter and play bothered Lester. Interfered with his research.
 
 The stove clicked to green. The food slid out, into the arms of the robant. Soft chimes sounded to announce dinner.
 
@@ -7922,7 +7938,7 @@ mushroom sauce. And white rolls. With hot coffee. Perhaps ice cream and apple pi
 
 “You always said you hoped eventually they’d make intravenous intake universally applicable.” She studied her husband intently. “Lester, what’s happened?”
 
-“Nothing. Nothing at all.” Lester carelessly took his pipe out and lit it rapidly, somewhat awkwardly. Bits of tobacco drifted to the rug. He bent nervously down and tried to pick them up again. “Please go about your tasks and don’t mind me. Perhaps I can help you prepare— that is, can I do anything to help?”
+“Nothing. Nothing at all.” Lester carelessly took his pipe out and lit it rapidly, somewhat awkwardly. Bits of tobacco drifted to the rug. He bent nervously down and tried to pick them up again. “Please go about your tasks and don’t mind me. Perhaps I can help you prepare—that is, can I do anything to help?”
 
 “No,” Jill said. “I can do it. You go ahead with your work, if you want.”
 
@@ -8114,7 +8130,7 @@ Jill was silent.
 
 “Then we vibro-ray it. Destroy the Rexorian mind. A Terran patrol ship on Rexor IV sends out a party to locate the—er—original contents.”
 
-- Jill gasped. She turned toward her brother in amazement. “You mean- —”	/	
+- Jill gasped. She turned toward her brother in amazement. “You mean-—”	/	
 
 “Oh, yes. Lester is alive. In suspension, somewhere on Rexor. In one of the old city ruins. We’ll have to force them to give him up. They won’t want to, but they’ll do it. They’ve done it before. Then he’ll be back with you. Safe and sound. Just like before. And this horrible nightmare you’ve been living will be a thing of the past.”
 
@@ -8184,7 +8200,7 @@ Frank and Director Douglas looked at each other. “I don’t get it,” Frank m
 
 “Mrs. Herrick—” Douglas began.
 
-Jill walked over to the man standing quietly in the comer. “Can we go now, dear?” she asked. She took his arm. “Or is there some reason why my husband has to stay here?”
+Jill walked over to the man standing quietly in the corner. “Can we go now, dear?” she asked. She took his arm. “Or is there some reason why my husband has to stay here?”
 
 The man and woman walked silently along the dark street.
 
@@ -8472,7 +8488,7 @@ Hood glanced at him.
 
 “I think I can tell you exactly how it should be worded,” Flectcher said. “Make it a simple inquiry.
 
-You’ve followed the accounts in the paper about Cemo-li’s movement. Tell the editor”—Fletcher paused— “that you feel sympathetic and you’d like to join the movement. Ask the paper how.”
+You’ve followed the accounts in the paper about Cemo-li’s movement. Tell the editor”—Fletcher paused—“that you feel sympathetic and you’d like to join the movement. Ask the paper how.”
 
 To himself, Hood thought, In other words ask the newspaper to put me in touch with Cemoli. He had to admire Fletcher’s idea. It was brilliant, in a crazy sort of way. It was as if Fletcher had been able to match the derangement of the newspaper by a deliberate shift from common sense on his own part. He would participate in the newspaper’s delusion. Assuming there was a Cemoli and a march on New York, he was asking a reasonable question.
 
@@ -8807,7 +8823,7 @@ Wearily, Munster said, “When I’m in my Blobel form my wits aren’t too keen
 
 Maybe he would find out at eleven tomorrow.
 
-When he strode into Dr. Jones’s waiting room he saw, seated in a deep chair by a lamp in a comer, reading a copy of Fortune, an exceedingly attractive younj woman.
+When he strode into Dr. Jones’s waiting room he saw, seated in a deep chair by a lamp in a corner, reading a copy of Fortune, an exceedingly attractive young woman.
 
 Automatically, Munster found a place to sit from which he could eye her. Stylish dyed-white hair braided down the back of her neck . . . he took in the sight ol her with delight, pretending to read his own copy ol Fortune. Slender legs, small and delicate elbows. Anc her sharp, clearly featured face. The intelligent eyes, the thin, tapered nostrils—a truly lovely girl, he thought He drank in the sight of her . . . until all at once she raised her head and stared coolly back at him.
 
@@ -8921,11 +8937,11 @@ EIGHTY-FOOT LEAPS. CAN BE USED IN FROG-RACING
 
 So in 2038 he had bought his first pair of frogs imported from Jupiter and had begun raising them for
 
-swift profits, right in his own condominium apartment building, in a comer of the basement that Leopold, the partially homeostatic janitor, let him use gratis.
+swift profits, right in his own condominium apartment building, in a corner of the basement that Leopold, the partially homeostatic janitor, let him use gratis.
 
 But in the relatively feeble Terran gravity the frogs were capable of enormous leaps, and the basement proved too small for them; they ricocheted from wall to wall like green ping-pong balls and soon died. Obviously it took more than a portion of the basement at QEK-604 Apartments to house a crop of the damned things, George realized.
 
-And then, too, their first child had been bom. It had turned out to be pure-blooded Blobel; for twenty-four hours a day it consisted of a gelatinous mass and George found himself waiting in vain for it to switch over to human form, even for a moment.
+And then, too, their first child had been born. It had turned out to be pure-blooded Blobel; for twenty-four hours a day it consisted of a gelatinous mass and George found himself waiting in vain for it to switch over to human form, even for a moment.
 
 He faced Vivian defiantly in this matter, during a period when both of them were in human form.
 
@@ -8963,7 +8979,7 @@ He had a new money-making scheme going now. It was a home mail-order business; h
 
 I’m a failure, George said to himself.
 
-Fortunately the next child, bom in the winter of 2039, showed itself to be a hybrid; it took human form fifty per cent of the time, and so at last George had a child who was—occasionally, anyhow—a member of his own species.
+Fortunately the next child, born in the winter of 2039, showed itself to be a hybrid; it took human form fifty per cent of the time, and so at last George had a child who was—occasionally, anyhow—a member of his own species.
 
 He was still in the process of celebrating the birth of Maurice when a delegation of their neighbors at QEK-604 Apartments came and rapped on their door.
 
@@ -9017,7 +9033,7 @@ Viv said, “You have so much to offer the children.” That was true. “Maybe 
 
 It wasn’t fair to her, he realized. So he abandoned the idea.
 
-In the spring of 2041 their third child was bom, also a girl, and like Maurice a hybrid. It was Blobel at night and Terran by day.
+In the spring of 2041 their third child was born, also a girl, and like Maurice a hybrid. It was Blobel at night and Terran by day.
 
 Meanwhile, George found a solution to some of his problems.
 
@@ -9214,7 +9230,7 @@ The peddler reached, selected a gray paper packet. “Sixty trade dollars,” he
 
 “It will rest eyes fatigued by the countenance of meaningless official monologues,” the peddler said. “A soothing preparation; take it as soon as you find yourself exposed to the usual dry and lengthy sermons which—”
 
-Chien paid the money, accepted the packet, and strode off. Balls, he said to himself. It’s a racket, he decided, the ordinance setting up war vets as a privileged class. They prey off us—we, the younger ones— like raptors.
+Chien paid the money, accepted the packet, and strode off. Balls, he said to himself. It’s a racket, he decided, the ordinance setting up war vets as a privileged class. They prey off us—we, the younger ones—like raptors.
 
 Forgotten, the gray piacket remained deposited in his coat pocket as he entered the imposing Postwar Ministry of Cultural Artifacts building, and his own considerable stately office, to begin his workday.
 
@@ -9332,7 +9348,7 @@ He read rapidly through the text, ignoring its claims, seeking to find out what 
 
 Meanwhile the Absolute Benefactor droned on.
 
-Snuff. The package contained snuff. Countless tiny black grains, like gunpowder, which sent up an interesting aromatic to tickle his nose. The title of the particular blend was Princes Special, he discovered. And very pleasing, he decided. At one time he had taken snuff— smoking tobacco for a time having been illegal for reasons of health—back during his student days at Peking U; it had been the fad, especially the amatory mixes prepared in Chungking, made from god knew what. Was this that? Almost any aromatic could be added to . snuff, from essence of organe to pulverized baby-crap . . . or so some seemed, especially an English mixture called High Dry Toast which had in itself more or less put an end to his yearning for nasal, inhaled tobacco.
+Snuff. The package contained snuff. Countless tiny black grains, like gunpowder, which sent up an interesting aromatic to tickle his nose. The title of the particular blend was Princes Special, he discovered. And very pleasing, he decided. At one time he had taken snuff—smoking tobacco for a time having been illegal for reasons of health—back during his student days at Peking U; it had been the fad, especially the amatory mixes prepared in Chungking, made from god knew what. Was this that? Almost any aromatic could be added to . snuff, from essence of organe to pulverized baby-crap . . . or so some seemed, especially an English mixture called High Dry Toast which had in itself more or less put an end to his yearning for nasal, inhaled tobacco.
 
 On the TV screen the Absolute Benefactor rumbled monotonously on as Chien sniffed cautiously at the powder, read the claims—it cured everything from being late to work to falling in love with a woman of dubious political background. Interesting. But typical of claims—
 
@@ -9390,9 +9406,9 @@ Ballpoint pens ready, the two officers waited. And all. the time, in the backgro
 
 He wondered, Is that what they intended?
 
-It seemed odd to him, thinking of a they. Peculiar— but somehow correct. For an instant he hesitated, not giving out the details, not telling the police enough to find the man. A peddler, he started to say. I don’t know where; can’t remember. But he did; he remembered the exact street intersection. So, with unexplainable reluctance, he told them. ‘
+It seemed odd to him, thinking of a they. Peculiar—but somehow correct. For an instant he hesitated, not giving out the details, not telling the police enough to find the man. A peddler, he started to say. I don’t know where; can’t remember. But he did; he remembered the exact street intersection. So, with unexplainable reluctance, he told them. ‘
 
-“Thank you, Comrade Cnien.” The boss of the team of police carefully gathered up the remaining snuff— most of it remained—and placed it in his uniform— smart, sharp uniform—pocket. “We’ll have it analyzed at the first available moment,” the cop said, “and inI form you immediately in case counter medical measures are indicated for you. Some of the old wartime psychedelics were eventually fatal, as you have no doubt read.”
+“Thank you, Comrade Cnien.” The boss of the team of police carefully gathered up the remaining snuff—most of it remained—and placed it in his uniform—smart, sharp uniform—pocket. “We’ll have it analyzed at the first available moment,” the cop said, “and inI form you immediately in case counter medical measures are indicated for you. Some of the old wartime psychedelics were eventually fatal, as you have no doubt read.”
 
 “I’ve read,” he agreed. That had been specifically I what he had been thinking.
 
@@ -9408,7 +9424,7 @@ The lab report came swiftly—surprisingly so, in view of the vast state bureauc
 
 “On the contrary. It’s a phenothiazine, which as you doubtless know is anti-hallucinogenic. A strong dose per gram of admixture, but harmless. Might lower your blood pressure or make you sleepy. Probably stolen from a wartime cache of medical supplies. Left by the retreating barbarians. I wouldn’t worry.”
 
-Pondering, Chien hung up the vidphone in slow motion. And then walked to the window of his conapt— the window with the fine view of other Hanoi high-rise conapts—to think.
+Pondering, Chien hung up the vidphone in slow motion. And then walked to the window of his conapt—the window with the fine view of other Hanoi high-rise conapts—to think.
 
 The doorbell rang. Feeling as if he were in a trance, he crossed the carpeted living room ta answer it.
 
@@ -9512,7 +9528,7 @@ He said, “And what would be my first most regressive decision?”
 
 “Not taking a further dose of phenothiazine,” Miss Lee said evenly.
 
-Hanging up the phone, Tung Chien thought to himself, I don’t understand what’s happening to me. Two forces, the Party and His Greatness on one hand—this girl with her alleged group on the other. One wants me to rise as far as possible in the Party hierarchy; the other— What did Tanya Lee want? Underneath the words, inside the membrane of an almost trivial contempt for the Party, the Leader, the ethical standards of the People’s Democratic United Front—what was she after in regard to him?
+Hanging up the phone, Tung Chien thought to himself, I don’t understand what’s happening to me. Two forces, the Party and His Greatness on one hand—this girl with her alleged group on the other. One wants me to rise as far as possible in the Party hierarchy; the other—What did Tanya Lee want? Underneath the words, inside the membrane of an almost trivial contempt for the Party, the Leader, the ethical standards of the People’s Democratic United Front—what was she after in regard to him?
 
 He said curiously, “Are you anti-Party?”
 
@@ -9542,7 +9558,7 @@ Miss Lee said, “There will be other tests, as you con! tinue to ascend. And we
 
 “How long do I have to think it over?” he said.
 
-“I’m leaving now. We’re in no rush; you’re not about to receive an invitation to the Leader’s Yellow River villa in the next week or even month.” Going to the door, opening it, she paused. “As you’re given covert rating tests we’ll be in contact, supplying the answers— so you’ll see one or more of us on those occasions. Probably it won’t be me; it’ll be that disabled war veteran who’ll sell you the correct response sheets as you i leave the Ministry building.” She smiled a brief, snuffed-out-candle smile. “But one of these days, no doubt unexpectedly, you’ll get an ornate, official, very formal invitation to the villa, and when you go you’ll be heavily sedated with stelazine . . . possibly our last dose of our dwindling supply. Good night.” The door shut after her; she had gone.
+“I’m leaving now. We’re in no rush; you’re not about to receive an invitation to the Leader’s Yellow River villa in the next week or even month.” Going to the door, opening it, she paused. “As you’re given covert rating tests we’ll be in contact, supplying the answers—so you’ll see one or more of us on those occasions. Probably it won’t be me; it’ll be that disabled war veteran who’ll sell you the correct response sheets as you i leave the Ministry building.” She smiled a brief, snuffed-out-candle smile. “But one of these days, no doubt unexpectedly, you’ll get an ornate, official, very formal invitation to the villa, and when you go you’ll be heavily sedated with stelazine . . . possibly our last dose of our dwindling supply. Good night.” The door shut after her; she had gone.
 
 ‘ My god, he thought. They can blackmail me.’ For what I’ve done. And she didn’t even bother to mention it; in view of what they’re involved with it was not worth mentioning.
 
@@ -9618,7 +9634,7 @@ Chien said, “Let me go.”
 
 “Hmmm,” Chien said, and automatically increased his pace; he spotted a hovercab and began signaling for it.
 
-“It’s tonight you’re going to the stag dinner at the Yangtze River villa,” the peddler said, panting for breath in his effort to keep up. “Take the medication— now!” He held out a flat packet, imploringly. “Please, Party Member Chien; for your own sake, for all of us. So we can tell what it is we’re up against. Good Lord, it may be non-Terran; that’s our most basic fear. Don’t you understand, Chien? What’s your goddamn career compared with that? If we can’t find out—”
+“It’s tonight you’re going to the stag dinner at the Yangtze River villa,” the peddler said, panting for breath in his effort to keep up. “Take the medication—now!” He held out a flat packet, imploringly. “Please, Party Member Chien; for your own sake, for all of us. So we can tell what it is we’re up against. Good Lord, it may be non-Terran; that’s our most basic fear. Don’t you understand, Chien? What’s your goddamn career compared with that? If we can’t find out—”
 
 The cab bumped to a halt on the pavement; its door slid open. Chien started to board it.
 
@@ -9706,7 +9722,7 @@ And it was not, Chien realized, a mechanical contract either; it was not what he
 
 God, he thought, and felt ill. Was this what Tanya Lee had called the “aquatic horror” shape? It had no hape. Nor pseudopodia, either flesh or metal. It was, in t sense, not there at all; when he managed to look directly at it, the shape vanished; he saw through it, saw he people on the far side—but not it. Yet if he turned lis head, caught it out of a sidelong glance, he could letermine its boundaries.
 
-It was terrible; it blasted him with its awfulness. As it noved it drained the life from each person in turn; it ite the people who had assembled, passed on, ate again, ite more with an endless appetite. It hated; he felt its late. It loathed; he felt its loathing for everyone present—in fact he shared its loathing. All at once he and sveryone else in the big villa were each a twisted slug, md over the fallen slug carcasses the creature savored, ingered, but all the time coming directly toward him— >r was that an illusion? If this is a hallucination, Chien bought, it is the worst I have ever had; if it is not, then t is evil reality; it’s an evil thing that kills and injures, de saw the trail of stepped-on, mashed men and women •emnants behind it; he saw them trying to reassemble, o operate their crippled bodies; he heard them attempt-ng speech.	.
+It was terrible; it blasted him with its awfulness. As it noved it drained the life from each person in turn; it ite the people who had assembled, passed on, ate again, ite more with an endless appetite. It hated; he felt its late. It loathed; he felt its loathing for everyone present—in fact he shared its loathing. All at once he and sveryone else in the big villa were each a twisted slug, md over the fallen slug carcasses the creature savored, ingered, but all the time coming directly toward him—>r was that an illusion? If this is a hallucination, Chien bought, it is the worst I have ever had; if it is not, then t is evil reality; it’s an evil thing that kills and injures, de saw the trail of stepped-on, mashed men and women •emnants behind it; he saw them trying to reassemble, o operate their crippled bodies; he heard them attempt-ng speech.	.
 
 I know who you are, Tung Chien thought to himself, ifou, the supreme head of the worldwide Party struc-
 
@@ -9718,7 +9734,7 @@ He thought, You are God.
 
 He could not believe it was speaking to him; he could not imagine—it was too terrible—that it had picked him out.
 
-“I have picked everybody out,” it said. “No one is too small; each falls and dies and I am there to watch. I don’t need to do anything but watch; it is automatic; it was arranged that way.” And then it ceased talking to him; it disjoined itself. But he still saw it; he felt its manifold presence. It was a globe which hung in the room, with fifty thousand eyes, a million eyes— billions: an eye for each living thing as it waited for each thing to fall, and then stepped on the living things as it lay in a broken state. Because of this it had created the things, and he knew; he understood. What had seemed in the Arabic poem to be death was not death but God; or rather God was death, it was one force, one hunter, one cannibal thing, and it missed again and again but, having all eternity, it could afford to miss. Both poems, he realized; the Dryden one too. The
+“I have picked everybody out,” it said. “No one is too small; each falls and dies and I am there to watch. I don’t need to do anything but watch; it is automatic; it was arranged that way.” And then it ceased talking to him; it disjoined itself. But he still saw it; he felt its manifold presence. It was a globe which hung in the room, with fifty thousand eyes, a million eyes—billions: an eye for each living thing as it waited for each thing to fall, and then stepped on the living things as it lay in a broken state. Because of this it had created the things, and he knew; he understood. What had seemed in the Arabic poem to be death was not death but God; or rather God was death, it was one force, one hunter, one cannibal thing, and it missed again and again but, having all eternity, it could afford to miss. Both poems, he realized; the Dryden one too. The
 
 crumbling; that is our world and you are doing it. Warping it to come out that way; bending us.
 
@@ -9969,7 +9985,7 @@ A nurse said, “An organic robot.”
 
 “No.” Poole shook his head.
 
-The doctor said, “We get an electric ant every week or so. Either brought in here from a squib accident— like yourself—or one seeking voluntary admission . . . one who, like yourself, has never been told, who has functioned along side humans, believing himself— itself—human. As to your hand—” He paused.
+The doctor said, “We get an electric ant every week or so. Either brought in here from a squib accident—like yourself—or one seeking voluntary admission . . . one who, like yourself, has never been told, who has functioned along side humans, believing himself—itself—human. As to your hand—” He paused.
 
 “Forget my hand,” Poole said savagely.
 
@@ -10019,7 +10035,7 @@ He paid the facility its forty frogs, flexed his new fingers, tested them out by
 
 as coins, then departed. Ten minutes later he was aboard a public carrier, on his way home. It had been quite a day.
 
-At home, in his one-room apartment, he poured himself a shot of Jack Daniel’s Purple Label—sixty years old—and sat sipping it, meanwhile gazing through his sole window at the building on the opposite side of the street. Shall I go to the office? he asked himself. If so, why? If not, why? Choose one. Christ, he thought, it undermines you, knowing this. I’m a freak, he realized. An inanimate object mimicking an animate one. But— he felt alive. Yet . . . he felt differently, now. About himself. Hence about everyone, especially Danceman and Sarah, everyone at Tri-Plan.
+At home, in his one-room apartment, he poured himself a shot of Jack Daniel’s Purple Label—sixty years old—and sat sipping it, meanwhile gazing through his sole window at the building on the opposite side of the street. Shall I go to the office? he asked himself. If so, why? If not, why? Choose one. Christ, he thought, it undermines you, knowing this. I’m a freak, he realized. An inanimate object mimicking an animate one. But—he felt alive. Yet . . . he felt differently, now. About himself. Hence about everyone, especially Danceman and Sarah, everyone at Tri-Plan.
 
 I think Til kill myself, he said to himself. But I’m probably programmed not to do that; it would be a costly waste which my owner would have to absorb. And he wouldn’t want to.
 
@@ -10285,7 +10301,7 @@ Sarah said, “Would you like a cup of coffee, Mr. Poole?”	. . .	•
 
 “Yes,” he said; he lowered his legs, pressed his cold feet against the floor, shuddered. He then stood up. His body ached. They had me lying all night on the couch, he realized. All things considered, they could have done better than that.
 
-At the kitchen table in the far comer of the room, Garson Poole sat sipping coffee across from Sarah. The technicians had long since gone.
+At the kitchen table in the far corner of the room, Garson Poole sat sipping coffee across from Sarah. The technicians had long since gone.
 
 “You’re not going to try any more experiments on yourself, are you?” Sarah asked wistfully.
 
@@ -10365,7 +10381,7 @@ and at the same time hideous odors and tastes assailed him: the bitter presence 
 
 He wanted to say something to Sarah. Opening his mouth, he tried to bring forth words—a specific string of them out of the enormous mass of them brilliantly lighting his mind, scorching him with their utter meaning.	‘
 
-His mouth bumea. He wondered why.
+His mouth burned. He wondered why.
 
 Frozen against the wall, Sarah Benton opened her eyes and saw the curl of smoke ascending from Poole’s half-opened mouth. Then the roby sank down, knelt on elbows and knees; then slowly spread out in a broken, crumpled heap. She knew without examining it that it had “died.”	•
 
@@ -10464,7 +10480,7 @@ Crayne said caustically, “The next thing you’ll be telling us to cheer us up
 
 “Addi has got more to live for than we do.”
 
-“Every man has more to live for than any other man. I don’t have a cute chick to sleep with, but I’d like to see the semis rolling along the Riverside Freeway at sunset a few more times. It’s not what you have to live for; it’s that you want to live to see it, to be there— that’s what is so damn sad.”
+“Every man has more to live for than any other man. I don’t have a cute chick to sleep with, but I’d like to see the semis rolling along the Riverside Freeway at sunset a few more times. It’s not what you have to live for; it’s that you want to live to see it, to be there—that’s what is so damn sad.”
 
 They rode on in silence.
 
@@ -10494,9 +10510,9 @@ In the quiet living room of the girl’s house the three tempunauts sat around s
 
 thing but then it hit him. We’re in a closed time loop, he thought, we keep going throush this again and again, trying to solve the reentry problem, each time imagining it’s the first time, the only time . . . and never succeeding. Which attempt is this? Mavbe the millionth; we have sat here a million times, raking the same facts over and over again and getting nowhere. He felt bone-weary, thinking that. And he felt a sort of vast philosophical hate toward all other men, who did not have this enigma to deal with. We all go to one place, he thought, as the Bible says. But . . . for the three of us, we have been there already. Are lying there now. So it’s wrong to ask us to stand around on the surface of Earth afterward and argue and worry about it and try to figure out what malfunctioned. That should be, rightly, for our heirs to do. We’ve had enough already. ^
 
-He did not say this aloud, though—for their sake. ^ “Maybe you bumped into something,” the girl said. Glancing at the others. Benz said sardonically, “Maybe we ‘bumped into something.’ ”
+He did not say this aloud, though—for their sake. “Maybe you bumped into something,” the girl said. Glancing at the others. Benz said sardonically, “Maybe we ‘bumped into something.’ ”
 
-“The TV commentators keep saying that,” Merry Lou said, “about the hazard in reentry of being out of phase spatially and colliding right down to the molecular level with tangent objects, any one of which— ’ She gestured. “You know. ‘No two objects can occupy the same space at the same time.’ So everything blew up, for that reason.” She glanced around questioningly.
+“The TV commentators keep saying that,” Merry Lou said, “about the hazard in reentry of being out of phase spatially and colliding right down to the molecular level with tangent objects, any one of which—’ She gestured. “You know. ‘No two objects can occupy the same space at the same time.’ So everything blew up, for that reason.” She glanced around questioningly.
 
 “That is the major risk factor,” Crayne acknowl-; edged. “At least theoretically, as Dr. Fein at Planning I calculated when they got into the hazard question. But 1 we had a variety of safety locking devices provided that unctioned automatically. Reentry couldn’t occur unless ! these assists had stabilized us spatially so we would not i overlap. Of course, all those devices, in sequence, might have failed. One after the other. I was watching my feedback metric scopes on launch, and they agreed, every one of them, that we were phased properly at that time. And I heard no warning tones. Saw none, nei-i ther.” He grimaced. “At least it didn’t happen then.” Suddenly Benz said, “Do you realize that our next of kin are now rich? All our Federal and commercial life-
 
@@ -10558,7 +10574,7 @@ A fear that he had never experienced before over-:ame Addison Doug. He turned he
 
 “I really don’t believe this is what happened,” Benz said to him in a low voice, putting his hand on Doug’s shoulder; he gripped hard, the grip of friendship. “We just imploded on reentry, that’s all. Take it easy.”
 
-“Could we adjourn soon?” Addison Doug said in a hoarse, strangling voice, half rising from his chair. He felt the room and the people in it rushing in at him, suffocating him. Claustrophobia, he realized. Like when I was in grade school, when they flashed a surprise test on our teaching machines, and I saw I couldn’t pass it. “Please,” he said simply, standing. They were all looking at him, with different expressions. The Russian’s face was especially sympathetic, and deeply lined with care. Addison wished— “I want to go home,” he said to them all, and felt stupid.	. ‘
+“Could we adjourn soon?” Addison Doug said in a hoarse, strangling voice, half rising from his chair. He felt the room and the people in it rushing in at him, suffocating him. Claustrophobia, he realized. Like when I was in grade school, when they flashed a surprise test on our teaching machines, and I saw I couldn’t pass it. “Please,” he said simply, standing. They were all looking at him, with different expressions. The Russian’s face was especially sympathetic, and deeply lined with care. Addison wished—“I want to go home,” he said to them all, and felt stupid.	. ‘
 
 He was drunk. It was late at night, at a bar on Hollywood Boulevard; fortunately, Merry Lou was with him, and he was having a good time. Everyone was telling him so, anyhow. He clung to Merry Lou and said, “The great unity in life, the supreme unity and meaning, is man and woman. Their absolute unity; right?”
 
@@ -10592,7 +10608,7 @@ himself beside Addison, “you really shouldn’t be here shooting off your mout
 
 Addison looked at the man. “I knew what you were going to say before you came over here.” Word for word, he thought. I am right, and Benz is wrong and this will keep happening, this replay.
 
-“Maybe,” the security agent said, “I can induce you to go back to Miss Hawkins’s place voluntarily. Some info arrived”—he tapped the tiny earphone in his right ear— “just a few minutes ago, to all of us, to deliver to you, marked urgent, if we located you. At the launch-site ruins . . . they’ve been combing through the rubble, you know?”
+“Maybe,” the security agent said, “I can induce you to go back to Miss Hawkins’s place voluntarily. Some info arrived”—he tapped the tiny earphone in his right ear—“just a few minutes ago, to all of us, to deliver to you, marked urgent, if we located you. At the launch-site ruins . . . they’ve been combing through the rubble, you know?”
 
 “I know,” Addison said.
 
@@ -10624,7 +10640,7 @@ The security agency said, “Preliminary analysis shows that machinery weighing 
 
 “Wow!” Merry Lou said, eyes wide. “Maybe somebody sold one of you a quadraphonic phono for a dollar ninety-eight including fifteen-inch air-suspension speak-
 
-ers and a lifetime supply of Neil Diamond records.” She tried to laugh, but failed; her eyes dimmed over. “Addi,” she whispered, “I’m sorry. But it’s sort of— weird. I mean, it’s absurd; you all were briefed, weren’t you, about your return weight? You weren’t even to add so much as a piece of paper to what you took. I even saw Dr. Fein demonstrating the reasons on TV. And one of you hoisted a hundred pounds of machinery into the field? You must have been trying to self-destruct, to do that!” Tears slid from her eyes; one tear rolled out onto her nose and hung there. He reached reflexively to wipe it away, as if helping a little girl rather than a grown one. -	■
+ers and a lifetime supply of Neil Diamond records.” She tried to laugh, but failed; her eyes dimmed over. “Addi,” she whispered, “I’m sorry. But it’s sort of—weird. I mean, it’s absurd; you all were briefed, weren’t you, about your return weight? You weren’t even to add so much as a piece of paper to what you took. I even saw Dr. Fein demonstrating the reasons on TV. And one of you hoisted a hundred pounds of machinery into the field? You must have been trying to self-destruct, to do that!” Tears slid from her eyes; one tear rolled out onto her nose and hung there. He reached reflexively to wipe it away, as if helping a little girl rather than a grown one. -	■
 
 “I’ll fly you to the analysis site,” the security agent said, standing up. He and Addison helped Merry Lou to her feet; she trembled as she stood a moment, finishing her Bloody Mary. Addison felt acute sorrow for her, but then, almost at once, it passed. He wondered why. One can weary even of that, he conjectured. Of caring for someone. If it goes on too long—on and on. Forever. And, at last, even after that, into something no one before, not God Himself, maybe, had ever had to suffer and in the end, for all His great heart, succumb to.
 
@@ -10682,7 +10698,7 @@ Tempunaut Benz said, “We are doing that, yes.” “Trying to ascertain the ca
 
 This is awful, Cassidy thought. “This is amazing!” he said aloud, into his neck mike. “The already tragically deceased U.S. tempunauts, with a determination that could emerge only from the rigorous training and dis-• cipline to which they were subjected—and we wondered why at the time but can clearly see why now—have already analyzed the mechanical slip-up responsible, evidently, for their own deaths, and have begun the laborious process of sifting through and eliminating causes of that slip-up so that they can return to their original launch site and reenter without mishap.”
 
-“One wonders,” Branton mumbled onto the air and into his feedback earphone, “what the consequences of this alteration of the near past will be. If in reentry they do not implode and are not killed, then they will not— well, it’s too complex for me, Henry, these time paradoxes that Dr. Fein at the Time Extrusion Labs in Pasadena has so frequently and eloquently brought to our attention.”
+“One wonders,” Branton mumbled onto the air and into his feedback earphone, “what the consequences of this alteration of the near past will be. If in reentry they do not implode and are not killed, then they will not—well, it’s too complex for me, Henry, these time paradoxes that Dr. Fein at the Time Extrusion Labs in Pasadena has so frequently and eloquently brought to our attention.”
 
 Into all the microphones available, of all sorts, tempunaut Addison Doug was saying, more quietly now, “We must not eliminate the cause of reentry implosion. The only way out of this trap is for us to die. Death is the only solution for this. For the three of us.” He was interrupted as the procession of Cadillacs began to move forward.	‘	■ .	I
 
@@ -10700,7 +10716,7 @@ He segued, then, to a commercial.	#
 
 “Then we have, too,” Cassidy said.
 
-Rain fell now, making all the lined-up mourners shiny. Their faces, their eyes, even their clothes— everything glistened in wet reflections of broken, fractured light, bent and sparkling, as, from gathering gray formless layers above them, the day darkened.
+Rain fell now, making all the lined-up mourners shiny. Their faces, their eyes, even their clothes—everything glistened in wet reflections of broken, fractured light, bent and sparkling, as, from gathering gray formless layers above them, the day darkened.
 
 “Are we on the air?” Branton asked.
 
@@ -10822,7 +10838,7 @@ With a flashlight from the glove compartment thi three men examined the box. Add
 
 “At me?” Addison Doug said.
 
-“I don’t know,” Benz said. “It just— Hell.” H lapsed into brooding silence then. Hunched over, bal fled and inert. Withdrawn as far as possible from th others in the car.
+“I don’t know,” Benz said. “It just—Hell.” H lapsed into brooding silence then. Hunched over, bal fled and inert. Withdrawn as far as possible from th others in the car.
 
 At the next freeway junction she turned the ce south. A sense of freedom seemed now to fill her, an Addison Doug felt some of the weight, the fatigue, et bing already.
 
@@ -10848,7 +10864,7 @@ Addison Doug exhaled raggedly. You nowhere autocratic mother, he thought. You pr
 
 Addison Doug said nothing.
 
-“In fact, Addi—and this is the severe part that I have to stress—implosion at reentry, especially a massive, calculated one of the sort we seem to see shaping up— do you grasp all this, Addi? Am I getting through to you? For Chrissake, Addi? Virtually guarantees the locking in of an absolutely unyielding loop such as
+“In fact, Addi—and this is the severe part that I have to stress—implosion at reentry, especially a massive, calculated one of the sort we seem to see shaping up—do you grasp all this, Addi? Am I getting through to you? For Chrissake, Addi? Virtually guarantees the locking in of an absolutely unyielding loop such as
 
 you’ve got in mind. Such as we’ve all been worried about from the start.” A pause. “Addi? Are you there?” Addison Doug said, “I want to die.”
 
@@ -10920,7 +10936,7 @@ So now, briefly, to consider these stories themselves.
 
 “Roog”: My first sale! And to Tony Boucher at *F&SF*. He made me work this story over to its very bones before he accepted it. But ah, that day a letter arrived in the mail, instead of a manuscript back with a rejection slip! I love this story, and I doubt if I write any better today than I did in 1951, when I wrote it; I just write longer.
 
-“Second Variety”: My grand theme—who is human and who only appears (masquerades) as a human?— emerges most fully. Unless we can individually and collectively be certain of the answer to this question, we face what is, in my view, the most serious problem possible. Without answering it adequately, we cannot even be certain of our own selves. I cannot even know myself, let alone you. So I keep working on this theme; to me nothing else is as important a question. And the answer comes very hard.
+“Second Variety”: My grand theme—who is human and who only appears (masquerades) as a human?—emerges most fully. Unless we can individually and collectively be certain of the answer to this question, we face what is, in my view, the most serious problem possible. Without answering it adequately, we cannot even be certain of our own selves. I cannot even know myself, let alone you. So I keep working on this theme; to me nothing else is as important a question. And the answer comes very hard.
 
 “Paycheck”: How much is a key to a bus locker worth? One day it’s worth 25¢, the next day thousands <a id="page447" />of dollars. In this story I got to thinking that there are times in our lives when having a dime to make a phone call spells the difference between life and death. Keys, small change, maybe a theater ticket—how about a parking receipt for a Jaguar? All I had to do was link this idea up with time travel to see how the small and useless, under the wise eyes of a time traveler, might signify a great deal more. He would know when that dime might save your life. And, back in the past again, he might prefer that dime to any other amount of money, no matter how large.
 
@@ -10948,7 +10964,7 @@ So now, briefly, to consider these stories themselves.
 
 “Oh, to Be a Blobel!”: Here I nailed down the ultimate meaningless irony of war: the human turns into a Blobel, and the Blobel, his enemy, turns into a human, and there it all is, the futility, the black humor, the stupidity. And in the story they all wind up happy.
 
-“Faith of Our Fathers”: The title is that of an old hymn. I think, with this story, I managed to offend everybody, which seemed at the time to be a good idea, but which I’ve regretted since. Communism, drugs, sex, God— I put it all together, and it’s been my impression since that when the roof fell in on me years later, this story was in some eerie way involved.
+“Faith of Our Fathers”: The title is that of an old hymn. I think, with this story, I managed to offend everybody, which seemed at the time to be a good idea, but which I’ve regretted since. Communism, drugs, sex, God—I put it all together, and it’s been my impression since that when the roof fell in on me years later, this story was in some eerie way involved.
 
 “The Electric Ant”: A most recent story of mine, with again the theme: How much of what we calf “reality” is actually out there or rather within our own head? The ending of this story has always frightened me . . . <a id="page450" />the image of the rushing wind, the sound of emptiness. As if the character hears the final fate of the world itself.
 

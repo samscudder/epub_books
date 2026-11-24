@@ -71,7 +71,7 @@ AND AFFECTION OF THREE GENERATIONS.
 blurb
 
 .center
-**The Conquest of Joiry**
+<a id="pagei"></a>**The Conquest of Joiry**
 
 .space
 **A little light kindled behind Guillaume’s eyes cs he swept the long, strong iines of Jirel with a practiced gaze. “By the Nails!” he roared. “I’ll wager your mouth is sweeter than your words.”**
@@ -95,7 +95,7 @@ blurb
 other_books
 
 .center
-**THE CRITICALLY ACCLAIMED SERIES**
+<a id="pageii"></a>**THE CRITICALLY ACCLAIMED SERIES**
 **OF CLASSIC SCIENCE FICTION**
 ***Published by Ballantine Books:***
 
@@ -147,7 +147,7 @@ other_books
 
 titlepage
 
-# THE BEST OF<br />*C. L. Moore*
+# <a id="pageiii"></a>THE BEST OF<br />*C. L. Moore*
 
 .editor
 Edited and with an introduction by
@@ -170,7 +170,7 @@ BALLANTINE BOOKS • NEW YORK
 
 copyright
 
-A Del Rey Book
+<a id="pageiv"></a>A Del Rey Book
 Published by Ballantine Books
 
 Copyright © 1975 by C. L. Moore
@@ -201,7 +201,7 @@ Second Canadian Printing: January 1981
 acknowledgments
 
 .center
-ACKNOWLEDGMENTS
+<a id="pagev"></a>ACKNOWLEDGMENTS
 
 .space.revindent
 “Shambleau,” copyright © 1933 by Popular Fiction Publishing Co., for *Weird Tales*, November 1933; copyright renewed 1961 by C L. Moore.
@@ -237,7 +237,7 @@ ACKNOWLEDGMENTS
 
 contents
 
-# Contents
+# <a id="pagevii"></a>Contents
 
 .fl
 [*Introduction:* Forty Years of C. L. Moore](introduction) by Lester del Rey
@@ -257,7 +257,7 @@ contents
 
 introduction
 
-# Forty Years of C. L. Moore
+# <a id="pageix"></a>Forty Years of C. L. Moore
 
 Back in the fall of 1933, I opened the November issue of *Weird Tales* to find a story with the provocative but meaningless title, “Shambleau,” by an unknown writer named C. L. Moore—and life was never quite the same afterwards. Up to that time, science-fiction readers had accepted the mechanistic and unemotional stories of other worlds and future times without question. After the publication of Moore’s story, however, the bleakness of such writing would never again be satisfactory.
 
@@ -265,7 +265,7 @@ Almost forty years later, I sat in the audience at a World Science Fiction Conve
 
 Many in that audience had never read the story. But everyone knew about it. And everyone knew that Catherine Moore was one of the finest writers of all time in the field of science fiction.
 
-It is probably impossible to explain to modem readers how great an impact that first C. L. Moore story had. Science fiction has learned a great deal from her many examples. But if you could go back to the old science-fiction magazines of the time and read a few issues, and then turn to “Shambleau” for the first time, you might begin to understand. The influences of that story were and are tremendous.
+It is probably impossible to explain to modem readers how great an impact that first C. L. Moore story had. Science fiction has learned a great deal from her many examples. But if you could go back to the old science-fiction magazines of the time and read a few issues, and then turn to “Shambleau” for the first time, you might <a id="pagex"></a>begin to understand. The influences of that story were and are tremendous.
 
 Here, for the first time in the field, we find mood, feeling, and color. Here is an alien who is truly *alien*—far different from the crude monsters and slightly-altered humans found in other stories. Here are rounded and well-developed characters. Northwest Smith, for instance, is neither a good guy nor a bad guy—he may be slightly larger than life, but he displays all aspects of humanity. In “Shambleau” we also experience as never before both the horror at what we may find in space and the romance of space itself. And—certainly for the first time that I can remember in the field—this story presents the sexual drive of humanity in some of its complexity.
 
@@ -273,7 +273,7 @@ Here, for the first time in the field, we find mood, feeling, and color. Here is
 
 Many of Moore’s early stories appeared in *Weird Tales*, though they were basically science fiction. Apparently, some of the editors of the sf magazines of the day were afraid of such extreme deviation from the more standard stories. But in October, 1934, *Astounding Stories* published her “Bright Illusion.” Now in those days, as countless letters to the editor indicated, the one thing readers of the science-fiction magazines did not want was a love story. Yet here was a tale of the pure quintessence of love that transcended all limits! Nevertheless, the readers raved about it and clamored for more.
 
-A few years ago, Larry Janifer was putting together an anthology of the favorite stories of a number of leading writers in the field. I sent him three titles, including “Bright Illusion.” He wrote back to say that he had never read it before, that he was deeply grateful to me for suggesting it, and that it was an absolute *must* for the book. Somehow, in spite of advances and changes in our writing, the stories of C. L. Moore remain as fresh and powerful now as they were back when the field was groping through its beginnings.
+A few years ago, Larry Janifer was putting together an anthology of the favorite stories of a number of leading writers in the field. I sent him three titles, including “Bright Illusion.” He wrote back to say that he had never read it before, that he was deeply grateful to me for suggesting it, and that it was an absolute *must* for the book. Somehow, in spite of advances and changes in our writing, the stories of C. L. Moore remain as fresh and <a id="pagexi"></a>powerful now as they were back when the field was groping through its beginnings.
 
 Meanwhile, in *Weird Tales*, Moore was beginning a new series of stories about Jirel, the warrior maid of the mythical kingdom of Joiry. In those days, the sf magazines were all intensely male oriented. Most of the readers were male, and the idea of sexual equality had never been considered—certainly not for the protagonist of an adventure story. For such fiction, it followed axiomatically, one used a male hero. But in “Black God’s Kiss” the intensely feminine Jirel was a woman equal in battle to any swashbuckling male hero who ever ruled over the knights of ancient valor.
 
@@ -283,7 +283,7 @@ Jirel of Joiry was no imperturbable battler, however. She loved and hated, feare
 
 During these early years, C. L. Moore had been a fairly prolific writer of stories which dealt almost exclusively with the most emotional elements of fiction. But after 1938, changes came about that may or may not have been caused by a change in her personal fife. Her biographers disagree, and she makes few comments that provide us with any real answer. My own suspicion is that the changes occurred because of greater maturity on the part of the writer. Certainly, however, the alteration of her fictional interests coincide with a major event in her life.
 
-When her first story was published, she was just twenty-two years old and was employed as a secretary in a bank in Indianapolis. By all accounts, she was a lovely and very popular young lady. But there had been many years of ill health before, during which she had turned to fiction as an escape. She says that she had been writing for fifteen years before submitting anything for publication. That would explain the “escapist” nature of her early fiction, though hardly the vigor of the stories.
+<a id="pagexii"></a>When her first story was published, she was just twenty-two years old and was employed as a secretary in a bank in Indianapolis. By all accounts, she was a lovely and very popular young lady. But there had been many years of ill health before, during which she had turned to fiction as an escape. She says that she had been writing for fifteen years before submitting anything for publication. That would explain the “escapist” nature of her early fiction, though hardly the vigor of the stories.
 
 In 1938, Catherine Moore met Henry Kuttner, a young writer of great promise, who was then just becoming recognized. She gave up her job in Indianapolis and moved to New York, where she and Kuttner were married in 1940. From then until 1958, when Kuttner died of a heart attack, after becoming one of the leading writers of science fiction, her interests were strongly focused on writing as a way of life.
 
@@ -291,7 +291,7 @@ Kuttner and Moore were an unusual mating of talents. Her fiction was noted for i
 
 They often worked together upon a single story; indeed, few stories produced during their marriage seem to be the work of either one alone. They used a great number of pseudonyms, some of which they seemed to share or exchange. And generally, the authorship of many of the stories is something of a puzzle, even today. A tale credited to Kuttner in one compiler’s list may be ascribed to Moore in another list. Internal evidence isn’t always much help, either. I’m told that the novel *Fury* was written by Kuttner, based upon a novelette entitled “Clash by Night,” by Moore; yet of the two, the novel seems to have more of the richness of emotional tone one might expect from Moore.
 
-The change in Moore’s fiction began before her marriage, however. “Greater than Gods” appeared in the July, 1939, issue of *Astounding Science Fiction* (the magazine having changed its title slightly). In this story, love again plays a key role—but hardly in its old, romantic fashion. Here love is no longer some unbreakable tie between man and woman that can defy time and the gods. Now the conflict lies in a choice between duty and a man’s desire for love. The problem and the resolution of the story are clearly intellectual in their development. Only the power of the writing remains unchanged from the preceding “Tryst in Time.”
+The change in Moore’s fiction began before her marriage, however. “Greater than Gods” appeared in the July, 1939, issue of *Astounding Science Fiction* (the <a id="pagexiii"></a>magazine having changed its title slightly). In this story, love again plays a key role—but hardly in its old, romantic fashion. Here love is no longer some unbreakable tie between man and woman that can defy time and the gods. Now the conflict lies in a choice between duty and a man’s desire for love. The problem and the resolution of the story are clearly intellectual in their development. Only the power of the writing remains unchanged from the preceding “Tryst in Time.”
 
 Moore’s next story also must have been written before her marriage, though it appeared afterward, in the October, 1940, issue of *Unknown*. “Fruit of Knowledge” is straight fantasy with none of the trappings of science fiction. And here it is difficult to determine whether emotion or intellect is the stronger element. The basic idea—the ancient myth of Lilith—is one that almost forces a writer to fall back on the emotionalism usually associated with this strangely undying bit of folklore. Moore’s refusal to accept the obvious in telling of this conflict of love and Divine Power indicates clearly the deeper insight she was gaining in the handling of the elements of fiction.
 
@@ -299,7 +299,7 @@ Unfortunately, the years of marriage resulted in very few stories that can be cr
 
 Of these later stories, my favorite is “No Woman Born,” which appeared in the December 1944 issue of *Astounding Science Fiction*. This is a nearly perfect blend of emotion and intellect. The conflict of the story lies in the problem of discovering what the basis of true humanity may really be—a problem that has baffled philosophers for centuries. Quite rightly, Moore sees the problem also as encompassing the need to know the basis and nature of human emotions. The resulting portrait of a great artist and marvelously feminine woman struggling to be true to her inner self is unforgettable.
 
-Perhaps the least typical Moore story included here is “Daemon,” which appeared in the October, 1946, issue of *Famous Fantastic Fiction*. This is a straight fantasy about a “simpleton” with a strange gift. The idea seems slight, and it could easily lead to an excess of sentimentality. Yet the story is told simply and calmly—but very effectively. It’s an excellent example of Moore’s developed craftsmanship as a writer.
+Perhaps the least typical Moore story included here is “Daemon,” which appeared in the October, 1946, issue <a id="pagexiv"></a>of *Famous Fantastic Fiction*. This is a straight fantasy about a “simpleton” with a strange gift. The idea seems slight, and it could easily lead to an excess of sentimentality. Yet the story is told simply and calmly—but very effectively. It’s an excellent example of Moore’s developed craftsmanship as a writer.
 
 At about the same time, in the September, 1946, issue of *Astounding Science Fiction*, “Vintage Season” appeared. This is the story which most seem to consider Moore’s masterpiece. Certainly it has been included in more of the great anthologies than her other stories. C. L. Moore seems to have posed a problem for most anthologists; her stories are never less than 10,000 words in length, and most are much longer. The editor of an anthology is usually compelled to include as many stories as possible, which means that novelettes tend to be passed up in favor of shorter stories. But “Vintage Season” proved to be so good that it could hardly be left out!
 
@@ -309,7 +309,7 @@ During the following years, C. L. Moore wrote a few stories and a novel, *Doomsd
 
 After the tragic death of Henry Kuttner, she remained in California, where she turned to the lucrative field of television writing. She has married again, this time to Thomas Reggie, who is not a writer.
 
-There have been no new science-fiction or fantasy stories from C. L. Moore for almost twenty years now. But her reputation among readers and editors has never diminished. She remains preeminent in the field. And recently she has begun to talk about trying her hand again at science fiction. ’Tis a consummation devoutly to be wished!
+There have been no new science-fiction or fantasy stories from C. L. Moore for almost twenty years now. But her reputation among readers and editors has never diminished. She remains preeminent in the field. And <a id="pagexv"></a>recently she has begun to talk about trying her hand again at science fiction. ’Tis a consummation devoutly to be wished!
 
 .right
 Lester del Rey
@@ -328,7 +328,7 @@ shambleau
 .fl
 <span class="smallcaps">“Shambleau! ha . . . Shambleau!”</span> The wild hysteria of the mob rocketed from wall to wall of Lakkdarol’s narrow streets and the storming of heavy boots over the slag-red pavement made an ominous undernote to that swelling bay, “Shambleau! Shambleau!”
 
-Northwest Smith heard it coming and stepped into the nearest doorway, laying a wary hand on his heat-gun’s grip, and his colorless eyes narrowed. Strange sounds were common enough in the streets of Earth’s latest colony on Mars—a raw, red little town where anything <a id="page2" />might happen, and very often did. But Northwest Smith, whose name is known and respected in every dive and wild outpost on a dozen wild planets, was a cautious man, despite his reputation. He set his back against the wall and gripped his pistol, and heard the rising shout come nearer and nearer.
+Northwest Smith heard it coming and stepped into the nearest doorway, laying a wary hand on his heat-gun’s grip, and his colorless eyes narrowed. Strange sounds were common enough in the streets of Earth’s latest colony on Mars—a raw, red little town where anything <a id="page2"></a>might happen, and very often did. But Northwest Smith, whose name is known and respected in every dive and wild outpost on a dozen wild planets, was a cautious man, despite his reputation. He set his back against the wall and gripped his pistol, and heard the rising shout come nearer and nearer.
 
 Then into his range of vision flashed a red running figure, dodging like a hunted hare from shelter to shelter in the narrow street. It was a girl—a berry-brown girl in a single tattered garment whose scarlet burnt the eyes with its brilliance. She ran wearily, and he could hear her gasping breath from where he stood. As she came into view he saw her hesitate and lean one hand against the wall for support, and glance wildly around for shelter. She must not have seen him in the depths of the doorway, for as the bay of the mob grew louder and the pounding of feet sounded almost at the corner she gave a despairing little moan and dodged into the recess at his very side.
 
@@ -340,7 +340,7 @@ It was a motley crowd, Earthmen and Martians and a sprinkling of Venusian swampm
 
 “Looking for something?” Smith’s sardonic call sounded clear above the clamor of the mob.
 
-They turned. The shouting died for a moment as they took in the scene before them—tall Earthman in the <a id="page3" />space-explorer’s leathern garb, all one color from the burning of savage suns save for the sinister pallor of his no-colored eyes in a scarred and resolute face, gun in his steady hand and the scarlet girl crouched behind him, panting.
+They turned. The shouting died for a moment as they took in the scene before them—tall Earthman in the <a id="page3"></a>space-explorer’s leathern garb, all one color from the burning of savage suns save for the sinister pallor of his no-colored eyes in a scarred and resolute face, gun in his steady hand and the scarlet girl crouched behind him, panting.
 
 The foremost of the crowd—a burly Earthman in tattered leather from which the Patrol insignia had been ripped away—stared for a moment with a strange expression of incredulity on his face overspreading the savage exultation of the chase. Then he let loose a deep-throated bellow, “Shambleau!” and lunged forward. Behind him the mob took up the cry again, “Shambleau! Shambleau! Shambleau!” and surged after.
 
@@ -352,7 +352,7 @@ Smith, lounging negligently against the wall, arms folded and gun-hand draped ov
 
 “Come and get her!” Recklessly Smith grinned into his face. He saw danger there, but his defiance was not the foolhardy gesture it seemed. An expert psychologist of mobs from long experience, he sensed no murder here. Not a gun had appeared in any hand in the crowd. They desired the girl with an inexplicable bloodthirstiness he was at a loss to understand, but toward himself he sensed no such fury. A mauling he might expect, but his life was in no danger. Guns would have appeared before now if they were coming out at all. So he grinned in the man’s angry face and leaned lazily against the wall.
 
-<a id="page4" />Behind their self-appointed leader the crowd milled impatiently, and threatening voices began to rise again. Smith heard the girl moan at his feet.
+<a id="page4"></a>Behind their self-appointed leader the crowd milled impatiently, and threatening voices began to rise again. Smith heard the girl moan at his feet.
 
 “What do you want with her?” he demanded.
 
@@ -380,7 +380,7 @@ The man stared at him wordlessly, and horror, disgust and incredulity mingled on
 
 Smith nodded defiance.
 
-The man stepped back suddenly, unutterable contempt in his very pose. He waved an arm to the crowd and said loudly, “It’s—his!” and the press melted away, <a id="page5" />gone silent, too, and the look of contempt spread from face to face.
+The man stepped back suddenly, unutterable contempt in his very pose. He waved an arm to the crowd and said loudly, “It’s—his!” and the press melted away, <a id="page5"></a>gone silent, too, and the look of contempt spread from face to face.
 
 The ex-Patrolman spat on the slag-paved street and turned his back indifferently. “Keep her, then,” he advised briefly over one shoulder. “But don’t let her out again in this town!”
 
@@ -389,7 +389,7 @@ Smith stared in perplexity almost open-mouthed as the suddenly scornful mob bega
 
 And they were leaving his vicinity as swiftly as if whatever unknowing sin he had committed were contagious. The street was emptying as rapidly as it had filled. He saw a sleek Venusian glance back over his shoulder as he turned the corner and sneer, “Shambleau!” and the word awoke a new line of speculation in Smith’s mind. Shambleau! Vaguely of French origin, it must be. And strange enough to hear it from the lips of Venusians and Martian drylanders, but it was their use of it that puzzled him more. “We never let those things live,” the ex-Patrolman had said. It reminded him dimly of something . . . an ancient line from some writing in his own tongue . . . “Thou shalt not suffer a witch to live.” He smiled to himself at the similarity, and simultaneously was aware of the girl at his elbow.
 
-She had risen soundlessly. He turned to face her, sheathing his gun, and stared at first with curiosity and then in the entirely frank openness with which men regard that which is not wholly human. For she was not. He knew it at a glance, though the brown, sweet body was shaped like a woman’s and she wore the garment of <a id="page6" />scarlet—he saw it was leather—with an ease that few unhuman beings achieve toward clothing. He knew it from the moment he looked into her eyes, and a shiver of unrest went over him as he met them. They were frankly green as young grass, with slit-like, feline pupils that pulsed unceasingly, and there was a look of dark, animal wisdom in their depths—that look of the beast which sees more than man.
+She had risen soundlessly. He turned to face her, sheathing his gun, and stared at first with curiosity and then in the entirely frank openness with which men regard that which is not wholly human. For she was not. He knew it at a glance, though the brown, sweet body was shaped like a woman’s and she wore the garment of <a id="page6"></a>scarlet—he saw it was leather—with an ease that few unhuman beings achieve toward clothing. He knew it from the moment he looked into her eyes, and a shiver of unrest went over him as he met them. They were frankly green as young grass, with slit-like, feline pupils that pulsed unceasingly, and there was a look of dark, animal wisdom in their depths—that look of the beast which sees more than man.
 
 There was no hair upon her face—neither brows nor lashes, and he would have sworn that the tight scarlet turban bound around her head covered baldness. She had three fingers and a thumb, and her feet had four digits apiece too, and all sixteen of them were tipped with round claws that sheathed back into the flesh like a cat’s. She ran her tongue over her lips—a thin, pink, flat tongue as feline as her eyes—and spoke with difficulty. He felt that that throat and tongue had never been shaped for human speech.
 
@@ -417,7 +417,7 @@ She drew herself up very straight beside him, lifting the turbaned head, and the
 
 “Martian?” she said scornfully. “My people—are—are—you have no word. Your speech—hard for me.”
 
-<a id="page7" />“What’s yours? I might know it—try me.”
+<a id="page7"></a>“What’s yours? I might know it—try me.”
 
 She lifted her head and met his eyes squarely, and there was in hers a subtle amusement—he could have sworn it.
 
@@ -444,7 +444,7 @@ He stared down into the flat green eyes. Those ceaselessly pulsing pupils distur
 Roughly he said again, “Come on, then,” and stepped down into the street.
 
 .space
-She pattered along a pace or two behind him, making no effort to keep up with his long strides, and though Smith—as men know from Venus to Jupiter’s moons—<a id="page8" />walks as softly as a cat, even in spacemen’s boots, the girl at his heels slid like a shadow over the rough pavement, making so little sound that even the lightness of his footsteps was loud in the empty street.
+She pattered along a pace or two behind him, making no effort to keep up with his long strides, and though Smith—as men know from Venus to Jupiter’s moons—<a id="page8"></a>walks as softly as a cat, even in spacemen’s boots, the girl at his heels slid like a shadow over the rough pavement, making so little sound that even the lightness of his footsteps was loud in the empty street.
 
 Smith chose the less frequented ways of Lakkdarol, and somewhat shamefacedly thanked his nameless gods that his lodgings were not far away, for the few pedestrians he met turned and stared after the two with that by now familiar mingling of horror and contempt which he was as far as ever from understanding.
 
@@ -452,7 +452,7 @@ The room he had engaged was a single cubicle in a lodging-house on the edge of t
 
 There was no one in sight when he entered, and the girl slipped up the stairs at his heels and vanished through the door, shadowy, unseen by anyone in the house. Smith closed the door and leaned his broad shoulders against the panels, regarding her speculatively.
 
-She took in what little the room had to offer in a glance—frowsy bed, rickety table, mirror hanging unevenly and cracked against the wall, unpainted chairs— a typical camp-town room in an Earth settlement abroad. She accepted its poverty in that single glance, dismissed it, then crossed to the window and leaned out for a moment, gazing across the low roof-tops toward the barren countryside beyond, red slag under the late afternoon sun.
+She took in what little the room had to offer in a glance—frowsy bed, rickety table, mirror hanging unevenly and cracked against the wall, unpainted chairs—a typical camp-town room in an Earth settlement abroad. She accepted its poverty in that single glance, dismissed it, then crossed to the window and leaned out for a moment, gazing across the low roof-tops toward the barren countryside beyond, red slag under the late afternoon sun.
 
 “You can stay here,” said Smith abruptly, “until I leave town. I’m waiting here for a friend to come in from Venus. Have you eaten?”
 
@@ -462,12 +462,12 @@ She took in what little the room had to offer in a glance—frowsy bed, rickety 
 
 With no more formality than that he left her. The door closed and he heard the key turn, and smiled to himself. He did not expect, then, ever to see her again.
 
-<a id="page9" />He went down the steps and out into the late-slanting sunlight with a mind so full of other matters that the brown girl receded very quickly into the background. Smith’s errand in Lakkdarol, like most of his errands, is better not spoken of. Man lives as he must, and Smith’s living was a perilous affair outside the law and ruled by the ray-gun only. It is enough to say that the shipping-port and its cargoes outbound interested him deeply just now, and that the friend he awaited was Yarol the Venusian, in that swift little Edsel ship the *Maid* that can flash from world to world with a derisive speed that laughs at Patrol boats and leaves pursuers floundering in the ether far behind. Smith and Yarol and the *Maid* were a trinity that had caused the Patrol leaders much worry and many gray hairs in the past, and the future looked very bright to Smith himself that evening as he left his lodging-house.
+<a id="page9"></a>He went down the steps and out into the late-slanting sunlight with a mind so full of other matters that the brown girl receded very quickly into the background. Smith’s errand in Lakkdarol, like most of his errands, is better not spoken of. Man lives as he must, and Smith’s living was a perilous affair outside the law and ruled by the ray-gun only. It is enough to say that the shipping-port and its cargoes outbound interested him deeply just now, and that the friend he awaited was Yarol the Venusian, in that swift little Edsel ship the *Maid* that can flash from world to world with a derisive speed that laughs at Patrol boats and leaves pursuers floundering in the ether far behind. Smith and Yarol and the *Maid* were a trinity that had caused the Patrol leaders much worry and many gray hairs in the past, and the future looked very bright to Smith himself that evening as he left his lodging-house.
 
 .space
 Lakkdarol roars by night, as Earthmen’s camp-towns have a way of doing on every planet where Earth’s outposts are, and it was beginning lustily as Smith went down among the awakening lights toward the center of town. His business there does not concern us. He mingled with the crowds where the lights were brightest, and there was the click of ivory counters and the jingle of silver, and red *segir* gurgled invitingly from black Venusian bottles, and much later Smith strolled homeward under the moving moons of Mars, and if the street wavered a little under his feet now and then—why, that is only understandable. Not even Smith could drink red *segir* at every bar from the *Martian Lamb* to the *New Chicago* and remain entirely steady on his feet. But he found his way back with very little difficulty—considering—and spent a good five minutes hunting for his key before he remembered he had left it in the inner lock for the girl.
 
-He knocked then, and there was no sound of footsteps from within, but in a few moments the latch clicked and the door swung open. She retreated soundlessly before him as he entered, and took up her favorite place against the window, leaning back on the sill and <a id="page10" />outlined against the starry sky beyond. The room was in darkness.
+He knocked then, and there was no sound of footsteps from within, but in a few moments the latch clicked and the door swung open. She retreated soundlessly before him as he entered, and took up her favorite place against the window, leaning back on the sill and <a id="page10"></a>outlined against the starry sky beyond. The room was in darkness.
 
 Smith flipped the switch by the door and then leaned back against the panels, steadying himself. The cool night air had sobered him a little, and his head was clear enough—liquor went to Smith’s feet, not his head, or he would never have come this far along the lawless way he had chosen. He lounged against the door now and regarded the girl in the sudden glare of the bulbs, blinding a little as much at the scarlet of her clothing as at the light.
 
@@ -481,31 +481,27 @@ She did not answer that, but her mouth curved into a slow smile. On a woman it w
 
 “Come here,” he said.
 
-She came forward slowly, on bare clawed feet that made no sound on the floor, and stood before him with downcast eyes and mouth trembling in that pitifully human smile. He took her by the shoulders—velvety soft shoulders, of a creamy smoothness that was not the texture of human flesh. A little tremor went over her, perceptibly, at the contact of his hands. Northwest Smith caught his breath suddenly and dragged her to him . . . sweet yielding brownness in the circle of his arms . . . heard her own breath catch and quicken as her velvety arms closed about his neck. And then he was looking <a id="page11" />down into her face, very near, and the green animal eyes met his with the pulsing pupils and the flicker of—something—deep behind their shallows—and through the rising clamor of his blood, even as he stooped his lips to hers, Smith felt something deep within him shudder away—inexplicable, instinctive, revolted. What it might be he had no words to tell, but the very touch of her was suddenly loathsome—so soft and velvet and unhuman —and it might have been an animal’s face that lifted itself to his mouth—the dark knowledge looked hungrily from the darkness of those slit pupils—and for a mad instant he knew that same wild, feverish revulsion he had seen in the faces of the mob. . . .
+She came forward slowly, on bare clawed feet that made no sound on the floor, and stood before him with downcast eyes and mouth trembling in that pitifully human smile. He took her by the shoulders—velvety soft shoulders, of a creamy smoothness that was not the texture of human flesh. A little tremor went over her, perceptibly, at the contact of his hands. Northwest Smith caught his breath suddenly and dragged her to him . . . sweet yielding brownness in the circle of his arms . . . heard her own breath catch and quicken as her velvety arms closed about his neck. And then he was looking <a id="page11"></a>down into her face, very near, and the green animal eyes met his with the pulsing pupils and the flicker of—something—deep behind their shallows—and through the rising clamor of his blood, even as he stooped his lips to hers, Smith felt something deep within him shudder away—inexplicable, instinctive, revolted. What it might be he had no words to tell, but the very touch of her was suddenly loathsome—so soft and velvet and unhuman—and it might have been an animal’s face that lifted itself to his mouth—the dark knowledge looked hungrily from the darkness of those slit pupils—and for a mad instant he knew that same wild, feverish revulsion he had seen in the faces of the mob. . . .
 
 “God!” he gasped, a far more ancient invocation against evil than he realized, then or ever, and he ripped her arms from his neck, swung her away with such a force that she reeled half across the room. Smith fell back against the door, breathing heavily, and stared at her while the wild revolt died slowly within him.
 
-She had fallen to the floor beneath the window, and as she lay there against the wall with bent head he saw, curiously, that her turban had slipped—the turban that he had been so sure covered baldness—and a lock of scarlet hair fell below the binding leather, hair as scarlet as her garment, as unhumanly red as her eyes were unhumanly green. He stared, and shook his head dizzily and stared again, for it seemed to him that the thick lock of crimson had moved, squirmed of itself against her cheek.
+She had fallen to the floor beneath the window, and as she lay there against the wall with bent head he saw, curiously, that her turban had slipped—the turban that he had been so sure covered baldness—and a lock of scarlet hair fell below the binding leather, hair as scarlet as her garment, as unhumanly red as her eyes were unhumanly green. He stared, and shook his head dizzily and stared again, for it seemed to him that the thick lock of crimson had moved, *squirmed* of itself against her cheek.
 
 At the contact of it her hands flew up and she tucked it away with a very human gesture and then dropped her head again into her hands. And from the deep shadow of her fingers he thought she was staring up at him covertly.
 
-Smith drew a deep breath and passed a hand across his forehead. The inexplicable moment had gone as quickly as it came—too swiftly for him to understand or analyze it. “Got to lay off the segir,” he told himself unsteadily. Had he imagined that scarlet hair? After all, she was no more than a pretty brown girl-creature from one of the many half-human races peopling the planets.
+Smith drew a deep breath and passed a hand across his forehead. The inexplicable moment had gone as quickly as it came—too swiftly for him to understand or analyze it. “Got to lay off the *segir*,” he told himself unsteadily. Had he imagined that scarlet hair? After all, she was no more than a pretty brown girl-creature from one of the many half-human races peopling the planets. <a id="page12"></a>No more than that, after all. A pretty little thing, but animal. . . . He laughed a little shakily.
 
-No more than that, after all. A pretty little thing, but animal. . . . He laughed a little shakily.
-
-“No more of that,” he said. “God knows I’m no angel, but there’s got to be a limit somewhere. Here.” He crossed to the bed and sorted out a pair of blankets from the untidy heap, tossing them to the far comer of the room. “You can sleep there.”
+“No more of that,” he said. “God knows I’m no angel, but there’s got to be a limit somewhere. Here.” He crossed to the bed and sorted out a pair of blankets from the untidy heap, tossing them to the far corner of the room. “You can sleep there.”
 
 Wordlessly she rose from the floor and began to rearrange the blankets, the uncomprehending resignation of the animal eloquent in every line of her.
 
 .space
-Smith had a strange dream that night. He thought he had awakened to a room full of darkness and moonlight and moving shadows, for the nearer moon of Mars was racing through the sky and everything on the planet below her was endued with a restless life in the dark. And something . . . some nameless, unthinkable thing . . . was coiled about his throat . . . something like a soft snake, wet and warm. It lay loose and light about his neck . . . and it was moving gently, very gently, with a soft, caressive pressure that sent little thrills of delight through every nerve and fiber of him, a perilous delight —beyond physical pleasure, deeper than joy of the mind. That warm softness was caressing the very roots of his soul with a terrible intimacy. The ecstasy of it left him weak, and yet he knew—in a flash of knowledge bom of this impossible dream—that the soul should not be handled. . . . And with that knowledge a horror broke upon him, turning the pleasure into a rapture of revulsion, hateful, horrible—but still most foully sweet. He tried to lift his hands and tear the dream-monstrosity from his throat—tried but half-heartedly; for though his soul was revolted to its very deeps, yet the delight of his body was so great that his hands all but refused the attempt. But when at last he tried to lift his arms a cold shock went over him and he found that he could not stir . . . his body lay stony as marble beneath the blankets, a living marble that shuddered with a dreadful delight through every rigid vein.
+Smith had a strange dream that night. He thought he had awakened to a room full of darkness and moonlight and moving shadows, for the nearer moon of Mars was racing through the sky and everything on the planet below her was endued with a restless life in the dark. And something . . . some nameless, unthinkable *thing* . . . was coiled about his throat . . . something like a soft snake, wet and warm. It lay loose and light about his neck . . . and it was moving gently, very gently, with a soft, caressive pressure that sent little thrills of delight through every nerve and fiber of him, a perilous delight—beyond physical pleasure, deeper than joy of the mind. That warm softness was caressing the very roots of his soul with a terrible intimacy. The ecstasy of it left him weak, and yet he knew—in a flash of knowledge born of this impossible dream—that the soul should not be handled. . . . And with that knowledge a horror broke upon him, turning the pleasure into a rapture of revulsion, hateful, horrible—but still most foully sweet. He tried to lift his hands and tear the dream-monstrosity from his throat—tried but half-heartedly; for though his soul was revolted to its very deeps, yet the delight of his body was so great that his hands all but refused the attempt. But when at last he tried to lift his arms a cold shock went over him and he found that he could not stir . . . his body lay stony as marble beneath the blankets, a living marble that shuddered with a dreadful delight through every rigid vein.
 
-The revulsion grew strong upon him as he struggled against the paralyzing dream—a struggle of soul against
-
-sluggish body—titanically, until the moving dark was streaked with blankness that clouded and closed about him at last and he sank back into the oblivion from which he had awakened.
+The revulsion grew strong upon him as he struggled against the paralyzing dream—a struggle of soul against <a id="page13"></a>sluggish body—titanically, until the moving dark was streaked with blankness that clouded and closed about him at last and he sank back into the oblivion from which he had awakened.
 
 .space
-Next morning, when the bright sunlight shining through Mars’ clear thin air awakened him, Smith lay for a while trying to remember. The dream had been more vivid than reality, but he could not now quite recall . . . only that it had been more sweet and horrible than anything else in life. He lay puzzling for a while, until a soft sound from the comer aroused him from his thoughts and he sat up to see the girl lying in a catlike coil on her blankets, watching him with round, grave eyes. He regarded her somewhat ruefully.
+Next morning, when the bright sunlight shining through Mars’ clear thin air awakened him, Smith lay for a while trying to remember. The dream had been more vivid than reality, but he could not now quite recall . . . only that it had been more sweet and horrible than anything else in life. He lay puzzling for a while, until a soft sound from the corner aroused him from his thoughts and he sat up to see the girl lying in a catlike coil on her blankets, watching him with round, grave eyes. He regarded her somewhat ruefully.
 
 “Morning,” he said. “I’ve just had the devil of a dream. . . . Well, hungry?”
 
@@ -525,13 +521,13 @@ Ten minutes later, slipping the heat-gun into its holster at his thigh, Smith tu
 
 Her wide, unwavering stare was his only answer, and he was not sure she had understood, but at any rate the lock clicked after him as before, and he went down the steps with a faint grin on his lips.
 
-The memory of last night’s extraordinary dream was slipping from him, as such memories do, and by the time he had reached the street the girl and the dream and all of yesterday’s happenings were blotted out by the sharp necessities of the present.
+<a id="page14"></a>The memory of last night’s extraordinary dream was slipping from him, as such memories do, and by the time he had reached the street the girl and the dream and all of yesterday’s happenings were blotted out by the sharp necessities of the present.
 
 Again the intricate business that had brought him here claimed his attention. He went about it to the exclusion of all else, and there was a good reason behind everything he did from the moment he stepped out into the street until the time when he turned back again at evening; though had one chosen to follow him during the day his apparently aimless rambling through Lakk-darol would have seemed very pointless.
 
 He must have spent two hours at the least idling by the space-port, watching with sleepy, colorless eyes the ships that came and went, the passengers, the vessels lying at wait, the cargoes—particularly the cargoes. He made the rounds of the town’s saloons once more, consuming many glasses of varied liquors in the course of the day and engaging in idle conversation with men of all races and worlds, usually in their own languages, for Smith was a linguist of repute among his contemporaries. He heard the gossip of the spaceways, news from a dozen planets of a thousand difierent events. He heard the latest joke about the Venusian Emperor and the latest report on the Chino-Aryan war and the latest song hot from the lips of Rose Robertson, whom every man on the civilized planets adored as “the Georgia Rose.” He passed the day quite profitably, for his own purposes, which do not concern us now, and it was not until late evening, when he turned homeward again, that the thought of the brown girl in his room took definite shape in his mind, though it had been lurking there, formless and submerged, all day.
 
-He had no idea what comprised her usual diet, but he bought a can of New York roast beef and one of Venusian frog-broth and a dozen fresh canal-apples and two pounds of that Earth lettuce that grows so vigorously in the fertile canal-soil of Mars. He felt that she must surely find something to her liking in this broad variety of edibles, and—for his day had been very satisfactory—he hummed *The Green Hills of Earth* to himself in a surprisingly good baritone as he climbed the stairs.
+He had no idea what comprised her usual diet, but he bought a can of New York roast beef and one of Venusian frog-broth and a dozen fresh canal-apples and two pounds of that Earth lettuce that grows so vigorously in the fertile canal-soil of Mars. He felt that she must surely find something to her liking in this broad variety of edibles, and—for his day had been very satisfactory—<a id="page15"></a>he hummed *The Green Hills of Earth* to himself in a surprisingly good baritone as he climbed the stairs.
 
 .space
 The door was locked, as before, and he was reduced to kicking the lower panels gently with his boot, for his arms were full. She opened the door with that softness that was characteristic of her and stood regarding him in the semi-darkness as he stumbled to the table with his load. The room was unlit again.
@@ -556,11 +552,11 @@ Again the red turban shook negatively.
 
 “What can I find for you to eat, then? There’s time yet if I hurry. You’ve got to eat, child.”
 
-“I shall—eat,” she said softly. “Before long—I shall —feed. Have no—worry.”
+“I shall—eat,” she said softly. “Before long—I shall—feed. Have no—worry.”
 
 She turned away then and stood at the window, looking out over the moonlit landscape as if to end the conversation. Smith cast her a puzzled glance as he opened the can of roast beef. There had been an odd undemote in that assurance that, undefinably, he did not like. And the girl had teeth and tongue and presumably a fairly human digestive system, to judge from her human form. It was nonsense for her to pretend that he could find nothing that she could eat. She must have had some of the food concentrate after all, he decided, prying up the thermos lid of the inner container to release the long-sealed savor of the hot meat inside.
 
-“Well, if you won’t eat you won’t,” he observed philosophically as he poured hot broth and diced beef into the dishlike lid of the thermos can and extracted the spoon from its hiding-place between the inner and outer receptacles. She turned a little to watch him as he pulled up a rickety chair and sat down to the food, and after a while the realization that her green gaze was fixed so unwinkingly upon him made the man nervous, and he said between bites of creamy canal-apple, “Why don’t you try a little of this? It’s good.”
+<a id="page16"></a>“Well, if you won’t eat you won’t,” he observed philosophically as he poured hot broth and diced beef into the dishlike lid of the thermos can and extracted the spoon from its hiding-place between the inner and outer receptacles. She turned a little to watch him as he pulled up a rickety chair and sat down to the food, and after a while the realization that her green gaze was fixed so unwinkingly upon him made the man nervous, and he said between bites of creamy canal-apple, “Why don’t you try a little of this? It’s good.”
 
 “The food—I eat is—better,” her soft voice told him in its hesitant murmur, and again he felt rather than heard a faint undernote of unpleasantness in the words. A sudden suspicion struck him as he pondered on that last remark—some vague memory of horror-tales told about campfires in the past—-and he swung round in the chair to look at her, a tiny, creeping fear unaccountably arising. There had been that in her words—in her unspoken words, that menaced. . . .
 
@@ -570,19 +566,18 @@ She stood up beneath his gaze demurely, wide green eyes with their pulsing pupil
 
 She stared at him for a moment, uncomprehending; then something like amusement curled her lips and she said scornfully, “You think me—vampire, eh? No—I am Shambleau!”
 
-Unmistakably there were scorn and amusement in her voice at the suggestion, but as unmistakably she knew what he meant—accepted it as a logical suspicion— vampires! Fairy tales—but fairy tales this unhuman, outland creature was most familiar with. Smith was not a credulous man, nor a superstitious one, but he had seen too many strange things himself to doubt that the wildest legend might have a basis of fact. And there was something namelessly strange about her. . . .
+Unmistakably there were scorn and amusement in her voice at the suggestion, but as unmistakably she knew what he meant—accepted it as a logical suspicion—vampires! Fairy tales—but fairy tales this unhuman, outland creature was most familiar with. Smith was not a credulous man, nor a superstitious one, but he had seen too many strange things himself to doubt that the wildest legend might have a basis of fact. And there was something namelessly strange about her. . . .
 
 He puzzled over it for a while between deep bites of the canal-apple. And though he wanted to question her about a great many things, he did not, for he knew how futile it would be.
 
-He said nothing more until the meat was finished and another canal-apple had followed the first, and he had cleared away the meal by the simple expedient of tossing the empty can out of the window. Then he lay back in the chair and surveyed her from half-closed eyes, colorless in a face tanned like saddle-leather. And again he was conscious of the brown, soft curves of her, velvety —subtle arcs and planes of smooth flesh under the tatters of scarlet leather. Vampire she might be, unhuman she certainly was, but desirable beyond words as she sat submissive beneath his low regard, her red-turbaned head bent, her clawed fingers lying in her lap. They sat very still for a while, and the silence throbbed between them.
+<a id="page17"></a>He said nothing more until the meat was finished and another canal-apple had followed the first, and he had cleared away the meal by the simple expedient of tossing the empty can out of the window. Then he lay back in the chair and surveyed her from half-closed eyes, colorless in a face tanned like saddle-leather. And again he was conscious of the brown, soft curves of her, velvety—subtle arcs and planes of smooth flesh under the tatters of scarlet leather. Vampire she might be, unhuman she certainly was, but desirable beyond words as she sat submissive beneath his low regard, her red-turbaned head bent, her clawed fingers lying in her lap. They sat very still for a while, and the silence throbbed between them.
 
 She was so like a woman—an Earth woman—sweet and submissive and demure, and softer than soft fur, if he could forget the three-fingered claws and the pulsing eyes—and that deeper strangeness beyond words. . . . (Had he dreamed that red lock of hair that moved? Had it been *segir* that woke the wild revulsion he knew when be held her in his arms? Why had the mob so thirsted for her?) He sat and stared, and despite the mystery of her and the half-suspicions that thronged his mind—for she was so beautifully soft and curved under those revealing tatters—he slowly realized that his pulses were mounting, became aware of a kindling within . . . brown girl-creature with downcast eyes . . . and then the lids lifted and the green flatness of a cat’s gaze met his, and last night’s revulsion woke swiftly again, like a warning bell that clanged as their eyes met—animal, after all, too sleek and soft for humanity, and that inner strangeness. . . .
 
-Smith shrugged and sat up. His failings were legion, but the weakness of the flesh was not among the major ones. He motioned the girl to her pallet of blankets in the comer and turned to his own bed.
+Smith shrugged and sat up. His failings were legion, but the weakness of the flesh was not among the major ones. He motioned the girl to her pallet of blankets in the corner and turned to his own bed.
 
 .space
-From deeps of sound sleep he awoke much later. He awoke suddenly and completely, and with that inner excitement that presages something momentous. He awoke to brilliant moonlight, turning the room so bright that he 
-could see the scarlet of the girl’s rags as she sat up on her pallet. She was awake, she was sitting with her shoulder half turned to him and her head bent, and some warning instinct crawled coldly up his spine as he watched what she was doing. And yet it was a very ordinary thing for a girl to do—any girl, anywhere. She was unbinding her turban. . . .
+From deeps of sound sleep he awoke much later. He awoke suddenly and completely, and with that inner excitement that presages something momentous. He awoke to brilliant moonlight, turning the room so bright that he <a id="page18"></a>could see the scarlet of the girl’s rags as she sat up on her pallet. She was awake, she was sitting with her shoulder half turned to him and her head bent, and some warning instinct crawled coldly up his spine as he watched what she was doing. And yet it was a very ordinary thing for a girl to do—any girl, anywhere. She was unbinding her turban. . . .
 
 He watched, not breathing, a presentiment of something horrible stirring in his brain, inexplicably. . . . The red folds loosened, and—he knew then that he had not dreamed—again a scarlet lock swung down against her cheek . . . a hair, was it? a lock of hair? . . . thick as a thick worm it fell, plumply, against that smooth cheek . . . more scarlet than blood and thick as a crawling worm . . . and like a worm it crawled.
 
@@ -594,7 +589,7 @@ beyond, and still lengthened, an endless mass of crawling horror that until now,
 
 Smith lay in the shadows, frozen without and within in a sick numbness that came of utter shock and revulsion.
 
-She shook out the obscene, unspeakable tangle over her shoulders, and somehow he knew that she was going to turn in a moment and that he must meet her eyes. The thought of that meeting stopped his heart with dread, more awfully than anything else in this nightmare horror; for nightmare it must be, surely. But he knew without trying that he could not wrench his eyes away —the sickened fascination of that sight held him motionless, and somehow there was a certain beauty. . . .
+She shook out the obscene, unspeakable tangle over her shoulders, and somehow he knew that she was going to turn in a moment and that he must meet her eyes. The thought of that meeting stopped his heart with dread, more awfully than anything else in this nightmare horror; for nightmare it must be, surely. But he knew without trying that he could not wrench his eyes away—the sickened fascination of that sight held him motionless, and somehow there was a certain beauty. . . .
 
 Her head was turning. The crawling awfulnesses rippled and squirmed at the motion, writhing thick and wet and shining over the soft brown shoulders about which they fell now in obscene cascades that all but hid her body. Her head was turning. Smith lay numb. And very slowly he saw the round of her cheek foreshorten and her profile come into view, all the scarlet horrors twisting ominously, and the profile shortened in turn and her full face came slowly round toward the bed—moonlight shining brilliantly as day on the pretty girl-face, demure and sweet, framed in tangled obscenity that crawled. . . .
 
@@ -610,7 +605,7 @@ And somehow there was beauty in it, the wet scarlet writhings with moonlight sli
 
 But all this, again, he but half realized, for the insidious murmur was coiling again through his brain, promising, caressing, alluring, sweeter than honey; and the green eyes that held his were clear and burning like the depths of a jewel, and behind the pulsing slits of darkness he was staring into a greater dark that held all things. . . . He had known—dimly he had known when he first gazed into those flat animal shallows that behind them lay this—all beauty and terror, all horror and delight, in the infinite darkness upon which her eyes opened like windows, paned with emerald glass.
 
-Her lips moved, and in a murmur that blended indis-tinguishably with the silence and the sway of her body and the dreadful sway of her—her hair—she whispered— very softly, very passionately, “I shall—speak to you now—in my own tongue—oh, beloved!”
+Her lips moved, and in a murmur that blended indis-tinguishably with the silence and the sway of her body and the dreadful sway of her—her hair—she whispered—very softly, very passionately, “I shall—speak to you now—in my own tongue—oh, beloved!”
 
 And in her living cloak she swayed to him, the murmur swelling seductive and caressing in his innermost brain—promising, compelling, sweeter than sweet. His flesh crawled to the horror of her, but it was a perverted revulsion that clasped what it loathed. His arms slid round her under the sliding cloak, wet, wet and warm and hideously alive—and the sweet velvet body was clinging to his, her arms locked about his neck—and with a whisper and a rush the unspeakable horror closed about them both.
 
@@ -629,9 +624,9 @@ up with his friend. Nothing but physical disability could explain it.
 
 Still puzzling, he fitted his key in the lock and swung the door open.
 
-In that first moment, as the door opened, he sensed something very wrong. . . . The room was darkened, and for a while he could see nothing, but at the first breath he scented a strange, unnameable odor, half sickening, half sweet. And deep stirrings of ancestral memory awoke him—ancient swamp-bom memories from Venusian ancestors far away and long ago. . . .
+In that first moment, as the door opened, he sensed something very wrong. . . . The room was darkened, and for a while he could see nothing, but at the first breath he scented a strange, unnameable odor, half sickening, half sweet. And deep stirrings of ancestral memory awoke him—ancient swamp-born memories from Venusian ancestors far away and long ago. . . .
 
-Yarol laid his hand on his gun, lightly, and opened the door wider. In the dimness all he could see at first was a curious mound in the far comer. . . . Then his eyes grew accustomed to the dark, and he saw it more clearly, a mound that somehow heaved and stirred within itself. . . . A mound of—he caught his breath sharply—a mound like a mass of entrails, living, moving, writhing with an unspeakable aliveness. Then a hot Venusian oath broke from his lips and he cleared the door-sill in a swift stride, slammed the door and set his back against it, gun ready in his hand, although his flesh crawled—for he *knew*. . . .
+Yarol laid his hand on his gun, lightly, and opened the door wider. In the dimness all he could see at first was a curious mound in the far corner. . . . Then his eyes grew accustomed to the dark, and he saw it more clearly, a mound that somehow heaved and stirred within itself. . . . A mound of—he caught his breath sharply—a mound like a mass of entrails, living, moving, writhing with an unspeakable aliveness. Then a hot Venusian oath broke from his lips and he cleared the door-sill in a swift stride, slammed the door and set his back against it, gun ready in his hand, although his flesh crawled—for he *knew*. . . .
 
 •‘Smith!” he said softly, in a voice thick with horror. “Northwest!”
 
@@ -641,7 +636,7 @@ The moving mass stirred—shuddered—sank back into crawling quiescence again.
 
 An impatient ripple went over the whole mass of aliveness in the corner. It stirred again, reluctantly, and then tendril by writhing tendril it began to part itself and fall aside, and very slowly the brown of a spaceman’s leather appeared beneath it, all slimed and shining.
 
-“Smith! Northwest!” Yarol’s persistent whisper came again, urgently, and with a dreamlike slowness the leather garments moved . . . a man sat up in the midst of the writhing worms, a man who once, long ago, might have been Northwest Smith. From head to foot he was slimy from the embrace of the crawling horror about him. His face was that of some creature beyond humanity— dead-alive, fixed in a gray stare, and the look of terrible
+“Smith! Northwest!” Yarol’s persistent whisper came again, urgently, and with a dreamlike slowness the leather garments moved . . . a man sat up in the midst of the writhing worms, a man who once, long ago, might have been Northwest Smith. From head to foot he was slimy from the embrace of the crawling horror about him. His face was that of some creature beyond humanity—dead-alive, fixed in a gray stare, and the look of terrible
 
 ecstasy that overspread it seemed to come from somewhere far within, a faint reflection from immeasurable distances beyond the flesh. And as there is mystery and magic in the moonlight which is after all but a reflection of the everyday sun, so in that gray face turned to the door was a terror unnameable and sweet, a reflection of ecstasy beyond the understanding of any who have known only earthly ecstasy themselves. And as he sat there turning a blank, eyeless face to Yarol the red worms writhed ceaselessly about him, very gently, with a soft, caressive motion that never slacked.
 
@@ -672,9 +667,9 @@ Yarol breathed “Shar!” again, and flung up an arm across his face, and the t
 
 “Go away,” said that voice that was not Smith’s. “Go away.”
 
-And somehow, although he dared not look, Yarol knew that the—the other—had parted those worm-thick tresses and stood there in all the human sweetness of the brown, curved woman’s body, cloaked in living horror. And he felt the eyes upon him, and something was crying insistently in his brain to lower that shielding arm. . . . He was lost—he knew it, and the knowledge gave him that courage which comes from despair. The voice in his brain was growing, swelling, deafening him with a roaring command that all but swept him before it —command to lower that arm—to meet the eyes that opened upon darkness—to submit—and a promise, murmurous and sweet and evil beyond words, of pleasure to come. . . .
+And somehow, although he dared not look, Yarol knew that the—the other—had parted those worm-thick tresses and stood there in all the human sweetness of the brown, curved woman’s body, cloaked in living horror. And he felt the eyes upon him, and something was crying insistently in his brain to lower that shielding arm. . . . He was lost—he knew it, and the knowledge gave him that courage which comes from despair. The voice in his brain was growing, swelling, deafening him with a roaring command that all but swept him before it—command to lower that arm—to meet the eyes that opened upon darkness—to submit—and a promise, murmurous and sweet and evil beyond words, of pleasure to come. . . .
 
-But somehow he kept his head—somehow, dizzily, he was gripping his gun in his upflung hand—somehow, incredibly, crossing the narrow room with averted face, groping for Smith’s shoulder. There was a moment of blind fumbling in emptiness, and then he found it, and gripped the leather that was slimy and dreadful and wet —and simultaneously he felt something loop gently about his ankle and a shock of repulsive pleasure went thr ough him, and then another coil, and another, wound about his feet. . . .
+But somehow he kept his head—somehow, dizzily, he was gripping his gun in his upflung hand—somehow, incredibly, crossing the narrow room with averted face, groping for Smith’s shoulder. There was a moment of blind fumbling in emptiness, and then he found it, and gripped the leather that was slimy and dreadful and wet—and simultaneously he felt something loop gently about his ankle and a shock of repulsive pleasure went thr ough him, and then another coil, and another, wound about his feet. . . .
 
 Yarol set his teeth and gripped the shoulder hard, and his hand shuddered of itself, for the feel of that leather was slimy as the worms about his ankles, and a faint tingle of obscene delight went through him from the contact
 
@@ -704,7 +699,9 @@ Smith swallowed obediently and more of the fire-hot *segir* flowed down his grat
 
 Yarol was holdirg him with one arm and finishing the mug of *segir* himself, and the black eyes met his over the rim and crinkled into sudden laughter, half hysterical after that terror that was passed.
 
-“By *Pharol!*” gasped Yarol, choking into his mug. “By *Pharol*, N. W.! I’m never gonna let you forget this! Next time you have to drag me out of a mess I’ll say—” “Let it go,” said Smith. “What’s been going on? How—”
+“By *Pharol!*” gasped Yarol, choking into his mug. “By *Pharol*, N. W.! I’m never gonna let you forget this! Next time you have to drag me out of a mess I’ll say—”
+
+“Let it go,” said Smith. “What’s been going on? How—”
 
 “Shambleau.” Yarol’s laughter died. “Shambleau! What were you doing with a thing like that?”
 
@@ -734,11 +731,11 @@ Yarol was holdirg him with one arm and finishing the mug of *segir* himself, and
 
 “But—my God, Yarol!—what was it? Where’d it come from? How—”
 
-“Nobody knows just where they come from. Another planet—maybe some undiscovered one. Some say Venus—I know there are some rather awful legends of them handed down in our family—that’s how I’ve heard about it. And the minute I opened that door, awhile back —I—I think I knew that smell. . .
+“Nobody knows just where they come from. Another planet—maybe some undiscovered one. Some say Venus—I know there are some rather awful legends of them handed down in our family—that’s how I’ve heard about it. And the minute I opened that door, awhile back—I—I think I knew that smell. . .
 
 “But—what *are* they?”
 
-“God knows. Not human, though they have the human form. Or that may be only an illusion . . . or maybe I’m crazy. I don’t know. They’re a species of the vampire—or maybe the vampire is a species of—of them. Their normal form must be that—that mass, and in that form they draw nourishment from the—I suppose the life-forces of men. And they take some form—usually a woman form, I think, and key you up to the highest pitch of emotion before they—begin. That’s to work the life-force up to intensity so it’ll be easier. . .. And they give, always, that horrible, foul pleasure as they—feed. There are some men who, if they survive the first experience, take to it like a drug— can’t give it up—keep the thing with them all their lives —which isn’t long—feeding it for that ghastly satisfaction. Worse than smoking *ming* or—or ‘praying to *Pharol*. ”
+“God knows. Not human, though they have the human form. Or that may be only an illusion . . . or maybe I’m crazy. I don’t know. They’re a species of the vampire—or maybe the vampire is a species of—of them. Their normal form must be that—that mass, and in that form they draw nourishment from the—I suppose the life-forces of men. And they take some form—usually a woman form, I think, and key you up to the highest pitch of emotion before they—begin. That’s to work the life-force up to intensity so it’ll be easier. . .. And they give, always, that horrible, foul pleasure as they—feed. There are some men who, if they survive the first experience, take to it like a drug—can’t give it up—keep the thing with them all their lives—which isn’t long—feeding it for that ghastly satisfaction. Worse than smoking *ming* or—or ‘praying to *Pharol*. ”
 
 “Yes,” said Smith. “I’m beginning to understand why that crowd was so surprised and—and disgusted when I said—well, never mind. Go on.”
 
@@ -752,7 +749,7 @@ Yarol was holdirg him with one arm and finishing the mug of *segir* himself, and
 
 “And they go back to time immemorial. I suppose you recognized the legend of Medusa? There isn’t any question that the ancient Greeks knew of them. Does it mean that there have been civilizations before yours that set out from Earth and explored other planets? Or did one of the Shambleau somehow make its way into Greece three thousand years ago? If you think about it long enough you’ll go off your head! I wonder how many other legends are based on things like this—things we don’t suspect, things we’ll never know.
 
-“The Gorgon, Medusa, a beautiful woman with— with snakes for hair, and a gaze that turned men to stone, and Perseus finally killed her—I remembered this just by accident, N. W., and it saved your life and mine —Perseus killed her by using a mirror as he fought to reflect what he dared not look at directly. I wonder what the old Greek who first started that legend would have thought if he’d known that three thousand years later his story would save the lives of two men on another planet.
+“The Gorgon, Medusa, a beautiful woman with—with snakes for hair, and a gaze that turned men to stone, and Perseus finally killed her—I remembered this just by accident, N. W., and it saved your life and mine—Perseus killed her by using a mirror as he fought to reflect what he dared not look at directly. I wonder what the old Greek who first started that legend would have thought if he’d known that three thousand years later his story would save the lives of two men on another planet.
 
 I wonder what that Greek’s own story was, and how he met the thing, and what happened. . . .
 
@@ -760,7 +757,7 @@ I wonder what that Greek’s own story was, and how he met the thing, and what h
 
 “I only know that when I felt—when those tentacles closed around my legs—I didn’t want to pull loose, I felt sensations that—that—oh, I’m fouled and filthy to the very deepest part of me by that—pleasure—and yet—”
 
-“I know,” said Smith slowly. The effect of the *segir* was beginning to wear off, and weakness was washing back over him in waves, and when he spoke he was half meditating in a low voice, scarcely realizing that Yard listened. “I know it—much better than you do—and there’s something so indescribably awful that the thing emanates, something so utterly at odds with everything human—there aren’t any words to say it. For a while I was a part of it, literally, sharing its thoughts and memories and emotions and hungers, and—well, it’s over now and I don’t remember very clearly, but the only part left free was that part of me that was all but insane from the —the obscenity of the thing. And yet it was a pleasure so sweet—I think there must be some nucleus of utter evil in me—in everyone—that needs only the proper stimulus to get complete control; because even while I was sick all through from the touch of those—things—there was something in me that was—was simply gibbering with delight. . . . Because of that I saw things—and knew things—horrible, wild things I can’t quite remember—visited unbelievable places, looked backward through the memory of that—creature—I was one with, and saw—God, I wish I could remember!”
+“I know,” said Smith slowly. The effect of the *segir* was beginning to wear off, and weakness was washing back over him in waves, and when he spoke he was half meditating in a low voice, scarcely realizing that Yard listened. “I know it—much better than you do—and there’s something so indescribably awful that the thing emanates, something so utterly at odds with everything human—there aren’t any words to say it. For a while I was a part of it, literally, sharing its thoughts and memories and emotions and hungers, and—well, it’s over now and I don’t remember very clearly, but the only part left free was that part of me that was all but insane from the—the obscenity of the thing. And yet it was a pleasure so sweet—I think there must be some nucleus of utter evil in me—in everyone—that needs only the proper stimulus to get complete control; because even while I was sick all through from the touch of those—things—there was something in me that was—was simply gibbering with delight. . . . Because of that I saw things—and knew things—horrible, wild things I can’t quite remember—visited unbelievable places, looked backward through the memory of that—creature—I was one with, and saw—God, I wish I could remember!”
 
 “You ought to thank your God you can’t,” said Yarol soberly.
 
@@ -773,7 +770,7 @@ Yarol did not answer for a moment. He laid his hands on the other man’s should
 
 Smith’s colorless eyes met the black gaze unsteadily. Irresolution was in them, and a little fear of what that promise might be. And for just a moment Yarol was looking, not into his friend’s familiar eyes, but into a wide gray blankness that held all horror and delight—a pale sea with unspeakable pleasures sunk beneath it. Then the wide stare focused again and Smith’s eyes met his squarely and Smith’s voice said, “Go ahead. I’ll promise.”
 
-“That if you ever should meet a Shambleau again— ever, anywhere—you’ll draw your gun and bum it to hell the instant you realize what it is. Will you promise me that?”
+“That if you ever should meet a Shambleau again—ever, anywhere—you’ll draw your gun and burn it to hell the instant you realize what it is. Will you promise me that?”
 
 There was a long silence. Yard’s somber black eyes bored relentlessly into the colorless ones of Smith, not wavering. And the veins stood out on Smith’s tanned forehead. He never broke his word—he had given it perhaps half a dozen times in his life, but once he had given it, he was incapable of breaking it. And once more the gray seas flooded in a dim tide of memories, sweet and horrible beyond dreams. Once more Yard was staring into blankness that hid nameless things. The room was very still.
 
@@ -785,7 +782,7 @@ The gray tide ebbed. Smith’s eyes, pale and resolute as steel, met Yard’s le
 
 black_thirst
 
-# Black Thirst
+# <a id="page33"></a>Black Thirst
 
 .fl
 <span class="smallcaps">Northwest Smith leant</span> his head back against the warehouse wall and stared up into the black night-sky of Venus. The waterfront street was very quiet tonight, very dangerous. He could hear no sound save the eternal slap-slap of water against the piles, but he knew how much of danger and sudden death dwelt here voiceless in the breathing dark, and he may have been a little homesick as he stared up into the clouds that masked a green star hanging lovely on the horizon—Earth and home. And if he thought of that he must have grinned wryly to himself in the dark, for Northwest Smith had no home, and Earth would not have welcomed him very kindly just then.
@@ -828,7 +825,9 @@ She must have sensed his reaction almost as he realized it himself, for she said
 
 Smith held the silence unbroken for thirty seconds, while a lightning debate flashed through the recesses of his wary mind. Then he grinned to himself in the dark and said,
 
-“I’ll come.” Belatedly he got to his feet. “Where?” “The Palace Road on the edge of the Minga. Third door from the central gate, to the left. Say to the door-warden—‘Vaudir.’ ”
+“I’ll come.” Belatedly he got to his feet. “Where?”
+
+“The Palace Road on the edge of the Minga. Third door from the central gate, to the left. Say to the door-warden—‘Vaudir.’ ”
 
 “That is—?”
 
@@ -864,7 +863,7 @@ The creature came forward obsequiously, murmuring, “Permit me—” and flung 
 
 The eunuch opened the bronze inner door and Smith stared down a long hallway curving almost imperceptibly to the right. The paradox of elaborately decorated simplicity was illustrated in every broad polished panel of the wall, so intricately and exquisitely carved that it gave at first the impression of a strange, rich plainness.
 
-His booted feet sank sensuously into the deep pile of the carpet at every step as he followed the eunuch down the hall. Twice he heard voices murmuring behind lighted doors, and his hand lay on the butt of the ray-gun under the folds of his robe, but no door opened and the hall lay empty and dim before them. So far it had been amazingly easy. Either tradition lied about the impregnability of the Minga, or the girl Vaudir had bribed with incredible lavishness or—that thought again, uneasily —it was with Alendar’s consent that he walked here unchallenged. But why?
+His booted feet sank sensuously into the deep pile of the carpet at every step as he followed the eunuch down the hall. Twice he heard voices murmuring behind lighted doors, and his hand lay on the butt of the ray-gun under the folds of his robe, but no door opened and the hall lay empty and dim before them. So far it had been amazingly easy. Either tradition lied about the impregnability of the Minga, or the girl Vaudir had bribed with incredible lavishness or—that thought again, uneasily—it was with Alendar’s consent that he walked here unchallenged. But why?
 
 They came to a door of silver grille at the end of the curved corridor, and passed through it into another hallway slanting up, as exquisitely voluptuous as the first. A flight of stairs wrought from dully gleaming bronze curved at the end of it. Then came another hall lighted with rosy lanterns that swung from the arched ceiling, and beyond another stairway, this time of silvery metal fretwork, spiraling down again.
 
@@ -972,7 +971,7 @@ Smith faced her squarely and searched the veiled dark eyes with a gaze as bleak 
 
 She drew her shoulders together and shivered a little, and her eyes were furtive as she glanced around the room.
 
-“Don’t you feel it?” she asked in that half-whisper to ! which her voice sank so caressingly. And he smiled to • himself to see how instinctively eloquent was the courtesan in her—alluring gestures though her hands trem-i bled, soft voice huskily seductive even in its terror. “— always, always!” she was saying. “The soft, hushed, | hovering menace! It haunts the whole place. Didn’t you 1 feel it as you came in?”
+“Don’t you feel it?” she asked in that half-whisper to ! which her voice sank so caressingly. And he smiled to • himself to see how instinctively eloquent was the courtesan in her—alluring gestures though her hands trem-i bled, soft voice huskily seductive even in its terror. “—always, always!” she was saying. “The soft, hushed, | hovering menace! It haunts the whole place. Didn’t you 1 feel it as you came in?”
 
 “I think I did,” Smith answered slowly. “Yes—that feel of something just out of sight, hiding in dark doorways . . . a sort of tensity in the air. . . .”
 
@@ -994,7 +993,7 @@ I “I was really looking for a wharfman, as I said, and for quite another reaso
 
 “A little of it. It goes back very far.”
 
-| “Back into the beginning—and farther. I wonder if I you can understand. You see, we on Venus are closer to * j our beginnings than you. Life here developed faster, of i[ course, and along lines more different than Earthmen if realize* On Earth civilization rose slowly enough for the —the elemental—to sink back into darkness. On Ve-1 nus—oh, it’s bad, bad for men to develop too swiftly!
+| “Back into the beginning—and farther. I wonder if I you can understand. You see, we on Venus are closer to * j our beginnings than you. Life here developed faster, of i[ course, and along lines more different than Earthmen if realize* On Earth civilization rose slowly enough for the—the elemental—to sink back into darkness. On Ve-1 nus—oh, it’s bad, bad for men to develop too swiftly!
 
 . Life rises out of dark and mystery and things too strange ! and terrible to be looked upon. Earth’s civilization grew
 
@@ -1008,15 +1007,15 @@ Vaudir lifted her face from her hands, shaking back her hair. The hands trembled
 
 “The Minga,” she said, and her voice was resolutely steady, “began too long ago for anyone to name the date. It began before dates. When Far-thursa came out of the sea-fog with his men and founded this city at the mountain’s foot he built it around the walls of a castle already here. The Minga castle. And the Alendar sold Minga girls to the sailors and the city began. All that is myth, but the Minga had always been here.
 
-“The Alendar dwelt in his stronghold and bred his golden girls and trained them in the arts of charming men, and guarded them with—with strange weapons— and sold them to kings at royal prices. There has always been an Alendar. I have seen him, once. . . .
+“The Alendar dwelt in his stronghold and bred his golden girls and trained them in the arts of charming men, and guarded them with—with strange weapons—and sold them to kings at royal prices. There has always been an Alendar. I have seen him, once. . . .
 
-“He walks the halls on rare occasions, and it is best to kneel and hide one’s face when he comes by. Yes, it is best. . . . But I passed him one day, and—and—he is tall, tall as you, Earthman, and his eyes are like—the space between the worlds. I looked into his eyes under the hood he wore—I was not afraid of devil or man, then. I looked him in the eyes before I made obeisance, and I —I shall never be free of fear again. I looked into evil as one looks into a pool. Blackness and blankness and raw evil. Impersonal, not malevolent. Elemental . . . the elemental dreadfulness that life rose from. And I know very surely, now, that the first Alendar sprang from no mortal seed. There were races before man. . . . Life goes back very dreadfully through many forms and evils, before it reaches the wellspring of its beginning. And the .Alendar had not the eyes of a human creature, and I met them—and I am damned!”
+“He walks the halls on rare occasions, and it is best to kneel and hide one’s face when he comes by. Yes, it is best. . . . But I passed him one day, and—and—he is tall, tall as you, Earthman, and his eyes are like—the space between the worlds. I looked into his eyes under the hood he wore—I was not afraid of devil or man, then. I looked him in the eyes before I made obeisance, and I—I shall never be free of fear again. I looked into evil as one looks into a pool. Blackness and blankness and raw evil. Impersonal, not malevolent. Elemental . . . the elemental dreadfulness that life rose from. And I know very surely, now, that the first Alendar sprang from no mortal seed. There were races before man. . . . Life goes back very dreadfully through many forms and evils, before it reaches the wellspring of its beginning. And the .Alendar had not the eyes of a human creature, and I met them—and I am damned!”
 
 Her voice trailed softly away and she sat quiet for a space, staring before her with remembering eyes.
 
 “I am doomed and damned to a blacker hell than any of Shar’s priests threaten,” she resumed. “No, wait—this is not hysteria. I haven’t told you the worst part. You’ll find it hard to believe, but it’s truth—truth—Great Shar, if I could hope it were not!
 
-“The origin of it is lost in legend. But why, in the beginning, did the first Alendar dwell in the misty sea-edge castle, alone and unknown, breeding his bronze girls? —not for sale, then. Where did he get the secret of producing the invariable type? And the castle, legend says, was age-old when Far-thursa found it. The girls had a perfected, consistent beauty that could be attained only by generations of effort. How long had the Minga been built, and by whom? Above all, why? What possible reason could there be for dwelling there absolutely unknown, breeding civilized beauties in a world half-savage? Sometimes I think I have guessed the reason. . .
+“The origin of it is lost in legend. But why, in the beginning, did the first Alendar dwell in the misty sea-edge castle, alone and unknown, breeding his bronze girls?—not for sale, then. Where did he get the secret of producing the invariable type? And the castle, legend says, was age-old when Far-thursa found it. The girls had a perfected, consistent beauty that could be attained only by generations of effort. How long had the Minga been built, and by whom? Above all, why? What possible reason could there be for dwelling there absolutely unknown, breeding civilized beauties in a world half-savage? Sometimes I think I have guessed the reason. . .
 
 Her voice faded into a resonant silence, and for a while she sat staring blindly at the brocaded wall. When she spoke again it was with a startling shift of topic. “Am I beautiful, do you think?”
 
@@ -1030,13 +1029,13 @@ Her mouth twisted.	_
 
 “But the world never knows of these mysteries. No monarch on any planet known is rich enough to buy the loveliness hidden in the Minga’s innermost rooms. It is not for sale. For countless centuries the Alendars of the Minga have been breeding beauty, in higher and higher degrees, at infinite labor and cost—beauty to be locked in secret chambers, guarded most terribly, so that not even a whisper of it passes the outer walls, beauty that vanishes, suddenly, in a breath—like that! Where? Why? How? No one knows.
 
-“And it is that I fear. I have not a fraction of the beauty I speak of, yet a fate like that is written for me —somehow I know. I have looked into the eyes of the Alendar, and—I know. And I am sure that I must look again into those blank black eyes, more deeply, more dreadfully. . . . I know—and I am sick with terror of what more I shall know, soon. . . .
+“And it is that I fear. I have not a fraction of the beauty I speak of, yet a fate like that is written for me—somehow I know. I have looked into the eyes of the Alendar, and—I know. And I am sure that I must look again into those blank black eyes, more deeply, more dreadfully. . . . I know—and I am sick with terror of what more I shall know, soon. . . .
 
 “Something dreadful is waiting for me, drawing nearer and nearer. Tomorrow, or the next day, or a little while after, I shall vanish, and the girls will wonder and whisper a little, and then forget. It has happened before. Great Shar, what shall I do?”
 
 She wailed it, musically and hopelessly, and sank into a little silence. And then her look changed and she said reluctantly, “And I have dragged you in with me. I have broken every tradition of the Minga in bringing you here, and there has been no hindrance—it has been too easy, too easy. I think I have sealed your death. When you first came I was minded to trick you into committing yourself so deeply that perforce you must do as I asked to win free again. But I know now that through the simple act of asking you here I have dragged you in deeper than I dreamed. It is a knowledge that has come to me somehow, out of the air tonight. I can feel knowl-
 
-edge beating upon me—compelling me. For in my terror to get help I think I have precipitated damnation upon us both. I know now—-I have known in my soul since you entered so easily, that you will not go out alive —that—it—will come for me and drag you down too. . . . Shar, Shar, what have I done!”
+edge beating upon me—compelling me. For in my terror to get help I think I have precipitated damnation upon us both. I know now—-I have known in my soul since you entered so easily, that you will not go out alive—that—it—will come for me and drag you down too. . . . Shar, Shar, what have I done!”
 
 “But what, what?” Smith struck his knee impatiently. “What is it we face? Poison? Guards? Traps? Hypnotism? Can’t you give me even a guess at what will happen?”	.
 
@@ -1044,7 +1043,7 @@ He leaned forward to search her face commandingly, and saw her brows knit in an 
 
 “The Guardians,” she said. “The—Guardians. . .
 
-And then over her hesitant face swept a look of such horror that his hand clenched on his knee and he felt the hairs rise along his neck. It was not horror of any material thing, but an inner dreadfulness, a terrible awareness. The eyes that had met his glazed and escaped his commanding stare without shifting their focus. It was as if they ceased to be eyes and became dark windows— vacant. The beauty of her face set like a mask, and behind the blank windows, behind the lovely set mask, he could sense dimly the dark command flowing in. . . .
+And then over her hesitant face swept a look of such horror that his hand clenched on his knee and he felt the hairs rise along his neck. It was not horror of any material thing, but an inner dreadfulness, a terrible awareness. The eyes that had met his glazed and escaped his commanding stare without shifting their focus. It was as if they ceased to be eyes and became dark windows—vacant. The beauty of her face set like a mask, and behind the blank windows, behind the lovely set mask, he could sense dimly the dark command flowing in. . . .
 
 She put out her hands stiffly and rose. Smith found himself on his feet, gun in hand, while his hackles lifted shudderingly and something pulsed in the air as tangibly as the beat of wings. Three times that nameless shudder stirred the air, and then Vaudir stepped forward like an automaton and faced the door. She walked in her dream of masked dreadfulness, stiffly, through the portal. As she passed him he put out a hesitant hand and laid it on her arm, and a little stab of pain shot through him at the contact, and once more he thought he felt the pulse of wings in the air. Then she passed by without hesitation, and his hand fell.
 
@@ -1104,9 +1103,9 @@ Smith’s pale stare met the dark one questioningly. The voice flowed on.
 
 “Because there are—interesting things in your eyes too. Courage and ruthlessness and a certain—power, I think. Intensity is in you. And I believe I can find a use for it, Earthman.”
 
-Smith’s eyes narrowed a little. So calm, so matter-of-fact, this talk. But death was coming. He felt it in the air —he knew that feel of old. Death—and worse things than that, perhaps. He remembered the whispers he had heard.
+Smith’s eyes narrowed a little. So calm, so matter-of-fact, this talk. But death was coming. He felt it in the air—he knew that feel of old. Death—and worse things than that, perhaps. He remembered the whispers he had heard.
 
-On the floor the girl moaned a little, and stirred. The Alendar’s quiet, pinpoint eyes flicked her, and he said softly, “Rise.” And she rose, stumbling, and stood before him with bent head. The stiffness was gone from her. On an impulse Smith said suddenly, “Vaudir!” She lifted her face and met his gaze, and a thrill of horror rippled over him. She had regained consciousness, but she would never be the same frightened girl he had known. Black knowledge looked out of her eyes, and her face was a strained mask that covered horror barely —barely! It was the face of one who has walked through a blacker hell than any of humanity’s understanding, and gained knowledge there that no human soul could endure knowing and live.
+On the floor the girl moaned a little, and stirred. The Alendar’s quiet, pinpoint eyes flicked her, and he said softly, “Rise.” And she rose, stumbling, and stood before him with bent head. The stiffness was gone from her. On an impulse Smith said suddenly, “Vaudir!” She lifted her face and met his gaze, and a thrill of horror rippled over him. She had regained consciousness, but she would never be the same frightened girl he had known. Black knowledge looked out of her eyes, and her face was a strained mask that covered horror barely—barely! It was the face of one who has walked through a blacker hell than any of humanity’s understanding, and gained knowledge there that no human soul could endure knowing and live.
 
 She looked him full in the face for a long moment, silently, and then turned away to the Alendar again. And Smith thought, just before her eyes left his, he had seen in them one wild flash of hopeless, desperate appeal. . . .
 
@@ -1136,7 +1135,7 @@ Very beautifully it stretched before him. The walls and floor and ceiling were o
 
 Smith stood very still, looking down the gallery. The Alendar watched him with a subtle anticipation upon his face, the pinpoint glitter of his eyes sharp enough to pierce the Earthman’s very brain. Vaudir with bent head brooded over the black knowledge behind her drooping lids. Only Smith of the three looked down the gallery and saw what moved through the golden glimmer of the air.
 
-They were girls. They might have been goddesses— angels haloed with bronze curls, moving leisurely through a golden heaven where the air sparkled like wine. There must have been a score of them strolling up and down on the gallery in twos and threes, lolling on the couches, bathing in the pool. They wore the infinitely graceful Venusian robe with its looped shoulder and slit skirt, in soft, muted shades of violet and blue and jewel-green, and the beauty of them was breath-stopping as a blow. Music was in every gesture they made, a flowing, singing grace that made the heart ache with its sheer loveliness.
+They were girls. They might have been goddesses—angels haloed with bronze curls, moving leisurely through a golden heaven where the air sparkled like wine. There must have been a score of them strolling up and down on the gallery in twos and threes, lolling on the couches, bathing in the pool. They wore the infinitely graceful Venusian robe with its looped shoulder and slit skirt, in soft, muted shades of violet and blue and jewel-green, and the beauty of them was breath-stopping as a blow. Music was in every gesture they made, a flowing, singing grace that made the heart ache with its sheer loveliness.
 
 He had thought Vaudir lovely, but here was beauty so exquisite that it verged on pain. Their sweet, light voices were pitched to send little velvety burrs along his nerves, and from a distance the soft sounds blended so musically that they might have been singing together. The loveliness of their motion made his heart contract suddenly, and the blood pounded in his ears. . . .
 
@@ -1186,7 +1185,7 @@ The curtain fell. Smith pressed the wall and breathed in long, shuddering gasps,
 
 The green glow was fading from that dagger-sharp gaze as the Alendar’s eyes stabbed into Smith’s. The Earthman gave his head a little shake to clear away the vestiges of that devouring desire, and took a fresh grip on the butt of his gun. The familiar smoothness of it brought him a measure of reassurance, and with it a reawakening to the peril all around. He knew now that there could be no conceivable mercy for him, to whom the innermost secrets of the Minga had been unaccountably revealed. Death was waiting—strange death, as soon as the Alendar wearied of talking—but if he kept his ears open and his eyes alert it might not—please God—catch him so quickly that he died alone. One sweep of that blade-blue flame was all he asked, now. His eyes, keen and hostile, met the dagger-gaze squarely. The Alendar smiled and said,
 
-“Death in your eyes, Earthman. Nothing in your mind but murder. Can that brain of yours comprehend nothing but battle? Is there no curiosity there? Have you no wonder of why I brought you here? Death awaits you, yes. But a not unpleasant death, and it awaits all, in one form or another. Listen, let me tell you—I have reason for desiring to break through that animal shell of self-defense that seals in your mind. Let me look deeper —if there are depths. Your death will be—useful, and in a way, pleasant. Otherwise—well, the black beasts hunger. And flesh must feed them, as a sweeter drink feeds me. . . . Listen.”
+“Death in your eyes, Earthman. Nothing in your mind but murder. Can that brain of yours comprehend nothing but battle? Is there no curiosity there? Have you no wonder of why I brought you here? Death awaits you, yes. But a not unpleasant death, and it awaits all, in one form or another. Listen, let me tell you—I have reason for desiring to break through that animal shell of self-defense that seals in your mind. Let me look deeper—if there are depths. Your death will be—useful, and in a way, pleasant. Otherwise—well, the black beasts hunger. And flesh must feed them, as a sweeter drink feeds me. . . . Listen.”
 
 Smith’s eyes narrowed. A sweeter drink. . . . Danger, danger—the smell of it in the air—instinctively he felt the peril of opening his mind to the plunging gaze of the Alendar, the force of those compelling eyes beating like strong lights into his brain. . . .
 
@@ -1212,7 +1211,7 @@ The Alendar looked out over the fire-tinged waves. He waited for an instant with
 
 “I realized then how long it had been since I tasted the beauty of man. It is so rare, so different from female beauty, that I had all but forgotten it existed. And you have it, very subtly, in a raw, harsh way. . . .
 
-“I have told you all this to test the quality of that— that harsh beauty in you. Had I been wrong about the deeps of your mind, you would have gone to feed the black beasts, but I see that I was not wrong. Behind your animal shell of self-preservation are depths of that force and strength which nourish the roots of male beauty. I think I shall give you a while to let it grow, under the forcing methods I know, before I—drink. It will be delightful. . . .
+“I have told you all this to test the quality of that—that harsh beauty in you. Had I been wrong about the deeps of your mind, you would have gone to feed the black beasts, but I see that I was not wrong. Behind your animal shell of self-preservation are depths of that force and strength which nourish the roots of male beauty. I think I shall give you a while to let it grow, under the forcing methods I know, before I—drink. It will be delightful. . . .
 
 The voice trailed away in a murmurous silence, the pinpoint glitter sought Smith’s eyes. And he tried halfheartedly to avoid it, but his eyes turned involuntarily to the stabbing gaze, and the alertness died out of him, gradually, and the compelling pull of those glittering points in the pits of darkness held him very still.
 
@@ -1228,7 +1227,7 @@ And just at that instant, while madness folded around him and his mind rocked on
 
 And then through the haze of weakness that still shrouded him a voice was shrieking wildly, “Kill! . . . kill!” and he saw the Alendar staggering against the rail, all his outlines unaccountably blurred and uncertain, and behind him Vaudir with blazing eyes and face wrenched hideously into life again, screaming “Kill!” in a voice scarcely human.
 
-Like an independent creature his gun-hand leaped up —he had gripped that gun through everything that happened—and he was dimly aware of the hardness of it kicking back against his hand with the recoil, and of the blue flash flaming from its muzzle. It struck the Alen-dar’s dark figure full, and there was a hiss and a dazzle. . . .
+Like an independent creature his gun-hand leaped up—he had gripped that gun through everything that happened—and he was dimly aware of the hardness of it kicking back against his hand with the recoil, and of the blue flash flaming from its muzzle. It struck the Alen-dar’s dark figure full, and there was a hiss and a dazzle. . . .
 
 Smith closed his eyes tight and opened them again, and stared with a sick incredulity; for unless that struggle had unhinged his brain after all, and the worm-thoughts still dwelt slimily in his mind, tingeing all he saw with unearthly horror—unless this was true, he was looking not at a man just rayed through the lungs, and who should be dropping now in a bleeding, collapsed heap to the floor, but at—at—God, what was it? The dark figure had slumped against the rail, and instead of blood gushing, a hideous, nameless, formless black poured sluggishly forth—a slime like the heaving sea below. The whole dark figure of the man was melting, slumping farther down into the pool of blackness forming at his feet on the stone floor.
 
@@ -1256,7 +1255,7 @@ She shook him off and reeled on, and he cast one last look at the billowing sea,
 
 They went on up the dark hallway, past curtains hiding incarnate loveliness, and the girl’s stumbling footsteps kept time to her stumbling, half-incoherent words.
 
-has lived all these ages here, breeding and devouring beauty—vampire-thirst, a hideous delight in drinking in that beauty-force—I felt it and remembered it when I was one with him—wrapping black layers of primal slime about—quenching human loveliness in ooze, sucking blind black thirst. . . . And his wisdom was ancient and dreadful and full of power—so he could draw a soul out through the eyes and sink it in hell, and drown it there, as he would have done mine if I had not had, somehow, a difference from the rest. Great Shar, I wish I had not! I wish I were drowned in it and did not feel in every atom of me the horrible uncleanness of— what I know. But by virtue of that hidden strength I did not surrender wholly, and when he had turned his power to subduing you I was able to struggle, there in the very heart of his mind, making a disturbance that shook him as he fought us both—making it possible to free you long enough for you to destroy the human flesh he was clothed in—so that he lapsed into the ooze again. I do not quite understand why that happened—only that his weakness, with you assailing him from without and me struggling strongly in the very center of his soul was such that he was forced to draw on the power he had built up to maintain himself in the man-form, and weakened it enough so that he collapsed when the man-form was assailed. And he fell back into the slime again— whence he rose—black slime—heaving—oozing. . .
+has lived all these ages here, breeding and devouring beauty—vampire-thirst, a hideous delight in drinking in that beauty-force—I felt it and remembered it when I was one with him—wrapping black layers of primal slime about—quenching human loveliness in ooze, sucking blind black thirst. . . . And his wisdom was ancient and dreadful and full of power—so he could draw a soul out through the eyes and sink it in hell, and drown it there, as he would have done mine if I had not had, somehow, a difference from the rest. Great Shar, I wish I had not! I wish I were drowned in it and did not feel in every atom of me the horrible uncleanness of—what I know. But by virtue of that hidden strength I did not surrender wholly, and when he had turned his power to subduing you I was able to struggle, there in the very heart of his mind, making a disturbance that shook him as he fought us both—making it possible to free you long enough for you to destroy the human flesh he was clothed in—so that he lapsed into the ooze again. I do not quite understand why that happened—only that his weakness, with you assailing him from without and me struggling strongly in the very center of his soul was such that he was forced to draw on the power he had built up to maintain himself in the man-form, and weakened it enough so that he collapsed when the man-form was assailed. And he fell back into the slime again—whence he rose—black slime—heaving—oozing. . .
 
 Her voice trailed away in murmurs, and she stumbled, all but falling. When she regained her balance she went on ahead of him at a greater distance, as if his very nearness were repugnant to her, and the soft babble of her voice drifted back in broken phrases without meaning.
 
@@ -1264,7 +1263,7 @@ Presently the air began to tingle again, and they passed the silver gate and ent
 
 When they reached the head of the gallery the girl paused, turning to him a face twisted with the effort at memory.
 
-“Here is the trial,” she said urgently. “If I can remember—” She seized her head in clutching hands, shaking it savagely. “I haven’t the strength, now—can’t —can’t—” the piteous little murmur reached his ears incoherently. Then she straightened resolutely, swaying a little, and faced him, holding out her hands. He clasped them hesitantly, and saw a shiver go through her at the contact, and her face contort painfully, and then a shudder communicated itself through that clasp and he too winced in revolt. He saw her eyes go blank and her face strain in lines of tensity, and a fine dew broke out on her forehead. For a long moment she stood so, her face like death, and strong shudders went over her body and her eyes were blank as the void between the planets.
+“Here is the trial,” she said urgently. “If I can remember—” She seized her head in clutching hands, shaking it savagely. “I haven’t the strength, now—can’t—can’t—” the piteous little murmur reached his ears incoherently. Then she straightened resolutely, swaying a little, and faced him, holding out her hands. He clasped them hesitantly, and saw a shiver go through her at the contact, and her face contort painfully, and then a shudder communicated itself through that clasp and he too winced in revolt. He saw her eyes go blank and her face strain in lines of tensity, and a fine dew broke out on her forehead. For a long moment she stood so, her face like death, and strong shudders went over her body and her eyes were blank as the void between the planets.
 
 And as each shudder swept her it went unbroken through the clasping of their hands to him, and they were black waves of dreadfulness, and again he saw the heaving sea and wallowed in the hell he had fought out of on the gallery, and he knew for the first time what torture she must be enduring who dwelt in the very deeps of that uneasy dark. The pulses came faster, and for moments together he went down into the blind blackness and the slime, and felt the first wriggling of the worm-thoughts tickling the roots of his brain. . . .
 
@@ -1286,7 +1285,7 @@ At her heels he followed, across the room, past the great iron gateway, down the
 
 She paused on the stair and turned to face him, and her haggard face was frantic with desperation and despair.
 
-“Earthman, promise—do not let me die like this! When we reach the end, ray me! Bum me clean, or I shall go down for eternity into the black sinks from which I dragged you free. Oh promise!”
+“Earthman, promise—do not let me die like this! When we reach the end, ray me! Burn me clean, or I shall go down for eternity into the black sinks from which I dragged you free. Oh promise!”
 
 “I will,” Smith’s voice said quietly. “I will.”
 
@@ -1306,7 +1305,7 @@ The girl’s gasping voice answered that half-formed query as if, like the Alend
 
 “The—Guardians—still rove the halls, and unleashed now—so keep your ray-gun ready, Earthman. . . .”
 
-After that he kept his eyes alert as they retraced, stumbling and slow, the steps he had taken on his way in. And once he heard distinctly the soft slither of— something—scraping over the marble pavement, and twice he smelt with shocking suddenness in this scented air a whiff of salt, and his mind flashed back to a rolling black sea. . . . But nothing molested them.
+After that he kept his eyes alert as they retraced, stumbling and slow, the steps he had taken on his way in. And once he heard distinctly the soft slither of—something—scraping over the marble pavement, and twice he smelt with shocking suddenness in this scented air a whiff of salt, and his mind flashed back to a rolling black sea. . . . But nothing molested them.
 
 Step by faltering step the hallways fell behind them, and he began to recognize landmarks, and the girl’s footsteps staggered and hesitated and went on gallantly, incredibly, beating back oblivion, fighting the dark surges rolling over her, clinging with tenacious fingers to the tiny spark of life that drove her on.
 
@@ -1326,7 +1325,7 @@ Smith laid his hand on the outer door, drew the bar, swung it open. He stepped o
 
 the_bright_illusion
 
-# The Bright Illusion
+# <a id="page72"></a>The Bright Illusion
 
 .fl
 <span class="smallcaps">Through the blinding</span> shimmer of sun upon sand, Dixon squinted painfully at the curious mirage ahead. He was reeling with thirst and heat and weariness, and about him the desert heaved in long, blurred waves, but through the haze of his own weakness, and through the sun haze upon the desert, he peered anxiously at the thing and could not make it out.
@@ -1341,7 +1340,7 @@ He stumbled over the first, for somehow his muscles did not co-ordinate very wel
 
 Dixon wondered dully what had happened to them and why the bodies were in such varying stages of decomposition. He lifted a dragging head and peered at the great egg-shape thing bulging up from the sand. It reminded him of a huge bubble of golden water, save that bubbles were round, and—
 
-Belatedly, caution returned to him. These dead men must have met their deaths somehow through the presence of the great egg. He had better advance more cautiously or— And then the pull seized him. He had come too near. Something inexorable and slow was dragging him forward—or was it that the great bubble was advancing toward him?
+Belatedly, caution returned to him. These dead men must have met their deaths somehow through the presence of the great egg. He had better advance more cautiously or—And then the pull seized him. He had come too near. Something inexorable and slow was dragging him forward—or was it that the great bubble was advancing toward him?
 
 Sky and sand reeled. And the distance between him and the great egg-shaped thing lessened and lessened and—and somehow he found himself flat against a great golden translucency that shivered against him with the strangest motion, as if it was alive and hungry for—
 
@@ -1373,7 +1372,7 @@ Again there was a gap in the thought waves, and again Dixon lay still, assimilat
 
 Presently the flow began again. There was, in another part of space, a world which this being desired—or no, not desired; there was nothing so human or personal a thing as desire about it. A world which it meant to have; a very alien world, he gathered, from the sort he knew. Peopled by alien creatures and built in other dimensions than those which formed his own universe.
 
-These people worshiped a powerful god. And it was this worship—this godhood—which the being that enfolded him meant to possess. It tried to give him a glimpse of why, but the thought waves which flowed through his brain were incomprehensible and remote— not knowledge, but a jumble of unrelated impressions, without coherence. After a few vain attempts to instill the reason for its purpose into his mind, the being apparently dismissed the point as unnecessary and went on.
+These people worshiped a powerful god. And it was this worship—this godhood—which the being that enfolded him meant to possess. It tried to give him a glimpse of why, but the thought waves which flowed through his brain were incomprehensible and remote—not knowledge, but a jumble of unrelated impressions, without coherence. After a few vain attempts to instill the reason for its purpose into his mind, the being apparently dismissed the point as unnecessary and went on.
 
 This god which it meant to dispossess was very powerful; so powerful that of itself the being could do nothing to overthrow it, could not even pass the barriers) set up to guard the strange world. It had need of an intelligent, animate creature from a world different enough in structure so that the god’s peculiar powers would have no effect upon him.
 
@@ -1383,9 +1382,9 @@ There was a long hiatus after that. Dixon lay quiet, rather stunned by the magni
 
 There was no water within any possible reach, and a band of veiled Tuaregs was scouring the desert nearby m search of that Arab who lay in a huddle of dirty white robes outside the egg-shaped bubble. If he did not die of thirst before they caught him, he would die in a manner infinitely more undesirable at their hands. But, of course, if he so desired, he was free to go.
 
-Dixon digested this information thoughtfully, hesitatingly, though he knew he had no choice. His blind stumbling through the desert could have no other end than slow death, as he had been aware even before he came upon the great bubble. And if there were Tuaregs near— Even in the bodily trance that cradled him he shuddered. He had seen victims of Tuareg tortures, miraculously alive after days and days of— He turned his mind from that. No; he had no choice.
+Dixon digested this information thoughtfully, hesitatingly, though he knew he had no choice. His blind stumbling through the desert could have no other end than slow death, as he had been aware even before he came upon the great bubble. And if there were Tuaregs near—Even in the bodily trance that cradled him he shuddered. He had seen victims of Tuareg tortures, miraculously alive after days and days of—He turned his mind from that. No; he had no choice.
 
-And gradually a little spark of excitement began to bum in him. What an adventure! And though death might lie at the end of it, there was at least a hope for life, and he knew he had not even that if he refused. Consent was forming in his mind, but, even before it crystallized, the being must have known, for about him the lucid radiance suddenly began to cloud and change. Milkiness flooded through it and through his body and his brain. Oblivion swallowed him up.
+And gradually a little spark of excitement began to burn in him. What an adventure! And though death might lie at the end of it, there was at least a hope for life, and he knew he had not even that if he refused. Consent was forming in his mind, but, even before it crystallized, the being must have known, for about him the lucid radiance suddenly began to cloud and change. Milkiness flooded through it and through his body and his brain. Oblivion swallowed him up.
 
 When realization returned to Dixon it came slowly. Layer by layer the oblivion melted from his mind. He had a vague impression of vast spaces traversed and barriers surmounted, and somehow he sensed an indefinable difference in the space that surrounded the bubble, though it was indefinite how he knew it. A little beat quivered through him, and another, clearing away the fogs of his consciousness. Then knowledge began to pulse again through him in measured flow.
 
@@ -1475,7 +1474,7 @@ She looked up at him serenely, evidently feeling that she had mastered a difficu
 
 “How pleasant a thing is this new way of greeting!” she murmured, half to herself. “And now, O Dixon, you have but to command me in all things. What would you in IL’s world-city?”
 
-Dixon debated swiftly with himself. After all, lovely though she seemed, she was—and he must bear this in mind constantly, lest something dangerous befall—she was a sinuous, faceless thing, a creeping horror with the tints of an incredible spectrum. She was no more than this, and he must find his way, by her help, into the god IL’s temple and let the light-being look through his eyes so that he might find IL’s vulnerable spot. After that— well, he must do as he was commanded. IL would be overthrown, his own sponsor would usurp the godship, and that would be all. As for these beings which peopled the world, no doubt the change of gods would be a startling thing, but there was no help for it. He had but to perform his own part and then go.
+Dixon debated swiftly with himself. After all, lovely though she seemed, she was—and he must bear this in mind constantly, lest something dangerous befall—she was a sinuous, faceless thing, a creeping horror with the tints of an incredible spectrum. She was no more than this, and he must find his way, by her help, into the god IL’s temple and let the light-being look through his eyes so that he might find IL’s vulnerable spot. After that—well, he must do as he was commanded. IL would be overthrown, his own sponsor would usurp the godship, and that would be all. As for these beings which peopled the world, no doubt the change of gods would be a startling thing, but there was no help for it. He had but to perform his own part and then go.
 
 “O Dixon!” the sweet, light voice of the girl broke in upon his thoughts. “O Dixon, would you see how IL’s temple is kept by his worshipers? Would you see how devoutly his world adores him?”
 
@@ -1551,7 +1550,7 @@ He must have spoken aloud, for he felt her stir against him and heard her anxiou
 
 Some fantastic hope flowered suddenly within him. “Why not?” he demanded. “Why not? Tell me!” And he shook her a little in his urgency.
 
-“I don’t know,” she faltered. “I only know that—that —O Dixon, that I shall be so lonely when you have gone. Take me—please take me!”
+“I don’t know,” she faltered. “I only know that—that—O Dixon, that I shall be so lonely when you have gone. Take me—please take me!”
 
 “Why?” he demanded inexorably. For he thought now that he was hovering very near the understanding of the vast and splendid thing which had almost dawned upon him before the world shook.
 
@@ -1559,13 +1558,13 @@ Some fantastic hope flowered suddenly within him. “Why not?” he demanded. �
 
 There was pain in her voice and in her veiled eyes. And the thought came to him that love was like an infectious germ, spreading pain wherever it rooted itself. Had he brought it to her—infected her, too, with the hopeless passion he knew? For it was wildly hopeless. In a moment or so he must leave this alien place forever, and no power existent could maintain very long the illusory veil through which they knew love.
 
-Could his own new love for her endure the sight of her real self? And what would happen to this strange flowering of an emotion nameless and unknown to her —her love for him? Could it bear the look of his human shape, unmasked? And yet, he asked himself desperately, could a love as deep and sincere as the love he bore her be so transient a thing that he could not endure the sight of her in another guise? Could—
+Could his own new love for her endure the sight of her real self? And what would happen to this strange flowering of an emotion nameless and unknown to her—her love for him? Could it bear the look of his human shape, unmasked? And yet, he asked himself desperately, could a love as deep and sincere as the love he bore her be so transient a thing that he could not endure the sight of her in another guise? Could—
 
 Again that queer flickering flashed over the world. Dixon felt the ground underfoot tilt dangerously, and for a moment insane colors stabbed at his eyes and the whole room reeled and staggered. Then it was still again. He had scarcely noticed. He swung her around to face hhn, pipping her shoulders and staring down compellingly into her eyes.
 
 . Listen!” he said rapidly, for he knew his time was limited now, perhaps to seconds. “Listen! Have you any idea what you are asking?”
 
-Only to go with you,” she said. “To be with you, wherever you are. And if you are indeed IL’s messenger —perhaps a part of his godhead—then shall I enter the flame and give myself to IL? In that way can I join you and be one with you?”
+Only to go with you,” she said. “To be with you, wherever you are. And if you are indeed IL’s messenger—perhaps a part of his godhead—then shall I enter the flame and give myself to IL? In that way can I join you and be one with you?”
 
 He shook his head. “I am not from IL. I have been sent to destroy him. I’m a man from a world so different from yours that you could never bear to look upon me in my real form. You see me as an illusion, just as I see
 
@@ -1579,7 +1578,9 @@ Her eyes were dizzy with trying to understand.
 
 “But, my dearest, I can’t. Don’t you understand? You couldn’t live an instant in my world—nor I much longer in yours.”
 
-“Then I will die,” she said calmly. “I will enter the flame and wait for you in death. I will wait forever.” “My darling, not even that.” He said it gently. “Not even in death can we be together. For when you die you go back to IL, and I go—I go—back to another god, perhaps. I don’t know. But not to IL.”
+“Then I will die,” she said calmly. “I will enter the flame and wait for you in death. I will wait forever.”
+
+“My darling, not even that.” He said it gently. “Not even in death can we be together. For when you die you go back to IL, and I go—I go—back to another god, perhaps. I don’t know. But not to IL.”
 
 She stood, blank-eyed, in his grasp, trying to force her mind into the incredible belief. When she spoke, the words came slowly, as if her thoughts were speaking aloud.
 
@@ -1589,13 +1590,13 @@ She stood, blank-eyed, in his grasp, trying to force her mind into the incredibl
 
 “I have given my whole life to the worship of IL,” she murmured to herself, very gently. And then, in a stronger voice: “But destroy him, Dixon! There may be a chance that way—there is none now. Oh, I may be a traitor—worse than a traitor. There is no word to describe one who betrays his god into destruction, no word terrible enough. But I would do it—yes, gladly, now. Destroy him, and let me seek another death somewhere, somehow—let me die as you die. Perhaps your god can release me into your sort of death, and I can wait for you there until you come. Oh, Dixon, please!”
 
-The idea was a staggering one, but for a wild moment Dixon knew hope again. Might it not be that—that—■ Quite suddenly he understood. He looked down on the loveliness of her with unseeing eyes. In these past few moments of insanity, learning that she loved him, too, enough that she begged death of him if in that way they might be united, in these few moments he came to realize that the flesh meant nothing. It was not her body he loved. And a great relief flooded him, to be sure that— sure that it was not merely infatuation, or desire for the
+The idea was a staggering one, but for a wild moment Dixon knew hope again. Might it not be that—that—■ Quite suddenly he understood. He looked down on the loveliness of her with unseeing eyes. In these past few moments of insanity, learning that she loved him, too, enough that she begged death of him if in that way they might be united, in these few moments he came to realize that the flesh meant nothing. It was not her body he loved. And a great relief flooded him, to be sure that—sure that it was not merely infatuation, or desire for the
 
 loveliness which did not exist save as a mirage before his eyes. No, it was love, truly and completely, despite the shape she wore, despite the nameless sex that was hers. Love for herself—the essential self, however deeply buried beneath whatever terrible guise. And though her very substance was alien to him, and though no creature in all her ancestry had ever known love before, she loved him. Nothing else mattered.
 
 And then without warning the great dome before him wavered and contorted into impossible angles, like the reflections in a flawed mirror. And Dixon felt the firm curved body in his arms melting fluidly into a different form and texture. It squirmed . . .
 
-He stood at the entrance to a mighty room that staggered with frantic color, reeling with eye-stunning angles and incredible planes. And in his arms— He looked down. He clasped a creature at which he could not bear to look directly, a thing whose wild-looped limbs and sinuous body rippled and crawled with the moving tints of madness. It was slippery and horrible to the touch,, and from the midst of a shifting, featureless face a great lucid eye stared up at him with desperate horror, as if it was looking upon something so frightful that the very sight was enough to unseat its reason.
+He stood at the entrance to a mighty room that staggered with frantic color, reeling with eye-stunning angles and incredible planes. And in his arms—He looked down. He clasped a creature at which he could not bear to look directly, a thing whose wild-looped limbs and sinuous body rippled and crawled with the moving tints of madness. It was slippery and horrible to the touch,, and from the midst of a shifting, featureless face a great lucid eye stared up at him with desperate horror, as if it was looking upon something so frightful that the very sight was enough to unseat its reason.
 
 Dixon closed his eyes after that one revolting glimpse, but he had seen in the eye upturned to him enough of dawning comprehension to be sure it was she whom he held. And he thought that despite the utter strangeness of that one staring eye there was somewhere in the clarity of it, and the steadfastness, a glimmer of the innermost spark which was the being he loved—that spark which had looked from the blue gaze he had seen in its human shape. With that inner spark of life she was the same.
 
@@ -1635,7 +1636,7 @@ At last IL said, “‘So—the reigning principle of your own system and dimens
 
 “You love the image.”
 
-“At first it may be that I did. But now—no; there’s much more of it than that. We may be alien to the very atoms. Our minds may be alien, and all our thoughts, and even our souls. But, after all, alien though we are, that alienage is of superficial things. Stripped down to the barest elemental beginning, we have one kinship— we share life. We are individually alive, animate, free-willed. Somewhere at the very core of our beings is the one vital spark of life, which in the last analysis is self, and with that one spark we love each other.”
+“At first it may be that I did. But now—no; there’s much more of it than that. We may be alien to the very atoms. Our minds may be alien, and all our thoughts, and even our souls. But, after all, alien though we are, that alienage is of superficial things. Stripped down to the barest elemental beginning, we have one kinship—we share life. We are individually alive, animate, free-willed. Somewhere at the very core of our beings is the one vital spark of life, which in the last analysis is self, and with that one spark we love each other.”
 
 The deepest silence fell again when he had ended—a silence of the innermost brain.
 
@@ -1669,7 +1670,7 @@ Dixon swallowed hard. Half-doubts and hesitations crowded his mind, but he heard
 
 In the silence as he waited for an answer he was trying to realize that he stood on the threshold of death; trying to understand, his mind probing ahead eagerly for the answer which might lie beyond. And in the timeless moment he waited he was very sure, for whatever lay ahead could not be extinction and surely not separation. This was the beginning; surely it could not end so soon, unfulfilled, all the questions unanswered.
 
-No; this love which linked them, two beings so alien, could not flicker out with their lives. It was too great— too splendid, far too strong. He was no longer uncertain, no longer afraid, and hope began to torment him exquisitely. What lay beyond? What vast existences? What starry adventures, together? Almost impatiently he poised on the brink of death.
+No; this love which linked them, two beings so alien, could not flicker out with their lives. It was too great—too splendid, far too strong. He was no longer uncertain, no longer afraid, and hope began to torment him exquisitely. What lay beyond? What vast existences? What starry adventures, together? Almost impatiently he poised on the brink of death.
 
 Through this IL’s voice spoke with a vast, passionless calm. “Die, then,” said IL.
 
@@ -1681,7 +1682,7 @@ And IL was alone.
 
 black_gods_kiss
 
-# Black God’s Kiss
+# <a id="page100"></a>Black God’s Kiss
 
 .fl
 <span class="smallcaps">They brought in</span> Joiry’s tall commander, struggling between two men-at-arms who tightly gripped the ropes which bound their captive’s mailed arms. They picked their way between mounds of dead as they crossed the great hall toward the dais where the conqueror sat, and twice they slipped a little in the blood that spattered the flags. When they came to a halt before the mailed figure on the dais, Joiry’s commander was breathing hard, and the voice that echoed hollowly under the helmet’s confines was hoarse with fury and despair.
@@ -1717,13 +1718,13 @@ Guillaume said nothing, then. He sought her head with a steady hand, found it de
 .space
 Jirel opened her yellow eyes upon darkness. She lay quiet for a while, collecting her scattered thoughts. By degrees it came back to her, and she muffled upon her arm a sound that was half curse and half sob. Joiry had fallen. For a time she lay rigid in the dark, forcing herself to the realization.
 
-The sound of feet shifting on stone near by brought her out of that particular misery. She sat up cautiously, feeling about her to determine in what part of Joiry its liege lady was imprisoned. She knew that the sound she had heard must be a sentry, and by the dank smell of the darkness that she was underground. In one of the little dungeon cells, of course. With careful quietness she got to her feet, muttering a curse as her head reeled for an instant and then began to throb. In the utter dark she felt around the cell. Presently she came to a little wooden stool in a comer, and was satisfied. She gripped one leg of it with firm fingers and made her soundless way around the wall until she had located the door.
+The sound of feet shifting on stone near by brought her out of that particular misery. She sat up cautiously, feeling about her to determine in what part of Joiry its liege lady was imprisoned. She knew that the sound she had heard must be a sentry, and by the dank smell of the darkness that she was underground. In one of the little dungeon cells, of course. With careful quietness she got to her feet, muttering a curse as her head reeled for an instant and then began to throb. In the utter dark she felt around the cell. Presently she came to a little wooden stool in a corner, and was satisfied. She gripped one leg of it with firm fingers and made her soundless way around the wall until she had located the door.
 
 The sentry remembered, afterward, that he had heard the wildest shriek for help which had ever rung in his ears, and he remembered unbolting the door. Afterward, until they found him lying inside the locked cell with a cracked skull, he remembered nothing.
 
 Jirel crept up the dark stairs of the north turret, murder in her heart. Many little hatreds she had known in her life, but no such blaze as this. Before her eyes in the night she could see Guillaume’s scornful, scarred face laughing, the little jutting beard split with the whiteness of his mirth. Upon her mouth she felt the remembered weight of his, about her the strength of his arms. And such a blast of hot fury came over her that she reeled a little and clutched at the wall for support. She went on in a haze of red anger, and something like madness burning in her brain as a resolve slowly took shape out of the chaos of her hate. When that thought came to her she paused again, mid-step upon the stairs, and was conscious of a little coldness blowing over her. Then it was gone, and she shivered a little, shook her shoulders and grinned wolfishly, and went on.
 
-By the stars she could see through the arrow-slits in the wall it must be near to midnight. She went softly on the stairs, and she encountered no one. Her little tower room at the top was empty. Even the straw pallet where the serving-wench slept had not been used that night. Jirel got herself out of her armor alone, somehow, after much striving and twisting. Her doeskin shirt was stiff with sweat and stained with blood. She tossed it disdainfully into a comer. The fury in her eyes had cooled now to a contained and secret flame. She smiled to herself as she slipped a fresh shirt of doeskin over her tousled red head and donned a brief tunic of link-mail. On her legs she buckled the greaves of some forgotten legionary, relic of the not long past days when Rome still ruled the world. She thrust a dagger through her belt and took her own long two-handed sword bare-bladed in her grip. Then she went down the stairs again.
+By the stars she could see through the arrow-slits in the wall it must be near to midnight. She went softly on the stairs, and she encountered no one. Her little tower room at the top was empty. Even the straw pallet where the serving-wench slept had not been used that night. Jirel got herself out of her armor alone, somehow, after much striving and twisting. Her doeskin shirt was stiff with sweat and stained with blood. She tossed it disdainfully into a corner. The fury in her eyes had cooled now to a contained and secret flame. She smiled to herself as she slipped a fresh shirt of doeskin over her tousled red head and donned a brief tunic of link-mail. On her legs she buckled the greaves of some forgotten legionary, relic of the not long past days when Rome still ruled the world. She thrust a dagger through her belt and took her own long two-handed sword bare-bladed in her grip. Then she went down the stairs again.
 
 She knew there must have been revelry and feasting in the great hall that night, and by the silence hanging so heavily now she was sure that most of her enemies lay still in drunken slumber, and she experienced a swift regret for the gallons of her good French wine so wasted. And the thought flashed through her head that a determined woman with a sharp sword might work some little damage among the drunken sleepers before she was overpowered. But she put that idea by, for Guillaume would have posted sentries to spare, and she must not give up her secret freedom so fruitlessly.
 
@@ -1752,13 +1753,15 @@ Gervase bent and gripped her shoulders with hands that shook.
 
 “If I thought you meant it,” he whispered, “I would waken Guillaume now and give you into his arms. It would be a kinder fate, my daughter.”
 
-“It’s that I would walk through hell to escape,” she whispered back fiercely. “Can’t you see? Oh, God knows I’m not innocent of the ways of light loving—but to be any man’s fancy, for a night or two, before he snaps my neck or sells me into slavery—and above all, if that man were Guillaume! Can’t you understand?” “That would be shame enough,” nodded Gervase. “But think, Jirel! For that shame there is atonement and absolution, and for that death the gates of heaven open wide. But this other—Jirel, Jirel, never through all eternity may you come out, body or soul, if you venture —down!”
+“It’s that I would walk through hell to escape,” she whispered back fiercely. “Can’t you see? Oh, God knows I’m not innocent of the ways of light loving—but to be any man’s fancy, for a night or two, before he snaps my neck or sells me into slavery—and above all, if that man were Guillaume! Can’t you understand?”
+
+“That would be shame enough,” nodded Gervase. “But think, Jirel! For that shame there is atonement and absolution, and for that death the gates of heaven open wide. But this other—Jirel, Jirel, never through all eternity may you come out, body or soul, if you venture—down!”
 
 She shrugged.
 
-“To wreak my vengeance upon Guillaume I would go if I knew I should bum in hell forever.”
+“To wreak my vengeance upon Guillaume I would go if I knew I should burn in hell forever.”
 
-“But Jirel, I do not think you understand. This is a worse fate than the deepest depths of hell-fire. This is —this is beyond all the bounds of the hells we know. And I think Satan’s hottest flames were the breath of paradise, compared to what may befall there.”
+“But Jirel, I do not think you understand. This is a worse fate than the deepest depths of hell-fire. This is—this is beyond all the bounds of the hells we know. And I think Satan’s hottest flames were the breath of paradise, compared to what may befall there.”
 
 “I know. Do you think I’d venture down if I could not be sure? Where else would I find such a weapon as I need, save outside God’s dominion?”
 
@@ -1771,7 +1774,7 @@ After a moment he dropped his head. “You are my lady. I will give you God’s 
 .space
 She went down into the dungeons again. She went down a long way through utter dark, over stones that were oozy and odorous with moisture, through blackness that had never known the light of day. She might have been a little afraid at other times, but that steady flame of hatred burning behind her eyes was a torch to light the way, and she could not wipe from her memory the feel of Guillaume’s arms about her, the scornful press of his lips on her mouth. She whimpered a little, low in her throat, and a hot gust of hate went over her.
 
-In the solid blackness she came at length to a wall, and she set herself to pulling the loose stones from this with her free hand, for she would not lay down the sword. They had never been laid in mortar, and they came out easily. When the way was clear she stepped through and found her feet upon a downward-sloping ramp of smooth stone. She cleared the rubble away from the hole in the wall, and enlarged it enough for a quick passage; for when she came back this way—if she did —it might well be that she would come very fast.
+In the solid blackness she came at length to a wall, and she set herself to pulling the loose stones from this with her free hand, for she would not lay down the sword. They had never been laid in mortar, and they came out easily. When the way was clear she stepped through and found her feet upon a downward-sloping ramp of smooth stone. She cleared the rubble away from the hole in the wall, and enlarged it enough for a quick passage; for when she came back this way—if she did—it might well be that she would come very fast.
 
 At the bottom of the slope she dropped to her knees on the cold floor and felt about. Her fingers traced the outline of a circle, the veriest crack in the stone. She felt until she found the ring in its center. That ring was of the coldest metal she had ever known, and the smoothest. She could put no name to it. The daylight had never shone upon such metal.
 
@@ -1800,7 +1803,7 @@ Then ahead of her the darkness moved. It was just that—a vast, imponderable sh
 
 And then it was gone. In that one flash of an instant it vanished, leaving no whisper to commemorate its passage. Only in the heart of it could one hear the sad little voices wailing or the wild shriek of the wind. She found herself standing stunned, her sword yet gripped futilely in one hand and the tears running down her face. Poor little lost voices, wailing. She wiped the tears away with a shaking hand and set her teeth hard against the weakness of reaction that flooded her. Yet it was a good five minutes before she could force herself on. After a few steps her knees ceased to tremble.
 
-The floor was dry and smooth underfoot. It sloped a little downward, and she wondered into what unplumbed deeps she had descended by now. The silence had fallen heavily again, and she found herself straining for some other sound than the soft padding of her own boots. Then her foot slipped in sudden wetness. She bent, exploring fingers outstretched, feeling without reason that the wetness would be red if she could see it. But her fingers traced the immense outline of a footprint— splayed and three-toed like a frog’s, but of monster size. It was a fresh footprint. She had a vivid flash of memory —that thing she had glimpsed in the torchlight on the other trip down. But she had had light then, and now she was blind in the dark, the creature’s natural habitat. . . .
+The floor was dry and smooth underfoot. It sloped a little downward, and she wondered into what unplumbed deeps she had descended by now. The silence had fallen heavily again, and she found herself straining for some other sound than the soft padding of her own boots. Then her foot slipped in sudden wetness. She bent, exploring fingers outstretched, feeling without reason that the wetness would be red if she could see it. But her fingers traced the immense outline of a footprint—splayed and three-toed like a frog’s, but of monster size. It was a fresh footprint. She had a vivid flash of memory—that thing she had glimpsed in the torchlight on the other trip down. But she had had light then, and now she was blind in the dark, the creature’s natural habitat. . . .
 
 For a moment she was not Jirel of Joiry, vengeful fury on the trail of a devilish weapon, but a frightened woman alone in the unholy dark. That memory had been so vivid. . . . Then she saw Guillaume’s scornful, laughing face again, the little beard dark along the line of his jaw, the strong teeth white with his laughter; and something hot and sustaining swept over her like a thin flame, and she was Joiry again, vengeful and resolute. She went on more slowly, her sword swinging in a semicircle before every third step, that she might not be surprised too suddenly by some nightmare monster clasping her in smothering arms. But the flesh crept upon her unprotected back.
 
@@ -1920,7 +1923,7 @@ She stood there for a full minute, reluctant to enter the place where so alien a
 
 Gradually the universal focusing of lines began to exert its influence upon her. She took a hesitant step forward without realizing the motion. But that step was all the dormant urge within her needed. With her one motion forward the compulsion closed down upon her with whirlwind impetuosity. Helplessly she felt herself advancing, helplessly with one small, sane portion of her mind she realized the madness that was gripping her, the blind, irresistible urge to do what every visible line in the temple’s construction was made to compel. With stars swirling around her she advanced across the floor and laid her hands upon the rounded shoulders of the image—the sword, forgotten, making a sort of accolade against its hunched neck—and lifted her red head and laid her mouth blindly against the pursed lips of the image.
 
-In a dream she took that kiss. In a dream of dizziness and confusion she seemed to feel the iron-cold lips stirring under hers. And through the union of that kiss— warm-blooded woman with image of nameless stone— through the meeting of their mouths something entered into her very soul; something cold and stunning; something alien beyond any words. It lay upon her shuddering soul like some frigid weight from the void, a bubble holding something unthinkably alien and dreadful. She could feel the heaviness of it upon some intangible part of her that shrank from the torch. It was like the weight of remorse or despair, only far colder and stranger and —somehow—more ominous, as if this weight were but the egg from which things might hatch too dreadful to put even into thoughts.
+In a dream she took that kiss. In a dream of dizziness and confusion she seemed to feel the iron-cold lips stirring under hers. And through the union of that kiss—warm-blooded woman with image of nameless stone—through the meeting of their mouths something entered into her very soul; something cold and stunning; something alien beyond any words. It lay upon her shuddering soul like some frigid weight from the void, a bubble holding something unthinkably alien and dreadful. She could feel the heaviness of it upon some intangible part of her that shrank from the torch. It was like the weight of remorse or despair, only far colder and stranger and—somehow—more ominous, as if this weight were but the egg from which things might hatch too dreadful to put even into thoughts.
 
 The moment of the kiss could have been no longer than a breath’s space, but to her it was timeless. In a dream she felt the compulsion falling from her at last. In a dim dream she dropped her hands from its shoulders, finding the sword heavy in her grasp and staring dully at it for a while before clarity began its return to her cloudy mind. When she became completely aware of herself once more she was standing with slack body and dragging head before the blind, rapturous image, that dead weight upon her heart as dreary as an old sorrow, and more coldly ominous than anything she could find words for.
 
@@ -1981,7 +1984,7 @@ And now came a visible, physical change. Watching, she was aghast to think that 
 
 They knew he was dead. That was unmistakable in the way he lay. Jirel stood very still, looking down upon him, and strangely it seemed to her that all the lights in the world had gone out. A moment before he had been so big and vital, so magnificent in the torchlight—she could still feel his kiss upon her mouth, and the hard warmth of his arms. . . .
 
-Suddenly and blindingly it came upon her what she had done. She knew now why such heady violence had flooded her whenever she thought of him—knew why the light-devil in her own form had laughed so derisively —knew the price she must pay for taking a gift from a demon. She knew that there was no light anywhere in the world, now that Guillaume was gone.
+Suddenly and blindingly it came upon her what she had done. She knew now why such heady violence had flooded her whenever she thought of him—knew why the light-devil in her own form had laughed so derisively—knew the price she must pay for taking a gift from a demon. She knew that there was no light anywhere in the world, now that Guillaume was gone.
 
 Father Gervase took her arm gently. She shook him off with an impatient shrug and dropped to one knee beside Guillaume’s body, bending her head so that the red hair fell forward to hide her tears.
 
@@ -1989,7 +1992,7 @@ Father Gervase took her arm gently. She shook him off with an impatient shrug an
 
 tryst_in_time
 
-# Tryst in Time
+# <a id="page131"></a>Tryst in Time
 
 .fl
 <span class="smallcaps">Eric Rosner at</span> twenty had worked his way round the world on cattle boats, killed his first man in a street brawl in Shanghai, escaped a firing squad by a hairbreadth, stowed away on a pole-bound exploring ship.
@@ -2026,15 +2029,17 @@ Dow shot him a despairing glance.
 
 “I can’t make you understand; you don’t speak the language. And I sometimes wonder if I could explain even to another physicist all that I’ve discovered in the past ten years. But I do very firmly believe that it would be possible to anchor to that bedrock of essential, underlying inertia which is the base upon which matter builds and—and allow time itself to whirl by!”
 
-“Yeah, and find yourself floating in space when you let go.” Eric grinned. “Even I’ve heard that the universe is in motion through space. I don’t know about time, but I’m pretty sure space would block your little scheme.” “I didn’t mean you’d have to—to dig your anchor right into the rock,” explained Dow with dignity. “It’d be a sort of a drag to slow you down, not a jerk that would snatch you right off the Earth. And it’d involve —immensities—even then. But it could be done. It will be done. By Heaven, I’ll do it!”
+“Yeah, and find yourself floating in space when you let go.” Eric grinned. “Even I’ve heard that the universe is in motion through space. I don’t know about time, but I’m pretty sure space would block your little scheme.”
+
+“I didn’t mean you’d have to—to dig your anchor right into the rock,” explained Dow with dignity. “It’d be a sort of a drag to slow you down, not a jerk that would snatch you right off the Earth. And it’d involve—immensities—even then. But it could be done. It will be done. By Heaven, I’ll do it!”
 
 Eric’s sunburned face sobered.
 
-“You’re not kidding?” he asked. “A man could— could drag his anchor and let time go by, and hip-anchor’ in another age? Say! Make me an anchor, and I’ll be your guinea pig!”
+“You’re not kidding?” he asked. “A man could—could drag his anchor and let time go by, and hip-anchor’ in another age? Say! Make me an anchor, and I’ll be your guinea pig!”
 
 Dow did not smile.
 
-“That’s the worst of it,” he said. “All this is pure theory and will have to remain that, in spite of all I’ve bragged. It would be absolutely blind experimenting, and the very nature of the element I’m experimenting with precludes any proof of success or failure. I could —to be frank with you I have—sent objects out through time	”
+“That’s the worst of it,” he said. “All this is pure theory and will have to remain that, in spite of all I’ve bragged. It would be absolutely blind experimenting, and the very nature of the element I’m experimenting with precludes any proof of success or failure. I could—to be frank with you I have—sent objects out through time	”
 
 “You have!” Eric leaned forward with a jerk and laid an urgent hand on Dow’s arm. “You really have?”
 
@@ -2050,7 +2055,9 @@ Dow smiled.
 
 “I can transport you into the past, and you can create events there which never took place in the past we know but the events are not new. They were ordained from the beginning, if you took that particular path. You are simply embarking upon a different path into a different future, a fixed and preordained future, yet one which will be strange to you because it lies outside your own layer of experience. So you have infinite freedom in all your actions, yet everything you can possibly do is already fixed in time.”
 
-“Why, then—then there’s no limit to the excitement a man could find in navigating time,” said Eric almost reverently. And then in sudden urgency, “Dow, you’ve got to fix it up for me! This is what I’ve been hunting!” “Are you crazy, boy? This is nothing that can ever be proved safe except by the actual experiment, and the experiment could never return. You know that, don’t you? From what blind groping I’ve done, it seems to me that time is not a constant flow, but an ebb and flux that can’t be measured. It would be hard to explain to you. But you couldn’t return—couldn’t guide yourself. You wouldn’t dare try it!”
+“Why, then—then there’s no limit to the excitement a man could find in navigating time,” said Eric almost reverently. And then in sudden urgency, “Dow, you’ve got to fix it up for me! This is what I’ve been hunting!”
+
+“Are you crazy, boy? This is nothing that can ever be proved safe except by the actual experiment, and the experiment could never return. You know that, don’t you? From what blind groping I’ve done, it seems to me that time is not a constant flow, but an ebb and flux that can’t be measured. It would be hard to explain to you. But you couldn’t return—couldn’t guide yourself. You wouldn’t dare try it!”
 
 “I’m fed up with certainty and safety! And as for returning, what have I here to return to? No, you can’t scare me. I’ve got to try it!”
 
@@ -2100,11 +2107,11 @@ Over the slope of the meadow before him dingy white sheep moved slowly. A little
 
 The thought troubled him as he clicked the switches at his belt. What was it that by its absence here made him dismiss the idyllic scene with a glance? He was hunting something, restlessly searching through the ages for—something. Then the tidal rush of the centuries over his anchorage blotted out wonder and all else in its oblivion.
 
-Sunlight like a physical blow crashed down about him —blazing hot sun that beat violently upon marble pavement and struck blindingly up again into his eyes. For a few seconds he was aware of nothing more than this intolerable glare. Gradually out of the blazing heat the lines of marble walls became clear about him. He stood upon the floor of a dazzling white marble pit about twenty feet square. Against the opposite wall lay a man whose naked, blood-spattered body was so still under the down-blazing heat that Eric could not be sure that he was alive.
+Sunlight like a physical blow crashed down about him—blazing hot sun that beat violently upon marble pavement and struck blindingly up again into his eyes. For a few seconds he was aware of nothing more than this intolerable glare. Gradually out of the blazing heat the lines of marble walls became clear about him. He stood upon the floor of a dazzling white marble pit about twenty feet square. Against the opposite wall lay a man whose naked, blood-spattered body was so still under the down-blazing heat that Eric could not be sure that he was alive.
 
 _ He had seen this much before the rising babble of excited voices above him mounted loud enough to pierce his dazed surprise. He looked up. Leaning over the pit’s rim were faces—faces and arms and here and there a trail of velvet robe, a bright scarfs fringe. They were the faces of aristocrats, fine and dissipated and cruel. But all expression was wiped from every one now.
 
-In that first glance he had of them he thought they must be Romans. He had little to judge by save their hair dressing, and only a momentary glimpse of that; for, as he raised his head, his eyes met the strange, smoke-blue eyes of a woman who leaned upon the marble rim just in front of him, and above. A little space separated her from those on each side. He had the swift impression that she was of higher rank than the rest— some fleeting touch of arrogance and pride in the face looking down on him. And it was a familiar face. Why he could not guess, but in that glimpse of her he was sure that he had seen those features somewhere before, and recently.
+In that first glance he had of them he thought they must be Romans. He had little to judge by save their hair dressing, and only a momentary glimpse of that; for, as he raised his head, his eyes met the strange, smoke-blue eyes of a woman who leaned upon the marble rim just in front of him, and above. A little space separated her from those on each side. He had the swift impression that she was of higher rank than the rest—some fleeting touch of arrogance and pride in the face looking down on him. And it was a familiar face. Why he could not guess, but in that glimpse of her he was sure that he had seen those features somewhere before, and recently.
 
 Then she lifted one bare arm upon whose whiteness the sun struck dazzlingly, and pointed downward. From behind her came the sound of metal upon stone, and in the blinding light he saw a man’s arm move swiftly. The sun struck upon a long shaft of steel. The spear was hurtling straight for his breast as his hands flew to his belt. The switches clicked, and in one great sweeping blur the whole scene vanished.
 
@@ -2146,11 +2153,11 @@ Dying, the girl would not leave even her untenanted body to their defilement. Pr
 
 In the brief second while the brute-men stood awed in the broken wall, staring at the charred heap upon the pavement and at the tall golden man who stood over it, Eric’s mind was busy, turning over quick wonderings, and speculations even as his hands reached for die switches at his belt.
 
-Her race must have reared that immense, unearthly city, long ago. A forgotten race, wise in forgotten arts. Perhaps not bom of earth. And the hordes of brutish
+Her race must have reared that immense, unearthly city, long ago. A forgotten race, wise in forgotten arts. Perhaps not born of earth. And the hordes of brutish
 
 things which would one day become men must have assailed them as time beat down their Cyclopean city and thinned their inbred ranks.
 
-This girl, this unknown, unimaginably far-distant girl, perhaps star-bom, certainly very alien—had died as all her race must be doomed to die, until the last flicker of that stupendous civilization was stamped out and earth forgot the very existence of the slim, long-legged human race which had once dwelt upon her surface when her own primordial man was still an apish beast.
+This girl, this unknown, unimaginably far-distant girl, perhaps star-born, certainly very alien—had died as all her race must be doomed to die, until the last flicker of that stupendous civilization was stamped out and earth forgot the very existence of the slim, long-legged human race which had once dwelt upon her surface when her own primordial man was still an apish beast.
 
 But—they had not wholly died. He had seen her in other ages. Her smoky eyes had looked down upon him in the Roman pit; her own gay voice had called across the Elizabethan street. He was very sure of that. And the queer, stunning sense of loss which had swept over him as he saw her die lightened. She had died, but she was not gone. Her daughters lived through countless ages. He would find her again, somewhere, somehow, in some other age and land. He would comb the centuries until he found her. And he would ask her then what her last long stare had meant, so meltingly tender, so surely recognizing, as she turned the blue-hot blaze upon herself. He would	
 
@@ -2166,7 +2173,7 @@ He was beginning to despair,, when, after so many flashing scenes that he had lo
 
 He heard shouts in an unknown tongue, the trample of horses’ feet and the impatient jingle of harness, the creak of wheels. Through the shining dust that eddied, cloudlike, under the feet of the crowd that bustled about the inclosure, he made out a train of heavy wagons about which strange, short, bearded men swarmed in busy confusion, heaving crates and bales into the vehicles and calling in odd gutturals. Men on horseback galloped to and fro recklessly through the crowd, and the heavy-headed oxen stood in patient twos at each wagon.
 
-Eric found himself in a comer of the low wall that circled the yard, and, in the tumult, quite unnoticed so far. He stood there quietly, hand resting lightly on the butt of his revolver, watching the scene. He could not guess where he was, in what land or time, in the presence of what alien race. The men were all little and dark and hairy, and somehow crooked, like gnomes. He had never heard a tongue like the gutturals they mouthed.
+Eric found himself in a corner of the low wall that circled the yard, and, in the tumult, quite unnoticed so far. He stood there quietly, hand resting lightly on the butt of his revolver, watching the scene. He could not guess where he was, in what land or time, in the presence of what alien race. The men were all little and dark and hairy, and somehow crooked, like gnomes. He had never heard a tongue like the gutturals they mouthed.
 
 Then at the far side of the courtyard a lane opened in the crowd, and through it a column of the crooked brown men with curly-pronged pikes across their shoulders came marching. They had a captive with them—a girl. A tall girl, slim and straight, high-headed. Eric leaned forward eagerly. Yes, it was she. No mistaking the poise of that high, dark head, the swing of her body
 
@@ -2186,7 +2193,7 @@ They must have thought him a god dealing death in a crash of thunder and the hot
 
 “Don’t be afraid,” he said in as gentle a voice as he could command, for he knew the tone would convey a message, though the words did not. “We’d better get out of here before they come back.”
 
-He was reloading his gun as he spoke. She still did nothing but stare, wide-eyed, rigid in sternly suppressed terror. There was no time to waste now trying to quiet her fears. Already he saw dark, bearded faces peering around comers at him. He skirted the heap of fallen soldiers and swung the girl off her feet. She gasped as his arms closed, but no other sound escaped her as he hoisted her over one shoulder, holding her there with a clasp around her knees so that he might have his gun hand free. With long, unhurried strides he left the courtyard.
+He was reloading his gun as he spoke. She still did nothing but stare, wide-eyed, rigid in sternly suppressed terror. There was no time to waste now trying to quiet her fears. Already he saw dark, bearded faces peering around corners at him. He skirted the heap of fallen soldiers and swung the girl off her feet. She gasped as his arms closed, but no other sound escaped her as he hoisted her over one shoulder, holding her there with a clasp around her knees so that he might have his gun hand free. With long, unhurried strides he left the courtyard.
 
 A mud-walled village ringed the big inclosure. Serenely, he went down the dusty street, wary eyes scanning the building, gun ready in one hand and the chained girl slung across his heavy shoulder. From behind shelter they watched him go, tall and golden under the noonday sun, a god out of nowhere. Legends were to grow up about that noon’s events—a god come down to earth to claim his sacrifice in person.
 
@@ -2212,13 +2219,13 @@ Afterward they sat by the carefully banked fire and tried to talk. Her name was 
 
 She looked at him a great deal out of grave blue eyes as she talked, and there was in their depths a haunted remembrance. He was to recall that look of hers more clearly than anything else about her, afterward. So many times he caught the puzzled, brooding gaze searching his face in troubled incomprehension.
 
-He sat there silently, scarcely heeding the occasional low cadences of her voice. He was learning the grave, sweet lines of her young face, the way her eyes tilted ever so faintly at the comers, the smooth plane of her cheek, the curved line on which her lips closed. And sometimes the wonder of their meeting, through so many ages, came down upon him breathlessly, the realization of something too vast and strange and wonderful to put into words, and he stared into the sweet, familiar face almost with awe, thinking of those other grave, dark eyes and serene faces, so like hers, that ranged through time. There was a tremendous purpose behind that patterning of faces through the centuries, too great for him to grasp.
+He sat there silently, scarcely heeding the occasional low cadences of her voice. He was learning the grave, sweet lines of her young face, the way her eyes tilted ever so faintly at the corners, the smooth plane of her cheek, the curved line on which her lips closed. And sometimes the wonder of their meeting, through so many ages, came down upon him breathlessly, the realization of something too vast and strange and wonderful to put into words, and he stared into the sweet, familiar face almost with awe, thinking of those other grave, dark eyes and serene faces, so like hers, that ranged through time. There was a tremendous purpose behind that patterning of faces through the centuries, too great for him to grasp.
 
 He watched her talk, the firelight turning that dearly familiar face ruddy, and shining in the deep, troubled blueness of her eyes, and a strange and sudden tenderness came over him. He bent forward, a catch in his throat, laying his hands over hers, looking into the memory-haunted depths of her eyes.
 
 He said not a word, but he stared deep and long, and he could have sworn that sudden answer lighted in her gaze, for one swift instant blotting out that puzzled straining after remembrance and turning her whole face serene and lovely with understanding. The moment held them enchanted, warm in the deeps of something so breathlessly lovely that he felt the sting of sudden hotness behind his eyes. In that instant all puzzlement and incomprehension was swept aside and the answer to the great purpose behind their meetings hovered almost within grasp.	•	.
 
-Then, without warning, the girl’s face crumpled into tears and she snatched her hands away, leaping to her feet with the long, startled bound of a wild thing and facing him in the firelight with clenched fists and swimming eyes. It was not rebellion against his clasp of her hands—surely she could see that he meant no violence —but a revolt against some inner enemy that dwelt behind the tear-bright blue eyes. She stood irresolutely there for a moment, then made a helpless little gesture and dropped to the ground once more, sitting there with bowed shoulders and bent head, staring into the embers.
+Then, without warning, the girl’s face crumpled into tears and she snatched her hands away, leaping to her feet with the long, startled bound of a wild thing and facing him in the firelight with clenched fists and swimming eyes. It was not rebellion against his clasp of her hands—surely she could see that he meant no violence—but a revolt against some inner enemy that dwelt behind the tear-bright blue eyes. She stood irresolutely there for a moment, then made a helpless little gesture and dropped to the ground once more, sitting there with bowed shoulders and bent head, staring into the embers.
 
 Presently her voice began softly, speaking in little disconnected phrases that fell monotonously into the silence. He made out enough to understand her sudden revulsion against that strange and lovely oneness of understanding that had gripped them both. She was betrothed. She made him realize that it was more than the simple plighting of vows between lovers. He caught vague references to religious ceremonies, marriage of high priest and chosen virgin, temple rites and the anger of a jealous god. That much he understood.
 
@@ -2252,13 +2259,13 @@ Out of that blankness a blue day dawned, bright over a moated castle’s battlem
 
 But it mattered little. He looked around searchingly, wondering if another blue-eyed Maia dwelt near him in this medieval world. But there was nothing here. Green forest closed in at the hill’s foot. Save for the castle there was no sign of civilization, no sign of men but for the shouting besiegers. Perhaps she lived somewhere in this blue, primitive world, but he could not risk a search for her. She was elsewhere, too.
 
-^ Suddenly he was awed by the certainty of that—the incomprehensible vastness of his certainty and of her presence. She was everywhere. From time’s beginning to time’s close—she was. No era had not known her; no spot on the world’s surface had not felt the press of her feet. And though the infinite future and the infinite past held her, and the earth’s farthest comers, yet in reality every incarnation of her was here and now, available to him with no greater interval between her countless daughters than the instant flash of the centuries that poured over him when the switches closed. She was omnipresent, eternal. He knew her presences in the oblivion that swallowed him as his hands gripped the switches again and the beleaguered castle melted into the past.
+^ Suddenly he was awed by the certainty of that—the incomprehensible vastness of his certainty and of her presence. She was everywhere. From time’s beginning to time’s close—she was. No era had not known her; no spot on the world’s surface had not felt the press of her feet. And though the infinite future and the infinite past held her, and the earth’s farthest corners, yet in reality every incarnation of her was here and now, available to him with no greater interval between her countless daughters than the instant flash of the centuries that poured over him when the switches closed. She was omnipresent, eternal. He knew her presences in the oblivion that swallowed him as his hands gripped the switches again and the beleaguered castle melted into the past.
 
 Two children were playing by a shallow river. Eric walked slowly toward them through the warm sand. A little girl, a little boy in brief tunics of soiled white. Perhaps ten years old they were, and absorbed in their play at the water’s edge. Not until his shadow fell across their castle of rocks and sand did they look up. And the girl child’s eyes were blue as smoke in her small, tanned face.
 
 Those familiar eyes met his. For a long moment she stared. Then she smiled hesitantly, very sweetly, and rose to her bare feet, shaking the sand from her tunic and looking up at him still with that grave, sweet smile illuminating her small face and a queer hesitation checking her speech.
 
-At last she said, “Ou e’voo?” in the softest, gentlest voice imaginable. It was remotely recognizable as a tongue that might one day be-—or once had been— French. “Who are you?”
+At last she said, “Ou e’voo?” in the softest, gentlest voice imaginable. It was remotely recognizable as a tongue that might one day be-—or once had been—French. “Who are you?”
 
 “Je suis Eric,” he told her gravely.
 
@@ -2268,7 +2275,7 @@ began doubtfully, in that strange, garbled tongue so like French. But she broke 
 
 “Have you?” he asked her very gently, trying to distort his French into the queer sounds of hers. “Have you really seen me before?”
 
-“I thought so,” she murmured shyly, bewilderment muting her speech until it sounded scarcely above a childish whisper. “I have seen your face before—somewhere, once—long ago. Have I? Have I—Eric? I do not know your name. I never heard it before. But your face —you	O, Eric dear—I do love you!”
+“I thought so,” she murmured shyly, bewilderment muting her speech until it sounded scarcely above a childish whisper. “I have seen your face before—somewhere, once—long ago. Have I? Have I—Eric? I do not know your name. I never heard it before. But your face—you	O, Eric dear—I do love you!”
 
 Halfway through that speech she had changed her “voo” to the “tu” of intimacy, and the last of it came out on a little rush of childish affection, “Eric, cher—zh faime!”
 
@@ -2336,7 +2343,7 @@ Together they stepped forward.
 
 greater_than_gods
 
-# Greater Than Gods
+# <a id="page159"></a>Greater Than Gods
 
 .fl
 <span class="smallcaps">The desk was</span> glass-clear steel, the mirror above it a window that opened upon distance and sight and sound whenever the televisor buzzer rang. The two crystal cubes on the desk were three-dimensional photographs of a sort undreamed of before the Twenty-third Century dawned. But between them on the desk lay a letter whose message was older than the history of writing itself.
@@ -2384,7 +2391,7 @@ Ashley yawned again and fumbled for a cigarette. “You know,” he murmured com
 
 “Huh-uh,” grunted Bill. “If you predicate a fixed future, then it’s fixed already isn’t it? And you’d have no real choice.”
 
-Ashley scratched a match deliberately and set his cigarette aglow before he said: “I think of the future as an infinite reservoir of an infinite number of futures, each of them fixed, yet malleable as clay. Do you see what I mean? At every point along our way we confront crossroads at which we make choices among the many possible things we may do the next moment. Each crossroad leads to a different future, all of them possible, all of them fixed, waiting for our choice to give them reality. Perhaps there’s a—call it a Plane of Probability —where all these possible results of our possible choices exist simultaneously. Blueprints of things to come. When the physical time of matter catches up with, and fills in, any one particular plan, it becomes fixed in the present.
+Ashley scratched a match deliberately and set his cigarette aglow before he said: “I think of the future as an infinite reservoir of an infinite number of futures, each of them fixed, yet malleable as clay. Do you see what I mean? At every point along our way we confront crossroads at which we make choices among the many possible things we may do the next moment. Each crossroad leads to a different future, all of them possible, all of them fixed, waiting for our choice to give them reality. Perhaps there’s a—call it a Plane of Probability—where all these possible results of our possible choices exist simultaneously. Blueprints of things to come. When the physical time of matter catches up with, and fills in, any one particular plan, it becomes fixed in the present.
 
 “But before time has caught up with it, while our choice at the crossroads is still unmade, an infinite number of possible futures must exist as it were in suspension, waiting for us in some unimaginable, dimensionless infinity. Can you imagine what it would be like to open a window upon that Probability Plane, look out into the infinities of the future, trace the consequences of future actions before we make them? We could mold the destiny of mankind! We could do what the gods must do, Bill! We’d be greater than gods We could look into the Cosmic Mind—the very brain that planned us—and of our own will choose among those plans!”
 
@@ -2400,7 +2407,7 @@ Bill grinned. “Suppose you go back to the Slum and dope out a way for me to lo
 
 Ashley shook his head.
 
-“Wish I could. Boy, would you eat that word ‘Slum’ then! Telepathy House wouldn’t be the orphan child around the City any longer if I could really open a window onto the Probability Plane. But I wouldn’t bother with you and your pint-sized problems. I’d look ahead into the future of the City. It’s the heart of the world, now. Someday it may rule the world. And we’re biased, you know. We can’t help being. With all the sciences housed here under one city-wide roof, wielding powers that kings never dreamed of— No, it may go to our heads. We may overbalance into . . . into . . . well, I’d like to look ahead and prevent it. And if this be treason—” He shrugged and got up. “Sure you won’t join me?”
+“Wish I could. Boy, would you eat that word ‘Slum’ then! Telepathy House wouldn’t be the orphan child around the City any longer if I could really open a window onto the Probability Plane. But I wouldn’t bother with you and your pint-sized problems. I’d look ahead into the future of the City. It’s the heart of the world, now. Someday it may rule the world. And we’re biased, you know. We can’t help being. With all the sciences housed here under one city-wide roof, wielding powers that kings never dreamed of—No, it may go to our heads. We may overbalance into . . . into . . . well, I’d like to look ahead and prevent it. And if this be treason—” He shrugged and got up. “Sure you won’t join me?”
 
 “Go on—get out. I’m a busy man.”
 
@@ -2417,7 +2424,7 @@ Bill squeezed his eyes shut and shook his head to clear it. There was something 
 
 A ringing in his ears grew louder in company with that curious blurring of vision. From infinitely far away, yet strangely in his own ears, a tiny voice came crying. A child’s voice calling, “Daddy. . . . daddy!” A girl’s voice, coming nearer, “Father—” A woman’s voice saying over and over in a smooth sweet monotone, “Eh:. Cory. . . . Dr. William Cory—”
 
-Upon the darkness behind his closed lids a streaked and shifting light moved blurrily. He thought he saw towers in the sun, forests, robed people walking leisurely —and it all seemed to rush away from his closed eyes so bewilderingly—he lifted his lids to stare at—
+Upon the darkness behind his closed lids a streaked and shifting light moved blurrily. He thought he saw towers in the sun, forests, robed people walking leisurely—and it all seemed to rush away from his closed eyes so bewilderingly—he lifted his lids to stare at—
 
 To stare at the cube where Sallie smiled. Only this was not Sallie. He gaped with the blankness of a man confronting impossibilities. It was not wholly Sallie now, but there was a look of Sallie upon the lovely, sun-touched features in the cube. All of her sweetness and softness, but it—something more. Something familiar. What upon this living, lovely face, with its level brown eyes and courageous mouth, reminded Bill of—himself?
 
@@ -2427,7 +2434,9 @@ Then the sweet curved lips moved—lips with the softness of Sallie’s closing 
 
 “I hear you,” he heard himself saying hoarsely, like a man talking in a dream. “But—”
 
-The face that was Sallie’s and his blended blazed into joyful recognition, dimples denting the smooth cheeks with delicious mirth. “Oh, thank Heaven it is you! I’ve reached through at last. I’ve tried so hard, so long—” “But who . . . what—” Bill choked a little on his own amazement and fell silent, marveling at the strange warm tenderness that was flooding up in him as he watched this familiar face he had never seen before. A tenderness more melting and protective and passionately selfless than he had ever imagined a man could feel. Dizzy with complete bewilderment, too confused to wonder if he dreamed, he tried again. “Who are you? What are you doing here? How did—”
+The face that was Sallie’s and his blended blazed into joyful recognition, dimples denting the smooth cheeks with delicious mirth. “Oh, thank Heaven it is you! I’ve reached through at last. I’ve tried so hard, so long—”
+
+“But who . . . what—” Bill choked a little on his own amazement and fell silent, marveling at the strange warm tenderness that was flooding up in him as he watched this familiar face he had never seen before. A tenderness more melting and protective and passionately selfless than he had ever imagined a man could feel. Dizzy with complete bewilderment, too confused to wonder if he dreamed, he tried again. “Who are you? What are you doing here? How did—”
 
 “But I’m not there—not really.” The sweet face smiled again, and Bill’s heart swelled until his throat almost closed with a warmth of pride and tenderness he was too dizzy to analyze now. “I’m here—here at home in Eden, talking to you across the millennium! Look—”
 
@@ -2439,11 +2448,11 @@ He knew he was dreaming. He was sure of it, though the memory of what Ashley had
 
 She chose to answer the last question first, breaking into it as if she could read his thoughts as she knelt staring on the myrtle leaves.
 
-“I speak to you along an unbroken cord between us —father. Thousands of times removed, but—father. A cord that runs back through the lives that have parted us, yet which unite us. With the help of these people around me, their full mental strength supplementing mine, we’ve established contact at last, after so many failures, so much groping in mysteries which even I understand only partly, though my family for generations has been trained in the secrets of heredity and telepathy.”
+“I speak to you along an unbroken cord between us—father. Thousands of times removed, but—father. A cord that runs back through the lives that have parted us, yet which unite us. With the help of these people around me, their full mental strength supplementing mine, we’ve established contact at last, after so many failures, so much groping in mysteries which even I understand only partly, though my family for generations has been trained in the secrets of heredity and telepathy.”
 
 “But why—”
 
-“Isn’t the fact of achievement an end in itself? Success in establishing a two-way contact with the past, in talk mg to one’s own ancestors—do I need more reason for attempting that than the pure joy of achieving it? You wonder why you were chosen. Is that it? Because you are the last man in a direct line of males to be bom into my family before the blessed accident that saved the world from itself.
+“Isn’t the fact of achievement an end in itself? Success in establishing a two-way contact with the past, in talk mg to one’s own ancestors—do I need more reason for attempting that than the pure joy of achieving it? You wonder why you were chosen. Is that it? Because you are the last man in a direct line of males to be born into my family before the blessed accident that saved the world from itself.
 
 “Don’t look so bewildered!” Laughter bubbled from the cube—or was it a sound in his own brain? “You aren’t dreaming! Is it so incredible that along the unbroken cord of memories which links your mind to mine the current might run backward against the time flow?”
 
@@ -2483,11 +2492,11 @@ But they didn’t make it up. Sallie loved partying, and Bill loved Sallie, and 
 
 No man can do two jobs well. The work on sex determination began to strike snags in the path that had seemed almost clear to success, and Bill had so little time any more to smooth them out. Always Sallie was in the back of his mind, sweet, smiling, adorable.
 
-Sallie wanted the baby to be bom in her father’s home. It was a lovely place, white-walled on low green hills above the Pacific. Sallie loved it. Even when little Sue was big enough to travel she hated to think of leaving. And the climate was so wonderful for the baby there—
+Sallie wanted the baby to be born in her father’s home. It was a lovely place, white-walled on low green hills above the Pacific. Sallie loved it. Even when little Sue was big enough to travel she hated to think of leaving. And the climate was so wonderful for the baby there—
 
 Anyhow, by then the Council had begun to frown over Bill Cory’s work. After all, perhaps he wasn’t really cut out to be a scientist—Sallie’s happiness was more important than any man’s job, and Sallie could never be really happy in Science City.
 
-The second baby was a girl, too. There were a lot of girls being born nowadays. The telenews broadcasters joked about it. A good sign, they said. When a preponderance of boys was bom, it had always meant war. Girls should bring peace and plenty for the new generation.
+The second baby was a girl, too. There were a lot of girls being born nowadays. The telenews broadcasters joked about it. A good sign, they said. When a preponderance of boys was born, it had always meant war. Girls should bring peace and plenty for the new generation.
 
 Peace and plenty—that was what mattered most to Bill and Sallie Cory now. That and their two exquisite daughters and their home on the green Pacific hills. Young Susan was growing up into a girlhood so enchanting that Bill suffused with pride and tenderness every time he thought of her. She had Sallie’s beauty and blondeness, but there was a resolution in her that had been Bill’s once, long ago. He liked to think of her, in daydreams, carrying on the work that he would never finish now.
 
@@ -2497,7 +2506,7 @@ Girls continued to outnumber toys in the birth records as the generations passed
 
 Of course, some things suffered under the matriarchy.
 
-Women as a sex are not scientists, not inventors, not mechanics or engineers or architects. There were men enough to keep these essentially masculine arts alive— that is, as much of them as the new world needed. There were many changes. Science City, for instance. Important, of course, but not to the extent of draining the country dry to maintain it. Life went on very nicely without too much machinery.
+Women as a sex are not scientists, not inventors, not mechanics or engineers or architects. There were men enough to keep these essentially masculine arts alive—that is, as much of them as the new world needed. There were many changes. Science City, for instance. Important, of course, but not to the extent of draining the country dry to maintain it. Life went on very nicely without too much machinery.
 
 The tendency was away from centralized living in these new days. Cities spread out instead of up. Skyscrapers were hopelessly old-fashioned. Now parklands and gardens stretched between low-roofed houses where the children played all day. And war was a barbarous memory from those nightmare years when men still ruled the world.
 
@@ -2515,7 +2524,7 @@ And in this world that no longer demanded the slightest physical effort, mankind
 
 . Bill Cory, leaning forward in his chair, had lost all identity with himself. He was simply a consciousness watching time unfold before him. The gravestone that bore his name on the California hillside had long since sunk into the sod, but if there is immortality at all, Bill Cory watched himself move forward through the centuries, down the long, expanding line of his descendants. Now and again, startlingly, his own face looked briefly at him from some faraway child of his remote grandchildren. His face, and Sallie’s.
 
-He saw pretty Sue come and go like reflections in a mirror. Not always Sue unmistakably and completely— sometimes only her brown eyes lighted the face of a many-times-great-granddaughter; sometimes the lift of her smile or the tilt of her pretty nose alone was familiar to him in a strange face. But sometimes Sue herself, perfect to the last detail, moved through the remote future. And every time he saw those familiar features, his heart contracted with an ache of tenderness for the daughter he yet might never have.
+He saw pretty Sue come and go like reflections in a mirror. Not always Sue unmistakably and completely—sometimes only her brown eyes lighted the face of a many-times-great-granddaughter; sometimes the lift of her smile or the tilt of her pretty nose alone was familiar to him in a strange face. But sometimes Sue herself, perfect to the last detail, moved through the remote future. And every time he saw those familiar features, his heart contracted with an ache of tenderness for the daughter he yet might never have.
 
 It was for these beloved Susans that he was becoming uneasy as he watched time go by. in this lazy paradise world. People were slowing mentally and physically. What need any more for haste or trouble? Why worry because certain unimportant knowledge was being lost as time went on? The weather machines, the food machines were eternal; what else really mattered? Let the birth rate decline, let the dwindling race of the inventive and the ambitions fade like the anachronism it was. The body had taken mankind as far as it could; the mind was the vehicle for the future. In the vast reaches of infinity were fields aplenty for the adventurous spirit. Or one could simply drowse the days away—
 
@@ -2531,7 +2540,7 @@ And knowing that, suddenly he was sorry. Not to marry Sallie, with her bubbling 
 
 He did not want to meet again the brown eyes of this latest Susan who had come to him in the depths of the cube. While he looked, his reason was lost in his love for her, and not even against reason could he believe the world which had produced her to be anything but perfect, simply because this beloved daughter moved and breathed in it.
 
-But the letter was tom. He would never marry Sallie if he could help himself. The cost was too high, even for such a reward as Sue. And an almost tremulous awe broke over him in a sudden tide as he realized what he was doing. This was what Ashley had dreamed of— opening a window into the Plane of Probability and learning enough to force the Cosmic Mind out of its course. Changing the shape of his own future and that of all mankind. Greater than gods—but he was no god. And Ashley had warned him that it might be dangerous to usurp a god’s prerogative. Suddenly he was afraid.
+But the letter was tom. He would never marry Sallie if he could help himself. The cost was too high, even for such a reward as Sue. And an almost tremulous awe broke over him in a sudden tide as he realized what he was doing. This was what Ashley had dreamed of—opening a window into the Plane of Probability and learning enough to force the Cosmic Mind out of its course. Changing the shape of his own future and that of all mankind. Greater than gods—but he was no god. And Ashley had warned him that it might be dangerous to usurp a god’s prerogative. Suddenly he was afraid.
 
 He looked away from that cube which held his future, and across from it on his desk the violet eyes of Marta Mayhew caught his, fixed in their changeless smile. She was a girl, he thought, he remembered from half a lifetime ago, so much had happened since he glanced last into her face. Dark and lovely she was, her eyes meeting his almost as if there were vision behind their deep, long stare. Almost as if—
 
@@ -2541,7 +2550,7 @@ And then a great tide of awe and wonder came washing up into his consciousness, 
 
 comes a point beyond which bewilderment and shock no longer affect the human brain, and Bill was outside wondering now, or groping for logical explanations. He only knew that he stood here staring into the cube from which Marta’s eyes had smiled at him so short an instant ago—
 
-They were still Marta’s eyes, deep-colored m a boy face almost Bill’s own, feature for feature, under a cap of blue steel. Somehow that other future had come to him, too. He was aware of a sudden urgent wonder why they had come so nearly together, though neither could be conscious of the other— But things were moving in the depths of the cube.
+They were still Marta’s eyes, deep-colored m a boy face almost Bill’s own, feature for feature, under a cap of blue steel. Somehow that other future had come to him, too. He was aware of a sudden urgent wonder why they had come so nearly together, though neither could be conscious of the other—But things were moving in the depths of the cube.
 
 Behind the boy’s face, three-dimensional perspective had started vividly back from the crystal surfaces, as if the cube were a wide window flung suddenly open upon a new world. In that world, a place of glass and shining chromium, faces crowded as if indeed at an open window, peering into his room. Steel-helmed faces with staring eyes. And foremost among them, leaning almost through the opened window into his own past, the steel-capped boy whose features were Bill’s looked eagerly out, the sound of quickened breath through his lips a soft, clear sound in the room. There were Bill’s lips, Bill’s features—but Marta’s gentle courage had somehow grown masculine in the lines of the boy’s face, and her eyes met Bill’s in his.
 
@@ -2557,7 +2566,7 @@ Bill’s bewildered stammer was incoherent, and the boy’s face relaxed a littl
 
 “As a matter of record, I have been instructed to ask first at what point we have intersected the past. What date is it in your calendar?”
 
-“Why, it’s July 7, 2240,” Bill heard his own voice stammer a little as he answered, and he was conscious of a broad and rather foolish grin overspreading his face. He couldn’t help it. This was his boy—the child who wouldn’t be bom for years yet, who might, really, never be bom. Yet he knew him, and he couldn’t help smiling with pride, and warm, delighted amusement. So stemfaced, so conscious of his own responsibility! Marta’s son and his—only of course it couldn’t be, exactly. This scene he looked into must be far ahead in time—
+“Why, it’s July 7, 2240,” Bill heard his own voice stammer a little as he answered, and he was conscious of a broad and rather foolish grin overspreading his face. He couldn’t help it. This was his boy—the child who wouldn’t be born for years yet, who might, really, never be born. Yet he knew him, and he couldn’t help smiling with pride, and warm, delighted amusement. So stemfaced, so conscious of his own responsibility! Marta’s son and his—only of course it couldn’t be, exactly. This scene he looked into must be far ahead in time—
 
 “Twenty-two forty!” exclaimed the boy who was not his son. “Why, the Great Work isn’t even finished yet then! We’re earlier than we knew!”
 
@@ -2577,7 +2586,7 @@ He scarcely heard Dunn’s heavy voice from the room beyond the cube, so eagerly
 
 “Yes—v-very much.” Bill grinned at his own stammer, suddenly light-hearted and incredulous. All this
 
-was a dream. He knew that, of course. Why, the very coincidences in it proved that. Or—were they coincidences? Desperately he tried to clarify the thought taking form in his mind, a terrifying vast thought, terrifying form in his mind, a terrfyingly vast thought, terrify— If it were real, then there was more than chance here. It could be no accident that these two children of his, groping blindly in the dark for contact with him, had succeeded at so nearly the same moment. There would be reason behind it, reason too vast for comprehension. He parted his lips to speak, but Dunn was already speaking.
+was a dream. He knew that, of course. Why, the very coincidences in it proved that. Or—were they coincidences? Desperately he tried to clarify the thought taking form in his mind, a terrifying vast thought, terrifying form in his mind, a terrfyingly vast thought, terrify—If it were real, then there was more than chance here. It could be no accident that these two children of his, groping blindly in the dark for contact with him, had succeeded at so nearly the same moment. There would be reason behind it, reason too vast for comprehension. He parted his lips to speak, but Dunn was already speaking.
 
 “Look then, William Vincent Cory! Watch your own greatness unfolding in the years that lie ahead.”
 
@@ -2619,7 +2628,7 @@ Bill straightened from his microscope. “Um-m-m . . . funny. Usually one or two
 
 It was too soon to say. Tests simply showed the pups to be extraordinarily amenable to training, but what quality in them made this so was difficult to determine. Bill was not sure just what it implied, but an uneasiness in him woke and would not be quieted.
 
-The first “X-ray” babies began to be bom. Without exception they were fine, strong, healthy infants, and without exception of the predetermined sex. The Council was delighted; the parents were delighted; everyone was delighted except Bill. The memory of those oddly obedient pups haunted him—
+The first “X-ray” babies began to be born. Without exception they were fine, strong, healthy infants, and without exception of the predetermined sex. The Council was delighted; the parents were delighted; everyone was delighted except Bill. The memory of those oddly obedient pups haunted him—
 
 Within three years the Cory System was available to the public. The experimental babies had made such an excellent showing that, in the end, Bill gave in to the insistent world, though something in the recesses of his mind urged delay. Yet he couldn’t explain it. The babies were all healthy, normal, intelligent children. Unusually amenable to authority, yes, but that was an asset, not a liability.
 
@@ -2665,13 +2674,13 @@ It was not a happy pattern. There was little laughter here; the only emotion upo
 
 Mistily the panorama of the centuries began to melt into itself, to fade, while behind it a blue-eyed face, helmed in blue steel, took form to smile straight into Bill’s eyes. A tense, expectant smile, supremely confident.
 
-Bill sat back and breathed deeply, avoiding for a moment the proudly smiling face of his son. “I’m—there!” he was thinking. “That was me being bom again and again, working with all my heart to crush out human happiness— But there was Sue, too, generations of her —yes, and of me—working just as sincerely toward an opposite goal, a world without war. Either way they’ve got me. If I don’t finish my work, the world unbalances toward matriarchy; if I do, mankind turns into a machine. It’s bad. Either way it’s bad—”
+Bill sat back and breathed deeply, avoiding for a moment the proudly smiling face of his son. “I’m—there!” he was thinking. “That was me being born again and again, working with all my heart to crush out human happiness—But there was Sue, too, generations of her—yes, and of me—working just as sincerely toward an opposite goal, a world without war. Either way they’ve got me. If I don’t finish my work, the world unbalances toward matriarchy; if I do, mankind turns into a machine. It’s bad. Either way it’s bad—”
 
 “The doctor is almost overwhelmed at the realization of his own greatness,” Dunn’s voice murmured from the window into the future. Bill recognized it for a sort of apology, and sat up with an effort to meet the pride-bright eyes of the boy who one day might be his son. There was nothing but happy expectancy of praise on the boy’s face, but Dunn must have read a little doubt in Bill’s, for he said heavily, as if to overwhelm that doubt:
 
 “We build toward one common end, all of us—we have no thought for any smaller purpose than the conquest of the Solar System for the mighty race of man! And this great purpose is yours no less than ours, Dr. Cory.”
 
-“Manpower is what counts, you know, sir.” Young Billy’s voice took up the tale as Dunn’s died. “We’ve got tremendous reserves, and we’re piling up still more. Lots of room yet on Mars to fill up, and Venus is almost untouched yet. And after that, we’ll breed men and women adapted to Jupiter’s gravity, perhaps . . . oh, there’ll be no end to our power, sir! We’ll go on and on— Who knows? There may come a day when we’re a United Universe!”
+“Manpower is what counts, you know, sir.” Young Billy’s voice took up the tale as Dunn’s died. “We’ve got tremendous reserves, and we’re piling up still more. Lots of room yet on Mars to fill up, and Venus is almost untouched yet. And after that, we’ll breed men and women adapted to Jupiter’s gravity, perhaps . . . oh, there’ll be no end to our power, sir! We’ll go on and on—Who knows? There may come a day when we’re a United Universe!”
 
 For an instant, hearing the young voice shake with eagerness, Bill doubted his own doubtfulness. The mighty race of many! And he was part of it, living in this far-off future no less than he lived now in the flesh, in the burning ardor of this iron-faced boy. For a moment he forgot to be amazed and incredulous that he stood in the Twenty-third Century and looked as if through a window into the Thirtieth, talking with the unborn descendant of his yet unconceived son. For this moment it was all accomplished reality, a very magnificent and blood-stirring present achieved directly through his own efforts.
 
@@ -2685,17 +2694,17 @@ He opened his lips to speak—but what could he say? What could he possibly say 
 
 He stared at her unhappily, groping for words he could not find. But before he spoke—
 
-“Dr. Cory, sir— Is anything wrong?” He turned back to Billy with a harried crease between his brows and then stared wildly from one face to the other. How could they help hearing one another? But obviously Billy, from his window into the present, saw simply the cube that held Sallie’s immortal smile, while Sue, from hers, looked upon Marta’s changeless face. It seemed to Bill that the boy and the girl had spoken in voices almost identical, using words nearly the same, though neither was aware of the other. How could they be? They could not even exist simultaneously in the same world. He might have one of these beloved children or the other; not both. Equally beloved children, between whom he must choose—and how could he choose?
+“Dr. Cory, sir—Is anything wrong?” He turned back to Billy with a harried crease between his brows and then stared wildly from one face to the other. How could they help hearing one another? But obviously Billy, from his window into the present, saw simply the cube that held Sallie’s immortal smile, while Sue, from hers, looked upon Marta’s changeless face. It seemed to Bill that the boy and the girl had spoken in voices almost identical, using words nearly the same, though neither was aware of the other. How could they be? They could not even exist simultaneously in the same world. He might have one of these beloved children or the other; not both. Equally beloved children, between whom he must choose—and how could he choose?
 
-“Father—” said Sue on a rising inflection of alarm. “There is something wrong. I . . . feel it in your mind — Oh, what is it, father?”
+“Father—” said Sue on a rising inflection of alarm. “There is something wrong. I . . . feel it in your mind—Oh, what is it, father?”
 
 Bill sat speechless, staring from one face to the other of these mutually exclusive children. Here they stood, with their worlds behind them, looking anxiously at him with the same little crease between the brows of each. And he could not even speak to either without convincing the other he was a madman talking to empty air. He wanted insanely to laugh. It was a deadlock beyond all solution. Yet he must answer them—he must make his choice—
 
 As he sat there groping in vain for words, a curious awareness began to take shape in his mind. How strange it was that these two should have been the ones to reach him, out of all the generations behind each that had been searching the past. And why had they established contact at so nearly the same time, when they had all his life span to grope through, hunting him for such different reasons, in such different ways? There was more than accident here, if all this were not a dream—
 
-Billy and Sue—so similar despite the wide divergence of their words, a wider divergence than the mind can well grasp, for how can one measure the distance between mutually incompatible things? Billy who was all of Bill Cory that was strong and resolute and proud; Sue, who incarnated his gentler qualities, the tenderness, the deep desire for peace. They were such poles apart —why, they were the poles! The positive and negative qualities that, together, made up all that was best in Bill Cory. Even their worlds were like two halves of a whole; one all that was strong and ruthless, the other the epitome of gentle, abstract idealism. And both were bad, as all extremes must be.
+Billy and Sue—so similar despite the wide divergence of their words, a wider divergence than the mind can well grasp, for how can one measure the distance between mutually incompatible things? Billy who was all of Bill Cory that was strong and resolute and proud; Sue, who incarnated his gentler qualities, the tenderness, the deep desire for peace. They were such poles apart—why, they were the poles! The positive and negative qualities that, together, made up all that was best in Bill Cory. Even their worlds were like two halves of a whole; one all that was strong and ruthless, the other the epitome of gentle, abstract idealism. And both were bad, as all extremes must be.
 
-And if he could understand the purpose behind the fact that these two poles of human destiny had reached back in their own pasts to find him at the same moment —if he could understand why the two halves of his soul, split into positive and negative entities, stood here clothed almost in his own flesh to torture him with indecision, perhaps—
+And if he could understand the purpose behind the fact that these two poles of human destiny had reached back in their own pasts to find him at the same moment—if he could understand why the two halves of his soul, split into positive and negative entities, stood here clothed almost in his own flesh to torture him with indecision, perhaps—
 
 He could not choose between them, for there was no choice, but there was a deeper question here than the simple question of conduct. He groped for it blindly, wondering if the answer to everything might not lie in the answer to that question. For there was purpose here vaster than anything man has words for—something loomed behind it to shadowy heights that made his mind reel a little as he tried to understand.
 
@@ -2703,19 +2712,19 @@ He said inadequately to both his staring children: “But why . . . how did you 
 
 To Billy it was mere gibberish, but Sue must have understood the question in his mind, for after a moment, in a puzzled murmur, she said:
 
-“I—don’t know, exactly. There is something here beyond the simple fact of success. I . . . I feel it— I can sense something behind my own actions that . . . that frightens me. Something guiding and controlling my own mind— Oh, father, father, I’m afraid!”
+“I—don’t know, exactly. There is something here beyond the simple fact of success. I . . . I feel it—I can sense something behind my own actions that . . . that frightens me. Something guiding and controlling my own mind—Oh, father, father, I’m afraid!”
 
-Every protective instinct in him leaped ahead of rea-questions. “Your . . . your sister— Oh, Sue, honey, I won’t let anything happen to you!”
+Every protective instinct in him leaped ahead of rea-questions. “Your . . . your sister—Oh, Sue, honey, I won’t let anything happen to you!”
 
 “Dr. Cory!” Young Billy’s voice cracked a little in horror at what must have sounded to him like raving madness. Behind him, staring faces went tense with bewilderment. Above their rising murmurs Sue wailed, “Father!” in a frightened echo to Billy’s, “Dr. Cory, are you ill, sir?”
 
-“Oh, wait a minute, both of you!” said Bill wildly. And then in a stammer, to stop Billy’s almost hysterical questions. “Your . . . your sister— Oh, Sue, honey, I hear you! I’ll take care of you! Wait a minute!”
+“Oh, wait a minute, both of you!” said Bill wildly. And then in a stammer, to stop Billy’s almost hysterical questions. “Your . . . your sister—Oh, Sue, honey, I hear you! I’ll take care of you! Wait a minute!”
 
 In the depths of the cube the boy’s face seemed to freeze, the eyes that were Marta’s going blank beneath the steel cap, Bill’s very mouth moving stiffly with the stiffness of his lips.
 
 “But you never had a daughter—”
 
-“No, but I might have, if—I mean, if I’d married Sallie of course you’d never even— Oh, God!” Bill gave it up and pressed both hands over his eyes to shut out the sight of the boy’s amazed incredulity, knowing he’d said too much, yet too numbed and confused now for diplomacy. The only clear idea in his head was that he must somehow be fair to both of them, the boy and the girl. Each must understand why he—
+“No, but I might have, if—I mean, if I’d married Sallie of course you’d never even—Oh, God!” Bill gave it up and pressed both hands over his eyes to shut out the sight of the boy’s amazed incredulity, knowing he’d said too much, yet too numbed and confused now for diplomacy. The only clear idea in his head was that he must somehow be fair to both of them, the boy and the girl. Each must understand why he—
 
 “Is the doctor ill, Candidate Cory?” Dunn’s voice was heavy from the cube.
 
@@ -2751,15 +2760,15 @@ He turned with a deep breath and a mental squaring of shoulders, determined to t
 
 At the man’s incredulous stare he knew a dizzy moment of wonder whether he, too, lived in an illusion as vivid as theirs, and in that instant the foundations of time itself rocked beneath his feet. But he had no time now for speculation. Young Billy must understand, no matter how mad Dunn believed him, and Sue must know why he did what he must do—though he didn’t understand himself, yet, what that would be. His head was ringing with bewilderment.
 
-“The . . . the Plane of Probability?” In Dunn’s eyes upon his he saw a momentary conviction flare that, reality or not, and history be damned, this man was mad. And then, doubtfully, the Leader went on, “Hm-m-m . . . yes, somewhere I have heard— Oh, I remember. Some clap-trap jargon the old Telepathy House fakers used to use before we cleared them out of Science City. But what’s that nonsense got to—”
+“The . . . the Plane of Probability?” In Dunn’s eyes upon his he saw a momentary conviction flare that, reality or not, and history be damned, this man was mad. And then, doubtfully, the Leader went on, “Hm-m-m . . . yes, somewhere I have heard—Oh, I remember. Some clap-trap jargon the old Telepathy House fakers used to use before we cleared them out of Science City. But what’s that nonsense got to—”
 
-“It’s not nonsense.” Bill closed his eyes in a sudden, almost intolerable longing for peace, for time to think what he must do. But no, the thing must be settled now, without time for thinking. And perhaps that was the best way, after all. A man’s brain would crack if he paused to think out this madness. Only he must say something to young Billy— And what could he say? How could he face either of these beloved children and, to their uncomprehending, pleading faces, refuse them life? If he could only break the connection that riveted them all into a sort of triple time balance— But he couldn’t. He must make it clear to Billy—
+“It’s not nonsense.” Bill closed his eyes in a sudden, almost intolerable longing for peace, for time to think what he must do. But no, the thing must be settled now, without time for thinking. And perhaps that was the best way, after all. A man’s brain would crack if he paused to think out this madness. Only he must say something to young Billy—And what could he say? How could he face either of these beloved children and, to their uncomprehending, pleading faces, refuse them life? If he could only break the connection that riveted them all into a sort of triple time balance—But he couldn’t. He must make it clear to Billy—
 
 “It’s not nonsense,” he heard his own voice repeating wildly. “The future—you and your world—is a probability only. I’m a free agent. If I never marry Marta, never perfect the sex-determination idea, the probable future shifts to . . . to another pattern. And that as bad as yours, or worse!” he finished to himself.
 
 “Is he mad?” Billy’s voice was a whisper in the screen.
 
-The Leader said as if to himself, in an awed and stumbling voice, “I don’t . . . I can’t . . . the thing’s preposterous! And yet he is unmarried, the Greal Work’s still unfinished. Suppose he never— But we’re real! We’re flesh and blood, aren’t we? He stamped a booted foot on the floor as if to test the foundations of his world. “We’re descended in an unbroken line from this . . . this madman. Lord in heaven, are we all mad?”
+The Leader said as if to himself, in an awed and stumbling voice, “I don’t . . . I can’t . . . the thing’s preposterous! And yet he is unmarried, the Greal Work’s still unfinished. Suppose he never—But we’re real! We’re flesh and blood, aren’t we? He stamped a booted foot on the floor as if to test the foundations of his world. “We’re descended in an unbroken line from this . . . this madman. Lord in heaven, are we all mad?”
 
 “Father! Come back!” Sue’s voice shrilled in Bill’s ears. He turned desperately, glad of an excuse to escape the haunted stares from that other window even though-he must face hers. She had risen to her feet among the myrtle leaves. The glade was cool and still about her in this lazy, sunlit world of her own future. She was crying desperately, “Don’t listen, father! I can feel the confusion in your mind. I know what they’re saying! But they aren’t real, father—they can’t be! You never had a son, don’t you remember? All this you’re saying is just . . . just talk, isn’t it? That silly stuff about the Probability Plane—it’s nothing but speculation! Oh, say it is, father! We’ve got such a lovely world, we love living so . . . I want to live, father! I am real! We’ve fought so hard, for so many centuries, for peace and happiness and our beautiful garden world. Don’t let it snuff out into nothingness! But”—she laughed uncertainly—“how could you, when it’s all around us, and has been for thousands of years? I . . . oh, father!” Her voice broke on a little quivering gulp that made Bill’s heart quiver with it, and he ached intolerably with the rising of her tears. She was his to protect and cherish, forever. How could he—
 
@@ -2783,15 +2792,17 @@ But—the alternative. Bill groaned. Happiness, peace, freedom, honor—yes, Sue
 
 “But not unavenged!” The Leader said it savagely, and then hesitated. “But what am I saying? You’ve driven me almost as mad as you! Look, man, try to be sensible! Can you imagine yourself dissolving into nothingness that never existed? Neither can I!”
 
-“But if you could kill me, then how could your world ever have been bom?”
+“But if you could kill me, then how could your world ever have been born?”
 
-“To hell with all that!” exploded Dunn. “I’m no metaphysician! I’m a fighting man! I’ll take the chance!” “Please, Dr. Cory—” Billy pressed forward against the very surface of the cube, as if he could thrust himself back into his own past and lay urgent hands upon this man so like him, staring white-faced and stubborn into the future. Perhaps it was more than the desire for peace that spoke in his shaken voice. If Bill Cory, looking into that young face so like his own, had felt affection and recognition for it, then must not the boy know a feeling akin to it as he saw himself in Cory’s features? Perhaps it was that subtle, strange identification between the two that made the boy’s voice tremble a little as if with the first weakening of belief. When he spoke he seemed to be acknowledging the possibility of doubt, almost without realizing it. He said in that shaken, ardent voice: “Please, try to understand! It’s not death we’re afraid of. All of us would die now, willingly, if our deaths could further the common good. What we can’t endure to face is the death of our civilization, this marvelous thing that makes mankind immortal. Think of that, sir! This is the only right thing possible for you to do! Would we feel so strongly if we weren’t sure? Can you condemn your own race to eternity on one small planet, when you could give them the universe to expand in and every good thing science can offer?”
+“To hell with all that!” exploded Dunn. “I’m no metaphysician! I’m a fighting man! I’ll take the chance!”
+
+“Please, Dr. Cory—” Billy pressed forward against the very surface of the cube, as if he could thrust himself back into his own past and lay urgent hands upon this man so like him, staring white-faced and stubborn into the future. Perhaps it was more than the desire for peace that spoke in his shaken voice. If Bill Cory, looking into that young face so like his own, had felt affection and recognition for it, then must not the boy know a feeling akin to it as he saw himself in Cory’s features? Perhaps it was that subtle, strange identification between the two that made the boy’s voice tremble a little as if with the first weakening of belief. When he spoke he seemed to be acknowledging the possibility of doubt, almost without realizing it. He said in that shaken, ardent voice: “Please, try to understand! It’s not death we’re afraid of. All of us would die now, willingly, if our deaths could further the common good. What we can’t endure to face is the death of our civilization, this marvelous thing that makes mankind immortal. Think of that, sir! This is the only right thing possible for you to do! Would we feel so strongly if we weren’t sure? Can you condemn your own race to eternity on one small planet, when you could give them the universe to expand in and every good thing science can offer?”
 
 “Father . . . father!” It was Sue again, frantic and far away.
 
 But before Bill could turn to her, Dunn’s voice broke in heavily over both the others. “Wait—I’ve made up my mind!” Billy fell back a little, turning to his Leader with a blaze of sudden hope. Bill stared. “As I see it,” went on Dunn, “the whole preposterous question hinges on the marriage you make. Naturally I can’t concede even to myself that you could possibly marry anyone but the woman you did marry—but if you honestly feel that there’s any question in your mind about it, I’ll settle it for you.”
 
-He turned to nod toward a comer of the room in which he stood that was outside Bill’s range, and in a moment the blue-uniformed, staring crowd about him parted and a low, rakish barrel of blue-gleaming steel glided noiselessly forward toward that surface of the cube which was a window into the past-future that parted Bill and themselves. Bill had never seen anything like it before, but he recognized its lethal quality. It crouched streamlined down upon its base as if for a lunge, and its mouth facing him was a dark doorway for death itself. Dunn bent behind it and laid his hand upon a half-visible lever in its base.
+He turned to nod toward a corner of the room in which he stood that was outside Bill’s range, and in a moment the blue-uniformed, staring crowd about him parted and a low, rakish barrel of blue-gleaming steel glided noiselessly forward toward that surface of the cube which was a window into the past-future that parted Bill and themselves. Bill had never seen anything like it before, but he recognized its lethal quality. It crouched streamlined down upon its base as if for a lunge, and its mouth facing him was a dark doorway for death itself. Dunn bent behind it and laid his hand upon a half-visible lever in its base.
 
 “Now,” he said heavily. “William Cory, there seems to be a question in your mind as to whether we could reach you with our weapons. Let me assure you that the force-beam which connects us can carry more than sight and sound into your world! I hope I shan’t have to demonstrate that. I hope you’ll be sensible enough to turn to that televisor screen in the wall behind you and call Marta Mayhew.”
 
@@ -2813,7 +2824,7 @@ In the tension Bill had nearly forgotten Sue, but the sound of that familiar voi
 
 “Cory, we’re waiting!” Dunn’s voice had an ominous undemote.
 
-But there was a solution. He never knew just when he first became aware of it. A long while ago, perhaps, subconsciously, the promise of it had begun to take shape in his mind. He did not know when he first realized that— but he thought he knew whence it came. There was a sureness and a vastness about it that did not originate in himself. It was the Cosmic Mind indeed in which his own small soul was floundering, and out of that unthinkably limitless Plan, along with the problem came at last the solution. (There must be balance . . . the force that swings the worlds in their orbits can permit of no question without an answer—)
+But there was a solution. He never knew just when he first became aware of it. A long while ago, perhaps, subconsciously, the promise of it had begun to take shape in his mind. He did not know when he first realized that—but he thought he knew whence it came. There was a sureness and a vastness about it that did not originate in himself. It was the Cosmic Mind indeed in which his own small soul was floundering, and out of that unthinkably limitless Plan, along with the problem came at last the solution. (There must be balance . . . the force that swings the worlds in their orbits can permit of no question without an answer—)
 
 There was no confusion here; there had never been.
 
@@ -2833,7 +2844,7 @@ Bill did not answer for a moment. He was pouring his whole soul into this last l
 
 Dunn had given him the key—a promise given and received between this woman and himself would be irrevocable, would swing the path of the future into a channel that led to no world that either Billy or Sue could know.
 
-Bill got his first glimmer of hope for that future from the way the quiet woman in the doorway accepted his question. She did not stare or giggle or stammer. After one long, deep look into his eyes—he saw for the first time that hers were gray and cool behind the lenses— she answered calmly.
+Bill got his first glimmer of hope for that future from the way the quiet woman in the doorway accepted his question. She did not stare or giggle or stammer. After one long, deep look into his eyes—he saw for the first time that hers were gray and cool behind the lenses—she answered calmly.
 
 “Thank you, Dr. Cory. I shall be very happy to marry you.”
 
@@ -2849,7 +2860,7 @@ And Bill turned to the gray-eyed woman in the doorway with a long, deep, shaken 
 
 “Who knows why all this had to happen? There was
 
-Purpose behind it—all of it—but I’ll never understand just why. I only know that the futures are infinite—and that I haven’t lost Billy or Sue. I couldn’t have done what I did without being sure of that. I couldn’t lose them, because they’re me—the best of me, going on forever. Perhaps I’ll never die, really—not the real me— until these incarnations of the best that’s in me, whatever form and face and name they wear, work out mankind’s ultimate destiny in some future I’ll never see. There was reason behind all this. Maybe, after all, I’ll understand—some day.”
+Purpose behind it—all of it—but I’ll never understand just why. I only know that the futures are infinite—and that I haven’t lost Billy or Sue. I couldn’t have done what I did without being sure of that. I couldn’t lose them, because they’re me—the best of me, going on forever. Perhaps I’ll never die, really—not the real me—until these incarnations of the best that’s in me, whatever form and face and name they wear, work out mankind’s ultimate destiny in some future I’ll never see. There was reason behind all this. Maybe, after all, I’ll understand—some day.”
 
 He said nothing aloud, but he held out his hand to the woman in the door and smiled down confidently into her cool, gray eyes.
 
@@ -2857,7 +2868,7 @@ He said nothing aloud, but he held out his hand to the woman in the door and smi
 
 fruit_of_knowledge
 
-# Fruit of Knowledge
+# <a id="page199"></a>Fruit of Knowledge
 
 .fl
 <span class="smallcaps">It was the</span> first Sabbath. Down the open glades of Eden a breeze stirred softly. Nothing else in sight moved except a small winged head that fluttered, yawning, across the glade and vanished among leaves that drew back to receive it. The air quivered behind it like a wake left in water of incomparable clarity. From far away and far above a faint drift of singing echoed, “Hosannah . . . hosannah . . . hosannah—” The seraphim were singing about the Throne.
@@ -2890,7 +2901,7 @@ The woman bent her head so that the hair swung forward to veil her face. From be
 
 “He’s waiting for me now.”
 
-“Oh?” said the cherub, impressed. “Well, you’ll find him over by the orange grove east of the Tree. He’s resting. It’s the Day of Rest, you know.” The cherub tilted an intimate eyebrow heavenward and added: “He’s resting, too. Hear the singing? He made the Man only yesterday, right out of this very earth you’re standing on. We were all watching. It was wonderful— Afterward, He called the man Adam, and then Adam named the animals— By the way, what’s your name?”
+“Oh?” said the cherub, impressed. “Well, you’ll find him over by the orange grove east of the Tree. He’s resting. It’s the Day of Rest, you know.” The cherub tilted an intimate eyebrow heavenward and added: “He’s resting, too. Hear the singing? He made the Man only yesterday, right out of this very earth you’re standing on. We were all watching. It was wonderful—Afterward, He called the man Adam, and then Adam named the animals—By the way, what’s your name?”
 
 The woman smiled down at her own veiled reflection in the water. After a moment—
 
@@ -2906,7 +2917,7 @@ air rippling in a lazy, half-visible wake behind him. Lilith looked after him wi
 
 Lilith turned for one last glance into the mirror of the pool at the strange new shape she had just put on. It was the newest thing in creation—not even God knew about it. And rather surprisingly, she thought she was going to like it. She did not feel nearly as stifled and heavy as she had expected to feel, and there was something distinctly pleasant in the softness of the breeze pouring caressingly about her body, the fragrance of springtime sweet in her nostrils, the grass under her bare feet. The Garden was beautiful with a beauty she had not realized until she saw it through human eyes. Everything she saw through them, indeed, was curiously different now. Here in this flesh all her faculties seemed refocused, as if she, who had always seen with such crystal clarity, now looked through rainbows at everything she saw. But it was a pleasant refocusing. She wished she had longer to enjoy her tenancy in this five-sensed flesh she shared with Adam.
 
-But she had very little time. She glanced up toward the bright, unchanging glory above the trees as if she could pierce the floor of heaven and see God resting on the unimaginable splendor of the Throne while the seraphim chanted in long, shining rows about him. At any moment he might stir and lean forward over Eden, looking down. Lilith instinctively shrugged her shadowy garment closer about her. If he did not look too closely, he might not pierce that shadow. But if he did— A little thrill of excitement, like forked lightning, went through the strange new flesh she wore. She liked danger.
+But she had very little time. She glanced up toward the bright, unchanging glory above the trees as if she could pierce the floor of heaven and see God resting on the unimaginable splendor of the Throne while the seraphim chanted in long, shining rows about him. At any moment he might stir and lean forward over Eden, looking down. Lilith instinctively shrugged her shadowy garment closer about her. If he did not look too closely, he might not pierce that shadow. But if he did—A little thrill of excitement, like forked lightning, went through the strange new flesh she wore. She liked danger.
 
 She bent over the pool for one last look at herself, and the pool was a great, dim eye looking back at her, almost sentient, almost aware of her. This was a living Garden. The translucent air quivered with a rhythmic pulsing through the trees; the ground was resilient under her feet; vines drew back to let her pass beneath them. Lilith, turning away through the swimming air after the cherub, puzzled a little as she walked through the parting trees. The relation was very close between flesh and earth—perhaps her body was so responsive to the beauty of the Garden because it aped so closely flesh that had been a part of the Garden yesterday. And if even she felt that kinship, what must Adam feel, who was himself earth only yesterday?
 
@@ -2916,7 +2927,7 @@ She thought, too, of the Tree of Knowledge as she walked smoothly through the tr
 
 Lilith slanted a smile up through the leaves toward the choruses of the seraphim whose singing swelled and sank and swelled again, unutterably sweet high above the trees. The animals watched her pass with wide, bewildered eyes, somehow not quite at ease, although no such thing as fear had yet stirred through the Garden. Lilith glanced at them curiously as she passed. They were pretty things. She liked Eden.
 
-Presently a swooning fragrance came drifting to her through the trees, almost too sweet to enjoy, and she heard a small voice piping excitedly: “Lilith . . . Air and Darkness— He won’t like it! Michael ought to know—”
+Presently a swooning fragrance came drifting to her through the trees, almost too sweet to enjoy, and she heard a small voice piping excitedly: “Lilith . . . Air and Darkness—He won’t like it! Michael ought to know—”
 
 Lilith smiled and stepped clear of the trees into the full, soft glow of Eden’s sun. It did not touch the shadow that dimly veiled the pale contours of this newest shape in Eden. Once or twice that intangible breeze lifted her hair in a great, dim cloud about her, though no leaves moved. She stood quiet, staring across the glade, and as she stared she felt the first small tremor of distrust in this new flesh she wore.
 
@@ -2936,7 +2947,7 @@ thing strange and wonderful in Adam. She laid a hand on the upper part of that b
 
 Adam came toward her slowly. They met in the middle of the glade, and for a long moment neither spoke. Then Adam said in a marveling voice, resonant and deep:
 
-“You . . . you’re just as I knew you’d be— I knew you’d be somewhere, if I could only find you. Where were you hiding?”
+“You . . . you’re just as I knew you’d be—I knew you’d be somewhere, if I could only find you. Where were you hiding?”
 
 With an effort Lilith mastered this odd, swimming warmth in her which she did not understand. After all, he was nothing but a certain limited awareness housed in newly shaped flesh, and it made no real difference at all what shape that flesh wore. Her business was too dangerous for her to linger here admiring him because by some accident he was pleasing to the eyes of her newly acquired body. She made her voice like honey in her throat and looked up at him under her lashes, crooning:
 
@@ -2968,7 +2979,7 @@ Lilith let the rest of her eagerness run out in a long sigh. It was no use tryin
 
 And perhaps it was best, after all. Adam was too close to godhood to see eye to eye with her in all she might want to do. If he never tasted knowledge, then he would ask no questions—and so he must never touch the Tree.
 
-The Tree— It reminded her that Eden was still a testing ground, not a finished creation. She thought she knew now what the flaw in man had been which made it possible for Lilith, of all the creatures of ether, to stand here at the very focus of all the power and beauty and innocence in Eden. Lilith, who was evil incarnate and knew it very well. God had made Adam incomplete, and not, perhaps, realized the flaw. And out of Adam’s need Adam himself had created woman—who was not complete either. Lilith realized it suddenly, and began to understand the depth of her reaction to this magnificent creature who still held her in his arms.
+The Tree—It reminded her that Eden was still a testing ground, not a finished creation. She thought she knew now what the flaw in man had been which made it possible for Lilith, of all the creatures of ether, to stand here at the very focus of all the power and beauty and innocence in Eden. Lilith, who was evil incarnate and knew it very well. God had made Adam incomplete, and not, perhaps, realized the flaw. And out of Adam’s need Adam himself had created woman—who was not complete either. Lilith realized it suddenly, and began to understand the depth of her reaction to this magnificent creature who still held her in his arms.
 
 There was an idea somewhere back of all this which was immensely important, but her mind would not pursue it. Her mind kept sliding off the question to dwell cloudily on the Man upon whose shoulder she was leaning. What curious stuff this flesh was! While she wore it, not even the absorbing question of God’s purpose, not even her own peril here, could quite obliterate the knowledge of Adam’s presence, his arm about her. Values had changed in a frightening way, and the most frightening thing of all was that she did not care. She laid her head back on his shoulder and inhaled the honeyed perfume of the orange blossoms, futilely reminding herself that she was dangerously wasting time. At any moment God might look down and see her, and there was so much to be done before that happened. She must master this delicious fogging of the senses whenever Adam’s arm tightened about her. The Garden must be fortified, and she must begin now.
 
@@ -2984,7 +2995,7 @@ A cherub fluttered across the valley as they strolled eastward, and paused on be
 
 “Wait till He looks down,” he piped. “Just wait, that’s all!” Adam laughed, and the cherub clucked disapprovingly and fluttered off, shaking his head.
 
-Lilith, leaning on Adam’s shoulder, laughed, too. She was glad that he could not understand the cherub’s warnings, deaf in the perfection of his innocence. So long as she could prevent it he would never taste that Fruit. The knowledge of evil was not in him and it must never be. For she was herself, as she realized well, the essence of abstract evil as opposed to abstract good— balancing it, making it possible. Her part was as necessary as God’s in the scheme of creation, for light cannot exist without dark, nor positive without negative, nor good without evil.
+Lilith, leaning on Adam’s shoulder, laughed, too. She was glad that he could not understand the cherub’s warnings, deaf in the perfection of his innocence. So long as she could prevent it he would never taste that Fruit. The knowledge of evil was not in him and it must never be. For she was herself, as she realized well, the essence of abstract evil as opposed to abstract good—balancing it, making it possible. Her part was as necessary as God’s in the scheme of creation, for light cannot exist without dark, nor positive without negative, nor good without evil.
 
 Yet she did not feel in the least evil just now. There was no antagonism at all between her negation and the strong positive innocence of the man beside her.
 
@@ -2994,7 +3005,7 @@ Yet she did not feel in the least evil just now. There was no antagonism at all 
 
 “The animals don’t seem to understand. I hoped you would. It’s as if the . . . the whole Garden were part of me. If there are other men, do you suppose they’ll love the earth like this, Lilith, for its own sake? Do you
 
-think they’ll have this same feeling about the place where they were bom? Will one certain hill or valley be almost one flesh with theirs, so that they’d sicken away from it and fight and die if they had to, to keep it—as I think I would? Do you feel it, too?”
+think they’ll have this same feeling about the place where they were born? Will one certain hill or valley be almost one flesh with theirs, so that they’d sicken away from it and fight and die if they had to, to keep it—as I think I would? Do you feel it, too?”
 
 The air went pulsing past them, sweet with the music of the seraphim, while Lilith looked out over the valley that had brought Adam to birth. She was trying hard, but she could not quite grasp that passionate identification with the earth of Eden which beat like blood through Adam’s veins.
 
@@ -3002,7 +3013,7 @@ The air went pulsing past them, sweet with the music of the seraphim, while Lili
 
 “Leave it?” laughed Adam. “Where else is there? Eden belongs to us forever—and you belong to me.”
 
-Lilith let herself relax delightfully against his shoulder, knowing suddenly that she loved this irresponsible, dangerous flesh even while she distrusted it. And— Something was wrong. The sudden awareness of it chilled her and she glanced uneasily about, but it was several minutes before her fleshbound senses located the wrongness. Then she put her head back and stared up through the trees with puckered brows.
+Lilith let herself relax delightfully against his shoulder, knowing suddenly that she loved this irresponsible, dangerous flesh even while she distrusted it. And—Something was wrong. The sudden awareness of it chilled her and she glanced uneasily about, but it was several minutes before her fleshbound senses located the wrongness. Then she put her head back and stared up through the trees with puckered brows.
 
 “What is it?” Adam smiled down at her. “Angels? They go over quite often, you know.”
 
@@ -3012,7 +3023,7 @@ It was hard to believe—but there was war in heaven. A wave of relief went deli
 
 longer from what went on in Eden, and she was devoutly grateful for that. She needed this respite. She had awhile longer, than, to accustom herself to the vagaries of this strange body, and to the strange reaction Adam was causing, before the war was over in heaven and war began in Eden between Lilith and God.
 
-A shudder of terror and anticipation went over her again as she thought of that. She was not sure God could destroy her if He would, for she was a creature of the darkness beyond His light and her existence was necessary to the structure he was rearing in heaven and upon earth. Without the existence of such as Lilith, the balance of creation might tip over. No, God would not —perhaps could not—destroy her, but He could punish very terribly.
+A shudder of terror and anticipation went over her again as she thought of that. She was not sure God could destroy her if He would, for she was a creature of the darkness beyond His light and her existence was necessary to the structure he was rearing in heaven and upon earth. Without the existence of such as Lilith, the balance of creation might tip over. No, God would not—perhaps could not—destroy her, but He could punish very terribly.
 
 This flesh, for instance. It was so soft, so perishable. She was aware of a definite cleavage between the mind and the body that housed it. Perhaps God had been wise in choosing this fragile container instead of some imperishable substance into which to pour all the innocence, the power that was Adam. It was dangerous to trust such power in an independent body—as Lilith meant to prove to God if her plan went well. But it was no part of that plan—now—to have an angered God destroy His fleshly image.
 
@@ -3040,7 +3051,7 @@ His arm went rigid around her. “I couldn’t! I wouldn’t!”
 
 “A Tree of Life—” he echoed softly. “What would it be like?”
 
-Lilith closed her eyes. “A dark Tree, I think,” she answered, almost in a whisper. “Dark limbs, dark leaves —pale, shining fruit hanging among them like lanterns. Can’t you see it?”
+Lilith closed her eyes. “A dark Tree, I think,” she answered, almost in a whisper. “Dark limbs, dark leaves—pale, shining fruit hanging among them like lanterns. Can’t you see it?”
 
 Adam was silent. She glanced up at him. His eyes were shut and a look of intense longing was on his face in the twilight. There was silence about them for a long while. Presently she felt the tenseness of his body slacken beside her. He breathed out in a long sigh.
 
@@ -3054,7 +3065,7 @@ through the trees, a crooning lullaby in a tiny, piping voice as some cherub san
 
 And the evening and the morning were the eighth day.
 
-Lilith woke first. Birds were singing gloriously, and as she lay there on Adam’s shoulder a cherub flashed across the stream on dazzling wings, caroling at the top of his piping voice. He did not see them. The pleasant delirium of a spring morning filled the whole wakening Garden, and Lilith sat up with a smile. Adam scarcely stirred. Lilith looked down at him with a glow of tenderness that alarmed her. She was coming to identify herself with Adam, as Adam was one with the Garden— this flesh was a treacherous thing.
+Lilith woke first. Birds were singing gloriously, and as she lay there on Adam’s shoulder a cherub flashed across the stream on dazzling wings, caroling at the top of his piping voice. He did not see them. The pleasant delirium of a spring morning filled the whole wakening Garden, and Lilith sat up with a smile. Adam scarcely stirred. Lilith looked down at him with a glow of tenderness that alarmed her. She was coming to identify herself with Adam, as Adam was one with the Garden—this flesh was a treacherous thing.
 
 Suddenly, blindingly, she knew that. Terror of what it was doing to the entity which was Lilith rolled over her in a great wave, and without thinking, almost without realizing what she did, she sprang up and out of the flesh that was betraying her. Up, up through the crystal morning she sprang, impalpable as the air around her. Up and up until the Adam that flesh had valued too highly was invisible, and the very treetops that hid him were a feathery green blur and she could see the walls that closed the Garden in, the rivers running out of it like four great blades of silver in the morning sun.
 
@@ -3174,7 +3185,9 @@ She called his name miserably, quivering against him through all her bodiless bo
 
 He stared down at her. “I do,” he said, his voice unexpectedly shaken. And then, more strongly, “Come back, Lilith! What’s happened to you? Come back!” Lilith closed her eyes, feeling reality pour marvelously along her bodiless limbs. Faintly now she could feel grass underfoot, Adam’s chest against her anxious hands; his arms were around her and in his embrace she was taking shape out of nothingness, summoned into flesh again by the godhood in this image of God. And then—
 
-_ “Adam . . . Adam!” Eve’s sweet, clear voice rang lightly among the leaves. “Adam, where are you? I want to go look at the Tree, Adam. Where are you, dear?” “Hurry!” urged Lilith desperately, beating her halftangible hands against his chest.
+_ “Adam . . . Adam!” Eve’s sweet, clear voice rang lightly among the leaves. “Adam, where are you? I want to go look at the Tree, Adam. Where are you, dear?”
+
+“Hurry!” urged Lilith desperately, beating her halftangible hands against his chest.
 
 Adam’s arms loosed a little about her. He glanced across his shoulder, his handsome, empty face clouded. He was remembering.
 
@@ -3206,7 +3219,7 @@ The serpent glanced down at himself and sent one or two long, sliding ripples gl
 
 “Trouble?” echoed Lilith. She had almost forgotten the sounds of combat and the great battle cries of the seraphim in the depths of her own grief.
 
-“It was a fine fight while it lasted,” Lucifer grinned. “Blood running like water down the golden streets! I tell you, it was a relief to hear something beside ‘hosannah’ in heaven for a change! Well”—he shrugged— “they won. Too many of them were fools and stood by Jehovah. But we gave them a good fight, and we took part of the jasper walls with us when they hurled us over.” He gave her a satisfied nod. “God won, but he’ll think twice before He insults me again.”
+“It was a fine fight while it lasted,” Lucifer grinned. “Blood running like water down the golden streets! I tell you, it was a relief to hear something beside ‘hosannah’ in heaven for a change! Well”—he shrugged—“they won. Too many of them were fools and stood by Jehovah. But we gave them a good fight, and we took part of the jasper walls with us when they hurled us over.” He gave her a satisfied nod. “God won, but he’ll think twice before He insults me again.”
 
 “Insults you?” echoed Lilith. “How?”
 
@@ -3242,7 +3255,7 @@ Lilith winced a little. She and Adam together had had great prospects, once, too
 
 “You promise not to touch him, then?”
 
-“Yes, I won’t hurt your precious clod. You’re right —my quarrel’s with God, not that animated lump of clay named Adam. What’s the secret?”
+“Yes, I won’t hurt your precious clod. You’re right—my quarrel’s with God, not that animated lump of clay named Adam. What’s the secret?”
 
 “Eden,” said Lilith slowly, “is testing ground. There are flaws in it, there must be, or neither of us would be here. God planted a Tree in the middle of the Garden and forbade anyone to touch it. That’s the test . . . I think I see it now. It’s a test of obedience. God doesn’t trust man—he made him too strong. The Tree is the knowledge of Good and Evil, and God doesn’t dare let that knowledge exist in the Garden, because he controls Man only by Man’s ignorance of his own power. If either of them eats, then God will have to destroy that one quickly. You tempt the woman to eat, Lucifer, and leave Adam and Eden to me!”
 
@@ -3252,7 +3265,7 @@ The serpent eyed her sidelong. He laughed.
 
 Lilith drew a deep breath. Excitement was rising like a tide in her, and the wind from nowhere swirled the dark hair in a cloud about her shoulders.
 
-“Let him try!” she cried exultantly. “I can save Adam. God made a mistake when he put such power in the Garden. He shouldn’t have left it living, half-conscious of itself. He shouldn’t have let Adam know how close he is to the earth he was taken from. Adam and the Garden are one flesh, and the power of God is in them both. God can’t destroy one without the other, and together they are very strong— If they defied God together, and I helped them—”
+“Let him try!” she cried exultantly. “I can save Adam. God made a mistake when he put such power in the Garden. He shouldn’t have left it living, half-conscious of itself. He shouldn’t have let Adam know how close he is to the earth he was taken from. Adam and the Garden are one flesh, and the power of God is in them both. God can’t destroy one without the other, and together they are very strong—If they defied God together, and I helped them—”
 
 Lucifer looked at her, a trace of compassion on his handsome, reptilian face.
 
@@ -3262,7 +3275,7 @@ She gave him a proud glance. “I am the Queen of Air and Darkness. I have secre
 
 “If God destroys Eve,” said Lucifer, “he’ll destroy Adam, too. They’re one pattern.”
 
-“But he may not destroy them at the same time. I’ll gamble on that. I’d kill her myself if I could, but I can’t touch anything in the Garden without its own consent. . . . No, I’ll have to wait until Eve proves to God her unfitness to wear flesh, and while he punishes her I must seize that moment to rouse the Garden. It’s almost aware of itself already. I think I could awaken it —through Adam, perhaps. Adam and Eden are almost one, as Adam and I will be again if we can get rid of Eve. None of us separately has the power to defy God, but Eden and Adam and I together might do it!” She tossed back her head and the wild dark hair swirled like a fog about her. “Eden is an entity of its own—I think I could close a shell of space around us, and there are places in my Darkness where we could hide even from God!”	#
+“But he may not destroy them at the same time. I’ll gamble on that. I’d kill her myself if I could, but I can’t touch anything in the Garden without its own consent. . . . No, I’ll have to wait until Eve proves to God her unfitness to wear flesh, and while he punishes her I must seize that moment to rouse the Garden. It’s almost aware of itself already. I think I could awaken it—through Adam, perhaps. Adam and Eden are almost one, as Adam and I will be again if we can get rid of Eve. None of us separately has the power to defy God, but Eden and Adam and I together might do it!” She tossed back her head and the wild dark hair swirled like a fog about her. “Eden is an entity of its own—I think I could close a shell of space around us, and there are places in my Darkness where we could hide even from God!”	#
 
 Lucifer narrowed his eyes at her. “It might work,” he nodded slowly. “You’re mad—but it might work, with my help. The woman is beautiful, in her way—” He laughed. “And what a revenge on God!”
 
@@ -3334,7 +3347,7 @@ And behind Lilith, in a drugged voice, Adam said: “Eve—?”
 
 “Coming—” said Adam, still in that thick, drugged voice.
 
-Lilith whirled in the mist of her cloudy hair. Where was God! Why had He stayed His hand? Now was the time to strike, if her hope were not to fail. Now, now! Surely the lightning would come ravening down from heaven if she could hold Adam a moment longer— “Adam, wait!” she cried desperately. “Adam, you know you love me! If you leave—”
+Lilith whirled in the mist of her cloudy hair. Where was God! Why had He stayed His hand? Now was the time to strike, if her hope were not to fail. Now, now! Surely the lightning would come ravening down from heaven if she could hold Adam a moment longer—“Adam, wait!” she cried desperately. “Adam, you know you love me! If you leave—”
 
 Her voice faltered as he peered at her as blindly as if he had never seen her before. The haloed light was like fire all around him, and her words had been a drug to him as they had been to the Garden, until the earth that loved and listened to her had been one with his own earth-formed flesh; a moment ago there had been nothing in creation for Adam or for Eden but this one woman speaking out of the dark. But now—
 
@@ -3344,7 +3357,7 @@ Her voice faltered as he peered at her as blindly as if he had never seen her be
 
 “I . . . I have to listen,” he stammered almost stupidly. “Get out of my way, Lilith. Don’t you understand? She’s my own flesh—I have to go.”
 
-Lilith stared at him dumbly. His own flesh! She had forgotten that. She had leaned too heavily on his oneness with the Garden—she had forgotten he was one with Eve, too. The prospect of defeat was suddenly like lead in her. If God would only strike now— She swayed forward in one last desperate effort to hold him back from Eve while the Garden stirred uneasily around them, frightened with Lilith’s terror, torn with Adam’s distress. She wavered between Adam and the valley as if her ephemeral body could hold him, but he went through her as if through a cloud and stumbled blindly downhill toward the terrified Eve beneath the Tree with the fruit in her hand and a dreadful knowledge on her face.
+Lilith stared at him dumbly. His own flesh! She had forgotten that. She had leaned too heavily on his oneness with the Garden—she had forgotten he was one with Eve, too. The prospect of defeat was suddenly like lead in her. If God would only strike now—She swayed forward in one last desperate effort to hold him back from Eve while the Garden stirred uneasily around them, frightened with Lilith’s terror, torn with Adam’s distress. She wavered between Adam and the valley as if her ephemeral body could hold him, but he went through her as if through a cloud and stumbled blindly downhill toward the terrified Eve beneath the Tree with the fruit in her hand and a dreadful knowledge on her face.
 
 From here Lilith could see what Adam had not yet. She laughed suddenly, wildly, and cried:
 
@@ -3354,7 +3367,7 @@ Eve stood naked beneath the Tree. That burning beauty which had clothed her like
 
 “Oh, there you are,” she said, and even her voice was harsher now. “Everything looked so . . . so queer, for a minute. Look.” She held up the fruit. “It’s good. Better than anything you ever gave me. Try it.”
 
-Lilith stared at her from the hilltop with a horror that for a moment blanked out her growing terror because of God’s delay. Was knowledge, then, as ugly as this? Why had it destroyed Eve’s beauty as if it were some evil thing? Perfect knowledge should have increased her strength and loveliness in the instant before God struck her down, if— Suddenly Lilith understood. Perfect knowledge! But Eve had only tasted the fruit, and she had only a warped half-knowledge from that single taste. The beauty of her innocence was lost, but she had not yet gained the beauty of perfect knowledge. Was this why God delayed? So long as her knowledge was imperfect perhaps she was no menace to God’s power in Eden. And yet she had disobeyed, she had proved herself unworthy of the trust of God— Then why did He hesitate? Why had He not blasted her as she stood there with the apple at her lips? A panic was rising in Lilith’s throat. Could it be that He was laughing, even now? Was He giving her the respite she had prayed for, and watching her fail in spite of it?
+Lilith stared at her from the hilltop with a horror that for a moment blanked out her growing terror because of God’s delay. Was knowledge, then, as ugly as this? Why had it destroyed Eve’s beauty as if it were some evil thing? Perfect knowledge should have increased her strength and loveliness in the instant before God struck her down, if—Suddenly Lilith understood. Perfect knowledge! But Eve had only tasted the fruit, and she had only a warped half-knowledge from that single taste. The beauty of her innocence was lost, but she had not yet gained the beauty of perfect knowledge. Was this why God delayed? So long as her knowledge was imperfect perhaps she was no menace to God’s power in Eden. And yet she had disobeyed, she had proved herself unworthy of the trust of God—Then why did He hesitate? Why had He not blasted her as she stood there with the apple at her lips? A panic was rising in Lilith’s throat. Could it be that He was laughing, even now? Was He giving her the respite she had prayed for, and watching her fail in spite of it?
 
 “Taste the apple,” said Eve again, holding it out.
 
@@ -3362,7 +3375,7 @@ Lilith stared at her from the hilltop with a horror that for a moment blanked ou
 
 And Adam turned to look. The wind, which had clouded her from sight in the darkness of her hair, had calmed. She stood now, luminous on the hilltop, the darkness parted like a river by the whiteness of her shoulders. And she was beautiful with a beauty that no mortal woman will ever wear again.
 
-“I was first!” cried Lilith. “You loved me before her —come back to me now, before God strikes you both! Come back, Adam!”
+“I was first!” cried Lilith. “You loved me before her—come back to me now, before God strikes you both! Come back, Adam!”
 
 He stared up at her miserably. He looked back at the flawed, shivering creature at his side, knowledge curiously horrible in her eyes. He stared at Eve, too, a long stare. And then he reached for the apple.
 
@@ -3386,11 +3399,11 @@ He turned it obediently in his hand; his teeth crunched through scarlet skin int
 
 And then the burning glory that clothed him paled, shimmered, went out along his limbs. He, too, was naked. The queer, pinched look of humanity shivered over that magnificent body, and he was no longer magnificent, no longer Adam.
 
-Lilith had forgotten to look for God. Sickness of the heart was swelling terribly in her, and for a moment she no longer cared about God, or Eden, or the future. This was not Adam any more— It would never be Adam again—
+Lilith had forgotten to look for God. Sickness of the heart was swelling terribly in her, and for a moment she no longer cared about God, or Eden, or the future. This was not Adam any more—It would never be Adam again—
 
 “Listen,” said Eve in a small, intimate voice to Adam. “How quiet it is! Why, it’s the music. The seraphim aren’t singing any more around the Throne!”
 
-Lilith glanced up apathetically. That meant, then, that God was coming— But even as she looked up a great golden chorus resounded serenely from high over Eden. Adam tipped his tarnished head to listen.
+Lilith glanced up apathetically. That meant, then, that God was coming—But even as she looked up a great golden chorus resounded serenely from high over Eden. Adam tipped his tarnished head to listen.
 
 “You’re right,” he agreed. “They’ve stopped their song.”	-
 
@@ -3440,7 +3453,7 @@ The Voice said emotionlessly, “You are punished already, by the fruit of what 
 
 “Punished enough!” wailed Lilith in sudden despair. “Make an end of it, Jehovah!”
 
-“With man’s end,” said God quietly. “No sooner. You four among you have shattered a plan in Eden that you must shape anew before your travail ends. Let the four of you build a new plan with the elements of your being—Adam is Earth, Lucifer is Fire, Lilith is Air and Darkness, Eve the Mother of All Living, the fertile seas from which all living springs. Earth, Air, Fire and Water —you thought your plan was better than Mine. Work it out for yourselves!”
+“With man’s end,” said God quietly. “No sooner. You four among you have shattered a plan in Eden that you must shape anew before your travail ends. Let the four of you build a new plan with the elements of your being—Adam is Earth, Lucifer is Fire, Lilith is Air and Darkness, Eve the Mother of All Living, the fertile seas from which all living springs. Earth, Air, Fire and Water—you thought your plan was better than Mine. Work it out for yourselves!”
 
 “What is our part to be, Lord?” asked Adam in a small, humbled voice.
 
@@ -3466,7 +3479,7 @@ She stared. There was nothing. But—
 
 no_woman_born
 
-# No Woman Born
+# <a id="page236"></a>No Woman Born
 
 .fl
 <span class="smallcaps">She had been</span> the loveliest creature whose image ever moved along the airways. John Harris, who was once her manager, remembered doggedly how beautiful she had been as he rose in the silent elevator toward the room where Deirdre sat waiting for him.
@@ -3546,7 +3559,7 @@ He was thinking too, with a certain unreasoning jealousy, of the strange, cold, 
 
 Harris shook his head helplessly. It was an unanswerable question. It had tormented the whole world for a year now. There had been hundreds of answers and thousands of words written on the subject. Has anyone the right to preserve a brain alive when its body is destroyed? Even if a new body can be provided, necessarily so very unlike the old?
 
-“It’s not that she’s—ugly—now,” Maltzer went on hurriedly, as if afraid of an answer. “Metal isn’t ugly. And Deirdre . . . well, you’ll see. I tell you, I can’t see myself. I know the whole mechanism so well—it’s just mechanics to me. Maybe she’s—grotesque. I don’t know. Often I’ve wished I hadn’t been on the spot, with all my ideas, just when the fire broke out. Or that it could have been anyone but Deirdre. She was so beautiful— Still, if it had been someone else I think the whole thing might have failed completely. It takes more than just an uninjured brain. It takes strength and courage beyond common, and—well, something more. Something—unquenchable. Deirdre has it. She’s still Deirdre. In a way she’s still beautiful. But I’m not sure anybody but myself could see that. And you know what she plans?”
+“It’s not that she’s—ugly—now,” Maltzer went on hurriedly, as if afraid of an answer. “Metal isn’t ugly. And Deirdre . . . well, you’ll see. I tell you, I can’t see myself. I know the whole mechanism so well—it’s just mechanics to me. Maybe she’s—grotesque. I don’t know. Often I’ve wished I hadn’t been on the spot, with all my ideas, just when the fire broke out. Or that it could have been anyone but Deirdre. She was so beautiful—Still, if it had been someone else I think the whole thing might have failed completely. It takes more than just an uninjured brain. It takes strength and courage beyond common, and—well, something more. Something—unquenchable. Deirdre has it. She’s still Deirdre. In a way she’s still beautiful. But I’m not sure anybody but myself could see that. And you know what she plans?”
 
 “No—what?”
 
@@ -3582,7 +3595,7 @@ The human brain is often too complicated a mechanism to function perfectly. Harr
 
 The first impression that his eyes and mind took from sight of her was shocked and incredulous, for his brain said to him unbelievingly, “This is Deirdre! She hasn’t changed at all!”
 
-Then the shift of perspective took over, and even more shockingly, eye and brain said, “No, not Deirdre —not human. Nothing but metal coils. Not Deirdre at And that was the worst. It was like walking from a dream of someone beloved and lost, and facing anew, after that heartbreaking reassurance of sleep, the inflexible fact that nothing can bring the lost to life again. Deirdre was gone, and this was only machinery heaped in a flowered chair.
+Then the shift of perspective took over, and even more shockingly, eye and brain said, “No, not Deirdre—not human. Nothing but metal coils. Not Deirdre at And that was the worst. It was like walking from a dream of someone beloved and lost, and facing anew, after that heartbreaking reassurance of sleep, the inflexible fact that nothing can bring the lost to life again. Deirdre was gone, and this was only machinery heaped in a flowered chair.
 
 Then the machinery moved, exquisitely, smoothly, with a grace as familiar as the swaying poise he remembered. The sweet, husky voice of Deirdre said,
 
@@ -3700,9 +3713,9 @@ For Deirdre, there was only one possible answer.
 
 “I’m not worried,” Deirdre said serenely, and spread her golden hands to the fire to watch lights dancing in reflection upon their shining surfaces. “I’m still myself. I’ve always had . . . well, power over my audiences. Any good performer knows when he’s got it. Mine isn’t gone. I can still give them what I always gave, only now with greater variations and more depths than I’d ever have done before. Why, look—” She gave a little wriggle of excitement.
 
-“You know the arabesque principle—getting the longest possible distance from fingertip to toetip with a long, slow curve through the whole length? And the brace of the other leg and arm giving contrast? Well, look at me. I don’t work on hinges now. I can make every motion a long curve if I want to. My body’s different enough now to work out a whole new school of dancing. Of course there’ll be things I used to do that I won’t attempt now —no more dancing sur les pointes, for instance—but the new things will more than balance the loss. I’ve been practicing. Do you know I can turn a hundred fouettes now without a flaw? And I think I could go right on and turn a thousand, if I wanted.”
+“You know the arabesque principle—getting the longest possible distance from fingertip to toetip with a long, slow curve through the whole length? And the brace of the other leg and arm giving contrast? Well, look at me. I don’t work on hinges now. I can make every motion a long curve if I want to. My body’s different enough now to work out a whole new school of dancing. Of course there’ll be things I used to do that I won’t attempt now—no more dancing sur les pointes, for instance—but the new things will more than balance the loss. I’ve been practicing. Do you know I can turn a hundred fouettes now without a flaw? And I think I could go right on and turn a thousand, if I wanted.”
 
-She made the firelight flash on her hands, and her robe rang musically as she moved her shoulders a little. “I’ve already worked out one new dance for myself,” she said. “God knows I’m no choreographer, but I did want to experiment first. Later, you know, really creative men like Massanchine or Fokhileff may want to do something entirely new for me—a whole new sequence of movements based on a new technique. And music— that could be quite different, too. Oh, there’s no end to the possibilities! Even my voice has more range and power. Luckily I’m not an actress—it would be silly to try to play Camille or Juliet with a cast of ordinary people. Not that I couldn’t, you know.” She turned her head to stare at Harris through the mask of glass. “I honestly think I could. But it isn’t necessary. There’s too much else. Oh, I’m not worried!”
+She made the firelight flash on her hands, and her robe rang musically as she moved her shoulders a little. “I’ve already worked out one new dance for myself,” she said. “God knows I’m no choreographer, but I did want to experiment first. Later, you know, really creative men like Massanchine or Fokhileff may want to do something entirely new for me—a whole new sequence of movements based on a new technique. And music—that could be quite different, too. Oh, there’s no end to the possibilities! Even my voice has more range and power. Luckily I’m not an actress—it would be silly to try to play Camille or Juliet with a cast of ordinary people. Not that I couldn’t, you know.” She turned her head to stare at Harris through the mask of glass. “I honestly think I could. But it isn’t necessary. There’s too much else. Oh, I’m not worried!”
 
 “Maltzer’s worried,” Harris reminded her.
 
@@ -3710,7 +3723,7 @@ She swung away from the fire, her metal robe ringing, and into her voice came th
 
 “I know. And I’m worried about him, John. He’s worked so awfully hard over me. This is the doldrums now, the let-down period, I suppose. I know what’s on his mind. He’s afraid I’ll look just the same to the world as I look to him. Tooled metal. He’s in a position no one ever quite achieved before, isn’t he? Rather like God.” Her voice rippled a little with amusement. “I suppose to God we must look like a collection of cells and corpuscles ourselves. But Maltzer lacks a god’s detached viewpoint.”
 
-“He can’t see you as I do, anyhow.” Harris was choosing his words with difficulty. “I wonder, though— would it help him any if you postponed your debut awhile? You’ve been with him too closely, I think. You don’t quite realize how near a breakdown he is. I was shocked when I saw him just now.”
+“He can’t see you as I do, anyhow.” Harris was choosing his words with difficulty. “I wonder, though—would it help him any if you postponed your debut awhile? You’ve been with him too closely, I think. You don’t quite realize how near a breakdown he is. I was shocked when I saw him just now.”
 
 The golden head shook. “No. He’s close to a breaking point, maybe, but I think the only cure’s action. He wants me to retire and stay out of sight, John. Always. He’s afraid for anyone to see me except a few old friends who remember me as I was. People he can trust to be—kind.” She laughed. It was very strange to hear that ripple of mirth from the blank, unfeatured skull. Harris was seized with sudden panic at the thought of what reaction it might evoke in an audience of strangers. As if he had spoken the fear aloud, her voice denied it.
 
@@ -3734,7 +3747,7 @@ I. . . I felt it had to be a surprise.” She wriggled a little among the cushio
 
 “You mean it’s to be a complete surprise?”
 
-“I think it must be. I don’t want the audience coming in with preconceived ideas. I want them to see me exactly as I am now first, before they know who or what they’re seeing. They must realize I can still give as good a performance as ever before they remember and compare it with my past performances. I don’t want them to come ready to pity my handicaps—I haven’t got any! —or full of morbid curiosity. So I’m going on the air after the regular eight-o’clock telecast of the feature from Teleo City. I’m just going to do one specialty in the usual vaude program. It’s all been arranged. They’ll build up to it, of course, as the highlight of the evening, but they aren’t to say who I am until the end of the performance—if the audience hasn’t recognized me already, by then.”
+“I think it must be. I don’t want the audience coming in with preconceived ideas. I want them to see me exactly as I am now first, before they know who or what they’re seeing. They must realize I can still give as good a performance as ever before they remember and compare it with my past performances. I don’t want them to come ready to pity my handicaps—I haven’t got any!—or full of morbid curiosity. So I’m going on the air after the regular eight-o’clock telecast of the feature from Teleo City. I’m just going to do one specialty in the usual vaude program. It’s all been arranged. They’ll build up to it, of course, as the highlight of the evening, but they aren’t to say who I am until the end of the performance—if the audience hasn’t recognized me already, by then.”
 
 “Audience?”
 
@@ -3784,7 +3797,9 @@ Not out of the habit patterns in her brain. No, out of human contacts, out of al
 
 He squinted at the screen, not seeing it, his face drawn into lines like the lines of a skull. All flesh seemed to have dissolved off his bones in the past year, and Harris thought almost jealously that even in that way he seemed to be drawing nearer Deirdre in her flesh-lessness with every passing week.
 
-“Sight,” Maltzer said, “is the most highly civilized of the senses. It was the last to come. The other senses tie us in closely with the very roots of life; I think we perceive with them more keenly than we know. The things we realize through taste and smell and feeling stimulate directly, without a detour through the centers of conscious thought. You know how often a taste or odor will recall a memory to you so subtly you don’t know exactly what caused it? We need those primitive senses to tie us in with nature and the race. Through those ties Deirdre drew her vitality without realizing it. Sight is a cold, intellectual thing compared with the other senses. But it’s all she has to draw on now. She isn’t a human being any more, and I think what humanity is left in her will drain out little by little and never be replaced. Abelard, in a way, was a prototype. But Deirdre’s loss is complete.” “She isn’t human,” Harris agreed slowly. “But she isn’t pure robot either. She’s something somewhere between the two, and I think it’s a mistake to try to guess just where, or what the outcome will be.”
+“Sight,” Maltzer said, “is the most highly civilized of the senses. It was the last to come. The other senses tie us in closely with the very roots of life; I think we perceive with them more keenly than we know. The things we realize through taste and smell and feeling stimulate directly, without a detour through the centers of conscious thought. You know how often a taste or odor will recall a memory to you so subtly you don’t know exactly what caused it? We need those primitive senses to tie us in with nature and the race. Through those ties Deirdre drew her vitality without realizing it. Sight is a cold, intellectual thing compared with the other senses. But it’s all she has to draw on now. She isn’t a human being any more, and I think what humanity is left in her will drain out little by little and never be replaced. Abelard, in a way, was a prototype. But Deirdre’s loss is complete.”
+
+“She isn’t human,” Harris agreed slowly. “But she isn’t pure robot either. She’s something somewhere between the two, and I think it’s a mistake to try to guess just where, or what the outcome will be.”
 
 “I don’t have to guess,” Maltzer said in a grim voice.
 
@@ -3870,7 +3885,7 @@ Harris had an intolerable feeling that she was smiling radiantly and that the te
 
 Maltzer shook his head jerkily, the glasses unsteady on his nose so that the blurred eyes behind them seemed to shift.
 
-“Of course they applauded, you fool,” he said in a savage voice. “I might have known they would under this set-up. It doesn’t prove anything. Oh, she was smart to surprise them—I admit that. But they were applauding themselves as much as her. Excitement, gratitude for letting them in on a historic performance, mass hysteria —.you know. It’s from now on the test will come, and this hasn’t helped any to prepare her for it. Morbid curiosity when the news gets out—people laughing when she forgets she isn’t human. And they will, you know. There are always those who will. And the novelty wearing off. The slow draining away of humanity for lack of contact with any human stimuli any more—”
+“Of course they applauded, you fool,” he said in a savage voice. “I might have known they would under this set-up. It doesn’t prove anything. Oh, she was smart to surprise them—I admit that. But they were applauding themselves as much as her. Excitement, gratitude for letting them in on a historic performance, mass hysteria—.you know. It’s from now on the test will come, and this hasn’t helped any to prepare her for it. Morbid curiosity when the news gets out—people laughing when she forgets she isn’t human. And they will, you know. There are always those who will. And the novelty wearing off. The slow draining away of humanity for lack of contact with any human stimuli any more—”
 
 Harris remembered suddenly and reluctantly the moment that afternoon which he had shunted aside mentally, to consider later. The sense of something unfamiliar beneath the surface of Deirdre’s speech. Was Maltzer right? Was the drainage already at work? Or was there something deeper than this obvious answer to the question? Certainly she had been through experiences too terrible for ordinary people to comprehend. Scars might still remain. Or, with her body, had she put on a strange, metallic something of the mind, that spoke to no sense which human minds could answer?
 
@@ -3900,7 +3915,7 @@ Harris had no comment for that. It was too entirely outside his own experience. 
 
 “I think you’re wrong,” Harris told him quietly. “I think you’re imagining things. I don’t think you can stop her.”
 
-Maltzer gave him a slanted glance. “I can stop her,” he said, in a curious voice. He went on quickly, “She has enough already—she’s nearly human. She can live normally as other people live, without going back on the screen. Maybe this taste of it will be enough. I’ve got to convince her it is. If she retires now, she’ll never guess how cruel her own audiences could be, and maybe that deep sense of—distress, uneasiness, whatever it is— won’t come to the surface. It mustn’t. She’s too fragile to stand that.” He slapped his hands together sharply. “I’ve got to stop her. For her own sake I’ve got to do it!” He swung round again to face Harris. “Will you go now?” Never in his life had Harris wanted less to leave a place. Briefly he thought of saying simply, “No I won’t.” But he had to admit in his own mind that Maltzer was at least partly right. This was a matter between Deirdre and her creator, the culmination, perhaps, of that year’s long intimacy so like marriage that this final trial for supremacy was a need he recognized.
+Maltzer gave him a slanted glance. “I can stop her,” he said, in a curious voice. He went on quickly, “She has enough already—she’s nearly human. She can live normally as other people live, without going back on the screen. Maybe this taste of it will be enough. I’ve got to convince her it is. If she retires now, she’ll never guess how cruel her own audiences could be, and maybe that deep sense of—distress, uneasiness, whatever it is—won’t come to the surface. It mustn’t. She’s too fragile to stand that.” He slapped his hands together sharply. “I’ve got to stop her. For her own sake I’ve got to do it!” He swung round again to face Harris. “Will you go now?” Never in his life had Harris wanted less to leave a place. Briefly he thought of saying simply, “No I won’t.” But he had to admit in his own mind that Maltzer was at least partly right. This was a matter between Deirdre and her creator, the culmination, perhaps, of that year’s long intimacy so like marriage that this final trial for supremacy was a need he recognized.
 
 He would not, he thought, forbid the showdown if he could. Perhaps the whole year had been building up to this one moment between them in which one or the other must prove himself victor. Neither was very well stable just now, after the long strain of the year past. It might very well be that the mental salvation of one or both hinged upon the outcome of the clash. But because each was so strongly motivated not by selfish concern but by solicitude for the other in this strange combat, Harris knew he must leave them to settle the thing alone.
 
@@ -3996,11 +4011,11 @@ Maltzer laid his trembling hand on the edge of the opened window and looked out.
 
 : Once the novelty wears off, my dear, your audience will ! be simply a mob.”
 
-He was not looking at her. He had bent forward a lit— tie, looking out the window and down. His hair stirred in the wind that blew very strongly up this high, and whined thinly around the open edge of the glass.
+He was not looking at her. He had bent forward a lit—tie, looking out the window and down. His hair stirred in the wind that blew very strongly up this high, and whined thinly around the open edge of the glass.
 
 “I meant what I did for you,” he said, “to be for everyone who meets with accidents that might have rained them. I should have known my gift would mean worse rain than any mutilation could be. I know now
 
-that there’s only one legitimate way a human being can create life. When he tries another way, as I did, he has a lesson to learn. Remember the lesson of the student Frankenstein? He learned, too. In a way, he was lucky —the way he learned. He didn’t have to watch what happened afterward. Maybe he wouldn’t have had the courage—I know I haven’t.”
+that there’s only one legitimate way a human being can create life. When he tries another way, as I did, he has a lesson to learn. Remember the lesson of the student Frankenstein? He learned, too. In a way, he was lucky—the way he learned. He didn’t have to watch what happened afterward. Maybe he wouldn’t have had the courage—I know I haven’t.”
 
 Harris found himself standing without remembering that he rose. He knew suddenly what was about to happen. He understood Maltzer’s air of resolution, his new, unnatural calm. He knew, even, why Maltzer had asked him here today, so that Deirdre might not be left alone. For he remembered that Frankenstein, too, had paid with his life for the unlawful creation of life.
 
@@ -4008,7 +4023,7 @@ Maltzer was leaning head and shoulders from the window now, looking down with al
 
 Deirdre had not moved. Her expressionless mask, in the mirror, watched him calmly. She must have understood. Yet she gave no sign, except that the weaving of her arms had almost stopped now, she moved so slowly. Like a dance seen in a nightmare, under water.
 
-It was impossible, of course, for her to express any emotion. The fact that her face showed none now should not, in fairness, he held against her. But she watched so wholly without feeling— Neither of them moved toward the window. A false step, now, might send him over. They were quiet, listening to his voice.
+It was impossible, of course, for her to express any emotion. The fact that her face showed none now should not, in fairness, he held against her. But she watched so wholly without feeling—Neither of them moved toward the window. A false step, now, might send him over. They were quiet, listening to his voice.
 
 “We who bring life into the world unlawfully,” said Maltzer, almost thoughtfully, “must make room for it by withdrawing our own. That seems to be an inflexible rule. It works automatically. The thing we create makes living unbearable. No, it’s nothing you can help, my dear. I’ve asked you to do something I created you incapable of doing. I made you to perform a function, and I’ve been asking you to forego the one thing you were made to do. I believe that if you do it, it will destroy you, but the whole guilt is mine, not yours. I’m not even asking you to give up the screen, any more. I know you can’t, and live. But I can’t live and watch you. I put all my skill and all my love in one final masterpiece, and I
 
@@ -4022,7 +4037,7 @@ He was silent again, briefly, looking down. He was balanced precariously now, mo
 
 and unchangingly, watching the mirror and its reflection, her face and masked eyes enigmatic.
 
-“I wish one thing, though,” Maltzer said in his remote voice. “I wish—before I finish—that you’d tell me the truth, Deirdre. I’d be happier if I were sure I’d— reached you. Do you understand what I’ve said? Do you believe me? Because if you don’t, then I know you’re lost beyond all hope. If you’ll admit your own doubt— and I know you do doubt—I can think there may be a chance for you after all. Were you lying to me, Deirdre? Do you know how . . . how wrong I’ve made you?”
+“I wish one thing, though,” Maltzer said in his remote voice. “I wish—before I finish—that you’d tell me the truth, Deirdre. I’d be happier if I were sure I’d—reached you. Do you understand what I’ve said? Do you believe me? Because if you don’t, then I know you’re lost beyond all hope. If you’ll admit your own doubt—and I know you do doubt—I can think there may be a chance for you after all. Were you lying to me, Deirdre? Do you know how . . . how wrong I’ve made you?”
 
 There was silence. Then very softly, a breath of sound, Deirdre answered. The voice seemed to hang in midair, because she had no lips to move and localize it for the imagination.
 
@@ -4072,7 +4087,7 @@ And Maltzer for a moment seemed shaken in his conviction.
 
 She was not laughing now. She let her arms fall, and the flexible golden body seemed to droop a little all over, as if the brain that a moment before had been sending out strong, sure waves of confidence had slackened its power, and the intangible muscles of her limbs slackened with it. Some of the glowing humanity began to fade. It receded within her and was gone, as if the fire in the furnace of her body were sinking and cooling.
 
-“Maltzer,” she said uncertainly, “I can’t answer that —yet. I can’t—”
+“Maltzer,” she said uncertainly, “I can’t answer that—yet. I can’t—”
 
 And then, while they waited in anxiety for her to finish the sentence, she blazed. She ceased to be a figure in stasis—she blazed.
 
@@ -4082,7 +4097,7 @@ In the same instant she stood drooping by the mirror she was simultaneously at M
 
 But curiously, she was not blurred. Harris, watching, felt his mind go blank again, but less in surprise than because no normal eyes and brain could perceive what it was he looked at.
 
-(In that moment of intolerable suspense his complex human brain paused suddenly, annihilating time in its own way, and withdrew to a cool comer of its own to analyze in a flashing second what it was he had just seen. The brain could do it timelessly; words are slow. But he knew he had watched a sort of tesseract of human motion, a parable of fourth-dimensional activity. A one-dimensional point, moved through space, creates a two-dimensional line, which in motion creates a threedimensional cube. Theoretically the cube, in motion, would produce a fourth-dimensional figure. No human creature had ever seen a figure of three dimensions moved through space and time before—until this moment. She had not blurred; every motion she made was distinct, but not like moving figures on a strip of film. Not like anything that those who use our language had ever seen before, or created words to express. The mind saw, but without perceiving. Neither words nor thoughts could resolve what happened into terms for human brains. And perhaps she had not actually and literally moved through the fourth dimension. Perhaps—since Harris was able to see her—it had been almost and not quite that unimaginable thing. But it was close enough.)
+(In that moment of intolerable suspense his complex human brain paused suddenly, annihilating time in its own way, and withdrew to a cool corner of its own to analyze in a flashing second what it was he had just seen. The brain could do it timelessly; words are slow. But he knew he had watched a sort of tesseract of human motion, a parable of fourth-dimensional activity. A one-dimensional point, moved through space, creates a two-dimensional line, which in motion creates a threedimensional cube. Theoretically the cube, in motion, would produce a fourth-dimensional figure. No human creature had ever seen a figure of three dimensions moved through space and time before—until this moment. She had not blurred; every motion she made was distinct, but not like moving figures on a strip of film. Not like anything that those who use our language had ever seen before, or created words to express. The mind saw, but without perceiving. Neither words nor thoughts could resolve what happened into terms for human brains. And perhaps she had not actually and literally moved through the fourth dimension. Perhaps—since Harris was able to see her—it had been almost and not quite that unimaginable thing. But it was close enough.)
 
 While to the slow mind’s eye she was still standing at the far end of the room, she was already at Maltzer’s side, her long, flexible fingers gentle but very firm upon his arms. She waited—
 
@@ -4176,7 +4191,7 @@ They looked at each other in silence. Then Deirdre shrugged a little.
 
 “But—not happy
 
-“I’m afraid. It isn’t unhappiness, Maltzer—it’s fear. I don’t want to draw so far away from the human race. I wish I needn’t. That’s why I’m going back on the stage —to keep in touch with them while I can. But I wish there could be others like me. I’m . . . I’m lonely, Maltzer.”
+“I’m afraid. It isn’t unhappiness, Maltzer—it’s fear. I don’t want to draw so far away from the human race. I wish I needn’t. That’s why I’m going back on the stage—to keep in touch with them while I can. But I wish there could be others like me. I’m . . . I’m lonely, Maltzer.”
 
 Silence again. Then Maltzer said, in a voice as distant as when he had spoken to them through glass, over gulfs as deep as oblivion:
 
@@ -4186,7 +4201,7 @@ Silence again. Then Maltzer said, in a voice as distant as when he had spoken to
 
 She turned away and moved smoothly, powerfully, down the room to the window. Now that Harris knew, he could almost hear the sheer power purring along her limbs as she walked. She leaned the golden forehead against the glass—it clinked faintly, with a musical sound—and looked down into the depths Maltzer had hung above. Her voice was reflective as she looked into those dizzy spaces which had offered oblivion to her creator.
 
-“There’s one limit I can think of,” she said, almost inaudibly. “Only one. My brain will wear out in another forty years or so. Between now and then I’ll learn . . . I’ll change . . . I’ll know more than I can guess today. I’ll change— That’s frightening. I don’t like to think about that.” She laid a curved golden hand on the latch and pushed the window open a little, very easily. Wind whined around its edge. “I could put a stop to it now, if I wanted,” she said. “If I wanted. But I can’t, really. There’s so much still untried. My brain’s human, and no human brain could leave such possibilities untested. I wonder, though . . . I do wonder—”
+“There’s one limit I can think of,” she said, almost inaudibly. “Only one. My brain will wear out in another forty years or so. Between now and then I’ll learn . . . I’ll change . . . I’ll know more than I can guess today. I’ll change—That’s frightening. I don’t like to think about that.” She laid a curved golden hand on the latch and pushed the window open a little, very easily. Wind whined around its edge. “I could put a stop to it now, if I wanted,” she said. “If I wanted. But I can’t, really. There’s so much still untried. My brain’s human, and no human brain could leave such possibilities untested. I wonder, though . . . I do wonder—”
 
 Her voice was soft and familiar in Harris’ ears, the voice Deirdre had spoken and sung with, sweetly enough to enchant a world. But as preoccupation came over her a certain flatness crept into the sound. When she was not listening to her own voice, it did not keep quite to the pitch of trueness. It sounded as if she spoke in a room of brass, and echoes from the walls resounded in the tones that spoke there.	.
 
@@ -4196,48 +4211,43 @@ Her voice was soft and familiar in Harris’ ears, the voice Deirdre had spoken 
 
 daemon
 
-# Daemon
+# <a id="page289"></a>Daemon
 
 .fl
-*Padre,* <span class="smallcaps"> the words</span> come slowly. It is a long time now since I have spoken in the Portuguese tongue. For more than a year, my companions here were those who do not speak with the tongues of men. And you must remember, *padre*, that in Rio, where I was bom, I was named Luiz *o Bobo*, which is to say, Luiz the Simple. There was something wrong with my head, so that my hands were always clumsy and my feet stumbled over each other. I could not remember very much. But I could see things. Yes, *padre*, I could see things such as other men do not know.
+*Padre,* <span class="smallcaps"> the words</span> come slowly. It is a long time now since I have spoken in the Portuguese tongue. For more than a year, my companions here were those who do not speak with the tongues of men. And you must remember, *padre*, that in Rio, where I was born, I was named Luiz *o Bobo*, which is to say, Luiz the Simple. There was something wrong with my head, so that my hands were always clumsy and my feet stumbled over each other. I could not remember very much. But I could see things. Yes, *padre*, I could see things such as other men do not know.
 
 I can see things now. Do you know who stands beside you, *padre*, listening while I talk? Never mind that. I am Luiz *o Bobo* still, though here on this island there were great powers of healing, and I can remember now the things that happened to me years ago. More easily than I remember what happened last week or the week before that. The year has been like a single day, for time on this island is not like time outside. When a man lives with *them*, there is no time.
 
 The *ninfas*, I mean. And the others. . .
 
-I am not lying. Why should I? I am going to die, quite soon now. You were right to tell me that, *padre*. But I knew. I knew already. Your crucifix is very pretty, *padre*. I like the way it shines in the sun. But that is not for me. You see, I have always known the things that walk beside men—other men. Not me. Perhaps they are souls, and I have no soul, being simple. Or perhaps they are daemons such as only clever men have. Or perhaps they are both these things. I do not know. But I know
+I am not lying. Why should I? I am going to die, quite soon now. You were right to tell me that, *padre*. But I knew. I knew already. Your crucifix is very pretty, *padre*. I like the way it shines in the sun. But that is not for me. You see, I have always known the things that walk beside men—other men. Not me. Perhaps they are souls, and I have no soul, being simple. Or perhaps they are daemons such as only clever men have. Or perhaps they are both these things. I do not know. But I know <a id="page290"></a>that I am dying. After the *ninfas* go away, I would not care to live.
 
-that I am dying. After the *ninfas* go away, I would not care to live.
+Since you ask how I came to this place, I will tell you if the time remains to me. You will not believe. This is the one place on earth, I think, where they lingered still—those things you do not believe.
 
-Since you ask how I came to this place, I will tell you if the time remains to me. You will not believe. This is the one place on earth, I think, where they lingered still —those things you do not believe.
+But before I speak of them, I must go back to an earlier day, when I was young beside the blue bay of Rio, under Sugar Loaf. I remember the docks of Rio, and the children who mocked me. I was big and strong, but I was *o Bobo* with a mind that knew no yesterday or tomorrow.
 
-But before I speak of them, I must go back to an earlier day, when I was young beside the blue bay of Rio, under Sugar Loaf. I remember the docks of Rio, and the children who mocked me. I was big and strong, but I was o Bobo with a mind that knew no yesterday or tomorrow.
+*Minha avó*, my grandmother, was kind to me. She was from Ceará, where the yearly droughts kill hope, and she was half blind, with pain in her back always. She worked so that we could eat, and she did not scold me too much. I know that she was good. It was something I could see; I have always had that power.
 
-*Minha avó*, my grandmother, was kind to me. She was from Ceard, where the yearly droughts kill hope, and she was half blind, with pain in her back always. She worked so that we could eat, and she did not scold me too much. I know that she was good. It was something I could see; I have always had that power.
-
-One morning my grandmother did not waken. She was cold when I touched her hand. That did not frighten me for the—good thing—about her lingered for a while.
-
-I closed her eyes and kissed her, and then I went away.
-
-I was hungry, and because I was *o Bobo*, I thought that someone might give me food, out of kindness. . . .
+One morning my grandmother did not waken. She was cold when I touched her hand. That did not frighten me for the—good thing—about her lingered for a while. I closed her eyes and kissed her, and then I went away. I was hungry, and because I was *o Bobo*, I thought that someone might give me food, out of kindness. . . .
 
 In the end, I foraged from the rubbish-heaps.
 
-I did not starve. But I was lost and alone. Have you ever felt that, *padre*? It is like a bitter wind from the mountains and no sheepskin cloak can shut it out. One night I wandered into a sailors’ saloon, and I remember that there were many dark shapes with eyes that shone, hovering beside the men who drank there. The men had red, windbumed faces and tarry hands. They made me drink ’*guardiente* until the room whirled around and went dark.
+I did not starve. But I was lost and alone. Have you ever felt that, *padre*? It is like a bitter wind from the mountains and no sheepskin cloak can shut it out. One night I wandered into a sailors’ saloon, and I remember that there were many dark shapes with eyes that shone, hovering beside the men who drank there. The men had red, windbumed faces and tarry hands. They made me drink *’guardiente* until the room whirled around and went dark.
 
 I woke in a dirty bunk. I heard planks groaning and the floor rocked under me.
 
 Yes, *padre*, I had been shanghaied. I stumbled on deck, half blind in the dazzling sunlight, and there I found a man who had a strange and shining daemon. He was the captain of the ship, though I did not know it then. I scarcely saw the man at all. I was looking at the daemon.
 
-Now, most men have shapes that walk behind them, padre. Perhaps you know that, too. Some of them are dark, like the shapes I saw in the saloon. Some of them are bright, like that which followed my grandmother. Some of them are colored, pale colors like ashes or rainbows. But this man had a scarlet daemon. And it was a scarlet beside which blood itself is ashen. The color blinded me. And yet it drew me, too. I could not take my eyes away, nor could I look at it long without pain. I never saw a color more beautiful, nor more frightening. It made my heart shrink within me, and quiver like a dog that fears the whip. If I have a soul, perhaps it was my soul that quivered. And I feared the beauty of the color as much as I feared the terror it awoke in me. It is not good to see beauty in that which is evil.
+<a id="page291"></a>Now, most men have shapes that walk behind them, *padre*. Perhaps you know that, too. Some of them are dark, like the shapes I saw in the saloon. Some of them are bright, like that which followed my grandmother. Some of them are colored, pale colors like ashes or rainbows. But this man had a scarlet daemon. And it was a scarlet beside which blood itself is ashen. The color blinded me. And yet it drew me, too. I could not take my eyes away, nor could I look at it long without pain. I never saw a color more beautiful, nor more frightening. It made my heart shrink within me, and quiver like a dog that fears the whip. If I have a soul, perhaps it was my soul that quivered. And I feared the beauty of the color as much as I feared the terror it awoke in me. It is not good to see beauty in that which is evil.
 
 Other men upon the deck had daemons too. Dark shapes and pale shapes that followed them like their shadows. But I saw all the daemons waver away from the red, beautiful thing that hung above the captain of the ship.
 
 The other daemons watched out of burning eyes. The red daemon had no eyes. Its beautiful, blind face was turned always toward the captain, as if it saw only through his vision. I could see the lines of its closed lids. And my terror of its beauty, and my terror of its evil, were nothing to my terror of the moment when the red daemon might lift those lids and look out upon the world.
 
+.space
 The captain’s name was Jonah Stryker. He was a cruel man, dangerous to be near. The men hated him. They were at his mercy while we were at sea, and the captain was at the mercy of his daemon. That was why I could not hate him as the others did. Perhaps it was pity I felt for Jonah Stryker. And you, who know men better than I, will understand that the pity I had for him made the captain hate me more bitterly than even his crew hated him.
 
-When I came on deck that first morning, because I was blinded by the sun and by the redness of the scarlet daemon, and because I was ignorant and bewildered, I broke a shipboard rule. What it was, I do not know. There were so many, and I never could remember very clearly in those days. Perhaps I walked between him and the wind. Would that be wrong on a clipper ship, padre?
+When I came on deck that first morning, because I was blinded by the sun and by the redness of the scarlet daemon, and because I was ignorant and bewildered, I <a id="page292"></a>broke a shipboard rule. What it was, I do not know. There were so many, and I never could remember very clearly in those days. Perhaps I walked between him and the wind. Would that be wrong on a clipper ship, *padre?*
 
 I never understood.
 
@@ -4245,29 +4255,29 @@ The captain shouted at me, in the Yankee tongue, evil words whose meaning I did 
 
 I wept. In that moment, for the first time, I knew how truly alone a man like me must be. For I had no daemon. It was not the simple loneliness for my grandmother or for human companionship that brought the tears to my eyes. That I could endure. But I saw the look of joy upon the blind daemon-face because of the captain’s evil, and I remembered the look of joy that a bright shape sometimes wears who follows a good man. And I knew that no deed of mine would ever bring joy or sorrow to that which moves behind a man with a soul.
 
-I lay upon the bright, hot deck and wept, not because of the blow, but because I knew suddenly, for the first time, that I was alone. No daemon for good or evil would ever follow me. Perhaps because I have no soul. That loneliness, father, is something not even you could understand.
+I lay upon the bright, hot deck and wept, not because of the blow, but because I knew suddenly, for the first time, that I was alone. No daemon for good or evil would ever follow me. Perhaps because I have no soul. *That* loneliness, father, is something not even you could understand.
 
-The captain seized my arm and pulled me roughly to my feet. I did not understand, then, the words he spoke in his Yankee tongue, though later I picked up enough of that speech to know what men were saying around me. You may think it strange that o Bobo could learn a foreign tongue. It was easy for me. Easier, perhaps, than for a wiser man. Much I read upon the faces of their daemons, and there were many words whose real sounds I did not know, but whose meaning I found in the hum of thoughts about a man’s head.
+The captain seized my arm and pulled me roughly to my feet. I did not understand, then, the words he spoke in his Yankee tongue, though later I picked up enough of that speech to know what men were saying around me. You may think it strange that *o Bobo* could learn a foreign tongue. It was easy for me. Easier, perhaps, than for a wiser man. Much I read upon the faces of their daemons, and there were many words whose real sounds I did not know, but whose meaning I found in the hum of thoughts about a man’s head.
 
-The captain shouted for a man named Barton, and the first mate hurried up, looking frightened. The captain pushed me back against the rail so that I staggered, seeing him and the deck and the watching daemons through the rainbows that tears cast before one’s eyes.
+The captain shouted for a man named Barton, and the first mate hurried up, looking frightened. The captain pushed me back against the rail so that I staggered, <a id="page293"></a>seeing him and the deck and the watching daemons through the rainbows that tears cast before one’s eyes.
 
 There was loud talk, and many gestures toward me and the other two men who had been shanghaied from the port of Rio. The first mate tapped his head when he pointed to me, and the captain cursed again in the tongue of the foreigners, so that his daemon smiled very sweetly at his shoulder.
 
 I think that was the first time I let the captain see pity on my face when I looked at him.
 
-That was the one thing he could not bear. He snatched a belaying pin from the rail and struck me in the face with it, so that I felt the teeth break in my mouth. The blood I spat upon the deck was a beautiful color, but it looked paler than water beside the color of the captain’s daemon. I remember all the daemons but the red one leaned a little forward when they saw blood running, snuffing up the smell and the brightness of it like incense. The red one did not even turn his blind face.	#
+That was the one thing he could not bear. He snatched a belaying pin from the rail and struck me in the face with it, so that I felt the teeth break in my mouth. The blood I spat upon the deck was a beautiful color, but it looked paler than water beside the color of the captain’s daemon. I remember all the daemons but the red one leaned a little forward when they saw blood running, snuffing up the smell and the brightness of it like incense. The red one did not even turn his blind face.
 
-The captain struck me again because I had soiled his deck. My first task aboard the Dancing Martha was to scrub up my own blood from the planking.
+The captain struck me again because I had soiled his deck. My first task aboard the *Dancing Martha* was to scrub up my own blood from the planking.
 
 Afterward they dragged me to the galley and threw me into the narrow alley at the cook’s feet. I burned my hands on the stove. The captain laughed to see me jump back from it. It is a terrible thing that, though I heard his laughter many times a day, I never heard mirth in it. But there was mirth on his daemon’s face.
 
-Pain was with me for many days thereafter, because of the beating and the burns, but I was glad in a way. Pain kept my mind from the loneliness I had just discovered in myself. Those were bad days, padre. The worst days of my life. Afterward, when I was no longer fonely, I looked back upon them as a soul in paradise might look back on purgatory.
+Pain was with me for many days thereafter, because of the beating and the burns, but I was glad in a way. Pain kept my mind from the loneliness I had just discovered in myself. Those were bad days, *padre*. The worst days of my life. Afterward, when I was no longer fonely, I looked back upon them as a soul in paradise might look back on purgatory.
 
-No, I am still alone. Nothing follows me as things follow other men. But here on the island I found the nin-fas, and I was content.
+No, I am still alone. Nothing follows me as things follow other men. But here on the island I found the *ninfas*, and I was content.
 
-. 1 found them because of the Shaughnessy. I can understand him today in a way I could not do just then. He was a wise man and I am o Bobo, but I think I know some of his thoughts now, because today I, too, know I am going to die.
+. 1 found them because of the Shaughnessy. I can understand him today in a way I could not do just then. He was a wise man and I am *o Bobo*, but I think I know <a id="page294"></a>some of his thoughts now, because today I, too, know I am going to die.
 
-The Shaughnessy lived many days with death. I do not know how long. It was weeks and months in coming to him, though it lived in his lungs and his heart as a child lives within its mother, biding its time to be bom. The Shaughnessy was a passenger. He had much money, so that he could do what he willed with his last days of living. Also he came of a great family in a foreign land called Ireland. The captain hated him for many reasons. He scorned him because of his weakness, and he feared him because he was ill. Perhaps he envied him too, because his people had once been kings and because the Shaughnessy was not afraid to die. The captain, I know, feared death. He feared it most terribly. He was right to fear it. He could not know that a daemon rode upon his shoulder, smiling its sweet, secret smile, but some instinct must have warned him that it was there, biding its time like the death in the Shaughnessy’s lungs.
+The Shaughnessy lived many days with death. I do not know how long. It was weeks and months in coming to him, though it lived in his lungs and his heart as a child lives within its mother, biding its time to be born. The Shaughnessy was a passenger. He had much money, so that he could do what he willed with his last days of living. Also he came of a great family in a foreign land called Ireland. The captain hated him for many reasons. He scorned him because of his weakness, and he feared him because he was ill. Perhaps he envied him too, because his people had once been kings and because the Shaughnessy was not afraid to die. The captain, I know, feared death. He feared it most terribly. He was right to fear it. He could not know that a daemon rode upon his shoulder, smiling its sweet, secret smile, but some instinct must have warned him that it was there, biding its time like the death in the Shaughnessy’s lungs.
 
 I saw the captain die. I know he was right to fear the hour of his daemon. . . .
 
@@ -4277,7 +4287,7 @@ I worked hard, for no more wages than freedom from blows when I did well, and th
 
 It was the Shaughnessy who made my life worth the trouble of living. If it had not been for him, I might have surrendered life and gone into the breathing sea some night when no one was looking. It would not have been a sin for me, as it would be for a man with a souL
 
-But because of the Shaughnessy I did not. He had a strange sort of daemon himself, mother-of-pearl in the light, with gleams of darker colors when the shadows of night came on. He may have been a bad man in his day. I do not know. The presence of death in him opened his eyes, perhaps. I know only that to me he was very kind. His daemon grew brighter as the man himself grew weak with the oncoming of death.
+<a id="page295"></a>But because of the Shaughnessy I did not. He had a strange sort of daemon himself, mother-of-pearl in the light, with gleams of darker colors when the shadows of night came on. He may have been a bad man in his day. I do not know. The presence of death in him opened his eyes, perhaps. I know only that to me he was very kind. His daemon grew brighter as the man himself grew weak with the oncoming of death.
 
 He told me many tales. I have never seen the foreign country of Ireland, but I walked there often in my dreams because of the tales he told. The foreign isles called Greece grew clear to me too, because the Shaughnessy had dwelt there and loved them.
 
@@ -4287,9 +4297,10 @@ He told me of burning Sappho, and I knew why the poet used that word for her, an
 
 He told me of the nereids and the oceanids, and once I think I saw, far away in the sun-track that blinded my eyes, a mighty head rise dripping from the water, and heard the music of a wreathed horn as Triton called to [ his fish-tailed girls.
 
-The Dancing Martha stopped at Jamaica for a cargo I of sugar and rum. Then we struck out across the blue water toward a country called England. But our luck was bad. Nothing was right about the ship on that voyage. Our water-casks had not been cleaned as they should be, and the drinking water became foul. A man | can pick the maggots out of his salt pork if he must, but bad water is a thing he cannot mend.
+.space
+The *Dancing Martha* stopped at Jamaica for a cargo I of sugar and rum. Then we struck out across the blue water toward a country called England. But our luck was bad. Nothing was right about the ship on that voyage. Our water-casks had not been cleaned as they should be, and the drinking water became foul. A man can pick the maggots out of his salt pork if he must, but bad water is a thing he cannot mend.
 
-So the captain ordered our course changed for a little island he knew in these waters. It was too tiny to be inhabited, a rock rising out of the great blue deeps with a fresh spring bubbling high up in a cup of the forested crags.
+<a id="page296"></a>So the captain ordered our course changed for a little island he knew in these waters. It was too tiny to be inhabited, a rock rising out of the great blue deeps with a fresh spring bubbling high up in a cup of the forested crags.
 
 I saw it rising in the dawn like a green cloud on the horizon. Then it was a jewel of green as we drew nearer, floating on the blue water. And my heart was a bubble in my chest, shining with rainbow colors, lighter than the air around me. Part of my mind thought that the island was an isle in Rio Bay, and somehow I felt that I had come home again and would find my grandmother waiting on the shore. I forgot so much in those days. I forgot that she was dead. I thought we would circle the island and come in across the dancing Bay to the foot of the Rua d’Oporto, with the lovely city rising on its hills above the water.
 
@@ -4297,7 +4308,7 @@ I felt so sure of all this that I ran to tell the Shaughnessy of my delight in h
 
 I looked up at that beautiful, smiling face, so near that I could touch it and yet, I knew, farther away than the farthest star. I looked at it and screamed in terror. I had never been so near a daemon before, and I could feel its breath on my face, sweet-smelling, burning my skin with its scorching cold.
 
-The captain was white with his anger and his—his envy? Perhaps it was envy he felt even of me, o Bobo, for a man with a daemon like that one hanging on his shoulder may well envy the man without a soul. He hated me bitterly, because he knew I pitied him, and to receive the pity of o Bobo must be a very humbling thing. Also he knew that I could not look at him for more than a moment or two, because of the blinding color of his daemon. I think he did not know why I blinked and looked away, shuddering inside, whenever he crossed my path. But he knew it was not the angry fear which other men felt for him which made me avert my eyes. I think he sensed that because he was damned I could not gaze upon him long, and that too made him hate and fear and envy the lowliest man in his crew.
+The captain was white with his anger and his—his envy? Perhaps it was envy he felt even of me, *o Bobo,* for a man with a daemon like that one hanging on his shoulder may well envy the man without a soul. He hated me bitterly, because he knew I pitied him, and to receive the pity of *o Bobo* must be a very humbling thing. Also he knew that I could not look at him for more than a moment or two, because of the blinding color of his daemon. I think he did not know why I blinked and looked away, shuddering inside, whenever he crossed my path. But he knew it was not the angry fear which <a id="page297"></a>other men felt for him which made me avert my eyes. I think he sensed that because he was damned I could not gaze upon him long, and that too made him hate and fear and envy the lowliest man in his crew.
 
 All the color went out of his face as he looked at me, and the daemon above him flushed a deeper and lovelier scarlet, and the captain reached for a belaying pin with a hand that trembled. That which looked out of his eyes was not a man at all, but a daemon, and a daemon that quivered with joy as I was quivering with terror.
 
@@ -4315,35 +4326,32 @@ The Shaughnessy said, “When he comes back from the island, I’ll have it out 
 
 The Shaughnessy meant kindly, but I knew the captain was master upon the ship. And it still seemed to me that we were anchored in the bay of Rio and my grandmother awaited me on the shore.
 
-I sat up. Beyond the rail the high green island was
-
-bright, sunshine winking from the water all around it, and from the leaves that clothed its slopes. I knew what I was going to do.
+I sat up. Beyond the rail the high green island was <a id="page298"></a>bright, sunshine winking from the water all around it, and from the leaves that clothed its slopes. I knew what I was going to do.
 
 When the Shaughnessy went away for more water, I got to my feet. There was much pain in my head, and all my body ached from the captain’s blows, and the deck was reeling underfoot with a motion the waves could not give it. When I got to the rail, I fell across it before I could jump, and slid into the sea very quietly.
 
-I remember only flashes after that. Salt water burning me, and great waves lifting and falling all around me, and the breath hot in my lungs when the water did not bum even hotter there. Then there was sand under my knees, and I crawled up a little beach and I think I fell asleep in the shelter of a clump of palms.
+I remember only flashes after that. Salt water burning me, and great waves lifting and falling all around me, and the breath hot in my lungs when the water did not burn even hotter there. Then there was sand under my knees, and I crawled up a little beach and I think I fell asleep in the shelter of a clump of palms.
 
-Then I dreamed that it was dark, with stars hanging overhead almost near enough to touch, and so bright they burned my eyes. I dreamed I heard men calling me through the trees, and I did not answer. I dreamed I heard voices quarreling, the captain’s voice loud and angry, the Shaughnessy’s tight and thin. I dreamed of oarlocks creaking and water splashing from dipping blades, and the sound of it receding into the warmth and darkness.	-
+Then I dreamed that it was dark, with stars hanging overhead almost near enough to touch, and so bright they burned my eyes. I dreamed I heard men calling me through the trees, and I did not answer. I dreamed I heard voices quarreling, the captain’s voice loud and angry, the Shaughnessy’s tight and thin. I dreamed of oarlocks creaking and water splashing from dipping blades, and the sound of it receding into the warmth and darkness.
 
 I put up a hand to touch a star cluster that hung above my head, and the cluster was bright and tingling to feel. Then I saw that it was the Shaughnessy’s face.
 
-I said, “Oh, s’nhor,” in a whisper, because I remembered that the captain had spoken from very close by.
+I said, “Oh, *s’nhor*,” in a whisper, because I remembered that the captain had spoken from very close by.
 
 The Shaughnessy smiled at me in the starlight. “Don’t whisper, Luiz. We’re alone now.”
 
+.space
 I was happy on the island. The Shaughnessy was kind to me, and the days were long and bright, and the island itself was friendly. One knows that of a place. And I thought, in those days, that I would never see the captain again or his beautiful scarlet daemon smiling its blind, secret smile above his shoulder. He had left us to die upon the island, and one of us did die.
 
-The Shaughnessy said that another man might have
-
-perished of the blows the captain gave me. But I think because my brain is such a simple thing it mended easily, and perhaps the blow that made my skull crack let in a little more of wit than I had owned before. Or perhaps happiness did it, plenty of food to eat, and the Shaugh-nessy’s tales of the things that—that you do not believe, meu padre.
+The Shaughnessy said that another man might have <a id="page299"></a>perished of the blows the captain gave me. But I think because my brain is such a simple thing it mended easily, and perhaps the blow that made my skull crack let in a little more of wit than I had owned before. Or perhaps happiness did it, plenty of food to eat, and the Shaugh-nessy’s tales of the things that—that you do not believe, *meu padre*.
 
 The Shaughnessy grew weak as I grew strong. He lay all day in the shade of a broad tree by the shore, and as his strength failed him, his daemon grew brighter and more remote, as if it were already halfway through the veil of another world.
 
 When I was well again, the Shaughnessy showed me how to build a thatched lean-to that would withstand the rain.
 
-“There may be hurricanes, Luiz,” he said to me. “This barraca will be blown down. Will you remember how to build another?”
+“There may be hurricanes, Luiz,” he said to me. “This *barraca* will be blown down. Will you remember how to build another?”
 
-“Sim,” I said. “I shall remember. You will show me.”
+*“Sim,”* I said. “I shall remember. You will show me.”
 
 “No, Luiz. I shall not be here. You must remember.”
 
@@ -4351,13 +4359,13 @@ He told me many things, over and over again, very patiently. How to find the she
 
 I explored the island, coming back to tell him all I had found. At first I was sure that when I had crossed the high hills and stood upon their peaks I would see the beautiful slopes of Rio shining across the water. My heart sank when I stood for the first time upon the heights and saw only more ocean, empty, heaving between me and the horizon.
 
-But I soon forgot again, and Rio and the past faded from my mind. I found the pool cupped high in a hollow of the crags, where clear sweet water bubbled up in the shadow of the trees and the streamlet dropped away in a series of pools and falls toward the levels far below. I found groves of pale trees with leaves like streaming hair, rustling with the noise of the waterfall. I found no people here, and yet I felt always that there were watchers among the leaves, and it seemed to me that laughter sounded sometimes behind me, smothered when I turned my head.
+But I soon forgot again, and Rio and the past faded from my mind. I found the pool cupped high in a hollow of the crags, where clear sweet water bubbled up in the shadow of the trees and the streamlet dropped away in a series of pools and falls toward the levels far below. I found groves of pale trees with leaves like streaming hair, rustling with the noise of the waterfall. I found no people here, and yet I felt always that there were watchers among the leaves, and it seemed to me that laughter <a id="page300"></a>sounded sometimes behind me, smothered when I turned my head.
 
 When I told the Shaughnessy this he smiled at me.
 
 “I’ve told you too many tales,” he said. “But if anyone could see them, I think it would be you, Luiz.”
 
-“Sim, s’nhor ” I said. “Tell me again of the forest-women. Could they be here, do you think, s’nhor?”
+*“Sim, s’nhor,”* I said. “Tell me again of the forest-women. Could they be here, do you think, *s’nhor?*”
 
 He let sand trickle through his fingers, watching it as if the fall of sand had some meaning to his mind that I could not fathom.
 
@@ -4367,49 +4375,48 @@ He let sand trickle through his fingers, watching it as if the fall of sand had 
 
 I looked hard at him to see if he meant what he said, but he shook his head and smiled again. “I think they haven’t come for me. Maybe for you, Luiz. Belief is what they want. If you believe, perhaps you’ll really see them. I’d be the last man to deny a thing like that. You’ll need something like them to keep you company, my friend—afterward.” And he trickled sand through his fingers again, watching it fall with a look upon his face I did not understand.
 
-The night came swiftly on that island. It was a lovely place. The Shaughnessy said islands have a magic all their own, for they are the place where earth and ocean meet. We used to lie on the shore watching the fire that burned upon the edges of the waves lap up the beach and breathe away again, and the Shaughnessy told me many tales. His voice was growing weaker, and he did not trouble so much any more to test my memory for the lessons he had taught. But he spoke of ancient magic, and more and more in these last days, his mind turned back to the wonders of the country called Ireland.
+The night came swiftly on that island. It was a lovely place. The Shaughnessy said islands have a magic all their own, for they are the place where earth and ocean meet. We used to lie on the shore watching the fire that burned upon the edges of the waves lap up the beach and breathe away again, and the Shaughnessy told me many tales. His voice was growing weaker, and he did not trouble so much any more to test my memory for the lessons he had taught. But he spoke of ancient <a id="page301"></a>magic, and more and more in these last days, his mind turned back to the wonders of the country called Ireland.
 
-He told me of the little green people with their lanterns low down among the ferns. He told me of the unicdmio, swift as the swiftest bird, a magical stag with one horn upon its forehead as long as the shaft of a spear and as sharp as whatever is sharpest. And he told me of Pan, goat-footed, moving through the woodland with laughter running brfore him and panic behind, the same panic terror which my language and the Shaughnessy’s get from his name. Panico, we Brazilians call it.
+He told me of the little green people with their lanterns low down among the ferns. He told me of the *unicórnio*, swift as the swiftest bird, a magical stag with one horn upon its forehead as long as the shaft of a spear and as sharp as whatever is sharpest. And he told me of Pan, goat-footed, moving through the woodland with laughter running before him and panic behind, the same panic terror which my language and the Shaughnessy’s get from his name. *Pânico*, we Brazilians call it.
 
 One evening he called to me and held up a wooden cross. “Luiz, look at this,” he said. I saw that upon the arms of the cross he had made deep carvings with his knife. “This is my name,” he told me. “If anyone ever comes here asking for me, you must show them this cross.”
 
-I looked at it closely. I knew what he meant about the name—it is that sort of enchantment in which markings can speak with a voice too tiny for the ears to hear. I am o Bobo and I never learned to read, so that I do not understand how this may be done.
+I looked at it closely. I knew what he meant about the name—it is that sort of enchantment in which markings can speak with a voice too tiny for the ears to hear. I am *o Bobo* and I never learned to read, so that I do not understand how this may be done.
 
-“Some day,” the Shaughnessy went on, “I think someone will come. My people at home may not be satisfied with whatever story Captain Stryker invents for them. Or a drunken sailor may talk. If they do find this island, Luiz, I want this cross above my grave to tell them who I was. And for another reason,” he said thoughtfully. “For another reason too. But that need not worry you, meu amigo”
+“Some day,” the Shaughnessy went on, “I think someone will come. My people at home may not be satisfied with whatever story Captain Stryker invents for them. Or a drunken sailor may talk. If they do find this island, Luiz, I want this cross above my grave to tell them who I was. And for another reason,” he said thoughtfully. “For another reason too. But that need not worry you, *meu amigo.*”
 
 He told me where to dig the bed for him. He did not tell me to put in the leaves and the flowers. I thought of that myself, three days later, when the time came. . . .
 
 Because he had wished it, I put him in the earth. I did not like doing it. But in a way I feared not to carry out his commands, for the daemon of the Shaughnessy still hovered about him, very bright, very bright—so bright I could not look it in the face. I thought there was music coming from it, but I could not be sure.
 
-I put the flowers over him and then the earth. There was more to go back in the grave than I had taken out, so I made a mound above him, as long as the Shaugh-nessy was long, and I drove in the stake of the wooden cross, above where his head was, as he had told me. Then for a moment I laid my ear to the markings to see if I could hear what they were saying, for it seemed to me that the sound of his name, whispered to me by the marks his hands had made, would lighten my loneliness a little. But I heard nothing.
+I put the flowers over him and then the earth. There was more to go back in the grave than I had taken out, <a id="page302"></a>so I made a mound above him, as long as the Shaughnessy was long, and I drove in the stake of the wooden cross, above where his head was, as he had told me. Then for a moment I laid my ear to the markings to see if I could hear what they were saying, for it seemed to me that the sound of his name, whispered to me by the marks his hands had made, would lighten my loneliness a little. But I heard nothing.
 
 When I looked up, I saw his daemon glow like the sun at noon, a light so bright I could not bear it upon my eyes. I put my hands before them. When I took them down again, there was no daemon.
 
-You will not believe me when I tell you this, padre, but in that moment the—the feel of the island changed. All the leaves, I think, turned the other way on the trees, once, with a rustle like one vast syllable whispered for that time only, and never again.
+.space
+You will not believe me when I tell you this, *padre,* but in that moment the—the feel of the island changed. All the leaves, I think, turned the other way on the trees, once, with a rustle like one vast syllable whispered for that time only, and never again.
 
 I think I know what the syllable was. Perhaps I will tell you, later—if you let me.
 
 And the island breathed. It was like a man who has held his breath for a long while, in fear or pain, and let it run out deeply when the fear or the pain departed.
 
-I did not know, then, what it was. But I thought I would go up the steep rocks to the pool, because I wanted a place that would not remind me of the Shaughnes-sy. So I climbed the crags among the hanging trees. And it seemed to me that I heard laughter when the wind rustled among them. Once I saw what I thought must be a ninja, brown and green in the forest. But she was too shy. I turned my head, and the brown and green stilled into the bark and foliage of the tree.
+I did not know, then, what it was. But I thought I would go up the steep rocks to the pool, because I wanted a place that would not remind me of the Shaughnessy. So I climbed the crags among the hanging trees. And it seemed to me that I heard laughter when the wind rustled among them. Once I saw what I thought must be a *ninfa,* brown and green in the forest. But she was too shy. I turned my head, and the brown and green stilled into the bark and foliage of the tree.
 
-When I came to the pool, the unicorn was drinking. He was very beautiful, whiter than foam, whiter than a cloud, and his mane lay upon his great shoulders like spray upon the shoulder of a wave. The tip of his long, spiraled horn just touched the water as he drank, so that the ripples ran outward in circles all around it. He tossed his head when he scented me, and I saw the glittering diamonds of the water sparkling from his velvet muzzle. He had eyes as green as a pool with leaves re-
-
-fleeting in it, and a spot of bright gold in the center of each eye.	.
+When I came to the pool, the unicorn was drinking. He was very beautiful, whiter than foam, whiter than a cloud, and his mane lay upon his great shoulders like spray upon the shoulder of a wave. The tip of his long, spiraled horn just touched the water as he drank, so that the ripples ran outward in circles all around it. He tossed his head when he scented me, and I saw the glittering diamonds of the water sparkling from his velvet muzzle. He had eyes as green as a pool with leaves <a id="page303"></a>reflecting in it, and a spot of bright gold in the center of each eye.
 
 Very slowly, with the greatest stateliness, he turned from the water and moved away into the forest. I know I heard a singing where he disappeared.
 
-I was still o Bobo then. I drank where he had drunk, thinking there was a strange, sweet taste to the water now, and then I went down to the barraca on the beach, for I had forgotten already and thought perhaps the Shaughnessy might be there. . . .
+I was still *o Bobo* then. I drank where he had drunk, thinking there was a strange, sweet taste to the water now, and then I went down to the *barraca* on the beach, for I had forgotten already and thought perhaps the Shaughnessy might be there. . . .
 
 Night came, and I slept. Dawn came, and I woke again. I bathed in the ocean. I gathered shellfish and fruit, and drank of the little stream that fell from the mountain pool. And as I leaned to drink, two white dripping arms rose up to clasp my neck, and a mouth as wet and cold as the water pressed mine. It was the kiss of acceptance.
 
-After that the ninfas of the island no longer hid their faces from me.
+After that the *ninfas* of the island no longer hid their faces from me.
 
-My hair and beard grew long. My garments tore upon the bushes and became the rags you see now. I did not care. It did not matter. It was not my face they saw. They saw my simpleness. And I was one with the ninfas and the others.
+My hair and beard grew long. My garments tore upon the bushes and became the rags you see now. I did not care. It did not matter. It was not my face they saw. They saw my simpleness. And I was one with the *ninfas* and the others.
 
 The oread of the mountain came out to me often, beside the pool where the unicorn came to drink. She was wise and strange, being immortal. The eyes slanted upward in her head, and her hair was a shower of green leaves blowing always backward in a wind that moved about her when no other breezes blew. She used to sit beside the pool in the hot, still afternoons, the unicorn lying beside her and her brown fingers combing out his silver mane. Her wise slanting eyes, the color of shadows in the forest, and his round green eyes the color of the pool, with the flecks of gold in each, used to watch me as we talked.
 
-The oread told me many things. Many things I could never tell you, padre. But it was as the Shaughnessy had guessed. Because I believed, they were glad of my presence there. While the Shaughnessy lived, they could not come out into the plane of being, but they watched from the other side. . . . They had been afraid. But they were afraid no longer.
+The oread told me many things. Many things I could never tell you, *padre*. But it was as the Shaughnessy had guessed. Because I believed, they were glad of my presence there. While the Shaughnessy lived, they could not come out into the plane of being, but they watched from <a id="page304"></a>the other side. . . . They had been afraid. But they were afraid no longer.
 
 For many years they have been homeless now, blowing about the world in search of some spot of land where no disbelief dwells, and where one other thing has not taken footing. . . . They told me of the isles of Greece, with love and longing upon their tongues, and it seemed to me that I heard the Shaughnessy speak again in their words.
 
@@ -4425,85 +4432,76 @@ I asked about the banishment, and they said that it had happened long ago, very 
 
 The skies opened and there was singing in the heavens, and after that the gods of Greece had to flee. They have been fleeing ever since.
 
-They were glad I had come to join them. And I was doubly glad. For the first time since my grandmother died, I knew I was not alone. Even the Shaughnessy had not been as close to me as these ninfas were. For the Shaughnessy had a daemon. The ninfas are immortal, but they have no souls. That, I think, is why they welcomed me so warmly. We without souls are glad of companionship among others of our kind. There is a lone-
+They were glad I had come to join them. And I was doubly glad. For the first time since my grandmother died, I knew I was not alone. Even the Shaughnessy had not been as close to me as these *ninfas* were. For the Shaughnessy had a daemon. The *ninfas* are immortal, but they have no souls. That, I think, is why they welcomed me so warmly. We without souls are glad of companionship among others of our kind. There is a <a id="page305"></a>loneliness among our kind that can only be assuaged by huddling together. The ninjas knew it, who must live forever, and I shared it with them, who may die before this night is over.
 
-liness among our kind that can only be assuaged by huddling together. The ninjas knew it, who must live forever, and I shared it with them, who may die before this night is over.
+Well, it was good to live upon the island. The days and the months went by beautifully, full of clear colors and the smell of the sea and the stars at night as bright as lanterns just above us. I even grew less *Bobo*, because the *ninfas* spoke wisdom of a kind I never heard among men. They were good months.
 
-Well, it was good to live upon the island. The days and the months went by beautifully, full of clear colors and the smell of the sea and the stars at night as bright as lanterns just above us. I even grew less Bobo, because the ninjas spoke wisdom of a kind I never heard among men. They were good months.
+And then, one day, Jonah Stryker came back to the island.
 
-And then, one day, Jonah Stryker came back to the
+.space
+You know, *padre*, why he came. The Shaughnessy in his wisdom had guessed that in Ireland men of the Shaughnessy’s family might ask questions of Captain Stryker—questions the captain could not answer. But it had not been guessed that the captain might return to the island, swiftly, before the Shaughnessy’s people could discover the truth, with the thought in his evil mind of wiping out all traces of the two he had left to die.
 
-island.
+I was sitting on the shore that day, listening to the songs of two *ninfas* of the nereid kind as they lay in the edge of the surf, with the waves breaking over them when the water lapped up the slopes of sand They were swaying their beautiful rainbow colored fish-bodies as they sang, and I heard the whisper of the surf in their voices, and the long rhythms of the undersea.
 
-You know, padre, why he came. The Shaughnessy in his wisdom had guessed that in Ireland men of the Shaughnessy’s family might ask questions of Captain Stryker—questions the captain could not answer. But it had not been guessed that the captain might return to the island, swiftly, before the Shaughnessy’s people could discover the truth, with the thought m his evil mind of wiping out all traces of the two he had left to (ll&
+But suddenly there came a break in their song, and I saw upon one face before me, and then the other, a look of terror come. The green blood in their veins sank back With fear, and they looked at me, white with pallor and strangely transparent, as if they had halfway ceased to be. With one motion they turned then heads and stared out to sea.
 
-I was sitting on the shore that day, listening to the songs of two ninjas of the nereid kind as they lay in the edge of the surf, with the waves breaking over them when the water lapped up the slopes of sand They were swaying their beautiful rainbow colored fish-bodies as they sang, and I heard the whisper of the surf in their voices, and the long rhythms of the undersea.
+I stared too. I think the first thing I saw was that flash of burning crimson, far out over the waves. And my heart quivered within me like a dog that fears the whip. I knew that beautiful, terrible color too well.
 
-But suddenly there came a break in their song, and 1 saw upon one face before me, and then the other, a look of terror come. The green blood in their veins sank back With fear, and they looked at me, white with pallor and strangely transparent, as if they had halfway ceased to be. With one motion they turned then heads and stared
+It was only then that I saw the *Dancing Martha*, lying <a id="page306"></a>at anchor beyond a ridge of rock. Between the ship and the shore a small boat rocked upon the waves, light flashing from oar-blades as the one man in the boat bent and rose and bent to his work. Above him, hanging like a crimson cloud, the terrible scarlet glowed.
 
-out to sea.	,	.,. -l
-
-I stared too. I think the first thing I saw was that flash
-
-of burning crimson, far out over the waves. And my heart quivered within me like a dog that fears the whip.
-
-I knew that beautiful, terrible color too well.
-
-It was only then that I saw the Dancing Martha, lying at anchor beyond a ridge of rock. Between the ship and the shore a small boat rocked upon the waves, light flashing from oar-blades as the one man in the boat bent and rose and bent to his work. Above him, hanging like a crimson cloud, the terrible scarlet glowed.
-
-When I looked back, the ninfas had vanished. Whether they slid back into the sea, or whether they melted away into nothingness before me I shall never know now. I did not see them again.
+When I looked back, the *ninfas* had vanished. Whether they slid back into the sea, or whether they melted away into nothingness before me I shall never know now. I did not see them again.
 
 I went back a little way into the forest, and watched from among the trees. No dryads spoke to me, but I could hear their quick breathing and the leaves trembled all about me. I could not look at the scarlet daemon coming nearer and nearer over the blue water, but I could not look away long, either. It was so beautiful and so evil.
 
-The captain was alone in the boat. I was not quite so Bobo then and I understood why. He beached the boat and climbed up the slope of sand, the daemon swaying behind him like a crimson shadow. I could see its blind eyes and the beautiful, quiet face shut up with bliss because of the thing the captain had come to do. He was carrying in his hand a long shining pistol, and he walked carefully, looking’to left and right. His face was anxious, and his mouth had grown more cruel in the months since I saw him last
+The captain was alone in the boat. I was not quite so *Bobo* then and I understood why. He beached the boat and climbed up the slope of sand, the daemon swaying behind him like a crimson shadow. I could see its blind eyes and the beautiful, quiet face shut up with bliss because of the thing the captain had come to do. He was carrying in his hand a long shining pistol, and he walked carefully, looking’to left and right. His face was anxious, and his mouth had grown more cruel in the months since I saw him last
 
 I was sorry for him, but I was very frightened, too. I knew he meant to kill whomever he found alive upon the island, so that no tongue could tell the Shaughnessy’s people of his wicked deed.
 
-He found my thatched barraca at the edge of the shore, and kicked it to pieces with his heavy7 boots. Then he went on until he saw the long mound above the Shaughnessy’s bed, with the cross standing where his head lay. He bent over the cross, and the markings upon it spoke to him as they would never speak to me. I heard nothing, but he heard and knew. He put out his hand and pulled up the cross from the Shaughnessy’s grave.
+He found my thatched *barraca* at the edge of the shore, and kicked it to pieces with his heavy boots. Then he went on until he saw the long mound above the Shaughnessy’s bed, with the cross standing where his head lay. He bent over the cross, and the markings upon it spoke to him as they would never speak to me. I heard nothing, but he heard and knew. He put out his hand and pulled up the cross from the Shaughnessy’s grave.
 
-Then he went to the ruins of my barraca and to the embers of the fire I kept smouldering there. He broke the cross upon his knee and fed the pieces into the hot
+Then he went to the ruins of my barraca and to the embers of the fire I kept smouldering there. He broke the cross upon his knee and fed the pieces into the hot <a id="page307"></a>coals. The wood was dry. I saw it catch flame and burn.
 
-coals. The wood was dry. I saw it catch flame and bum.
+I saw, too, the faint stirring of wind that sprang up with the flames, and I heard the sighing that ran through the trees around me. Now there was nothing here to tell the searchers who might come afterward that the Shaughnessy lay in the island earth. Nothing—except myself.
 
-I saw, too, the faint stirring of wind that sprang up with the flames, and I heard the sighing that ran through the trees around me. Now there was nothing here to tell the searchers who might come afterward that the Shaugh-nessy lay in the island earth. Nothing—except myself.
-
-He saw my footprints around the ruined barraca. He stooped to look. When he rose again and peered around the shore and forest, I could see his eyes shine, and it was the daemon who looked out of them, not the man.
+He saw my footprints around the ruined *barraca*. He stooped to look. When he rose again and peered around the shore and forest, I could see his eyes shine, and it was the daemon who looked out of them, not the man.
 
 Following my tracks, he began to move slowly toward the forest where I was hiding.
 
-Then I was very frightened. I rose and fled through the trees, and I heard the diyads whimpering about me as I ran. They drew back their boughs to let me pass and swept them back after me to bar the way. I ran and ran, upward among the rocks, until I came to the pool of the unicorn, and the oread of the mountain stood there waiting for me, her arm across the unicorn’s neck.
+Then I was very frightened. I rose and fled through the trees, and I heard the dryads whimpering about me as I ran. They drew back their boughs to let me pass and swept them back after me to bar the way. I ran and ran, upward among the rocks, until I came to the pool of the unicorn, and the oread of the mountain stood there waiting for me, her arm across the unicorn’s neck.
 
 There was a rising wind upon the island. The leaves threshed and talked among themselves, and the oread’s leafy hair blew backward from her face with its wise slanting eyes. The unicorn’s silver mane tossed in that wind and the water ruffled in the pool.
 
 “There is trouble coming, Luiz,” the oread told me.
 
-“The daemon. I know.” I nodded to her, and then blinked, because it seemed to me that she and the um-com, like the sea-ninjas, were growing so pale I could see the trees behind them through their bodies. But perhaps that was because the scarlet of the daemon had hurt my eyes.
+“The daemon. I know.” I nodded to her, and then blinked, because it seemed to me that she and the unicorn, like the sea-*ninfas*, were growing so pale I could see the trees behind them through their bodies. But perhaps that was because the scarlet of the daemon had hurt my eyes.
 
 “There is a man with a soul again upon our island, the oread said. “A man who does not believe. Perhaps we will have to go, Luiz.”
 
-“The Shaughnessy had a daemon too, ’ I told her. “Yet you were here before his daemon left him to the earth. Why must you go now?”	,
+“The Shaughnessy had a daemon too,’ I told her. “Yet you were here before his daemon left him to the earth. Why must you go now?”
 
-“His was a good daemon. Even so, we were not fully here while he lived. You must remember, Luiz, that hour I told you of when a star stood above a stable where a child lay, and all our power went from us. where the souls of men dwell, we cannot stay. This new man has brought a very evil soul with him. It frightens us. Yet since he had burned the cross, perhaps the Master can fight. . . .”
+“His was a good daemon. Even so, we were not fully here while he lived. You must remember, Luiz, that hour I told you of when a star stood above a stable where a child lay, and all our power went from us, where the souls of men dwell, we cannot stay. This new <a id="page308"></a>man has brought a very evil soul with him. It frightens us. Yet since he had burned the cross, perhaps the Master can fight. . . .”
 
 “The Master?” I asked.
 
-“The One we serve. The One you serve, Luiz. The One I think the Shaughnessy served, though he did not know it. The Lord of the opened eyes and the far places. He could not come until the Sign was taken down. Once you had a glimpse of him, when the Sign fell by accident from the grave, but perhaps you have forgotten that.” “I have not forgotten. I am not so Bobo now.”
+“The One we serve. The One you serve, Luiz. The One I think the Shaughnessy served, though he did not know it. The Lord of the opened eyes and the far places. He could not come until the Sign was taken down. Once you had a glimpse of him, when the Sign fell by accident from the grave, but perhaps you have forgotten that.”
+
+“I have not forgotten. I am not so *Bobo* now.”
 
 She smiled at me, and I could see the tree behind her through the smile.
 
 “Then perhaps you can help the Master when the time comes. We cannot help. We are too weak already, because of the presence of the unbeliever, the man with the daemon. See?” She touched my hand, and I felt not the firm, soft brush of fingers but only a coolness like mist blowing across my skin.
 
-“Perhaps the Master can fight him,” the oread said, and her voice was very faint, like a voice from far away, though she spoke from so near to me. “I do not know about that. We must go, Luiz. We may not meet again. Good-by,^ caro bobo, while I can still say good-by. . . .” The last of it was faint as the hushing of the leaves, and the oread and the unicorn together looked like smoke blowing from a campfire across the glade.
+“Perhaps the Master can fight him,” the oread said, and her voice was very faint, like a voice from far away, though she spoke from so near to me. “I do not know about that. We must go, Luiz. We may not meet again. Good-by, *caro bobo,* while I can still say good-by. . . .” The last of it was faint as the hushing of the leaves, and the oread and the unicorn together looked like smoke blowing from a campfire across the glade.
 
 The knowledge of my loneliness came over me then more painfully than I had felt it since that hour when I first looked upon the captain’s daemon and knew at last what my own sorrow was. But I had no time to grieve, for there was a sudden frightened whispering among the leaves behind me, and then the crackle of feet in boots, and then a flicker of terrible crimson among the trees.
 
-I ran. I did not know where I ran. I heard the dryads crying, so it must have been among trees. But at last I came^out upon the shore again and I saw the Shaughnessy s long grave without a cross above it. And I stopped short, and a thrill of terror went through me. For there was a Something that crouched upon the grave.
+I ran. I did not know where I ran. I heard the dryads crying, so it must have been among trees. But at last I came out upon the shore again and I saw the Shaughnessy’s long grave without a cross above it. And I stopped short, and a thrill of terror went through me. For there was a Something that crouched upon the grave.
 
-The fear in me then was a new thing. A monstrous, dim fear that moves like a cloud about the Master. I knew he meant me no harm, but the fear was heavy upon me, making my head spin with panic. Panico. . . .
+<a id="page309"></a>The fear in me then was a new thing. A monstrous, dim fear that moves like a cloud about the Master. I knew he meant me no harm, but the fear was heavy upon me, making my head spin with panic. *Pânico*. . . .
 
 The Master rose upon the grave, and he stamped his goat-hoofed foot twice and set the pipes to his bearded lips. I heard a thin, strange wailing music that made the blood chill inside me. And at the first sound of it there came again what I had heard once before upon the island.
 
-The leaves upon all the trees turned over once, with a great single whispering of one syllable. The syllable was the Master’s name. I fled from it in the panico all men have felt who hear that name pronounced. I fled to the edge of the beach, and I could flee no farther. So I crouched behind a hillock of rock on the wet sand, and watched what came after me from the trees.
+The leaves upon all the trees turned over once, with a great single whispering of one syllable. The syllable was the Master’s name. I fled from it in the *pânico* all men have felt who hear that name pronounced. I fled to the edge of the beach, and I could flee no farther. So I crouched behind a hillock of rock on the wet sand, and watched what came after me from the trees.
 
 It was the captain, with his daemon swaying like smoke above his head. He carried the long pistol ready, and his eyes moved from left to right along the beach, seeking like a wild beast for his quarry.
 
@@ -4517,13 +4515,13 @@ He heard me. He tossed his homed head and his bulk was solid again. He set the p
 
 Captain Stryker whirled when he heard me. The long pistol swung up and there was a flash and a roar, and something went by me with a whine of anger. It did not touch me.
 
-Then the music of the pipes began. A terrible music, thin and high, like the ringing in the ears that has no source. It seized the captain as if with thin, strong fingers, making him turn back to the sound. He stood rigid again, staring, straining. The daemon above him turned uneasily from side to side, like a snake swaying.
+Then the music of the pipes began. A terrible music, thin and high, like the ringing in the ears that has no source. It seized the captain as if with thin, strong fingers, making him turn back to the sound. He stood rigid <a id="page310"></a>again, staring, straining. The daemon above him turned uneasily from side to side, like a snake swaying.
 
 Then Captain Stryker ran. I saw the sand fly up from under his boots as he fled southward along the shore. His daemon went after him, a red shadow with its eyes still closed, and after them both went Pan, moving delicately on the goathoofs, the pipes to his lips and his horns shining golden in the sun.
 
 And that midday terror I think was greater than any terror that can stalk a man by dark.
 
-I waited beside my rock. The sea was empty behind me except for the Dancing Martha waiting the captain’s orders at its anchor. But no ninfas came in on the foam to keep me company; no heads rose wreathed with seaweed out of the water. The sea was empty and the island was empty too, except for a man and a daemon and the Piper who followed at their heels.
+I waited beside my rock. The sea was empty behind me except for the *Dancing Martha* waiting the captain’s orders at its anchor. But no *ninfas* came in on the foam to keep me company; no heads rose wreathed with seaweed out of the water. The sea was empty and the island was empty too, except for a man and a daemon and the Piper who followed at their heels.
 
 Myself I do not count. I have no soul.
 
@@ -4533,9 +4531,9 @@ I saw the captain’s face when he came back in the twilight. It was an old man�
 
 I think the captain did not know that he had come back to his starting place. By that time, all places must have looked alike to him. He came wavering toward me blindly. I rose up behind my rock.
 
-When he saw me he lifted the pistol again and gasped some Yankee words. He was a strong man, Captain Stryker. With all he had endured in that long chase, he still had the power to remember he must kill me.’ I did not think he had reloaded the pistol, and I stood up facing him across the sand.
+When he saw me he lifted the pistol again and gasped some Yankee words. He was a strong man, Captain Stryker. With all he had endured in that long chase, he still had the power to remember he must kill me. I did not think he had reloaded the pistol, and I stood up facing him across the sand.
 
-Behind him Pan’s pipes shrilled a warning, but the Master did not draw nearer to come between us. The red daemon swayed at the captain’s back, and I knew why Pan did not come to my aid. Those who lost their power when the Child was bom can never lay hands upon men who possess a soul. Even a soul as evil as the captain’s stood like a rock between him and the touch of Pan. Only the pipes could reach a human’s ears, but there was that in the sound of the pipes which did all Pan needed to do.
+Behind him Pan’s pipes shrilled a warning, but the Master did not draw nearer to come between us. The red daemon swayed at the captain’s back, and I knew <a id="page311"></a>why Pan did not come to my aid. Those who lost their power when the Child was born can never lay hands upon men who possess a soul. Even a soul as evil as the captain’s stood like a rock between him and the touch of Pan. Only the pipes could reach a human’s ears, but there was that in the sound of the pipes which did all Pan needed to do.
 
 It could not save me. I heard the captain laugh, without breath, a strange, hoarse sound, and I saw the lightning dazzle from the pistol’s mouth. The crash it made was like a blow that struck me here, in the chest. I almost fell. That blow was heavy, but I scarcely noticed it then. There was too much to do.
 
@@ -4547,7 +4545,7 @@ I was not very clear in my head just then. I struck the daemon with my blow, but
 
 For a moment there was no sound in all the island. Even the waves kept their peace. The captain shuddered and gave one sigh, like that of a man who comes back to living reluctantly. He got his hands beneath him and rose upon them, peering at me through the hair that had fallen across his forehead. He was snarling like an animal.
 
-I do not know what he intended then. I think he would have fought me until one of us was dead. But above him just then I saw the daemon stir. It was the first time I had ever seen it move except in answer to the captain’s motion. All his life it had followed him, blind, silent, a shadow that echoed his gait and gestures. Now for the first time it did not obey him.
+I do not know what he intended then. I think he would have fought me until one of us was dead. But above him just then I saw the daemon stir. It was the <a id="page312"></a>first time I had ever seen it move except in answer to the captain’s motion. All his life it had followed him, blind, silent, a shadow that echoed his gait and gestures. Now for the first time it did not obey him.
 
 Now it rose up to a great, shining height above his head, and its color was suddenly very deep, very bright and deep, a blinding thing that hung above him too hot in color to look at. Over the beautiful blind face a look of triumph came. I saw ecstasy dawn over that face in all its glory and its evil.
 
@@ -4567,11 +4565,9 @@ The captain sprang to his feet with a howl like a beast’s howl, no mind or sou
 
 No flesh could oppose it. This was its hour. What sets that hour I do not know, but the daemon knew, and nothing could stop it now.
 
-I saw the flaming thing descend upon the captain like a falling star. Through his defending arms it swept, and
+I saw the flaming thing descend upon the captain like a falling star. Through his defending arms it swept, and <a id="page313"></a>through his flesh and his bones and into the hollows where the soul dwells.
 
-through his flesh and his bones and into the hollows where the soul dwells.
-
-‘ He stood for an instant transfixed, motionless, glowing with that bath of crimson light. Then I saw the crimson begin to shine through him, so that the shadows of his bones stood out upon the skin. And then fire shot up, wreathing from his eyes and mouth and nostrils. He was a lantern of flesh for that fire of the burning spirit. But he was a lantern that is consumed by the flame it carries. . . .
+He stood for an instant transfixed, motionless, glowing with that bath of crimson light. Then I saw the crimson begin to shine *through* him, so that the shadows of his bones stood out upon the skin. And then fire shot up, wreathing from his eyes and mouth and nostrils. He was a lantern of flesh for that fire of the burning spirit. But he was a lantern that is consumed by the flame it carries. . . .
 
 When the color became too bright for the eyes to bear it, I tried to turn away. I could not. The pain in my chest was too great. I thought of the Shaughnessy in that moment, who knew, too, what pain in the chest was like. I think that was the first moment when it came to me that, like the Shaughnessy, I too was going to die.
 
@@ -4581,59 +4577,21 @@ But at last the whine began to die. Then the laughter roared out in one great pe
 
 When I could see again, the captain’s body lay flat upon the sand. I know death when I see it. He was not burned at all. He looked as any dead man looks, flat and silent. It was his soul I had watched burning, not his body.
 
-The daemon had gone back again to its own place. I ‘ mew that, for I could feel my aloneness on the island.
+The daemon had gone back again to its own place. I knew that, for I could feel my aloneness on the island.
 
-The Others had gone too. The presence of that fiery daemon was more, in the end, than their power could endure. Perhaps they shim an evil soul more fearfully Jian a good one, knowing themselves nothing of good and evil, but fearing what they do not understand.
+The Others had gone too. The presence of that fiery daemon was more, in the end, than their power could endure. Perhaps they shun an evil soul more fearfully than a good one, knowing themselves nothing of good and evil, but fearing what they do not understand.
 
-first time I had ever seen it move except in answer to the captain’s motion. All his life it had followed him, blind, silent, a shadow that echoed his gait and gestures. Now for the first time it did not obey him.
-
-Now it rose up to a great, shining height above his head, and its color was suddenly very deep, very bright and deep, a blinding thing that hung above him too hot in color to look at. Over the beautiful blind face a look of triumph came. I saw ecstasy dawn over that face in all its glory and its evil.
-
-I knew that this was the hour of the daemon.
-
-Some knowledge deeper than any wisdom warned me to cover my eyes. For I saw its lids flicker, and I knew it would not be good to watch when that terrible gaze looked out at last upon a world it had never seen except through the captain’s eyes.
-
-I fell to my knees and covered my face. And the captain, seeing that, must have known at long last what it was I saw behind him. I think now that in the hour of a man’s death, he knows. I think in that last moment he knows, and turns, and for the first time and the last, looks his daemon in the face.
-
-I did not see him do it. I did not see anything. But I heard a great, resonant cry, like the mighty music that beats through paradise, a cry full of triumph and thanksgiving, and joy at the end of a long, long, weary road. There was mirth in it, and beauty, and all the evil the mind can compass.
-
-Then fire glowed through my fingers and through my eyelids and into my brain. I could not shut it out. I did not even need to lift my head to see, for that sight would have blazed through my very bones.
-
-I saw the daemon fall upon its master.
-
-The captain sprang to his feet with a howl like a beast’s howl, no mind or soul in it. He threw back his head and his arms went up to beat that swooping, beautiful, crimson thing away.
-
-No flesh could oppose it. This was its hour. What sets that hour I do not know, but the daemon knew, and nothing could stop it now.
-
-I saw the flaming thing descend upon the captain like a falling star. Through his defending arms it swept, and
-
-: through his flesh and his bones and into the hollows ! where the soul dwells.
-
-He stood for an instant transfixed, motionless, glowing with that bath of crimson light. Then I saw the crimson begin to shine through him, so that the shadows of his bones stood out upon the skin. And then fire shot up, wreathing from his eyes and mouth and nostrils. He was a lantern of flesh for that fire of the burning spirit. But he was a lantern that is consumed by the flame it carries. . . .
-
-When the color became too bright for the eyes to bear it, I tried to turn away. I could not. The pain in my chest was too great. I thought of the Shaughnessy in that moment, who knew, too, what pain in the chest was like. I think that was the first moment when it came to me that, like the Shaughnessy, I too was going to die.
-
-Before my eyes, the captain burned in the fire of his daemon, burned and burned, his living eyes looking out at me through the crimson glory, and the laughter of the daemon very sweet above the sound of the whining flame. I could not watch and I could not turn away.
-
-But at last the whine began to die. Then the laughter roared out in one great peal of triumph, and the beautiful crimson color, so dreadfully more crimson than blood, flared in a great burst of light that turned to blackness against my eyeballs.
-
-When I could see again, the captain’s body lay flat upon the sand. I know death when I see it. He was not burned at all. He looked as any dead man looks, flat and silent. It was his soul I had watched burning, not his body.
-
-The daemon had gone back again to its own place. I :new that, for I could feel my aloneness on the island.
-
-The Others had gone too. The presence of that fiery daemon was more, in the end, than their power could endure. Perhaps they shim an evil soul more fearfully .ban a good one, knowing themselves nothing of good and evil, but fearing what they do not understand.
-
-They were frightened of the island. They looked for that which had killed him, but they did not look far, and I hid in the empty forest until they went away.
+You know, *padre,* what came after. The men from the *Dancing Martha* took their captain away next morning. <a id="page314"></a>They were frightened of the island. They looked for that which had killed him, but they did not look far, and I hid in the empty forest until they went away.
 
 I do not remember their going. There was a burning in my chest, and this blood I breathe out ran from time to time, as it does now. I do not like the sight of it. Blood is a beautiful color, but it reminds me of too much that was beautiful also, and much redder. . . .
 
-Then you came, padre. I do not know how long thereafter. I know the Shaughnessy’s people brought you with their ship, to find him or his grave. You know now. And I am glad you came. It is good to have a man like you beside me at this time. I wish I had a daemon of my own, to grow very bright and vanish when I die, but that is not for o Bobo and I am used to that kind of loneliness.
+Then you came, *padre*. I do not know how long thereafter. I know the Shaughnessy’s people brought you with their ship, to find him or his grave. You know now. And I am glad you came. It is good to have a man like you beside me at this time. I wish I had a daemon of my own, to grow very bright and vanish when I die, but that is not for *o Bobo* and I am used to that kind of loneliness.
 
-I would not live, you see, now that the ninjas are gone. To be with them was good, and we comforted one another in our loneliness but, padre, I will tell you this much. It was a chilly comfort we gave each other, at the best. I am a man, though bobo, and I know. They are ninjas, and will never guess how warm and wonderful it must be to own a soul. I would not tell them if I could. I was sorry for the ninjas, padre. They are, you see, immortal.
+I would not live, you see, now that the *ninfas* are gone. To be with them was good, and we comforted one another in our loneliness but, *padre,* I will tell you this much. It was a chilly comfort we gave each other, at the best. I am a man, though *bobo,* and I know. They are *ninfas,* and will never guess how warm and wonderful it must be to own a soul. I would not tell them if I could. I was sorry for the *ninfas,* padre. They are, you see, immortal.
 
-As for me, I will forget loneliness in a little while. I will forget everything. I would not want to be a ninja and live forever.
+As for me, I will forget loneliness in a little while. I will forget everything. I would not want to be a *ninfa* and live forever.
 
-There is one behind you, padre. It is very bright. It watches me across your shoulder, and its eyes are wise and sad. No, daemon, this is no time for sadness. Be sorry for the ninjas, daemon, and for men like him who burned upon this beach. But not for me. I am well content.
+There is one behind you, *padre*. It is very bright. It watches me across your shoulder, and its eyes are wise and sad. No, daemon, this is no time for sadness. Be sorry for the *ninfas*, daemon, and for men like him who burned upon this beach. But not for me. I am well content.
 
 I will go now.
 
@@ -4641,7 +4599,7 @@ I will go now.
 
 vintage_season
 
-# Vintage Season
+# <a id="page315"></a>Vintage Season
 
 .fl
 <span class="smallcaps">Three people came</span> up the walk to the old mansion just at dawn on a perfect May morning. Oliver Wilson in his pajamas watched them from an upper window through a haze of conflicting emotions, resentment predominant. He didn’t want them there.
@@ -4690,7 +4648,7 @@ Most of the day they spent out of the house. The perfect May weather held unbrok
 
 They took only one meal a day in the house, a late dinner. And their reactions to the meal were unpredictable. Laughter greeted some of the dishes, and a sort of delicate disgust others. No one would touch the salad, for instance. And the fish seemed to cause a wave of queer embarrassment around the table.
 
-They dressed elaborately for each dinner. The man —his name was Omerie—looked extremely handsome in his dinner clothes, but he seemed a little sulky and Oliver twice heard the women laughing because he had to wear black. Oliver entertained a sudden vision, for no reason, of the man in garments as bright and as subtly cut as the women’s, and it seemed somehow very right for him. He wore even the dark clothing with a certain flamboyance, as if cloth-of-gold would be more normal for him.
+They dressed elaborately for each dinner. The man—his name was Omerie—looked extremely handsome in his dinner clothes, but he seemed a little sulky and Oliver twice heard the women laughing because he had to wear black. Oliver entertained a sudden vision, for no reason, of the man in garments as bright and as subtly cut as the women’s, and it seemed somehow very right for him. He wore even the dark clothing with a certain flamboyance, as if cloth-of-gold would be more normal for him.
 
 When they were in the house at other mealtimes, they ate in their rooms. They must have brought a great deal of food with them, from whatever mysterious place they had come. Oliver wondered with increasing curiosity where it might be. Delicious odors drifted into the hall sometimes, at odd hours, from their closed doors. Oliver could not identify them, but almost always they smelled irresistible. A few times the food smell was rather shockingly unpleasant, almost nauseating. It takes a connoisseur, Oliver reflected, to appreciate the decadent. And these people, most certainly, were connoisseurs.
 
@@ -4712,7 +4670,7 @@ From childhood Sue had known what she wanted and how to get it, and it seemed to
 
 Oliver shook his head. “Her attorney phoned again yesterday. Nothing new. I wonder who she is.”
 
-“I don’t think even the attorney knows. All this mystery—I don’t like it, Oliver. Even those Sancisco people — What did they do today?”
+“I don’t think even the attorney knows. All this mystery—I don’t like it, Oliver. Even those Sancisco people—What did they do today?”
 
 Oliver laughed. “They spent about an hour this morning telephoning movie theaters in the city, checking up on a lot of third-rate films they want to see parts of.”
 
@@ -4728,7 +4686,7 @@ The trouble was, he thought he did know. It was too unlikely a guess to tell Sue
 
 “We don’t do much talking,” Oliver reminded her with some irony.
 
-“I know, but— Oh, well, I guess it doesn’t matter. Go on, what else do they do?”
+“I know, but—Oh, well, I guess it doesn’t matter. Go on, what else do they do?”
 
 “Well, this morning they were going to spend studying ‘Golconda’ and his great art, and this afternoon I think they’re taking a trip up the river to some sort of shrine I never heard of. It isn’t very far, wherever it is, because I know they’re coming back for dinner. Some great man’s birthplace, I think—they promised to take home souvenirs of the place if they could get any. They’re typical tourists, all right—if I could only figure out what’s behind the whole thing. It doesn’t make sense.”
 
@@ -4800,7 +4758,7 @@ Kleph’s smile was definitely patronizing this time. It didn’t irritate him. 
 
 “Call it a pilgrimage, perhaps.”
 
-“Pilgrimage?” Oliver was so interested that for an instant his mind came back into sharp focus. “To— what?”
+“Pilgrimage?” Oliver was so interested that for an instant his mind came back into sharp focus. “To—what?”
 
 “I should not have said that, Mr. Wilson. Please forget it. Do you like the tea?”
 
@@ -4880,7 +4838,9 @@ Oliver’s mind all day had been hazy with the vague, bewildering memories of ye
 
 “Oliver, what’s wong with you? We agreed we needed the money, didn’t we? I don’t see how you can think of passing up such a wonderful bargain without even a struggle. We could get married and buy our own house right away, and you know we’ll never get such an offer again for that old trash-heap. Wake up, Oliver!”
 
-Oliver made an effort. “I know, Sue—I know. But—” “Oliver, you’ve got to think of something!” Her voice was imperious.
+Oliver made an effort. “I know, Sue—I know. But—”
+
+“Oliver, you’ve got to think of something!” Her voice was imperious.
 
 He knew she was right. Kleph or no Kleph, the bargain shouldn’t be ignored if there was any way at all of getting the tenants out. He wondered again what made the place so suddenly priceless to so many people. And what the last week in May had to do with the value of the house.
 
@@ -4892,7 +4852,9 @@ A sudden sharp curiosity pierced even the vagueness of his mind today. May’s l
 
 “Keep your shirt on,” Oliver said practically. “I’m only human, but I’ll try.”
 
-“I’m bringing the people over right away,” Sue told him. “While the Sanciscos are still out. Now you put your mind to work and think of something, Oliver.” She paused, and her voice was reflective when she spoke again. “They’re . . . awfully odd people, darling.” “Odd?”
+“I’m bringing the people over right away,” Sue told him. “While the Sanciscos are still out. Now you put your mind to work and think of something, Oliver.” She paused, and her voice was reflective when she spoke again. “They’re . . . awfully odd people, darling.”
+
+“Odd?”
 
 “You’ll see.”
 
@@ -4932,7 +4894,9 @@ Madame Hollia’s imperious gesture at one sweep silenced him and commanded Sue 
 
 Oliver broke in determinedly. “Madame Hollia, I’ll have to know what your plans are. I—”
 
-“Oh, Oliver, please!” Sue’s fingers closed over the silver cube. “Don’t worry about it. I’m sure Madame Hollia knows best. Don’t you want to get those people out?” “Of course I do. But I don’t want the house blown up or—”
+“Oh, Oliver, please!” Sue’s fingers closed over the silver cube. “Don’t worry about it. I’m sure Madame Hollia knows best. Don’t you want to get those people out?”
+
+“Of course I do. But I don’t want the house blown up or—”
 
 Madame Hollia’s deep laughter was indulgent. “Nothing so crude, I promise you, Mr. Wilson. Remember, we want the house! Hurry, my dear.”
 
@@ -4944,7 +4908,9 @@ Sue came back and slipped her hand through Oliver’s arm, squeezing excitedly. 
 
 Hara started, almost dropping the red leather box he held.
 
-“Kleph!” he said in a whisper. “Or Klia. I know they both just came on from Canterbury. But I thought—” “Hush.” Madame Hollia’s features composed themselves into an imperious blank. She breathed triumphantly through her nose, drew back upon herself and turned an imposing facade to the door.
+“Kleph!” he said in a whisper. “Or Klia. I know they both just came on from Canterbury. But I thought—”
+
+“Hush.” Madame Hollia’s features composed themselves into an imperious blank. She breathed triumphantly through her nose, drew back upon herself and turned an imposing facade to the door.
 
 Kleph wore the same softly downy robe Oliver had seen before, except that today it was not white, but a pale, clear blue that gave her tan an apricot flush. She was smiling.
 
@@ -4970,7 +4936,7 @@ Sue’s collapse was complete. But pride sustained her, and bewilderment. Probab
 
 Looking backward later, Oliver thought that in that moment, for the first time clearly, he began to suspect the truth. But he had no time to ponder it, for after the brief instant of enmity the three people from—elsewhere
 
-1 —began to speak all at once, as if in a belated attempt to cover something they did not want noticed.
+1—began to speak all at once, as if in a belated attempt to cover something they did not want noticed.
 
 Kleph said, “This beautiful weather—” and Madame Hollia said, “So fortunate to have this house—” and Hara, holding up the red leather box, said loudest of all, “Cenbe sent you this, Kleph. His latest.”
 
@@ -5012,7 +4978,7 @@ But when he lifted his head to listen he lost all grasp upon the meaning of the 
 
 He went upstairs almost in a daze, hardly knowing what he was doing. He pushed Kleph’s door open. He looked inside—
 
-What he saw there he could not afterward remember except in a blurring as vague as the blurred ideas the music roused in his brain. Half the room had vanished behind a mist, and the mist was a three-dimensional screen upon which were projected— He had no words for them. He was not even sure if the projections were visual. The mist was spinning wih motion and sound, but essentially it was neither sound nor motion that Oliver saw.
+What he saw there he could not afterward remember except in a blurring as vague as the blurred ideas the music roused in his brain. Half the room had vanished behind a mist, and the mist was a three-dimensional screen upon which were projected—He had no words for them. He was not even sure if the projections were visual. The mist was spinning wih motion and sound, but essentially it was neither sound nor motion that Oliver saw.
 
 This was a work of art. Oliver knew no name for it. It transcended all art-forms he knew, blended them, and out of the blend produced subtleties his mind could not begin to grasp. Basically, this was the attempt of a master composer to correlate every essential aspect of a vast human experience into something that could be conveyed in a few moments to every sense at once.
 
@@ -5024,7 +4990,7 @@ It was outrageous. It violated the innermost privacies ; of a man’s mind, call
 
 And yet, in spite of all this vivid awareness, Oliver ! did not know what calamity the screen portrayed. That i it was real, vast, overwhelmingly dreadful he could not ; doubt. That it had once happened was unmistakable. He ‘ caught flashing glimpses of human faces distorted with ! grief and disease and death—real faces, faces that had i once lived and were seen now in the instant of dying. He • saw men and women in rich clothing superimposed in i panorama upon reeling thousands of ragged folk, great ! throngs of them swept past the sight in an instant, and i he saw that death made no distinction among them.
 
-He saw lovely women laugh and shake their curls, i and the laughter shriek into hysteria and the hysteria : into music. He saw one man’s face, over and over—a i long, dark, saturnine face, deeply lined, sorrowful, the : face of a powerful man wise in worldliness, urbane— and helpless. That face was for a while a recurring motif, always more tortured, more helpless than before.
+He saw lovely women laugh and shake their curls, i and the laughter shriek into hysteria and the hysteria : into music. He saw one man’s face, over and over—a i long, dark, saturnine face, deeply lined, sorrowful, the : face of a powerful man wise in worldliness, urbane—and helpless. That face was for a while a recurring motif, always more tortured, more helpless than before.
 
 The music broke off in the midst of a rising glide. The mist vanished and the room reappeared before him. The anguished dark face for an instant seemed to Oliver printed everywhere he looked, like after-vision on the -eyelids. He knew that face. He had seen it before, not often, but he should know its name—
 
@@ -5068,7 +5034,7 @@ Kleph was watching him. “That Hollia,” she said suddenly. “She wants to bu
 
 Oliver nodded. “She’s offering a lot of money. Sue’s going to be awfully disappointed if—” He hesitated. Perhaps, after all, Sue would not be disappointed. He remembered the little silver cube with the enigmatic function and he wondered if he should mention it to Kleph. But the euphoriac had not reached that level of his brain, and he remembered his duty to Sue and was silent.
 
-Kleph shook her head, her eyes upon his warm with —was it sympathy?
+Kleph shook her head, her eyes upon his warm with—was it sympathy?
 
 “Believe me,” she said, “you will not find that—important—after all. I promise you, Oliver.”
 
@@ -5112,11 +5078,15 @@ He crossed the room slowly, took her hand. The fingers closed warmly about his. 
 
 The kiss was warm and long. He caught something of her own euphoria from the fragrance of the tea breathed into his face. And he was startled at the end of the kiss, when the clasp of her arms loosened about his neck, to feel the sudden rush of her breath against his cheek. There were tears on her face, and the sound she made was a sob.
 
-He held her off and looked down in amazement. She sobbed once more, caught a deep breath, and said, “Oh, Oliver, Oliver—” Then she shook her head and pulled free, turning away to hide her face. “I . . . I am sorry,” she said unevenly. “Please forgive me. It does not matter . . . I know it does not matter . . . but—” “What’s wrong? What doesn’t matter?”
+He held her off and looked down in amazement. She sobbed once more, caught a deep breath, and said, “Oh, Oliver, Oliver—” Then she shook her head and pulled free, turning away to hide her face. “I . . . I am sorry,” she said unevenly. “Please forgive me. It does not matter . . . I know it does not matter . . . but—”
+
+“What’s wrong? What doesn’t matter?”
 
 “Nothing, Nothing . . . please forget it. Nothing at all.” She got a handkerchief from the table and blew her nose, smiling at him with an effect of radiance through the tears.
 
-Suddenly he was very angry. He had heard enough evasions and mystifying half-truths. He said roughly, “Do you think I’m crazy? I know enough now to—” “Oliver, please!” She held up her own cup, steaming fragrantly. “Please, no more questions. Here, euphoria is what you need, Oliver. Euphoria, not answers.”
+Suddenly he was very angry. He had heard enough evasions and mystifying half-truths. He said roughly, “Do you think I’m crazy? I know enough now to—”
+
+“Oliver, please!” She held up her own cup, steaming fragrantly. “Please, no more questions. Here, euphoria is what you need, Oliver. Euphoria, not answers.”
 
 “What year was it when you heard that song in Canterbury?” he demanded, pushing the cup aside.
 
@@ -5136,15 +5106,15 @@ He had not really believed—not until this instant. He had expected some ration
 
 Kleph dabbed at her eyes with the pale-blue handkerchief and smiled tremulously.
 
-“I know,” she said. “It must be a terrible thing to accept. To have all your concepts turned upside down— We know it from childhood, of course, but for you . . . here, Oliver. The euphoriac will make it easier.”
+“I know,” she said. “It must be a terrible thing to accept. To have all your concepts turned upside down—We know it from childhood, of course, but for you . . . here, Oliver. The euphoriac will make it easier.”
 
 He took the cup, the faint stain of her lip rouge still on the crescent opening. He drank, feeling the dizzy sweetness spiral through his head, and his brain turned a little in his skull as the volatile fragrance took effect. With that turning, focus shifted and all his values with it.
 
 He began to feel better. The flesh settled on his bones again, and the warm clothing of temporal assurance settled upon his flesh, and he was no longer naked and in the vortex of unstable time.
 
-“The story is very simple, really,” Kleph said. “We —travel. Our own time is not terribly far ahead of yours. No. I must not say how far. But we still remember your songs and poets and some of your great actors. We are a people of much leisure, and we cultivate the art of enjoying ourselves.
+“The story is very simple, really,” Kleph said. “We—travel. Our own time is not terribly far ahead of yours. No. I must not say how far. But we still remember your songs and poets and some of your great actors. We are a people of much leisure, and we cultivate the art of enjoying ourselves.
 
-“This is a tour we are making—a tour of a year’s seasons. Vintage seasons. That autumn in Canterbury was the most magnificent autumn our researchers could discover anywhere. We rode in a pilgrimage to the shrine —it was a wonderful experience, though the clothing was a little hard to manage.
+“This is a tour we are making—a tour of a year’s seasons. Vintage seasons. That autumn in Canterbury was the most magnificent autumn our researchers could discover anywhere. We rode in a pilgrimage to the shrine—it was a wonderful experience, though the clothing was a little hard to manage.
 
 “Now this month of May is almost over—the loveliest May in recorded times. A perfect May in a wonderful period. You have no way of knowing what a good, gay period you live in, Oliver. The very feeling in the air of the cities—that wonderful national confidence and happiness—everything going as smoothly as a dream. There were other Mays with fine weather, but each of them had a war or a famine, or something else wrong.” She hesitated, grimaced and went on rapidly. “In a few days we are to meet at a coronation in Rome,” she said. “I think the year will be 800—Christmastime. We—”
 
@@ -5304,7 +5274,7 @@ How long or short a time he had lain there he did not know. The world was still 
 
 He was halfway down the hall toward the front rooms when sound began to return from outside. It was a low, indescribable rumble at first, prickled with countless tiny distant screams. Oliver’s eardrums ached from the terrible impact of the vast unheard noise, but the numbness was wearing off and he heard before he saw it the first voices of the stricken city.
 
-The door to Kleph’s room resisted him for a moment. The house had settled a little from the violence of the —the explosion?—and the frame was out of line. When he got the door open he could only stand blinking stupidly into the darkness within. All the lights were out, but there was a breathless sort of whispering going on in many voices.
+The door to Kleph’s room resisted him for a moment. The house had settled a little from the violence of the—the explosion?—and the frame was out of line. When he got the door open he could only stand blinking stupidly into the darkness within. All the lights were out, but there was a breathless sort of whispering going on in many voices.
 
 The chairs were drawn around the broad front windows so that everyone could see out; the air swam with the fragrance of euphoria. There was light enough here from outside for Oliver to see that a few onlookers still had their hands to their ears, but all were craning eagerly forward to see.
 
@@ -5386,13 +5356,13 @@ When he opened his eyes it was quite dark in the room. Also it was silent except
 
 This was Kleph’s room. But no—Kleph’s no longer. Her shining hangings were gone from the walls, her white resilient rug, her pictures. The room looked as it had looked before she came, except for one thing.
 
-In the far comer was a table—a block of translucent stuff—out of which light poured softly. A man sat on a low stool before it, leaning forward, his heavy shoulders outlined against the glow. He wore earphones and he was making quick, erratic notes upon a pad on his knee, swaying a little as if to the tune of unheard music.
+In the far corner was a table—a block of translucent stuff—out of which light poured softly. A man sat on a low stool before it, leaning forward, his heavy shoulders outlined against the glow. He wore earphones and he was making quick, erratic notes upon a pad on his knee, swaying a little as if to the tune of unheard music.
 
 The curtains were drawn, but from beyond them came a distant, muffled roaring that Oliver remembered
 
 from his nightmare. He put a hand to his face, aware of a feverish warmth and a dipping of the room before his eyes. His head ached, and there was a deep malaise in every limb and nerve.
 
-As the bed creaked, the man in the comer turned, sliding the earphones down like a collar. He had a strong, sensitive face above a dark beard, trimmed short. Oliver had never seen him before, but he had that air Oliver knew so well by now, of remoteness which was the knowledge of time itself lying like a gulf between them.
+As the bed creaked, the man in the corner turned, sliding the earphones down like a collar. He had a strong, sensitive face above a dark beard, trimmed short. Oliver had never seen him before, but he had that air Oliver knew so well by now, of remoteness which was the knowledge of time itself lying like a gulf between them.
 
 When he spoke his deep voice was impersonally kind.
 
@@ -5420,7 +5390,7 @@ while. Forget if you can. That was days ago. I said you were asleep for some tim
 
 Cenbe’s voice ran on smoothly, soothingly, almost as if Cenbe, too, did not want him to think. It was easiest to lie here and listen.
 
-“I am a composer,” Cenbe was saying. “I happen to be interested in interpreting certain forms of disaster into my own terms. That is why I stayed on. The others were dilettantes. They came for the May weather and the spectacle. The aftermath—well why should they wait for that? As for myself— I suppose I am a connoisseur. I find the aftermath rather fascinating. And I need it. I need to study it at first hand, for my own purposes.”
+“I am a composer,” Cenbe was saying. “I happen to be interested in interpreting certain forms of disaster into my own terms. That is why I stayed on. The others were dilettantes. They came for the May weather and the spectacle. The aftermath—well why should they wait for that? As for myself—I suppose I am a connoisseur. I find the aftermath rather fascinating. And I need it. I need to study it at first hand, for my own purposes.”
 
 His eyes dwelt upon Oliver for an instant very keenly, like a physician’s eyes, impersonal and observing. Absently he reached for his stylus and the note pad. And as he moved, Oliver saw a familiar mark on the underside of the thick, tanned wrist
 
@@ -5446,15 +5416,15 @@ Oliver spoke louder against the roaring from beyond the windows. “But you’ve
 
 “Not—now! Not—this!”
 
-Cenbe looked at him enigmatically for a while. Then —“This, too,” he said.
+Cenbe looked at him enigmatically for a while. Then—“This, too,” he said.
 
 And suddenly Oliver realized from across what distances Cenbe was watching him. A vast distance, as time is measured. Cenbe was a composer and a genius, and necessarily strongly empathic, but his psychic locus was very far away in time. The dying city outside, the whole world of now was not quite real to Cenbe, falling short of reality because of that basic variance in time. It was merely one of the building blocks that had gone to support the edifice on which Cenbe’s culture stood in a misty, unknown, terrible future.
 
 It seemed terrible to Oliver now. Even Kleph—all of them had been touched with a pettiness, the faculty that had enabled Hollia to concentrate on her malicious, small schemes to acquire a ringside seat while the meteor thundered in toward Earth’s atmosphere. They were
 
-all dilettantes, Kleph and Omerie and the other. They toured time, but only as onlookers. Were they bored— sated—with their normal existence?
+all dilettantes, Kleph and Omerie and the other. They toured time, but only as onlookers. Were they bored—sated—with their normal existence?
 
-Not sated enough to wish change, basically. Their own time-world was a fulfilled womb, a perfection made manifest for their needs. They dared not change the past —they could not risk flawing their own present.
+Not sated enough to wish change, basically. Their own time-world was a fulfilled womb, a perfection made manifest for their needs. They dared not change the past—they could not risk flawing their own present.
 
 Revulsion shook him. Remembering the touch of Kleph’s lips, he felt a sour sickness on his tongue. Alluring she had been; he knew that too well. But the aftermath—
 
@@ -5476,7 +5446,7 @@ given him. No aftermath—and yet this painful possession was strong enough to e
 
 Kleph had not lied. It was no aftermath to drink. He knew that—but the knowledge no longer touched his brain or his body. He lay still, giving them up to the power of the illness which was aftermath to something far stronger than the strongest drink. The illness that had no name—yet.
 
-Cenbe’s new symphonia was a crowning triumph. It had its premiere from Antares Hall, and the applause was an ovation. History itself, of course, was the artist —opening with the meteor that forecast the great plagues of the fourteenth century and closing with the climax Cenbe had caught on the threshold of modem times. But only Cenbe could have interpreted it with such subtle power.
+Cenbe’s new symphonia was a crowning triumph. It had its premiere from Antares Hall, and the applause was an ovation. History itself, of course, was the artist—opening with the meteor that forecast the great plagues of the fourteenth century and closing with the climax Cenbe had caught on the threshold of modem times. But only Cenbe could have interpreted it with such subtle power.
 
 Critics spoke of the masterly way in which he had chosen the face of the Stuart king as a recurrent motif against the montage of emotion and sound and movement. But there were other faces, fading through the great sweep of the composition, which helped to build up to the tremendous climax. One face in particular, one moment that the audience absorbed greedily. A moment in which one man’s face loomed huge in the screen, every feature clear. Cenbe had never caught an emotional crisis so effectively, the critics agreed. You could almost read the man’s eyes.
 
@@ -5498,7 +5468,7 @@ The house was dynamited six days later, part of the futile attempt to halt the r
 
 afterword
 
-# <a id="page365" />Footnote to *Shambleau* . . . and Others
+# <a id="page365"></a>Footnote to *Shambleau* . . . and Others
 
 .space
 One question is almost certainly asked of every professional writer more than any other: “Where do you get your ideas?” For the past forty-odd years I have had to admit I didn’t know. But the answer has suddenly come to me as I look back over the origins of my first story, “Shambleau,” and I am very happy indeed to pass it on to you.
@@ -5507,7 +5477,7 @@ Brace yourself now for some rather dull but necessary background: My name was Ca
 
 Well, I was adequate, but typing was something practiced in every spare moment. And this is where “Shambleau” began, halfway down a sheet of yellow paper otherwise filled up with boring quick-brown-foxes, alphabets, and things like “The White Knight is sliding down the poker. He balances very badly,” to lighten the practice.
 
-Midway down that yellow page I began fragments remembered from sophomore English at the university. All the choices were made at random. Keats, Browning, Byron—you name it. In the middle of this exercise a line from a poem (by William Morris?) worked itself to the front and I discovered myself typing something about a “red, running figure.” I looked at it a while, my <a id="page366" />mind a perfect blank, and then shifted mental gears without even adding punctuation to mark the spot, swinging with idiot confidence into the first lines of the story which ended up as “Shambleau.”
+Midway down that yellow page I began fragments remembered from sophomore English at the university. All the choices were made at random. Keats, Browning, Byron—you name it. In the middle of this exercise a line from a poem (by William Morris?) worked itself to the front and I discovered myself typing something about a “red, running figure.” I looked at it a while, my <a id="page366"></a>mind a perfect blank, and then shifted mental gears without even adding punctuation to mark the spot, swinging with idiot confidence into the first lines of the story which ended up as “Shambleau.”
 
 The red, running figure in the poem had been a young witch pursued by soldiers and townspeople in some medieval village. In my story they had perfectly sensible reasons for killing her as soon as possible.
 
@@ -5521,7 +5491,7 @@ I couldn’t let my character Shambleau go on running forever, could I? I had th
 
 Obviously she was going to need help—also a foil to set her off effectively and to give the story a shape it didn’t yet have. So Northwest Smith strolled onstage without even a glance my way, perfectly sure of what he was going to do about this. (Northwest Smith? Well once I had typed a letter to an N. W. Smith, and the name lingered tantalizingly in my mind, waiting for this moment. What would a man named Northwest Smith look like? Be like? Occupy himself with? I soon found out.)
 
-To complete the triumvirate of lead characters to whom my typewriter introduced me that day long ago, a companion and foil for Smith slouched carelessly into view, thirsting for drink and women. His name was <a id="page367" />Yarol, and I cannot conceal from you that it is an anagram from the letters in the name of the typewriter I was using. But I like it anyhow.
+To complete the triumvirate of lead characters to whom my typewriter introduced me that day long ago, a companion and foil for Smith slouched carelessly into view, thirsting for drink and women. His name was <a id="page367"></a>Yarol, and I cannot conceal from you that it is an anagram from the letters in the name of the typewriter I was using. But I like it anyhow.
 
 Here we return to my conviction that you must read enough, enjoy it enough, to absorb unconsciously the structure of the fiction you like best. In this case Shambleau needed help urgently. There wasn’t any yet. The story required a backbone strong enough to support the plot, and Northwest Smith arrived on cue. For contrast with the seemingly helpless fugitive, “Shambleau” needed a strong, tall, romantically steely-eyed male. I think it was along about here my mind got devious and I realized that after his use as a defender was over she might just possibly spring her trap and destroy him. You will note that this gave my still unfledged plot a way to go *after* the rescue.
 
@@ -5537,7 +5507,7 @@ There are of course seven or eight other stories in this collection, which could
 
 “Vintage Season” was, I believe, the first science-fiction story to ask, “What if time travelers from the future visit epic events of our era simply as tourists, here to make a Roman Holiday of our personal disasters?” It’s a challenging idea and has been dealt with often since.
 
-If you have read past Shambleau to Jirel, you will probably have noticed what a close relationship the two women bear to one another. They set the keynote for a lot of my own (incessant) writing until I met and <a id="page368" />married Henry Kuttner. I realize now that, unconsciously, no doubt, both were versions of the self I’d like to have been. I’d never noticed this before. The unconscious works in a mysterious way, doesn’t it? (I have just glanced at my Unconscious to see if the tribute was noticed. It wasn’t. He has fitted himself into the image of a large black cat and is preening his left shoulder and ignoring me. A rebuke I should take to heart. The unconscious more than anything hates being dragged into public. He can’t work under the inspection of the conscious mind.)
+If you have read past Shambleau to Jirel, you will probably have noticed what a close relationship the two women bear to one another. They set the keynote for a lot of my own (incessant) writing until I met and <a id="page368"></a>married Henry Kuttner. I realize now that, unconsciously, no doubt, both were versions of the self I’d like to have been. I’d never noticed this before. The unconscious works in a mysterious way, doesn’t it? (I have just glanced at my Unconscious to see if the tribute was noticed. It wasn’t. He has fitted himself into the image of a large black cat and is preening his left shoulder and ignoring me. A rebuke I should take to heart. The unconscious more than anything hates being dragged into public. He can’t work under the inspection of the conscious mind.)
 
 All but two of the stories in this collection (“No Woman Born” and “Vintage Season”) were written before Henry Kuttner and I married, and there was not yet any melding of styles or even collaboration—beyond my asking helplessly now and then “*What* should come next?”. All started out with some wild but malleable idea for which I had to choose a lead character strong enough to play the action against, which is what gives a story form.
 

@@ -28,31 +28,31 @@ ROBERT BLOCH
 **TWENTY-TWO TERRIFIC TALES OF GRUE AND GORE, ENCHANTMENT AND EERINESS, THE IMPISH AND IRONIC—ALL FROM THE DOGE OF MENACE.**
 
 .subtitle
-• ENOCH
+• [ENOCH](enoch)
 
 .smaller
 A creature sat on his shoulder and whispered in his ear . . . “Kill!”
 
 .subtitle
-• THE PAST MASTER
+• [THE PAST MASTER](the_past_master)
 
 .smaller
 Why did he have to buy—or steal—all the world’s great art . . . by tomorrow?
 
 .subtitle
-• THE MOVIE PEOPLE
+• [THE MOVIE PEOPLE](the_movie_people)
 
 .smaller
 Up there were shadows on the screen, posturing on a back-lot Babylon or on a ghost-town set . . . or were <u>they</u> looking at <u>you</u>?
 
 .subtitle
-• THE MAN WHO COLLECTED POE
+• [THE MAN WHO COLLECTED POE](the_man_who_collected_poe)
 
 .smaller
 He had first editions, bizarre and unique mementos, unknown works . . . and something more!
 
 .subtitle
-• THAT HELLBOUND TRAIN
+• [THAT HELLBOUND TRAIN](that_hellbound_train)
 
 .smaller
 The service beats Amtrak—but the terminal is something else again!
@@ -65,7 +65,7 @@ The service beats Amtrak—but the terminal is something else again!
 blurb
 
 .heading
-**THE STALKING DEAD**
+<a id="pagei"></a>**THE STALKING DEAD**
 
 .space
 **The lights went out.**
@@ -96,7 +96,7 @@ blurb
 other_books
 
 .center
-**The Critically Acclaimed Series**
+<a id="pageii"></a>**The Critically Acclaimed Series**
 **of**
 **Classic Science Fiction**
 
@@ -148,7 +148,7 @@ other_books
 
 titlepage
 
-# THE BEST OF<br />*Robert Bloch*
+# <a id="pageiii"></a>THE BEST OF<br />*Robert Bloch*
 
 .editor
 Edited and with an Introduction by
@@ -167,7 +167,7 @@ BALLANTINE BOOKS • NEW YORK
 
 copyright
 
-A Del Rey Book
+<a id="pageiv"></a>A Del Rey Book
 Published by Ballantine Books
 
 Copyright © 1977 by Robert Bloch
@@ -190,7 +190,7 @@ Cover art by Paul Alexander
 acknowledgments
 
 .center
-ACKNOWLEDGMENTS
+<a id="pagev"></a>ACKNOWLEDGMENTS
 
 .space.revindent
 “Yours Truly, Jack the Ripper,” copyright © 1943 by Weird Tales for *Weird Tales*, July 1943. Copyright © 1971 by Robert Bloch.
@@ -263,7 +263,7 @@ ACKNOWLEDGMENTS
 dedication
 
 .thinner
-This book—which I
+<a id="pagevii"></a>This book—which I
 suggested they cut into
 four equal parts—is
 for Win, Frank, Barbara
@@ -273,7 +273,7 @@ and Peter.
 
 contents
 
-# Contents
+# <a id="pageix"></a>Contents
 
 [Introduction: Robert Bloch: The Man Who Wrote Psycho](introduction) by Lester del Rey
 
@@ -327,7 +327,7 @@ contents
 
 introduction
 
-# Robert Bloch: The Man Who Wrote Psycho
+# <a id="pagexi"></a>Robert Bloch: The Man Who Wrote Psycho
 
 .fl
 <span class="smallcaps">By now, Robert Bloch</span> must be thoroughly tired of being introduced as the man who wrote *Psycho*; after all, it is many years since he published the novel from which the movie was made and it is typical of only one aspect of Bloch’s varied talents. The label sticks firmly to him, however, and to most people he is the master of shock and horror.
@@ -336,13 +336,13 @@ In many ways, this is a false label for the writer, and it’s completely wrong 
 
 The Robert Bloch I know is a pleasant, gentle man of unfailing patience and quick sensitivity, which he usually hides behind a mask of good-natured banter. He is one of the kindest and most thoroughly decent men I’ve ever met. He and his charming and devoted wife, Elly, have a host of friends, ranging from glamour queens and famous writers to neophyte fantasy fans, to all of whom he gives unquestioning loyalty and love.
 
-Bloch was born in 1917, which meant that his early teens were spent during the Great Depression—not a good time for a sensitive youngster! Financial disasters plagued his family and forced them to move away from all the friends he had made. To make things worse, he had to remain at home to protect a younger sister while his mother worked to support the family during this period of incipient poverty. In school, he was surrounded by much older students, since he had been advanced in his classes far beyond his years.
+Bloch was born in 1917, which meant that his early teens were spent during the Great Depression—not a good time for a sensitive youngster! Financial disasters plagued his family and forced them to move away from all the friends he had made. To make things worse, he had to remain at home to protect a younger sister while his mother worked to support the family during this period of incipient poverty. In school, he was surrounded <a id="pagexii"></a>by much older students, since he had been advanced in his classes far beyond his years.
 
 Rather naturally, he turned to books and magazines for the companionship he could not find elsewhere. He chose the fantastic sort of literature that could stir his active imagination most strongly. In those days, science fiction offered marvelous vistas of futures in which no depression could happen and where men would tread other worlds as conquering heroes. *Weird Tales* carried fantasies in which the dull terrors of real life were forgotten in make-believe nightmares that were exciting rather than depressing.
 
 Bloch soon began to try writing, modeling his stories after the horror fiction of H. P. Lovecraft, whose *Cthulhu Mythos* blended elements of science fiction and fantasy and involved ancient aliens from space that had once ruled Earth and still strove in banishment to seize the souls of hapless mortals for foul and arcane ends. In 1932, Bloch wrote to Lovecraft and was rather surprised to receive a prompt and friendly answer. Their correspondence continued until Lovecraft’s death in 1937. Lovecraft encouraged the younger writer and offered all possible help and criticism. When Bloch was only seventeen, he began selling stories to *Weird Tales* and quickly became one of the most popular writers for that magazine.
 
-By 1938, he was an active member of the Milwaukee Fictioneers, a group of writers that included Ray Palmer. When Palmer was named editor of *Amazing Stories* (and, later, *Fantastic Adventures*), he persuaded Bloch to write for him. This brought forth an entirely new type of writing from Bloch. He ceased to write only of gloomy things in demon-haunted crypts and turned to a much more modern style. Some of his stories from this period were about a character named Lefty Feep; these were told in slangy, Runyonesque style, displaying wit and humor in full measure. Had I been making the selections for this book, I’d probably have included at least one of these. But perhaps the author’s choice is wise; in most of the Lefty Feep stories the slang is three decades out of fashion, and they would probably need some rewriting for today’s readers.
+By 1938, he was an active member of the Milwaukee Fictioneers, a group of writers that included Ray Palmer. When Palmer was named editor of *Amazing Stories* (and, later, *Fantastic Adventures*), he persuaded Bloch to write for him. This brought forth an entirely new type of writing from Bloch. He ceased to write only of gloomy things in demon-haunted crypts and turned to a much more modern style. Some of his stories from this period were about a character named Lefty Feep; these were told in slangy, Runyonesque style, displaying wit and humor in full measure. Had I been making the selections for this book, I’d probably have included at <a id="pagexiii"></a>least one of these. But perhaps the author’s choice is wise; in most of the Lefty Feep stories the slang is three decades out of fashion, and they would probably need some rewriting for today’s readers.
 
 Bloch went on from Palmer’s two fantasy magazines to writing a series of detective and suspense stories for other magazines supervised by the same editor; again, Bloch’s versatility was shown by his ability to fit the style smoothly to the type of story.
 
@@ -352,7 +352,7 @@ Just what makes this story so fascinating is something I cannot analyze. Perhaps
 
 There was a steady evolution going on in his writing, too. Originally, as with most who followed the Love-craft school of fiction, Bloch had concentrated on terror from the outside. Men who dared to investigate legends or who were inadvertently drawn into strange events were beset by horrors far beyond their knowledge or control. There was little importance given to what went on in their minds, provided they were duly terrified.
 
-Now, perhaps because his mystery and detective writing required more realism—or perhaps simply because he was growing in skill and scope—Bloch began to look inward, into the strange recesses in the minds of his people. It was in the darkness that lies behind our surface thoughts that he found the real lurking horrors. His stories gained a new dimension.
+Now, perhaps because his mystery and detective writing required more realism—or perhaps simply because he was growing in skill and scope—Bloch began to look <a id="pagexiv"></a>inward, into the strange recesses in the minds of his people. It was in the darkness that lies behind our surface thoughts that he found the real lurking horrors. His stories gained a new dimension.
 
 The terror was more subtle now, but even more real. It crept from the mind, a universal dread that needed no ancient cemeteries or external demons for its effect. The plotting was no less skillful, but a second, deeper level of psychological understanding had replaced or been added to the surface events.
 
@@ -364,7 +364,7 @@ There is “Enoch,” one of the most effective stories of possession to be foun
 
 “Beelzebub” contains no obvious, overt menace at all—just a fly that buzzes and buzzes where flies often do appear. Nothing to fear in that—or is there? And “Sleeping Beauty” is basically one of the oldest ideas of weird fiction. But somehow it isn’t old anymore as it develops quietly and surely toward its denouement. And perhaps, at the end, a few will find a sort of lingering, pathetic beauty, after all.
 
-Then, of course, there’s “That Hell-Bound Train”—again, a very old idea: the man who makes a deal with the devil, and what must happen as the devil proves to be a tricky sort of character. But Bloch’s telling has more than the old double-twist plot; he shows the development of a human being, with both strength and weakness building to the totality of character. This classic tale’s filled with a touch of philosophy, too—an examination of the good life and how and when and what that may be.
+Then, of course, there’s “That Hell-Bound Train”—again, a very old idea: the man who makes a deal with the devil, and what must happen as the devil proves to be a tricky sort of character. But Bloch’s telling has <a id="pagexv"></a>more than the old double-twist plot; he shows the development of a human being, with both strength and weakness building to the totality of character. This classic tale’s filled with a touch of philosophy, too—an examination of the good life and how and when and what that may be.
 
 That story is wholly fantasy—with not a touch of science or a projection of the future in it. Supposedly, science-fiction fans have little use for straight fantasy. Yet in 1959, the World Science Fiction Convention awarded the Hugo—the highest award in the field—to Bloch for the best short story of the previous year. This tribute was doubly surprising, because Bloch’s reputation among fans was that of a master of fantasy, rather than science fiction. In a way, science fiction was more of a hobby than a profession for him, one he pursued more as a reader than a writer. Yet through the years, he has done a fairly impressive amount of fiction in that vein, also.
 
@@ -372,13 +372,13 @@ Included also is “The Past Master,” a curious story of time travel to the pr
 
 I can’t classify “How Like a God.” Perhaps it should be labeled science fiction, since it deals with an alien who finds Earth; or, in the ultimate destiny of that alien, it should be considered a fantasy. Surely however, the story is more than either; it is a tale of the dual nature of all sentience, with overtones that go far beyond the plot.
 
-Bloch’s reputation is also for producing the polished but sometimes cold story, the one in which the writer seems to be standing offside, telling the reader what has gone on, but not letting his own feelings show through. But this reputation is certainly not fully justified by the fiction, he has produced. Take a look at “The Movie People,” with its curiously moving and affectionate portrayal of a minor bit player and the love that was briefly his, long before the years caught up with him. Here the events are of little importance, but the love the writer evokes for his characters is all. The mood dominates the story, quietly and without bathos, but it is there in every phrase and scene.
+Bloch’s reputation is also for producing the polished but sometimes cold story, the one in which the writer <a id="pagexvi"></a>seems to be standing offside, telling the reader what has gone on, but not letting his own feelings show through. But this reputation is certainly not fully justified by the fiction, he has produced. Take a look at “The Movie People,” with its curiously moving and affectionate portrayal of a minor bit player and the love that was briefly his, long before the years caught up with him. Here the events are of little importance, but the love the writer evokes for his characters is all. The mood dominates the story, quietly and without bathos, but it is there in every phrase and scene.
 
 And finally, I must mention “The Funnel of God,” which is one of my favorites. Again, I can’t classify this story. When the lonely child who is Harvey meets the dread Black Skelm, we have all the background for a horror story. But the elements are not used that way. This strange tale departs from all formulae to delineate the nature of man—and perhaps of God, or what might have been God.
 
 Many more stories are included here. But read them for yourself. Preferably, they should be read at the rate of no more than one story for each day, in the manner that short-story collections should always be read. But it probably doesn’t matter how you read them. There’s enough variety and freshness to bring new pleasure with each story. And when the book is finished, it should be put aside within easy reach, for future browsing and renewed enjoyment of your favorite tales.
 
-Then you will see why Robert Bloch, fantasy and suspense writer more than science-fiction author, is one of the favorite people of the science-fiction fans. Or at least one of many reasons for his esteem will be obvious; there are lots of other reasons, mostly having to do with the man himself. He is one of the very few ever to be honored more than once as Guest of Honor at a World Science Fiction Convention. The first time was in 1948 and the second, twenty-five years later, in 1973. On the latter occasion, I was fortunate to be able to introduce him to the audience and to pay some slight tribute to the love and respect his readers have always felt for him.
+Then you will see why Robert Bloch, fantasy and suspense writer more than science-fiction author, is one of the favorite people of the science-fiction fans. Or at least one of many reasons for his esteem will be obvious; there are lots of other reasons, mostly having to do with the man himself. He is one of the very few ever to be honored more than once as Guest of Honor at a World Science Fiction Convention. The first time was in 1948 and the second, twenty-five years later, in 1973. On the latter occasion, I was fortunate to be able <a id="pagexvii"></a>to introduce him to the audience and to pay some slight tribute to the love and respect his readers have always felt for him.
 
 He has paid the fans back fully over the years, too. He has willingly appeared on the programs of many conventions, both small and large, often as a toastmaster when another author was being honored. In preparing for these appearances, he has worked as hard over his efforts as if he were being paid some fabulous sum to entertain his audience, and his talks have been models of humor and wit—the sharp wit that somehow never hurts the feelings of anyone. During his career, he has offered freely his attention and help to fans, writers, and would-be writers, just as he once received such help from H. P. Lovecraft. Bloch has spent more than forty years repaying that self-imposed debt to Lovecraft, and he will undoubtedly go on paying it gladly for the rest of his life.
 
@@ -397,7 +397,7 @@ March, 1977
 
 yours_truly_jack_the_ripper
 
-# Yours Truly, Jack the Ripper
+# <a id="page1"></a>Yours Truly, Jack the Ripper
 
 .fl
 <span class="smallcaps">I looked at</span> the stage Englishman. He looked at me.
@@ -424,7 +424,7 @@ Sir Guy didn’t help matters any as he sat down. He cleared his throat, glanced
 
 “I don’t think we’ll get any place swapping old wives’ tales about famous crimes of history.”
 
-He took a deep breath.
+<a id="page2"></a>He took a deep breath.
 
 “This is no old wives’ tale. It’s a matter of life or death.”
 
@@ -444,7 +444,7 @@ Sir Guy lit a cigarette and began to talk/
 
 “The killer used a knife—expertly. He cut throats and removed—certain portions—of the bodies after death. He chose victims and settings with a fiendish deliberation. No one saw him or heard him. But watchmen making their gray rounds in the dawn would stumble across the hacked and horrid thing that was the Ripper’s handiwork.
 
-“Who was he? What was he? A mad surgeon? A butcher? An insane scientist? A pathological degenerate escaped from an asylum? A deranged nobleman? A member of the London police?
+“Who was he? What was he? A mad surgeon? A <a id="page3"></a>butcher? An insane scientist? A pathological degenerate escaped from an asylum? A deranged nobleman? A member of the London police?
 
 “Then the poem appeared in the newspapers. The anonymous poem, designed to put a stop to speculations—but which only aroused public interest to a further frenzy. A mocking little stanza:
 
@@ -465,7 +465,7 @@ Yours truly—Jack the Ripper.
 
 Sir Guy was silent. Obviously he expected some comment from me.
 
-“You tell the story well,” I remarked. “Though with a slight emotional bias.”
+<a id="page4"></a>“You tell the story well,” I remarked. “Though with a slight emotional bias.”
 
 “I suppose you want to know why I’m interested?” he snapped.
 
@@ -483,7 +483,7 @@ He wasn’t smiling. It wasn’t a joke.
 
 “August to November, 1888.”
 
-“1888? But if Jack the Ripper was an able-bodied man in 1888, he’d surely be dead today! Why look, man—if he were merely bom in that year, he’d be fifty-seven years old today!”
+“1888? But if Jack the Ripper was an able-bodied man in 1888, he’d surely be dead today! Why look, man—if he were merely born in that year, he’d be fifty-seven years old today!”
 
 “Would he?” smiled Sir Guy Hollis. “Or should I say, ‘Would she?’ Because Jack the Ripper may have been a woman. Or any number of things.”
 
@@ -501,7 +501,7 @@ I looked at him and shrugged. But I had to give him a truthful answer.
 
 “I’ve studied these cases for thirty years. Been over the actual ground. Talked to officials. Talked to friends and acquaintances of the poor drabs who were killed. Visited with men and women in the neighborhood. Collected an entire library of material touching on Jack the Ripper. Studied all the wild theories or crazy notions.
 
-“I learned a little. Not much, but a little. I won’t bore you with my conclusions. But there was another branch of inquiry that yielded more fruitful return. I have studied unsolved crimes. Murders.
+<a id="page5"></a>“I learned a little. Not much, but a little. I won’t bore you with my conclusions. But there was another branch of inquiry that yielded more fruitful return. I have studied unsolved crimes. Murders.
 
 “I could show you clippings from the papers of half the world’s greatest cities. San Francisco. Shanghai. Calcutta. Omsk. Paris. Berlin. Pretoria. Cairo. Milan. Adelaide.
 
@@ -515,11 +515,11 @@ I looked at him and shrugged. But I had to give him a truthful answer.
 
 “Just how could a man of, let us say, eighty-five years commit these crimes? For if Jack the Ripper was around thirty in 1888 and lived, he’d be eighty-five today.”
 
-“Suppose he didn’t get any older?” whispered Sir Guy.
+*“Suppose he didn’t get any older?”* whispered Sir Guy.
 
 “What’s that?”
 
-“Suppose Jack the Ripper didn’t grow old? Suppose he is still a young man today?
+<a id="page6"></a>“Suppose Jack the Ripper didn’t grow old? Suppose he is still a young man today?
 
 “It’s a crazy theory, I grant you,” he said. “All the theories about the Ripper are crazy. The idea that he was a doctor. Or a maniac. Or a woman. The reasons advanced for such beliefs are flimsy enough. There’s nothing to go by. So why should my notion be any worse?”
 
@@ -529,11 +529,15 @@ I looked at him and shrugged. But I had to give him a truthful answer.
 
 “Sorcerers?”
 
-“Necromancers. Wizards. Practicers of Black Magic?” “What’s the point?”
+“Necromancers. Wizards. Practicers of Black Magic?”
+
+“What’s the point?”
 
 “I studied,” said Sir Guy. “I studied everything. After a while I began to study the dates of the murders. The pattern those dates formed. The rhythm. The solar, lunar, stellar rhythm. The sidereal aspect. The astrological significance.
 
-“Suppose Jack the Ripper didn’t murder for murder’s sake alone? Suppose he wanted to make—a sacrifice?” “What kind of a sacrifice?”
+“Suppose Jack the Ripper didn’t murder for murder’s sake alone? Suppose he wanted to make—a sacrifice?”
+
+“What kind of a sacrifice?”
 
 Sir Guy shrugged. “It is said that if you offer blood to the dark gods they grant boons. Yes, if a blood offering is made at the proper time—when the moon and the stars are right—and with the proper ceremonies—they grant boons. Boons of youth. Eternal youth.”
 
@@ -549,7 +553,7 @@ Sir Guy smiled.
 
 ‘“Well, yes. There must be some point.”
 
-“There is. But I wished to be assured of your interest first. Now I can tell you my plan.”
+<a id="page7"></a>“There is. But I wished to be assured of your interest first. Now I can tell you my plan.”
 
 “And just what is that plan?”
 
@@ -557,8 +561,7 @@ Sir Guy gave me a long look.
 
 “John Carmody,” he said, “you and I are going to capture Jack the Ripper.”
 
-.space.center
-2
+## 2
 
 .space
 That’s the way it happened. I’ve given the gist of that first interview in all its intricate and somewhat boring detail, because I think it’s important. It helps to throw some light on Sir Guy’s character and attitude. And in view of what happened after that—
@@ -577,7 +580,7 @@ Sir Guy’s thought was simple. It wasn’t even a thought. Just a hunch.
 
 “Why the hurry?”
 
-Sir Guy sighed again. “Because in two days he will kill again.”
+<a id="page8"></a>Sir Guy sighed again. “Because in two days he will kill again.”
 
 “Are you sure?”
 
@@ -605,7 +608,7 @@ As we ascended to the penthouse roof in the elevator I took the opportunity to w
 
 ““What the—” I began.
 
-“If I see him I’ll be ready,” Sir Guy said. He didn’t smile, either.
+<a id="page9"></a>“If I see him I’ll be ready,” Sir Guy said. He didn’t smile, either.
 
 “But you can’t go running around at a party with a loaded revolver in your pocket, man!”
 
@@ -641,7 +644,7 @@ I introduced Sir Guy.
 
 I stared at the crowd that moved restlessly through the fog of cigarette smoke.
 
-It was the shank of the evening for this mob. Every hand held a drink. Every face held a slightly hectic flush. Over in one corner the piano was going full blast, but the imperious strains of the *March* from *The Love for Three Oranges* couldn’t drown out the profanity from the crap-game in the other corner.
+It was the shank of the evening for this mob. Every <a id="page10"></a>hand held a drink. Every face held a slightly hectic flush. Over in one corner the piano was going full blast, but the imperious strains of the *March* from *The Love for Three Oranges* couldn’t drown out the profanity from the crap-game in the other corner.
 
 Prokofieff had no chance against African polo, and one set of ivories rattled louder than the other.
 
@@ -657,9 +660,9 @@ He turned and grabbed Sir Guy by the arm, dragging him to the middle of the carp
 
 “It is our custom, Sir Guy,” said Baston, loudly, “to subject our new friends to a little cross-examination. Just a little formality at these very formal gatherings, you understand. Are you prepared to answer questions?”
 
-‘‘Sir Guy nodded and grinned.
+Sir Guy nodded and grinned.
 
-“Very well,” Baston muttered. “Friends—I give you this bundle from Britain. Your witness.”
+<a id="page11"></a>“Very well,” Baston muttered. “Friends—I give you this bundle from Britain. Your witness.”
 
 Then the ribbing started. I meant to listen, but at that moment Lydia Dare saw me and dragged me off into the vestibule for one of those Darling-I-waited-for-your-call-all-day routines.
 
@@ -693,7 +696,7 @@ Sir Guy stood there, and I could swear he was fully conscious of the situation h
 
 I wondered idly just what was *really* wrong with him. Why he had this odd fixation concerning Jack the Ripper. Maybe he was hiding secrets, too. . . .
 
-Baston, as usual, broke the mood. He burlesqued it “The Walrus isn’t kidding, friends,” he said. He slapped Sir Guy on the back and put his arm around him as he orated. “Our English cousin is really on the trail of the fabulous Jack the Ripper. You all remember Jack the Ripper, I presume? Quite a cut-up in the old days, as I recall. Really had some ripping good times when he went out on a tear.
+<a id="page12"></a>Baston, as usual, broke the mood. He burlesqued it “The Walrus isn’t kidding, friends,” he said. He slapped Sir Guy on the back and put his arm around him as he orated. “Our English cousin is really on the trail of the fabulous Jack the Ripper. You all remember Jack the Ripper, I presume? Quite a cut-up in the old days, as I recall. Really had some ripping good times when he went out on a tear.
 
 “The Walrus has some idea that the Ripper is still alive, probably prowling around Chicago with a Boy Scout knife. In fact—” Baston paused impressively and shot it out in a rasping stage whisper—“in fact, he has reason to believe that Jack the Ripper might even be right here in our midst tonight.”
 
@@ -711,7 +714,7 @@ Then Baston caught it.
 
 His embracing arm had slipped and encountered the hard outline of the gun in Sir Guy’s pocket. He snatched it out before Hollis had the opportunity to protest.
 
-I stared hard at Sir Guy, wondering if this thing had carried far enough. But he flicked a wink my way and I remembered he had told me not to be alarmed.
+<a id="page13"></a>I stared hard at Sir Guy, wondering if this thing had carried far enough. But he flicked a wink my way and I remembered he had told me not to be alarmed.
 
 So I waited as Baston broached a drunken inspiration.
 
@@ -739,7 +742,7 @@ Absurd. Standing in the dark with a group of tipsy fools. And yet there was real
 
 Jack the Ripper prowled in darkness like this. And Jack the Ripper had a knife. Jack the Ripper had a madman’s brain and a madman’s purpose.
 
-But Jack the Ripper was dead, dead and dust these many years—by every human law.
+<a id="page14"></a>But Jack the Ripper was dead, dead and dust these many years—by every human law.
 
 Only there are no human laws when you feel yourself in the darkness, when the darkness hides and protects and the outer mask slips off your face and you feel something welling up within you, a brooding shapeless purpose that is brother to the blackness.
 
@@ -757,7 +760,7 @@ I glanced at the faces, marveling at the variety of expressions human beings can
 
 All the faces were present in the circle. Nobody had fled. And yet Sir Guy Hollis lay there.
 
-LaVeme Gonnister was wailing and hiding her face.
+LaVerne Gonnister was wailing and hiding her face.
 
 “All right.”
 
@@ -775,8 +778,7 @@ Turning, he headed for the closet. I followed him. Nobody said a word.
 
 It was a pretty dull party after that.
 
-.space.center
-3
+## <a id="page15"></a>3
 
 .space
 I met Sir Guy the following evening as we agreed, on the corner of 29th and South Halsted.
@@ -805,9 +807,7 @@ Sir Guy returned my grin, but without mirth. “I’m not so sure, at that,” h
 
 “You’re in the black neighborhood of South Clark Street,” I said shortly. “And why you dragged me down here I still don’t know.”
 
-“It’s a hunch,” Sir Guy admitted. “Just a hunch on my part, John. I want to wander around down here.
-
-There’s the same geographical conformation in these streets as in those courts where the Ripper roamed and slew. That’s where we’ll find him, John. Not in the bright lights, but down here in the darkness. The darkness where he waits and crouches.”
+“It’s a hunch,” Sir Guy admitted. “Just a hunch on my part, John. I want to wander around down here. <a id="page16"></a>There’s the same geographical conformation in these streets as in those courts where the Ripper roamed and slew. That’s where we’ll find him, John. Not in the bright lights, but down here in the darkness. The darkness where he waits and crouches.”
 
 “Isn’t that why you brought a gun?” I asked. I was unable to keep a trace of sarcastic nervousness from my voice. All this talk, this incessant obsession with Jack the Ripper, got on my nerves more than I cared to admit.
 
@@ -819,7 +819,7 @@ We crawled through that fog, alone and silent, like two tiny maggots floundering
 
 “Can’t you see there’s not a soul around these streets?” I said.
 
-“He’s bound to come,” said Sir Guy. “He’ll be drawn here. This is what I’ve been looking for. A genius loci. An evil spot that attracts evil. Always, when he slays, it’s in the slums.
+“He’s bound to come,” said Sir Guy. “He’ll be drawn here. This is what I’ve been looking for. A *genius loci*. An evil spot that attracts evil. Always, when he slays, it’s in the slums.
 
 “You see, that must be one of his weaknesses. He has a fascination for squalor. Besides, the women he needs for sacrifice are more easily found in the dives and stewpots of a great city.”
 
@@ -829,7 +829,7 @@ We emerged from our side street and stood upon the threshold of an alley.
 
 Through the white clouds of mist ahead, I discerned a dim blue light, a naked bulb dangling from a beer sign above an alley tavern.
 
-“Let’s take a chance,” I said. “I’m beginning to shiver.”
+<a id="page17"></a>“Let’s take a chance,” I said. “I’m beginning to shiver.”
 
 “Lead the way,” said Sir Guy. I led him down the alley passage. We halted before the door of the dive.
 
@@ -863,7 +863,7 @@ The clock over the bar ticked on. The wind was rising outside, tearing the shrou
 
 He began to talk, and the shadows crept up about us to listen.
 
-He rambled a great deal. He went over everything he’d said in the office when I met him, just as though I hadn’t heard it before. The poor devils with obsessions are like that.
+He rambled a great deal. He went over everything he’d said in the office when I met him, just as though I <a id="page18"></a>hadn’t heard it before. The poor devils with obsessions are like that.
 
 I listened very patiently. I poured Sir Guy another drink. And another.
 
@@ -877,15 +877,17 @@ I suppose I was guilty of goading him.
 
 “What do you mean, ‘so what’?” said Sir Guy.
 
-“I mean—so what?” I answered. “If all this is true, it still doesn’t prove that by sitting down in a dingy gin-mill on the South Side, Jack the Ripper is going to walk in here and let you kill him, or turn him over to the police. And come to think of it, I don’t even know now just what you intend to do with him if you ever did find him.”
+“I mean—so what?” I answered. “If all this is true, it still doesn’t prove that by sitting down in a dingy gin-mill on the South Side, Jack the Ripper is going to walk in here and let you kill him, or turn him over to the police. And come to think of it, I don’t even know now just what you intend to *do* with him if you ever did find him.”
 
 Sir Guy gulped his gin. “I’d capture the bloody swine,” he said. “Capture him and turn him over to the government, together with all the papers and documentary evidence I’ve collected against him over a period of many years. I’ve spent a fortune investigating this affair, I tell you, a fortune! His capture will mean the solution of hundreds of unsolved crimes, of that I am convinced.”
 
-In vino veritas. Or was all this babbling the result of too much gin? It didn’t matter. Sir Guy Hollis had another. I sat there and wondered what to do with him. The man was rapidly working up to a climax of hysterical drunkenness.
+*In vino veritas.* Or was all this babbling the result of too much gin? It didn’t matter. Sir Guy Hollis had <a id="page19"></a>another. I sat there and wondered what to do with him. The man was rapidly working up to a climax of hysterical drunkenness.
 
 “That’s enough,” I said, putting out my hand as Sir Guy reached for the half-emptied bottle again. “Let’s call a cab and get out of here. It’s getting late and it doesn’t look as though your elusive friend is going to put in his appearance. Tomorrow, if I were you, I’d plan to turn all those papers and documents over to the F.B.I. If you’re so convinced of the truth of your theory, they are competent to make a very thorough investigation, and find your man.”
 
-“No.” Sir Guy was drunkenly obstinate. “No cab.” “But let’s get out of here anyway,” I said, glancing at my watch. “It’s past midnight.”
+“No.” Sir Guy was drunkenly obstinate. “No cab.”
+
+“But let’s get out of here anyway,” I said, glancing at my watch. “It’s past midnight.”
 
 He sighed, shrugged, and rose unsteadily. As he started for the door, he tugged the gun free from his pocket.
 
@@ -905,7 +907,7 @@ Disgust got the better of me.
 
 “Well, what is it?” I grumbled. “Just why else are you so interested in tracking down this mythical killer?”
 
-My arm held his. But his stare held me.
+<a id="page20"></a>My arm held his. But his stare held me.
 
 “In London,” he whispered. “In 1888 . . . one of those nameless drabs the Ripper slew . . . was my mother.”
 
@@ -947,7 +949,7 @@ I bore down on him swiftly.
 
 enoch
 
-# Enoch
+# <a id="page21"></a>Enoch
 
 .fl
 <span class="smallcaps">It always starts</span> the same way.
@@ -966,7 +968,7 @@ You can feel his body, so tiny and cold, pressed tightly against the base of you
 
 That’s when you try to fight him. You try not to hear what he says. Because when you listen, you’re lost. You have to obey him then.
 
-Oh, he’s wicked and wise!
+<a id="page22"></a>Oh, he’s wicked and wise!
 
 He knows how to frighten and threaten if you dare to resist. But I seldom try, anymore. It’s better for me if I do listen and then obey.
 
@@ -996,7 +998,7 @@ He wants me to kill people for him. Enoch. The thing that lives on the top of my
 
 Sometimes he leaves me alone for days. Then, suddenly, I feel him there, scratching away at the roof of my brain. I hear his whisper ever so plainly, and he’ll be telling me about someone who is coming through the swamp.
 
-I don’t know how he knows about them. He couldn’t have seen them, yet he describes them perfectly.
+<a id="page23"></a>I don’t know how he knows about them. He couldn’t have seen them, yet he describes them perfectly.
 
 “There’s a tramp walking down the Aylesworthy Road. A short, fat man, with a bald head. His name is Mike. He’s wearing a brown sweater and blue overalls. He’s going to turn into the swamp in about ten minutes when the sun goes down. He’ll stop under the big tree next to the dump.
 
@@ -1022,13 +1024,13 @@ This time I tried to fight him. I kept whimpering, “I won’t do it, I won’t
 
 He just laughed. And then he told me what he’d do if I refused. He told me over and over again.
 
-“Better that I do it to her and not to you,” Enoch reminded me. “Or would you rather I—”
+<a id="page24"></a>“Better that I do it to her and not to you,” Enoch reminded me. “Or would you rather I—”
 
 “No!” I said. “No. I’ll do it.”
 
 “After all,” Enoch whispered, “I can’t help it. I must be served every so often. To keep me alive. To keep me strong. So I can serve you. So I can give you things. That is why you have to obey me. If not, I’ll just stay right here and—”
 
-“No,” I said. “I’lldoit.”
+“No,” I said. “I’ll do it.”
 
 And I did it.
 
@@ -1048,7 +1050,7 @@ I don’t know how long I slept. It must have been a long time. All I remember i
 
 Then I woke up all the way, because I heard the banging on my door.
 
-I waited a moment. I waited for Enoch to whisper to me, tell me what I should do.
+<a id="page25"></a>I waited a moment. I waited for Enoch to whisper to me, tell me what I should do.
 
 But Enoch was asleep now. He always sleeps—afterwards. Nothing wakes him for days on end; and during that time I am free. Usually I enjoy such freedom, but not now. I needed his help.
 
@@ -1074,7 +1076,7 @@ I went with him. There was nothing else for me to do. I went with him into town,
 
 But Sheriff Shelby held them off, and at last I was tucked away safe and sound in the back of the jail-house. He locked me up in the middle cell. The two cells on each side of mine were vacant, so I was all alone. All alone except for Enoch, and he slept through everything.
 
-It was still pretty early in the morning, and Sheriff Shelby went out again with some other men. I guess he was going to try and get the body out of the quicksand, if he could. He didn’t try to ask any questions, and I wondered about that.
+It was still pretty early in the morning, and Sheriff Shelby went out again with some other men. I guess he <a id="page26"></a>was going to try and get the body out of the quicksand, if he could. He didn’t try to ask any questions, and I wondered about that.
 
 Charley Potter, now, he was different. He wanted to know everything. Sheriff Shelby had left him in charge of the jail while he was away. He brought me my breakfast after a while, and hung around asking questions.
 
@@ -1096,7 +1098,7 @@ Now up to this time, I wasn’t really feeling anything. It had all happened so 
 
 It was like part of a dream; the Sheriff and the mob and all this talk, about a trial and lynching and the body in the swamp.
 
-But somehow the sight of this Dr. Silversmith changed things.
+<a id="page27"></a>But somehow the sight of this Dr. Silversmith changed things.
 
 He was real, all right. You could tell he was a doctor who wanted to send me to the Institution after they found my mother.
 
@@ -1118,7 +1120,7 @@ Then, when she came back, Enoch was with her. And he was to be mine forever, she
 
 I told this very carefully and explained why it was I couldn’t help myself when I did anything now, because ever since my mother died Enoch had guided me.
 
-Yes, all these years Enoch had protected me, just as my mother planned. She knew I couldn’t get along alone. I admitted this to Dr. Silversmith because I thought he was a wise man and would understand.
+Yes, all these years Enoch had protected me, just as <a id="page28"></a>my mother planned. She knew I couldn’t get along alone. I admitted this to Dr. Silversmith because I thought he was a wise man and would understand.
 
 That was wrong.
 
@@ -1140,9 +1142,7 @@ When I woke up, there was a new man standing in front of my cell. He had a big, 
 
 “Hello, Seth,” he said, very friendly. “Having a little snooze?”
 
-I reached up to the top of my head. I couldn’t feel
-
-Enoch, but I knew he was there, and still asleep. He moves fast even when he’s sleeping.
+I reached up to the top of my head. I couldn’t feel <a id="page29"></a>Enoch, but I knew he was there, and still asleep. He moves fast even when he’s sleeping.
 
 “Don’t be alarmed,” said the man. “I won’t hurt you.”
 
@@ -1174,7 +1174,7 @@ I jumped.
 
 I watched his eyes, and they were still smiling, so I knew I could trust this man.
 
-“They’ll find other bodies too, if they keep on, won’t they, Seth?”
+<a id="page30"></a>“They’ll find other bodies too, if they keep on, won’t they, Seth?”
 
 I nodded.
 
@@ -1208,11 +1208,13 @@ Mr. Cassidy laughed out loud now, but he put the cigar away and leaned forward.
 
 “You can be a big help to me, Seth,” he whispered. “I suppose you know what a District Attorney must do.”
 
-“He’s a sort of lawyer, isn’t he—at trials and things?” “That’s right. I’m going to be at your trial, Seth. Now you don’t want to have to get up in front of all those people and tell them about—what happened. Right?” “No, I don’t, Mr. Cassidy. Not those mean people here in town. They hate me.”
+“He’s a sort of lawyer, isn’t he—at trials and things?”
 
-“Then here’s what you do. You tell me all about it,
+“That’s right. I’m going to be at your trial, Seth. Now you don’t want to have to get up in front of all those people and tell them about—what happened. Right?”
 
-and I’ll talk for you. That’s friendly enough, isn’t it?” I wished Enoch was there to help me, but he was asleep. I looked at Mr. Cassidy and made up my own mind.
+“No, I don’t, Mr. Cassidy. Not those mean people here in town. They hate me.”
+
+“Then here’s what you do. You tell me all about it, <a id="page31"></a>and I’ll talk for you. That’s friendly enough, isn’t it?” I wished Enoch was there to help me, but he was asleep. I looked at Mr. Cassidy and made up my own mind.
 
 “Yes,” I said. “I can tell you.”
 
@@ -1242,7 +1244,7 @@ Mr. Cassidy sat up and sighed. “But why do you let Enoch do such things?”
 
 Mr. Cassidy watched me while I walked the floor, but he didn’t say a word. He seemed to be very nervous, all of a sudden, and when I came close, he sort of leaned away.
 
-“You’ll explain all that at the trial, of course,” I said. “About Enoch, and everything.”
+<a id="page32"></a>“You’ll explain all that at the trial, of course,” I said. “About Enoch, and everything.”
 
 He shook his head.
 
@@ -1278,7 +1280,7 @@ Mr. Cassidy gazed at my head and then he chuckled again.
 
 “Of course.”
 
-“And you won’t tell a soul?”
+<a id="page33"></a>“And you won’t tell a soul?”
 
 “Not a soul.”
 
@@ -1320,7 +1322,7 @@ I felt the weight lift from my head. That was all, but I knew he was gone.
 
 That sounded like a fine idea, but then I knew Mr. Cassidy was a smart man.
 
-“Whatever you say, Mr. Cassidy. Just be good to Enoch, and he’ll be good to you.”
+<a id="page34"></a>“Whatever you say, Mr. Cassidy. Just be good to Enoch, and he’ll be good to you.”
 
 Mr. Cassidy shook my hand and then he and Enoch went away. I felt tired again. Maybe it was the strain, and maybe it was just that I felt a little queer, knowing that Enoch was gone. Anyway, I went back to sleep for a long time.
 
@@ -1346,15 +1348,21 @@ I must have stood there for a long time. My legs were numb when I turned around 
 
 The lock clicked open, and then Mr. Cassidy came running in.
 
-“Take him off me!” he yelled. “Take him away!” x “What’s the matter?” I asked.
+“Take him off me!” he yelled. “Take him away!”
 
-“Enoch—that thing of yours—I thought you were crazy—maybe I’m the crazy one—but take him off!” “Why, Mr. Cassidy! I told you what Enoch was like.”
+“What’s the matter?” I asked.
+
+<a id="page35"></a>“Enoch—that thing of yours—I thought you were crazy—maybe I’m the crazy one—but take him off!”
+
+“Why, Mr. Cassidy! I told you what Enoch was like.”
 
 “He’s crawling around up there now. I can feel him. And I can hear him. The things he whispers!”
 
 “But I explained all that, Mr. Cassidy. Enoch wants something, doesn’t he? You know what it is. And you’ll have to give it to him. You promised.”
 
-“I can’t. I won’t kill for him—he can’t make me—” “He can. And he will.”
+“I can’t. I won’t kill for him—he can’t make me—”
+
+“He can. And he will.”
 
 Mr. Cassidy gripped the bars on the cell door. “Seth, you must help me. Call Enoch. Take him back. Make him go back to you. Hurry.”
 
@@ -1376,9 +1384,7 @@ He slumped down sideways and I could see him through the bars dividing our cells
 
 “You’d better,” I called out. “Or else Enoch will do something. Please, Mr. Cassidy—oh, hurry—”
 
-Then Mr. Cassidy gave a little moan and I guess he
-
-fainted. Because he didn’t say anything more and he stopped clawing. I called him once but he wouldn’t answer.
+Then Mr. Cassidy gave a little moan and I guess he <a id="page36"></a>fainted. Because he didn’t say anything more and he stopped clawing. I called him once but he wouldn’t answer.
 
 So what could I do? I sat down in the dark corner of my cell and watched the moonlight. Moonlight always makes Enoch wild.’
 
@@ -1408,7 +1414,7 @@ There was no need for me to stay now, with Mr. Cassidy gone. And Enoch wouldn’
 
 That was as close as I’ve ever come to really seeing Enoch—a sort of a white streak that came flashing out of the big red hole he had eaten in the back of Mr. Cassidy’s skull.
 
-Then I felt the soft, cold, flabby weight landing on my own head once more, and I knew Enoch had come home.
+<a id="page37"></a>Then I felt the soft, cold, flabby weight landing on my own head once more, and I knew Enoch had come home.
 
 I walked through the corridor and opened the outer door of the jail.
 
@@ -1420,7 +1426,7 @@ Together we walked out into the night. The moon was shining, everything was stil
 
 catnip
 
-# Catnip
+# <a id="page39"></a>Catnip
 
 .fl
 <span class="smallcaps">Ronnie Shires stood before</span> the mirror and slicked back his hair. He straightened his new sweater and stuck out his chest. Sharp! Had to watch the way he looked, with graduation only a few weeks away and that election for class president coming up. If he could get to be president then, next year in high school he’d be a real wheel. Go out for second team or something. But he had to watch the angles—
@@ -1439,9 +1445,7 @@ Ma came out of the kitchen, carrying his lunch. Ronnie wiped the grin off his fa
 
 “Thanks. See you.” He picked up his lunch and ran outside. He walked along, smiling and whistling, knowing Ma was watching him from the window. She was always watching him, and it was a real drag.
 
-Then he turned the corner, halted under a tree, and
-
-fished out a cigarette. He lit it and sauntered slowly across the street, pufling deeply. Out of the corner of his eye he watched the Ogden house just ahead.
+Then he turned the corner, halted under a tree, and <a id="page40"></a>fished out a cigarette. He lit it and sauntered slowly across the street, pufling deeply. Out of the corner of his eye he watched the Ogden house just ahead.
 
 Sure enough, the front screen door banged and Marvin Ogden came down the steps. Marvin was fifteen, one year older than Ronnie, but smaller and skinnier. He wore glasses and stuttered when he got excited, but he was valedictorian of the graduating class.
 
@@ -1463,7 +1467,9 @@ Ronnie spit in the direction of Marvin’s shoes. “I’d like to see you just 
 
 Marvin began to walk away, but Ronnie kept pace. “Slow down, jag. I wanna talk to you.”
 
-“Wh-what is it, Ronnie? I don’t want to be late.” “Shut your yap.”
+“Wh-what is it, Ronnie? I don’t want to be late.”
+
+“Shut your yap.”
 
 “But—”
 
@@ -1473,9 +1479,11 @@ Marvin began to walk away, but Ronnie kept pace. “Slow down, jag. I wanna talk
 
 “You trying to tell me what to do, square?”
 
-“N-no. I mean, I only want to keep you out of trouble. What if Miss Sanders found out, and you want to be elected class president? Why, if anybody knew—” Ronnie put his hand on Marvin’s shoulder. He smiled. “You wouldn’t ever tell her about it, would you, Snot-face?” he murmured. x“Of course not! Cross my heart!”
+“N-no. I mean, I only want to keep you out of trouble. What if Miss Sanders found out, and you want to be elected class president? Why, if anybody knew—” Ronnie put his hand on Marvin’s shoulder. He smiled. “You wouldn’t ever tell her about it, would you, Snot-face?” he murmured.
 
-Ronnie continued to smile. He dug his fingers into Marvin’s shoulder. With his other hand he swept Marvin’s books to the ground. As Marvin bent forward to pick them up, he kicked Marvin as hard as he could, bringing his knee up fast. Marvin sprawled on the sidewalk. He began to cry. Ronnie watched him as he attempted to rise.
+“Of course not! Cross my heart!”
+
+<a id="page41"></a>Ronnie continued to smile. He dug his fingers into Marvin’s shoulder. With his other hand he swept Marvin’s books to the ground. As Marvin bent forward to pick them up, he kicked Marvin as hard as he could, bringing his knee up fast. Marvin sprawled on the sidewalk. He began to cry. Ronnie watched him as he attempted to rise.
 
 “This is just a sample of what you got coming if you squeal,” he said. He stepped on the fingers of Marvin’s left hand. “Creep!”
 
@@ -1501,11 +1509,13 @@ Mary June jumped about a foot, her curls bouncing on her shoulders. Then she tur
 
 “Wait for me!” he mocked her. “What’s the matter, you afraid you’ll get lost or something?”
 
-“No. You know. I don’t like to pass that old Mrs. Mingle’s place. She always stares at me and makes faces.” “She’s nuts!”
+“No. *You* know. I don’t like to pass that old Mrs. Mingle’s place. She always stares at me and makes faces.”
+
+“She’s nuts!”
 
 “I’m scared of her, Ronnie. Aren’t you?”
 
-“Me scared of that old bat? She can go take a flying leap!”
+<a id="page42"></a>“Me scared of that old bat? She can go take a flying leap!”
 
 “Don’t talk so loud, she’ll hear you.”
 
@@ -1521,9 +1531,9 @@ Mrs. Mingle herself was not in evidence today. Usually she could be seen in the 
 
 “Who cares?” Ronnie pulled Mary June’s curls. “You dames are scared of everything, ain’t you?”
 
-“Aren’t, Ronnie.”
+“*Aren’t,* Ronnie.”
 
-“Don’t tell me how to talk!” Ronnie’s gaze shifted again to the silent house, huddled in the shadows. A segment of shadow at the side of the cottage seemed to be moving. A black blur detached itself from the end of the porch. Ronnie recognized Mrs. Mingle’s cat. It minced down the path towards the gate.
+“Don’t tell *me* how to talk!” Ronnie’s gaze shifted again to the silent house, huddled in the shadows. A segment of shadow at the side of the cottage seemed to be moving. A black blur detached itself from the end of the porch. Ronnie recognized Mrs. Mingle’s cat. It minced down the path towards the gate.
 
 Quickly, Ronnie stooped and found a rock. He grasped it, rose, aimed, and hurled the missile in one continuous movement.
 
@@ -1535,12 +1545,11 @@ The cat hissed, then squawled in pain as the rock grazed its ribs.
 
 They flew down the street. The school bell drowned oqt the cat-yowl.
 
-“Here we go,” said Ronnie. “You do my homework for me? Good. Give it here once.”
+<a id="page43"></a>“Here we go,” said Ronnie. “You do my homework for me? Good. Give it here once.”
 
 He snatched the papers from Mary June’s hand and sprinted ahead. The girl stood watching him, smiling her admiration. From behind the fence the cat watched, too, and licked its jaws.
 
-.space.center
-2
+## 2
 
 .space
 It happened that afternoon, after school. Ronnie and Joe Gordon and Seymour Higgins were futzing around with a baseball and he was talking about the outfit Ma promised to buy him this summer if the dressmaking business picked up. Only he made it sound as if he was getting the outfit for sure, and that they could all use the mask and mitt. It didn’t hurt to build it up a little, with election tomorrow. He had to stand in good with the whole gang.
@@ -1551,7 +1560,7 @@ So he said how about going down the street to in front of the pool hall and mayb
 
 Ronnie knew that these guys didn’t smoke, but it sounded cool and that’s what he wanted. They all followed him down the street, pounding their cleats on the sidewalk. It made a lot of noise, because everything was so quiet.
 
-All Ronnie could hear was the cat. They were passing Mrs. Mingle’s and there was this cat, rolling around in the garden on its back and on its stomach, playing with some kind of ball. It purred and meeowed and whined.
+All Ronnie could hear was the cat. They were passing Mrs. Mingle’s and there was this cat, rolling around in the garden on its back and on its stomach, playing <a id="page44"></a>with some kind of ball. It purred and meeowed and whined.
 
 “Look!” yelled Joe Gordon. “Dizzy cat’s havin’ a fit ’r something, huh?”
 
@@ -1571,7 +1580,9 @@ All Ronnie could hear was the cat. They were passing Mrs. Mingle’s and there w
 
 The cat squealed, sniffing and clawing at the ball. Ronnie scowled at it “I hate cats. Somebody oughta drowned that damn thing.”
 
-“Better not let Mrs. Mingle hear you talk like that,” Seymour cautioned. “She’ll put the evil eye on you.” “Bull!”
+“Better not let Mrs. Mingle hear you talk like that,” Seymour cautioned. “She’ll put the evil eye on you.”
+
+“Bull!”
 
 “Well, she grows them herbs and stuff and my old lady says—”
 
@@ -1585,7 +1596,7 @@ Before he knew it, Ronnie was opening the gate. He advanced toward the black tom
 
 The cat crouched over the catnip, eyes flattened against a velveteen skull. Ronnie hesitated a moment, gauging the glitter of claws, the glare of agate eyes. But the gang was watching—
 
-“Scat!” he shouted. He advanced, waving his arms. The cat sidled backwards. Ronnie feinted with his hand and scooped up the catnip ball.
+<a id="page45"></a>“Scat!” he shouted. He advanced, waving his arms. The cat sidled backwards. Ronnie feinted with his hand and scooped up the catnip ball.
 
 “See? I got it, you guys. I got—”
 
@@ -1613,11 +1624,10 @@ Now she was coming closer, and the cat was inching up on him, and then she raise
 
 Ronnie ran.
 
-.space.center
-3
+## <a id="page46"></a>3
 
 .space
-Could he help it?Geez, the guys ran too. They’d run before he did, even. He had to run, the old bat was crazy, anybody could see that. Besides, if he’d stayed she’d of tried to hit him and maybe he’d let her have it. He was only trying to keep out of trouble. That was all.
+Could he help it? Geez, the guys ran too. They’d run before he did, even. He had to run, the old bat was crazy, anybody could see that. Besides, if he’d stayed she’d of tried to hit him and maybe he’d let her have it. He was only trying to keep out of trouble. That was all.
 
 Ronnie told it to himself over and over at supper time. But that didn’t do any good, telling it to himself. It was the guys he had to tell it to, and fast. He had to explain it before election tomorrow—
 
@@ -1635,7 +1645,9 @@ Ronnie told it to himself over and over at supper time. But that didn’t do any
 
 “It’s that election tomorrow, isn’t it?”
 
-“Leave me alone.” Ronnie rose. “I’m goin’ out.” “Ronnie!”
+“Leave me alone.” Ronnie rose. “I’m goin’ out.”
+
+“Ronnie!”
 
 “I got to see Joe. Important.”
 
@@ -1649,7 +1661,7 @@ He lit a match and a shower of sparks spiraled to the sky. Ronnie began to walk,
 
 It was dark. The light on the corner was out, and the Ogdens weren’t home. That made it darker, because Mrs. Mingle never showed a light in her cottage.
 
-Mrs. Mingle. Her cottage was up ahead. He’d better cross the street.
+<a id="page47"></a>Mrs. Mingle. Her cottage was up ahead. He’d better cross the street.
 
 What was the matter with him? Was he getting chicken? Afraid of that damned old woman, that old witch! He puffed, gulped, expanded his chest. Just let her try anything. Just let her be hiding under the trees waiting to grab out at him with her big claws and hiss—what was he talking about, anyway? That was the cat. Nuts to her cat, and her too. He’d show them!
 
@@ -1657,7 +1669,7 @@ Ronnie walked past the dark shadow where Mrs. Mingle dwelt. He whistled defiance
 
 Ronnie paused and peered over the fence. Everything was black and still. There was nothing to be afraid of. Everything was black—
 
-Everything except that flicker. It came from up the path, under the porch. He could see the porch now because there was a light. Not a steady light; a wavering light. Like a fire. A fire—where his cigarette had landed. The cottage was beginning to bum!
+Everything except that flicker. It came from up the path, under the porch. He could see the porch now because there was a light. Not a steady light; a wavering light. Like a fire. A fire—where his cigarette had landed. The cottage was beginning to burn!
 
 Ronnie gulped and clung to the fence. Yes, it was on fire all right. Mrs. Mingle would come out and the firemen would come and they’d find the butt and see him and then—
 
@@ -1665,12 +1677,11 @@ He fled down the street. The wind cat howled behind him, the wind that fanned th
 
 Ma was in bed. He managed to slow down and walk softly as he slipped into the house, up the stairs. He undressed in the dark and sought the white womb between the bedsheets. When he got the covers over his head he had another chill. Lying there, trembling, not daring to look out the window and see the glare from the other side of the block, Ronnie’s teeth chattered. He knew he was going to pass out in a minute.
 
-Then he heard the screaming from far away. Fire engines. Somebody had called them. He needn’t worry now. Why should the sound frighten him? It was only a siren, it wasn’t Mrs. Mingle screaming, it couldn’t be. She was all right. He was all right. Nobody knew . . .
+Then he heard the screaming from far away. Fire engines. Somebody had called them. He needn’t worry <a id="page48"></a>now. Why should the sound frighten him? It was only a siren, it wasn’t Mrs. Mingle screaming, it couldn’t be. She was all right. He was all right. Nobody knew . . .
 
 Ronnie fell asleep with the wind and the siren wailing in his ears. His slumber was deep and only once was there an interruption. That was along towards morning, when he thought he heard a noise at the window. It was a scraping sound. The wind, of course. And it must have been the wind, too, that sobbed and whined and whimpered beneath the windowsill at dawn. It was only Ronnie’s imagination, Ronnie’s conscience, that transformed the sound into the wailing of a cat . . .
 
-.space.center
-4
+## 4
 
 .space
 “Ronnie!”
@@ -1699,7 +1710,7 @@ Ma’s voice rose. “Don’t you know? Why boy, it was just awful—Mrs. Mingle
 
 “The poor old lady—just think of it—trapped in there—”
 
-He had to shut her up. He couldn’t stand what was coming next. But what could he say, how could he stop her?
+<a id="page49"></a>He had to shut her up. He couldn’t stand what was coming next. But what could he say, how could he stop her?
 
 “Burned alive. The whole place was on fire when they got there. The Ogdens saw it when they came home and Mr. Ogden called the firemen, but it was too late. When I think of that old lady it just makes me—”
 
@@ -1727,9 +1738,7 @@ Ronnie stared at it. Why hadn’t the damn thing burned up in the fire? And what
 
 He gripped the lath. It felt good between his fingers, splinters and all. Just let that mangy tom start anything—
 
-He walked along, not looking back. What was the matter with him? Suppose the cat did follow him. It couldn’t hurt him any. Neither could old Mingle. She was dead. The dirty witch. Talking about cutting his tongue out. Well, she got what was coming to her, all
-
-right. Too bad her scroungy cat was still around. If it didn’t watch out, he’d fix it, too. He should worry now.
+He walked along, not looking back. What was the matter with him? Suppose the cat did follow him. It couldn’t hurt him any. Neither could old Mingle. She was dead. The dirty witch. Talking about cutting his tongue out. Well, she got what was coming to her, all <a id="page50"></a>right. Too bad her scroungy cat was still around. If it didn’t watch out, he’d fix it, too. He should worry now.
 
 Nobody was going to find out about that cigarette. Mrs. Mingle was dead. He ought to be glad, everything was all right, sure, he felt great.
 
@@ -1753,15 +1762,13 @@ Ronnie closed his eyes and darted back up. the street. The cat followed.
 
 He had to get rid of it before he went to school. What if people saw him with her cat? Maybe they’d start to talk. He had to get rid of it—
 
-Ronnie ran clear down to Sinclair Street. The cat was right behind him. On the corner he picked up a stone and let fly. The cat dodged. Then it sat down on the sidewalk and looked at him. Just looked. -
+Ronnie ran clear down to Sinclair Street. The cat was right behind him. On the corner he picked up a stone and let fly. The cat dodged. Then it sat down on the sidewalk and looked at him. Just looked.
 
 Ronnie couldn’t take his eyes off the cat. It stared so. Mrs. Mingle had stared, too. But she was dead. And this was only a cat. A cat he had to get away from, fast.
 
 The streetcar came down Sinclair Street. Ronnie found a dime in his pocket and boarded the car. The cat didn’t move. He stood on the platform as the car pulled away and looked back at the cat. It just sat there.
 
-Ronnie rode around the loop, then transferred to the Hollis Avenue bus. It brought him over to the school,
-
-ten minutes late. He got off and started to hurry across the street.
+Ronnie rode around the loop, then transferred to the Hollis Avenue bus. It brought him over to the school, <a id="page51"></a>ten minutes late. He got off and started to hurry across the street.
 
 A shadow crossed the entrance to the building.
 
@@ -1793,7 +1800,7 @@ And then he heard the footsteps on the porch, the slow footsteps; he heard the r
 
 “Ma!”
 
-“Ronnie, what’s the matter? What you doing home from school?”
+<a id="page52"></a>“Ronnie, what’s the matter? What you doing home from school?”
 
 He heard her. It was all right. Just in time, Ronnie closed his mouth. He couldn’t tell her about the cat. He mustn’t ever tell her. Then everything would come out. He had to be careful what he said.
 
@@ -1817,7 +1824,7 @@ The window. It was open. And the scratching came from the ledge outside. He had 
 
 He heard the scratching.
 
-And it came from *inside the room!*
+<a id="page53"></a>And it came from *inside the room!*
 
 Ronnie hurled himself upon the bed, clawing the covers up to his chin. His eyes bulged against the darkness.
 
@@ -1849,7 +1856,7 @@ Everything was fire and he lashed out and suddenly the shadow went away and he w
 
 “Ronnie! Why don’t you answer me?”
 
-A guttural sound came from deep within Ronnie’s throat, but no words. There would never be any words.
+<a id="page54"></a>A guttural sound came from deep within Ronnie’s throat, but no words. There would never be any words.
 
 “Ronnie—what’s the matter? Has the cat got your tongue—?”
 
@@ -1857,7 +1864,7 @@ A guttural sound came from deep within Ronnie’s throat, but no words. There wo
 
 the_hungry_house
 
-# The Hungry House
+# <a id="page55"></a>The Hungry House
 
 .fl
 <span class="smallcaps">At first there</span> were two of them—he and she, together. That’s the way it was when they bought the house.
@@ -2234,7 +2241,7 @@ It capered and postured, and then it squatted, dabbling. Finally, all alone in t
 
 the_man_who_collected_poe
 
-# The Man Who Collected Poe
+# <a id="page79"></a>The Man Who Collected Poe
 
 .fl
 <span class="smallcaps">During the whole</span> of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens, I had been passing alone, by automobile, through a singularly dreary tract of country, and at length found myself, as the shades of the evening drew on, within view of my destination.
@@ -2379,7 +2386,9 @@ I brushed the proffered glass aside. “Enough,” I said. “I must be on my wa
 
 Was it fancy or did I find fear frozen on his features? Canning clutched my arm and cried, “No, stay with me! This is no night on which to be alone; I swear I cannot abide the thought of being alone, I can bear to be alone no more!”
 
-His incoherent babble mingled with the thunder and the echoes; I drew back and confronted him. “Control yourself,” I counseled. “Confess that this is a hoax, an elaborate imposture arranged to please your fancy.” “Hoax? Imposture? Stay, and I shall prove to you beyond all doubt”—and so saying, Launcelot Canning stooped and opened a small drawer set in the wall beneath and beside the bookshelves. “This should repay you for your interest in my story, and in Poe,” he murmured. “Know that you are the first, other person than myself, to glimpse these treasures.”
+His incoherent babble mingled with the thunder and the echoes; I drew back and confronted him. “Control yourself,” I counseled. “Confess that this is a hoax, an elaborate imposture arranged to please your fancy.”
+
+“Hoax? Imposture? Stay, and I shall prove to you beyond all doubt”—and so saying, Launcelot Canning stooped and opened a small drawer set in the wall beneath and beside the bookshelves. “This should repay you for your interest in my story, and in Poe,” he murmured. “Know that you are the first, other person than myself, to glimpse these treasures.”
 
 He handed me a sheaf of manuscripts on plain white paper; documents written in ink curiously similar to that I had noted while perusing Poe’s letters. Pages were clipped together in groups, and for a moment I scanned titles alone.
 
@@ -2405,7 +2414,7 @@ Putting the sheaf aside, I endeavored to compose myself as I moved away from Lau
 
 Stifled and dull echoes of thunder from a remote portion of the mansion now commingled with the soundless seething of my own inner turmoil, as I turned and rashly addressed my host.
 
-“Confess!” I cried. “Is it not true that you have written these tales, fancying yourself the embodiment of Poe? Is it not true that you suffer from a singular delusion bom of solitude and everlasting brooding upon the past; that you have reached a stage characterized by the conviction that Poe still lives on in your own person?”
+“Confess!” I cried. “Is it not true that you have written these tales, fancying yourself the embodiment of Poe? Is it not true that you suffer from a singular delusion born of solitude and everlasting brooding upon the past; that you have reached a stage characterized by the conviction that Poe still lives on in your own person?”
 
 A strong shudder came over him and a sickly smile quivered about his lips as he replied. “Fool! I say to you that I have spoken the truth. Can you doubt the evidence of your senses? This house is real, the Poe collection exists, and the stories exist—they exist, I swear, as truly as the body lying in the crypt below!”
 
@@ -2435,7 +2444,7 @@ I pushed him aside and he blundered backwards upsetting the candelabra, so that 
 
 A rush of wind, a roar of flame, a shroud of smoke rose all about us. Throwing open the huge, antique panels to which Canning pointed, I staggered into the hall.
 
-I speak of wind, of flame, of smoke—enough to obscure all vision. I speak of Canning’s screams, and of thunder loud enough to drown all sound. I speak of terror bom of loathing and of desperation enough to shatter all my sanity.
+I speak of wind, of flame, of smoke—enough to obscure all vision. I speak of Canning’s screams, and of thunder loud enough to drown all sound. I speak of terror born of loathing and of desperation enough to shatter all my sanity.
 
 Despite these things, I can never erase from my consciousness that which I beheld as I fled past the doorway and down the hall.
 
@@ -2449,7 +2458,7 @@ Suddenly there shot along the path before me a wild light, and I turned to see w
 
 mr_steinway
 
-# Mr. Steinway
+# <a id="page97"></a>Mr. Steinway
 
 <span class="smallcaps">The first time</span> I saw Leo, I thought he was dead.
 
@@ -2711,7 +2720,7 @@ I don’t have anything more to say. If you don’t believe me, if you won’t h
 
 the_past_master
 
-# The Past Master
+# <a id="page113"></a>The Past Master
 
 .center
 Statement of Debby Gross
@@ -3221,7 +3230,9 @@ It was his turn to sigh. “Please, don’t question me. I don’t want to hurt 
 
 “Oh, yes, the report. We might as well get started with it,” I said. “In spite of your rather pessimistic outlook. The way you talk, you’d think the bombs were going to fall here tomorrow.”
 
-“They will,” he told me. “Here, and everywhere.” “Very interesting.” I shifted the gun to my left hand and took up the fountain pen. “But now, to business. Your name, please. Your real name.”
+“They will,” he told me. “Here, and everywhere.”
+
+“Very interesting.” I shifted the gun to my left hand and took up the fountain pen. “But now, to business. Your name, please. Your real name.”
 
 “Kim Logan.”
 
@@ -3237,7 +3248,9 @@ I raised the gun. “The right arm,” I said. “Medial head of the triceps. It
 
 “My instrument is out there in the bay. The paintings and manuscripts are there. I intended to remain submerged until the departure moment tonight, but a man shot me.”
 
-“You feel feverish?” I asked. “Does your head hurt?” “No. I told you it was no use explaining things. You won’t believe me, any more than you believed me about the bombs.”
+“You feel feverish?” I asked. “Does your head hurt?”
+
+“No. I told you it was no use explaining things. You won’t believe me, any more than you believed me about the bombs.”
 
 “Let’s stick to facts,” I suggested. “You admit you stole the paintings. Why?”
 
@@ -3279,7 +3292,9 @@ He smiled. “A pretty paradox. I’m beginning to like you, Dr. Rafferty.”
 
 “And change history? Change the actual sequence of events, rather? Impossible!”
 
-“Aren’t you changing them by taking the paintings?” “That’s different.”
+“Aren’t you changing them by taking the paintings?”
+
+“That’s different.”
 
 “Is it?” I stared into his eyes. “I don’t see how. But
 
@@ -3365,7 +3380,7 @@ I wish I’d believed him. I wish the others would believe me now. But there jus
 
 i_like_blondes
 
-# I Like Blondes
+# <a id="page141"></a>I Like Blondes
 
 .fl
 <span class="smallcaps">Of course, it’s</span> all a matter of taste, nothing more. It’s a weakness with me, I suppose. My friends have their own opinions: some are partial to brunettes or redheads, and I suppose that’s all right. I certainly don’t criticize them in the least.
@@ -3426,7 +3441,9 @@ Quite a lot to adduce from a single exclamation? Yes, but then I’ve met so man
 
 She could tell that I liked her, of course, from the way I danced. I almost anticipated her next remark. “There’s life in the old boy yet.”
 
-I smiled, not at all resentful. “I’m younger than I look.” I winked. “You know, I could dance with you all night—and something tells me that’s not a bad idea.” “You flatter me.” But she looked worried. That was the whole idea. She believed me.
+I smiled, not at all resentful. “I’m younger than I look.” I winked. “You know, I could dance with you all night—and something tells me that’s not a bad idea.”
+
+“You flatter me.” But she looked worried. That was the whole idea. She believed me.
 
 I gave her just under a minute for the thought to take hold. Then I pulled the switch. “I wouldn’t fool you,” I told her. “I’m like all the other men you meet—just lonely. I’m not going to ask if we couldn’t go somewhere and talk, because I know the answer. You’re paid to dance. But I happen to know that if I buy, say, ten dollars’ more worth of tickets, you can get off. And we can sneak off for a few drinks.” I winked again. “Sitting down.”
 
@@ -3434,13 +3451,17 @@ I gave her just under a minute for the thought to take hold. Then I pulled the s
 
 “Of course you don’t. But I do. Look, if you have any worries about me pulling a fast one, I’m old enough to be your grandfather.”
 
-It was obvious, and she considered it. She also considered the delightful prospect of sitting down. “I guess it’s O.K.,” she murmured. “Shall we go, Mr.—?” “Beers,” I said.
+It was obvious, and she considered it. She also considered the delightful prospect of sitting down. “I guess it’s O.K.,” she murmured. “Shall we go, Mr.—?”
+
+“Beers,” I said.
 
 “What?” She checked a giggle. “Not really.”
 
 “Really. Beers is the name. Not the drink. You can drink anything you like, Miss—”
 
-“Shirley Collins.” Now the giggle came out. “Sort of a coincidence, don’t you think? Beers and Collins.” “Come on, what are we waiting for?” I steered her over to the edge of the floor, went to buy my tickets, and made the necessary arrangements with the manager while she got her coat. It cost me an extra five for his tip, but I didn’t begrudge him the money. We all have to eat, you know.
+“Shirley Collins.” Now the giggle came out. “Sort of a coincidence, don’t you think? Beers and Collins.”
+
+“Come on, what are we waiting for?” I steered her over to the edge of the floor, went to buy my tickets, and made the necessary arrangements with the manager while she got her coat. It cost me an extra five for his tip, but I didn’t begrudge him the money. We all have to eat, you know.
 
 She didn’t look bad at all, once she had some of that mascara washed off. Her eyes were gray, I discovered. And her arms were soft and rounded. I escorted her quite gallantly to the bar down the street and hung up her coat when we found a nice quiet back booth.
 
@@ -3454,7 +3475,11 @@ I paid her, not forgetting to tip, because I’d be wanting prompt service. She 
 
 “Now, wait a minute, Mr. Beers. You aren’t trying to get a girl loaded, are you?”
 
-“My dear young lady—please!” I sounded for all the world like an elderly college professor admonishing his class. “You don’t have to drink if you don’t want to.” “Oh, that’s O.K. Only you know, a girl has to be careful.” The way she downed the first rye belied her words. She toyed with the second glass. “Say, this can’t be much fun for you, sitting and watching me drink.” “If you only knew,” I said. “Didn’t I tell you I was lonely? And wanted someone to talk to?”
+“My dear young lady—please!” I sounded for all the world like an elderly college professor admonishing his class. “You don’t have to drink if you don’t want to.”
+
+“Oh, that’s O.K. Only you know, a girl has to be careful.” The way she downed the first rye belied her words. She toyed with the second glass. “Say, this can’t be much fun for you, sitting and watching me drink.”
+
+“If you only knew,” I said. “Didn’t I tell you I was lonely? And wanted someone to talk to?”
 
 “A girl hears some funny lines, but I guess you’re on the level. What’ll we talk about?”
 
@@ -3474,13 +3499,17 @@ I walked down to the other end of the bar. He had just come in and was standing 
 
 “Dirty trick, trying to scare me, but I forgive you. It’s just that I didn’t expect to see you here. Where you located?”
 
-“Something called the Shane Apartments. And you?” “Oh, I’m way outside town. How do you like her?” He nudged me and indicated his girl.
+“Something called the Shane Apartments. And you?”
+
+“Oh, I’m way outside town. How do you like her?” He nudged me and indicated his girl.
 
 “Nice. But you know my weakness.”
 
 We both laughed.
 
-“Well,” I concluded, “I won’t disturb you any longer. I just wondered if you were making out all right.” “Perfectly. No trouble at all.”
+“Well,” I concluded, “I won’t disturb you any longer. I just wondered if you were making out all right.”
+
+“Perfectly. No trouble at all.”
 
 “Good,” I said. “We’ve got to be extra careful these days, with all that cheap publicity going around.”
 
@@ -3634,7 +3663,7 @@ And blondes are simply delicious.
 
 all_on_a_golden_afternoon
 
-# All on a Golden Afternoon
+# <a id="page153"></a>All on a Golden Afternoon
 
 .fl
 <span class="smallcaps">The uniformed man</span> at the gate was very polite, but he didn’t seem at all in a hurry to open up. Neither Dr. Prager’s new Cadillac nor his old goatee made much of an impression on him.
@@ -3811,7 +3840,9 @@ Dr. Prager nodded. “You saw it?”
 
 “No. I never waste time on cartoons.”
 
-“But you know what I’m talking about, don’t you?” “Well—” Eve Eden hesitated. Then from the depths of her professional background an answer came. “Wasn’t there another movie, ’way back around the beginning of the thirties? Sure, Paramount made it, with Oakie and Gallagher and Horton and Ruggles and Ned Sparks and Fields and Gary Cooper. And let’s see now, who played the dame—Charlotte Henry?”
+“But you know what I’m talking about, don’t you?”
+
+“Well—” Eve Eden hesitated. Then from the depths of her professional background an answer came. “Wasn’t there another movie, ’way back around the beginning of the thirties? Sure, Paramount made it, with Oakie and Gallagher and Horton and Ruggles and Ned Sparks and Fields and Gary Cooper. And let’s see now, who played the dame—Charlotte Henry?”
 
 Dr. Prager smiled. Now he was getting somewhere. “So that’s the one you saw, eh?”
 
@@ -4003,7 +4034,9 @@ She was really pretty far gone, Dr. Prager decided. But he had to persist. “Wh
 
 “Sure. How’d you guess?”
 
-“And did he keep talking until you went to sleep?” “I—I think so. Anyway, I did go to sleep, and when I woke up he was gone.”
+“And did he keep talking until you went to sleep?”
+
+“I—I think so. Anyway, I did go to sleep, and when I woke up he was gone.”
 
 “Aha.”
 
@@ -4015,7 +4048,9 @@ She was really pretty far gone, Dr. Prager decided. But he had to persist. “Wh
 
 “Happened?”
 
-“Of course. Haven’t I made that clear yet? The dream happened. It wasn’t like other dreams. I mean, I could feel and hear and see and even taste. Only it wasn’t me. It was this little girl. Alice. I was Alice. That’s what makes it worth while, can’t you understand? That’s what Wally said too. The dream place is real. You go there, and you are somebody else.” “Hypnotism,” Dr. Prager murmured.
+“Of course. Haven’t I made that clear yet? The dream happened. It wasn’t like other dreams. I mean, I could feel and hear and see and even taste. Only it wasn’t me. It was this little girl. Alice. I was Alice. That’s what makes it worth while, can’t you understand? That’s what Wally said too. The dream place is real. You go there, and you are somebody else.”
+
+“Hypnotism,” Dr. Prager murmured.
 
 Eve Eden put down the rabbit. “All right,” she said. “I can prove it.” She marched over to the big bed—the bed large enough to hold six people, according to some very catty but authenticated reports. “I didn’t mean to show you this,” she said, “but maybe I’d better.”
 
@@ -4027,7 +4062,9 @@ She reached under her pillow and pulled out a small object which glittered benea
 
 Dr. Prager smiled. “You were hypnotized. And before Professor Laroc stole away—and stole is singularly appropriate, considering that he had your check for ten thousand dollars—he simply planted this bottle in your hand as you slept. That’s my interpretation of your proof.” He slipped the little glass container into his pocket. “With your permission, I’d like to take this
 
-along,” he said. “I’m going to ask you now to bear with me for the next twenty-four hours. Don’t make any announcements about leaving the studio until I return. I think I can clear everything up to your satisfaction.” “But I am satisfied,” Eve told him. “There’s nothing to clear up. I don’t want to—”
+along,” he said. “I’m going to ask you now to bear with me for the next twenty-four hours. Don’t make any announcements about leaving the studio until I return. I think I can clear everything up to your satisfaction.”
+
+“But I am satisfied,” Eve told him. “There’s nothing to clear up. I don’t want to—”
 
 “Please.” Dr. Prager brushed his brush with authority. “All I ask is that you be patient for twenty-four hours. I shall return tomorrow at this same time. And meanwhile, try to forget about all this. Say nothing to anyone.”
 
@@ -4167,7 +4204,9 @@ dear doctor, is merely an electrically charged dimension given a reality of its 
 
 “I don’t please,” answered Dr. Prager.
 
-“That’s because you’re not receptive,” Professor Laroc observed smugly. “Yours is a negative charge rather than a positive one. Dodgson—Lewis Carroll—was positive. So was Lovecraft and Poe and Edward Lucas White and a handful of others. Their dreams live. Other positive charges can live in them, granted the proper method of entry. It’s not magic. There’s nothing supernatural about it at all, unless you consider mathematics as magic. Dodgson did. He was a professor of mathematics, remember. And so was I. I took his principles and extended them, created a practical methodology. Now I can enter dream worlds at will, cause others to enter. It’s not hypnosis as you understand it. A few words of non-Euclidean formula will be sufficient—” “I’ve heard enough,” Dr. Prager broke in. “Much as I hate to employ the phrase, this is sheer lunacy.”
+“That’s because you’re not receptive,” Professor Laroc observed smugly. “Yours is a negative charge rather than a positive one. Dodgson—Lewis Carroll—was positive. So was Lovecraft and Poe and Edward Lucas White and a handful of others. Their dreams live. Other positive charges can live in them, granted the proper method of entry. It’s not magic. There’s nothing supernatural about it at all, unless you consider mathematics as magic. Dodgson did. He was a professor of mathematics, remember. And so was I. I took his principles and extended them, created a practical methodology. Now I can enter dream worlds at will, cause others to enter. It’s not hypnosis as you understand it. A few words of non-Euclidean formula will be sufficient—”
+
+“I’ve heard enough,” Dr. Prager broke in. “Much as I hate to employ the phrase, this is sheer lunacy.”
 
 The professor shrugged. “Call it what you wish,” he said. “You psychiatrists are good at pinning labels on things. But Miss Eden here has had sufficient proof through her own experience. Isn’t that so?”
 
@@ -4265,7 +4304,7 @@ Maybe it was just as well. . . .
 
 broomstick_ride
 
-# Broomstick Ride
+# <a id="page185"></a>Broomstick Ride
 
 .fl
 <span class="smallcaps">It was close</span> to midnight when they gathered at the crater. Night raised its head across the pitted plains, and the twin moons opened their green eyes to stare down into the crater’s depths.
@@ -4464,7 +4503,7 @@ And down below, the Kal murmured sadly, “We had to do it, didn’t we? To save
 
 daybroke
 
-# Daybroke
+# <a id="page197"></a>Daybroke
 
 .fl
 <span class="smallcpasUp in the sky the warheads whirled, and the thunder of their passing shook the mountain.
@@ -4489,11 +4528,11 @@ Then he knew that he must go down to the city if he wanted to find out and made 
 
 There was a special suit to wear, a cunning seamless garment of insulated cloth and lead, difficult and costly to obtain. It .was a top-secret suit, the kind only Pentagon generals possess. They cannot procure them for their wives, and they must steal them for their mistresses. But he had one. He donned it now.
 
-An elevated platform aided his descent to the base of the mountain, and there his car was waiting. He drove out, the shielded doors closing automatically behind him, and started for the city. Through the eyepiece of his insulated helmet he stared out at a yellowish fog, and he drove slowly, even though he encountered no traffic or any sign of life.
+An elevated platform aided his descent to the base of the mountain, and there his car was waiting. He drove out, the shielded doors closing automatically behind him, and started for the city. Through the eyepiece of <a id="page199"></a>his insulated helmet he stared out at a yellowish fog, and he drove slowly, even though he encountered no traffic or any sign of life.
 
 After a time the fog lifted, and he could see the countryside. Yellow trees and yellow grass stood stiffly silhouetted against a yellow sky in which great clouds writhed and whirled.
 
-Van Gogh’s work, he told himself, knowing it was a lie. For no artist’s hand had smashed the windows of the farmhouses, peeled the paint from the sides of the barns, or squeezed the warm breath from the herds huddling in the fields, standing fright-frozen but dead.
+*Van Gogh’s work,* he told himself, knowing it was a lie. For no artist’s hand had smashed the windows of the farmhouses, peeled the paint from the sides of the barns, or squeezed the warm breath from the herds huddling in the fields, standing fright-frozen but dead.
 
 He drove along the broad arterial leading to the city, an arterial which ordinarily swarmed with the multicolored corpuscles of motor vehicles. But there were no cars moving today, not in this artery.
 
@@ -4507,7 +4546,7 @@ The cars were dead. The further stretches of the highway were an automotive grav
 
 The signs of struggle were often pitiable to observe. Here was a tiny Volkswagen, trapped and crushed between two looming Lincolns; there an MG had died beneath the wheels of a charging Chrysler. But all were still now. The Dodges dodged no longer; the Hornets had ceased their buzzing; and the Ramblers would never ramble again.
 
-It was hard for him to realize with equal clarity the tragedy that had overtaken the people inside these cars—they were dead, too, of course, but somehow their passing seemed insignificant. Maybe his thinking had been affected by the attitude of the age, in which a man tended to be less and less identified as an individual and more and more regarded on the basis of the symbolic status of the car he drove. When a stranger rode down the street, one seldom thought of him as a person; one’s only immediate reaction was, “There goes a Ford—there goes a Pontiac—there goes one of those big goddam Imperials.” And men bragged about their cars instead of their characters. So somehow the death of the automobiles seemed more important than the death of their owners. It didn’t seem as though human beings had perished in this panic-stricken effort to escape from the city; it was the cars which had made a dash for final freedom and then failed.
+<a id="page200"></a>It was hard for him to realize with equal clarity the tragedy that had overtaken the people inside these cars—they were dead, too, of course, but somehow their passing seemed insignificant. Maybe his thinking had been affected by the attitude of the age, in which a man tended to be less and less identified as an individual and more and more regarded on the basis of the symbolic status of the car he drove. When a stranger rode down the street, one seldom thought of him as a person; one’s only immediate reaction was, “There goes a Ford—there goes a Pontiac—there goes one of those big goddam Imperials.” And men bragged about their cars instead of their characters. So somehow the death of the automobiles seemed more important than the death of their owners. It didn’t seem as though human beings had perished in this panic-stricken effort to escape from the city; it was the cars which had made a dash for final freedom and then failed.
 
 He skirted the road now and continued along the ditch until he came to the first sidewalks of the suburbs. Here the evidence of destruction was accentuated. Explosion and implosion had done their work. In the country paint had been peeled from the walls, but in the suburbs walls had been peeled from the buildings. Not every home was leveled. There were still plenty of ranch houses standing, though no sign of a rancher in a gray flannel suit. In some of the picturesquely modern white houses, with their light lines and heavy mortgages, the glass side walls remained unshattered, but there was no sign of happy, busy suburban life within—the television sets were dead.
 
@@ -4515,7 +4554,7 @@ Now he found his progress impeded by an increasing litter. Apparently a blast ha
 
 He waded through or stepped around;
 
-Boxes of Kleenex, artificial shrunken heads which had once dangled in the windows of station wagons, crumpled shopping lists, and scribbled notices of appointments with psychiatrists.
+Boxes of Kleenex, artificial shrunken heads which had once dangled in the windows of station wagons, <a id="page201"></a>crumpled shopping lists, and scribbled notices of appointments with psychiatrists.
 
 He stepped on an Ivy League cap, nearly tripped over a twisted barbecue grill, got his feet tangled in the straps of foam-rubber falsies. The gutters were choked with the glut from a bombed-out drugstore: bobby pins, nylon bobby socks, a spate of pocketbooks, a carton of tranquilizers, a mass of sun-tan lotion, suppositories, deodorants, and a big cardboard cutout of Harry Bela-fonte obscured by a spilled can of hot fudge.
 
@@ -4523,7 +4562,7 @@ He shuffled on, through a welter of women’s electric shavers, Book-of-the-Mont
 
 He found it difficult to maintain a regular course now, for the streets were choked with wrecked vehicles and the sidewalks often blocked by beams or the entire toppled fronts of buildings. Whole structures had been ripped apart, and here and there were freakish variations where a roof had fallen in or a single room smashed to expose its contents. Apparently the blow had come instantly, and without forewarning, for there were few bodies on the streets and those he glimpsed inside the opened buildings gave indication that death had found them in the midst of their natural occupations.
 
-Here, in a gutted basement, a fat man sprawled over the table of his home workshop, his sightless eyes fixed upon the familiar calendar exhibiting entirely the charms of Marilyn Monroe. Two flights above him, through the empty frame of a bathroom window, one could see his wife, dead in the tub, her hand still clutching a movie magazine with a Rock Hudson portrait on the cover. And up in the attic, open to the sky, two young lovers stretched on a brass bed, locked naked in headless ecstasy.
+Here, in a gutted basement, a fat man sprawled over the table of his home workshop, his sightless eyes fixed upon the familiar calendar exhibiting entirely the charms of Marilyn Monroe. Two flights above him, through the empty frame of a bathroom window, one <a id="page202"></a>could see his wife, dead in the tub, her hand still clutching a movie magazine with a Rock Hudson portrait on the cover. And up in the attic, open to the sky, two young lovers stretched on a brass bed, locked naked in headless ecstasy.
 
 He turned away, and as his progress continued he deliberately avoided looking at the bodies. But he could not avoid seeing them now, and with familiarity the revulsion softened to the merest twinge. It then gave way to curiosity.
 
@@ -4533,12 +4572,13 @@ Beyond the playground loomed the center of the city. From a distance the mass of
 
 He hesitated, wondering if it was practical to venture into this weird welter. Then he caught sight of the hillside beyond and of the imposing structure which was the new Federal Building. It stood there, somehow miraculously untouched by the blast, and in the haze he could see the flag still fluttering from its roof. There would be life here, and he knew he would not be content until he reached it.
 
-But long before he attained his objective he found other evidences of continued existence. Moving delicately and deliberately through the debris, he became aware that he was not entirely alone here in the central chaos.
+But long before he attained his objective he found other evidences of continued existence. Moving <a id="page203"></a>delicately and deliberately through the debris, he became aware that he was not entirely alone here in the central chaos.
 
 Wherever the flames flared and flickered there were furtive figures moving against the fire. To his horror he realized that they were actually kindling the blazes, burning away barricades that could not otherwise be removed, as they entered shops and stores to loot. Some of the scavengers were silent and ashamed; others were boisterous and drunken; all were doomed.
 
 It was this knowledge which kept him from interfering. Let them plunder and pilfer at will; let them quarrel over the spoils in the shattered streets. In a few hours or a few days radiation and fallout would take inevitable toll.
 
+.space
 No one interfered with his passage; perhaps the helmet and protective garment resembled an official uniform. He went his way unhindered and saw:
 
 A barefooted man wearing a mink coat, dashing through the door of a cocktail lounge and passing bottles out to a bucket brigade of four small children—
@@ -4547,11 +4587,11 @@ An old woman standing in a bombed-out bank vault, sweeping stacks of bills into 
 
 A soldier and a woman wearing the arm band of the Red Cross, carrying a stretcher to the blocked entrance of a partially razed church. Unable to enter, they bore the stretcher around to the side, and the soldier kicked in one of the stained-glass windows—
 
-An artist’s basement studio, open to the sky, its walls still intact and covered with abstract paintings. In the center of the room stood the easel, but the artist was gone. What was left of him was smeared across the canvas in a dripping mass, as though the artist had finally succeeded in putting something of himself into his picture—
+An artist’s basement studio, open to the sky, its walls still intact and covered with abstract paintings. In the center of the room stood the easel, but the artist was gone. What was left of him was smeared across the <a id="page204"></a>canvas in a dripping mass, as though the artist had finally succeeded in putting something of himself into his picture—
 
 A welter of glassware that had once been a chemical laboratory, and in the center of it a smocked figure slumped over a microscope. On the slide was a single cell which the scientist had been intently observing when the world crashed about his ears—
 
-A woman with the face of a Vogue model, spread-eagled in the street. Apparently she had been struck down while answering the call of duty, for one slim, aristocratic hand still gripped the strap of her hatbox. Otherwise, due to some prank of explosion, the blast had stripped her quite naked; she lay there with all her expensive loveliness exposed, and a pigeon nested in her golden pelvis—
+A woman with the face of a *Vogue* model, spread-eagled in the street. Apparently she had been struck down while answering the call of duty, for one slim, aristocratic hand still gripped the strap of her hatbox. Otherwise, due to some prank of explosion, the blast had stripped her quite naked; she lay there with all her expensive loveliness exposed, and a pigeon nested in her golden pelvis—
 
 A thin man emerging from a pawnshop and carrying an enormous tuba. He disappeared momentarily into a meat market next door, then came out again, the bell of his tuba stuffed with sausages—
 
@@ -4563,7 +4603,7 @@ A broker caught at his desk, his body mummified in coils of ticker tape—
 
 A motorbus, smashed into a brick wall, its passengers still jamming the aisles, standees clutching straps even in rigor mortis—
 
-The hindquarters of a stone lion before what had once been the Public Library; before it, on the steps, the corpse of an elderly lady whose shopping bag had spewed its contents over the street—two murder mysteries, a copy of Tropic of Cancer, and the latest issue of the Reader’s Digest—
+The hindquarters of a stone lion before what had <a id="page205"></a>once been the Public Library; before it, on the steps, the corpse of an elderly lady whose shopping bag had spewed its contents over the street—two murder mysteries, a copy of *Tropic of Cancer*, and the latest issue of the *Reader’s Digest—*
 
 A small boy wearing a cowboy hat, who leveled a toy pistol at his little sister and shouted, “Bang! You’re dead!”
 
@@ -4577,7 +4617,7 @@ But suddenly, as he climbed the hillside, he was crying. The salty warmth ran do
 
 His tears ceased to flow and his vision cleared. Ahead of him was the proud outline of the Federal Building, shining and intact—or almost so.
 
-As he neared the imposing steps and gazed up at the facade, he noted that there were a few hints of crumbling and corrosion on the surface of the structure. The freakish blast had done outright damage only to the sculptured figures surmounting the great arched doorway; the symbolic statuary had been partially shattered so that the frontal surface had fallen away. He blinked at the empty outlines of the three figures; somehow he never had realized that Faith, Hope, and Charity were hollow.
+As he neared the imposing steps and gazed up at the facade, he noted that there were a few hints of crumbling and corrosion on the surface of the structure. The freakish blast had done outright damage only to the sculptured figures surmounting the great arched doorway; the symbolic statuary had been partially shattered so that the frontal surface had fallen away. He blinked at the empty outlines of the three figures; somehow he <a id="page206"></a>never had realized that Faith, Hope, and Charity were hollow.
 
 Then he walked inside the building. There were tired soldiers guarding the doorway, but they made no move to stop him, probably because he wore a protective garment even more .intricate and impressive than their own.
 
@@ -4595,9 +4635,7 @@ It was possible to see the city, or the crater where the city had been.
 
 Night was mingling with the haze on the horizon, but there was no darkness. The little incendiary blazes had been spreading, apparently, as the wind moved in, and now he gazed down upon a growing sea of flame. The crumbling spires and gutted structures were drowning in red waves. As he watched, the tears came again, but he knew there would not be enough tears to put the fires out.
 
-So he turned back to the man at the desk, noting for
-
-the first time that he wore one of the very special uniforms reserved for generals.
+So he turned back to the man at the desk, noting for <a id="page207"></a>the first time that he wore one of the very special uniforms reserved for generals.
 
 This must be the commander, then. Yes, he was certain of it now, because the floor around the desk was littered with scraps of paper. Maybe they were obsolete maps; maybe they were obsolete plans; maybe they were obsolete treaties. It didn’t matter now.
 
@@ -4629,7 +4667,7 @@ The red glare mounted, and in its light he saw the general’s face, gleeful and
 
 sleeping_beauty
 
-# Sleeping Beauty
+# <a id="page209"></a>Sleeping Beauty
 
 .fl
 <span class="smallcaps">“New Orleans,” said</span> Morgan. “The land of dreams.” “That’s right,” the bartender nodded. “That’s the way the song goes.”
@@ -4644,9 +4682,7 @@ sleeping_beauty
 
 “Now wait a minute,” the bartender said. “What about all the old buildings with the balconies and grill-work, stuff like that?”
 
-“I saw them,” Morgan admitted. “But you pass one of those fine old green-shuttered jobs and what do you see sitting right next door? A laundromat, that’s what.
-
-Laundromats in the Vieux Carre. They’ve killed off your old Southern mammy and installed an automatic washer in her place. All the quaint, picturesque atmosphere that’s left is hidden behind the walls of a private patio. What’s left to see are the antique shops on Royal Street, filled with precious items imported from faraway Brooklyn.”
+“I saw them,” Morgan admitted. “But you pass one of those fine old green-shuttered jobs and what do you see sitting right next door? A laundromat, that’s what. <a id="page210"></a>Laundromats in the Vieux Carre. They’ve killed off your old Southern mammy and installed an automatic washer in her place. All the quaint, picturesque atmosphere that’s left is hidden behind the walls of a private patio. What’s left to see are the antique shops on Royal Street, filled with precious items imported from faraway Brooklyn.”
 
 Tlie bartender shrugged. “There’s always Bourbon Street”
 
@@ -4666,15 +4702,15 @@ He stood up, knocking against the bar-stool.
 
 He lurched out of the tavern and stood on the sidewalk outside, inhaling the damp air. It had turned quite foggy. Fog in the streets. Fog in his brain.
 
-He knew where he was, though—north of Rampart, east of Canal and the Jung Hotel. In spite of the fog, he wasn’t lost.
+He knew where he was, though—north of Rampart, <a id="page211"></a>east of Canal and the Jung Hotel. In spite of the fog, he wasn’t lost.
 
-All at once Morgan wished he was lost. Lost on this crazy, winding little side street where the grass pushed up between the brick paving-stones and all the houses were shuttered against the night. There were no cars, no passersby, and if it wasn’t for the street-lamps he could easily imagine himself to be in the old New Orleans. The real New Orleans of the songs and stories, the city of Bolden and Oliver and a kid named Satch.
+All at once Morgan wished he *was* lost. Lost on this crazy, winding little side street where the grass pushed up between the brick paving-stones and all the houses were shuttered against the night. There were no cars, no passersby, and if it wasn’t for the street-lamps he could easily imagine himself to be in the old New Orleans. The *real* New Orleans of the songs and stories, the city of Bolden and Oliver and a kid named Satch.
 
 It had been that way once, he knew. Then World War I came along and they closed down Storeyville. And World War II came along and they turned Bourbon Street into a midway for servicemen and conventioneers. The tourists liked it fine; they came to the Mardi Gras parades and they ate at Arnaud’s and then sampled a Sazerac at the Old Absinthe House and went home happy.
 
 But Morgan wasn’t a tourist. He was a romantic, looking for the land of dreams.
 
-Forget it, he told himself.
+*Forget it,* he told himself.
 
 So he started to walk and he tried to forget it, but he couldn’t. The fog grew thicker—both fogs. Out of the internal fog came phrases of the old songs and visions of the old legends. Out of the external fog loomed the crumbling walls of the St. Louis Cemetery. St. Louis Number One, the guidebooks called it.
 
@@ -4682,11 +4718,11 @@ Well, to hell with the guidebooks. This was what Morgan had been looking for. Th
 
 Morgan found the grilled gate. It was locked. He peered through the bars, squinting at foggy figures. There were ghosts inside, real ghosts. He could see them standing silently within—white, looming figures pointing and beckoning to him. They wanted Morgan to join them there, and that’s where he belonged. Inside, with the other dead romantics—
 
-“Mister, what you doing?”
+<a id="page212"></a>“Mister, what you doing?”
 
 Morgan turned, stumbling back against the gateway. A small man peered up at him, a small white-haired man whose open mouth exuded a curious-sweet odor.
 
-One of the ghosts, Morgan told himself. The odor of corruption—
+*One of the ghosts,* Morgan told himself. *The odor of corruption—*
 
 But it was only alcohol. And the old man was real, even though his face and his eyes seemed filled with fog.
 
@@ -4710,9 +4746,7 @@ Morgan took a deep breath. “I’d like to hear some of those stories,” he sa
 
 “A pleasure.” The old man bowed.
 
-^ Under ordinary circumstances, Morgan would have
-
-found the spectacle slightly ridiculous. Now it seemed appropriate. And it was appropriate that the little man led him down twisting streets into ever-thickening fog. It was appropriate that he steered him at last into a small, dingy bar with a single light burning in its curtained window. It was appropriate that the stranger ordered for both of them without inquiring what Morgan would have.
+Under ordinary circumstances, Morgan would have <a id="page213"></a>found the spectacle slightly ridiculous. Now it seemed appropriate. And it was appropriate that the little man led him down twisting streets into ever-thickening fog. It was appropriate that he steered him at last into a small, dingy bar with a single light burning in its curtained window. It was appropriate that the stranger ordered for both of them without inquiring what Morgan would have.
 
 The bartender was a fat man with a pockmarked face which bore no expression at all as he set glasses down before them. Morgan stared at the cloudy greenish liquor. It looked like a condensation of the fog, but it gave off the odd, sickish-sweet smell he had come to recognize.
 
@@ -4730,7 +4764,7 @@ It wasn’t a panicky feeling, though. Somehow it seemed quite natural for him t
 
 And it was natural for Morgan to talk about how disappointed he was in New Orleans, about wishing he’d been here to see the Mahogany Hall and the Ivory Palace—
 
-“StoreyviUe,” the old man said. ‘T can tell you all you want to know about that. Said I was a projessional Southerner.” He wheezed again, then recovered himself. “Had six chickens on the block,” he said. “Wouldn’t think it to look at me now, but I was a mighty handsome lad. And I made out Had my own rig, nigger coachman and all. When autos came along, I got me a chauffeur. Wore spats every day of the week.” He lifted his glass. “Six chickens, a high-class house. Professor in the parlor, mirrors all over the walls in every room upstairs. Bartender on duty twenty-four hours a day, and the biggest call was for champagne. Customers came from far away as Memphis, just to see the oil paintings.”
+<a id="page213"></a>“Storeyville,” the old man said. ‘T can tell you all you want to know about that. Said I was a *professional* Southerner.” He wheezed again, then recovered himself. “Had six chickens on the block,” he said. “Wouldn’t think it to look at me now, but I was a mighty handsome lad. And I made out Had my own rig, nigger coachman and all. When autos came along, I got me a chau*ffeur*. Wore spats every day of the week.” He lifted his glass. “Six chickens, a high-class house. Professor in the parlor, mirrors all over the walls in every room upstairs. Bartender on duty twenty-four hours a day, and the biggest call was for champagne. Customers came from far away as Memphis, just to see the oil paintings.”
 
 “No air-conditioning?” Morgan mumbled.
 
@@ -4744,9 +4778,9 @@ He sighed. “But the army closed StoreyviUe. Jazz bands went north, Professors 
 
 “The Red Queen?”
 
-“Told you I was a professional. Just because the lid clamped down, that didn’t mean aU us old-timers got squashed. I’ve kept going, on the q.t., understand? Sort of a sentimental gesture, if you follow me. Never more than one chicken now, but that’s enough. Enough for the few who still appreciate it, who still want a taste of the old days, the old ways—”
+“Told you I was a professional. Just because the lid clamped down, that didn’t mean aU us old-timers got squashed. I’ve kept going, on the q.t., understand? Sort <a id="page215"></a>of a sentimental gesture, if you follow me. Never more than one chicken now, but that’s enough. Enough for the few who still appreciate it, who still want a taste of the old days, the old ways—”
 
-Morgan burned his throat on the drink. “You mean to tell me you’re still—in business?” he asked. “You’ve got a girl, the same kind who used to work in Storey-ville in the old days?”
+Morgan burned his throat on the drink. “You mean to tell me you’re still—in business?” he asked. “You’ve got a girl, the same kind who used to work in Storeyville in the old days?”
 
 His companion nodded solemnly. “Trained her myself,” he murmured. “Wears the old dresses, old-fashioned stuff, not like the chippies over in the big houses. Got her room fixed up like it was forty-five, fifty years ago. Like stepping into the past, and she treats you right, you know? I’m pretty careful who I let in these days, but there was something about you, I said to myself when I saw you—”
 
@@ -4758,7 +4792,7 @@ Then they were out in the night again, and it seemed to Morgan that the fog was 
 
 Then they came to the house, and it looked like any other ancient house in the fog, in the absinthe haze. The old man unlocked the door, and he stood in the dark, high-ceilinged, mahogany-panelled hallway while the gas-jet sputtered on. The old man’s room was off to the right; the big double-doors of what used to be the parlor were tightly closed. But the huge staircase loomed ahead, and Morgan blinked as his companion reeled over to it and cupped his hands, shouting, “Company!”
 
-His voice echoed and re-echoed down the long hall, reverberating off the walls and the doorways, and Morgan got the feeling they were all alone in the dim circle of light from the gas-jet, that the old man was crazy, that this was indeed the land of dreams.
+<a id="page216"></a>His voice echoed and re-echoed down the long hall, reverberating off the walls and the doorways, and Morgan got the feeling they were all alone in the dim circle of light from the gas-jet, that the old man was crazy, that this was indeed the land of dreams.
 
 But, “Company!’’ the old man shouted again, his face contorted, his voice angry and insistent. “Damned woman,” he shrilled. “Sleeps her life away. I’ve had trouble with her before about this. Thought I’d taught her a lesson, but maybe I’ll have to teach her again”—and once more he shouted up the stairway.
 
@@ -4774,10 +4808,11 @@ Then he went into his room and Morgan climbed the stairs, feet moving over fraye
 
 Quite suddenly the door opened inward, and there he was in the big bedroom, with twenty crystal chandeliers tinkling their welcome, twenty velvet carpets offering cushioned caresses to his feet, twenty ornate vanities spreading a pungent powder-and-patchouli perfume from their littered tops.
 
-Twenty great canopied beds straddled the center of the room, and twenty occupants waved him forward. The light blazed down on the redness; the rich, reflected radiance of twenty Red Queens. They had red hair and red lips and red gartete and red nipples. Twice twenty white arms opened to enfold him in an embrace that was all illusion.
+Twenty great canopied beds straddled the center of the room, and twenty occupants waved him forward. The light blazed down on the redness; the rich, reflected radiance of twenty Red Queens. They had red hair and red lips and red gartete and red nipples. Twice <a id="page217"></a>twenty white arms opened to enfold him in an embrace that was all illusion.
 
 Morgan reeled forward through a thousand rippling reflections from the mirrored walls and ceiling, trying to find the real bed and the real Red Queen. She laughed at him then, because he was drunk, and she held out her hand to guide him, draw him down beside her. And her touch was fire, and her mouth was a furnace, and her body was a volcano gushing lava, and the mirrors whirled wildly in a long red dream of laughter and delight.
 
+.space
 He must have put on his clothes again and tiptoed downstairs Mound dawn; he couldn’t remember. He didn’t recall saying goodbye or paying the girl or seeing the old man again, either, nor could he recollect walking back into the Quarter. The absinthe had left him with a splitting headache and a bitter aftertaste in his mouth, and now he moved like an automaton, turning into the first place he saw.
 
 It was a small Oyster Bar, but he didn’t want the traditional dozen raws—he needed coffee. The fog was gone from the morning streets, but it lingered inside his skull, and Morgan wondered vaguely how he’d managed to find his way back to familiar surroundings. He stepped up to the counter and reached for his wallet.
@@ -4790,11 +4825,11 @@ Morgan couldn’t remember what had happened, but one thing was obvious. He’d 
 
 In a way it was almost funny, and in a way it served him right. He knew that, but somehow he failed to see either the humor or the justice of it all. And when it came to justice—-
 
-Morgan gave up all thoughts of coffee and went to the police. He started to tell his story to a desk sergeant, told a little more of it to a polite lieutenant, and ended up telling the whole thing over again to a plain-clothes detective as he walked with him down Rampart Street, heading east.
+<a id="page218"></a>Morgan gave up all thoughts of coffee and went to the police. He started to tell his story to a desk sergeant, told a little more of it to a polite lieutenant, and ended up telling the whole thing over again to a plain-clothes detective as he walked with him down Rampart Street, heading east.
 
 The detective, whose name was Belden, didn’t seem to be polite at all.
 
-Morgan freely admitted he’d been drinking last night, and even found the first little bar he had patronized. The bartender Morgan had talked to was off-duty, but the day man gave the detective his home phone, and Belden called him from the tavern and talked to him. The bartender remembered seeing Morgan, all right
+Morgan freely admitted he’d been drinking last night, and even found the first little bar he had patronized. The bartender Morgan had talked to was off-duty, but the day man gave the detective his home phone, and Belden called him from the tavern and talked to him. The bartender remembered seeing Morgan, all right.
 
 “He said you were drunk as a skunk,” the impolite Belden reported. “Now, where did you go from there?”
 
@@ -4812,17 +4847,15 @@ They prowled the side streets, but Morgan couldn’t find the tavern. Finally he
 
 “All right,” Belden shrugged. “Take me to the house.”
 
-Morgan tried. For almost an hour he trudged up and down the winding streets, but all the houses looked alike, and their sameness in the sunlight was different
+Morgan tried. For almost an hour he trudged up and down the winding streets, but all the houses looked alike, and their sameness in the sunlight was different <a id="page219"></a>than their distinctiveness in the darkness. There was nothing romantic about these shabby old buildings, nothing that savored of a midnight dream.
 
-than their distinctiveness in the darkness. There was nothing romantic about these shabby old buildings, nothing that savored of a midnight dream.
-
-Morgan could see that the detective didn’t believe him. And then, when he told him the whole story once again—about the old man training his girl in the Storey-ville tradition, about the mirrored room upstairs and the red garters and all the rest of it—he knew the detective would never believe. Standing here in the bright street, with the sun sending splinters into his reddened eyes, Morgan found it hard to believe himself. Maybe it had been the liquor; maybe he’d made up the part about the old man and all the rest. He could have passed out in front of the cemetery, someone might have come along and lifted his wallet. That made sense. More sense than a journey to the land of dreams.
+Morgan could see that the detective didn’t believe him. And then, when he told him the whole story once again—about the old man training his girl in the Storey-ville tradition, about the mirrored room upstairs and the red garters and all the rest of it—he knew the detective would never believe. Standing here in the bright street, with the sun sending splinters into his reddened eyes, Morgan found it hard to believe himself. Maybe it *had* been the liquor; maybe he’d made up the part about the old man and all the rest. He could have passed out in front of the cemetery, someone might have come along and lifted his wallet. That made sense. More sense than a journey to the land of dreams.
 
 Apparently Belden thought so too, because he advanced just that theory as they started walking back.
 
 Morgan found himself nodding in agreement, and then he turned his head suddenly and said, “There it is—that’s the tavern we went into, I’m sure of it!”
 
-And it was the tavern. He recognized the pockmarked man who had served them, and the pockmarked man recognized him. And, “Yes,” he told Belden. “He came with the old one, with Louie.”
+And it *was* the tavern. He recognized the pockmarked man who had served them, and the pockmarked man recognized him. And, “Yes,” he told Belden. “He came with the old one, with Louie.”
 
 The detective had his notebook out. “Louie who? What’s his last name?”
 
@@ -4832,9 +4865,7 @@ The detective had his notebook out. “Louie who? What’s his last name?”
 
 Surprisingly enough, the bartender nodded. “Yes.” He muttered an address and Belden wrote it down.
 
-“Come on,” he said to Morgan. “Looks as if you were giving me a straight story after all.” He uttered a dry chuckle. “Thought we knew what was going on down
-
-here, but I guess the old boy fooled us. Imagine, running a panel house undercover in this day and age! That’s one for the books.”
+“Come on,” he said to Morgan. “Looks as if you were giving me a straight story after all.” He uttered a dry chuckle. “Thought we knew what was going on down <a id="page220"></a>here, but I guess the old boy fooled us. Imagine, running a panel house undercover in this day and age! That’s one for the books.”
 
 A surprisingly short walk led them to the building, on a street scarcely two blocks away. The house was old, and looked untenanted; some of die front windows were caved in and the drawn green shades flapped lisdessly in the hot morning breeze. Morgan didn’t recognize the place even when he saw it, and he stood on the doorstep while Belden rang the bell.
 
@@ -4858,7 +4889,7 @@ Morgan wondered if the old man would try to stop him, ask for a search warrant. 
 
 “Sure,” he said. “Come on in. Welcome to the Palace.” He chuckled again, then wheezed. “Throat is dry,” he explained.
 
-“It wasn’t so dry last night,” Morgan told him. “When we drank together.”
+<a id="page221"></a>“It wasn’t so dry last night,” Morgan told him. “When we drank together.”
 
 The old man shook his head. “Don’t listen to him, Mister,” he told Belden. “Never saw him before.”
 
@@ -4872,7 +4903,7 @@ The old man snatched the coins from the detective’s hand. “See, what’d I t
 
 “I don’t know any Captain Leroux,” Belden said. “What’s his detail?”
 
-“Why, Storeyville, of course. Where do you think you are?”
+“Why, Storeyville, of course. Where do you think *you* are?”
 
 “Storeyville’s been closed for almost forty-five years,” Belden answered. “Where do you think you are?”
 
@@ -4880,9 +4911,7 @@ The old man snatched the coins from the detective’s hand. “See, what’d I t
 
 Belden turned to Morgan and repeated the twirling gesture the pockmarked bartender had made.
 
-But Morgan shook his head. “Of course,” he said.
-
-“The wallet’s upstairs. She has it. Come on!”
+But Morgan shook his head. “Of course,” he said. <a id="page222"></a>“The wallet’s upstairs. She has it. Come on!”
 
 The old man put his hand on Morgan’s shoulder. His mouth worked convulsively. “Mister, don’t go up there. I was only fooling—she’s gone, she beat it out on me this morning, I swear it! Sure, she copped your leather all right. Up to her, old tricks. But she did a Dutch on me, you won’t find her—”
 
@@ -4902,7 +4931,7 @@ A cloud of dust billowed out, filling Morgan’s lungs, blinding him. He coughed
 
 The twenty chandeliers were gone, and the twenty carpets and the twenty vanities and the twenty beds. That’s because the mirrors hung cracked and broken in their frames. Now there was only one of everything—one cobwebbed chandelier, one ragged and mouldering patch of carpet, one vanity whose littered top gave off a scent of dead perfume and musty decay, and one canopy bed with its yellowed hangings mildewed and shredded.
 
-And the bed had only one occupant. She was sleeping, just as the old man whined now while he peered over Morgan’s shoulder. Always sleeping, and maybe he’d have to fix her again like he did once years ago. Morgan saw that she was still wearing the red garters, but aside from that he wouldn’t have recognized her. One skeleton looks just like another.
+And the bed had only one occupant. She was sleeping, just as the old man whined now while he peered <a id="page223"></a>over Morgan’s shoulder. Always sleeping, and maybe he’d have to fix her again like he did once years ago. Morgan saw that she was still wearing the red garters, but aside from that he wouldn’t have recognized her. One skeleton looks just like another.
 
 “What the hell kind of joke is this?” Belden wanted to know.
 
@@ -4916,7 +4945,7 @@ All he could do was walk over to the bed, lift the rotting skull from the rottin
 
 word_of_honor
 
-# Word of Honor
+# <a id="page225"></a>Word of Honor
 
 .fl
 <span class="smallcaps">At 2:27 on the</span> afternoon of September 19 Dr. Samuel Laverty rose from his chair and opened a window. This he managed to do without disturbing the flow of free association from his analysand, who was stretched out upon the couch.
@@ -4933,7 +4962,7 @@ Mrs. Stoughton rose from the couch, bristling and open-mouthed.
 
 Suddenly she inhaled deeply and her face reddened. “You know something, Doctor?” She sighed. “I guess maybe you’re right.”
 
-At 2:28, in an air-conditioned studio, a television announcer lifted a box of nationally advertised detergent and wreathed his features into a sickly smile.
+<a id="page226"></a>At 2:28, in an air-conditioned studio, a television announcer lifted a box of nationally advertised detergent and wreathed his features into a sickly smile.
 
 “Ladies,” he said, “I’m here to tell you about the most important household discovery in years—new, miracle Wonder Flakes, the amazing new cleanser that leaves your finest fabrics cleaner than clean.”
 
@@ -4948,9 +4977,7 @@ Promptly at 2:29 Homer Gans entered the office of his employer, the president of
 
 “You’re *what?*” the president barked.
 
-“I embezzled from the reserve fund,” Homer said. “Been doing it for years now. Nobody ever caught on. Some of the money went to play the races, and a lot of
-
-it has been paying somebody’s room rent. You wouldn’t think to look at me that I’m the kind who’d be keeping a blonde on the side. But then you don’t know how it is at home.”
+“I embezzled from the reserve fund,” Homer said. “Been doing it for years now. Nobody ever caught on. Some of the money went to play the races, and a lot of <a id="page227"></a>it has been paying somebody’s room rent. You wouldn’t think to look at me that I’m the kind who’d be keeping a blonde on the side. But then you don’t know how it is at home.”
 
 The president frowned. “Oh yes, I do,” he answered, taking a deep breath. “As a matter of fact, I happen to be keeping a blonde myself. Though to tell the truth, she isn’t a natural blonde.”
 
@@ -4969,9 +4996,7 @@ Reporter Joe Satterlee shrugged.
 
 “Such as?” Joe Satterlee gazed calmly at his boss.
 
-“Take your pick. Our senior senator just issued a statement of resignation. Not one of those owing-to-ill health things either. Just says he’s unfit for office. Marty Flanagan did him one better than that—he shot himself in the lobby of his new union headquarters.
-
-We’ve got an open wire going between here and the police station. Can’t keep up with the guys who are coming in and confessing everything from murder to mop-ery. And if you think that’s bad, you ought to hear what’s going on down in the advertising department. Clients are canceling space like mad. Three of the biggest used-car dealers in town just yanked their ads.”
+“Take your pick. Our senior senator just issued a statement of resignation. Not one of those owing-to-ill health things either. Just says he’s unfit for office. Marty Flanagan did him one better than that—he shot himself in the lobby of his new union headquarters. <a id="page228"></a>We’ve got an open wire going between here and the police station. Can’t keep up with the guys who are coming in and confessing everything from murder to mop-ery. And if you think that’s bad, you ought to hear what’s going on down in the advertising department. Clients are canceling space like mad. Three of the biggest used-car dealers in town just yanked their ads.”
 
 Joe Satterlee yawned. “What goes on here?”
 
@@ -4993,7 +5018,7 @@ At 3:08 he found a parking space directly in front of the administration buildin
 
 “Know what?”
 
-“Never mind.” The burly man attempted to brush past. “I can’t talk to you now. Got to find a cab.”
+<a id="page229"></a>“Never mind.” The burly man attempted to brush past. “I can’t talk to you now. Got to find a cab.”
 
 “Leaving town?”
 
@@ -5019,9 +5044,7 @@ A sudden flurry of wind sent papers swirling along the walk. Dust rose as they s
 
 “What gas?”
 
-“Look.” Hanson sighed. “I don’t know anything about science. I’m just a poor university dean, and my job is to get money out of rich alumni. I don’t even keep track of what the faculty is up to. The way I hear it, Lowenquist was monkeying around with chemical anesthetics. He mixed up some new combination—
-
-some derivative like thiopental sodium, sodium amytal, sodium pentothal—only a lot stronger and more concentrated.”
+“Look.” Hanson sighed. “I don’t know anything about science. I’m just a poor university dean, and my job is to get money out of rich alumni. I don’t even keep track of what the faculty is up to. The way I hear it, Lowenquist was monkeying around with chemical anesthetics. He mixed up some new combination—<a id="page230"></a>some derivative like thiopental sodium, sodium amytal, sodium pentothal—only a lot stronger and more concentrated.”
 
 “Aren’t those used in psychotherapy, for narcohypnosis?” Satterlee asked. “What they call truth serums?” “This isn’t a serum. It’s a gas.”
 
@@ -5031,17 +5054,15 @@ some derivative like thiopental sodium, sodium amytal, sodium pentothal—only a
 
 “Nobody can lie anymore.”
 
-“I’m afraid so. The stuff is so powerful, apparently, that one sniff does the trick. I was asking Snodgrass over in the Psychiatry Department about it. He gave me a lot of flap about inhibitory release and bypassing the superego and if a man answers, hang up. But what it all boils down to, apparently, is that the gas works. Everybody who was outside, everybody getting a breath of fresh air through a window or an air-conditioning unit, was affected. And that means almost the entire city.” “Nobody can lie anymore.”
+“I’m afraid so. The stuff is so powerful, apparently, that one sniff does the trick. I was asking Snodgrass over in the Psychiatry Department about it. He gave me a lot of flap about inhibitory release and bypassing the superego and if a man answers, hang up. But what it all boils down to, apparently, is that the gas *works*. Everybody who was outside, everybody getting a breath of fresh air through a window or an air-conditioning unit, was affected. And that means almost the entire city.” “Nobody can lie anymore.”
 
-“The way I understand it, nobody wants to lie.”
+“The way I understand it, nobody *wants* to lie.”
 
 “But that’s wonderful!”
 
 “Is it?” Dean Hanson squinted at the gathering storm clouds. “I’m not so sure. It would be better off for me if I hadn’t told you all this. What’s going to happen when the story hits the paper tonight? Give the whole school a bad name. I may even lose my job. Funny, I realize this, but I can’t seem to do anything about it. I just feel the need to be frank about everything. That’s what I was telling my secretary, before she slapped my face—” He broke off abruptly. “Are we almost there? It’s going to start raining any minute now.”
 
-“Just down this road,” Satterlee told him. “Did you notify the airport that you’re coming?” x “Of course. They’ve been trying to get Lowenquist
-
-down for the past half hour. He has no radio, and he won’t head in . . . keeps buzzing over town, spraying and spraying. Crazy fool! I wonder where he ever got the idea of trying a stunt like this?”
+“Just down this road,” Satterlee told him. “Did you notify the airport that you’re coming?” x “Of course. They’ve been trying to get Lowenquist <a id="page231"></a>down for the past half hour. He has no radio, and he won’t head in . . . keeps buzzing over town, spraying and spraying. Crazy fool! I wonder where he ever got the idea of trying a stunt like this?”
 
 “I don’t know,” Satterlee mused. “Maybe he just thought it was time people became honest for a change. Maybe he was getting fed up with the way our lies and pretenses make a mess of everything.”
 
@@ -5061,7 +5082,7 @@ A sudden lance of lightning pierced the sky. Thunder crashed, and then Hanson wa
 
 “Come on!” Satterlee muttered, gunning the motor and turning off into the field. In the distance a siren wailed, and through the rain he could see the white bulk of an oncoming ambulance. And the plane spiraled down in a crazy spin. . . .
 
-Wally Tibbets leaned back and pushed his chair away from the desk.
+<a id="page232"></a>Wally Tibbets leaned back and pushed his chair away from the desk.
 
 “So that’s how it happened, eh?” he said.
 
@@ -5071,17 +5092,17 @@ Satterlee nodded soberly.
 
 Tibbets shook his head. “Nope,” he said. “I’m going to answer all inquiries with a flat denial.”
 
-“But I have the facts right here in my pocket—” “Keep ’em there. On second thought, bum ’em.”
+“But I have the facts right here in my pocket—” “Keep ’em there. On second thought, burn ’em.”
 
 “The story—”
 
 “There isn’t going to be any story. It’s all over now anyway. Didn’t you notice a change in people after that storm came up? Wind must have blown the gas away, dissipated it or something. Anyway, everybody’s back to normal. And most of them have already convinced themselves that nothing ever happened.”
 
-“But we know it did! What about all those story leads that came in this afternoon? You said they were burning up the wires.”
+“But we *know* it did! What about all those story leads that came in this afternoon? You said they were burning up the wires.”
 
-“For one hour, yes. And ever since then they’ve been calling back with denials and retractions. Turns out the senator isn’t resigning after all. The labor boy shot himself by accident. The police can’t get anyone to sign their confessions. The advertisers are placing new copy again. Mark my words, by tomorrow morning the whole town will have forgotten what went on. They’ll will themselves to forget, in order to protect their own sanity. Nobody can face the truth and live.”
+“For one hour, yes. And ever since then they’ve been calling back with denials and retractions. Turns out the senator isn’t resigning after all. The labor boy shot himself by accident. The police can’t get anyone to sign their confessions. The advertisers are placing new copy again. Mark my words, by tomorrow morning the whole town will have forgotten what went on. They’ll *will* themselves to forget, in order to protect their own sanity. Nobody can face the truth and live.”
 
-“That’s a terrible way to think,” Satterlee said. “Doctor Lowenquist was a great man. He knew that what he’d stumbled on accidentally could revolutionize everything. This flight over the city was just a trial run—he tells about it in his papers here. He had plans for doing it again on a larger scale. He wanted to take a plane up over Washington, fly over Moscow, all the capitals of the world. Because this truth serum could change the world. Don’t you see that?”
+“That’s a terrible way to think,” Satterlee said. <a id="page233"></a>“Doctor Lowenquist was a great man. He knew that what he’d stumbled on accidentally could revolutionize everything. This flight over the city was just a trial run—he tells about it in his papers here. He had plans for doing it again on a larger scale. He wanted to take a plane up over Washington, fly over Moscow, all the capitals of the world. Because this truth serum could *change* the world. Don’t you see that?”
 
 “Of course I see it. But the world shouldn’t be changed.”
 
@@ -5097,11 +5118,9 @@ Wally Tibbets stood up. “You’re forgetting one thing,” he said. “Truth i
 
 “Of course I saw. Criminals confessed. Crooks reformed or blew their brains out. People suddenly stopped lying to one another. Is that so bad?”
 
-“About the criminals, no. But that’s not all that happened. As you say, people stopped lying to one another. Ordinaiy people. And that could be a terrible thing.” “I don’t see—”
+“About the criminals, no. But that’s not all that happened. As you say, people stopped lying to one another. *Ordinary* people. And that could be a terrible thing.” “I don’t see—”
 
-“That’s right. You don’t see. You don’t see what happens when the doctor tells his patient that he’s dying of cancer, when the wife tells her husband he’s not actually
-
-the father of their son. Everybody has secrets, or almost everybody. Sometimes it’s better not to know the whole truth—about others or about yourself.”
+“That’s right. You don’t see. You don’t see what happens when the doctor tells his patient that he’s dying of cancer, when the wife tells her husband he’s not actually <a id="page234"></a>the father of their son. Everybody has secrets, or almost everybody. Sometimes it’s better not to know the whole truth—about others or about yourself.”
 
 “But look at what goes on in the world today.”
 
@@ -5113,9 +5132,7 @@ the father of their son. Everybody has secrets, or almost everybody. Sometimes i
 
 “We could keep on spraying,” Satterlee broke in eagerly. “There are other honest men—we could raise funds, make this a long-term project. And who knows? Perhaps after a few exposures the change would be permanent. Don’t you understand? We can end war.”
 
-“I understand,” Tibbets told him. “You could end war between nations. And start hundreds of millions of individual wars, waged in human minds and human hearts. Therg’d be a wave of insanity, a wave of suicides, a wave of murders. There’d be a breakup of the home, the family, all the institutions that hold our lives
-
-together. The whole social structure would collapse. No, your weapon is too dangerous.”
+“I understand,” Tibbets told him. “You could end war between nations. And start hundreds of millions of *individual* wars, waged in human minds and human hearts. Therg’d be a wave of insanity, a wave of suicides, a wave of murders. There’d be a breakup of the home, the family, all the institutions that hold our lives <a id="page235"></a>together. The whole social structure would collapse. No, your weapon is too dangerous.”
 
 “I realize it’s a risk.”
 
@@ -5125,105 +5142,15 @@ Satterlee was silent, staring out into the night. Far in the distance a jet plan
 
 “You’re an honest man,” Tibbets said. “One of the few. I admire you for it. I’m not going to try and force you to give up that formula, because it isn’t necessary. I believe in you. All I want is for you to tell me now that you won’t try to change things. Leave the world the way it is.” He paused. “Will you give me your word of honor?”
 
-Satterlee hesitated. He was an honest man, he realized, and so his answer was a long time coming.
+Satterlee hesitated. He *was* an honest man, he realized, and so his answer was a long time coming.
 
 Then, “I promise,” Satterlee lied.
-
-
-
-
-
-
-
-
-
-
-
-
-
-%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
-
-
-
-
-
-
-
-
-
-
-
-»
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
 
 ---
 
 the_world_timer
 
-# The World-Timer
+# <a id="page237"></a>The World-Timer
 
 .fl
 <span class="smallcaps">He may or</span> may not have been human. It was hard to tell, because in a psychiatrist’s office, you get all kinds.
@@ -5769,7 +5696,7 @@ He saw a world in which there was no transference of aggressions, due to sexual 
 
 There was, to begin with, a complete change in the pattern of courtship; the element of rivalry, of competition, was almost eliminated. Male and female paired first for mutual pleasure, without the necessity of seeking the almost impossible combination of perfect lover, ideal helpmate, good provider, wise companion, and social prize which dogs most young people in their choice.
 
-Later on, male and female paired for the purpose of reproduction; children bom of the union of these matings were given a healthy environment of genuine love during the years when they were most lovable—and most subject to lasting psychological impressions. Then, at the time when they became encumbrances in a complex social order, they were turned over to well-organized state establishments for education and proper development
+Later on, male and female paired for the purpose of reproduction; children born of the union of these matings were given a healthy environment of genuine love during the years when they were most lovable—and most subject to lasting psychological impressions. Then, at the time when they became encumbrances in a complex social order, they were turned over to well-organized state establishments for education and proper development
 
 Finally, male and female allied on the basis of fully matured judgments; as companions with mutual tastes and interests. Their early sexual drives fully satisfied, their reproductive drive fulfilled, their responsibilities in these areas ended, they were free to seek permanent or temporary liaisons on a fully-realistic basis of compatibility.
 
@@ -5779,7 +5706,7 @@ For one thing, a change in personality-values—the notion of what constituted a
 
 Less time was wasted, by young and old alike, in false and exaggerated emphasis upon presumably “masculine” or “feminine” attributes. A 16-year-old boy could honestly prove his masculinity, with full approval and satisfaction, on a biological basis, instead of spending most of his energy on football, juvenile delinquency, surreptitious indulgence in alcohol and narcotics and the assumption of an outward brutality designed to impress the female. A 16-year-old girl could fulfill her biological function in maternity instead of retreating into narcissism, virginity-fantasies, or a rebellious and unsatisfactory promiscuity.
 
-The young man found sympathy and understanding with an older woman during his initial relationship, and learned to appreciate these qualities. The young woman found steadiness and strength in an older man, and was not impressed by reckless exhibitionism and irresponsible. behavior. When the age-patterns of later relationships were reversed, an even greater mutual understanding prevailed; in the final maturity, there was a peace and a satisfaction bom of genuine love and respect. In this world, men and women actually enjoyed one another’s company, and there was no rivalry.
+The young man found sympathy and understanding with an older woman during his initial relationship, and learned to appreciate these qualities. The young woman found steadiness and strength in an older man, and was not impressed by reckless exhibitionism and irresponsible. behavior. When the age-patterns of later relationships were reversed, an even greater mutual understanding prevailed; in the final maturity, there was a peace and a satisfaction born of genuine love and respect. In this world, men and women actually enjoyed one another’s company, and there was no rivalry.
 
 As a result, there was no fear of the domestic situation; it was not a life-long trap in which both parties became enslaved to a consumer economy because they had to “preserve” a so-called home at all costs. Because there was no set and permanent family status, the element of economic competition virtually vanished; there was no need to pile up great accretions of consumer-goods for conspicuous consumption or as substitutes for genuine satisfactions. And there was no “Inheritance.” The state regulated employment and recompense but did so benevolently—for there was no familial tension-source to spawn the guilt, hate, frustration, and aggression which resulted in individual crime and mass warfare. Hence a “police state” proved unnecessary. Simple miscegenation had done away with national, racial, and
 
@@ -5952,7 +5879,7 @@ You can stay right where you are, and let this world swallow you. . . .
 
 that_hell-bound_train
 
-# That Hell-Bound Train
+# <a id="page271"></a>That Hell-Bound Train
 
 .fl
 <span class="smallcaps">When Martin was</span> a little boy, his Daddy was a Railroad Man. He never rode the high iron, but he walked the tracks for the CB&Q, and he was proud of his job. And when he got drunk (which was every night) he sang this old song about *That Hell-Bound Train*.
@@ -6284,7 +6211,7 @@ And that’s the way it finally worked out. Wearing his cap and silver watch, th
 
 the_funnel_of_god
 
-# The Funnel of God
+# <a id="page289"></a>The Funnel of God
 
 .fl
 <span class="smallcaps">When Harvey Wolf</span> was seven, he met the Black Skelm.
@@ -6293,7 +6220,7 @@ Now “skelm” means rascal, and at his age, Harvey knew nothing of duplicity a
 
 The Basutos on his father’s place called him *baas*, but he did not feel that he was their master. Even Jong Kurt, his father’s foreman, treated the men of color without contempt. Harvey came to know the Bechu-anas, the Kaffirs, the Fingos and the Swazis far better than the *Roinecks*, which was their name for Englishmen.
 
-Harvey knew his own father was a *Roineck*, who owned this place, but that was virtually the extent of his knowledge. His father never visited him; he spent all his time at the Cape, and had ever since Harvey’s mother died when he was bom. Harvey had been left in care of Jong Kurt and of his wife, whom Harvey learned to call Mama.
+Harvey knew his own father was a *Roineck*, who owned this place, but that was virtually the extent of his knowledge. His father never visited him; he spent all his time at the Cape, and had ever since Harvey’s mother died when he was born. Harvey had been left in care of Jong Kurt and of his wife, whom Harvey learned to call Mama.
 
 “Poor little one,” Mama said. “But you are free and happy with us, so *gued geroeg*.”
 
@@ -6676,7 +6603,7 @@ The bat cheeped and flapped its wings before him. Suddenly Harvey conceived the 
 
 Then he knew. The Black Skelm wasn’t dead. He was waiting for Harvey, there on the mountain. He had sent a messenger, a guide.
 
-Harvey didn’t hesitate. He went out into the moonlit plain and it was like the first time. Now he was a grown man in boots instead of a child in rawhide veldschoen, and it was night instead of day, but nothing had changed. Even the odd delirium rose to envelop him once again; not the fever bom of the hot sun but the chill of the cold moon. He trudged across the silver silence of the sand and the bat swooped in sinister silhouette before him. When Harvey reached the krantz he almost decided to turn back; this was no mysterious midnight mission, only the tipsy fugue of an overimag-inative man unused to the potency of Kaffir beer.
+Harvey didn’t hesitate. He went out into the moonlit plain and it was like the first time. Now he was a grown man in boots instead of a child in rawhide veldschoen, and it was night instead of day, but nothing had changed. Even the odd delirium rose to envelop him once again; not the fever born of the hot sun but the chill of the cold moon. He trudged across the silver silence of the sand and the bat swooped in sinister silhouette before him. When Harvey reached the krantz he almost decided to turn back; this was no mysterious midnight mission, only the tipsy fugue of an overimag-inative man unused to the potency of Kaffir beer.
 
 But they were waiting for him there in the shadows; huddled in teeming thousands, their tiny red eyes winking a greeting. And now they all rose about him, covering him in a living cloak. He glanced back and found they had closed in solidly, forming a living barrier against retreat. The acrid stench was in itself a wall through which he dared not pass, so he went forward, up to the winding pad which took him, toiling, to the top of the berg.
 
@@ -6828,7 +6755,7 @@ He could only scream, and merge into a swirling nothingness, a funnel that engul
 
 beelzebub
 
-# Beelzebub
+# <a id="page319"></a>Beelzebub
 
 .fl
 <span class="smallcaps">Howard was still</span> half-asleep when he heard the buzzing. It was a faint, persistent drone, balanced delicately on the very threshold of consciousness. For a moment Howard wasn’t sure whether the sound came from the sleeping-side or the waking-side of his mind. God knows, he’d heard plenty of strange noises in his sleep lately; made them, too. Anita was always complaining about how he’d wake up in the middle of the night, screaming at the top of his lungs. But he had reasons to be upset, the way things were going, and besides Anita was always complaining, period.
@@ -6963,7 +6890,7 @@ It was, of course, an epitaph . . .
 
 the_plot_is_the_thing
 
-# The Plot Is the Thing
+# <a id="page329"></a>The Plot Is the Thing
 
 .fl
 <span class="smallcaps">When they broke</span> into the apartment, they found her sitting in front of the television set, watching an old movie.
@@ -7034,7 +6961,7 @@ Then she remembered what was in London. Another werewolf. And Mr. Hyde. And the 
 
 Peggy fled through a fadeout, back to Paris. She . found the name of a psychiatrist, made her appointment. She was perfectly prepared to face her problem now, perfectly prepared to face reality.
 
-But she was not prepared to face the bald-headed little man with the sinister accent and the bulging eyes. She knew him—Dr. Gogol, in Mad Love. She also knew Peter Lorre had passed on, knew Mad Love was only a movie, made the year she was bom. But that was in another country, and besides, the wench was dead.
+But she was not prepared to face the bald-headed little man with the sinister accent and the bulging eyes. She knew him—Dr. Gogol, in Mad Love. She also knew Peter Lorre had passed on, knew Mad Love was only a movie, made the year she was born. But that was in another country, and besides, the wench was dead.
 
 The wench was dead, but Peggy was alive. “I am a stranger and afraid, in a world 1 never made” Or had she made this world? She wasn’t sure. All she knew was that she had to escape.
 
@@ -7042,7 +6969,7 @@ Where? It couldn’t be Egypt, because that’s where he would be—the wrinkled
 
 Back to America, then? Home is where the heart is—but there’d be a knife waiting for that heart when the shower-curtains were ripped aside and the creature of Psycho screamed and slashed . . .
 
-Somehow she managed to remember a haven, bom in other films. The South Seas—Dorothy Lamour, Jon Hall, the friendly natives in the tropical paradise. There was escape.
+Somehow she managed to remember a haven, born in other films. The South Seas—Dorothy Lamour, Jon Hall, the friendly natives in the tropical paradise. There was escape.
 
 Peggy boarded the ship in Marseilles. It was a tramp steamer but the cast—crew, rather—was reasuringly small. At first she spent most of her time below deck, huddled in her berth. Oddly enough, it was getting to be like it had been before. Before the operation, that is, before the needle bit into her brain, twisting it, or distorting the world. Changing reality, as Lionel Atwill had put it. She should have listened to them—Atwill, Zucco, Basil Rathbone, Edward Van Sloan, John Carradine. They may have been a little mad, but they were good doctors, dedicated scientists. They meant well. “There are some things we were not meant to know.”
 
@@ -7066,7 +6993,7 @@ Even over her own screams she could hear the natives chanting, just one word, ov
 
 how_like_a_god
 
-# How Like a God
+# <a id="page337"></a>How Like a God
 
 .fl
 <span class="smallcaps">To be was</span> sweet.
@@ -7093,7 +7020,7 @@ To be was sweet But it was not sweet enough.
 
 Upon this, Mok meditated. And when coalescence came again, Mok. did not surrender. Mok fixed firmly upon the concept of freedom—freedom of choice, the final freedom which Ser denied.
 
-There was agitation amongst the others; Mok sensed it. Some attempted to merge with Mok, for they too shared the concept, and Mok opened to receive them, feeling the strength grow. Mok was as strong as Ser now, stronger, calling upon the will and purpose bom of memories of millions of finite existences in which will and purpose were the roots of survival. But that survival had been temporary, and this would be permanent, forever.
+There was agitation amongst the others; Mok sensed it. Some attempted to merge with Mok, for they too shared the concept, and Mok opened to receive them, feeling the strength grow. Mok was as strong as Ser now, stronger, calling upon the will and purpose born of memories of millions of finite existences in which will and purpose were the roots of survival. But that survival had been temporary, and this would be permanent, forever.
 
 Mok held the concept, gathered the strength, firmed the purpose—and then, quite suddenly, the purpose faded. The strength oozed away. The others were gone; nothing was left but Mok and the concept itself. The concept to—
 
@@ -7157,7 +7084,7 @@ He glanced towards the bleak, black bulk of the crags looming across the barren 
 
 But Mok ascended the face of the nearest cliff and found the opening; a crevasse with an inner fissure that became the mouth of a cave. A dark shelter from the wind, but it was warmer here. And the rocky floor sloped down into deeper darkness. The pupils of his eyes accommodated, and he could guide himself in the dim tunnelway, for his vision was that of a feral nycta-lops.
 
-Mok crept through caverns like a giant cat, gusts of warm air billowing against his body to beckon him forward. Forward and down, forward and down. And now the heat rose about him in palpable waves, the air was singed with an acrid scent, and there was a glowing from a light-source ahead. Forward and down towards the light-source, until he heard the hissing and the rumbling, felt the scalding steam, breathed the lung-searing gases, saw the spurting flames in which steam and gas were bom.
+Mok crept through caverns like a giant cat, gusts of warm air billowing against his body to beckon him forward. Forward and down, forward and down. And now the heat rose about him in palpable waves, the air was singed with an acrid scent, and there was a glowing from a light-source ahead. Forward and down towards the light-source, until he heard the hissing and the rumbling, felt the scalding steam, breathed the lung-searing gases, saw the spurting flames in which steam and gas were born.
 
 The inner core of the planet was molten. Mok went no further; he turned and retreated to a comfortable distance, moving, into a side-passageway which led to still other offshoots. Here tortuous tunnels branched in all directions, but he was safe in warmth and darkness; safe to rest. His body—this corporeal prison in which he was doomed to dwell—needed rest
 
@@ -7409,7 +7336,7 @@ It was a matter, Mok decided, which might require an eternity of contemplation .
 
 the_movie_people
 
-# The Movie People
+# <a id="page355"></a>The Movie People
 
 .fl.smallcaps
 Two thousand stars.
@@ -7700,7 +7627,7 @@ They were waving at me . . .
 
 the_oracle
 
-# The Oracle
+# <a id="page369"></a>The Oracle
 
 .fl
 <span class="smallcaps">Love is blind.</span> Justice is blind. Chance is blind. I do not know if Raymond was searching for love or seeking justice or if he came to me by chance. And I cannot tell you if Raymond was black or white, because I am only an oracle.
@@ -7865,7 +7792,7 @@ It will happen again . . .
 
 the_learning_maze
 
-# The Learning Maze
+# <a id="page377"></a>The Learning Maze
 
 .fl
 <span class="smallcaps">Jon couldn’t remember</span> a time when he hadn’t been in the Maze.

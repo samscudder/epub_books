@@ -140,11 +140,11 @@ other magazine until that one died.” (The Clayton Astounding Stories folded up
 
 The “I read no other magazine” above should not be taken to mean that Jim read no fiction other than science fiction in the early 30s, but I know of no record as to what other sort of reading he did do, aside from that required in school. His reading in science fiction did, however, impel him to take up science subjects in college and to continue them in postgraduate work under the GI Bill after he emerged from the armed services in 1945. He was studying zoology at Columbia, but (as he wrote in the letter mentioned above) he soon became convinced: “ . . . that as a scientist I would never be anything but third rate . . .” He and I both took advantage of the opportunity, in 1945, to take scientific aptitude tests, and his test showed that, while there was some talent for science and certainly a great deal for music, he was most ideally suited for literature.
 
-At the time of the incident relating to Kornbluth above, Jim had had two stories published in Frederik Pohl’s Super Science Stories: “Emergency Refueling” (March 1940) and “Bequest of the Angel” (May 1940). His early attempts to become one of the new generation of science-fiction authors then springing up— those who started off as science-fiction fans, in close association with other fans—were interrupted by induction into the army. In 1940, I was trying to make a go of it as an author’s agent, specializing in science fiction and fantasy (the only pulp fiction about which I really knew anything at the time), and Jim sent me a number of manuscripts to try my hand at selling. By the end of the year, Don Wollheim had become a science-fiction editor and had brought out his first issue of Stirring Science Stories and was working on the first Cosmic Science Stories, and I had been appointed to take over Future Fiction and Science Fiction Quarterly for Columbia Publications. Those stories, and a couple of others Jim managed to find time to write while in service, all appeared in the magazines listed above. (In a way, it was a mistake for him to have sent his material directly to me instead of submitting to John Campbell’s Astounding first; not that I didn’t try to sell them' to John, but Campbell did not write letters to the^uthors of stories submitted by agents. Had Jim submitted direct, he just might have obtained some valuable suggestions from another of the great teachers in the science-fiction magazine field.)
+At the time of the incident relating to Kornbluth above, Jim had had two stories published in Frederik Pohl’s Super Science Stories: “Emergency Refueling” (March 1940) and “Bequest of the Angel” (May 1940). His early attempts to become one of the new generation of science-fiction authors then springing up—those who started off as science-fiction fans, in close association with other fans—were interrupted by induction into the army. In 1940, I was trying to make a go of it as an author’s agent, specializing in science fiction and fantasy (the only pulp fiction about which I really knew anything at the time), and Jim sent me a number of manuscripts to try my hand at selling. By the end of the year, Don Wollheim had become a science-fiction editor and had brought out his first issue of Stirring Science Stories and was working on the first Cosmic Science Stories, and I had been appointed to take over Future Fiction and Science Fiction Quarterly for Columbia Publications. Those stories, and a couple of others Jim managed to find time to write while in service, all appeared in the magazines listed above. (In a way, it was a mistake for him to have sent his material directly to me instead of submitting to John Campbell’s Astounding first; not that I didn’t try to sell them' to John, but Campbell did not write letters to the^uthors of stories submitted by agents. Had Jim submitted direct, he just might have obtained some valuable suggestions from another of the great teachers in the science-fiction magazine field.)
 
 With one exception, those early tales are entirely forgettable, although readable today. The exception is “Citadel of Thought,” which appeared in the initial issue of Stirring Science Stories. (By prior consent for the early issues of the magazines none of the authors were ever paid. They all submitted stories they liked which had been rejected anywhere else, with the understanding that should the magazines go over, the authors would be paid for further submissions. Payment was begun soon enough for Jim to get money for the third story Wollheim published.)
 
-“Citadel of Thought," then, is the earliest of James Blish’s fiction in this volume. While the theme (mind control) is the first showing of one which Jim would develop in an astonishing number of ways later—ways that other science-fiction writers hadn’t already done— certain crudities and pulp conventionalities rule it out as a reasonable sample of his “best.” But the story will enable the reader to see who Jim’s earliest ancestors in science fiction and fantasy were; some of them he retained, but later added others.
+“Citadel of Thought," then, is the earliest of James Blish’s fiction in this volume. While the theme (mind control) is the first showing of one which Jim would develop in an astonishing number of ways later—ways that other science-fiction writers hadn’t already done—certain crudities and pulp conventionalities rule it out as a reasonable sample of his “best.” But the story will enable the reader to see who Jim’s earliest ancestors in science fiction and fantasy were; some of them he retained, but later added others.
 
 An advantage of being an author is that one can change or add to one’s literary parents and ancestors at will. Jim’s later work shows a broader and more discriminating selection. But in 1940, he hadn’t started learning to do it the hard way; had he continued along those lines, his stories would have improved, certainly, and there might be a few worth preserving in anthologies, but most of them would not have been above the level of good pulp fiction.
 
@@ -160,7 +160,7 @@ It was in 1945-1946, when outwardly it seemed as if his sole interest was contin
 
 What he did was to take a low-paying job with a literary agent in the “reading-fee” department. Unknowns who sent in manuscripts with a fee for reading and criticism would receive carefully thought out letters explaining exactly what was wrong with the story, whether it was salable at all, and what had to be done to make it so if it had the potential. The reading-fee client’s fec was deducted from the agent’s commission if, as sometimes happened, the story was indeed salable as it stood.
 
-On the surface, Jim was teaching hopeful writers (most of whom were entirely hopeless) how to sell— not much different from a college course, one might think. But in the process he was learning what a bad story is, why it is bad, and how not just to make a story salable but excellent. (Other science-fiction writers later benefited by going through the same process with the same agent.) He then set down to test his knowledge by writing for every type of pulp magazine on the market except the “love” pulps. At that time, I was editorial director of the entire Columbia chain of pulp magazines, and personally editor of them all execpt the love titles. Jim sent me western, detective, and sports stories; I never had to reject one or send it back for reworking. And a few of them were not just a little better, but considerably better than they had to be to make a sale. He had already gotten beyond the highest level of story writing that he’d attained in his early science fiction. (A “good enough" story would have been sufficient for me, to help a friend; but Jim was doing well enough for me to assign stories to him. When I did, he came through.)
+On the surface, Jim was teaching hopeful writers (most of whom were entirely hopeless) how to sell—not much different from a college course, one might think. But in the process he was learning what a bad story is, why it is bad, and how not just to make a story salable but excellent. (Other science-fiction writers later benefited by going through the same process with the same agent.) He then set down to test his knowledge by writing for every type of pulp magazine on the market except the “love” pulps. At that time, I was editorial director of the entire Columbia chain of pulp magazines, and personally editor of them all execpt the love titles. Jim sent me western, detective, and sports stories; I never had to reject one or send it back for reworking. And a few of them were not just a little better, but considerably better than they had to be to make a sale. He had already gotten beyond the highest level of story writing that he’d attained in his early science fiction. (A “good enough" story would have been sufficient for me, to help a friend; but Jim was doing well enough for me to assign stories to him. When I did, he came through.)
 
 Our joint apartment did not last long—a little over five months—as he' moved out to take an apartment across the hall from Virginia Kidd, whom he married a year or so later. That apartment was within easy walking distance of our former joint one, which I continued to occupy alone, and the three of us remained in close contact until the Blishes moved to Staten Island at the end of 1947. Their first son died in infancy from the Rh. Negative reaction, about which not enough was known. Treatment during the pregnancy might have saved the child. (They would later have a son and daughter who are still alive and well.)
 
@@ -218,7 +218,7 @@ When Dan Lothar’s shattered Ganymedian dropped into the ammoniac mists of Nept
 
 That he did not take into account Lothar’s phenomenal resourcefulness was perhaps wrong; yet he had beaten the interplanetary outlaw in a fair duel between ships, and more experienced men than the young commander had been satisfied with less. Withal he should have known that no police cruiser could have beaten the wasp-like Ganymedian unless there was something wrong inside; he should have remembered the shrewd mind behind Lothar’s dark eyes, and the ability of that mind to take full advantage of chance. But the police cruiser went back toward the sun, and if a spaceship can strut, it did so.
 
-For there had been much amiss within the Ganymedian when it blundered so carelessly into range of the cruiser's fire. Nothing was wrong with the ship itself— Lothar was too careful of it and too much in love with its sleek, deadly beauty, mothering it constantly with
+For there had been much amiss within the Ganymedian when it blundered so carelessly into range of the cruiser's fire. Nothing was wrong with the ship itself—Lothar was too careful of it and too much in love with its sleek, deadly beauty, mothering it constantly with
 
 l
 
@@ -312,7 +312,7 @@ He made no comment and she went on.
 
 “Long ago we tried to reach that cosmic awareness. The massed minds of the college were flung out, united, in a great effort at understanding—but without w^ing came a terrible interruption. There was another thought present. At first it was a faint disturbance, nothing more, jarring our concentration. We could not find the source. Then, gradually as we became attuned to it, it grew; an alien thing, not human, and inimical, cold, deadly, coming from we knew not what nadir beyond our Earth. . . . How inhuman our Hall must seem to you, I realize,” she interrupted, and he was astonished to see a faint smile transfigure the acerb expression for a moment, “but you have no idea of the difference between thought patterns of human and alien minds, no matter how advanced the former may be, until you have actually sensed them. We did. We felt this deadly current, this other-world pattern, playing coldly across the Earth, and we were afraid. We had no way of knowing its meaning, yet we did know that it meant ill things for man and his works. Soon after we began to piece it out . . . it was lost in the human thoughts all around us.
 
-“We came out here, away from human interference, to search out that spatial cold we had felt. Only a few of us are immortal; but we are all doing the same work— tracing, projecting, attuning our mind-channels to that thought. You cannot imagine why it seemed so important, because you cannot feel what we did—yet it means death to mankind unless it is halted, Dan Lothar.”
+“We came out here, away from human interference, to search out that spatial cold we had felt. Only a few of us are immortal; but we are all doing the same work—tracing, projecting, attuning our mind-channels to that thought. You cannot imagine why it seemed so important, because you cannot feel what we did—yet it means death to mankind unless it is halted, Dan Lothar.”
 
 He put a hand to his head. Unbelievable nightmare! A citadel on acerb Neptune, built at unguessable cost, to seek a thought, a single wave, that seemed dangerous to Earth! The idea chilled him; yet on the surface it seemed ridiculous.
 
@@ -384,7 +384,7 @@ Dan muttered to himself and punched buttons. “Damn* intellectuals,” he comme
 
 “Something is wrong,” the speaker rasped tinnily. “Come and see. We cannot control the current.”
 
-“I don’t have to come and see,” Dan roared. “What do you think I’ve got meters for? Cut the power on the condensers before you bum us all to a cinder. Watch your input. Wake up. Think about something useful.” The girl was actually grinning like a gamin when he turned away; he felt happy himself, although the specter of dread hung over him as it did over the whole ship.
+“I don’t have to come and see,” Dan roared. “What do you think I’ve got meters for? Cut the power on the condensers before you burn us all to a cinder. Watch your input. Wake up. Think about something useful.” The girl was actually grinning like a gamin when he turned away; he felt happy himself, although the specter of dread hung over him as it did over the whole ship.
 
 “Now you,” he said to the startled young man. “Where are they?”
 
@@ -546,7 +546,7 @@ The alarm had ^ down.
 
 This was obviously ridiculous. The clock was wrong. He put it back on the table and turned on the little radio. After a moment it responded with a terrific thrumming, as if a vacuum cleaner were imprisoned in its workings.
 
-"B-flat,” Meister thought automatically. He had only one good ear, but he still had perfect pitch—a necessity for a resonance engineer. He shifted the setting. The hum got louder. Hastily he reversed the dial. Around 830 kc, where WNYC came in, the bum was almost gone, but of course it was too early yet for the city station to be on the air—
+"B-flat,” Meister thought automatically. He had only one good ear, but he still had perfect pitch—a necessity for a resonance engineer. He shifted the setting. The hum got louder. Hastily he reversed the dial. Around 830 kc, where WNYC came in, the hum was almost gone, but of course it was too early yet for the city station to be on the air—
 
 “ .•. fn your homes,” a voice struck in clearly above the humming. "We are awalting a report from Army headquarters. In the meantime, any crowding at the boundaries of the barrier will interrupt the work of the Mayor’s inquiry commission . . . Here’s a word just in from the Port Authority: all ferry service has been suspended until further notice. Subways and tubes are running outbound trains only; however, local service remains normal so far.”
 
@@ -700,9 +700,13 @@ The senior technician passed him the mike. A comparatively long-wave channel had
 
 Meister whistled. “So low! Yet there is a steady supply of calories in the water—”
 
-“Water’s a poor conductor. What worries me is this accursed ozone. It’s diffusing through the city—already smells like the inside of a transformer around here!” “What about the Empire State Building?”
+“Water’s a poor conductor. What worries me is this accursed ozone. It’s diffusing through the city—already smells like the inside of a transformer around here!”
 
-“Not a thing. We ran soap bubbles along the power leads to see if something was tapping some of WNBT’9 power, but there isn’t a break in them anywhere. Maybe you’d better go over there when you’re through at the barrier. There are some things we can’t make sense of.” “I shall,” Meister said. “I will leave here as soon as I start a fire.”
+“What about the Empire State Building?”
+
+“Not a thing. We ran soap bubbles along the power leads to see if something was tapping some of WNBT’9 power, but there isn’t a break in them anywhere. Maybe you’d better go over there when you’re through at the barrier. There are some things we can’t make sense of.”
+
+“I shall,” Meister said. “I will leave here as soon as I start a fire.”
 
 Schafer began to sputter. Meister smiled gently and handed the phone back to the technician.
 
@@ -828,7 +832,9 @@ Meister stiffened. “I? That’s idiotic!”
 
 The mayor coughed. He was obviously tired, and the taint of ozone did not make breathing very comfortable.
 
-‘Tm afraid there's more to it than that, Dr. Meister,” he added. “Mr. Dean here has insisted upon an arrest. I'd like to say for myself that I think it all quite stupid.” “Thank you,” Meister said. “What is Mr. Dean’s interest in this?”
+‘Tm afraid there's more to it than that, Dr. Meister,” he added. “Mr. Dean here has insisted upon an arrest. I'd like to say for myself that I think it all quite stupid.”
+
+“Thank you,” Meister said. “What is Mr. Dean’s interest in this?”
 
 “Mr. Dean,” Schafer growled, “is the owner of that block of tenements you’re burning out up north. The fire's spreading, by the way. When I told him I didn't know why you lit it, he blew his top.”
 
@@ -840,13 +846,17 @@ The mayor coughed. He was obviously tired, and the taint of ozone did not make b
 
 Meister nodded. “I gather that you have no knowledge of elementary chemistry, Mr. Dean. The Box is rapidly converting our oxygen into an unbreathable form. A good hot fire wiU consume some of it, but it will also break up the ozone molecules. The ratio is about two atoms of oxygen consumed for every one set free—out of three which in the form of ozone could not have been breathed at all.”
 
-Schafer sighed gustily. “I should have guessed. A neat scheme, Jake. But what about the ratio between reduction of ozone and over-all oxygen consumption?” “Large enough to maintain five of the six days’ grace with which we started. Had we let the ozone-fixing process continue unabated, we should not have lasted forty hours longer.”
+Schafer sighed gustily. “I should have guessed. A neat scheme, Jake. But what about the ratio between reduction of ozone and over-all oxygen consumption?”
+
+“Large enough to maintain five of the six days’ grace with which we started. Had we let the ozone-fixing process continue unabated, we should not have lasted forty hours longer.”
 
 “Mumbo jumbo!” Dean said stonily, turning to Schafer. “A halfway measure. The problem is to get us out of this mess, not to stretch our sufferings out by three days by invading property rights. This man is a German, probably a Nazi! By your own admission, he’s the only man in your whole section who’s seemed to know what to do. And nothing he’s done so far has shown any result, except to destroy some of my buildings!”
 
 “Dr. Meister, just what has been accomplished thus far?” a colonel of Intelligence said.
 
-“Only a few tentative observations," Meister said. “We have most of the^ secondary phenomena charted.” “Charts!” Dean snorted. .
+“Only a few tentative observations," Meister said. “We have most of the^ secondary phenomena charted.”
+
+“Charts!” Dean snorted. .
 
 “Can you offer any assurance that The Box will be down in time?” the colonel asked.
 
@@ -864,7 +874,7 @@ Pulling himself up to military straightness, the colonel cleared his throat and 
 
 “You’re inside The Box. If you put it up, you have a way out of it, and know where the generator is. You may go where you please, but from now on we’ll have a guard with you. . .. Satisfied, Dr. Schafer?”
 
-“It doesn’t satisfy me!” Dean rumbled. “What about my property? Are you going to let this madman bum buildings with a guard to help?”
+“It doesn’t satisfy me!” Dean rumbled. “What about my property? Are you going to let this madman burn buildings with a guard to help?”
 
 The colonel looked at the landlord. “Mr. Dean,” he said quietly, “you seem to think The Box was created to annoy you personally. The Army hasn’t the technical knowledge to destroy it, but it has sense enough to realize that more than just New York is under attack here. The enemy, whoever he may be, thinks his screen uncrackable, otherwise he wouldn’t have given us this chance to work on it by boxing in one city alone. If The Box is not down in, say, eight days, he’ll know that New York failed and died—and every city in the country will be bombed to slag the next mourning.”
 
@@ -910,7 +920,7 @@ The desk lamp clicked on. In the shaded glow Meis-ter saw that tears were trickl
 
 “No, no, don’t weep yet, the job is not quite done!” Meister cried. “But see—so simple, so beautiful!” He gestured at the lump of metal in the exact center of the Boxed area. “Here we are—four men, a bit of metallic trash, an empty desk, a lamp, a cup of foil. Where is the screen generator? Outside!”
 
-Schafer swallowed. “But it isn’t,” he said hoarsely. “Oh, y6u were right, Jake—the key projector is outside. But it doesn’t generate the screen; it just excites the iron there, and that does the job.” He looked at the scattered graphs on the desk top. “I’d never have dreamed such a jam of fields was possible! Look at those waves— catching each other, heterodyning, slowing each other up as the tension increases. No wonder the whole structure of space gives way when they finally get in phase!” One of the technicians looked nervously at the little Box and cleared his throat. “I still don’t see why it should leak light, oxygen, and so forth, even the little that it does. The jam has to be radiated away, and the screen should be the subspatial equivalent of a perfect radiator, a black body. But it's gray.”
+Schafer swallowed. “But it isn’t,” he said hoarsely. “Oh, y6u were right, Jake—the key projector is outside. But it doesn’t generate the screen; it just excites the iron there, and that does the job.” He looked at the scattered graphs on the desk top. “I’d never have dreamed such a jam of fields was possible! Look at those waves—catching each other, heterodyning, slowing each other up as the tension increases. No wonder the whole structure of space gives way when they finally get in phase!” One of the technicians looked nervously at the little Box and cleared his throat. “I still don’t see why it should leak light, oxygen, and so forth, even the little that it does. The jam has to be radiated away, and the screen should be the subspatial equivalent of a perfect radiator, a black body. But it's gray.”
 
 “No, it’s black,” Schafer said. “But it isn’t turned on all the time. If it were, the catalyst radiation couldn’t get through. It’s a perfect electromagnetic push-me-pull-you. The apparatus outside projects the catalyst fields in. The lump of iron—in this case the Empire State Building—is excited and throws off the screcn fields. The screen goes up. The screen cuts off the catalyst radiation. The screen goes down. In comes the primary beam again. And so on. The kicker is that without the off-again-on-again, you wouldn’t get anything—the screen couldn't exist because the intermittence supplies some of the necessary harmonics.”
 
@@ -920,7 +930,7 @@ He grinned ruefully. “Here I am explaining it as if I understood it. You’re 
 
 “So how do we get out?”
 
-“Feodback,” Meister said. “There must be an enormous back E^F in the incoming beam. And whether it is converted and put back into the system again at the source, or just efficiently wasted, we can bum it out.” He consulted a chalk line which ran along the floor from the edge of the little Box to the lump of iron, then picked up the cup of foil and pointed it along the mark away from the lump. “The trick,” he said soberly, “is not to nullify, but to amplify—”
+“Feodback,” Meister said. “There must be an enormous back E^F in the incoming beam. And whether it is converted and put back into the system again at the source, or just efficiently wasted, we can burn it out.” He consulted a chalk line which ran along the floor from the edge of the little Box to the lump of iron, then picked up the cup of foil and pointed it along the mark away from the lump. “The trick,” he said soberly, “is not to nullify, but to amplify—”
 
 The glare of the overheads burst in upon them. The lab was jammed with soldiers, all with rifles at the ready and all the rifles pointing in at them. The smell of burned insulation curled from an apparatus at the other end of the chalk line.
 
@@ -932,7 +942,7 @@ It was cold and quiet now in the city. The fires on the West Side, where one of 
 
 The air was a slow, cumulative poison. It was very dark.
 
-On top of the Empire State Building a great, shining bowl swung in a certain direction, stopped, waited. Fifty miles above it, in a region where neither cold nor air have any human meaning, a clumsy torpedo began to warm slightly. Inside it, delicate things glowed, fused— melted. There was no other difference; the torpedo kept on, traveled at its assigned twenty-one and eight-tenths miles per minute. It would always do so.
+On top of the Empire State Building a great, shining bowl swung in a certain direction, stopped, waited. Fifty miles above it, in a region where neither cold nor air have any human meaning, a clumsy torpedo began to warm slightly. Inside it, delicate things glowed, fused—melted. There was no other difference; the torpedo kept on, traveled at its assigned twenty-one and eight-tenths miles per minute. It would always do so.
 
 The Box vanished. The mourning sunlight glared in. There was a torrent of rain as cold air hit hot July. Within minutes the city was as gray as before, but with roiling thunderheads. People poured out of the buildings into the downpour, hysterical faces turned to the free air, shouting amid the thunder, embracing each other, dancing in the lightning flares.
 
@@ -1026,7 +1036,7 @@ As he closed the door to his room he paused for a moment to listen to Jarmoskows
 
 At 11:30, Jarmoskowski stood alone on the terrace of Newcliffe’s country house. Although there was no wind the night was frozen with a piercing cold—but he did not seem to notice it. He stood motionless, like a black statue, with only the long streamers of his breatu;. ing, like twin jets of steam from the nostrils of a dragon, to show that he was alive.
 
-Through the haze of lace that curtained Foote’s window Jarmoskowski was an heroic pillar of black stone— but a pillar above a fumarole.
+Through the haze of lace that curtained Foote’s window Jarmoskowski was an heroic pillar of black stone—but a pillar above a fumarole.
 
 The front of the house was entirely dark and the moonlight gleamed dully on the snow. In the dim light the heavy tower which was the central structure was like some ancient donjon-keep. Thin slits of embrasures watched the landscape with a dark vacuity and each of the crowning merlons wore a helmet of snow.
 
@@ -1120,7 +1130,7 @@ Foote did not reply for a while. His senses were still a little alcohol-numbed a
 
 “Well, well,” said Jarmoskowski pleasantly. “Warnings seem to be all the vogue this evening. Do you customarily pay your social calls with a knife in your hand?”
 
-“That’s the warning, Jarmoskowski. The knife is a —silver knife.”
+“That’s the warning, Jarmoskowski. The knife is a—silver knife.”
 
 “You must be drunker than ever,” said the pianist. “Why don’t you just go to bed? We can talk about it in the morning.”
 
@@ -1150,7 +1160,7 @@ From the other side of his moonlit room, Jannos-kowski’s voice came mockingly.
 
 The dim figure of'Jarmoskowski began to writhe and ripple in the reflected . moonlight. It foreshortened, twisting obscenely, sinking toward the floor, flesh and clothing alike changing into something not yet describa-ble.
 
-A cry ripped from Foote’s throat and he willed his legs to move with frantic, nightmarish urgency. His clutching hand grasped the doorknob. Tearing his eyes from the hypnotic fascination of the thing that was going on across from him he leaped from his comer and out into the corridor.
+A cry ripped from Foote’s throat and he willed his legs to move with frantic, nightmarish urgency. His clutching hand grasped the doorknob. Tearing his eyes from the hypnotic fascination of the thing that was going on across from him he leaped from his corner and out into the corridor.
 
 A bare second after he had slammed the door, something struck it a frightful blow from the inside. The paneling split. He held it shut with all the strength in his body.
 
@@ -1158,7 +1168,7 @@ A dim white shape drifted down upon him through the dark corridor and a fresh sp
 
 “Paul! What on earth! What’s the matter!"
 
-“Quick!” he choked out. “Get something silver— something heavy made out of sUver—quick, quick!”
+“Quick!” he choked out. “Get something silver—something heavy made out of sUver—quick, quick!”
 
 Despite her astonishment the frantic urgency in his voice was enough. She darted back into her room.
 
@@ -1240,7 +1250,7 @@ Bennington vaulted over the windowsill with an agility astonishing for so round 
 
 Newcliffe turned sharply to Lundgren. “Chris, I can depend upon you at least to have your wits about you.”
 
-The psychiatrist smiled wanly. “You didn’t read my Stockholm paper, did you, Tom? I mean my paper on mental diseases. Most of it dealt with lycanthropy— werewolfism.”
+The psychiatrist smiled wanly. “You didn’t read my Stockholm paper, did you, Tom? I mean my paper on mental diseases. Most of it dealt with lycanthropy—werewolfism.”
 
 “You mean—you believe this idiot story?”
 
@@ -1322,9 +1332,13 @@ Newcliffe set a wooden box on the table. “I pried the slug out of one shell fo
 
 “All right, pour,” Newcliffe said. “Lundgren, you don’t suppose it might help to chant a blessing or something?”
 
-“Not unless Jarmoskowski overheard it—probably not even then since we haven't a priest among us.” “Okay. Pour, Bennington, before the goo hardens.” Bennington decanted sluggishly molten silver into each depression in the clay and Newcliffe cleaned away the oozy residue from the casts before it had time to thicken. At any other time the whole scene would have been funny—now it was grimly grotesque. Newcliffe picked up the box and carried it back down to the cellar, where the emasculated cartridges awaited their new slugs.
+“Not unless Jarmoskowski overheard it—probably not even then since we haven't a priest among us.”
 
-“Who’s going to carry these things, now?” Foote asked. “There are five rifles. James, how about you?” “I couldn’t hit an elephant’s rump at three paces. Tom's an expert shot. So is Bennington here, with a shotgun anyhow.”
+“Okay. Pour, Bennington, before the goo hardens.” Bennington decanted sluggishly molten silver into each depression in the clay and Newcliffe cleaned away the oozy residue from the casts before it had time to thicken. At any other time the whole scene would have been funny—now it was grimly grotesque. Newcliffe picked up the box and carried it back down to the cellar, where the emasculated cartridges awaited their new slugs.
+
+“Who’s going to carry these things, now?” Foote asked. “There are five rifles. James, how about you?”
+
+“I couldn’t hit an elephant’s rump at three paces. Tom's an expert shot. So is Bennington here, with a shotgun anyhow.”
 
 “I can use a rifle," Bennington said diffidently.
 
@@ -1448,7 +1462,7 @@ Then there was the sound of a heavy body moving swiftly away. The shouting died 
 
 “They’re back," Newclifle said. “When I call them off they come off.”
 
-He bent over the body of the injured animal, which was still twitching feebly. “So—so,” he said softly. “So— Brucey. Easy—easy. So, Brucey—so."
+He bent over the body of the injured animal, which was still twitching feebly. “So—so,” he said softly. “So—Brucey. Easy—easy. So, Brucey—so."
 
 Still murmuring, he brought his rifle into position with one arm. The dog's tail beat feebly against the snow.
 
@@ -1556,7 +1570,7 @@ Six—who was Six? Who is next? When?
 
 Seven—Oh Lord, I’m next • . . I’m next • • • I’m next.
 
-He curled into a ball, trembling. The wind died away and there was silence, tremendous silence. After a long while he uncurled, swearing at himself but not aloud— because he was afraid to hear his own voice. Cut that out, now. Foote, you bloody fool. You’re like a kid hiding from the goblins. You're perfectly safe. Lundgren says so.
+He curled into a ball, trembling. The wind died away and there was silence, tremendous silence. After a long while he uncurled, swearing at himself but not aloud—because he was afraid to hear his own voice. Cut that out, now. Foote, you bloody fool. You’re like a kid hiding from the goblins. You're perfectly safe. Lundgren says so.
 
 Mamma says so.
 
@@ -1598,7 +1612,7 @@ The plane circled silently, jets cut. It lost flying speed and glided in over th
 
 They pounded downstairs. By the time they reached the front room the pilot was coming in with Newcliffe. A heavy case was slung between them.
 
-Newcliffe pried the case open. Then he sighed. “Look at ’em,” he said. “Nice, shiny brass cartridges, and dull-silver heads machined for perfect accuracy— yum, yum. I could just stand here and pet them. Where are you from?"
+Newcliffe pried the case open. Then he sighed. “Look at ’em,” he said. “Nice, shiny brass cartridges, and dull-silver heads machined for perfect accuracy—yum, yum. I could just stand here and pet them. Where are you from?"
 
 “Croydon,” said the pilot. “If you don’t mind, Mr. Newcliffe, the company said I was to collect from you. That’s a hundred pounds for the cartridges and five hundred for me.”
 
@@ -1628,7 +1642,7 @@ Doris nodded and went ■ upstairs. “Now this stud here,” Newcliffe said, "i
 
 “Isn't there a lot of recoil?” Foote asked.
 
-“Sure. These are really meant to operate from bipods. Hold the gun at your hip, not your shoulder— what’s that?”
+“Sure. These are really meant to operate from bipods. Hold the gun at your hip, not your shoulder—what’s that?”
 
 “Bennington’s voice,” Foote said, suddenly tense. “Something must be wrong with Doris.” The four of them clattered for the stairs.
 
@@ -1642,7 +1656,9 @@ Foote stood in the living room by the piano in the fuU glare of all the electric
 
 “No,” he said, “I don’t like that. I don’t want you all bunched together. String out in a line, in front of me, so I can see everybody.”
 
-He grinned briefly. “Got the drop on you, didn’t I? Not a rifle in sight. Of course, there’s the big candlestick behind you, Newcliffe, but I can shoot quicker than you can club me.” His voice grew ugly. “And I will, if you make it necessary. So I would advise everybody— including the women—not to make any sudden moves.” “What is this all about, Paul?” Bennington demanded angrily. “As if things aren’t bad enough!”
+He grinned briefly. “Got the drop on you, didn’t I? Not a rifle in sight. Of course, there’s the big candlestick behind you, Newcliffe, but I can shoot quicker than you can club me.” His voice grew ugly. “And I will, if you make it necessary. So I would advise everybody—including the women—not to make any sudden moves.”
+
+“What is this all about, Paul?” Bennington demanded angrily. “As if things aren’t bad enough!”
 
 “You’ll see directly. Now line up the way I told you. Quickr He moved the gun suggestively. “And remember what I said about sudden moves. It may be dark outside but I didn’t turn on all the lights for nothing.” Quietly the line formed and the eyes that looked at Foote were narrowed with suspicion of madness—or worse.
 
@@ -1652,7 +1668,9 @@ He grinned briefly. “Got the drop on you, didn’t I? Not a rifle in sight. Of
 
 “Yes. I don’t blame you for being angry, Tom, since I’m your guest. But you see I’m forced to treat you all alike for the moment. I was fond of Lundgren.”
 
-There was silence for a moment, then a thin indrawing of breath from Bennington. “You were fond—my Lord!” he whispered raggedly. “What do you mean?” “I mean that Lundgren was not killed by Jarmoskowski,” Foote said coldly and deliberately. “He was
+There was silence for a moment, then a thin indrawing of breath from Bennington. “You were fond—my Lord!” he whispered raggedly. “What do you mean?”
+
+“I mean that Lundgren was not killed by Jarmoskowski,” Foote said coldly and deliberately. “He was
 
 killed by someone else. Another werewolf. One who is standing before me at this moment."
 
@@ -1664,7 +1682,7 @@ A concerted gasp went up.
 
 “But nobody was bitten, Paul/’ Doris said in a reasonable voice.	.-.
 
-“Somebody was, lightly. None of you but Chris and myself could know about the bite-infection. Evidently somebody got a few small scratches, didn’t think them worth mentioning, put iodine on them and forgot them— until it was too late.”
+“Somebody was, lightly. None of you but Chris and myself could know about the bite-infection. Evidently somebody got a few small scratches, didn’t think them worth mentioning, put iodine on them and forgot them—until it was too late.”
 
 There were slow movements in the line—heads turning surreptitiously, eyes glancing nervously at persons to left and right.
 
@@ -1780,7 +1798,9 @@ Jarmoskowski tapped again and motioned with his finger. Reasoning that he would 
 
 “There are ten silver bullets in it.”
 
-“I know it. I’ve seen Brownings before. I would be a good target for you too, so I have no hope of escape— my nostrils are full of rosemary.” He smiled ruefully. “And Lundgren and Caroline are dead and I am responsible. I deserve to die. That is why I am here.” “You’ll get your wish, Jan,” she said. “You have some other reason, I know. I will back my wits against yours. I want to ask you questions.”
+“I know it. I’ve seen Brownings before. I would be a good target for you too, so I have no hope of escape—my nostrils are full of rosemary.” He smiled ruefully. “And Lundgren and Caroline are dead and I am responsible. I deserve to die. That is why I am here.”
+
+“You’ll get your wish, Jan,” she said. “You have some other reason, I know. I will back my wits against yours. I want to ask you questions.”
 
 “Ask.”
 
@@ -1800,7 +1820,7 @@ His voice took on a darkly somber tone. “Lundgren was right throughout. This w
 
 “And then I made apologies to my friends and went north to Sweden, where Lundgren was and where spring was much later. I loved him and I think he missed the truth about me until night before last. I was careful.
 
-“Once or twice I did not go North and then the people who had been my friends would be hammering silver behind my back and waiting for me in dark comers. After years of this few places in Europe would have me. With my reputation as a musician spread darker rumors.
+“Once or twice I did not go North and then the people who had been my friends would be hammering silver behind my back and waiting for me in dark corners. After years of this few places in Europe would have me. With my reputation as a musician spread darker rumors.
 
 “Towns I had never visited closed their gates to me without a word. Concert halls were booked up too many months in advance for me to use them, inns and hotels were filled indefinitely, people were too busy to talk to me, to listen to my playing, to write me any letters.
 
@@ -1868,9 +1888,9 @@ Chatvieux said: “Hmn?”
 
 “I’m not exactly proud of my piloting,” la Ventura admitted. “But that isn't quite what I mean. I was thinking about why we came here in the first place. It takes a lot of arrogance to think that you can scatter men, or at least things very much like men, all over the face of the galaxy. It takes even more pride to do the job—to pack up all the equipment and move from planet to planet and actually make men, make them suitable for every place you touch.”
 
-“I suppose it does,” Chatvieux said. “But we’re only one of several hundred seed-ships in this limb of the galaxy, so I doubt that the gods picked us out as special sinners.” He smiled. “If they had, maybe they'd have left us our ultraphone, so the Colonization Councll could hear about our cropper. Besides, Paul, we don't make men. We adapt them—adapt them to Earthlike planets, nothing more that that. We've sense enough— or humility enough, if you like that better—to know that we can't adapt men to a planet like Jupiter, or to the surface of a sun, like Tau Ceti.”
+“I suppose it does,” Chatvieux said. “But we’re only one of several hundred seed-ships in this limb of the galaxy, so I doubt that the gods picked us out as special sinners.” He smiled. “If they had, maybe they'd have left us our ultraphone, so the Colonization Councll could hear about our cropper. Besides, Paul, we don't make men. We adapt them—adapt them to Earthlike planets, nothing more that that. We've sense enough—or humility enough, if you like that better—to know that we can't adapt men to a planet like Jupiter, or to the surface of a sun, like Tau Ceti.”
 
-“Anyhow, we're here,” la Ventura said grimly. “And we aren’t going to get off. Phil tells me that we don't even have our germ-cell bank any more, so we can't seed this place in the usual way. We've been thrown onto a dead world and dared to adapt to it. What are the pantropes going to do with our recalcitrant carcasses— provide built-in waterwings?”
+“Anyhow, we're here,” la Ventura said grimly. “And we aren’t going to get off. Phil tells me that we don't even have our germ-cell bank any more, so we can't seed this place in the usual way. We've been thrown onto a dead world and dared to adapt to it. What are the pantropes going to do with our recalcitrant carcasses—provide built-in waterwings?”
 
 “No,” Chatvieux said calmly. “You and I and all the rest of us are going to die, Paul. Pantropic techniques don’t work on the body; that was fixed for you for life when you were conceived. To attempt to rebuild it for you would only maim you. The pantropes affect only the genes, the inheritance-carrying factors. We can't give you built-in waterwings, any more than we can give you a new set of brains. I think we’ll be able to populate this world with men, but we won’t live to see it.”
 
@@ -1880,7 +1900,7 @@ The pilot thought about it, a lump of cold blubber collecting gradually in his s
 
 The bulkhead leading to the wrecked section of the ship was pushed back, admitting salt, muggy air, heavy with carbon dioxide. Philip Strasvogel, the communications officer, came in, tracking mud. Like la Ventura, he was now a man without a function, and it appeared to bother him. He was not well equipped for introspection, and with his ultraphone totally smashed, unresponsive to his perpetually darting hands, he had been thrown back into his own mind, whose resources were few. Only the tasks Chatvieux had set him to had prevented him from setting like a gelling colloid into a permanent state of the sulks.
 
-He unbuckled from around his waist a canvas belt, into the loops of which plastic vials were stuffed like cartridges. “More samples, Doc,” he said. “All alike— water, very wet. I have some quicksand in one boot, too. Find anything?”
+He unbuckled from around his waist a canvas belt, into the loops of which plastic vials were stuffed like cartridges. “More samples, Doc,” he said. “All alike—water, very wet. I have some quicksand in one boot, too. Find anything?”
 
 “A good deal, Phil. Thanks. Are the others around?”
 
@@ -1962,7 +1982,7 @@ And then, essentially, it was all over. They contributed the cells that the pant
 
 They helped, as far as they could, with the text of the message which was to go on the metal leaves. They had their personality patterns recorded. They went through the motions. Already they were beginning to be hungry; the sea-crayfish, the only things on Hydrot big enough to eat, lived in water too deep and cold for subsistence fishing.
 
-After la Ventura had set his control board to rights— a useless gesture, but a habit he had been taught to respect, and which in an obscure way made things a little easier to bear—he was out of it. He sat by himself at the far end of the rock ledge, watching Tau Ceti go redly down, chucking pebbles into the nearest pond.
+After la Ventura had set his control board to rights—a useless gesture, but a habit he had been taught to respect, and which in an obscure way made things a little easier to bear—he was out of it. He sat by himself at the far end of the rock ledge, watching Tau Ceti go redly down, chucking pebbles into the nearest pond.
 
 After a while Joan Heath came silently up behind him, and sat down too. He .toolc her hand. The glare of the red sun was almost extinguished now, and together they watched it go, with la Ventura, at least, wondering somberly which nameless puddle was to be his Lethe.
 
@@ -2402,9 +2422,11 @@ Lavon pushed back his floating hair futilely. “Maybe you’re thinking about t
 
 “I picture a huge shallop, closed on all sides, big enough to hold many people—maybe twenty or thirty. It had to travel for generations through some kind of medium where there wasn’t any water to breathe, so the people had to carry their own water and renew it constantly. There were no seasons; no ice formed on the sky, because there couldn’t be any sky in a closed shallop; and so there was no spore formation.
 
-“Then the shallop was wrecked somehow. The people in it lqiew they were going to die. They made us, and put us here, as if we were their children. Because they had to die, they wrote their story on the plates, to tell us what had happened. I suppose we’d understand it better if we had the plate Shar I lost during the war— but we don’t.”
+“Then the shallop was wrecked somehow. The people in it lqiew they were going to die. They made us, and put us here, as if we were their children. Because they had to die, they wrote their story on the plates, to tell us what had happened. I suppose we’d understand it better if we had the plate Shar I lost during the war—but we don’t.”
 
-“The whole thing sounds like a parable,” Lavon said, shrugging. “Or a song. I can see why you don’t understand it. What I can’t see is why you bother to try.” “Because of the plate,” Shar said. “You’ve handled it yourself now, so you know that we’ve nothing like it.
+“The whole thing sounds like a parable,” Lavon said, shrugging. “Or a song. I can see why you don’t understand it. What I can’t see is why you bother to try.”
+
+“Because of the plate,” Shar said. “You’ve handled it yourself now, so you know that we’ve nothing like it.
 
 We have crude, impure metals we’ve hammered out, metals that last for a while and then decay. But the plate shines on, generation after generation. It doesn’t change; our hammers and our graving tools break against it; the little heat we can gererate leaves it unharmed. That plate wasn’t formed in our universe—and that one fact makes every word on it important to me. Someone went to a great deal of trouble to make those plates indestructible, and to give them to us. Someone to whom the word ‘stars’ was important enough to be worth fourteen repetitions, despite the fact that the word doesn’t seem to mean anything. I’m ready to think that if our makers repeated a word even twice on a record that seems likely to last forever, then it's important for us to know what it means."
 
@@ -2484,7 +2506,7 @@ Gas. There was no water inside a bubble. A man who got inside a bubble would hav
 
 But, of course, it was impossible to enter a bubble. The surface tension was too strong. As strong as Shar’s metal plate. As strong as the top of the sky.
 
-As strong as the top of the sky. And above that— once the bubble was broken—a world of gas instead of water? Were all worlds bubbles of water drifting in gas?
+As strong as the top of the sky. And above that—once the bubble was broken—a world of gas instead of water? Were all worlds bubbles of water drifting in gas?
 
 If it were so, travel between them would be out of the question, since it would be impossible to pierce the sky to begin with. Nor did the infant cosmography include any provisions for Bottoms for the worlds.
 
@@ -2576,7 +2598,7 @@ Lavon could say nothing. He no longer could tell what he knew from what he wante
 
 “You have answered me,” Shar said, even more gently than before. “Come, my friend; join me at my table. We will plan our journey to the stars.”
 
-There were five of them around Shar’s big table: Shar himself, Lavon, and the three assistants assigned by custom to the Shars from the families Than, Tanol, and Stravol. The duties of these three men—or, sometimes, women—under many previous Shars had been simple and onerous to put into effect in the field the genetic changes in the food crops which the Shar himself had worked out in little, in laboratory tanks and flats. Under other Shars more interested in metalworking or in chemistry, they had been smudged men— diggers, rock-splitters, fashioners and cleaners of apparatus.
+There were five of them around Shar’s big table: Shar himself, Lavon, and the three assistants assigned by custom to the Shars from the families Than, Tanol, and Stravol. The duties of these three men—or, sometimes, women—under many previous Shars had been simple and onerous to put into effect in the field the genetic changes in the food crops which the Shar himself had worked out in little, in laboratory tanks and flats. Under other Shars more interested in metalworking or in chemistry, they had been smudged men—diggers, rock-splitters, fashioners and cleaners of apparatus.
 
 Under Shar XVI, however, the three assistants had been more envied than usual among the rest of Lavon’s people, for they seemed to do very little work of any kind. They spent long hours of every day talking with Shar in his chambers, poring over records, making minuscule scratch-marks on slate, or just looking intently at simple things about which there was no obvious mystery. Sometimes they actually worked with Shar in his laboratory, but mostly they just sat.
 
@@ -2612,7 +2634,9 @@ Tanol frowned. “That I don’t know. Don't forget that the tubes will be large
 
 “This one. With this design, we do the trip the hard way—crawl along the Bottom until it meets the sky, crawl until we hit the next world, and crawl wherever we’re going when we get there. No aquabatics. She’s treadmill-powered, like Tanol’s, but not necessarily man-powered; I’ve been thinking a bit about using motile diatoms. She steers by varying the power on one side or the other. For fine steering we can also hitch a pair of thongs to opposite ends of the rear axle and swivel her that way.”
 
-Shar looked closely ■ at the tube-shaped model and pushed it experimentally along the table a little way. “I like that,” he said presently, “It sits still when you want it to. With Than’s spherical ship, we’d be at the mercy of any stray current at home or in the new world—and for all I know there may be currents of some sort in space, too, gas currents perhaps. Lavon, what do you think?” “How would we build it?” Lavon said. “It’s round in cross-section. That’s all very well for a model, buf how do you make a really big tube of that shape that won’t fall in on itself?”
+Shar looked closely at the tube-shaped model and pushed it experimentally along the table a little way. “I like that,” he said presently, “It sits still when you want it to. With Than’s spherical ship, we’d be at the mercy of any stray current at home or in the new world—and for all I know there may be currents of some sort in space, too, gas currents perhaps. Lavon, what do you think?”
+
+“How would we build it?” Lavon said. “It’s round in cross-section. That’s all very well for a model, buf how do you make a really big tube of that shape that won’t fall in on itself?”
 
 “Look inside, through the front window,” Than said. “You’ll see beams that cross at the center, at right angles to the long axis. They hold the walls braced.”
 
@@ -2660,7 +2684,7 @@ There was quite a long silence. Finally Shar said: “Stravol, I can’t answer 
 
 “The history plate also says that there are other "Worlds than ours, and actually that’s an easier idea to accept, once you’ve found out that the other two are so. As for the stars—well, we just don’t know yet, we haven’t any information at all that would allow us to read the history plate on that subject with new eyes, and there’s no point in making wild guesses unless we can test the guesses. The stars are in space, and presumably, once we’re out in space, we’ll see them and the meaning of the word will become clear. At least we can confidently expect to see some clues—look at all the information we got from Lavon’s trip a few seconds above the sky!
 
-“But in the meantime, there’s no point in our speculating in a bubble. We think there are other worlds somewhere, and we’re devising means to make the trip. The other questions, the pendant ones, just have to be put aside for now. We’ll answer them eventually— there’s no doubt in my mind about that. But it may take a long time.” ^
+“But in the meantime, there’s no point in our speculating in a bubble. We think there are other worlds somewhere, and we’re devising means to make the trip. The other questions, the pendant ones, just have to be put aside for now. We’ll answer them eventually—there’s no doubt in my mind about that. But it may take a long time.” ^
 
 Stravol grinned ruefully. “I expected no more. In a way, I think the whole project is crazy. But I’m in it right out to the end, all the same.”
 
@@ -2694,7 +2718,7 @@ As a result, Shar’s imperfect memory of the contents of the history plate, plu
 
 Obviously, whatever the ancients had known about the spaceship construction, very little of that knowledge was usable to a people still trying to build its first spaceship from scratch. In retrospect, it was not surprising that the great hulk rested incomplete upon its platform above the sand boulders, exuding a musty odor of wood steadily losing its strength, two generations after its flat bottom had been laid down.
 
-The fat-faced young man who headed the strike delegation to Shar’s chambers was Phil ^X, a man two generations younger than Shar, four younger than Lavon. There were crow's-feet at the comers of his eyes, which made him look both like a querulous old man and like an infant spoiled in the spore.
+The fat-faced young man who headed the strike delegation to Shar’s chambers was Phil ^X, a man two generations younger than Shar, four younger than Lavon. There were crow's-feet at the corners of his eyes, which made him look both like a querulous old man and like an infant spoiled in the spore.
 
 “We’re calling a halt to this crazy project,” he said bluntly. “We’ve slaved away our youth on it, but now that we’re our own masters, it’s over, that’s all. It’s over.”
 
@@ -2762,7 +2786,7 @@ Gradually the sky lowered and pressed down toward the top of the ship.
 
 “I just do, that’s all. It’s the way men think. Overseers, a little more thrust now; the grade’s getting steeper.” ‘
 
-The gears groaned. The ship nosed up. The sky brightened in Lavon’s face. Despite himself, he began to be frightened. His lungs seemed to bum, and in his mind he felt his long fall through nothingness toward the chill slap of the water as if he were experiencing it for the first time. His skin itched and burned. Could he go up there again? Up there into the burning void, the great gasping agony where no life should go?
+The gears groaned. The ship nosed up. The sky brightened in Lavon’s face. Despite himself, he began to be frightened. His lungs seemed to burn, and in his mind he felt his long fall through nothingness toward the chill slap of the water as if he were experiencing it for the first time. His skin itched and burned. Could he go up there again? Up there into the burning void, the great gasping agony where no life should go?
 
 The sand bar began to level out and the going became a little easier. Up here, the sky was so close that the lumbering motion of the huge ship disturbed it. Shadows of wavelets ran across the sand. Silently, the thick-barreled bands of blue-green algae drank in the light and converted it to oxygen, writhing in their slow mindless dance just under the long mica skylight which ran along the spine of the ship. In the hold, be.neath the latticed corridor and cabin floors, whirring Vortae kept the ship’s water in motion, fueling themselves upon drifting organic particles.
 
@@ -2820,7 +2844,9 @@ The wilderness of rock was still a long way away from the ship, which now seemed
 
 Suddenly Lavon became conscious of another shout from the megaphone banks. He shook his head savagely and said, “What is it now?”
 
-“Lavon, this is Tol. What have you gotten us into? The belts are locked. The diatoms can’t move them. They aren’t faking, either; we’ve rapped them hard enough to make them think we were trying to break their shells, but they still can’t give us more power.” “Leave them alone,” Lavon snapped. “They can’t fake; they haven’t enough intelligence. If they say they can’t give you more power, they can’t.”
+“Lavon, this is Tol. What have you gotten us into? The belts are locked. The diatoms can’t move them. They aren’t faking, either; we’ve rapped them hard enough to make them think we were trying to break their shells, but they still can’t give us more power.”
+
+“Leave them alone,” Lavon snapped. “They can’t fake; they haven’t enough intelligence. If they say they can’t give you more power, they can’t.”
 
 “Well, then, you get us out of it.”
 
@@ -2834,7 +2860,7 @@ a space-mud interface would hold any large object pretty tightly. That’s why I
 
 “Evidently the ancients knew their business after all, Shar."
 
-Quite a few minutes later—for shifting power to the belly treads involved another setting of the gear box— the ship was crawling along the shore toward the tumbled rock. Anxiously, Lavon scanned the jagged, threatening wall for a break. There was a sort of rivulet off toward the left which might offer a route, though a dubious one, to the next world. After some thought, Lavon ordered his ship turned toward it.
+Quite a few minutes later—for shifting power to the belly treads involved another setting of the gear box—the ship was crawling along the shore toward the tumbled rock. Anxiously, Lavon scanned the jagged, threatening wall for a break. There was a sort of rivulet off toward the left which might offer a route, though a dubious one, to the next world. After some thought, Lavon ordered his ship turned toward it.
 
 “Do you suppose that thing in the sky is a ‘star’?” lie asked. “But there were supposed to be lots of them. Only one is up there—and one’s plenty for my taste."
 
@@ -2978,7 +3004,7 @@ Ahead, the Bottom sloped away again, indefinitely, into glimmering depths. A pro
 
 Then the girl came darting out of the depths, her features blurred and distorted with distance and terror. At first she did not seem to see the ship at all. She came twisting and turning lithely through the water, obviously hoping only to throw herself over the mound of the delta and into the savage streamlet beyond.
 
-Lavon was stunned. Not that there were men here— he had hoped for that, had even known somehow that men were everywhere in the universe—but at the girl’s single-minded flight toward suicide.
+Lavon was stunned. Not that there were men here—he had hoped for that, had even known somehow that men were everywhere in the universe—but at the girl’s single-minded flight toward suicide.
 
 “What—”
 
@@ -3004,7 +3030,9 @@ He bit his lip, lowered the weapon, wound it up again. It did not pay to underes
 
 She probably would have not made it, had not the dull vision of the lead Dicran made out the wooden
 
-shape of the ship at the last instant. The Dicran backed off, buzzing, and the other two sheered away to avoid colliding with her. After that they had another argument, though they could hardly have formulated what it was that they were fighting about; they were incapable of exchanging any thought much more complicated than the equivalent. of “Yaah,” “Drop dead,” and “You’re another.” •	'
+shape of the ship at the last instant. The Dicran backed off, buzzing, and the other two sheered away to avoid colliding with her. After that they had another argument, though they could hardly have formulated what it was that they were fighting about; they were incapable of exchanging any thought much more complicated than the equivalent. of “Yaah,”
+
+“Drop dead,” and “You’re another.”
 
 While they were still snarling at each other, Lavon pierced the nearest one all the way through with an ara-blast bolt. The surviving two were at once involved in a lethal battle over the remains.
 
@@ -3066,7 +3094,7 @@ I proceed, therefore, to the matter at hand. My position at Calimyma in that rem
 
 Despite these fits of moodiness, I had every reason to be happy. My eminence in my field afforded me the utmost satisfaction. Despite poverty and persecution in youth, I had won through to security. I bad married Marguerita L—, in her youth and mine the toast of twelve continents, not only for her beauty but for her voice. I can still hear now the sound of her singing as I heard it for the first time—singing, on the stage of La Scala in Moscow, the rapturous quartet from the second act of Wagner’s Tristan et Messalina.
 
-It is quite true—I admit it immediately and calmly— that there were certain flaws in my world, even at Calimyma. I do not mean the distractions which in old age replace, in the ordinary man, the furies of youth, but rather certain faults and fissures which I found in the world outside myself.
+It is quite true—I admit it immediately and calmly—that there were certain flaws in my world, even at Calimyma. I do not mean the distractions which in old age replace, in the ordinary man, the furies of youth, but rather certain faults and fissures which I found in the world outside myself.
 
 Even a man of my attainments expects at some time to grow old, and to find that process changing the way in which he looks at the world around him. There comes a time, however, when even the most rational of men must notice when these changes exceed the bounds of reason, when they begin to become extraordinary, even sinister. Shall I be specific? Consider, then—quite calmly—the fact that Marguerita did not herself grow old.
 
@@ -3080,7 +3108,7 @@ It had already become clear that the radio-frequency emission from the disturbed
 
 That the problem was not merely academic impressed me from the first. I have, if you will allow me the term, always had a sense of destiny, of Schicksal, an almost Spenglerian awareness of the pressure of fate against the retaining walls of human survival. It is not unique in me; I lay it to my Teutonic ancestry. And when I first encountered the problem of the disturbed sun, something within me felt that I had found destiny itself.
 
-For here, just here, was the problem in which destiny was interested, in which some fateful answer awaited the asking of the omnipotent question. I felt this from the moment I first opened Hagen’s famous paper— NRL Report 3504—and the more deeply I became interested in the sun as an RF radiator, the more the sensation grew.
+For here, just here, was the problem in which destiny was interested, in which some fateful answer awaited the asking of the omnipotent question. I felt this from the moment I first opened Hagen’s famous paper—NRL Report 3504—and the more deeply I became interested in the sun as an RF radiator, the more the sensation grew.
 
 Yet how to describe it? I was eighty-four, and this was early in 1956. In all those preceding years I had not known that the mortal frame could sustain such an emotion. Shall I call it a sensation of enormous, unresolvable dread? But I felt at the same time an ecstasy beyond joy, beyond love, beyond belief. And these transports of rapture and terror did not alternate as do the moods of an insane man, but occurred simultaneously—they were one and the same emotion.
 
@@ -3098,7 +3126,7 @@ It was here, however, that I ran into trouble with young di Ferruci. He persiste
 
 Di Ferruci would shrug, as he always did. “I wouldn’t ride any money on you, Dr. Andresson. But I’ll be more than interested in what the telescope shows. Let’s see what we have here right now. The thermocouple's been calibrated; shall I cut in the hot load?”
 
-At this point—I am now reporting a particular incident, although it, too, was typical of many of these con-; versations—1 became aware that Marguerita was in the observatory. I swung sharply around, considerably annoyed. My wife is innocent of astronomical knowledge, and her usually ill-timed obtrusions upon our routine— although I suppose they were born of the desire to “take an interest” in her husband’s profession—were distracting.
+At this point—I am now reporting a particular incident, although it, too, was typical of many of these con-; versations—1 became aware that Marguerita was in the observatory. I swung sharply around, considerably annoyed. My wife is innocent of astronomical knowledge, and her usually ill-timed obtrusions upon our routine—although I suppose they were born of the desire to “take an interest” in her husband’s profession—were distracting.
 
 Today, however, I was not only annoyed, but stunned. How had I failed to notice this before—I, who pride myself on the acuity of my observation? What stood before me was a young woman!
 
@@ -3154,7 +3182,7 @@ With a hasty word to di Ferruci, I followed her, berating myself as I went. Susp
 
 But when I reached the top of the granite steps leading down to the road, she was gone—nor could I see either her figure or any sign of a car on the road which led down the mountain. She had vanished as completely as if she had never existed.
 
-Needless to say, I was disturbed. There are cabins in the woods, only a short distance from the observatory proper, which are used by staff members as temporary residences. We had never made use of them— radioastronomy being an art which can be carried on by day better than by night—but nevertheless I checked them systematically. It was inconceivable to me that she could be in the main observatory, but I searched that too, as well as the solar tower and the Schmidt shed.
+Needless to say, I was disturbed. There are cabins in the woods, only a short distance from the observatory proper, which are used by staff members as temporary residences. We had never made use of them—radioastronomy being an art which can be carried on by day better than by night—but nevertheless I checked them systematically. It was inconceivable to me that she could be in the main observatory, but I searched that too, as well as the solar tower and the Schmidt shed.
 
 She was nowhere. By the time I had finished searching, it was sunset and there was no longer any use in returning to my own instrument. I could only conclude that I had miscalculated the time lag between her exit and my pursuit, and that I would find her at home.
 
@@ -3234,7 +3262,7 @@ After a long while, di Ferruci said: “You are a great astronomer, Dr. Andresso
 
 “Well?” he said.
 
-“It’s not so easy as that, Mario. You don’t walk out of a house with the stolen goods under your arm when the owner is present. A strong man armed keepeth his house. You may not leave. You may not take my hard-won theory to another university. You may not leave Hamelin with pipes in your hand. You may not carry both my heart and my brains out of this observatory as easily as you would carry a sack of potatoes. In short— you may not leave!"
+“It’s not so easy as that, Mario. You don’t walk out of a house with the stolen goods under your arm when the owner is present. A strong man armed keepeth his house. You may not leave. You may not take my hard-won theory to another university. You may not leave Hamelin with pipes in your hand. You may not carry both my heart and my brains out of this observatory as easily as you would carry a sack of potatoes. In short—you may not leave!"
 
 I threw the points of the dividers high and launched my self soul and body at that hunched, broad back. Marguerita’s sudden scream rang deafeningly as a siren in the observatory dome.
 
@@ -3300,7 +3328,7 @@ And as the world undement its slow transformation, the voices came. I cannot wri
 
 Beyond it, tbe day of glory. A tum toward something new, something before which all men’s previous knowledge of grandeur would pale. A new Apocalypse and Resurrection? So it seemed, then. But the voices spoke in symbol and parable, and perhaps the rising of the hellish sun was the only “day of glory” we would ever see.
 
-And so I hid in my shelter, and survived that day. When I first emerged into the boiling, choking midnight smoke I could see no one else, but after a while something white came out of the darkness toward me. It was a young girl, wearing what I took to be a nightgown— the lightest garment, at any event, she could have worn in this intolerable heat.
+And so I hid in my shelter, and survived that day. When I first emerged into the boiling, choking midnight smoke I could see no one else, but after a while something white came out of the darkness toward me. It was a young girl, wearing what I took to be a nightgown—the lightest garment, at any event, she could have worn in this intolerable heat.
 
 “^that will happen to us?” she said, as soon as she saw me. “What will happen to us? Will it be the same tomorrow?”
 
@@ -3484,7 +3512,7 @@ One - and - a - sevenhundredone, one - and - a - seven-hundredtwo, one - and - a
 
 The ship was keeping ship-time, which was identical with observer-time. It would arrive at the Alpha Cen-tauri system in ten months. But the pilot was keeping Garrard-time, and it was beginning to look as though he wasn’t going to arrive at all.
 
-It was impossible, but there it was. Something— almost certainly an unsuspected physiological side effect of the overdrive field on human metabolism, an effect which naturally could not have been detected in the preliminary, robot-piloted tests of the overdrive—had speeded up Garrard’s subjective apprehension of time, and had done a thorough job of it.
+It was impossible, but there it was. Something—almost certainly an unsuspected physiological side effect of the overdrive field on human metabolism, an effect which naturally could not have been detected in the preliminary, robot-piloted tests of the overdrive—had speeded up Garrard’s subjective apprehension of time, and had done a thorough job of it.
 
 The second hand began a slow, preliminary quivering
 
@@ -3534,7 +3562,7 @@ That was the calendar again; another second had gone by. Or another two hours. I
 
 Both problems—that of how much force he could exert with his body, and how long he could hope to be asleep in his mind—emerged simultaneously into the forefront of his consciousness while he still sat inertly on the hammock, their terms still much muddled together. After the single tick of the calendar, the ship—or the part of it that Garrard could see from here—settled back into complete rigidity. The sound of the engines, too, did not seem to vary in frequency or amplitude, at least as far as his ears could tell. He was still not breathing. Nothing moved, nothing changed.
 
-It was the fact that he could still detect no motion of his diaphragm or his rib cage that decided him at last. His body had to be keeping ship-time, otherwise he would have blacked out from oxygen starvation long before now. That assumption explained, too, those two incredibly prolonged, seemingly sourceless saturnalias of emotion through which he had suffered: they had been nothing more nor less than the response of his endocrine glands to the purely intellectual reactions he had experienced earlier. He had discovered that he was not breathing, had felt a flash of panic and had tried to sit up. Long after his mind had forgotten those two impulses, they had inched their way from his brain down his nerves'to the glands and muscles involved, and actual, physical panic had supervened. allien that was over, he actually was sitting up, though the flood of adrenalin had prevented his noticing the motion as he had made it. The later chill—less violent, and apparently associated with the discovery that he might die long before the trip was completed—actually had been his body’s response to a much earlier mental command— the abstract fever of interest he had felt while computing the time differential had been responsible for it.
+It was the fact that he could still detect no motion of his diaphragm or his rib cage that decided him at last. His body had to be keeping ship-time, otherwise he would have blacked out from oxygen starvation long before now. That assumption explained, too, those two incredibly prolonged, seemingly sourceless saturnalias of emotion through which he had suffered: they had been nothing more nor less than the response of his endocrine glands to the purely intellectual reactions he had experienced earlier. He had discovered that he was not breathing, had felt a flash of panic and had tried to sit up. Long after his mind had forgotten those two impulses, they had inched their way from his brain down his nerves'to the glands and muscles involved, and actual, physical panic had supervened. allien that was over, he actually was sitting up, though the flood of adrenalin had prevented his noticing the motion as he had made it. The later chill—less violent, and apparently associated with the discovery that he might die long before the trip was completed—actually had been his body’s response to a much earlier mental command—the abstract fever of interest he had felt while computing the time differential had been responsible for it.
 
 Obviously, he was going to have to be very careful with apparently cold and intellectual impulses of any kind—or he would pay for them later with a prolonged and agonizing glandular reaction. Nevertheless, the discovery gave him considerable satisfaction, and Garrard allowed it free play; it certainly could not hurt him to feel pleased for a few hours, and the glandular pleasure might even prove helpful if it caught him at a moment of mental depression. Six thousand years, after all, provided a considerable number of opportunities for feeling down in the mouth; so it would be best to encourage all pleasure moments, and let the after-reaction last as long as it might. It would be the instants of panic, of fear, of gloom, which he would have to regulate sternly the moment they came into his mind; it would be those which would otherwise plunge him into four, five, six, perhaps even ten, Garrard-hours of emotional inferno.
 
@@ -3606,7 +3634,7 @@ Pseudo-death took him first.
 
 Ill
 
-That Garrard did not die completely, and within a comparatively short time after the DFC-3 had gone into overdrive, was due to the purest of accidents; but Garrard did not know that. In fact, he knew nothing at all for an indefinite period, sitting rigid and staring, his metabolism slowed down to next to nothing, his mind almost utterly inactive. From time to time, a single wave of low-level metabolic activity passed through him— what an electrician might have termed a “maintenance turnover”—in response to the urgings of some occult survival urge; but these were of so basic a nature as to reach his consciousness not at all. This was the pseudodeath.
+That Garrard did not die completely, and within a comparatively short time after the DFC-3 had gone into overdrive, was due to the purest of accidents; but Garrard did not know that. In fact, he knew nothing at all for an indefinite period, sitting rigid and staring, his metabolism slowed down to next to nothing, his mind almost utterly inactive. From time to time, a single wave of low-level metabolic activity passed through him—what an electrician might have termed a “maintenance turnover”—in response to the urgings of some occult survival urge; but these were of so basic a nature as to reach his consciousness not at all. This was the pseudodeath.
 
 When the observer actually arrived, however, Garrard woke. He could make very little sense out of what he saw or felt even now; but one fact was clear: the overdrive was off—and with it the crazy alterations in time rates—and there was strong light coming through one of the ports. The first leg of the trip was over. It had been these two changes in his environment which had restored him to life.
 
@@ -3692,7 +3720,7 @@ But spring of what year? _
 
 Then, suddenly, it occurred to Garrard that he had a method of finding the answer. The Moon causes tides in the Earth, and action and reaction are always equal and opposite. The Moon cannot move things on Earth without itself being affected—and that effect shows up in the moon’s angular momentum. The Moon’s distance from the Earth increases steadily by 0.6 inches every year. At the end of 12,000 years, it should be 600 feet farther away from the Earth.
 
-Was it possible to measure? Garrard doubted it, but he got out his ephemeris and his dividers anyhow, and took pictures. While he worked, the Earth grew nearer. By the time he had finished his first calculation—which was indecisive, because it allowed a margin for error greater than the distances he was trying to check— Earth and Moon' were close enough in the telescope to permit much more accurate measurements.
+Was it possible to measure? Garrard doubted it, but he got out his ephemeris and his dividers anyhow, and took pictures. While he worked, the Earth grew nearer. By the time he had finished his first calculation—which was indecisive, because it allowed a margin for error greater than the distances he was trying to check—Earth and Moon' were close enough in the telescope to permit much more accurate measurements.
 
 Which were, he realized wryly, quite unnecessary. The computer had brought the DFC-3 back, not to an observed sun or planet, but simply to a calculated point. That Earth and Moon would not be near that point when the DFC-3 returned was not an assumption that the computer could make. That the Earth was visible from here was already good and sufficient proof that no more time had elapsed than had been calculated for from the beginning.
 
@@ -3718,7 +3746,7 @@ Garrard swirled his highball reflectively. In Haertel’s cramped old office, in
 
 “But in the DFC-3, I was cut off from the world around me much more severely. I couldn’t look outside the ports—I was in overdrive, and there was nothing to see. I couldn’t communicate with home, because I was going faster than light. And then I found I couldn’t move either, for an enormous long while; and that even the instruments that are in constant change for the usual spaceman wouldn’t be in motion for me. Even those were fixed.
 
-“After the time rate began to pick up, I found myself in an even more impossible box. The instruments moved, all right, but then they moved too fast for me to read them. The whole situation was now utterly rigid— and, in effect, I died. I froze as solid as the ship around me, and stayed that way as long as the overdrive was on.”
+“After the time rate began to pick up, I found myself in an even more impossible box. The instruments moved, all right, but then they moved too fast for me to read them. The whole situation was now utterly rigid—and, in effect, I died. I froze as solid as the ship around me, and stayed that way as long as the overdrive was on.”
 
 “By that showing,” Haertel said dryly, “the time effects were hardly your friends.”
 
@@ -3754,7 +3782,7 @@ But in his malleable mind he'heard someone say, On Earth, as it is in Heaven; an
 
 “Many years,” Haertel said, smiling kindly. “Don’t be anxious, Garrard. You’ve come back, which is more than the others managed to do, and nobody will ask you to go out again. I really think that it's hardly likely that we’ll get another ship built during your lifetime; and even if we do, we’ll be slow to launch it. We really have very little information about what kind of playground you found out there.”
 
-“I’ll go,” Garrard said. “I’m not afraid to go back— I’d like to go. Now that I know how the DFC-3 behaves, I could take it out again, bring you back proper maps, tapes, photos.”
+“I’ll go,” Garrard said. “I’m not afraid to go back—I’d like to go. Now that I know how the DFC-3 behaves, I could take it out again, bring you back proper maps, tapes, photos.”
 
 “Do you really think,” Haertel said, his face suddenly serious, “that we could let the DFC-3 go out again? Garrard, we’re going to take that ship apart practically molecule by molecule; that’s preliminary to the building of any DFC-4. And no more can we let you go. I don’t mean to be cruel, but has it occurred to you that this desire to go back may be the result of some kind of post-hypnotic suggestion? If so, the more badly you want to go back, the more dangerous to us all you may be. We are going to have to examine you just as thoroughly as we do the ship. If these beademungen wanted you to come back, they must have had a reason—and we have to know that reason.”
 
@@ -3802,7 +3830,7 @@ The press was free, on Randolph as everywhere. It reported the news it got. Any 
 
 By now, it was a commonplace that the Service was always ready. It had not had a defect or failure in well over two centuries. It had not even had a fiasco, the alarming-sounding technical word by which it referred to the possibility that a boy-meets-girl assignment might not come off.
 
-Jo hailed a hopper. Once inside he stripped himself of the mustache, the bald spot, the forehead creases— all the make-up which had given him his mask of friendly innocuousness.
+Jo hailed a hopper. Once inside he stripped himself of the mustache, the bald spot, the forehead creases—all the make-up which had given him his mask of friendly innocuousness.
 
 The happy watched the whole process in the rearview mirror. Jo glanced up and met his eyes.
 
@@ -3882,7 +3910,7 @@ Weinbaum eyed her quizzically. The conqueror Resident who had given the girl her
 
 “Cold comfort,” Weinbaum said dryly. “But thank you, nevertheless.”
 
-The Eurasian girl shrugged. “That isn’t what I came here about, anyway. Tell me, Captain Weinbaum— have you ever heard of an outfit calling itself Interstellar Information?”
+The Eurasian girl shrugged. “That isn’t what I came here about, anyway. Tell me, Captain Weinbaum—have you ever heard of an outfit calling itself Interstellar Information?”
 
 Weinbaum shook his head. “Sounds like a skiptracing firm. Not an easy business, these days."
 
@@ -3916,7 +3944,9 @@ Weinbaum sat bolt upright in his swivel chair. “Let me see that letter!” he 
 
 “Because the information in question hasn’t even reached my own agents in the field yet—it couldn’t possibly have leaked as far as- Hammersmith II or anywhere else, let alone to the Three Ghosts system! Letters have to be carried on ships, you know that. If I were to send orders by ultrawave to my Three Ghosts agent, he’d have to wait three hundred and twenty-four years to get them. By ship, he can get them in a little over two months. These particular orders have only; been under way to him five days. Even if somebody has read them on board the ship that’s carrying them, they couldn’t possibly be sent on to the Three Ghosts any faster than theyire'traveling now.”
 
-Dana nodded her dark head. “All right. Then what are we left with but a leak in your headquarters here?” “What, indeed,” Weinbaum said grimly. “You’d better tell me who signed this letter of yours.”
+Dana nodded her dark head. “All right. Then what are we left with but a leak in your headquarters here?”
+
+“What, indeed,” Weinbaum said grimly. “You’d better tell me who signed this letter of yours.”
 
 “The signature is J. Shelby Stevens.”
 
@@ -3932,7 +3962,9 @@ Dana Lje said, “Aren’t you interested in the rest of the prediction?”
 
 “The Dirac communicator.”
 
-Weinbaum groaned and turned on the intercom again. “Margaret, send in Dr. Wald. Tell him to drop everything and gallop. Any luck with the other thing?” “Yes, sir,” the intercom said. “It’s a one-man outfit, wholly owned by a J. Shelby Stevens, in Rico City. It was first registered this year.”
+Weinbaum groaned and turned on the intercom again. “Margaret, send in Dr. Wald. Tell him to drop everything and gallop. Any luck with the other thing?”
+
+“Yes, sir,” the intercom said. “It’s a one-man outfit, wholly owned by a J. Shelby Stevens, in Rico City. It was first registered this year.”
 
 “Arrest him, on suspicion of espionage.”
 
@@ -3970,7 +4002,7 @@ The girl’s face was a study in stunned realization. “I’m not sure I’ve t
 
 “—you’d have kept out of my office,” Weinbaum said grimly. “A good thing you didn’t. The Brindisi is carrying a model of the Dirac communicator out to the periphery for a final test; the ship is supposed to get in touch with me from out there at a given Earth time, which we’ve calculated very elaborately to account for the residual Lorentz and Milne transformations involved in overdrive flight, and for a lot of other time phenomena that wouldn't mean anything at all to you.
 
-“If that signal arrives here at the given Earth time, then—aside from the havoc it will create among the theoretical physicists whom we decide to let in on it— we will really have our instant communicator, and can include all of occupied space in the same time zone. And we’ll have a terrific advantage over any lawbreaker who has to resort to ultrawave locally and to letters carried by ships over the long haul."
+“If that signal arrives here at the given Earth time, then—aside from the havoc it will create among the theoretical physicists whom we decide to let in on it—we will really have our instant communicator, and can include all of occupied space in the same time zone. And we’ll have a terrific advantage over any lawbreaker who has to resort to ultrawave locally and to letters carried by ships over the long haul."
 
 “Not," Dr. Wald said sourly, “if it’s already leaked out."
 
@@ -4068,7 +4100,7 @@ Steve11s’s clarinetlike voice began to sound in the windowless cavity. “Capt
 
 “Bluster," Weinbaum said.
 
-“Fact. Yours is the bluster—loud talk based on nothing more than a hope. I, however, know whereof I speak. . . . But let us conclude this discussion. It serves no purpose; you will need to see my points made the hard way. Thank you for giving me my freedom. We will talk again under different circumstances on— let me see; ah, yes, on June 9 of the year 2091. That year is, I believe, almost upon us."
+“Fact. Yours is the bluster—loud talk based on nothing more than a hope. I, however, know whereof I speak. . . . But let us conclude this discussion. It serves no purpose; you will need to see my points made the hard way. Thank you for giving me my freedom. We will talk again under different circumstances on—let me see; ah, yes, on June 9 of the year 2091. That year is, I believe, almost upon us."
 
 Stevens picked up his book again, nodding at Weinbaum, his expression harmless and kindly, his hands showing the marked tremor of paralysis agitans. Weinbaum moved helplessly to the door and flagged the tu^rnkey. As the bars closed behind him, Stevens’s voice called out: “Oh, yes; and a Happy New Year, Captain.”
 
@@ -4096,7 +4128,9 @@ He collapsed suddenly. “You’re so right. That’s just what it does mean. Bu
 
 As soon as the door closed, however, his mood became abruptly almost as black as before. Despite his comparative youth—he was now only fifty-five—--he had been in the service a long time, and he needed no one to tell him the possible consequences which might flow from possession by a private citizen of the Dirac communicator. If there was ever to be a Federation of Man in the Galaxy, it was within the power of J. Shelby Stevens to ruin it before it had fairly gotten started. And there seemed to be nothing at all that could be done about it.
 
-“Hello, Thor,” he said glumly. “Pass the bottle.” “Hello, Robin. I gather things went badly. Tell me about it.”
+“Hello, Thor,” he said glumly. “Pass the bottle.”
+
+“Hello, Robin. I gather things went badly. Tell me about it.”
 
 Briefly, Weinbaum told him. “And the worst of it,” he finished, “is that Stevens himself predicts that we won't find the application of the Dirac that he's using, and that eventually we'll have to buy it at his price. Somehow I believe him—but I can’t see how it’s possible. If I were to tell Congress that I was going to spend my entire appropriation for a single civilian service, I’d be out on niy ear within the next three sessions.”
 
@@ -4130,7 +4164,7 @@ He put down the mike and stared morosely for a moment at the beautiful Eridanean
 
 "No,” Weinbaum said. "Only the dumbest ever do that, or transpose syllables, or retain any connection at all with their real names. Those are the people who are in serious emotional trouble, people who drive themselves into anonymity, but leave clues strewn all around the landscape—those clues are really a cry for help, for discovery. Of course we’re working on that angle—we can’t neglect anything—but J. Shelby Stevens isn’t that kind of case, I’m sure.” Weinbaum stood up abruptly. “O.K., Thor—what’s first on your technical program?”
 
-“Well . . . I suppose we’ll have to start with checking the frequencies we use. We’re going on Dirac’s assumption—and it works very well, and always has— that a positron in motion through a crystal lattice is accompanied by de Broglie waves which are transforms of the waves of an electron in motion somewhere else in the Universe. Thus if we control the frequency and path of the positron, we control the placement of the electron—we cause it to appear, so to speak, in the circuits of a communicator somewhere else. After that, reception is just a matter of amplifying the bursts and reading the signal.”
+“Well . . . I suppose we’ll have to start with checking the frequencies we use. We’re going on Dirac’s assumption—and it works very well, and always has—that a positron in motion through a crystal lattice is accompanied by de Broglie waves which are transforms of the waves of an electron in motion somewhere else in the Universe. Thus if we control the frequency and path of the positron, we control the placement of the electron—we cause it to appear, so to speak, in the circuits of a communicator somewhere else. After that, reception is just a matter of amplifying the bursts and reading the signal.”
 
 Wald scowled and shook his blond head. “If Stevens is getting out messages which we don’t pick up, my first assumption would be that he’s worked out a fine-tuning circuit that’s more delicate than ours, and is more or less sneaking his messages under ours. The only way that could be done, as far as I can see at the moment, is by something really fantastic in the way of exact frequency control of his positron gun. If so, the logical step for us is to go back to the beginning of our tests and rerun our diffractions to see if we can refine our measurements of positron frequencies.”
 
@@ -4158,7 +4192,7 @@ Weinbaum rescued the bottle hastily. “So go on, Thor"
 
 “If he has rebuilt the metrical frame of the Universe to accommodate a private skip-tracing firm" Wald said firmly, “I for one see no reason why we can’t countercheck him—hoop—by declaring the whole cosmos null and void.”
 
-“All right, all right,” Weinbaum said, grinning. “I didn’t mean to push your analogy right over the edge— I was just asking. But let’s get to work on it anyhow. We can’t just sit here and let Stevens get away with it. If this frequency angle turns out to be as hopeless as it seems, we’ll try something else.”
+“All right, all right,” Weinbaum said, grinning. “I didn’t mean to push your analogy right over the edge—I was just asking. But let’s get to work on it anyhow. We can’t just sit here and let Stevens get away with it. If this frequency angle turns out to be as hopeless as it seems, we’ll try something else.”
 
 Wald eyed the aquavit bottle owlishly. “It’s a very pretty problem,” he said. “Have I ever sung you the song we have in Sweden called ‘Nat-og-Dag?’ ”
 
@@ -4182,7 +4216,9 @@ Weinbaum grinned in spite of himself. “^that about the other projects?”	*
 
 “That must limit his range of operation enormously,” Wald objected.
 
-Weinbaum nodded. “Without a doubt—but he shows no signs of being bothered by it. He can’t have sent any tips to Erskine recently, for instance, because our last tangle with that crew came out very well for us, even though we had to use the Dirac to send the orders to our squadron out there. If he overheard us, he didn’t even try to pass the word. Just as he said, he’s sweating us out—” Weinbaum paused. “Wait a minute, here comes Margaret. And by the length of her stride, I’d say she's got something particularly nasty on her mind.” “You bet I do,” Margaret Soames said vindictively. “And it’ll blow plenty of lids around here, or I miss my guess. The I. D. squad has finally pinned down J. Shelby Stevens. They did it with the voice-comparator alone.”
+Weinbaum nodded. “Without a doubt—but he shows no signs of being bothered by it. He can’t have sent any tips to Erskine recently, for instance, because our last tangle with that crew came out very well for us, even though we had to use the Dirac to send the orders to our squadron out there. If he overheard us, he didn’t even try to pass the word. Just as he said, he’s sweating us out—” Weinbaum paused. “Wait a minute, here comes Margaret. And by the length of her stride, I’d say she's got something particularly nasty on her mind.”
+
+“You bet I do,” Margaret Soames said vindictively. “And it’ll blow plenty of lids around here, or I miss my guess. The I. D. squad has finally pinned down J. Shelby Stevens. They did it with the voice-comparator alone.”
 
 “How does that work?” Wald said interestedly.
 
@@ -4212,7 +4248,7 @@ Wald said, “Rinat’s the matter, Robin?”
 
 “It’s the exact date that ‘Stevens’ predicted we’d meet again, damn it! Something tells me that this isn’t going to be as simple as it looks.”
 
-If Dana Lje had any idea of what she was in for— and considering the fact that she was ‘J. Shelby Stevens’ it had to be assumed' .that she did—the knowledge seemed not to make her at all fearful. She sat as composedly as ever before Weinbaum’s desk, smoking her eternal cigarette, and waited, one dimpled knee pointed directly at the bridge of the officer’s nose.
+If Dana Lje had any idea of what she was in for—and considering the fact that she was ‘J. Shelby Stevens’ it had to be assumed' .that she did—the knowledge seemed not to make her at all fearful. She sat as composedly as ever before Weinbaum’s desk, smoking her eternal cigarette, and waited, one dimpled knee pointed directly at the bridge of the officer’s nose.
 
 “Dana,” Weinbaum said, “this time we’re _goirtg to get all the answers, and we’re not going to be gentle about it. Just in case you’re not aware of the fact, there are certain laws relating to giving false information to a security officer, under which we could heave you in prison for a minimum of fifteen years. By application of the statutes on using communications to defraud, plus various local laws against transvestism, pseudonymity and so on, we could probably pile up enough additional short sentences to keep you in Yaphank until you really do grow a beard. So I’d advise you to open up.”
 
@@ -4264,7 +4300,7 @@ I was both astonished and completely rebellious. I didn’t want to be on the bu
 
 I was going to be married to you and couldn’t get out of it, I set out to convince myself that I loved you. Now I do. Since I was going to join the bureau staff, I thought over all the advantages that it might have over video commentating, and found that they made a respectable list. Those are my motives.
 
-“But I had no such motives at the beg^nfng. Actually, there are never motives behind actions. All actions are fixed. What we called motives evidently are rationalizations by the helpless observing consciousness, which is intelligent enough to smell an event coming— and, since it cannot avert the event, instead cooks up reasons for wanting it to happen.”
+“But I had no such motives at the beg^nfng. Actually, there are never motives behind actions. All actions are fixed. What we called motives evidently are rationalizations by the helpless observing consciousness, which is intelligent enough to smell an event coming—and, since it cannot avert the event, instead cooks up reasons for wanting it to happen.”
 
 “Wow,” Dr. Wald said, inelegantly but with considerable force.
 
@@ -4284,7 +4320,9 @@ Weinbaum found, to his own astonishment, that the “between kisses” clause di
 
 “Suit yourself:”
 
-“I can’t suit myself,” Weinbaum said petulantly. “I work for the gove^rnment. Was this leak direct to you?” “Not at first. That was why I kept insisting to you in person that there might be such a leak, and why I finally began to hint about it in public, on my program. I was hoping that you’d be able to seal it up inside the bureau before my first rather tenuous contact with it got lost. When I didn’t succeed in provoking you into protecting yourself, I took the risk of making direct contact with the leak myself—and the first piece of secret information that came to me through it was the final point I needed to put my Dirac communicator together. When it was all assembled, it did more than just communicate. It predicted. And I can tell you why.”
+“I can’t suit myself,” Weinbaum said petulantly. “I work for the gove^rnment. Was this leak direct to you?”
+
+“Not at first. That was why I kept insisting to you in person that there might be such a leak, and why I finally began to hint about it in public, on my program. I was hoping that you’d be able to seal it up inside the bureau before my first rather tenuous contact with it got lost. When I didn’t succeed in provoking you into protecting yourself, I took the risk of making direct contact with the leak myself—and the first piece of secret information that came to me through it was the final point I needed to put my Dirac communicator together. When it was all assembled, it did more than just communicate. It predicted. And I can tell you why.”
 
 Weinbaum said thoughtfully, “I don’t find this very hard to accept, so far. Pruned of the philosophy, it even makes some sense of the ‘J. Shelby Stevens’ affair. I ass^e that by letting the old gentleman become known as somebody who knew more about the Dirac transmitter than I did, and who wasn’t averse to negotiating with anybody who had money, you kept the leak working through you—rather than transmitting data directly to unfriendly governments."
 
@@ -4322,7 +4360,7 @@ Dana smiled. “The secret is very simple. It’s in the beep.”
 
 Weinbaum’s jaw dropped. “The beep? The Dirac noise?”
 
-“That’s right. You didn’t find it out because you considered the beep to be just a nuisance, and ordered Miss Soames to cut it off all tapes before sending them in to you. Miss Soames, who had some inkling of what the beep meant, was more than happy to do so, leaving the reading of the beep exclusively to ‘J. Shelby Stevens'— who she thought was going to take on Erskine as a client.”
+“That’s right. You didn’t find it out because you considered the beep to be just a nuisance, and ordered Miss Soames to cut it off all tapes before sending them in to you. Miss Soames, who had some inkling of what the beep meant, was more than happy to do so, leaving the reading of the beep exclusively to ‘J. Shelby Stevens'—who she thought was going to take on Erskine as a client.”
 
 “Explain,” Thor Wald said, looking intense.
 
@@ -4338,13 +4376,13 @@ Weinbaum’s jaw dropped. “The beep? The Dirac noise?”
 
 Thor Wald frowned. “You’d still have a considerable garble when you were through. You’d have to sample the messages	”
 
-“Which is just what I did; Robin’s little lecture to me about the ultrawave gave me that hint. I set myself to find out how the ultrawave channel carries so many messages at once, and I discovered that you people sample the incoming pulses every thousandth of a second and pass on one pip only when the wave deviates in a certain way from the mean. I didn’t really believe it would work on the Dirac beep, but it turned out just as well: 90 percent as intelligible as the original transmission after it came through the smearing device. I'd already got'enough from the beep to put my plan in motion, of course—but now every voice message in it was available, and crystal-clear: if you select three pips every thousandth of a second, you can even pick up an intelligible transmission of music—a little razzy, but good enough to identify the instruments that are playing— and that’s a very close test of any communications device.”
+“Which is just what I did; Robin’s little lecture to me about the ultrawave gave me that hint. I set myself to find out how the ultrawave channel carries so many messages at once, and I discovered that you people sample the incoming pulses every thousandth of a second and pass on one pip only when the wave deviates in a certain way from the mean. I didn’t really believe it would work on the Dirac beep, but it turned out just as well: 90 percent as intelligible as the original transmission after it came through the smearing device. I'd already got'enough from the beep to put my plan in motion, of course—but now every voice message in it was available, and crystal-clear: if you select three pips every thousandth of a second, you can even pick up an intelligible transmission of music—a little razzy, but good enough to identify the instruments that are playing—and that’s a very close test of any communications device.”
 
 “There’s a question of detail here that doesn’t quite follow,” said Weinbaum, for whom the technical talk was becoming a little too thick to fight through. “Dana, you say that you knew the course this conversation was going to take—yet it isn’t being Dirac-recorded, nor can I see any reason why any summary of it would be sent out on the Dirac afterwards.”
 
 “That’s true, Robin. However, when I leave here, I will make such a transcast myself, on my own Dirac. Obviously I will—because I’ve already picked it up, from the beep.”
 
-“In other words, you’re going to call yourself up— months ago.”
+“In other words, you’re going to call yourself up—months ago.”
 
 “That’s it,” Dana said. “It’s not as useful a technique as you might think at first, because it’s dangerous to make such broadcasts while a situation is still developing. You can safely ‘phone back’ details only after the given situation has gone to completion, as a chemist might put it. Once you know, however, that when you use the Dirac you’re dealing with time, you can coax some very strange things out of the instrument.”
 
@@ -4380,7 +4418,7 @@ A distant babble of voices came from the speaker. As Weinbaum leaned forward ten
 
 “Hello, Earth bureau. Lt. T. L. Matthews at Hercules Station NGC 6341, transmission date 13-22-2091. We have the last point on the orbit curve of your dope-runners plotted, and the curve itself points to a small system about twenty-five light-years from the base here; the place hasn’t even got a name on our charts. Scouts show the home planet at least twice as heavily fortified as we anticipated, so we’ll need another cruiser. We have a ‘can-do’ from you in the beep for us, but we’re waiting as ordered to get it in the present. NGC 6341 Matthews out.”
 
-After the first instant of stunned amazement—for no amount of intellectual willingness to accept could have prepared him for the overwhelming fact itself— Weinba^ had grabbed a pencil and begun to write at
+After the first instant of stunned amazement—for no amount of intellectual willingness to accept could have prepared him for the overwhelming fact itself—Weinba^ had grabbed a pencil and begun to write at
 
 top speed. As the voice signed out he threw the pencil down and looked excitedly at Dr. Wald.
 
@@ -4406,7 +4444,9 @@ Dr. Wald went through the ritual, much faster this time. The speaker said:
 
 “Shall I try for a picture this time?”
 
-Weinbaum nodded. A moment later, he was looking squarely into the green-skinned face of something that looked like an animated traffic signal with a helmet on it. Though the creature had no mouth, the Dirac speaker was saying quite clearly, “Hello, Chief. This is Thammos NGC 2287, transmission date Gor 60, 302 by my calendar, July 2, 2973 by yours. This is a lousy little planet. Everything stinks of oxygen, just like Earth. But the natives accept us and that’s the important thing. We’ve got your genius safely born. Detailed report coming later by paw. NGC 2287 Thammos out.” “I wish I knew my New General Catalogue better,” Weinbaum said. “Isn’t that M 41 in Canis Major, the one with the red star in the middle? And we’ll be using non-humanoids there! What was that creature, anyhow? Never mind, spin her again.”
+Weinbaum nodded. A moment later, he was looking squarely into the green-skinned face of something that looked like an animated traffic signal with a helmet on it. Though the creature had no mouth, the Dirac speaker was saying quite clearly, “Hello, Chief. This is Thammos NGC 2287, transmission date Gor 60, 302 by my calendar, July 2, 2973 by yours. This is a lousy little planet. Everything stinks of oxygen, just like Earth. But the natives accept us and that’s the important thing. We’ve got your genius safely born. Detailed report coming later by paw. NGC 2287 Thammos out.”
+
+“I wish I knew my New General Catalogue better,” Weinbaum said. “Isn’t that M 41 in Canis Major, the one with the red star in the middle? And we’ll be using non-humanoids there! What was that creature, anyhow? Never mind, spin her again.”
 
 Dr. Wald spun her again. Weinbaum, already feeling a little dizzy, had given up taking notes. That could come later, all that could come later. Now he wanted only scenes and voices, more and more scenes and voices from the future. They were better than aquavit, even with a beer chaser.
 
@@ -4428,11 +4468,11 @@ The indoctrination tape ended, and Krasna touched a button. The Dirac screen dar
 
 “Of course they will,” Krasna agreed immediately. “But look, Jo. Our interests as a government depend upon the future. We operate as if the Uture is as real as the past, and so far we haven’t been disappointed: the Service is 100 per cent successful. But that very success isn’t without its warnings. What would happen if we stopped supervising events? We don’t know, and we don’t dare take the chance. Despite the evidence that the future is fixed, we have to take on the role of the caretaker of inevitability. We believe that nothing can possibly go wrong . . . but we have to act on the philosophy that history helps only those who help themselves.
 
-“That’s why we safeguard huge numbers of courtships right through to contract, and even beyond it. We have to see to it that every single person who is mentioned in any Dirac ’cast gets born. Our obligation as Event Police is to make the events of the future possible, because those events are crucial to our society— even the smallest of them. It’s an enormous task, believe me, and it gets bigger and bigger every day. Apparently it always will.”
+“That’s why we safeguard huge numbers of courtships right through to contract, and even beyond it. We have to see to it that every single person who is mentioned in any Dirac ’cast gets born. Our obligation as Event Police is to make the events of the future possible, because those events are crucial to our society—even the smallest of them. It’s an enormous task, believe me, and it gets bigger and bigger every day. Apparently it always will.”
 
 “Always?” Jo said. “^^at about the public? Isn’t it going to smell this out sooner or later? The evidence is piling up at a terrific rate.”
 
-“Yes and no,” Krasna said. “Lots of people are smelling it out right now, just as you did. But the number of new people we need in the Service grows faster— it’s always ahead of the number of laymen who follow the clues to the truth.”
+“Yes and no,” Krasna said. “Lots of people are smelling it out right now, just as you did. But the number of new people we need in the Service grows faster—it’s always ahead of the number of laymen who follow the clues to the truth.”
 
 Jo took a deep breath. “You take all this as if it were as commonplace as boiling an egg, Kras," he said. “Don’t you ever wonder about some of the things you get from the beep? That ’cast Dana Lje picked up from Canes Venatici, for instance, the one from the ship that was traveling backward in time? How is that possible? What could be the purpose? Is it	”
 
@@ -4494,7 +4534,7 @@ A miracle? No, not in this new age, surely. It was simply a work of science. But
 
 “I understand,” Strauss said, sitting up. “One question, please; is it still possible for a composer to make a living in this century?”
 
-“Indeed it is,” Dr. Kris said, smiling. “As we expect you to do. It is one of the purposes for which we’ve— brought you back.”
+“Indeed it is,” Dr. Kris said, smiling. “As we expect you to do. It is one of the purposes for which we’ve—brought you back.”
 
 “I gather, then,” Strauss said somewhat dryly, “that there is still a demand for my music. The critics in the old days	”
 
@@ -4554,7 +4594,7 @@ There was one wing of the conservatives, however, which had gone the twelve-tone
 
 By far the largest body of work being produced, however, fell into a category misleadingly called “science-music.” The term reflected nothing but the titles of the works, which dealt with space flight, time travel, and other subjects of a romantic or an unlikely nature. There was nothing in the least scientific about the music, which consisted of'a, melange of cliches and imitations of natural sounds, in which Strauss was horrified to see his own time-distorted and diluted image.
 
-The most popular form of science-music was a nine-minute composition called a concerto, though it bore no resemblance at all to the classical concerto form; it was instead a sort of free rhapsody after Rachmaninoff— long after. A typical one—“Song of Deep Space” -it was called, by somebody named H. Valerion Krafft—began with a loud assault on the tam-tam, after which all the strings rushed up the scale in unison, followed at a respectful distance by the harp and one clarinet in parallel 6/4’s. At the top of the scale cymbals were bashed together, force possibile, and the whole orchestra launched itself into a major-minor, wailing sort of melody; the whole orchestra, that is, except for the French horns, which were plodding back down the scale again in what was evidently supposed to be a countermelody. The second phrase of the theme was picked up by a solo trumpet with a suggestion of tremolo; the orchestra died back to its roots to await the next cloudburst, and at this point—as any four-year-old could have predicted—the piano entered with the second theme.
+The most popular form of science-music was a nine-minute composition called a concerto, though it bore no resemblance at all to the classical concerto form; it was instead a sort of free rhapsody after Rachmaninoff—long after. A typical one—“Song of Deep Space” -it was called, by somebody named H. Valerion Krafft—began with a loud assault on the tam-tam, after which all the strings rushed up the scale in unison, followed at a respectful distance by the harp and one clarinet in parallel 6/4’s. At the top of the scale cymbals were bashed together, force possibile, and the whole orchestra launched itself into a major-minor, wailing sort of melody; the whole orchestra, that is, except for the French horns, which were plodding back down the scale again in what was evidently supposed to be a countermelody. The second phrase of the theme was picked up by a solo trumpet with a suggestion of tremolo; the orchestra died back to its roots to await the next cloudburst, and at this point—as any four-year-old could have predicted—the piano entered with the second theme.
 
 Behind the orchestra stood a group of thirty women, ready to come in with a wordless chorus intended to suggest' the eeriness of Deep Space—but at this point, too, Strauss had already learned to get up and leave. After a few such experiences he could also count upon meeting in the lobby Sindi Noniss, the agent to whom Dr. Kris had introduced him, and who was handling the reborn composer’s output—what there was of it thus far. Sindi had come to expect these walkouts on the part of his client, and patiently awaited them, standing beneath a bust of Gian Carlo Menotti; but he liked them less and less, and lately had been greeting them by turning alternately red and white like a toti-potent barber pole.
 
@@ -4626,7 +4666,7 @@ The examiner went over to the green-painted upright piano and hit one greasy bla
 
 But the work went forward. He was making a little income now, from small works. People seemed to feel a special interest in a composer who had come out of the mind sculptors’ laboratories; and in addition the material itself, Strauss was quite certain, had merits of its own to help sell it.
 
-It was the opera which counted, however. That grew and grew under his pen, as fresh and new as his new life, as founded in knowledge and ripeness as his long full memory. Finding a libretto had been troublesome at first. ^thile it was possible that something existed that might have served among the current scripts for 3-V— though he doubted it—he found himself unable to tell the good from the bad through the fog cast over both by incomprehensibly technical production directions. Eventually, and for only the third time in his whole career, he had fallen back upon a play written in a Ian-guage other than his own, and—for the first time— decided to set it in that language.
+It was the opera which counted, however. That grew and grew under his pen, as fresh and new as his new life, as founded in knowledge and ripeness as his long full memory. Finding a libretto had been troublesome at first. ^thile it was possible that something existed that might have served among the current scripts for 3-V—though he doubted it—he found himself unable to tell the good from the bad through the fog cast over both by incomprehensibly technical production directions. Eventually, and for only the third time in his whole career, he had fallen back upon a play written in a Ian-guage other than his own, and—for the first time—decided to set it in that language.
 
 The play was Christopher Fry’s Venus Observed, in all ways a perfect Strauss opera libretto, as he came gradually to realize. Though nominally a comedy, with a complex farcial plot, it was a verse play with considerable depth to it, and a number of characters who cried out to be brought by music into three dimensions, plus a strong undercurrent of autumnal tragedy, of leaf-fall and apple-fall—precisely the kind of contradictory dramatic mixture which von Hofmannsthal had supplied him with in The Knight of the Rose, in Ariadne at Naxos, and in Arabella.
 
@@ -4730,7 +4770,7 @@ A wave of assenting sound.
 
 Now the ovation could no longer be contained. Strauss, with a crooked smile, watched Dr. Kris bow. This mind sculpturing was a suitably sophisticated kind of cruelty for this age; but the impulse, of course, had always existed. It was the same impulse that had made Rembrandt and Leonardo turn cadavers into art works.
 
-It deserved a suitably sophisticated payment under the lex talionis: an eye for an eye, a tooth for a tooth— and a failure for a failure.
+It deserved a suitably sophisticated payment under the lex talionis: an eye for an eye, a tooth for a tooth—and a failure for a failure.
 
 No, he need not tell Dr. Kris that the “Strauss” he had created was as empty of genius as a hollow gourd. The joke would always be on the sculptor, who was incapable of hearing the hollowness of the music now preserved on the 3-V tapes.
 
@@ -4778,15 +4818,17 @@ Oberholzer saluted and went below. There was little enough he could tell the squ
 
 This time Oberholzer would need every ounce of trust and erg of obedience they would give him. Though he never expected anything but the worst, he had a queer cold feeling that this time he was going to get it. There were hardly any data to go on yet, but there had been something about Calle that looked persuasively like the end of the line.
 
-Very few 6f the forty men in the wardroom even looked up as Oberholzer entered. They were checking their gear in the dismal light of the fluorescents, with the single-mindedness of men to whom a properly wound gun-tube coil, a properly set face-shield gasket, a properly fueled and focused vaulting jet, have come to mean more than parents, children, retirement pensions, the rule of law, or the logic of empire. The only man to show any flicker of interest was Sergeant Cassirir— as was normal, Since he was Oberholzer's understudy— and he did no more than look up from over the straps of his antigas suit and say, “Well?”
+Very few 6f the forty men in the wardroom even looked up as Oberholzer entered. They were checking their gear in the dismal light of the fluorescents, with the single-mindedness of men to whom a properly wound gun-tube coil, a properly set face-shield gasket, a properly fueled and focused vaulting jet, have come to mean more than parents, children, retirement pensions, the rule of law, or the logic of empire. The only man to show any flicker of interest was Sergeant Cassirir—as was normal, Since he was Oberholzer's understudy—and he did no more than look up from over the straps of his antigas suit and say, “Well?”
 
 “Well,” Oberholzer said, “now hear this.”
 
 There was a sort of composite jingle and clank as the men lowered their gear to the deck or put it aside on their bunks.
 
-“We’re investing a planet called Calle in the Canes Venatici cluster," Oberholzer said, sitting down on an olive-drab canvas pack stuffed with lysurgic acid grenades. “A cruiser called the Assam Dragon—you were with her on her shakedown, weren’t you, Himber?— touched down here ten years ago with a flock of tenders and got swallowed up. They got two or three quick yells for help out and that was that—nothing anybody could
+“We’re investing a planet called Calle in the Canes Venatici cluster," Oberholzer said, sitting down on an olive-drab canvas pack stuffed with lysurgic acid grenades. “A cruiser called the Assam Dragon—you were with her on her shakedown, weren’t you, Himber?—touched down here ten years ago with a flock of tenders and got swallowed up. They got two or three quick yells for help out and that was that—nothing anybody could
 
-make much sense of, no weapons named or description of the enemy. So here we are, loaded for the kill.” “Wasn’t any Calley in command of the Assam Dragon when I was aboard,” Himber said doubtfully.
+make much sense of, no weapons named or description of the enemy. So here we are, loaded for the kill.”
+
+“Wasn’t any Calley in command of the Assam Dragon when I was aboard,” Himber said doubtfully.
 
 “Nah. Place was named for the astronomer who spotted her, from the rim of the cluster, a hundred years ago,” Oberholzer said. “Nobody names planets for ship captains. Anybody got ariy sensible questions?”
 
@@ -4830,9 +4872,13 @@ Nevertheless, it was with a certain grim enjoyment that 12-Upjohn poured into Ro
 
 “Well, it’s good that we’ve got power.”
 
-“We can’t afford to be philosophical about it. Whatever shape it’s in, this derelict is a thoroughly conspicuous object and we’d better get out of it in a hurry.” “Why?” Robin said. “We were supposed to make contact with these people. Why not just sit here until they notice and come to see us?”
+“We can’t afford to be philosophical about it. Whatever shape it’s in, this derelict is a thoroughly conspicuous object and we’d better get out of it in a hurry.”
 
-“Suppose they just blast us to smaller bits instead? They didn’t stop to parley with the fleet, you’ll notice.” “This is a different situation,” Robin said stubbornly. “I wouldn’t have stopped to parley with that fleet myself, if I’d bad the means of knocking it out first. It didn’t look a bit like a diplomatic mission. But why should they be afraid of a piece of a wreck?”
+“Why?” Robin said. “We were supposed to make contact with these people. Why not just sit here until they notice and come to see us?”
+
+“Suppose they just blast us to smaller bits instead? They didn’t stop to parley with the fleet, you’ll notice.”
+
+“This is a different situation,” Robin said stubbornly. “I wouldn’t have stopped to parley with that fleet myself, if I’d bad the means of knocking it out first. It didn’t look a bit like a diplomatic mission. But why should they be afraid of a piece of a wreck?”
 
 The Consort of State stroked the back of his neck reflectively. The boy had a point. It was risky; on the other hand, how long would they survive foraging in completely unknown territory? And yet obviously they couldn’t stay cooped up in here forever—especially if it was true that there was already no water.
 
@@ -4896,7 +4942,7 @@ Sands? He looked about with a start. Until that moment the Callean had so hypnot
 
 “No. When you came to kill me I prevented you, but you can no longer do that.”
 
-“There you've made a mistake, all right,” Oberholzer said, lifting his rifle toward the multicolored, glittering jewels of the Callean’s eyes. “You know what this is— they must have had them on the Dragon.”
+“There you've made a mistake, all right,” Oberholzer said, lifting his rifle toward the multicolored, glittering jewels of the Callean’s eyes. “You know what this is—they must have had them on the Dragon.”
 
 “Don’t be an idiot, Sergeant,” 12-Upjohn said sharply. “We're in no position to make any threats.” Nor, he added silently, should the Marine have called attention to his gun before the Callean had taken any overt notice of it.
 
@@ -5100,7 +5146,7 @@ He was a personable youngster, perhaps thirty, with blond wavy hair which had be
 
 “Then why wouldn’t there be a chance of our establishing better relations with the ‘person’ on the fourth planet?” 12-Upjohn said. “After all, there’s never been an Earth landing there.”
 
-“Because the ‘person’ on Xixobrax is a colony of Calle, and knows everything that goes on here. It took the two planets in co-operation to destroy the fleet. There’s almost full telepathic communion between the two—in fact, all through the Central Empire. The only rapport that seems to weaken over short distances— interplanetary distances—is the sense of identity. That’s why each planet has an ‘I’ of its own, its own ego. But it's not the kind of ego we know anything about. Xixo-brax wouldn’t give us any better deal than Calle has, any more than I’d give Calle a better deal than you would, Your Excellency. They have common purposes and allegiances. All the Central Empire seems to be like that.”
+“Because the ‘person’ on Xixobrax is a colony of Calle, and knows everything that goes on here. It took the two planets in co-operation to destroy the fleet. There’s almost full telepathic communion between the two—in fact, all through the Central Empire. The only rapport that seems to weaken over short distances—interplanetary distances—is the sense of identity. That’s why each planet has an ‘I’ of its own, its own ego. But it's not the kind of ego we know anything about. Xixo-brax wouldn’t give us any better deal than Calle has, any more than I’d give Calle a better deal than you would, Your Excellency. They have common purposes and allegiances. All the Central Empire seems to be like that.”
 
 12-Upjohn thought about it; but he did not like what he thought. It was a knotty problem, even in theory.
 
@@ -5112,13 +5158,17 @@ All the same, it seemed inarguable that the whole center of the Galaxy, an enorm
 
 Somewhere, there was a huge hole in the argument. ^finle he had sat helplessly thinking in these circles, even Robin One was busy, toting power packs to the welding crew which was working outside to braze together on the desert the implausible, misshapen lump of metal which the Marine sergeant was fanatically determined would become a ship again. Now the job was done, though no shipwright would admire it, and the question of where to go with it was being debated in full council. Sparks, for his part, was prepared to bet that the Calleans would not hinder their departure.
 
-“Why would they have given us all this oxygen and stuff if they were going to prevent us from using it?” he said reasonably. “They know what it’s for—even if they have no brains, collectively they’re plenty smart enough.” “No brains?” 12-Upjohn said. “Or are you just exaggerating?”
+“Why would they have given us all this oxygen and stuff if they were going to prevent us from using it?” he said reasonably. “They know what it’s for—even if they have no brains, collectively they’re plenty smart enough.”
+
+“No brains?” 12-Upjohn said. “Or are you just exaggerating?”
 
 “No brains,” the man from the Assam Dragon insisted. “Just lots of ganglia. I gather that’s the way all of the races of the Central Empire are organized, regardless of other physical differences. That’s what they mean when they say we’re all sick—hadn’t you realized that?”
 
 “No," 12-Upjohn said in slowly dawning horror. “You had better spell it out.”
 
-“^^y, they say that’s why we get cancer. They say that the brain is the ultimate source of all tumors, and is itself a tumor. They call it ‘hostile symbiosis.’ ” “Malignant?”
+“^^y, they say that’s why we get cancer. They say that the brain is the ultimate source of all tumors, and is itself a tumor. They call it ‘hostile symbiosis.’ ”
+
+“Malignant?”
 
 “In the long run. Races that develop them kill themselves off. Something to do with solar radiation; animals on planets of Population II stars develop them, Population I planets don’t.”
 
@@ -5156,7 +5206,9 @@ Robin One shuddered. “I don’t mind the fighting part,” he said unexpectedl
 
 “Yes, that’s what I said.”
 
-“I agree,” Sparks said. “Either way we may not make it, but the odds are in favor of doing it the hard way.” “Very good,” 12-Upjohn said. He was uncertain of his exact emotion at this moment; perhaps gloomy satisfaction was as close a description as any. “I make it unanimous. Let’s get ready.”
+“I agree,” Sparks said. “Either way we may not make it, but the odds are in favor of doing it the hard way.”
+
+“Very good,” 12-Upjohn said. He was uncertain of his exact emotion at this moment; perhaps gloomy satisfaction was as close a description as any. “I make it unanimous. Let’s get ready.”
 
 The sergeant saluted and prepared to leave the cabn; but suddenly he turned back.
 
@@ -5208,7 +5260,7 @@ surprised. He knew that he would overdo it. Just speaking slowly should be suffi
 
 Another pause. He added, “Er . . . was a poet.
 
-“Is a poet,” Sigrid said. “Well, come in please, Mr. Tucci. He'll be astonished. At least, Z'm astonished— hardly anybody knew his name, even Back Then."
+“Is a poet,” Sigrid said. “Well, come in please, Mr. Tucci. He'll be astonished. At least, Z'm astonished—hardly anybody knew his name, even Back Then."
 
 Score one, thanks to the Appalachian Vaults’ monstrous library. Out of a personal crotchet, Tucci checked with the library each name that rumor brought him, and this time it had paid off. It never had before.
 
@@ -5354,7 +5406,7 @@ Payment was arranged. It was only nominal this time.
 
 “Sure I am,” Gottlieb said in a low voice. “I told you you wouldn’t like what you saw. The man’s a new diabetic. There’s nothing I can do for him, that’s all.”
 
-“Surely that’s not so. I’m aware that you can’t store insulin without any refrigeration, but surely there were some of the oral hypoglycemic agents in the stock you found at the drugstore—tolbutamide, carbutamide, chlorpropamide? If you don’t recognize them by their old trade names, I can help you. In the meantime— well, at least you could have put the man on a rational diet.”
+“Surely that’s not so. I’m aware that you can’t store insulin without any refrigeration, but surely there were some of the oral hypoglycemic agents in the stock you found at the drugstore—tolbutamide, carbutamide, chlorpropamide? If you don’t recognize them by their old trade names, I can help you. In the meantime—well, at least you could have put the man on a rational diet.”
 
 “I threw all those piIIs out,” Gottlieb said flatly. “I don’t treat diabetics. Period. You heard what I told Herwood: I never took the Hippocratic Oath, and I don’t subscribe to it. In the present instance, we’re having a hard enough time with all the new antisurvival mutations that have cropped up. I am not going to have any hand in preserving any of the old ones. If I ever hit a hemophiliac, the first thing I’ll do is puncture him for a test—and forget to put a patch over the hole. Do you remember, Dr. Tucci, that just before the Day there was a national society soliciting funds to look for a cure fqr hemophilia? When the Oath takes you that far, into"'5av-ing lethal genes, either it’s crazy or you are!”
 
@@ -5384,7 +5436,7 @@ The last patient was relatively commonplace. She had frequent, incapacitating he
 
 “Oh, migraine, I suppose, though that’s about as good as no diagnosis at all. Possibly menopausal—or maybe just copelessness. That’s a disease I invented, but I see a lot of it. Why?”
 
-“It’s not copelessness. It’s glioblastoma multiforme— a runaway malignant tumor of the brain. At the moment, that’s only a provisional opinion, but I think exploration would confirm it. Aspirin won’t last her long—and in the end, neither will morphine.”
+“It’s not copelessness. It’s glioblastoma multiforme—a runaway malignant tumor of the brain. At the moment, that’s only a provisional opinion, but I think exploration would confirm it. Aspirin won’t last her long—and in the end, neither will morphine.”
 
 “Well . . . I’m sorry. Annie’s a warm and useful woman. But if you’re right, that’s that.”
 
@@ -5392,7 +5444,9 @@ The last patient was relatively commonplace. She had frequent, incapacitating he
 
 “Great God,” Gottlieb said. “The side effects must be fierce.”
 
-“Yes, but if the patient is doomed anyhow? .•• After all, it’s a little late in the day for gentleness.” “Sorry. Go ahead. Why boric acid?”
+“Yes, but if the patient is doomed anyhow? .•• After all, it’s a little late in the day for gentleness.”
+
+“Sorry. Go ahead. Why boric acid?”
 
 “Boron won’t ordinarily cross the blood-brain barrier,” Tucci explained. “But it will concentrate in the tumor. Then we irradiate the whole brain with slow neutrons. The boron atoms split, emitting two quanta of gamma radiation per atom, and the tumor is destroyed. The fission fragments are nontoxic, and the neutrons don’t harm the normal brain tissue. As for the secondary gammas, they can’t get through more than a layer of tissue a single cell thick, so they never leave the tumor at all. It works very well—one of our inheritances from Back Then; a man named Lee Farr invented it.”
 
@@ -5406,7 +5460,7 @@ The last patient was relatively commonplace. She had frequent, incapacitating he
 
 The dinner was enormously pleasant; remarkably good even by the standards of the Vaults, and almost a unique experience in the field. Sigrid Gottlieb proved to be a witty table companion as well as an imaginative cook. Some of her shafts had barbs on them, for it was plain that she had overheard enough to divine Tucci’s mission and had chosen to resent it. But these were not frequent enough or jagged enough to make Tucci believe that she was trying to make up her husband’s mind for him. All well and good.
 
-As for the children—the one prospect of the meal to which Tucci had not been looking forward, for as a bachelor he was categorically frightened of children— they were not even in evidence. They were fed in the kitchen by the eldest, the same girl who served as her father’s laboratory technician.
+As for the children—the one prospect of the meal to which Tucci had not been looking forward, for as a bachelor he was categorically frightened of children—they were not even in evidence. They were fed in the kitchen by the eldest, the same girl who served as her father’s laboratory technician.
 
 There was no medical talk until dinner was over. Instead, Gottlieb talked of poetry, with a curious mixture of intensity and wistfulness. This kept his guest a little on guard. Tucci knew more than most surviving Americans about the subject, he was sure, but far less than be bad pretended to know.
 
@@ -5434,7 +5488,7 @@ am—that’s the essence of it. My patients may not be as well served by me as 
 
 “So of course I’ll keep on the way I’ve been going. What else could I do?”
 
-“I’m sure,” Tucci said quietly, “that you’d find plenty of time in the Vaults to practice poetry as well— and many people who value it. I doubt that you find either here.”
+“I’m sure,” Tucci said quietly, “that you’d find plenty of time in the Vaults to practice poetry as well—and many people who value it. I doubt that you find either here.”
 
 “What of it? Poetry has been a private art for a century, anyhow,” Gottlieb said bitterly. “Certainly it’s no art for a captive audience, which wants to pat the poet on the head because it thinks he’s really valuable for something quite different, like writing advertising copy or practicing medicine. I’m no longer interested in being tolerated. I wrote that off the day before the Day, and I’m not going back to it.”
 
@@ -5484,7 +5538,9 @@ He was ruminatively strapping his gear onto the baggage rack of the scooter, ver
 
 “Sure. I only wanted to say—I’ve changed my mind.”
 
-“Well. That was worth waiting for.” Tucci took the helmet off and dropped the goggles carefully into it. “I hope you won’t mind if I’m in a hurry, or rather, if we're in a hurry. We’ll have trucks down here for you in about a week at the latest; it takes a while to get a convoy organized. We’ll also send a bus, since I think you’ll find that about half your patients will want to follow you, once you’ve explained the proposition to them.” “That’ll cost a lot of -gasoline,” Gottlieb said. He seemed embarrassed and disturbed.
+“Well. That was worth waiting for.” Tucci took the helmet off and dropped the goggles carefully into it. “I hope you won’t mind if I’m in a hurry, or rather, if we're in a hurry. We’ll have trucks down here for you in about a week at the latest; it takes a while to get a convoy organized. We’ll also send a bus, since I think you’ll find that about half your patients will want to follow you, once you’ve explained the proposition to them.”
+
+“That’ll cost a lot of -gasoline,” Gottlieb said. He seemed embarrassed and disturbed.
 
 Tucci waited a moment, and then said, very gently: “If you don’t mind, Mr. Gottlieb, would you tell me why you reversed yourself? I’d about given up.”
 
@@ -5492,7 +5548,7 @@ Tucci waited a moment, and then said, very gently: “If you don’t mind, Mr. G
 
 He scuffed at the foot of the gate with one broganed toe, as though he might kick it if no one were watching him.	-
 
-“So there I am. I have to go with you—and never mind that I’m giving up everything I’ve won so far— and a lot more that I hoped for. I may stop hating you five or ten years from now. But I could have spared myseif, if I hadn’t been so superior about Hippocrates all this time and just minded my own business.”
+“So there I am. I have to go with you—and never mind that I’m giving up everything I’ve won so far—and a lot more that I hoped for. I may stop hating you five or ten years from now. But I could have spared myseif, if I hadn’t been so superior about Hippocrates all this time and just minded my own business.”
 
 “The oath that you don’t take,” Tucci agreed, resuming his goggles and helmet, “is often more binding than the one you do.”
 
@@ -5570,7 +5626,7 @@ There was no clear separation between. the bubble and the Titanian creature. The
 
 And that might be happening very rapidly. She might not be allowed the time to think her way out of this fix by herself. Little though she wanted any help from the men at the base camp, and useless though she was sure they would prove, she’d damn well better ask for it now, just in case.
 
-But the bubble was not allowing any radio transmission through its roiling unicell wall today. The earphone was dead; not even the hiss of the stars came through it— only an occasional pop of noise that was born of entropy loss in the circuits themselves.
+But the bubble was not allowing any radio transmission through its roiling unicell wall today. The earphone was dead; not even the hiss of the stars came through it—only an occasional pop of noise that was born of entropy loss in the circuits themselves.
 
 She was cut off. Nun denn, alleinl
 
@@ -5598,7 +5654,7 @@ The cogs bit into the snow with a dry, almost inaudible squeaking, and the sled 
 
 The free cloak was still in sight, approximately where it had been before, in so far as she could judge against this featureless snowscape—which was fortunate, since it might well be her only flag for the source of the thermal, whatever it was.
 
-A peculiar fluttering in her surroundings—a whisper of sound, of motion, of flickering in the light— distracted her. It was as though her compound sheath were trembling slightly. The impression grew slowly more pronounced as the sled continued to lurch forward. As usual, there seemed to be nothing she could do about it except, possibly, to retreat; but she could not do that either, now; she was committed. Outside, she began to hear the soft soughing of a steady wind.
+A peculiar fluttering in her surroundings—a whisper of sound, of motion, of flickering in the light—distracted her. It was as though her compound sheath were trembling slightly. The impression grew slowly more pronounced as the sled continued to lurch forward. As usual, there seemed to be nothing she could do about it except, possibly, to retreat; but she could not do that either, now; she was committed. Outside, she began to hear the soft soughing of a steady wind.
 
 The cause of the thermal, when she finally reached it, was almost bathetic: a pool of liquid. Placid and deep
 
@@ -5680,7 +5736,7 @@ Simon had not said he was going to Boadacea, but after all, it was written on th
 
 “Yes. And you?”
 
-“Oh, that is not my destination; I am for deeper into the cluster. But you will find it an interesting world— especially the variations in the light; they make it seem quite dreamlike to a native of a planet with only a single, stable sun. And then, too, it is very old."
+“Oh, that is not my destination; I am for deeper into the cluster. But you will find it an interesting world—especially the variations in the light; they make it seem quite dreamlike to a native of a planet with only a single, stable sun. And then, too, it is very old."
 
 “What planet isn’t?"
 
@@ -5722,7 +5778,7 @@ Boadacea proved indeed to be an interesting world, and despite all of Simon’s 
 
 Its sun, Flos Campi, was a ninety-minute microvariable, twinned at a distance of one light-year with a blue-white, Rigellike star which stood—or had stood throughout historical times—in high southern latitudes. This meant that every spot on the planet had a different cycle of day and night. Druidsfall, for example, had only four consecutive ' hours of quasi-darkness at a time, and even during this period the sky was indigo rather than black at its deepest—and more often than not flaring with auroras, thanks to the almost incessant solar storms.
 
-Everything in the city, as everywhere on Boadacea, bespoke the crucial importance of fugitive light, and the fade-out-fade-in weather that went with it, all very strange after the desert glare of High Earth. The day after the Karas had fluttered down had dawned in mist, which cold gales had tom away into slowly pulsating sunlight; then had come clouds and needlelike rain which had turned to snow and then to sleet—more weather in a day than the minarets of Jiddah, Simon’s registered home town, saw in a six-month. The fluctuating light and wetness was reflected most startlingly by its gardens, which sprang up when one’s back was turned and did not need so much to be weeded as actually fought. They were constantly in motion to the ninety-minute solar cycle, battering their elaborate flow-erheads against back walls which were everywhere crumbling after centuries of such soft, implacable impacts. Half the buildings in Druidsfall glistened with their leaves, which were scaled with so much soft gold that they stuck to anything they were blown against— the wealth of Boadacea was based anciently in the vast amounts of uranium and other power-metals in its soil, from which the plants extracted the inevitable associated gold as radiation shielding for their spuriously tender genes. Everyone one saw in the streets of Druids-fall, or any other such city, was a mutation of some sort—if he was not an outworlder—but after a few days in the winds they were all half yellow, for the gold scales smeared off the flying leaves like butter. Everyone was painted with meaningless riches—the very bed-sheets glittered ineradicably with flakes of it; and brunettes—especially among the elaborate hair styles of the men—were at a premium.
+Everything in the city, as everywhere on Boadacea, bespoke the crucial importance of fugitive light, and the fade-out-fade-in weather that went with it, all very strange after the desert glare of High Earth. The day after the Karas had fluttered down had dawned in mist, which cold gales had tom away into slowly pulsating sunlight; then had come clouds and needlelike rain which had turned to snow and then to sleet—more weather in a day than the minarets of Jiddah, Simon’s registered home town, saw in a six-month. The fluctuating light and wetness was reflected most startlingly by its gardens, which sprang up when one’s back was turned and did not need so much to be weeded as actually fought. They were constantly in motion to the ninety-minute solar cycle, battering their elaborate flow-erheads against back walls which were everywhere crumbling after centuries of such soft, implacable impacts. Half the buildings in Druidsfall glistened with their leaves, which were scaled with so much soft gold that they stuck to anything they were blown against—the wealth of Boadacea was based anciently in the vast amounts of uranium and other power-metals in its soil, from which the plants extracted the inevitable associated gold as radiation shielding for their spuriously tender genes. Everyone one saw in the streets of Druids-fall, or any other such city, was a mutation of some sort—if he was not an outworlder—but after a few days in the winds they were all half yellow, for the gold scales smeared off the flying leaves like butter. Everyone was painted with meaningless riches—the very bed-sheets glittered ineradicably with flakes of it; and brunettes—especially among the elaborate hair styles of the men—were at a premium.
 
 Druidsfall proper was the usual low jumble of decayed masonry, slightly less ancient slums, and blankfaced offices, but the fact that it was also the home city of the Guild—hence wholly convenient, if not congenial, for Simon—gave it character. The traitors had an architectural style of their own, characterized by structures put together mostly of fragmented statues and petrified bodies fitted to each other like puzzle pieces or maps. Traitors on Boadacea had belonged to an honoured social class for seven hundred years, and their edifices made it known.
 
@@ -5808,7 +5864,7 @@ The typical layman’s question cited above should of course never be answered.
 
 Simon holed up quickly and drastically, beginning with a shot of transduction serum—an almost insanely dangerous expedient, for the stuff not only altered his appearance but his very heredity, leaving his head humming with false memories and false traces of character, derived from the unknowable donors of the serum, which conflicted not only with his purposes but even with his tastes and motives.
 
-Under interrogation, he would break down into a babbling crowd of random voices, as bafflingly scrambled as his karyotypes, blood groups, and retina- and fingerprints. To the eye, his gross physical appearance would be a vague, characterless blur of many roles— some of them derived from the DNA of persons who had died a hundred years ago and at least that many parsecs away in space.
+Under interrogation, he would break down into a babbling crowd of random voices, as bafflingly scrambled as his karyotypes, blood groups, and retina- and fingerprints. To the eye, his gross physical appearance would be a vague, characterless blur of many roles—some of them derived from the DNA of persons who had died a hundred years ago and at least that many parsecs away in space.
 
 But unless he got the antiserum within fifteen High Earth days, he would forget his first mission, then his skills, and at last his very identity. Nevertheless, he judged that the risk had to be taken; for effete though some of the local traitors (always excepting Valkol the Polite) seemed to be, they were obviously quite capable of penetrating any lesser cover—and actually obviously, they meant business.
 
@@ -5832,7 +5888,7 @@ There was much to enjoy. Boadacea was a good-sized world, nearly ten thousand mi
 
 Once landed by the Gulf, however, Simon again changed his plans and his outermost disguise; for inquiry revealed that one of the duties of the Court Traitor here was that of singing the Rood-Prince to sleep to the accompaniment of the sareh, a sort of glee-man’s harp—actually a Charioteer instrument, ill-adapted to human fingers, which Da-Ud played worse than most of the Boadaceans who affected it. Simon therefore appeared at the vaguely bird-shaped palace of the Rood-Prince in the guise of a ballad merchant, and as such was enthusiastically received, and invited to catalogue the library; Da-Ud, the Rood-Prince said, would help him, at least with the music.
 
-Simon was promptly able to sell Da-Ud twelve-and-a-tilly of ancient High Earth songs Simon had made up overnight—faking folk songs is not much of a talent— and had Da-Ud’s confidence within an hour; it was as easy as giving Turkish Delight to a baby. He cinched the matter by throwing in free lessons on the traditional way to sing them.
+Simon was promptly able to sell Da-Ud twelve-and-a-tilly of ancient High Earth songs Simon had made up overnight—faking folk songs is not much of a talent—and had Da-Ud’s confidence within an hour; it was as easy as giving Turkish Delight to a baby. He cinched the matter by throwing in free lessons on the traditional way to sing them.
 
 After the last mangled chord had died, Simon asked Da-Ud quietly:
 
@@ -5854,7 +5910,9 @@ It was not the flash of the badge that was dazzling Da-Ud now. He lowered his ha
 
 “What—what do you want of me, excellence? I have nothing to sell but the Rood-Prince . . . and a poor stick he is. Surely you would not sell me High Earth; I am a poor stick myself.”	•
 
-“I would sell you High Earth for twenty riyals.” “You mock me!”
+“I would sell you High Earth for twenty riyals.”
+
+“You mock me!”
 
 “No, Da-Ud. I came here to deal with the Guild, but they killed Jillith—and that, as far as I’m concerned, disqualified them from being treated as civilized professionals, or as human beings at all. She was pleasant and intelligent, and I was fond of her—and besides, while I’m perfectly willing to kill under some conditions, I don’t hold with throwing away an innocent life for some footling dramatic gesture.”
 
@@ -5868,7 +5926,7 @@ It was not the flash of the badge that was dazzling Da-Ud now. He lowered his ha
 
 “Suppose the Guild doesn’t believe that?”
 
-“They’ll never believe—excuse me, I must be blunt— that you could have afforded the whole thing; they’ll know I sold you this much of it only because I have a grudge, and you can tell them so—though I wouldn’t expose the nature of the grudge, if I were you. Were you unknown to them, they might assume that you were me in disguise, but luckily they know you, and, ah, probably tend rather to underestimate you.”
+“They’ll never believe—excuse me, I must be blunt—that you could have afforded the whole thing; they’ll know I sold you this much of it only because I have a grudge, and you can tell them so—though I wouldn’t expose the nature of the grudge, if I were you. Were you unknown to them, they might assume that you were me in disguise, but luckily they know you, and, ah, probably tend rather to underestimate you.”
 
 “Kindly put,” Da-Ud said with a grin. “But that won’t prevent them from assuming that I know your whereabouts, or have some way of reaching you. They’ll interrogate for that, and of course I'll tell them. I know them, too; it would be impossible not to, and I prefer to save myself needless pain.”
 
@@ -5886,7 +5944,7 @@ Simon shrugged. “Be convincing, then,” he said. “I have already said that 
 
 “Minus two riyals for the use of the Prince’s property. Bribes, you know.”
 
-“Your sister was wrong. You do have style, in a myopic sort of way. All right, eighteen riyals—and then let’s get on to real business. My time is not my own— not by a century.”
+“Your sister was wrong. You do have style, in a myopic sort of way. All right, eighteen riyals—and then let’s get on to real business. My time is not my own—not by a century.”
 
 “But how do I reach you thereafter?"
 
@@ -5968,7 +6026,9 @@ Da-Ud listened with an expression of polite bafflement which did not quite compl
 
 agent from High Earth here; in matters of this importance they wouldn’t be likely to rest with only one charge in the chamber. That means you’ll have to follow my instructions to the letter, or we’ll never live to spend a riyal of the proceeds.”
 
-“You can count on me,” Da-Ud said, tossing his hair out of his eyes. “I’ve, handled everything well enough this time, haven’t I? And, after all, it was my idea.” “Certainly. An expert production. Very well. What I want you to do now is go back to Valkol and tell him that I’ve betrayed you; and sold the other half of the secret to the Rood-Prince.”
+“You can count on me,” Da-Ud said, tossing his hair out of his eyes. “I’ve, handled everything well enough this time, haven’t I? And, after all, it was my idea.”
+
+“Certainly. An expert production. Very well. What I want you to do now is go back to Valkol and tell him that I’ve betrayed you; and sold the other half of the secret to the Rood-Prince.”
 
 “Surely you wouldn’t actually do such a thing!”
 
@@ -5982,7 +6042,7 @@ agent from High Earth here; in matters of this importance they wouldn’t be lik
 
 “You wear this ring. It communicates with a receiver in my clasp. I’ll take matters from there.”
 
-The ring—which was actually only a ring, which would never communicate anything to anybody— changed hands. Then Da-Ud saluted Simon with solemn glee, and went away to whatever niche in history—and in the walls of the Guildhall of Boadacea—is reserved for traitors without style; and Simon, breaking the stalk of a lyre bush which had sprung up between his feet, went off to hold his muttering, nattering skull and do nothing at all.	_
+The ring—which was actually only a ring, which would never communicate anything to anybody—changed hands. Then Da-Ud saluted Simon with solemn glee, and went away to whatever niche in history—and in the walls of the Guildhall of Boadacea—is reserved for traitors without style; and Simon, breaking the stalk of a lyre bush which had sprung up between his feet, went off to hold his muttering, nattering skull and do nothing at all.	_
 
 VII
 
@@ -5990,9 +6050,9 @@ Valkol the Polite—or the Exarch’s agent, it hardly mattered which—did not 
 
 Actually, in the maneuvering itself the hand of the Exarchy did not show, and did not need to; for the whole campaign would have seemed a token display like a tournament, had it not been for a few score of casualties which seemed inflicted almost inadvertently. Even among these there were not many deaths, as far as Simon could tell—at least, not by the standards of battle to which he was accustomed.
 
-Clearly, nobody who mattered got killed, on either side. It alf reminded Simon of medieval warfare, in which the nearly naked kerns and gallowglasses were thrust into the front ranks to slaughter one another, while the heavily armoured knights kept their valuable persons well to the rear—except that here there was a good deal more trumpet blowing than there was slaughter. The Rood-Prince, in an exhibition of bravado more garish than sensible, deployed on the plain before his city several thousand pennon-bearing mounted troopers who had nobody to fight but a rabble of foot soldiers which Druidsfall obviously—at least, to Simon’s eye— did not intend to be taken seriously; whereupon, the city was taken from the Gulf side, by a squadron of flying submarines which broke from the surface of the sea on four buzzing wings like so many dragonflies. The effect was like a raid by the twenty-fifth century upon the thirteenth, as imagined by someone in the twen-tieth—a truly dreamlike sensation.
+Clearly, nobody who mattered got killed, on either side. It alf reminded Simon of medieval warfare, in which the nearly naked kerns and gallowglasses were thrust into the front ranks to slaughter one another, while the heavily armoured knights kept their valuable persons well to the rear—except that here there was a good deal more trumpet blowing than there was slaughter. The Rood-Prince, in an exhibition of bravado more garish than sensible, deployed on the plain before his city several thousand pennon-bearing mounted troopers who had nobody to fight but a rabble of foot soldiers which Druidsfall obviously—at least, to Simon’s eye—did not intend to be taken seriously; whereupon, the city was taken from the Gulf side, by a squadron of flying submarines which broke from the surface of the sea on four buzzing wings like so many dragonflies. The effect was like a raid by the twenty-fifth century upon the thirteenth, as imagined by someone in the twen-tieth—a truly dreamlike sensation.
 
-The submarines particularly interested Simon. Some Boadaceous genius, unknown to the rest of the known galaxy, had solved the ornithopter problem— though the wings of the devices were membranous rather than feathered. Hovering, the machines thrummed their wings through a phase shift of a full hundred and eighty degrees, but when they swooped, the wings moved in a horizontal figure eight, lifting with a forward-and-down stroke, and propelling with the back stroke. A long, fish-like tail gave stability, and doubtless had other uses under water.
+The submarines particularly interested Simon. Some Boadaceous genius, unknown to the rest of the known galaxy, had solved the ornithopter problem—though the wings of the devices were membranous rather than feathered. Hovering, the machines thrummed their wings through a phase shift of a full hundred and eighty degrees, but when they swooped, the wings moved in a horizontal figure eight, lifting with a forward-and-down stroke, and propelling with the back stroke. A long, fish-like tail gave stability, and doubtless had other uses under water.
 
 After the mock battle, the ’thopters landed and the troops withdrew; and then matters took a more sinister tum, manifested by thumping explosions and curls of smoke from inside the Rood palace. Evidently, a search was being made for the supposedly hidden documents Simon was thought to have sold, and it was not going well. The sounds of demolition, and the occasional public hangings, could only mean that a maximum interrogation of the Rood-Prince had failed to produce any papers, or any clues to them.
 
@@ -6042,7 +6102,9 @@ Others:
 
 “But Mother’s birthday is 20th July.”
 
-“So he knew that the inevitable might happen—” “It made my scalp creak and my blood curl.”
+“So he knew that the inevitable might happen—”
+
+“It made my scalp creak and my blood curl.”
 
 “Where do you get those crazy ideas?”
 
@@ -6082,7 +6144,7 @@ Noting the direction of his glance, Valkol said, “I asked this gentleman to jo
 
 The Traitor-in-Chief's lips whitened slightly. Aha, then he hadn’t known that! “Prove it,” he said.
 
-“My dear Valkol,” the creature interposed. “Pray don’t let him distract us over trifles. Such a thing could not be proved without the most elaborate of laboratory tests, as we all know. And the accusation shows what we wish to know, i.e., that he is aware of who I am— otherwise, why try to make such an inflammatory charge?”
+“My dear Valkol,” the creature interposed. “Pray don’t let him distract us over trifles. Such a thing could not be proved without the most elaborate of laboratory tests, as we all know. And the accusation shows what we wish to know, i.e., that he is aware of who I am—otherwise, why try to make such an inflammatory charge?”
 
 “Your master’s voice,” Simon said. “Let us by all means proceed—this gown is chilly.”
 
@@ -6118,13 +6180,15 @@ Simon snorted. The Sodality was a lay organization to which Guilds classically e
 
 “Naturally not, since the unfortunate Da-Ud was held here with it until we decided he no longer had any use for it. However, if upon the proper oaths—"
 
-“High Earth is the oldest oath-breaker of them all,” the Fomentor said. “We—viz., the Exarchy—have no more time for such trials. The question must be put.” “So it would seem. Though I hate to handle a colleague thus	”
+“High Earth is the oldest oath-breaker of them all,” the Fomentor said. “We—viz., the Exarchy—have no more time for such trials. The question must be put.”
+
+“So it would seem. Though I hate to handle a colleague thus	”
 
 “You fear High Earth,” the vombis said. “My dear
 
 Valkol,_may I remind you	”
 
-“Yes, yes, the Exarch’s guarantee—I know all that,” Valkol snapped, to Simon’s surprise. “Nevertheless— Mr. de Kuyl, are you sure we have no recourse but to send you to the Babble Room?”
+“Yes, yes, the Exarch’s guarantee—I know all that,” Valkol snapped, to Simon’s surprise. “Nevertheless—Mr. de Kuyl, are you sure we have no recourse but to send you to the Babble Room?”
 
 “Why not?” Simon said. “I rather enjoy hearing myself think. In fact, that’s what I was doing when your guards interrupted me.”
 
@@ -6160,7 +6224,9 @@ setchoc. Sanbetogmow	"
 
 ‘‘Dites-lui que nous lui ordonnons de revenir, en vertu de la Loi du Grand Tout"
 
-“Perhaps he should swear by another country.” “Can’t Mommy ladder spaceship think for bye-bye-
+“Perhaps he should swear by another country.”
+
+“Can’t Mommy ladder spaceship think for bye-bye-
 
 see-you two windy Daddy bottle seconds straight	”
 
@@ -6184,7 +6250,7 @@ It was time to exercise the last option—now, before the probe could bypass his
 
 “You don’t have to give me anything; I’m not selling anything. You see for yourself that you can’t get to the material with that machine. Nor with any other like it, I may add. But I exercise my option to tum my coat, under Guild laws; that gives me safe conduct, and that’s sufficient.”
 
-“No,” the Fomentor’s voice said. “It is incredible— he is in no pain and has frustrated the machine; why should he yield? Besides, the secret of his resistance	"
+“No,” the Fomentor’s voice said. “It is incredible—he is in no pain and has frustrated the machine; why should he yield? Besides, the secret of his resistance	"
 
 “Hush,” Valkol said. “I am moved to ask if you are a vombis; doubtless, the machine would tell us that much. Mr. de Kuyl, I respect the option, but I am not convinced yet. The motive, please?”
 
@@ -6280,7 +6346,7 @@ AGNOSIS OF POSTCREATE DETERMINISM
 
 Science fiction is the internal (intracultural) literary form taken by syncretism in the West. It adopts as its subject matter that occult area where a science in decay (elaborately decorated with technology) overlaps the second religiousness—hence, incidentally, its automatic receptivity from its emergence to such notions as time travel, ESP, dianetics, Dean Drives, faster-than-light travel, reincarnation and parallel universes. (I know of no other definition which accounts for our insistence that stories about such non-ideas be filed under the label.) It is fully contemporary with Meng-tse (372-289 B. c.), the Indian Nagarjun (a.o. 150), the Egyptian New Empire after Amenhotep IV, Byzantium in the time of Psellus (a.o. 1017-78), and the Magian Abbassid period10—we have lots of company, if it’s ancestors we’re looking for.
 
-It is not a Utopian prospect—Utopia being, anyhow, only a pure example of linearism in a cyclical world— but neither need it be an occasion for despair, I repeat, we have free will within our role and era, as long as we know what it is and when we are. Even without any background, or belief, in Spengler, many of us have already sensed this. When a candidate for the presidency of the Science Fiction Writers of America made “fighting drug abuse” part of his platform, most of us felt almost instinctively that he was making a fool of himself; and Harlan Ellison’s call to turn science fiction into a “literature of the streets” met with dead silence. Nor has there been noticeable response to the challenges of Philip Jose Farmer, Michel Butor, George Hay of British Mensa to turn science fiction into fact (and the Stalinist-oriented Futurians who published exactly this challenge thirty-five years ago gathered no following, either). It was this situation which led me to say six years ago that if an artist insists on carrying placards, they should all be blank.
+It is not a Utopian prospect—Utopia being, anyhow, only a pure example of linearism in a cyclical world—but neither need it be an occasion for despair, I repeat, we have free will within our role and era, as long as we know what it is and when we are. Even without any background, or belief, in Spengler, many of us have already sensed this. When a candidate for the presidency of the Science Fiction Writers of America made “fighting drug abuse” part of his platform, most of us felt almost instinctively that he was making a fool of himself; and Harlan Ellison’s call to turn science fiction into a “literature of the streets” met with dead silence. Nor has there been noticeable response to the challenges of Philip Jose Farmer, Michel Butor, George Hay of British Mensa to turn science fiction into fact (and the Stalinist-oriented Futurians who published exactly this challenge thirty-five years ago gathered no following, either). It was this situation which led me to say six years ago that if an artist insists on carrying placards, they should all be blank.
 
 The last words must be Spengler’s:
 
@@ -6302,7 +6368,7 @@ NOTES
 
 influences, the other being Goethe. He acknowledges them both at the outset and refers to them frequently thereafter.
 
-6.	There is a grimly interesting real example of this in Spengler’s own lifetime. Hitler was contemporary with Wu-ti (119-124 a.o.) and Trajan, but utterly failed to sense the spirit of the time — though some of his councillors did, mo.st notably Hjalamar Schacht. At the beginnings of the Nazi movement, Spengler in his only public lecture told the cream of the Hitlerjugend that they were doing the (historically) right thing at the right time, but that their leader had it all balled up and that it would end in disaster for the entire West. The leader of a national movement, he said with grisly humour, ought to be a hero, not an heroic tenor. In 1933 he expanded the speech into a 160-page book, The Hour of Decision. The Nazis banned the book three months after its publication (as well as forbidding all mention of his name in the press — luckily he was too famous to shoot, but by that time it had already sold 150,000 copies.
+6.	There is a grimly interesting real example of this in Spengler’s own lifetime. Hitler was contemporary with Wu-ti (119-124 a.o.) and Trajan, but utterly failed to sense the spirit of the time—though some of his councillors did, mo.st notably Hjalamar Schacht. At the beginnings of the Nazi movement, Spengler in his only public lecture told the cream of the Hitlerjugend that they were doing the (historically) right thing at the right time, but that their leader had it all balled up and that it would end in disaster for the entire West. The leader of a national movement, he said with grisly humour, ought to be a hero, not an heroic tenor. In 1933 he expanded the speech into a 160-page book, The Hour of Decision. The Nazis banned the book three months after its publication (as well as forbidding all mention of his name in the press—luckily he was too famous to shoot, but by that time it had already sold 150,000 copies.
 
 7.	A charming work called the Jena Symphony was long attributed to early Beethoven because one of the orchestra parts had his name on it, though some musicologists suspected Haydn. It turned out to be by somebody no one ever heard of.
 
@@ -6310,9 +6376,9 @@ influences, the other being Goethe. He acknowledges them both at the outset and 
 
 9.	The characteristic spirit of the West, which Spengler calls Faustian, is inherently linear.
 
-10.	(Editor's note) Meng-tse, the only Chinese philosopher besides Confucious to have his name latinized — as Mencius — emphasized the ruler’s duty to the people, advocated social welfare, and amplified the Confucian concept of ‘magnanimity.' Nagarjuna, philosopher-monk and convert to Mahayana (Greater Vehicle) Buddhism, founded the ‘Middle Path’ school whose clarification of the concept of ‘emptiness' (sunyata) is seen as a peak of intellectual and spiritual achievement in Indian thought; and wrote several critical analyses on views of the nature of reality, the means of knowledge and the origin of existence. Amenhotep IV (better known as Akhenaton; his wife was Nefertiti) reigned from 1379-1362 B.c. and besides advocating new intellectual and artistic freedom of expression, was the first monotheist known to history. Abandoning the old gods of Egypt for a single god of love and switching capitals from Thebes to his new city,
+10.	(Editor's note) Meng-tse, the only Chinese philosopher besides Confucious to have his name latinized—as Mencius—emphasized the ruler’s duty to the people, advocated social welfare, and amplified the Confucian concept of ‘magnanimity.' Nagarjuna, philosopher-monk and convert to Mahayana (Greater Vehicle) Buddhism, founded the ‘Middle Path’ school whose clarification of the concept of ‘emptiness' (sunyata) is seen as a peak of intellectual and spiritual achievement in Indian thought; and wrote several critical analyses on views of the nature of reality, the means of knowledge and the origin of existence. Amenhotep IV (better known as Akhenaton; his wife was Nefertiti) reigned from 1379-1362 B.c. and besides advocating new intellectual and artistic freedom of expression, was the first monotheist known to history. Abandoning the old gods of Egypt for a single god of love and switching capitals from Thebes to his new city,
 
-Akhetaton, bis neglect of practical politics prevented bis reforms from surviving. Michael Psellus, philosopher and politician, beaded the philosophy faculty at the new imperial university in Byzantium, initiating the renewal of classical scholarship by reversing the Aristotelian predominance in favour of Platonic thought and advocating a fusion of Platonic and Christian doctrine, thereby prefiguring the Italian Renaissance. The Abbassids were the second great dynasty of the Muslim Empire of the Caliphate (750-1258 A.D.), the Magian period being the mystical decadence of this. The individuals here aren’t themselves villains of the piece; rather, it is the piece in which, and against which, they were historically forced to participate which is properly ‘villainous’ — as the following (abridged) quotation from Spengler indicates: “Contemporary with the ‘positivist’ Meng-tse there suddenly began a powerful movement towards alchemy, astrology, and occultism. It has long been a favourite topic of dispute whether this was something new or a recrudescence of old Chinese myth-feeling — but a glance at Hellenism supplies the answer. This syncretism appears ‘simultaneously' in the Classical, in Indian and China, and in popular Islam. It starts always on rationalist doctrines — the Stoa, Lao-tse, Buddha — and carries these through with peasant and springtime and exotic motives of every conceivable sort
+Akhetaton, bis neglect of practical politics prevented bis reforms from surviving. Michael Psellus, philosopher and politician, beaded the philosophy faculty at the new imperial university in Byzantium, initiating the renewal of classical scholarship by reversing the Aristotelian predominance in favour of Platonic thought and advocating a fusion of Platonic and Christian doctrine, thereby prefiguring the Italian Renaissance. The Abbassids were the second great dynasty of the Muslim Empire of the Caliphate (750-1258 A.D.), the Magian period being the mystical decadence of this. The individuals here aren’t themselves villains of the piece; rather, it is the piece in which, and against which, they were historically forced to participate which is properly ‘villainous’—as the following (abridged) quotation from Spengler indicates: “Contemporary with the ‘positivist’ Meng-tse there suddenly began a powerful movement towards alchemy, astrology, and occultism. It has long been a favourite topic of dispute whether this was something new or a recrudescence of old Chinese myth-feeling—but a glance at Hellenism supplies the answer. This syncretism appears ‘simultaneously' in the Classical, in Indian and China, and in popular Islam. It starts always on rationalist doctrines—the Stoa, Lao-tse, Buddha—and carries these through with peasant and springtime and exotic motives of every conceivable sort
 
 •	. . The salvation-doctrine of Mahayana found its first great herald in the poet-scholar Asvagosha (c. 50 B.c.) and its fulfillment proper in Nagarjuna. But side by side with such teaching, the whole mass of protoIndian mythology came back into circulation . . . We have the same spectacle in the Egyptian New Empire, where Amen of Thebes formed the centre of a vast syncretism, and again in the Arabian world of the Abbassids, where the folk-religion, with its images of Purgatory, Hell, Last Judgment, the heavenly Kaaba, Logos-Mohammed, fairies, saints and spooks drove pristine Islam entirely into the background. There are still in such times a few high intellects like Nero’s tutor Seneca and his antitype Psellus the philosopher, royal tutor and politician of Byzantium’s Caesarism-phase
 
@@ -6346,7 +6412,7 @@ A special assignment sends Jim to the Krakatoa Dome, three miles below the surfa
 
 	THE BEST DF FREDERIK POHL, Frederik Pohl	245D7	1.95
 
-Seventeen superlative science fiction tales, including "The Day the Icicle Works Closed" — about a world lacing total unemployment — "The Midas Plague" — concerning men punished for not consuming enough — and many other surprises. Introduction by Lester del Rey.
+Seventeen superlative science fiction tales, including "The Day the Icicle Works Closed"—about a world lacing total unemployment—"The Midas Plague"—concerning men punished for not consuming enough—and many other surprises. Introduction by Lester del Rey.
 
 	SLAVE SHIP, Frederik Pohl	24586	1.50
 
@@ -6366,7 +6432,7 @@ checked above. I am enclosing $	(add 35# per copy to
 
 Name
 
-cover postage and handling). Send check or money order — no cash or C.O.D.'s please. Prices and numbers are subject to change without notice.
+cover postage and handling). Send check or money order—no cash or C.O.D.'s please. Prices and numbers are subject to change without notice.
 
 J	LEICh
 
@@ -6466,7 +6532,7 @@ Please send me the BALLANTINE or DEL REY BOOKS I have
 
 checked above. I am enclosing $	(add 35c per copy to
 
-cover postage and handling). Send check or money order — no cash or C.O.D.'s please. Prices and numbers are subject to change without notice.
+cover postage and handling). Send check or money order—no cash or C.O.D.'s please. Prices and numbers are subject to change without notice.
 
 Name	
 

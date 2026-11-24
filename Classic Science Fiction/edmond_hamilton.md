@@ -67,7 +67,7 @@ and fifteen other unique tales alive with a surging sense of wonder.
 blurb
 
 .heading
-**WHEN WORLDS CLASH**
+<a id="pagei"></a>**WHEN WORLDS CLASH**
 
 .space.thin
 **Alone on Mercury, Tollarg and Hurg and I waited in the control tower. The four oncoming worlds of the Antolians had almost reached our new star.**
@@ -86,7 +86,7 @@ blurb
 other_books
 
 .center
-**Watch for all the volumes in our Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book is introduced by a well-known science fiction writer or by a distinguished critic.**
+<a id="pageii"></a>**Watch for all the volumes in our Classic Library of Science Fiction—big, definitive collections by the true masters in the field. Each book is introduced by a well-known science fiction writer or by a distinguished critic.**
 
 .space.center
 **NOW AVAILABLE:**
@@ -139,7 +139,7 @@ other_books
 
 titlepage
 
-# THE BEST OF<br />*Edmond Hamilton*
+# <a id="pageiii"></a>THE BEST OF<br />*Edmond Hamilton*
 
 .editor
 Edited and with an Introduction by
@@ -159,7 +159,7 @@ BALLANTINE BOOKS • NEW YORK
 dedication
 
 .center
-In Memory
+<a id="pageiv"></a>In Memory
 of
 FARNSWORTH WRIGHT
 
@@ -191,7 +191,7 @@ Cover art by H. R. Van Dongen
 acknowledgments
 
 .center
-ACKNOWLEDGMENTS
+<a id="pagev"></a>ACKNOWLEDGMENTS
 
 .space.revindent
 “The Monster-God of Mamurth,” copyright © 1926 by Popular Fiction Publishing Co. for *Weird Tales*, August 1926.
@@ -242,7 +242,7 @@ ACKNOWLEDGMENTS
 “Alien Earth,” copyright © 1949 by Standard Magazines, Inc. for *Thrilling Wonder Stories*, April 1949.
 
 .revindent
-“What’s It Like Out There?” copyright © 1952 by Standard Magazines, Inc. for *Thrilling Wonder Stories*, December 1952.
+<a id="pagevi"></a>“What’s It Like Out There?” copyright © 1952 by Standard Magazines, Inc. for *Thrilling Wonder Stories*, December 1952.
 
 .revindent
 “Requiem,” copyright © 1962 by Ultimate Publishing Co. for *Amazing Stories*, April 1962.
@@ -260,7 +260,7 @@ ACKNOWLEDGMENTS
 
 contents
 
-# Contents
+# <a id="pagevii"></a>Contents
 
 [*Introduction*: Fifty Years of Wonder](introduction) *Leigh Brackett*
 
@@ -312,7 +312,7 @@ contents
 
 introduction
 
-# Fifty Years of Wonder
+# <a id="pageix"></a>Fifty Years of Wonder
 
 .fl
 <span class="smallcaps">When it was</span> decided that Ballantine was going to do a *Best of Edmond Hamilton* and that I was going to edit it, Ed allowed as how after nearly thirty years of being married to him I was probably better qualified than most, having *read* more Hamilton stories, and he gave me only one word of advice concerning the introduction I was to write.
@@ -325,7 +325,7 @@ So, getting briskly to it . . .
 
 Edmond Hamilton’s remarkable career spans half a century, and is still going strong. This says much for his staying power. It says even more for his ability to give the readers what they want in 1976 as well as he did in 1926. The world has changed in five decades, so much so that it is hardly the same planet. Yet Hamilton has managed, not only to keep abreast of the changes, but to stay a couple of jumps ahead of them.
 
-He was a child prodigy, but that does not seem to have affected his boyhood materially. He looks back on it as an active and happy time, full of the normal fun and scrapes and pummellings. Only one thing set him apart from his playmates. He read, everything he could get his hands on, and especially anything that was fantastic or science fictional. He was in college at fourteen and out again three years later, leaving his professors to wonder why a kid with a genius IQ didn’t do better at his studies. He was just too busy reading, and dreaming.
+He was a child prodigy, but that does not seem to have affected his boyhood materially. He looks back on it as an active and happy time, full of the normal fun and scrapes and pummellings. Only one thing set him apart from his playmates. He read, everything he could get his hands on, and especially anything that was <a id="pagex"></a>fantastic or science fictional. He was in college at fourteen and out again three years later, leaving his professors to wonder why a kid with a genius IQ didn’t do better at his studies. He was just too busy reading, and dreaming.
 
 He had planned to be an electrical engineer. But when the crunch came, he knew what he really wanted to be, what he *had* to be, and that was a writer of fiction—specifically, of science fiction.
 
@@ -335,7 +335,7 @@ Having sold that all-important first story, Hamilton sold the next forty without
 
 You might suppose that Hamilton waxed rich and fat on the proceeds of those forty quick sales, that he indulged himself in Stutz Bearcats and mink-lined polo coats. Far from it. Things are better now, but in those days the going price for a science-fiction story, in the very few and very small magazines that published them, was around thirty dollars, generally on publication, which could be a year or more after acceptance. And even then it was sometimes necessary to catch up with the publisher, knock him down, and sit on him until he signed the check. Science fiction then was written for love, or because of mental inbalance, but not for money.
 
-During the 20s and 30s the “mad scientist” story was very popular, and Hamilton wrote a number of them, notably “The Man Who Evolved,” which appeared in the old Gernsback *Wonder Stories* in February of 1931, and “Fessenden’s Worlds,” in *Weird Tales* for April 1937. The first carries the question of man’s future evolution to its logical and quite chilling conclusion; the story is also a fine example of Hamilton’s skill in encapsulating an enormous theme into the neat and perfect compass of a short story. The second, a classic which has been translated into almost every language—including Tamil and Tagalog—is a brilliantly cruel little analogue which leaves the reader thinking, and thinking again. Here too the theme is condensed into a rapier point more piercing than is possible with any novel.
+During the 20s and 30s the “mad scientist” story was very popular, and Hamilton wrote a number of them, notably “The Man Who Evolved,” which appeared in the old Gernsback *Wonder Stories* in February of 1931, and “Fessenden’s Worlds,” in *Weird Tales* for April 1937. The first carries the question of man’s future <a id="pagexi"></a>evolution to its logical and quite chilling conclusion; the story is also a fine example of Hamilton’s skill in encapsulating an enormous theme into the neat and perfect compass of a short story. The second, a classic which has been translated into almost every language—including Tamil and Tagalog—is a brilliantly cruel little analogue which leaves the reader thinking, and thinking again. Here too the theme is condensed into a rapier point more piercing than is possible with any novel.
 
 But Hamilton was writing other things as well; stories which earned him the nickname of World-Wrecker, or World-Saver. He was an innovator from the first, and let it be said that he did not think small. In a day when science fiction was concerned chiefly with laboratories and test tubes, he wanted the stars. And he got them. His Interstellar Patrol stories set the pattern for the many others that followed later on. He invented the spacesuit. He was the first to take a man *outside* a spaceship, for what we now call a “space walk.” He wrote about the “great booming suns of outer space”—and if they don’t boom, they by God ought to!—and the readers loved it. Hamilton more than anybody opened up the horizons of science fiction, taking it out beyond Earth, out beyond the solar system, out to the farthest star, and still outward and onward to other galaxies.
 
@@ -343,13 +343,13 @@ But Hamilton was writing other things as well; stories which earned him the nick
 
 He was an innovator also in the realm of ideas. A born bibliophile, his reading was not restricted to fiction of any sort, but roved over all the world’s treasure of literature, history, and philosophy, and he was not above having Big Thinks, though he seldom waved them at people.
 
-He became irritated with the stereotypical rendering of Earthmen as heroes with a divine right to conquer other planets, which were always inhabited by stereotypical nasty monsters. “A Conquest of Two Worlds,” which appeared in Gernsback’s *Wonder Stories* in February of 1932, was a landmark story that made a profound impression on its readers. In a remarkably realistic, bitter, and downbeat fashion, it questioned the philosophy of the “Earthman’s burden” and the rightness of territorial wars, and it portrayed the aliens as sympathetic victims of aggression rather than the brainless menaces of the “look-out-they’re-coming-over-the-rocks” type of thing which was so common in those days. Atom bombs are tossed about here with rather too much abandon, even assuming small tactical weapons; but then, the happy folk of 1932 had never seen an atom bomb and could only guess at what it might do. This is a technicality, and in no way lessens the power of the story.
+He became irritated with the stereotypical rendering of Earthmen as heroes with a divine right to conquer other planets, which were always inhabited by stereotypical nasty monsters. “A Conquest of Two Worlds,” which appeared in Gernsback’s *Wonder Stories* in February of 1932, was a landmark story that made a <a id="pagexii"></a>profound impression on its readers. In a remarkably realistic, bitter, and downbeat fashion, it questioned the philosophy of the “Earthman’s burden” and the rightness of territorial wars, and it portrayed the aliens as sympathetic victims of aggression rather than the brainless menaces of the “look-out-they’re-coming-over-the-rocks” type of thing which was so common in those days. Atom bombs are tossed about here with rather too much abandon, even assuming small tactical weapons; but then, the happy folk of 1932 had never seen an atom bomb and could only guess at what it might do. This is a technicality, and in no way lessens the power of the story.
 
 At about the same time, Hamilton wrote another short novel on another theme, the first landing of a manned spacecraft on Mars. He wrote it for the same reason. He was fed up with the easy assumptions about spaceflight, which had clever geniuses tinkering up spaceships in their back yards and making incredible voyages with no thought at all for any of the actual problems that would be involved. He was convinced that if spaceflight were ever to be achieved, it would be done only through a massive national effort, requiring enormous expenditure of money and manpower, and he did not believe that manned landings on other worlds would be achieved without danger and loss. He wrote a realistic story of how he thought things would be, and every editor in the business turned it down. Too grim, they said; the readers wouldn’t accept it. So the story was tucked away in the files and forgotten. But if an old story is any good it never dies, it only gets rewritten, and more of this later on.
 
 A streak of misanthropy shows through occasionally in some of Hamilton’s writings. One feels, in his earlier stories, that he really preferred aliens to humans. In “The Accursed Galaxy” he went even farther than that in offering a really startling explanation of the expanding universe. And he might just be right!
 
-So this was the early Hamilton, prodigal of fresh ideas, pounding out stories of crashing suns and thundering worlds, of nebulae bright and dark and unimaginable menaces from outer space. Sense of wonder? Oh, yes. If his body was forced to inhabit a dull mundane world, his mind was free to wander the universe, and he found there the stuff that myths are made of, heroes and demons, superhuman adventures, beauty and terror.
+So this was the early Hamilton, prodigal of fresh ideas, pounding out stories of crashing suns and thundering worlds, of nebulae bright and dark and unimaginable menaces from outer space. Sense of wonder? <a id="pagexiii"></a>Oh, yes. If his body was forced to inhabit a dull mundane world, his mind was free to wander the universe, and he found there the stuff that myths are made of, heroes and demons, superhuman adventures, beauty and terror.
 
 There were smaller myths, lovely fragile things that were almost completely overlooked by the people who called him World-Wrecker and World-Saver. Perhaps it was because he did his lapidary work in the short-story form, so that it lacked the impact of his novels. It is only in comparatively recent years that Hamilton’s true literary talent has come to be recognized.
 
@@ -359,7 +359,7 @@ Hamilton seems to manage this without effort. And not only does the form change,
 
 “Child of the Winds,” which appeared in *Weird Tales* in May of 1936, is sheer fantasy, a beautiful and graceful tale that leaves the reader with a poignant sense of loss even though the love story involved has come to a happy conclusion—or has it?
 
-Two years later, in July of 1938, *Weird Tales* published what many people consider to be the best of all the Hamilton stories of that period, equalled but not surpassed by anything he has done since. “He That Hath Wings” became an instant classic. It is, simply, the story of a child born with wings, and how that affects him in the time of his growing up, and in the time of his maturity when he falls in love and has to choose between a normal Earthly life and the freedom of the skies. Hamilton’s ability to think himself inside the skin of another being, to know what it would feel like to be something other than an ordinary mortal, is nowhere more evident than in this unforgettable tale.
+Two years later, in July of 1938, *Weird Tales* published what many people consider to be the best of all the Hamilton stories of that period, equalled but not surpassed by anything he has done since. “He That <a id="pagexiv"></a>Hath Wings” became an instant classic. It is, simply, the story of a child born with wings, and how that affects him in the time of his growing up, and in the time of his maturity when he falls in love and has to choose between a normal Earthly life and the freedom of the skies. Hamilton’s ability to think himself inside the skin of another being, to know what it would feel like to be something other than an ordinary mortal, is nowhere more evident than in this unforgettable tale.
 
 Quite different from these two, both in mood and in theme, is “In the World’s Dusk,” published in *Weird Tales* in 1936. Hamilton sold a great many stories to *Weird Tales*. The magazine, under the brilliant guidance of Farnsworth Wright, offered a unique market, since there were no arbitrary bans against any type of story so long as it fitted into the general editorial policy. Science fiction, fantasy, the supernatural—anything went, and there were no prescribed limits to a writer’s imagination. “In the World’s Dusk” could be called a science fantasy, but it is chiefly an exercise in mood. The doom-haunted, somber claustrophobia of this one is worthy of Poe.
 
@@ -369,7 +369,7 @@ By contrast, Hamilton wrote an occasional humorous story. Two of the best of the
 
 After the late 30s, of course, came the early 40s, and the war, and the paper shortage, and the end of the Pulp Era. Some of the science-fiction magazines died outright. The survivors were forced to cut back severely, going bimonthly or quarterly and living on their inventories.
 
-Hamilton was not at first greatly worried about the shrinking market. He volunteered for service, was put in 1B because of a sinus condition, and then was called up only to be caught at the last minute by the “over-38” edict. He kept on trying. He even volunteered for the Merchant Marine, but when he learned that the only rating open to him was that of cook, he decided—mercifully, for the health and well-being of merchant seamen—to go back to writing.
+Hamilton was not at first greatly worried about the shrinking market. He volunteered for service, was put <a id="pagexv"></a>in 1B because of a sinus condition, and then was called up only to be caught at the last minute by the “over-38” edict. He kept on trying. He even volunteered for the Merchant Marine, but when he learned that the only rating open to him was that of cook, he decided—mercifully, for the health and well-being of merchant seamen—to go back to writing.
 
 Because of the dearth of science-fiction magazines, it became necessary to turn to other fields in order to keep afloat. He became one of the two or three top writers for *Batman* and *Superman* comics, and this took up much of his time and energy for nearly twenty years. During the 40s, however, he turned out the classic “Star-Kings,” which did not see the light for several years, until the market opened up again, and a number of shorter stories. Among the best of these are the O. Henry-ish short-short “Exile,” a look at a quaint and not unpleasant postatomic Earth called “Day of Judgment,” and one of my own favorites, “Alien Earth.” This one seems to have been pretty well overlooked, and I don’t know why.
 
@@ -377,7 +377,7 @@ It was inspired by a film which featured some stunning time-lapse photography of
 
 In the 50s the science-fiction market expanded again—ballooned might be a better word—and there were many new faces and new names and new mastheads in the business. New ideas came with them. It was a time of good growth. And it was the time when Hamilton, with no great urging, brought forth his file of unsold stories (there were remarkably few of them) for his recently acquired wife to look at and perhaps see something worth salvaging.
 
-The one that sprang instantly to the forefront was the story he had done way back in the 30s, that too grim and realistic account of the first manned landing on Mars. It was a great story, and times had changed. So had editorial policies. It only needed to be brought up to date.
+<a id="pagexvi"></a>The one that sprang instantly to the forefront was the story he had done way back in the 30s, that too grim and realistic account of the first manned landing on Mars. It was a great story, and times had changed. So had editorial policies. It only needed to be brought up to date.
 
 But he did more than that. He trimmed it and turned it around for a different point of attack, and came up with “What’s It Like Out There?”, unquestionably one of the finest science-fiction stories ever done by anyone.
 
@@ -387,13 +387,13 @@ Because of this, Hamilton was able to segue easily into the 50s and 60s, when st
 
 “Requiem,” which appeared in *Amazing Stories* in April of 1964, is one of Hamilton’s favorites, and one of mine. Again, here is a big theme handled in brief compass, with telling effect.
 
-“The Pro,” which he did for Avram Davidson at *The Magazine of Fantasy and Science Fiction* in 1964, has a less cosmic theme than “Requiem,” but it is a more universal one: a father—son relationship in a situation that is no longer science fictional, but very real.
+<a id="pagexvii"></a>“The Pro,” which he did for Avram Davidson at *The Magazine of Fantasy and Science Fiction* in 1964, has a less cosmic theme than “Requiem,” but it is a more universal one: a father—son relationship in a situation that is no longer science fictional, but very real.
 
 The little story “Castaway” was done on assignment. Sam Moskowitz was putting together an anthology about Edgar Allan Poe, and he asked Hamilton for something on that subject, in about three thousand words. Now, this kind of thing—doing a story to order, on a subject chosen by someone else, in a length dictated by someone else—is referred to in some of the loftier circles as “hackwork.” And, to be sure, if "the writer is indeed a hack, i.e., one who will write anything at all for money, without love, without joy, without pride, it can be. But if the writer is sufficiently skilled in his craft to accept the dictates of length and subject and within those limits to shape a story with love and pride and pleasure, he can turn out a gem like this one. I call this being a professional in the best sense of the word; an artist who has control of his talent, rather than being always subject to its whim.
 
 Many things have happened in the real world since Hamilton began spinning his fantasies in 1926. There have been enormous advances in technology. The two faces of atomic power have been revealed to us, the Savior/Destroyer who haunts us daily with promises of unlimited energy and equally unlimited catastrophe. Our view of the universe has altered. One of Hamilton’s early yarns was mined by the untimely discovery of Pluto. Now we discuss black holes and probe into distant galaxies. Even conservative scientists admit the possibility of intelligent life, other than our own, somewhere in this vast jungle of stars we call the Milky Way, and the mention of spaceflight no longer brings a derisive laugh from the listener.
 
-For Hamilton, it all came true. He sat in the press box at Cape Kennedy and watched Apollo 12 take off in flame and thunder, just as he had written it a hundred times, and there was a thrill to it that no child of the space age will ever quite know. He had predicted, accurately, the year when men would first land on the moon, but he never really believed that it would actually happen while he was still around to see it. Now that it has happened, and the first step into a wider universe has been taken, he profoundly hopes that mankind will not falter and turn back. The future is Out There.
+For Hamilton, it all came true. He sat in the press box at Cape Kennedy and watched Apollo 12 take off in flame and thunder, just as he had written it a hundred times, and there was a thrill to it that no child of the space age will ever quite know. He had predicted, accurately, the year when men would first land on the <a id="pagexviii"></a>moon, but he never really believed that it would actually happen while he was still around to see it. Now that it has happened, and the first step into a wider universe has been taken, he profoundly hopes that mankind will not falter and turn back. The future is Out There.
 
 One serious mistake he made—the same mistake that nearly all of us made who were writing in the pre-Sputnik years—was in the assumption that when man did achieve spaceflight he would also have achieved maturity, and there would be a World Government of law and reason, and we would have no more wars. That, unfortunately, has not come true.
 
@@ -667,7 +667,7 @@ We stared at him. “Are you trying to spoof us?” I asked finally.
 
 We were startled. “What do you mean?”
 
-“I mean that I have found in the cosmic rays the cause of evolution, the answer to the first question, and that tonight by means of them I am going to answer the second question and find out what the future evolutionary development of man will be!”
+“I mean that I have found in the cosmic rays the cause of evolution, the answer to the first question, and <a id="page22"></a>that tonight by means of them I am going to answer the second question and find out what the future evolutionary development of man will be!”
 
 “But how could you possibly—”
 
@@ -931,7 +931,7 @@ Or is this evolutionary cycle we saw a cycle in appearance only, is there some c
 
 a_conquest_of_two_worlds
 
-# A Conquest of Two Worlds
+# <a id="page36"></a>A Conquest of Two Worlds
 
 .fl
 <span class="smallcaps">Jimmy Crane, Mart Halkett</span> and Hall Burnham were students together in a New York technical school in the spring when Gillen’s flight changed the world. Crane, Halkett and Burnham had been an inseparable trio since boyhood. They had fought youthful foes together, had wrestled together with their lessons, and now read together, as an amazed world was reading, of Ross Gillen’s stupendous exploit.
@@ -1072,7 +1072,9 @@ Halkett went up to Burnham’s post in northern Mars sick at heart. He told Burn
 
 “I can’t stand this any longer, Burn,” he said. “I mean what we’ve done to this world—the Martians, its people, almost wiped out and those left treated the way they are.”
 
-Burnham looked keenly at him. “You’re taking it too hard, Halkett,” he said. “It’s been a tough time, I admit, but that’s all over now the Martians are conquered.” “Conquered—wiped out, I say again,” Halkett said bitterly. “Burnham, I dream about it sometimes—those waves of furry stilt-men coming on and on toward certain death, and my atom-blasts mowing them down like grass.”
+Burnham looked keenly at him. “You’re taking it too hard, Halkett,” he said. “It’s been a tough time, I admit, but that’s all over now the Martians are conquered.”
+
+“Conquered—wiped out, I say again,” Halkett said bitterly. “Burnham, I dream about it sometimes—those waves of furry stilt-men coming on and on toward certain death, and my atom-blasts mowing them down like grass.”
 
 “They had to be conquered,” Burnham argued. “Isn’t it worth it? Look at all this planet’s resources thrown open to real use now instead of lying unused.”
 
@@ -1624,7 +1626,7 @@ It was too dark for him to look for berries. He sat watching the girl eat. The s
 
 “Go ahead, eat it,” Lita told him, handing him one of the roasted bits. “No matter how bad it is, it’s only reasonable to eat anything that will keep you living, isn’t it?”
 
-## Chapter III<br />A WORLD OF TURMOIL
+## <a id="page82"></a>Chapter III<br />A WORLD OF TURMOIL
 
 .space
 Allan’s face cleared and he nodded troubledly. It certainly was only reasonable to eat what was at hand in necessity. “I don’t think I can do it, though,” he said, eyeing the browned bit.
@@ -2027,7 +2029,7 @@ Zintnor’s world, Mars, was next. The fiery Martian chafed impatiently until it
 
 Pluto, Neptune, Uranus, Saturn, Jupiter and Mars under way—and Earth next. Already Runnal of Earth was starting his planet after the others. And now, as his world and its single moon started out after Mars and the others, something tightened in the throats of all of us who watched; something strange that we felt at seeing Earth leaving the Sun.
 
-Earth, the parent-world of our human race, had always had a special place in our hearts. Even those of us whose ancestors for a thousand generations back have been bom on Pluto or Saturn or one of the other worlds, feel somehow when we visit Earth for the first time that we are getting home. The green planet with its beautiful moon is more than just one of the nine worlds, and so it was with more than ordinary emotion that we now watched it go.
+Earth, the parent-world of our human race, had always had a special place in our hearts. Even those of us whose ancestors for a thousand generations back have been born on Pluto or Saturn or one of the other worlds, feel somehow when we visit Earth for the first time that we are getting home. The green planet with its beautiful moon is more than just one of the nine worlds, and so it was with more than ordinary emotion that we now watched it go.
 
 Now only Venus and my own world of Mercury were left, and the time was at hand for Venus to start.
 
@@ -2047,7 +2049,7 @@ Instantly the control-tower, the whole planet, was shaken by a shuddering convul
 
 Mercury lurched and swayed as I steered the planet outward. Ahead moved the column of the eight other planets, eight mighty worlds thundering through the void toward the distant yellow star, with Pluto leading and the other worlds with their families of moons solemnly following. And as Mercury moved after them with increasing speed, the light faded on its surface and its atmosphere began to freeze and fall in great flakes. I looked back at the sun we were leaving.
 
-There it spun, the crimson sun, old, waning, dying. Planetless now, the nine worlds that long ago had been bom from it leaving it. And as Mercury left it last of all, the significance of it struck home to my heart. We were leaving the sun where mankind and its world had come into existence, the sun that for millions of generations had been *the* sun, the sun beneath which man had grown great.
+There it spun, the crimson sun, old, waning, dying. Planetless now, the nine worlds that long ago had been born from it leaving it. And as Mercury left it last of all, the significance of it struck home to my heart. We were leaving the sun where mankind and its world had come into existence, the sun that for millions of generations had been *the* sun, the sun beneath which man had grown great.
 
 I flung back my hand wordlessly toward that diminishing, dying star. I wanted to speak to it as though to a dying, conscious parent whom we were leaving, but I could only make that gesture. And in that gesture, as my world sped out after the other worlds into the great void with its atmosphere freezing and falling, man bade farewell to his sun for ever.
 
@@ -2351,7 +2353,7 @@ Hurg shook his head, gestured widely from Vira out toward the universe’s thron
 
 the_man_who_returned
 
-# The Man Who Returned
+# <a id="page121"></a>The Man Who Returned
 
 .fl
 <span class="smallcaps">John Woodford in</span> his first moments of returning consciousness was not aware that he was lying in his coffin. He had only a dull knowledge that he lay in utter darkness and that there was a close, heavy quality in the air he breathed. He felt very weak and had only a dim curiosity as to where he was and how he had come there.
@@ -2610,7 +2612,7 @@ Stiffly he climbed over the low stone wall and made his way through the cemetery
 
 He reached it and tried its iron doors anxiously. Suppose he had locked them when he left! But to his relief they swung open, and he entered and shut them. It was dark inside, but he was out of the wind and snow now and his numbed body felt a little relief.
 
-Woodford sat down in the comer of the vault. It was a shelter for the night, at least. It seemed rather ironic that he had had to come back here for shelter, but it was something to be thankful for that he had even this. In the morning, when the storm was over, he could leave without anyone seeing and get out of the city.
+Woodford sat down in the corner of the vault. It was a shelter for the night, at least. It seemed rather ironic that he had had to come back here for shelter, but it was something to be thankful for that he had even this. In the morning, when the storm was over, he could leave without anyone seeing and get out of the city.
 
 He sat listening to the wind and snow shriek outside. The stone floor of the vault was very cold, so cold that he felt his limbs stiffening and cramping, and finally he stood up unsteadily and paced to and fro in the vault, chafing his arms and hands.
 
@@ -2875,13 +2877,15 @@ They emerged into the crushed clearing where the enigmatic polyhedron still glow
 
 “Why, of course I know how to use this stuff on the polyhedron. It’s simple enough.”
 
-Garry stared at him again. “You’ve remembered?” “Of course,” the scientist answered confidently. “Hand me that biggest box marked barium oxide, and two of those containers. We’ll soon have the polyhedron open.”
+Garry stared at him again. “You’ve remembered?”
+
+“Of course,” the scientist answered confidently. “Hand me that biggest box marked barium oxide, and two of those containers. We’ll soon have the polyhedron open.”
 
 The reporter, his jaw hanging in surprise, watched Peters start confidently to work with the supplies. Chemicals foamed together in the containers as rapidly as he mixed them.
 
 He worked swiftly, smoothly, without asking any aid of the reporter. He had an utter efficiency and utter confidence, so dissimilar to his attitude of a few minutes
 
-before, that an incredible idea was bom and grew in Garry Adams’ mind.
+before, that an incredible idea was born and grew in Garry Adams’ mind.
 
 He said suddenly to Peters. “Doctor, you know completely what you’re doing now?”
 
@@ -3162,9 +3166,9 @@ In his high tower, Galos Gann watched as moon after moon was born and waxed and 
 
 He said to himself, “These are not wholly living—something there was that my powers could not bring back from death. But even such as they are, they will serve to give mankind a new start in the universe.”
 
-The slow months passed and at last to one of the dead couples living in the city, a child was bom. High flared the hopes of Galos Gann when he heard, and great was his excitement as he hastened through the city to see. But when he saw the child, he felt his heart grow cold. For this infant was like the parents of whom it was bom, it was not wholly living. It moved and saw and uttered sounds, but its movements and cries were stiff and strange, and its eyes had death behind them.
+The slow months passed and at last to one of the dead couples living in the city, a child was born. High flared the hopes of Galos Gann when he heard, and great was his excitement as he hastened through the city to see. But when he saw the child, he felt his heart grow cold. For this infant was like the parents of whom it was born, it was not wholly living. It moved and saw and uttered sounds, but its movements and cries were stiff and strange, and its eyes had death behind them.
 
-Not wholly yet did Galos Gann give up. hope in his great plan. He waited for another child to be bom, but the next child too was the same.
+Not wholly yet did Galos Gann give up. hope in his great plan. He waited for another child to be born, but the next child too was the same.
 
 Then indeed did his faith and hope perish. He called the dead citizens of Zor together and spoke to them. He said:
 
@@ -3172,7 +3176,7 @@ Then indeed did his faith and hope perish. He called the dead citizens of Zor to
 
 Out of the gaunt-eyed throng a dead man answered him.
 
-“Death cannot bring forth life any more than light can be bom of darkness. Despite your words we know that we are dead, and we can give birth only to death. Now be convinced of the futility of your mad scheme and allow us to return to the peace of death, and let the race of man come peacefully to its destined end.”
+“Death cannot bring forth life any more than light can be born of darkness. Despite your words we know that we are dead, and we can give birth only to death. Now be convinced of the futility of your mad scheme and allow us to return to the peace of death, and let the race of man come peacefully to its destined end.”
 
 Galos Gann told them darkly, “Return then to the nothingness you crave, since you cannot serve my purpose. But know that not now and not ever shall I relinquish my purpose to perpetuate the race.”
 
@@ -3217,7 +3221,7 @@ Then he understood. By dint of superhuman science he had contrived to bring thei
 
 So again and again in the nights and days that followed, he operated the great mechanism and with its potent grasp snatched many scores of men and women out of their proper time and brought them across the millenniums to Zor. But always, though he brought their bodies through unharmed, he could not bring their minds; so that it was only mad men and women who came from the cylinder, out of every age and land.
 
-These mad people dwelt in Zor in a most frightful fashion, roaming its streets so that no comer of the city was beyond the sound of their insane shrieking. They ascended the somber towers and raved and gibbered from them at the dead city and at the barren desert beyond it. It seemed that even the insensate city grew fearful of the crazed horde whom it housed, for die city of the mad was more awful than had been the city of the dead.
+These mad people dwelt in Zor in a most frightful fashion, roaming its streets so that no corner of the city was beyond the sound of their insane shrieking. They ascended the somber towers and raved and gibbered from them at the dead city and at the barren desert beyond it. It seemed that even the insensate city grew fearful of the crazed horde whom it housed, for die city of the mad was more awful than had been the city of the dead.
 
 Finally Galos Gann ceased to draw men and women out of the past, for he saw that never could he hope to bring them through sane. For a time he strove to replace the minds of these crazed people which had been destroyed. But he saw that that too was beyond the power of any material science.
 
@@ -3439,7 +3443,7 @@ And just as the winds had lessened a girl had appeared, a girl with gray-green e
 
 Brent sat up, and discovered he had been lying on some soft skin rugs. He looked about him in the dark.
 
-Gradually he made out that he was in a rocky chamber or natural cavern of considerable size. Fruits of different kinds and flowers and skins lay about, and a spring gleamed in the comer. At one end of the cavern a round aperture opened on a sky of thick stars.
+Gradually he made out that he was in a rocky chamber or natural cavern of considerable size. Fruits of different kinds and flowers and skins lay about, and a spring gleamed in the corner. At one end of the cavern a round aperture opened on a sky of thick stars.
 
 Bewildered, he got to his feet and walked out of that opening. Out there in the starlight he saw that the cavern in which he had lain was in a towering pinnacle of weathered rock, and that another pinnacle was close by. But how had he come to these pinnacles?
 
@@ -3933,7 +3937,7 @@ He added, grinning sardonically, “Come along to the laboratory, Bradley, and s
 
 I followed his tall, powerful figure along the corridor. I did think now that his isolation and the ridicule his radical theories had evoked must have touched his mind. But still he must have something to show me, and I was eager to see what it was.
 
-The laboratory was a long, stone-walled room whose walls were crowded with shelves of chemical and physical apparatus, and whose comers held great electrical mechanisms. Much of the equipment I saw was strange to my eyes. Then my gaze fastened on the thing at the center of the laboratory.
+The laboratory was a long, stone-walled room whose walls were crowded with shelves of chemical and physical apparatus, and whose corners held great electrical mechanisms. Much of the equipment I saw was strange to my eyes. Then my gaze fastened on the thing at the center of the laboratory.
 
 It consisted of two twelve-foot metal disks with gridlike surfaces, one on the floor and one on the ceiling directly over the other. They were connected by cables to the electrical machinery, and their grid-like surfaces shone faintly with wan blue light or force.
 
@@ -4515,11 +4519,11 @@ The nurse hesitated. “A fine, healthy little boy, except——”
 
 “Except that he is humpbacked, doctor.”
 
-Doctor Harriman swore in pity. “What horrible luck for the poor little devil! Bom an orphan, and deformed, too.” He said with sudden decision, “I’ll look at the infant. Perhaps we could do something for him.”
+Doctor Harriman swore in pity. “What horrible luck for the poor little devil! Born an orphan, and deformed, too.” He said with sudden decision, “I’ll look at the infant. Perhaps we could do something for him.”
 
 But when he and the nurse bent together over the crib in which red-faced little David Rand lay squalling lustily, the doctor shook his head. “No, we can’t do anything for that back. What a shame!”
 
-David Rand’s little red body was as straight and clean-lined as that of any baby ever bom—except for his back. From the back of the infant’s shoulder-blades jutted two humped projections, one on each side, that curved down toward the lower ribs.
+David Rand’s little red body was as straight and clean-lined as that of any baby ever born—except for his back. From the back of the infant’s shoulder-blades jutted two humped projections, one on each side, that curved down toward the lower ribs.
 
 Those twin humps were so long and streamlined in their jutting curve that they hardly looked like deformities. The skilful hands of Doctor Harriman gently probed them. Then an expression of perplexity came over his face.
 
@@ -4575,7 +4579,7 @@ He looked a little wildly down at the infant. It had stopped crying and now wave
 
 “It just isn’t possible,” said the nurse, taking refuge in incredulity. “How could a baby, a man, have wings?”
 
-Doctor Harriman said swiftly, “It’s due to a deep change in the parents’ genes. The genes, you know, are the tiny cells which control bodily development in every living things that is bom. Alter the gene-pattern and you alter the bodily development of the offspring, which explains the differences in color, size, and so forth, in children. But those minor differences are due to comparatively minor gene-changes.
+Doctor Harriman said swiftly, “It’s due to a deep change in the parents’ genes. The genes, you know, are the tiny cells which control bodily development in every living things that is born. Alter the gene-pattern and you alter the bodily development of the offspring, which explains the differences in color, size, and so forth, in children. But those minor differences are due to comparatively minor gene-changes.
 
 “But the gene-pattem of this child’s parents was radically changed a year ago. The electrical explosion in which they were injured must have deeply altered their gene-pattems, by a wave of sudden electrical force. Muller, of the University of Texas, has demonstrated that gene-pattems *can* be greatly altered by radiation, and that the offspring of parents so treated will differ greatly from their parents in bodily form. That accident produced an entirely new gene-pattem in the parents of
 
@@ -4616,7 +4620,7 @@ Harriman said shortly, “We can’t tell just what his development will be like
 
 Doctor Harriman permitted a few pictures, and then unceremoniously shoved the visitors out. But there was no holding the newspapers, after that. David Rand’s name became overnight the best known in the world. The pictures convinced even the most skeptical of the public.
 
-Great biologists made long statements on the theories of genetics which could explain the child. Anthropologists speculated as to whether similar freak winged men had not been bom a few times in the remote past, giving rise to the worldwide legends of harpies and vampires and flying people. Crazy sects saw in the child’s birth an omen of the approaching end of the world.
+Great biologists made long statements on the theories of genetics which could explain the child. Anthropologists speculated as to whether similar freak winged men had not been born a few times in the remote past, giving rise to the worldwide legends of harpies and vampires and flying people. Crazy sects saw in the child’s birth an omen of the approaching end of the world.
 
 Theatrical agents offered immense sums for the privilege of exhibiting David in a hygienic glass case. Newspapers and press services outbid each other for exclusive rights to the story Doctor Harriman could tell. A thousand firms begged to purchase the right to use little David’s name on toys, infant foods, and what not.
 
@@ -4895,7 +4899,7 @@ Then that spring Ruth shyly told him something. “David, next fall—a child of
 
 He was startled. “Ruth, dear!” Then he asked, “You’re not afraid that it might be——”		
 
-She shook her head confidently. “No. Doctor White says there is no chance that it will be bom abnormal as you were. He says that the different gene-characters that caused you to be bom with wings are bound to be a recessive character, not a dominant, and that there is no chance of that abnormality being inherited. Aren’t you glad?”
+She shook her head confidently. “No. Doctor White says there is no chance that it will be born abnormal as you were. He says that the different gene-characters that caused you to be born with wings are bound to be a recessive character, not a dominant, and that there is no chance of that abnormality being inherited. Aren’t you glad?”
 
 “Of course,” he said, holding her tenderly. “It’s going to be wonderful.”
 
@@ -5673,7 +5677,7 @@ But Berreau had tightened up. He chose his words now. “The Laos tribes have so
 
 Farris shrugged. “I’ve seen some queer Asian witchcraft, in my time. But this is unbelievable!”
 
-“It is science, not witchcraft,” Berreau corrected. “Primitive science, bom long ago and transmitted by tradition. That man you saw in the forest was under the influence of a chemical not found in our pharmacopeia, but none the less potent.”
+“It is science, not witchcraft,” Berreau corrected. “Primitive science, born long ago and transmitted by tradition. That man you saw in the forest was under the influence of a chemical not found in our pharmacopeia, but none the less potent.”
 
 “You mean that these tribesmen have a drag that can slow the life-process to that incredibly slow tempo?” Farris asked skeptically. “One that modem science doesn’t know about?”
 
@@ -5946,7 +5950,7 @@ Farris stared. “But how did you get taken into this queer secret worship?”
 
 The other man shrugged. “The worshippers were grateful to me, because I had saved the forests here from possible death.”
 
-He walked across to the comer of the room that was fited as a botanical laboratory, and took down a test-tube. It was filled with dusty, tiny spores of a leprous, gray-green color.
+He walked across to the corner of the room that was fited as a botanical laboratory, and took down a test-tube. It was filled with dusty, tiny spores of a leprous, gray-green color.
 
 “This is the Burmese Blight, that’s withered whole great forests down south of the Mekong. A deadly thing, to tropical trees. It was starting to work up into this Laos country, but I showed the tribes how to stop it. The secret hunati sect made me one of them, in reward.”
 
@@ -6061,7 +6065,7 @@ She was, he saw, on the brink of hysterics. He didn’t wonder. The slow, pulsin
 
 He acceded. “All right. But wait till I get something.”
 
-He went back to Berreau’s room and took a big bolo-knife he had seen leaning in a comer. Then he saw something else, something glittering in the pulsing light, on the botanist’s laboratory-table.
+He went back to Berreau’s room and took a big bolo-knife he had seen leaning in a corner. Then he saw something else, something glittering in the pulsing light, on the botanist’s laboratory-table.
 
 Farris stuffed that into his pocket. If force couldn’t bring Berreau back, the threat of this other thing might influence him.
 
@@ -6306,13 +6310,17 @@ The plane was lifting, and I looked out at the Arizona desert sliding by close u
 
 “Different,” I said. “It’s different.”
 
-The answer seemed to satisfy him completely. ‘Til just bet it is,” he said. “Are you going home, Mr.—” “Haddon. Sergeant Frank Haddon.”
+The answer seemed to satisfy him completely. ‘Til just bet it is,” he said. “Are you going home, Mr.—”
+
+“Haddon. Sergeant Frank Haddon.”
 
 “You going home, Sergeant?”
 
 “My home’s back in Ohio,” I told him. ‘Tm going in to L.A. to look up some people before I go home.”
 
-“Well, that’s fine. I hope you have a good time, Sergeant. You deserve it. You boys did a great job out there. Why, I read in the newspapers that after the U.N. sends out a couple more expeditions, we’ll have cities out there, and regular passenger lines, and all that.” “Look,” I said, “that stuff is for the birds. You might as well build cities down there in Mojave, and have them a lot closer. There’s only one reason for going to Mars now, and that’s uranium.”
+“Well, that’s fine. I hope you have a good time, Sergeant. You deserve it. You boys did a great job out there. Why, I read in the newspapers that after the U.N. sends out a couple more expeditions, we’ll have cities out there, and regular passenger lines, and all that.”
+
+“Look,” I said, “that stuff is for the birds. You might as well build cities down there in Mojave, and have them a lot closer. There’s only one reason for going to Mars now, and that’s uranium.”
 
 I could see he didn’t quite believe me. “Oh, sure,” he said, “I know that’s important too, the uranium we’re all using now for our power-stations—but that isn’t all, is it?”
 
@@ -6320,7 +6328,9 @@ I could see he didn’t quite believe me. “Oh, sure,” he said, “I know tha
 
 “But look, Sergeant, this newspaper article said—” I didn’t say anything more. By the time he’d finished telling about the newspaper article, we were coming down into L.A. He pumped my hand when we got out of the plane.
 
-“Have yourself a time, Sergeant! You sure rate it . . . I hear a lot of chaps on Two didn’t come back.” “Yeah,” I said. “I heard that.”
+“Have yourself a time, Sergeant! You sure rate it . . . I hear a lot of chaps on Two didn’t come back.”
+
+“Yeah,” I said. “I heard that.”
 
 I was feeling shaky again by the time I got to downtown L.A. I went in a bar and had a double bourbon and it made me feel a little better.
 
@@ -6334,7 +6344,9 @@ I said, “That’s right.”
 
 “It was a pretty dull grind, in a way,” I told him.
 
-“I’ll bet it was!” he said, as we started through traffic. “Me, I was in the army in World War Two, twenty years ago. That’s just what it was, a dull grind nine-tenths of the time. I guess it hasn’t changed any.” “This wasn’t any army expedition,” I explained. “It was a United Nations one, not an army one—but we had officers and rules of discipline like the army.”
+“I’ll bet it was!” he said, as we started through traffic. “Me, I was in the army in World War Two, twenty years ago. That’s just what it was, a dull grind nine-tenths of the time. I guess it hasn’t changed any.”
+
+“This wasn’t any army expedition,” I explained. “It was a United Nations one, not an army one—but we had officers and rules of discipline like the army.”
 
 “Sure, it’s the same thing,” said the cabby. “You
 
@@ -7302,7 +7314,9 @@ He had gone to the hangars and had got from Probe 16 the tapes that held a recor
 
 Martinsen pushed that thought out of his mind and went on with his examination. Charlies Eight and Eleven had come in by the time he finished with Sixteen, walking silently into the lab and then standing motionless on die painted numbers where their programming ended. Martinsen got the tapes from their two probes and started on them, unwilling to stop work even when the hours passed and he grew tired, unwilling to go back to the chair and sit and look at Earth.
 
-“Now why is your temperature down six degrees?” he muttered to Charlie Eight. “You went in and out of hypothermia perfectly the first time, but the second time you didn’t come quite back to normal, and . . .” “Are you out of your mind, talking to a Charlie?” Howard Ellam’s voice cut across, and Martinsen turned to find Ellam standing in the doorway, his eyes red-rimmed, his body swaying a little, but looking awake enough.
+“Now why is your temperature down six degrees?” he muttered to Charlie Eight. “You went in and out of hypothermia perfectly the first time, but the second time you didn’t come quite back to normal, and . . .”
+
+“Are you out of your mind, talking to a Charlie?” Howard Ellam’s voice cut across, and Martinsen turned to find Ellam standing in the doorway, his eyes red-rimmed, his body swaying a little, but looking awake enough.
 
 “Just thinking aloud,” Martinsen said.
 
@@ -7567,7 +7581,9 @@ Burnett was beginning to not like reporters. Some of them were friendly guys, an
 
 “That question’s a little sloppy, isn’t it?” said Burnett. “If you mean, did I think space-travel would happen . . . yes, I did.”
 
-“I’ve been reading some of your early stories. Managed to get hold of some of the old magazines . . .” “Good for you. Some of them are selling for nearly as much as I got for the stories. Go ahead.”
+“I’ve been reading some of your early stories. Managed to get hold of some of the old magazines . . .”
+
+“Good for you. Some of them are selling for nearly as much as I got for the stories. Go ahead.”
 
 “Well, Mr. Burnett, not only in your stories but in almost all the others, I was struck by the faith in space-travel they showed. Tell me, do you think the science fiction you chaps wrote helped make space-travel come true?”
 
@@ -7617,7 +7633,7 @@ You might as well forget it, for there’s nothing you can do.
 
 They had the drive in the country, and they ate something, and they went to the movie, and then there was nothing to do but go home and go to bed. Sally went to bed, anyway. He did not know if she slept. He himself stayed up, sitting in his workroom alone with his typewriter and a bottle.
 
-All around him on the walls were the framed originals of cover paintings and interior illustrations from his stories. There was one from “Stardream”, written long before Dan was bom, showing a beautiful white rocket in space, with Mars in the background. Underneath the pictures were rows of shelves filled with the end results of more than thirty years of writing, marching battalions of yellowing pulps a little frayed at the comers, paperbacks, the respectable hardcovers with their shiny jackets. This room was himself, an outer carapace compounded from his needs and his dreams, the full times when his mind flowered ideas like a spring river and the times of drought when nothing came at all, and always the work which he loved and without which he would cease to be Jim Burnett.
+All around him on the walls were the framed originals of cover paintings and interior illustrations from his stories. There was one from “Stardream”, written long before Dan was born, showing a beautiful white rocket in space, with Mars in the background. Underneath the pictures were rows of shelves filled with the end results of more than thirty years of writing, marching battalions of yellowing pulps a little frayed at the corners, paperbacks, the respectable hardcovers with their shiny jackets. This room was himself, an outer carapace compounded from his needs and his dreams, the full times when his mind flowered ideas like a spring river and the times of drought when nothing came at all, and always the work which he loved and without which he would cease to be Jim Burnett.
 
 He looked at the empty typewriter and the pages beside it and he thought that if he was going to sit up all night, he ought to go on with the story. What was it that Henry had said, years ago. . . . “A professional is a writer who can tell a story when he doesn’t feel like telling a story.” That was true, but even for an old pro, there were times. . . .
 
@@ -7717,11 +7733,11 @@ Sally gave him a smile, the kind of a smile a wife gives her husband when she se
 
 Burnett went into his workroom and closed the door. He took up the bottle in his hands and sat down in his padded chair in front of the typewriter with the empty roller and the neat stack of clean yellow sheets on one side and the thin pile of manuscript on the other. He looked at it, and he turned and looked at the shelves where thirty years of magazines and books and dreams and love and sweat and black disappointment were lined up stiff and still like paper corpses.
 
-“Your stories surely had some influence on Dan in making the choice of his career?”
+*“Your stories surely had some influence on Dan in making the choice of his career?”*
 
 “No,” said Burnett loudly, and drank.
 
-“Wouldn’t all that sort of urge him into it . . . your son . . . going to the Moon . . .”
+*“Wouldn’t all that sort of urge him into it . . . your son . . . going to the Moon . . .”*
 
 He put the cork in the bottle and set it aside. He stood up and walked to the shelves and stood by them, looking, picking out one thing and then another, the bright covers with the spaceships and the men and girls in their suits and helmets, and the painted stars and planets.
 

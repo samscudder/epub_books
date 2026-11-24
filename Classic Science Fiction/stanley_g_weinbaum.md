@@ -64,7 +64,7 @@ THESE AND THE SEVEN OTHER STORIES IN THIS COLLECTION DISPLAY THE VIGOR AND TALEN
 blurb
 
 .heading
-**“I WAS THINKING ABOUT HER—<br />AND THERE SHE WAS!”**
+<a id="pagei"></a>**“I WAS THINKING ABOUT HER—<br />AND THERE SHE WAS!”**
 
 .space.thin
 **“You’re nuts,” the captain said.**
@@ -86,7 +86,7 @@ blurb
 other_books
 
 .center
-**The Best of Stanley G. Weinbaum**
+<a id="pageii"></a>**The Best of Stanley G. Weinbaum**
 
 .fl
 launches Ballantine’s landmark series of definitive collections by the masters of science fiction. Each book will be introduced by a distinguished science-fiction writer or critic.
@@ -117,7 +117,7 @@ Volumes now in preparation:
 
 titlepage
 
-# **THE BEST OF<br/>*Stanley G. Weinbaum***
+# <a id="pageiii"></a>**THE BEST OF<br/>*Stanley G. Weinbaum***
 
 .editor
 Introduction by Isaac Asimov
@@ -138,7 +138,7 @@ BALLANTINE BOOKS • NEW YORK
 
 copyright
 
-A Del Rey Book
+<a id="pageiv"></a>A Del Rey Book
 Published by Ballantine Books
 
 Copyright © 1974 by Random House, Inc.
@@ -186,7 +186,7 @@ ACKNOWLEDGEMENTS
 “The Mad Moon”, copyright 1935, by Street & Smith Publications, Inc., for *Astounding Stories*, December, 1935. Copyright 1936, by Margaret Weinbaum.
 
 .revindent
-“Redemption Cairn”, copyright 1936, by Street & Smith Publications, Inc,, for *Astounding Stories*, March, 1936.
+“Redemption Cairn”, copyright 1936, by Street & Smith Publications, Inc., for *Astounding Stories*, March, 1936.
 
 .revindent
 “The Ideal”, copyright 1935, by Continental Publications, Inc., for *Wonder Stories*, September, 1935.
@@ -204,7 +204,7 @@ All stories in this volume included by arrangement with Forrest J. Ackerman, age
 
 contents
 
-# CONTENTS
+# <a id="pagev"></a>CONTENTS
 
 [*Introduction*: The Second Nova](introduction) *Isaac Asimov*
 
@@ -238,7 +238,7 @@ contents
 
 introduction
 
-# THE SECOND NOVA
+# <a id="pagevii"></a>THE SECOND NOVA
 
 .fl
 <span class="smallcaps">Three times</span> in the half-century history of magazine science fiction a new writer has burst into the field like a nova, capturing the imagination of the readers at once, altering the nature of science fiction and converting every other writer into an imitator. (Nor may there ever be a fourth time, for since 1939, when the third nova appeared, the field has surely grown too large and too diverse to be turned in its path by any single story by any new writer.)
@@ -255,7 +255,7 @@ E. E. Smith was the first nova.
 
 In the August 1939 issue of *Astounding Science Fiction*, there appeared the short story “Life-Line,” by a new author, Robert A Heinlein. It attracted attention at once for its low-keyed, naturalistic style, for the utter absence of histrionics or the cardboard attitudes common in most science fiction.
 
-The story did not, perhaps, instantly grab the readers and shake the field into a new form, for it was a little obscured by the nearly simultaneous appearance of the more spectacular and longer “Black Destroyer,” by A. E. van Vogt, another new writer, in the July 1939 *Astounding*. But Heinlein continued to write stories rapidly and *Astounding* continued to publish them. Within the year it became quite obvious that Robert A. Heinlein was the best living science-fiction writer.
+The story did not, perhaps, instantly grab the readers and shake the field into a new form, for it was a little obscured by <a id="pageviii"></a>the nearly simultaneous appearance of the more spectacular and longer “Black Destroyer,” by A. E. van Vogt, another new writer, in the July 1939 *Astounding*. But Heinlein continued to write stories rapidly and *Astounding* continued to publish them. Within the year it became quite obvious that Robert A. Heinlein was the best living science-fiction writer.
 
 Again readers demanded more, and again almost every writer in the field (including myself) began, more or less consciously and more or less thoroughly, to imitate Heinlein.
 
@@ -274,7 +274,7 @@ The February 1948 issue of *Astounding* carried the fourth and last installment 
 As for Heinlein, he is writing and publishing today, thirty-five years after the publication of his first story, and he has lost none of his reputation. In a recent fan-poll, he *still* finished in first place as all-time favorite science-fiction writer.
 
 .space
-The second nova appeared in 1934, just six years after Smith and just five years before Heinlein. In the July 1934 issue of *Wonder Stories*, a short story entitled “A Martian Odyssey” appeared by a never-before-published writer, Stanley G. Weinbaum.
+The second nova appeared in 1934, just six years after <a id="pageix"></a>Smith and just five years before Heinlein. In the July 1934 issue of *Wonder Stories*, a short story entitled “A Martian Odyssey” appeared by a never-before-published writer, Stanley G. Weinbaum.
 
 Observe the differences. At the time the story appeared, *Wonder* was *not* the foremost science-fiction magazine. It was, in my opinion, third in a field of three. Its publisher was indeed Hugo Gernsback, but Gernsback was no longer in the forefront of creative thinking in the field. The editor was Charles D. Hornig, who, in the history of science-fiction editing, is utterly undistinguished and whose sole claim to fame, indeed, may be the recognition of the worth of this particular story.
 
@@ -290,7 +290,7 @@ In 1970, the Science Fiction Writers of America voted on the best science-fictio
 
 Like Smith and Heinlein, Weinbaum was not a born writer. Like Smith and Heinlein, he had an engineering background (he was a chemical engineer, like Smith.) Like Smith and Heinlein, his first story was published when he was over thirty.
 
-And there the resemblance ends, for the tragic truth is that Weinbaum, even as he entered the field and became at once its leader, was a dying man.
+<a id="pagex"></a>And there the resemblance ends, for the tragic truth is that Weinbaum, even as he entered the field and became at once its leader, was a dying man.
 
 On December 14, 1935, at the age of 33, and only one and a half years after the publication of his first story, Weinbaum died of cancer and his career was over. By the time of his death, he had published twelve stories; eleven more appeared posthumously.
 
@@ -309,7 +309,7 @@ He did more than that, too; he created whole sense-making ecologies.
 
 Weinbaum had a consistent picture of the solar system (his stories never went beyond Pluto) that was astronomically correct in terms of the knowledge of the mid-1930s. He could not be wiser than his time, however, so he gave Venus a day-side and a night-side, and Mars an only moderately thin atmosphere and canals. He also took the chance (though the theory was already pretty well knocked-out at the time time) of making the outer planets hot rather than cold so that the satellites of Jupiter and Saturn could be habitable.
 
-On each of the worlds he deals with, then, he allows for the astronomic difference and creates a world of life adapted to the circumstances of that world. The super-jungle of the day-side of Venus as pictured in “Parasite Planet” is, in my opinion, the most perfect example of an alien ecology ever constructed.
+On each of the worlds he deals with, then, he allows for the astronomic difference and creates a world of life adapted to <a id="pagexi"></a>the circumstances of that world. The super-jungle of the day-side of Venus as pictured in “Parasite Planet” is, in my opinion, the most perfect example of an alien ecology ever constructed.
 
 In Weinbaum’s stories, the plots, though tightly and well-constructed, exist in the reader’s mind largely for the opportunity they present for a voyage of discovery of strange worlds and of ever-fascinating life-forms.
 
@@ -326,7 +326,7 @@ In 1938, when John Campbell took over complete control of *Astounding*, he turne
 
 But Weinbaum was a Campbell author before Campbell. “A Martian Odyssey” appeared half a year before “Twilight,” so Weinbaum is clearly one author who owed nothing to Campbell. Had Weinbaum continued producing there would have been no Campbell revolution. All that Campbell could have done would have been to reinforce what would undoubtedly have come to be called the “Weinbaum revolution.”
 
-And in Weinbaum’s giant shadow, all the Campbell authors would have found themselves less remarkable niches. Weinbaum, who would be in his early seventies now had he lived, would surely be in first place in the list of all-time favorite science-fiction writers.
+And in Weinbaum’s giant shadow, all the Campbell authors <a id="pagexii"></a>would have found themselves less remarkable niches. Weinbaum, who would be in his early seventies now had he lived, would surely be in first place in the list of all-time favorite science-fiction writers.
 
 .space.right.smallcaps
 Isaac Asimov
@@ -474,7 +474,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “Does not!” snapped Harrison. “The moon is visible from here as a fifth magnitude star. They could see its revolution with the naked eye.”
 
-“The moon, yes!” said Jarvis. “You’ve missed my point. Mercury isn’t visible! And Tweel knew of Mercury because he placed the Moon at the *third* planet, not the second. If he didn’t know Mercury, he’d put the ehrth second, and Mars third, instead of fourth! See?”
+“The moon, yes!” said Jarvis. “You’ve missed my point. Mercury isn’t visible! And Tweel knew of Mercury because he placed the Moon at the *third* planet, not the second. If he didn’t know Mercury, he’d put the earth second, and Mars third, instead of fourth! See?”
 
 “Humph!” said Harrison.
 
@@ -698,7 +698,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “From water, of course! You could see the water through the transparent handle, and about a gill of another liquid, thick and yellowish. When Tweel squeezed the handle—there was no trigger—a drop of water and a drop of the yellow stuff squirted into the firing chamber, and the water vaporized—pop!—like that. It’s not so difficult; I think we could develop the same principle. Concentrated sulphuric acid will heat water almost to boiling, and so will quicklime, and there’s potassium and sodium—
 
-“Of course, his weapon hadn’t the range of mine, but it wasn’t so had in this thin air, and it *did* hold as many shots as a cowboy’s gun in a Western movie. It was effective, too, at least against Martian life; I tried it out, aiming at one of <a id="page20"></a>the crazy plants, and darned if the plant didn’t wither up and fall apart! That’s why I think the glass splinters were poisoned.
+“Of course, his weapon hadn’t the range of mine, but it wasn’t so bad in this thin air, and it *did* hold as many shots as a cowboy’s gun in a Western movie. It was effective, too, at least against Martian life; I tried it out, aiming at one of <a id="page20"></a>the crazy plants, and darned if the plant didn’t wither up and fall apart! That’s why I think the glass splinters were poisoned.
 
 “Anyway, we trudged along toward the mud-heap city and I began to wonder whether the city builders dug the canals. I pointed to the city and then at the canal, and Tweed said ‘No—no—no!’ and gestured toward the south. I took it to mean that some other race had created the canal system, perhaps Tweel’s people. I don’t know; maybe there’s still another intelligent race on the planet, or a dozen others. Mars is a queer little world.”
 
@@ -722,7 +722,7 @@ Jarvis continued. “So—we stared at each other. Finally the creature went int
 
 “Yeah! Well, I was getting used to Tweel’s symbolism, and I figured it out this way. ‘One-one-two—yes!’ The creatures were intelligent. ‘Two-two-four—no!’ Their intelligence was not of our order, but something different and beyond the logic of two and two is four. Maybe I missed his meaning. Perhaps he meant that their minds were of low degree, able to figure out the simple things—‘One-one-two—yes!’—but not more difficult things—‘Two-two-four—no!’ But I think from what we saw later that he meant the other.
 
-“After a few moments, the creatures came rushing back—first one, then another. Their pushcarts were full of stones, sand, chunks of rubbery plants, and such rubbish as that. They droned out their friendly greeting,, which didn’t really sound so friendly, and dashed on. The third one I assumed to be my first acquaintance and I decided to have another chat with him. I stepped into his path again and waited.
+“After a few moments, the creatures came rushing back—first one, then another. Their pushcarts were full of stones, sand, chunks of rubbery plants, and such rubbish as that. They droned out their friendly greeting, which didn’t really sound so friendly, and dashed on. The third one I assumed to be my first acquaintance and I decided to have another chat with him. I stepped into his path again and waited.
 
 “Up he came, booming out his ‘We are v-r-r-riends’ and stopped. I looked at him; four or five of his eyes looked at me. He tried his password again and gave a shove on his cart, but I stood firm. And then the—the dashed creature reached out one of his arms, and two finger-like nippers tweaked my nose!”
 
@@ -1090,7 +1090,7 @@ Putz’s eyes brightened at the word. “Vater-vorks?” he echoed. “For vot?�
 
 “Huh? How do you mean?”
 
-Jarvis glanced in turn at each of the three that faced him. He hesitated. “I wonder how you chaps will take this,” he muttered. “Naturally, everybody likes his own system best.” He frowned. “Look here—on the earth we have three types of society, haven’t we? And there’s a member of each type right here. Putz lives under a dictatorship—an autocracy. Leroy’s a citizen of the Sixth Commune in France.. Harrison and I are Americans, members of a democracy. There you are—autocracy, democracy, communism—the three types of terrestrial societies. Tweel’s people have a different system from any of us.”
+Jarvis glanced in turn at each of the three that faced him. He hesitated. “I wonder how you chaps will take this,” he muttered. “Naturally, everybody likes his own system best.” He frowned. “Look here—on the earth we have three types of society, haven’t we? And there’s a member of each type right here. Putz lives under a dictatorship—an autocracy. Leroy’s a citizen of the Sixth Commune in France. Harrison and I are Americans, members of a democracy. There you are—autocracy, democracy, communism—the three types of terrestrial societies. Tweel’s people have a different system from any of us.”
 
 “Different? What is it?”
 

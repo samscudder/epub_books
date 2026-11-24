@@ -4101,15 +4101,15 @@ We Hogbens are right exclusive. That Perfesser feller from the city might have k
 
 Time we ran off the Haley boys with that shotgun gadget we rigged up—only we never could make out how it worked, somehow—that time, it all started because Rafe Haley come peeking and prying at the shed winder, trying to get a look at Little Sam. Then Rafe went round saying Little Sam had three haids or something.
 
-Can’t believe a word them Haley boys say. Three haids! It ain’t natcheral, is it? Anyhow, Little Sam’s only got two haids, and never had no more since the day he was bom.
+Can’t believe a word them Haley boys say. Three haids! It ain’t natcheral, is it? Anyhow, Little Sam’s only got two haids, and never had no more since the day he was born.
 
 So Maw and I rigged up that shotgun thing and peppered the Haley boys good. Like I said, we couldn’t figger out afterward how it worked. We’d tacked on some dry cells and a lot of coils and wires and stuff and it punched holes in Rafe as neat as anything.
 
-Coroner’s verdict was that the Haley boys died real sudden, and Sheriff Abernathy come up and had a drink of com with us and said for two cents he’d whale the tar outa me. I didn’t pay no mind. Only some damyankee reporter musta got wind of it, because a while later a big, fat, serious-looking man come around and begun to ask questions..
+Coroner’s verdict was that the Haley boys died real sudden, and Sheriff Abernathy come up and had a drink of com with us and said for two cents he’d whale the tar outa me. I didn’t pay no mind. Only some damyankee reporter musta got wind of it, because a while later a big, fat, serious-looking man come around and begun to ask questions.
 
-Uncle Les was sitting on the porch, with his hat over hiss face. “You better get the heck back to your circus, mister,”’
+Uncle Les was sitting on the porch, with his hat over hiss face. “You better get the heck back to your circus, mister,”
 
-he just said. “We had offers from old Bamum hisself and turned ’em down. Ain’t that right, Saunk?”
+he just said. “We had offers from old Barnum hisself and turned ’em down. Ain’t that right, Saunk?”
 
 “Sure is,” I said. “I never trusted Phineas. Called Little Sam a freak, he did.”
 
@@ -4335,7 +4335,7 @@ My, the questions that man asked! It left me dizzy. And all the while he kept ge
 
 I told him what I remembered from Grandpaw’s talk, and the Perfesser got very excited and said something about radioactive emanations, as nearly as I could figger out. It made oncommon bad sense.
 
-“Artificial mutations caused by radioactivity!” he said, getting real pink around the jowls. “Your grandfather was bom a mutant! The genes and chromosomes were rearranged into a new pattern. Why, you may all be supermen!”
+“Artificial mutations caused by radioactivity!” he said, getting real pink around the jowls. “Your grandfather was born a mutant! The genes and chromosomes were rearranged into a new pattern. Why, you may all be supermen!”
 
 “Nope,” I said. “We’re Hogbens. That’s all.”
 
@@ -4971,7 +4971,7 @@ From the radio panel a beam of yellow light shot out, blinding the man. It swung
 
 After a minute or so, the ray clicked out, the tentacles flashed back out of sight and the console returned to its
 
-comer. Kerry staggered weakly to a chair and relaxed, gulping.
+corner. Kerry staggered weakly to a chair and relaxed, gulping.
 
 He was sober. Which was quite impossible. Fourteen brandies infiltrate a definite amount of alcohol into the system. One can’t wave a magic wand and instantly reach a | state of sobriety. Yet that was exactly what had happened.
 
@@ -6237,7 +6237,7 @@ He thought: So what? This is just another voyage. The: fate of the universe does
 
 He watched the screens. He could not see it, but he: knew that it hung beyond the universal whiteness, in a: plane invisible to his eyes. The little sparks of worlds and! suns glowed in its immensity, but never brightened it. Itt was too vast, too implacable. And even the giant suns: would be quenched in its ocean, in the end. As everything: else would be quenched, as everything moved on the tides: of time into that huge darkness.
 
-That was progress. A wave was bom and gathered itself! and grew—and broke. A newer wave was behind it. And: the old one slipped back and was lost forever. A few foam-flecks and bubbles remained, like Ts’ss, remnant ofi the giant wave of the ancient Selenite Empire.
+That was progress. A wave was born and gathered itself! and grew—and broke. A newer wave was behind it. And: the old one slipped back and was lost forever. A few foam-flecks and bubbles remained, like Ts’ss, remnant ofi the giant wave of the ancient Selenite Empire.
 
 The Empire was gone. It had fought and ruled as hundred worlds, in its day. But, in the end, the Big Night: had conquered and swallowed it.
 
@@ -6431,7 +6431,7 @@ Danvers carefully closed the door, testing the broken lock.
 
 “Got to have that fixed,” he murmured. “It isn’t shipshape this way.” He found a brace and stood opposite the mate, his eyes cool and watchful, the strain still showing on his tired face. Hilton reached for a cigarette.
 
-“Next time your tomcat jumps me, I’ll bum a hole through him,” he promised.
+“Next time your tomcat jumps me, I’ll burn a hole through him,” he promised.
 
 “I stationed him here to guard you, in case there was trouble,” Danvers said. “To take care of you if we cracked up or ran into danger. I showed him how to close your helmet and start the oxygen.”
 
@@ -8791,7 +8791,7 @@ The hex hit me—hard.
 
 I sneezed something tumble. Then I heard Uncle Lem sneezing in his sleep, lying back there in the yaller car. Grandpaw was still droning on about how many Pughs was a-coming at me right that minute, so there wasn’t no use asking questions. I fixed my eyes different and looked right down into the middle of that sneeze to see what had tickled me—
 
-Well, you never seen so many Junior Pughs in all your bom days! It was the hex, all right. Likewise, them Pughs is still busy, hexing everybody on earth, off and on. They’ll do it for quite a time, too, since the Pugh line has got to go on forever, account of Grandpaw’s promise.
+Well, you never seen so many Junior Pughs in all your born days! It was the hex, all right. Likewise, them Pughs is still busy, hexing everybody on earth, off and on. They’ll do it for quite a time, too, since the Pugh line has got to go on forever, account of Grandpaw’s promise.
 
 They tell me even the microscopes ain’t never yet got a good look at certain viruses. The scientists are sure in for a surprise someday when they focus down real close and see all them pasty-faced little devils, ugly as sin, with their eyes set real close together, wiggling around hexing everybody in sight.
 
@@ -9579,7 +9579,7 @@ too many debts, so we needed extra dough. And that’s why we rented a room to M
 
 One day he wandered in, paid a deposit; presently he showed up with a huge Gladstone and a square canvas grip with leather handles. He was a creaking little old man with a bristling tonsure of stiff hair and a face like Popeye’s father, only more human. He wasn’t sour; he was just crusty. I had a feeling he’d spent most of his life in furnished rooms, minding his own business and puffing innumerable cigarettes through a long black holder. But he wasn’t one of those lonely old men you could safely feel sorry for—far from it! He wasn’t poor and he was completely self-sufficient. We loved him. I called him grandpa once, in an outburst of affection, and my skin blistered at the resultant remarks.
 
-Some people are bom under lucky stars. Mr. Henchard was like that. He was always finding money in the street. The few times we shot craps or played poker, he made passes and held straights without even trying. No question of sharp dealing—he was just lucky.
+Some people are born under lucky stars. Mr. Henchard was like that. He was always finding money in the street. The few times we shot craps or played poker, he made passes and held straights without even trying. No question of sharp dealing—he was just lucky.
 
 I remember the time we were all going down the long wooden stairway that leads from the cliff-top to the beach. Mr. Henchard kicked at a pretty big rock that was on one of the steps. The stone bounced down a little way, and then went right through one of the treads. The wood was completely rotten. We felt fairly certain that if Mr. Henchard, who was leading, had stepped on that rotten section, the whole thing would have collapsed.
 
@@ -10780,7 +10780,7 @@ The boy swallowed. “It is logic. Once you were convinced that the mutation was
 
 “That’s why I let you study anything you wanted, I suppose?” Locke asked. “With this exception?”
 
-“Yes, it is. A lot of child geniuses work so hard they bum themselves out and lose their mental capacities entirely. You wouldn’t have talked so much about the danger if—under these circumstances—it hadn’t been the one thing paramount in your mind. Sure you gave me my head. And, subconsciously, you were hoping I would bum myself out, so I wouldn’t be a possible rival any more.”
+“Yes, it is. A lot of child geniuses work so hard they bum themselves out and lose their mental capacities entirely. You wouldn’t have talked so much about the danger if—under these circumstances—it hadn’t been the one thing paramount in your mind. Sure you gave me my head. And, subconsciously, you were hoping I would burn myself out, so I wouldn’t be a possible rival any more.”
 
 “I see.”
 
